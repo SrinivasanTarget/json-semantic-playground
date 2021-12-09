@@ -1,0 +1,57 @@
+# Serializing assets/vocabularies/measurement-unit/latest/measurement-unit.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/measurement-unit
+# title: Measurement unit
+# version: 20201216-0
+# description: Measurement unit
+key,url,deprecated,valid_from,country_code,label_en,label_it
+2N,http://publications.europa.eu/resource/authority/measurement-unit/2N,false,1952-07-23,2N,decibel,decibel
+3C,http://publications.europa.eu/resource/authority/measurement-unit/3C,false,1952-07-23,3C,manmonth,uomo-mese
+AD,http://publications.europa.eu/resource/authority/measurement-unit/AD,false,1952-07-23,AD,byte,byte
+AMP,http://publications.europa.eu/resource/authority/measurement-unit/AMP,false,1952-07-23,AMP,ampere,ampère
+BAR,http://publications.europa.eu/resource/authority/measurement-unit/BAR,false,1952-07-23,BAR,bar,bar
+BIT,http://publications.europa.eu/resource/authority/measurement-unit/BIT,false,1952-07-23,BIT,bit,bit
+BQL,http://publications.europa.eu/resource/authority/measurement-unit/BQL,false,1952-07-23,BQL,becquerel,becquerel
+C34,http://publications.europa.eu/resource/authority/measurement-unit/C34,false,1952-07-23,C34,mole,mole
+C45,http://publications.europa.eu/resource/authority/measurement-unit/C45,false,1952-07-23,C45,nanometre,nanometro
+CDL,http://publications.europa.eu/resource/authority/measurement-unit/CDL,false,1952-07-23,CDL,candela,candela
+CEL,http://publications.europa.eu/resource/authority/measurement-unit/CEL,false,1952-07-23,CEL,degree Celsius,grado centigrado
+CMK,http://publications.europa.eu/resource/authority/measurement-unit/CMK,false,1952-07-23,CMK,square centimetre,centimetro quadrato
+CMQ,http://publications.europa.eu/resource/authority/measurement-unit/CMQ,false,1952-07-23,CMQ,cubic centimetre,centimetro cubo
+CMT,http://publications.europa.eu/resource/authority/measurement-unit/CMT,false,1952-07-23,CMT,centimetre,centimetro
+D30,http://publications.europa.eu/resource/authority/measurement-unit/D30,false,1952-07-23,D30,terajoule,terajoule
+E34,http://publications.europa.eu/resource/authority/measurement-unit/E34,false,1952-07-23,E34,gigabyte,gigabyte
+GRM,http://publications.europa.eu/resource/authority/measurement-unit/GRM,false,1952-07-23,GRM,gram,grammo
+GTE,http://publications.europa.eu/resource/authority/measurement-unit/GTE,false,1952-07-23,GTE,gross tonnage,stazza lorda
+GWH,http://publications.europa.eu/resource/authority/measurement-unit/GWH,false,1952-07-23,GWH,gigawatt-hour,gigawattora
+HAR,http://publications.europa.eu/resource/authority/measurement-unit/HAR,false,1952-07-23,HAR,hectare,ettaro
+HLT,http://publications.europa.eu/resource/authority/measurement-unit/HLT,false,1952-07-23,HLT,hectolitre,ettolitro
+HTZ,http://publications.europa.eu/resource/authority/measurement-unit/HTZ,false,1952-07-23,HTZ,hertz,hertz
+HUR,http://publications.europa.eu/resource/authority/measurement-unit/HUR,false,1952-07-23,HUR,hour,ora
+JOU,http://publications.europa.eu/resource/authority/measurement-unit/JOU,false,1952-07-23,JOU,joule,joule
+KEL,http://publications.europa.eu/resource/authority/measurement-unit/KEL,false,1952-07-23,KEL,kelvin,kelvin
+KGM,http://publications.europa.eu/resource/authority/measurement-unit/KGM,false,1952-07-23,KGM,kilogram,chilogrammo
+KMH,http://publications.europa.eu/resource/authority/measurement-unit/KMH,false,1952-07-23,KMH,kilometre per hour,chilometro orario
+KMK,http://publications.europa.eu/resource/authority/measurement-unit/KMK,false,1952-07-23,KMK,square kilometre,chilometro quadrato
+KTM,http://publications.europa.eu/resource/authority/measurement-unit/KTM,false,1952-07-23,KTM,kilometre,chilometro
+KWH,http://publications.europa.eu/resource/authority/measurement-unit/KWH,false,1952-07-23,KWH,kilowatt-hour,chilowattora
+KWT,http://publications.europa.eu/resource/authority/measurement-unit/KWT,false,1952-07-23,KWT,kilowatt,chilowatt
+LH,http://publications.europa.eu/resource/authority/measurement-unit/LH,false,1952-07-23,LH,labour hour,ora lavorativa
+LTR,http://publications.europa.eu/resource/authority/measurement-unit/LTR,false,1952-07-23,LTR,litre,litro
+MAW,http://publications.europa.eu/resource/authority/measurement-unit/MAW,false,1952-07-23,MAW,megawatt,megawatt
+MGM,http://publications.europa.eu/resource/authority/measurement-unit/MGM,false,1952-07-23,MGM,milligram,milligrammo
+MIN,http://publications.europa.eu/resource/authority/measurement-unit/MIN,false,1952-07-23,MIN,minute,minuto
+MLT,http://publications.europa.eu/resource/authority/measurement-unit/MLT,false,1952-07-23,MLT,millilitre,millilitro
+MMT,http://publications.europa.eu/resource/authority/measurement-unit/MMT,false,1952-07-23,MMT,millimetre,millimetro
+MTK,http://publications.europa.eu/resource/authority/measurement-unit/MTK,false,1952-07-23,MTK,square metre,metro quadrato
+MTR,http://publications.europa.eu/resource/authority/measurement-unit/MTR,false,1952-07-23,MTR,metre,metro
+MTS,http://publications.europa.eu/resource/authority/measurement-unit/MTS,false,1952-07-23,MTS,metre per second,metro al secondo
+NEW,http://publications.europa.eu/resource/authority/measurement-unit/NEW,false,1952-07-23,NEW,newton,newton
+OP_DATPRO,http://publications.europa.eu/resource/authority/measurement-unit/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+PAL,http://publications.europa.eu/resource/authority/measurement-unit/PAL,false,1952-07-23,PAL,pascal,pascal
+SEC,http://publications.europa.eu/resource/authority/measurement-unit/SEC,false,1952-07-23,SEC,second,secondo
+TKM,http://publications.europa.eu/resource/authority/measurement-unit/TKM,false,1952-07-23,TKM,tonne-kilometre,tonnellata-chilometro
+TNE,http://publications.europa.eu/resource/authority/measurement-unit/TNE,false,1952-07-23,TNE,tonne,tonnellata
+TOE,http://publications.europa.eu/resource/authority/measurement-unit/TOE,false,1952-07-23,TOE,tonne of oil equivalent,tonnellata equivalente petrolio
+VLT,http://publications.europa.eu/resource/authority/measurement-unit/VLT,false,1952-07-23,VLT,volt,volt
+WTT,http://publications.europa.eu/resource/authority/measurement-unit/WTT,false,1952-07-23,WTT,watt,watt

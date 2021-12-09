@@ -1,0 +1,81 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/customer-service/OP_DATPRO
+- country_code: assistance
+  deprecated: 'false'
+  key: assistance
+  label_en: Assistance for persons with reduced mobility
+  url: http://publications.europa.eu/resource/authority/customer-service/assistance
+  valid_from: '2021-06-16'
+- country_code: cancel
+  deprecated: 'false'
+  key: cancel
+  label_en: Cancellations
+  url: http://publications.europa.eu/resource/authority/customer-service/cancel
+  valid_from: '2021-06-16'
+- country_code: clean
+  deprecated: 'false'
+  key: clean
+  label_en: Cleanliness of rolling stock and station facilities
+  url: http://publications.europa.eu/resource/authority/customer-service/clean
+  valid_from: '2021-06-16'
+- country_code: complaint
+  deprecated: 'false'
+  key: complaint
+  label_en: Complaint handling
+  url: http://publications.europa.eu/resource/authority/customer-service/complaint
+  valid_from: '2021-06-16'
+- country_code: info
+  deprecated: 'false'
+  key: info
+  label_en: Information
+  url: http://publications.europa.eu/resource/authority/customer-service/info
+  valid_from: '2021-06-16'
+- country_code: other
+  deprecated: 'false'
+  key: other
+  label_en: Other
+  url: http://publications.europa.eu/resource/authority/customer-service/other
+  valid_from: '2021-06-16'
+- country_code: reliability
+  deprecated: 'false'
+  key: reliability
+  label_en: Punctuality and reliability
+  url: http://publications.europa.eu/resource/authority/customer-service/reliability
+  valid_from: '2021-06-16'
+- country_code: sat-surv
+  deprecated: 'false'
+  key: sat-surv
+  label_en: Customer satisfaction survey
+  url: http://publications.europa.eu/resource/authority/customer-service/sat-surv
+  valid_from: '2021-06-16'
+- country_code: ticket
+  deprecated: 'false'
+  key: ticket
+  label_en: Ticketing
+  url: http://publications.europa.eu/resource/authority/customer-service/ticket
+  valid_from: '2021-06-16'

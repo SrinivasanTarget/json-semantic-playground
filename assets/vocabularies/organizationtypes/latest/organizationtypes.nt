@@ -1,0 +1,919 @@
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://publications.europa.eu/ontology/authority/authority-code> "DEL" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valdymo direktoratas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "F\u00F6rvaltande direktorat"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://publications.europa.eu/resource/authority/op-code> "SEC_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odd\u011Blen\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grupp"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Office"@en .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agence ou organe d\u2019Euratom"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u043B\u0443\u0436\u0431\u0430 \u043D\u0430 \u0437\u0430\u043C\u0435\u0441\u0442\u043D\u0438\u043A \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u0435\u043D \u0434\u0438\u0440\u0435\u043A\u0442\u043E\u0440"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B1\u03B3\u03CC\u03BC\u03B5\u03BD\u03BF \u03C3\u03B5 \u0393\u03B5\u03BD\u03B9\u03BA\u03AE \u0394\u03B9\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odjel"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://purl.org/dc/elements/1.1/identifier> "DEL" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#altLabel> "Service de la secr\u00E9taire g\u00E9n\u00E9rale adjointe"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://publications.europa.eu/ontology/authority/op-code> "OFFICE" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159i\u010Dlen\u011Bno k \u0159editelstv\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0418\u0437\u043F\u044A\u043B\u043D\u0438\u0442\u0435\u043B\u043D\u0430 \u0430\u0433\u0435\u043D\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://publications.europa.eu/ontology/authority/authority-code> "AGENCY_DEC" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00FDkonn\u00E1 agentura"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u043F\u0435\u0440\u0430\u0442\u0438\u0432\u043D\u0430 \u0433\u0440\u0443\u043F\u0430"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0101rvaldes direktor\u0101ts"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution"@da .
+<http://publications.europa.eu/resource/authority/organization-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizz ta\u2019 deputat segretarju \u0121enerali"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://publications.europa.eu/resource/authority/op-code> "DIR_MAN" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencja"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instytucja"@pl .
+<http://publications.europa.eu/resource/authority/organization-type> <http://www.w3.org/2002/07/owl#versionInfo> "20210929-0" .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Departamento"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przy\u0142\u0105czony do dyrekcji"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktorat"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba namestnika generalnega direktorja"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03BA\u03C4\u03B5\u03BB\u03B5\u03C3\u03C4\u03B9\u03BA\u03CC\u03C2 \u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://purl.org/dc/elements/1.1/identifier> "AGENCY_DEC" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C4\u03B7\u03C2 \u03BA\u03BF\u03B9\u03BD\u03AE\u03C2 \u03B5\u03BE\u03C9\u03C4\u03B5\u03C1\u03B9\u03BA\u03AE\u03C2 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE\u03C2 \u03BA\u03B1\u03B9 \u03C0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AE\u03C2 \u03B1\u03C3\u03C6\u03AC\u03BB\u03B5\u03B9\u03B1\u03C2"@el .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ryhm\u00E4"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAsek"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DCksus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vykdomoji \u012Fstaiga"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agent\u00FAra pre spolo\u010Dn\u00FA zahrani\u010Dn\u00FA a bezpe\u010Dnostn\u00FA politiku"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toimisto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizz"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osakond"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rattach\u00E9 \u00E0 une direction"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienests, kas pak\u013Cauts \u0123ener\u0101ldirektora vietniekam"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servicio"@es .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://publications.europa.eu/ontology/authority/op-code> "TEAM" .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://publications.europa.eu/ontology/authority/authority-code> "SERV" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institutsiooni alluvuses"@et .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Referat"@de .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalsekretariatet"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratom a\u0123ent\u016Bra vai strukt\u016Bra"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servicio del director general adjunto"@es .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043E"@bg .
+<http://publications.europa.eu/resource/authority/organization-type> <http://publications.europa.eu/ontology/authority/table.id> "organization-type" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gener\u00E1lne riadite\u013Estvo"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0410\u0433\u0435\u043D\u0446\u0438\u044F \u043F\u043E \u0432\u044A\u043D\u0448\u043D\u0430 \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u0438 \u043E\u0431\u0449\u0430 \u0441\u0438\u0433\u0443\u0440\u043D\u043E\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://publications.europa.eu/ontology/authority/authority-code> "REPRES" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://purl.org/dc/elements/1.1/identifier> "SERV" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://publications.europa.eu/resource/authority/op-code> "AGENCY_EURATOM" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direzione gestionale"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ard-Sti\u00FArth\u00F3ireacht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pridru\u017Een instituciji"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://publications.europa.eu/ontology/authority/authority-code> "INSTIT" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generaldirektorat"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://purl.org/dc/elements/1.1/identifier> "DIR_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektor"@et .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegation"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secr\u00E9tariat g\u00E9n\u00E9ral"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1 \u03C4\u03BF\u03C5 \u0391\u03BD\u03B1\u03C0\u03BB\u03B7\u03C1\u03C9\u03C4\u03AE \u0393\u03B5\u03BD\u03B9\u03BA\u03BF\u03CD \u0393\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03AD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zesp\u00F3\u0142"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dyrekcja generalna"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencija ali organ Euratom"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentschap"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gener\u00E1ln\u00ED \u0159editelstv\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://publications.europa.eu/ontology/authority/authority-code> "DIVISION" .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://publications.europa.eu/ontology/authority/start.use> "1951-04-18" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://publications.europa.eu/ontology/authority/op-code> "INSTIT_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://publications.europa.eu/resource/authority/op-code> "TEAM" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://publications.europa.eu/ontology/authority/authority-code> "DIR_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service of deputy secretary general"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0413\u0435\u043D\u0435\u0440\u0430\u043B\u0435\u043D \u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440\u0438\u0430\u0442"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Team"@en .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agen\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://publications.europa.eu/ontology/authority/authority-code> "SECTOR" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceangailte leis an institi\u00FAid"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0432\u0430\u0449\u0430 \u0434\u0438\u0440\u0435\u043A\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://purl.org/dc/elements/1.1/identifier> "DIVISION" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gabinetto"@it .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secretariado-Geral"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://publications.europa.eu/resource/authority/op-code> "SEC_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knuten till ett direktorat"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0393\u03B5\u03BD\u03B9\u03BA\u03AE \u0393\u03C1\u03B1\u03BC\u03BC\u03B1\u03C4\u03B5\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektion"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencja lub organ Euratomu"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Byr\u00E5"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://purl.org/dc/elements/1.1/identifier> "SECTOR" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tascfh\u00F3rsa"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direc\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://publications.europa.eu/ontology/authority/op-code> "INSTIT" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institucija"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabinet"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0435\u043B\u0435\u0433\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equipe"@it .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Serviciu pe l\u00E2ng\u0103 Directorul general adjunct"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u043B\u0443\u0436\u0431\u0430"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1 \u03C4\u03BF\u03C5 \u0391\u03BD\u03B1\u03C0\u03BB\u03B7\u03C1\u03C9\u03C4\u03AE \u0393\u03B5\u03BD\u03B9\u03BA\u03BF\u03CD \u0394\u03B9\u03B5\u03C5\u03B8\u03C5\u03BD\u03C4\u03AE"@el .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektor"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spolo\u010Dnos\u0165"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sti\u00FArth\u00F3ireacht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://publications.europa.eu/resource/authority/op-code> "OFFICE" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tjeneste tilknyttet vicegeneralsekret\u00E6ren"@da .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tim"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://publications.europa.eu/ontology/authority/start.use> "1900-01-01" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://publications.europa.eu/ontology/authority/op-code> "TSK_FRC" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skyrius"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hold"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenzia decentrata"@it .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://publications.europa.eu/ontology/authority/authority-code> "AGENCY_CFSP" .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yhti\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hallinto-osasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Int\u00E9zm\u00E9nyhez kapcsol\u00F3d\u00F3 szervezeti egys\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Attached to the institution"@en .
+<http://publications.europa.eu/resource/authority/organization-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Organization type"@en .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabinet"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://purl.org/dc/elements/1.1/identifier> "REPRES" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izvajalska agencija"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencja w ramach wsp\u00F3lnej polityki zagranicznej i bezpiecze\u0144stwa"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://purl.org/dc/elements/1.1/identifier> "AGENCY_CFSP" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "EAD-Direktion"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://publications.europa.eu/ontology/authority/op-code> "DIR_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Department"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gener\u00E1ln\u00ED sekretari\u00E1t"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odbor"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienests, kas pak\u013Cauts \u0123ener\u0101lsekret\u0101ra vietniekam"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amet"@et .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tilknyttet institutionen"@da .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Serviciu pe l\u00E2ng\u0103 Secretarul general adjunct"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Oifig"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Settore"@it .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istituzzjoni"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinets"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direttorat Mani\u0121erjali"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenzia esecutiva"@it .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabinet"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienests"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentura"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://purl.org/dc/elements/1.1/identifier> "DIR_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://publications.europa.eu/resource/authority/op-code> "TSK_FRC" .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urz\u0105d"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00E9pviselet"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Egys\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Selskab"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0438\u0440\u0435\u043A\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://publications.europa.eu/ontology/authority/op-code> "DIVISION" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://publications.europa.eu/resource/authority/op-code> "INSTIT_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Darba grupa"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Byr\u00E5n"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noda\u013Ca"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencija"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00E9grehajt\u00F3 \u00FCgyn\u00F6ks\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociedade"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deleg\u0101cija"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direc\u021Bie general\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezentrale Agentur"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://publications.europa.eu/resource/authority/op-code> "DIR_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biuras"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "An tSeirbh\u00EDs"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gabinet"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencija za skupno zunanjo in varnostno politiko"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0410\u0433\u0435\u043D\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://publications.europa.eu/ontology/authority/start.use> "1958-12-06" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0435\u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afdeling"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektorius"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Szolg\u00E1lat"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencia ejecutiva"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dire\u00E7\u00E3o-Geral"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba namestnika generalnega sekretarja"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servi\u00E7os do Diretor-Geral adjunto"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dependiente de la instituci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralt agentur"@da .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Attached to a Directorate-General"@en .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przedstawicielstwo"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konness ma\u2019 Direttorat-\u0120enerali"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abteilung"@de .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0393\u03C1\u03B1\u03C6\u03B5\u03AF\u03BF"@el .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gabinete"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unit\u00E0"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istituzione"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03BD\u03C4\u03B9\u03C0\u03C1\u03BF\u03C3\u03C9\u03C0\u03B5\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenzia"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#altLabel> "Przy\u0142\u0105czona do dyrekcji"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tj\u00E4nst knuten till bitr\u00E4dande generaldirekt\u00F6r"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piesaist\u012Bts direktor\u0101tam"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://publications.europa.eu/resource/authority/op-code> "INSTIT" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Representationen"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grupa"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einer Generaldirektion angeschlossen"@de .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unidade"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://publications.europa.eu/ontology/authority/op-code> "AGENCY_CFSP" .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Departamentul"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratom agency or body"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Id-Delegazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegacija"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://publications.europa.eu/ontology/authority/authority-code> "CAB" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://publications.europa.eu/ontology/authority/authority-code> "DIR_GEN_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Divi\u017Cjoni"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Projektna skupina"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B1\u03B3\u03CC\u03BC\u03B5\u03BD\u03BF \u03C3\u03B5 \u0394\u03B9\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0393\u03B5\u03BD\u03B9\u03BA\u03AE \u0394\u03B9\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6z\u00F6s k\u00FCl- \u00E9s biztons\u00E1gpolitikai \u00FCgyn\u00F6ks\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peadirektoraat"@et .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secretariaat-generaal"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktorat"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institu\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratom-Agentur oder -Einrichtung"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odjel"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenzia o organo Euratom"@it .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00FDkonn\u00E9 \u0159editelstv\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Divizia"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ured"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predstavni\u0161tvo"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avdelning"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralizovan\u00E1 agent\u00FAra"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://purl.org/dc/elements/1.1/identifier> "CAB" .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegatie"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratom-agentschap of -orgaan"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uitvoerend Agentschap"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegatsioon"@et .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://publications.europa.eu/ontology/authority/authority-code> "AGENCY_EXE" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktoraat"@et .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektor"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u043B\u0443\u0436\u0431\u0430"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agen\u0163ia de politic\u0103 extern\u0103 \u015Fi de securitate comun\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://publications.europa.eu/ontology/authority/start.use> "1975-02-10" .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vennootschap"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grupo de trabajo"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oddelenie"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://publications.europa.eu/ontology/authority/op-code> "AGENCY" .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://publications.europa.eu/ontology/authority/authority-code> "DEP" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biuro zast\u0119pcy dyrektora generalnego"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Directoraat"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peadirektoraadi alluvuses"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DCgyvezet\u0151 igazgat\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencia"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#altLabel> "Service de la directrice g\u00E9n\u00E9rale adjointe"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dyrekcja zarz\u0105dzaj\u0105ca"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7 \u0394\u03B9\u03B1\u03C7\u03B5\u03AF\u03C1\u03B9\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rattach\u00E9 \u00E0 l\u2019institution"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meeskond"@et .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service of deputy director-general"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://publications.europa.eu/resource/authority/op-code> "DIVISION" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zast\u00FApenie"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rann\u00F3g"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knuten till institutionen"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "L-Uffi\u010B\u010Bju"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://publications.europa.eu/ontology/authority/op-code> "AGENCY_EXE" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Int\u00E9zm\u00E9ny"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rattach\u00E9 \u00E0 une direction g\u00E9n\u00E9rale"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentschap voor gemeenschappelijk buitenlands en veiligheidsbeleid"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Der Institution angeschlossen"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceangailte le hArd-Sti\u00FArth\u00F3ireacht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pe l\u00E2ng\u0103 institu\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ir-Rappre\u017Centazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Directorate"@en .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentraliz\u00E1lt \u00FCgyn\u00F6ks\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://publications.europa.eu/resource/authority/op-code> "AGENCY" .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unidad"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abteilung"@de .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secretariat general"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizio del Segretario generale aggiunto"@it .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unit\u00E0"@it .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencija za zajedni\u010Dku vanjsku i sigurnosnu politiku"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://purl.org/dc/elements/1.1/identifier> "DIR_GEN_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agent\u00FAra alebo org\u00E1n Euratomu"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delega\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Repr\u00E6sentationen"@da .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Office"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Representation"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neposredno povezan z generalnim direktoratom"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grupa zadaniowa"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radna skupina"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agen\u021Bie Executiv\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oddelenie"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C4ri\u00FChing"@et .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kop\u0113j\u0101s \u0101rpolitikas un dro\u0161\u012Bbas politikas a\u0123ent\u016Bra"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralizirana agencija"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#narrower> <http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://publications.europa.eu/ontology/authority/op-code> "DEL" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unit"@en .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Na depend\u00EAncia da institui\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Departamentas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratomo agent\u016Bra ar organas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20210929-0" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haldav direktoraat"@et .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A4\u03BC\u03AE\u03BC\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knuten till ett generaldirektorat"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delega\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gener\u00E1lny sekretari\u00E1t"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Departamento"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einer Direktion angeschlossen"@de .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://purl.org/dc/elements/1.1/identifier> "DEP" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAtvar z\u00E1stupcu gener\u00E1lneho tajomn\u00EDka"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Na depend\u00EAncia de uma Dire\u00E7\u00E3o-Geral"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://purl.org/dc/elements/1.1/identifier> "COMPANY" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#altLabel> "Dienst der stellvertretenden Generalsekret\u00E4rin"@de .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://publications.europa.eu/ontology/authority/op-code> "AGENCY_DEC" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sti\u00FArth\u00F3ireacht a bhainisti\u00FA"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dire\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://publications.europa.eu/ontology/authority/authority-code> "DIR_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektors"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst van een adjunct-secretaris-generaal"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seirbh\u00EDs an Leas-Ardr\u00FAna\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dependiente de una Direcci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://publications.europa.eu/ontology/authority/start.use> "2003-12-23" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0442\u0434\u0435\u043B"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osakond"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktorat"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forvaltningsorganet"@da .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalsekretariat"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dzia\u0142"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://purl.org/dc/elements/1.1/identifier> "DIR_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentur f\u00FCr die Gemeinsame Au\u00DFen- und Sicherheitspolitik"@de .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konness mal-istituzzjoni"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizz ta\u2019 deputat direttur \u0121enerali"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dru\u0161tvo"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://publications.europa.eu/ontology/authority/start.use> "2002-01-01" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gabinete"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencia descentralizada"@es .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinett"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0101rst\u0101vniec\u012Bba"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociedad"@es .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "In\u0161tit\u00FAcia"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://publications.europa.eu/ontology/authority/authority-code> "UNIT" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taskforce"@da .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00FDm"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urad"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuideachta"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencia de pol\u00EDtica exterior y de seguridad com\u00FAn"@es .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service du secr\u00E9taire g\u00E9n\u00E9ral adjoint"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pe l\u00E2ng\u0103 o Direc\u021Bie General\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#altLabel> "Dienst der stellvertretenden Generaldirektorin"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAtvar z\u00E1stupce gener\u00E1ln\u00EDho \u0159editele"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://purl.org/dc/elements/1.1/identifier> "UNIT" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://publications.europa.eu/ontology/authority/start.use> "1975-02-10" .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pe l\u00E2ng\u0103 o Direc\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Munkacsoport"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Byr\u00E5n f\u00F6r gemensam utrikes- och s\u00E4kerhetspolitik"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DCgyn\u00F6ks\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forvaltningsdirektorat"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dependiente de una Direcci\u00F3n General"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izaslanstvo"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tj\u00E4nst knuten till bitr\u00E4dande generalsekreterare"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ag\u00EAncia Executiva"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upravni direktorat"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://publications.europa.eu/resource/authority/op-code> "AGENCY_EXE" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Repr\u00E9sentation"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agen\u021Bie descentralizat\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Division"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seirbh\u00EDs an Leas-Ardsti\u00FArth\u00F3ra"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amet"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "F\u0151igazgat\u00F3s\u00E1ghoz kapcsol\u00F3d\u00F3 szervezeti egys\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Representaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Managing directorate"@en .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zastoupen\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izpilda\u0123ent\u016Bra"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#narrower> <http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralizirana agencija"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbetsgrupp"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratom-\u00FCgyn\u00F6ks\u00E9g vagy -szerv"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DChise v\u00E4lis- ja julgeolekupoliitika agentuur"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Divis\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9szleg"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dipartimento"@it .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Settur"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servi\u00E7os do Secret\u00E1rio-Geral adjunto"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agence de la politique \u00E9trang\u00E8re et de s\u00E9curit\u00E9 commune"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ag\u00EAncia ou \u00F3rg\u00E3o Euratom"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pripojen\u00E9 ku gener\u00E1lnemu riadite\u013Estvu"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afdeling"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#broader> <http://publications.europa.eu/resource/authority/organization-type/AGENCY> .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://publications.europa.eu/ontology/authority/op-code> "SECTOR" .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://publications.europa.eu/ontology/authority/op-code> "SERV" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esindus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detsentraliseeritud asutus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Priskirta direktoratui"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinetas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A4\u03BC\u03AE\u03BC\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oddelek"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taskforce"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://publications.europa.eu/resource/authority/op-code> "DEL" .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektor"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Attached to a Directorate"@en .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piesaist\u012Bts iest\u0101dei"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Serviciu"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direction g\u00E9n\u00E9rale"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAtvar z\u00E1stupcu gener\u00E1lneho riadite\u013Ea"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "F\u0151igazgat\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://publications.europa.eu/ontology/authority/authority-code> "DIR_MAN" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03BA\u03C0\u03C1\u03BF\u03C3\u03CE\u03C0\u03B7\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enhet"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Toscaireacht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "A\u0123ent\u016Bra"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tim"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbonden aan de instelling"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentur i tilknytning til den f\u00E6lles udenrigs- og sikkerhedspolitik"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yhteiseen ulko- ja turvallisuuspolitiikkaan liittyv\u00E4 virasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direcci\u00F3n general"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ag\u00EAncia da Pol\u00EDtica Externa e de Seguran\u00E7a Comum"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linjan alaisena toimiva"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizio del direttore generale aggiunto"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://purl.org/dc/elements/1.1/identifier> "DIR_MAN" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://publications.europa.eu/ontology/authority/op-code> "REPRES" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grup operativ"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://publications.europa.eu/resource/authority/op-code> "AGENCY_DEC" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agence ex\u00E9cutive"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E4\u00E4osaston alaisena toimiva"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbonden aan een directoraat-generaal"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://publications.europa.eu/ontology/authority/authority-code> "SEC_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0122ener\u0101lsekretari\u0101ts"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u0441\u0442\u0432\u043E"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neposredno povezan z direktoratom"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servicio del secretario general adjunto"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Che dipende da una direzione generale"@it .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reprezentan\u021B\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servi\u00E7o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0415\u043A\u0438\u043F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9l\u00E9gation"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gener\u00E1lne riadite\u013Estvo"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://publications.europa.eu/ontology/authority/op-code> "UNIT" .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instituci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apulaisp\u00E4\u00E4sihteerin alainen yksikk\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalni direktorat"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://purl.org/dc/elements/1.1/identifier> "SEC_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Common foreign and security policy agency"@en .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bureau"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAsek"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://publications.europa.eu/ontology/authority/op-code> "DIR_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Che dipende dall'istituzione"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pridru\u017Een Upravi"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eenheid"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalni sekretariat"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://purl.org/dc/elements/1.1/identifier> "AGENCY_EURATOM" .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Company"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u0438\u043A\u0440\u0435\u043F\u0435\u043D\u0430 \u043A\u044A\u043C \u0434\u0438\u0440\u0435\u043A\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Priskirta institucijai"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agen\u021Bia sau organismul a Euratom"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://publications.europa.eu/resource/authority/op-code> "REPRES" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dyrekcja"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direttorat \u0120enerali"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://publications.europa.eu/ontology/authority/authority-code> "TEAM" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00EDomhaireacht n\u00F3 comhlacht de chuid Euratom"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Secretariat"@en .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "A\u0121enzija"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agent\u00FAra"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegationen"@da .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edustusto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Divisione"@it .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przy\u0142\u0105czony do instytucji"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tjeneste"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentraliz\u0113ta a\u0123ent\u016Bra"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Team"@de .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Societ\u00E0"@it .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servizio"@it .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ag\u00EAncia"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Task force"@it .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foireann"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toimielimen alaisena toimiva"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03BC\u03AC\u03B4\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odsjek"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direcci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odd\u011Blen\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://purl.org/dc/elements/1.1/identifier> "SEC_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://publications.europa.eu/resource/authority/op-code> "DIR_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sp\u00F3\u0142ka"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institutioon"@et .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sekretariat generalny"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direttorat"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0435\u043A\u0442\u043E\u0440"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skupina"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://publications.europa.eu/resource/authority/op-code> "SERV" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Task Force"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Igazgat\u00F3s\u00E1ghoz kapcsol\u00F3d\u00F3 szervezeti egys\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegazione"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E4\u00E4osasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#broader> <http://publications.europa.eu/resource/authority/organization-type/AGENCY> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exekutivagentur"@de .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Segretarjat \u0120enerali"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taskforce"@de .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst"@de .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Ionada\u00EDocht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biuro zast\u0119pcy sekretarza generalnego"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dipartiment"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oficina"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://publications.europa.eu/ontology/authority/authority-code> "DIR" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pripojen\u00E9 k in\u0161tit\u00FAcii"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tjeneste tilknyttet vicegeneraldirekt\u00F8ren"@da .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rakker\u00FChm"@et .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#altLabel> "Rattach\u00E9e \u00E0 l\u2019institution"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#broader> <http://publications.europa.eu/resource/authority/organization-type/AGENCY> .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst van een adjunct-directeur-generaal"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinett"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Representation"@de .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://publications.europa.eu/ontology/authority/op-code> "CAB" .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edustusto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institui\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0435\u0446\u0435\u043D\u0442\u0440\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0430 \u0430\u0433\u0435\u043D\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://publications.europa.eu/ontology/authority/start.use> "1998-01-21" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echip\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soci\u00E9t\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yksikk\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "F\u0151titk\u00E1rs\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://purl.org/dc/elements/1.1/identifier> "TEAM" .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://publications.europa.eu/resource/authority/op-code> "UNIT" .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://publications.europa.eu/resource/authority/op-code> "SECTOR" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratomagentur eller -organ"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://publications.europa.eu/ontology/authority/authority-code> "OFFICE" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#altLabel> "Rattach\u00E9e \u00E0 une direction g\u00E9n\u00E9rale"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalinis direktoratas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://publications.europa.eu/ontology/authority/authority-code> "INSTIT_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institucija"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asepeasekret\u00E4ri talitus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinett"@de .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03C0\u03BF\u03BA\u03B5\u03BD\u03C4\u03C1\u03C9\u03BC\u03AD\u03BD\u03BF\u03C2 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://purl.org/dc/elements/1.1/identifier> "OFFICE" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oficiu"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Priskirta generaliniam direktoratui"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9szleg"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tilknyttet et direktorat"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agency"@en .
+<http://publications.europa.eu/resource/authority/organization-type> <http://www.w3.org/2000/01/rdf-schema#label> "Organization type"@en .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vertegenwoordiging"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direc\u021Bia executiv\u0103"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pripojen\u00E9 k riadite\u013Estvu"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159i\u010Dlen\u011Bno k org\u00E1nu"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "L-A\u0121enzija E\u017Cekuttiva"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aonad"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencija"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://publications.europa.eu/resource/authority/op-code> "AGENCY_CFSP" .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servi\u00E7o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://publications.europa.eu/ontology/authority/authority-code> "COMPANY" .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atstovyb\u0117"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Setor"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#broader> <http://publications.europa.eu/resource/authority/organization-type/AGENCY> .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spole\u010Dnost"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konness ma\u2019 Direttorat"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unitate"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abteilung"@de .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAtvar z\u00E1stupce gener\u00E1ln\u00EDho tajemn\u00EDka"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://publications.europa.eu/ontology/authority/op-code> "DIR_GEN_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencija ili tijelo Euratoma"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://purl.org/dc/elements/1.1/identifier> "DIR" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba zamjenika glavnog direktora"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institucija"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zastupni\u0161tvo"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaos"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uprava"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glavno tajni\u0161tvo"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u0438\u043A\u0440\u0435\u043F\u0435\u043D\u0430 \u043A\u044A\u043C \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u043D\u0430 \u0434\u0438\u0440\u0435\u043A\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skyrius"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Darbo grup\u0117"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u038C\u03C1\u03B3\u03B1\u03BD\u03BF"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbonden aan een directoraat"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Divisi\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secretar\u00EDa general"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencia u organismo de Euratom"@es .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groupe d\u2019experts"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://purl.org/dc/elements/1.1/identifier> "TSK_FRC" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toimeenpanovirasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://publications.europa.eu/ontology/authority/op-code> "DEP" .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontor"@da .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0410\u0433\u0435\u043D\u0446\u0438\u044F \u0438\u043B\u0438 \u043E\u0440\u0433\u0430\u043D \u043D\u0430 \u0415\u0432\u0440\u0430\u0442\u043E\u043C"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dru\u017Eba"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cabinet"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agent\u016Bra"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratomin virasto tai elin"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://purl.org/dc/elements/1.1/identifier> "INSTIT_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://publications.europa.eu/resource/authority/op-code> "DIR_GEN_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://publications.europa.eu/resource/authority/op-code> "CAB" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u0438\u043A\u0440\u0435\u043F\u0435\u043D\u0430 \u043A\u044A\u043C \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u044F\u0442\u0430"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DA\u0159ad"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00EDomhaireacht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dire\u00E7\u00E3o de Gest\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9partement"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Team"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalinio sekretoriaus pavaduotojo tarnyba"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gedecentraliseerd agentschap"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Departament"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E4\u00E4sihteerist\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "A\u0121enzija jew Korp tal-Euratom"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0418\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generaldirektion"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0413\u0435\u043D\u0435\u0440\u0430\u043B\u043D\u0430 \u0434\u0438\u0440\u0435\u043A\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentraliserad byr\u00E5"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "A f\u0151igazgat\u00F3-helyettes munk\u00E1j\u00E1t seg\u00EDt\u0151 szolg\u00E1lat"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Org\u00E1n"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalsekretariat"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Task Force"@en .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalinio direktoriaus pavaduotojo tarnyba"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://purl.org/dc/elements/1.1/identifier> "INSTIT" .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sector"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Segretariato generale"@it .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03AE \u03CC\u03C1\u03B3\u03B1\u03BD\u03BF \u03C4\u03B7\u03C2 \u0395\u03C5\u03C1\u03B1\u03C4\u03CC\u03BC"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ty\u00F6ryhm\u00E4"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Departaments"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktoraadi alluvuses"@et .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direzione generale"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Earn\u00E1il"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041A\u0430\u0431\u0438\u043D\u0435\u0442"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://publications.europa.eu/resource/authority/op-code> "DEP" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noda\u013Ca"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratoms byr\u00E5 eller organ"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rukovode\u0107a uprava"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ekipa"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "A\u0121enzija de\u010Bentralizzata"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralizuota agent\u016Bra"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neposredno povezan z institucijo"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Societate"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bendrov\u0117"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://publications.europa.eu/ontology/authority/op-code> "COMPANY" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://publications.europa.eu/ontology/authority/op-code> "DIR" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equipo"@es .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ceangailte le Sti\u00FArth\u00F3ireacht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pracovn\u00ED skupina"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deleg\u00E1cia"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentura spole\u010Dn\u00E9 zahrani\u010Dn\u00ED a bezpe\u010Dnostn\u00ED politiky"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://publications.europa.eu/ontology/authority/authority-code> "AGENCY" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencja Wykonawcza"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riadite\u013Estvo"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralizovan\u00E1 agentura"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Division"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarnyba"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agence"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0158editelstv\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0122ener\u0101ldirektor\u0101ts"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oddelek"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rappresentanza"@it .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://publications.europa.eu/ontology/authority/op-code> "DIR_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktion"@de .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unit\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agentur"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przy\u0142\u0105czony do dyrekcji generalnej"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://publications.europa.eu/ontology/authority/start.use> "1952-09-09" .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03B9\u03B4\u03B9\u03BA\u03AE \u03BF\u03BC\u03AC\u03B4\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dzia\u0142"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afdeling"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Executive Agency"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#altLabel> "Przy\u0142\u0105czona do dyrekcji generalnej"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenturet"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A4\u03BC\u03AE\u03BC\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://publications.europa.eu/ontology/authority/start.use> "1957-03-25" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Varap\u00E4\u00E4johtajan alainen yksikk\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "A f\u0151titk\u00E1rhelyettes munk\u00E1j\u00E1t seg\u00EDt\u0151 szolg\u00E1lat"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bolag"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://publications.europa.eu/ontology/authority/start.use> "1960-01-01" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://publications.europa.eu/resource/authority/op-code> "DIR" .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst des stellvertretenden Generaldirektors"@de .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direction"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/REPRES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Representa\u00E7\u00F5es"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://publications.europa.eu/ontology/authority/authority-code> "AGENCY_EURATOM" .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DArad"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0142u\u017Cba"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grupo de Trabalho"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegacija"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ufficio"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oszt\u00E1ly"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontoret"@da .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://publications.europa.eu/ontology/authority/op-code> "DIR_MAN" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03B1\u03B3\u03CC\u03BC\u03B5\u03BD\u03BF \u03C3\u03C4\u03BF \u03B8\u03B5\u03C3\u03BC\u03B9\u03BA\u03CC \u03CC\u03C1\u03B3\u03B1\u03BD\u03BF"@el .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afdeling"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00FDkonn\u00E1 agent\u00FAra"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039C\u03BF\u03BD\u03AC\u03B4\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izvr\u0161na agencija"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00FCld\u00F6tts\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Directoraat-generaal"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Igazgat\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service du directeur g\u00E9n\u00E9ral adjoint"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u043B\u0443\u0436\u0431\u0430 \u043D\u0430 \u0437\u0430\u043C\u0435\u0441\u0442\u043D\u0438\u043A \u0433\u0435\u043D\u0435\u0440\u0430\u043B\u0435\u043D \u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegacja"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kumpanija"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hajautettu virasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pridru\u017Een Glavnoj upravi"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinet"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://publications.europa.eu/ontology/authority/op-code> "SEC_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equipa"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://publications.europa.eu/ontology/authority/authority-code> "SEC_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://purl.org/dc/elements/1.1/identifier> "AGENCY" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ag\u00EAncia descentralizada"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peadirektori aset\u00E4itja talitus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktor\u0101ts"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pracovn\u00E1 skupina"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euratomi amet v\u00F5i asutus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegation"@de .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00EDomhaireacht dh\u00EDl\u00E1raithe"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sabiedr\u012Bba"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Ghn\u00EDomhaireacht Feidhmi\u00FAch\u00E1in"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Org\u00E1n nebo agentura Euratomu"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direcci\u00F3n ejecutiva"@es .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "A\u0121enzija tal-politika barranija u tas-sigurt\u00E0 komuni"@mt .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rakendusamet"@et .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agence d\u00E9centralis\u00E9e"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159i\u010Dlen\u011Bno ke gener\u00E1ln\u00EDmu \u0159editelstv\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agencja zdecentralizowana"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beherend directoraat"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sector"@es .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03C4\u03B1\u03B9\u03C1\u03B5\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roinn"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institi\u00FAid"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direzione"@it .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peasekretariaat"@et .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://publications.europa.eu/resource/authority/op-code> "COMPANY" .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesellschaft"@de .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grup\u0117"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avdelning"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/COMPANY> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E1rsas\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amt"@de .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tilknyttet et generaldirektorat"@da .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00EDomhaireacht um chomhbheartas seachtrach agus sl\u00E1nd\u00E1la"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03B5\u03CD\u03B8\u03C5\u03BD\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Directorate-General"@en .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sektor"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/UNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enota"@sl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glavna uprava"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direktoratas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sector"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ardr\u00FAna\u00EDocht"@ga .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bendra u\u017Esienio ir saugumo politikos agent\u016Bra"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://publications.europa.eu/resource/authority/op-code> "DIR_ATT" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instelling"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegationen"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oddelenie"@sk .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sector"@ro .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://publications.europa.eu/ontology/authority/op-code> "SEC_GEN_DPT" .
+<http://publications.europa.eu/resource/authority/organization-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organization type"@en .
+<http://publications.europa.eu/resource/authority/organization-type/DIR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osasto"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genomf\u00F6randeorganet"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direction g\u00E9n\u00E9rale"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/SECTOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secteur"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#narrower> <http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Talitus"@et .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Birojs"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienst des stellvertretenden Generalsekret\u00E4rs"@de .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM> <http://publications.europa.eu/ontology/authority/op-code> "AGENCY_EURATOM" .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Csoport"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT> <http://www.w3.org/2004/02/skos/core#altLabel> "Przy\u0142\u0105czona do instytucji"@pl .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piesaist\u012Bts \u0123ener\u0101ldirektor\u0101tam"@lv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Che dipende da una direzione"@it .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Na depend\u00EAncia de uma Dire\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/organization-type/OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hivatal"@hu .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#altLabel> "Rattach\u00E9e \u00E0 une direction"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generalinis sekretoriatas"@lt .
+<http://publications.europa.eu/resource/authority/organization-type/TSK_FRC> <http://publications.europa.eu/ontology/authority/authority-code> "TSK_FRC" .
+<http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/organization-type/TEAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9quipe"@fr .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_MAN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/DEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delegace"@cs .
+<http://publications.europa.eu/resource/authority/organization-type/DEP> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/organization-type/CAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kabinetti"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toimielin"@fi .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_ATT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/organization-type> .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decentralised agency"@en .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenzia per la politica estera e di sicurezza comune"@it .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Eba zamjenika glavnog tajnika"@hr .
+<http://publications.europa.eu/resource/authority/organization-type/SEC_GEN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE> <http://purl.org/dc/elements/1.1/identifier> "AGENCY_EXE" .
+<http://publications.europa.eu/resource/authority/organization-type/AGENCY> <http://www.w3.org/2004/02/skos/core#narrower> <http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP> .
+<http://publications.europa.eu/resource/authority/organization-type/DIVISION> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0442\u0434\u0435\u043B"@bg .
+<http://publications.europa.eu/resource/authority/organization-type/SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tj\u00E4nsten"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generaldirektorat"@sv .
+<http://publications.europa.eu/resource/authority/organization-type/DIR_GEN> <http://publications.europa.eu/ontology/authority/authority-code> "DIR_GEN" .
+<http://publications.europa.eu/resource/authority/organization-type/INSTIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organ"@de .
+

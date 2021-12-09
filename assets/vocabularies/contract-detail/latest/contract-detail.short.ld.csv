@@ -1,0 +1,14 @@
+# Serializing assets/vocabularies/contract-detail/latest/contract-detail.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/contract-detail
+# title: Contract detail
+# version: 20210929-0
+# description: Contract detail
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/contract-detail/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+all-rev-tic,http://publications.europa.eu/resource/authority/contract-detail/all-rev-tic,all-rev-tic,Allocation of revenues of sales from tickets,Ripartizione dei ricavi dalla vendita di biglietti,false,2021-06-16
+cost-comp,http://publications.europa.eu/resource/authority/contract-detail/cost-comp,cost-comp,Cost parameters for compensation payments,Parametri di costo per le compensazioni,false,2021-06-16
+exc-right,http://publications.europa.eu/resource/authority/contract-detail/exc-right,exc-right,Exclusive rights are granted,Sono concessi diritti di esclusiva,false,2021-06-16
+other,http://publications.europa.eu/resource/authority/contract-detail/other,other,Other,Altre,false,2021-06-16
+publ-ser-obl,http://publications.europa.eu/resource/authority/contract-detail/publ-ser-obl,publ-ser-obl,Public service obligations,Obblighi di servizio pubblico,false,2021-06-16
+soc-stand,http://publications.europa.eu/resource/authority/contract-detail/soc-stand,soc-stand,Social standards,Standard sociali,false,2021-06-16

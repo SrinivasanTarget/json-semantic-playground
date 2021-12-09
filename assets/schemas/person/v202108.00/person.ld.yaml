@@ -1,0 +1,16 @@
+#
+# Semantic context for Person schema.
+#   This can be passed via the Link header according to
+#   https://w3c.github.io/json-ld-syntax/#interpreting-json-as-json-ld
+#
+"@context":
+  "@version": 1.1  # Use json-ld 1.1
+  "@vocab": "https://w3id.org/italia/onto/CPV/"
+  tax_code: taxCode
+  given_name: givenName
+  family_name: familyName
+  date_of_birth: dateOfBirth
+# The version of this file associated to the
+#  overall ontology.
+"http://www.w3.org/2002/07/owl#versionIRI":
+  "@id": "https://ndc.example/schemas/person/202108.01"

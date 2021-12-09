@@ -1,0 +1,46 @@
+#
+# This schema is in OpenAPI 3.0 format
+#   and can be referred via #/components/schemas/Person
+#
+openapi: 3.0.3
+info:
+  title: The Person schema
+  version: 202108.01.00
+  description: |-
+    This Person schema is derived from the CPV/Person ontology.
+paths: {}
+components:
+  schemas:
+    TaxCode:
+      type: string
+      x-refersTo: https://w3id.org/italia/onto/CPV/taxCode
+      description: Il codice fiscale.
+      example: RSSMRA75L01H501A
+      maxLength: 16
+      minLength: 11
+    Person:
+      type: object
+      x-refersTo: https://w3id.org/italia/onto/CPV/Person
+      additionalProperties: false
+      description: |-
+          Questo schema rappresenta una persona fisica.
+      required:
+      - given_name
+      - family_name
+      - date_of_birth
+      - tax_code
+      properties:
+        tax_code:
+          $ref: "#/components/schemas/TaxCode"
+        date_of_birth:
+          x-refersTo: https://w3id.org/italia/onto/CPV/dateOfBirth
+          format: date
+          type: string
+        family_name:
+          x-refersTo: https://w3id.org/italia/onto/CPV/familyName
+          maxLength: 255
+          type: string
+        given_name:
+          x-refersTo: https://w3id.org/italia/onto/CPV/givenName
+          maxLength: 255
+          type: string

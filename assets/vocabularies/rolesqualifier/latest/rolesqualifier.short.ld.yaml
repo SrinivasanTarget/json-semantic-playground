@@ -1,0 +1,1059 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADMN
+  deprecated: 'false'
+  key: ADMN
+  label_en: Administrator
+  label_it: Amministratore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADMN
+  valid_from: '1952-07-24'
+- country_code: ADVIS
+  deprecated: 'false'
+  key: ADVIS
+  label_en: Adviser
+  label_it: Consigliere
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS
+  valid_from: '1952-07-24'
+- country_code: ADVIS_CHIEF
+  deprecated: 'false'
+  key: ADVIS_CHIEF
+  label_en: Chief Adviser
+  label_it: Consigliere principale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_CHIEF
+  valid_from: '1952-07-24'
+- country_code: ADVIS_COMMU
+  deprecated: 'false'
+  key: ADVIS_COMMU
+  label_en: Communication Adviser
+  label_it: Consigliere per la comunicazione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_COMMU
+  valid_from: '2021-03-17'
+- country_code: ADVIS_COMMU_WRITER_SPEECH_PRESID
+  deprecated: 'false'
+  key: ADVIS_COMMU_WRITER_SPEECH_PRESID
+  label_en: Communication Adviser and Speechwriter for the President
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_COMMU_WRITER_SPEECH_PRESID
+  valid_from: '2021-09-29'
+- country_code: ADVIS_HORS_CLASS
+  deprecated: 'false'
+  key: ADVIS_HORS_CLASS
+  label_en: Hors Classe Adviser
+  label_it: Consigliere fuori classe
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_HORS_CLASS
+  valid_from: '2011-08-31'
+- country_code: ADVIS_PRIN
+  deprecated: 'false'
+  key: ADVIS_PRIN
+  label_en: Principal Adviser
+  label_it: Consulente principale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_PRIN
+  valid_from: '2021-03-17'
+- country_code: ADVIS_SENIOR
+  deprecated: 'false'
+  key: ADVIS_SENIOR
+  label_en: Senior Adviser
+  label_it: Consigliere principale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_SENIOR
+  valid_from: '2015-06-24'
+- country_code: AG_LOG
+  deprecated: 'false'
+  key: AG_LOG
+  label_en: Logistic Agent
+  label_it: Agente logistico
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AG_LOG
+  valid_from: '2021-03-17'
+- country_code: AG_LOG_SUPP
+  deprecated: 'false'
+  key: AG_LOG_SUPP
+  label_en: Logistic Support Agent
+  label_it: Agente di supporto logistico
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AG_LOG_SUPP
+  valid_from: '2021-03-17'
+- country_code: AMB
+  deprecated: 'false'
+  key: AMB
+  label_en: Ambassador
+  label_it: Ambasciatore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AMB
+  valid_from: '1952-07-24'
+- country_code: AMB_FIRST_SECR
+  deprecated: 'false'
+  key: AMB_FIRST_SECR
+  label_en: First Secretary to the Ambassador
+  label_it: "Primo segretario d\u2019ambasciata"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AMB_FIRST_SECR
+  valid_from: '1952-07-24'
+- country_code: ASSIST
+  deprecated: 'false'
+  key: ASSIST
+  label_en: Assistant
+  label_it: Assistente
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ASSIST
+  valid_from: '1952-07-24'
+- country_code: AST_ADMIN
+  deprecated: 'false'
+  key: AST_ADMIN
+  label_en: Administrative Assistant
+  label_it: Assistente amministrativo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_ADMIN
+  valid_from: '2004-08-12'
+- country_code: AST_ADMIN_CHIEF_SPOKESPRS
+  deprecated: 'false'
+  key: AST_ADMIN_CHIEF_SPOKESPRS
+  label_en: Administrative Assistant to the Chief Spokesperson
+  label_it: Assistente amministrativo del portavoce principale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_ADMIN_CHIEF_SPOKESPRS
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU
+  deprecated: 'false'
+  key: AST_INF_COMMU
+  label_en: Information and Communication Assistant
+  label_it: "Assistente all\u2019informazione e alla comunicazione"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_HOR_SUPP_EDIT
+  deprecated: 'false'
+  key: AST_INF_COMMU_HOR_SUPP_EDIT
+  label_en: "Information and Communication Assistant \u2013 Horizontal support and\
+    \ editorial services"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Sostegno\
+    \ trasversale e servizi editoriali"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_HOR_SUPP_EDIT
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_MIDDAY
+  deprecated: 'false'
+  key: AST_INF_COMMU_MIDDAY
+  label_en: "Information and Communication Assistant \u2013 Midday planning & coordination"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Programmazione\
+    \ e coordinamento di mezzogiorno"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_MIDDAY
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_PHOTO
+  deprecated: 'false'
+  key: AST_INF_COMMU_PHOTO
+  label_en: "Information and Communication Assistant \u2013 Photographer"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Fotografo"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PHOTO
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_PRESS
+  deprecated: 'false'
+  key: AST_INF_COMMU_PRESS
+  label_en: "Information and Communication Assistant \u2013 Press contact"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Contatti\
+    \ per la stampa"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PRESS
+  valid_from: '2014-05-07'
+- country_code: AST_INF_COMMU_PRESS_ACCR
+  deprecated: 'false'
+  key: AST_INF_COMMU_PRESS_ACCR
+  label_en: "Information and Communication Assistant \u2013 Press and accreditation"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Stampa e\
+    \ accreditamento"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PRESS_ACCR
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_PRESS_ROOM
+  deprecated: 'false'
+  key: AST_INF_COMMU_PRESS_ROOM
+  label_en: "Information and Communication Assistant \u2013 Press room management\
+    \ and planning"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Gestione\
+    \ e programmazione della sala stampa"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PRESS_ROOM
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_TRANSCR
+  deprecated: 'false'
+  key: AST_INF_COMMU_TRANSCR
+  label_en: "Information and Communication Assistant \u2013 Transcript Coordinator"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Coordinatore\
+    \ dei verbali"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_TRANSCR
+  valid_from: '2021-03-17'
+- country_code: AST_INF_COMMU_WEB_EDIT
+  deprecated: 'false'
+  key: AST_INF_COMMU_WEB_EDIT
+  label_en: "Information and Communication Assistant \u2013 Web and editorial services"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Web e servizi\
+    \ editoriali"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_WEB_EDIT
+  valid_from: '2021-03-17'
+- country_code: AST_POLICY
+  deprecated: 'false'
+  key: AST_POLICY
+  label_en: Policy Assistant
+  label_it: Assistente alle politiche
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_POLICY
+  valid_from: '2013-02-15'
+- country_code: AST_POLICY_SPOKESPRS_CHIEF
+  deprecated: 'false'
+  key: AST_POLICY_SPOKESPRS_CHIEF
+  label_en: Assistant to the European Commission Chief Spokesperson
+  label_it: Assistente del portavoce principale della Commissione europea
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_POLICY_SPOKESPRS_CHIEF
+  valid_from: '2021-03-17'
+- country_code: AST_PRESID_ACT
+  deprecated: 'false'
+  key: AST_PRESID_ACT
+  label_en: "Assistant \u2013 Activities of the President"
+  label_it: "Assistente \u2013 Attivit\xE0 del presidente"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_PRESID_ACT
+  valid_from: '2021-03-17'
+- country_code: AST_SPOKESPRS_CHIEF
+  deprecated: 'false'
+  key: AST_SPOKESPRS_CHIEF
+  label_en: Assistant to the European Commission Chief Spokesperson
+  label_it: Assistente del portavoce principale della Commissione europea
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_SPOKESPRS_CHIEF
+  valid_from: '2004-08-12'
+- country_code: AST_TRANSIT
+  deprecated: 'false'
+  key: AST_TRANSIT
+  label_en: Assistant in the Transition Team
+  label_it: Assistente del gruppo di transizione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AST_TRANSIT
+  valid_from: '2021-03-17'
+- country_code: AUDT
+  deprecated: 'false'
+  key: AUDT
+  label_en: Auditor
+  label_it: Revisore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AUDT
+  valid_from: '1952-07-24'
+- country_code: AUDT_GEN
+  deprecated: 'false'
+  key: AUDT_GEN
+  label_en: Auditor General
+  label_it: Revisore generale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AUDT_GEN
+  valid_from: '1952-07-24'
+- country_code: AUDT_INT
+  deprecated: 'false'
+  key: AUDT_INT
+  label_en: Internal Auditor
+  label_it: Revisore interno
+  url: http://publications.europa.eu/resource/authority/role-qualifier/AUDT_INT
+  valid_from: '1952-07-24'
+- country_code: CHAIR
+  deprecated: 'false'
+  key: CHAIR
+  label_en: Chair
+  label_it: Presidente
+  url: http://publications.europa.eu/resource/authority/role-qualifier/CHAIR
+  valid_from: '2011-01-01'
+- country_code: CHAIR_REG_SCR_BOARD
+  deprecated: 'false'
+  key: CHAIR_REG_SCR_BOARD
+  label_en: Chair of the Regulatory Scrutiny Board
+  label_it: Presidente del comitato per il controllo normativo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/CHAIR_REG_SCR_BOARD
+  valid_from: '2021-03-17'
+- country_code: CLERK_MAIL
+  deprecated: 'false'
+  key: CLERK_MAIL
+  label_en: Clerk
+  label_it: Commesso
+  url: http://publications.europa.eu/resource/authority/role-qualifier/CLERK_MAIL
+  valid_from: '2021-03-17'
+- country_code: COMMISS_DESIG
+  deprecated: 'false'
+  key: COMMISS_DESIG
+  label_en: Commissioner-designate
+  label_it: Commissario designato
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COMMISS_DESIG
+  valid_from: '2021-03-17'
+- country_code: COMMIS_INTERIM
+  deprecated: 'false'
+  key: COMMIS_INTERIM
+  label_en: Interim Commissioner
+  label_it: Commissario ad interim
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COMMIS_INTERIM
+  valid_from: '2021-03-17'
+- country_code: COM_MEMB
+  deprecated: 'false'
+  key: COM_MEMB
+  label_en: Member of the Commission
+  label_it: Membro della Commissione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COM_MEMB
+  valid_from: '2009-12-01'
+- country_code: CONSULT
+  deprecated: 'false'
+  key: CONSULT
+  label_en: Consultant
+  label_it: Consulente
+  url: http://publications.europa.eu/resource/authority/role-qualifier/CONSULT
+  valid_from: '1952-07-24'
+- country_code: COORD
+  deprecated: 'false'
+  key: COORD
+  label_en: Coordinator
+  label_it: Coordinatore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COORD
+  valid_from: '1952-07-24'
+- country_code: COORD_POLICY
+  deprecated: 'false'
+  key: COORD_POLICY
+  label_en: Policy Coordinator
+  label_it: Coordinatore delle politiche
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COORD_POLICY
+  valid_from: '2021-03-17'
+- country_code: COO_LOG_SUPP_CABINET
+  deprecated: 'false'
+  key: COO_LOG_SUPP_CABINET
+  label_en: Logistic Support Coordinator to the Cabinet
+  label_it: Coordinatore del supporto logistico del gabinetto
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COO_LOG_SUPP_CABINET
+  valid_from: '2021-03-17'
+- country_code: COO_LOG_SUPP_TRANSIT
+  deprecated: 'false'
+  key: COO_LOG_SUPP_TRANSIT
+  label_en: Logistic Support Coordinator to the Transition team
+  label_it: Coordinatore del supporto logistico del gruppo di transizione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COO_LOG_SUPP_TRANSIT
+  valid_from: '2021-03-17'
+- country_code: COR_MEMB
+  deprecated: 'false'
+  key: COR_MEMB
+  label_en: Member of the Committee of the Regions
+  label_it: Membro del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COR_MEMB
+  valid_from: '2009-12-01'
+- country_code: COUNS
+  deprecated: 'false'
+  key: COUNS
+  label_en: Counselor
+  label_it: Consigliere
+  url: http://publications.europa.eu/resource/authority/role-qualifier/COUNS
+  valid_from: '1952-07-24'
+- country_code: CURIA_JUDG_ADV
+  deprecated: 'false'
+  key: CURIA_JUDG_ADV
+  label_en: Judge or Advocate at the Court
+  label_it: Giudice o avvocato della Corte
+  url: http://publications.europa.eu/resource/authority/role-qualifier/CURIA_JUDG_ADV
+  valid_from: '2009-12-01'
+- country_code: DIPL
+  deprecated: 'false'
+  key: DIPL
+  label_en: Diplomat
+  label_it: Diplomatico
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIPL
+  valid_from: '2009-12-01'
+- country_code: DIR
+  deprecated: 'false'
+  key: DIR
+  label_en: Director
+  label_it: Direttore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIR
+  valid_from: '1952-07-24'
+- country_code: DIR_COORD_ADM
+  deprecated: 'false'
+  key: DIR_COORD_ADM
+  label_en: Director of Coordination and Administration
+  label_it: "Direttore del coordinamento e dell\u2019amministrazione"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIR_COORD_ADM
+  valid_from: '2021-03-17'
+- country_code: DIR_DEP
+  deprecated: 'false'
+  key: DIR_DEP
+  label_en: Deputy Director
+  label_it: Vicedirettore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIR_DEP
+  valid_from: '1952-07-24'
+- country_code: DIR_GEN
+  deprecated: 'false'
+  key: DIR_GEN
+  label_en: Director-General
+  label_it: Direttore generale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIR_GEN
+  valid_from: '2004-08-12'
+- country_code: DIR_GEN_CHIEF_STAT
+  deprecated: 'false'
+  key: DIR_GEN_CHIEF_STAT
+  label_en: "Director-General \u2013 Chief Statistician of the European Union"
+  label_it: "Direttore generale e responsabile delle statistiche dell\u2019Unione\
+    \ europea"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIR_GEN_CHIEF_STAT
+  valid_from: '2021-03-17'
+- country_code: DIR_GEN_DEP
+  deprecated: 'false'
+  key: DIR_GEN_DEP
+  label_en: Deputy Director-General
+  label_it: Direttore generale aggiunto
+  url: http://publications.europa.eu/resource/authority/role-qualifier/DIR_GEN_DEP
+  valid_from: '1952-07-24'
+- country_code: ECA_MEMB
+  deprecated: 'false'
+  key: ECA_MEMB
+  label_en: Member of the Court of Auditors
+  label_it: Membro della Corte dei conti
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ECA_MEMB
+  valid_from: '2009-12-01'
+- country_code: ECB_PRESID
+  deprecated: 'false'
+  key: ECB_PRESID
+  label_en: President of the European Central Bank
+  label_it: Presidente della Banca centrale europea
+  url: http://publications.europa.eu/resource/authority/role-qualifier/ECB_PRESID
+  valid_from: '1998-07-01'
+- country_code: EDIT_CHIEF
+  deprecated: 'false'
+  key: EDIT_CHIEF
+  label_en: Editor in Chief
+  label_it: Caporedattore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EDIT_CHIEF
+  valid_from: '1952-07-24'
+- country_code: EESC_ADVIS
+  deprecated: 'false'
+  key: EESC_ADVIS
+  label_en: European Economic and Social Committee Adviser
+  label_it: Consigliere del CESE
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EESC_ADVIS
+  valid_from: '2009-12-01'
+- country_code: EESC_PRESID
+  deprecated: 'false'
+  key: EESC_PRESID
+  label_en: President of the European Economic and Social Committee
+  label_it: Presidente del Comitato economico e sociale europeo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EESC_PRESID
+  valid_from: '1993-11-01'
+- country_code: EP_MEMB
+  deprecated: 'false'
+  key: EP_MEMB
+  label_en: Member of the European Parliament
+  label_it: Membro del Parlamento europeo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EP_MEMB
+  valid_from: '2009-12-01'
+- country_code: EP_MP_SUBST
+  deprecated: 'false'
+  key: EP_MP_SUBST
+  label_en: Alternate Member of Parliament
+  label_it: Membro supplente del Parlamento
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EP_MP_SUBST
+  valid_from: '1962-03-30'
+- country_code: EP_SPEAKER
+  deprecated: 'false'
+  key: EP_SPEAKER
+  label_en: President of the Parliament
+  label_it: Presidente del Parlamento
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EP_SPEAKER
+  valid_from: '1952-07-24'
+- country_code: EUINST
+  deprecated: 'false'
+  key: EUINST
+  label_en: EU institutions and bodies
+  label_it: "Istituzioni e gli organismi dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EUINST
+  valid_from: '1952-07-24'
+- country_code: EUMS
+  deprecated: 'false'
+  key: EUMS
+  label_en: EU Member States
+  label_it: "Stati membri dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EUMS
+  valid_from: '1952-07-24'
+- country_code: EUMS_GOVREP
+  deprecated: 'false'
+  key: EUMS_GOVREP
+  label_en: Member State Government Representative
+  label_it: Rappresentante del governo di uno Stato membro
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EUMS_GOVREP
+  valid_from: '2009-12-01'
+- country_code: EUROGRO_PRESID
+  deprecated: 'false'
+  key: EUROGRO_PRESID
+  label_en: President of the Eurogroup
+  label_it: "Presidente dell\u2019Eurogruppo"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EUROGRO_PRESID
+  valid_from: '1998-06-04'
+- country_code: EU_LIOF
+  deprecated: 'false'
+  key: EU_LIOF
+  label_en: EU Liaison Officer
+  label_it: "Ufficiale di collegamento dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EU_LIOF
+  valid_from: '2009-12-01'
+- country_code: EU_REPR_HEAD
+  deprecated: 'false'
+  key: EU_REPR_HEAD
+  label_en: Head of EU Representation
+  label_it: "Capo della rappresentanza dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EU_REPR_HEAD
+  valid_from: '2009-12-01'
+- country_code: EXEC_CHIEF
+  deprecated: 'false'
+  key: EXEC_CHIEF
+  label_en: Chief Executive
+  label_it: Direttore generale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EXEC_CHIEF
+  valid_from: '1952-07-24'
+- country_code: EXPERT
+  deprecated: 'false'
+  key: EXPERT
+  label_en: Expert
+  label_it: Esperto
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EXPERT
+  valid_from: '2014-12-01'
+- country_code: EXPERT_NAT
+  deprecated: 'false'
+  key: EXPERT_NAT
+  label_en: National Expert
+  label_it: Esperto nazionale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/EXPERT_NAT
+  valid_from: '2021-03-17'
+- country_code: GROUP_LEADER
+  deprecated: 'false'
+  key: GROUP_LEADER
+  label_en: Leader of political group
+  label_it: Responsabile di un gruppo politico
+  url: http://publications.europa.eu/resource/authority/role-qualifier/GROUP_LEADER
+  valid_from: '1952-07-24'
+- country_code: HEAD
+  deprecated: 'false'
+  key: HEAD
+  label_en: Head
+  label_it: Capo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD
+  valid_from: '1952-07-24'
+- country_code: HEAD_ADMN
+  deprecated: 'false'
+  key: HEAD_ADMN
+  label_en: Head of Administration
+  label_it: "Capo dell\u2019amministrazione"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_ADMN
+  valid_from: '1952-07-24'
+- country_code: HEAD_CAB
+  deprecated: 'false'
+  key: HEAD_CAB
+  label_en: Head of Cabinet
+  label_it: Capo di gabinetto
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_CAB
+  valid_from: '1952-07-24'
+- country_code: HEAD_CAB_DEP
+  deprecated: 'false'
+  key: HEAD_CAB_DEP
+  label_en: Deputy Head of Cabinet of the President
+  label_it: Vice capo di gabinetto del presidente
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_CAB_DEP
+  valid_from: '2021-03-17'
+- country_code: HEAD_COMMU_MEDIA
+  deprecated: 'false'
+  key: HEAD_COMMU_MEDIA
+  label_en: Head of Communication and Media
+  label_it: Capo delle comunicazioni e dei media
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_COMMU_MEDIA
+  valid_from: '1952-07-24'
+- country_code: HEAD_DEL
+  deprecated: 'false'
+  key: HEAD_DEL
+  label_en: Head of Delegation
+  label_it: Capo delegazione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_DEL
+  valid_from: '1952-07-24'
+- country_code: HEAD_DIV
+  deprecated: 'false'
+  key: HEAD_DIV
+  label_en: Head of Division
+  label_it: Capo divisione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_DIV
+  valid_from: '1952-07-24'
+- country_code: HEAD_SECTOR
+  deprecated: 'false'
+  key: HEAD_SECTOR
+  label_en: Head of Sector
+  label_it: Capo settore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_SECTOR
+  valid_from: '1952-07-24'
+- country_code: HEAD_SERV
+  deprecated: 'false'
+  key: HEAD_SERV
+  label_en: Head of Service
+  label_it: Caposervizio
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_SERV
+  valid_from: '1952-07-24'
+- country_code: HEAD_SERV_DEP
+  deprecated: 'false'
+  key: HEAD_SERV_DEP
+  label_en: Deputy Head of Service
+  label_it: Vice caposervizio
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_SERV_DEP
+  valid_from: '2021-03-17'
+- country_code: HEAD_TASK_FORCE
+  deprecated: 'false'
+  key: HEAD_TASK_FORCE
+  label_en: Head of Task Force
+  label_it: Capo della task force
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_TASK_FORCE
+  valid_from: '2005-11-17'
+- country_code: HEAD_TASK_FORCE_DEP
+  deprecated: 'false'
+  key: HEAD_TASK_FORCE_DEP
+  label_en: Deputy Head of Task Force
+  label_it: Vicecapo della task force
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_TASK_FORCE_DEP
+  valid_from: '2017-11-30'
+- country_code: HEAD_TRANSIT
+  deprecated: 'false'
+  key: HEAD_TRANSIT
+  label_en: Head of Transition Team
+  label_it: Capo del gruppo di transizione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_TRANSIT
+  valid_from: '2021-03-17'
+- country_code: HEAD_UNIT
+  deprecated: 'false'
+  key: HEAD_UNIT
+  label_en: Head of Unit
+  label_it: "Capo unit\xE0"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HEAD_UNIT
+  valid_from: '1952-07-24'
+- country_code: HRUFASP
+  deprecated: 'false'
+  key: HRUFASP
+  label_en: High Representative of the Union
+  label_it: "Alto rappresentante dell\u2019Unione"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/HRUFASP
+  valid_from: '2009-12-01'
+- country_code: INDIV
+  deprecated: 'false'
+  key: INDIV
+  label_en: Individual
+  label_it: Persona privata
+  url: http://publications.europa.eu/resource/authority/role-qualifier/INDIV
+  valid_from: '1952-07-24'
+- country_code: INTERNAT_BODIES
+  deprecated: 'false'
+  key: INTERNAT_BODIES
+  label_en: International organisations
+  label_it: Organizzazioni internazionali
+  url: http://publications.europa.eu/resource/authority/role-qualifier/INTERNAT_BODIES
+  valid_from: '1952-07-24'
+- country_code: JOURNALIST
+  deprecated: 'false'
+  key: JOURNALIST
+  label_en: Journalist
+  label_it: Giornalista
+  url: http://publications.europa.eu/resource/authority/role-qualifier/JOURNALIST
+  valid_from: '1952-07-24'
+- country_code: MEMBER_TRANSIT
+  deprecated: 'false'
+  key: MEMBER_TRANSIT
+  label_en: Member of the Transition Team
+  label_it: Membro del gruppo di transizione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/MEMBER_TRANSIT
+  valid_from: '2021-03-17'
+- country_code: MODERATOR
+  deprecated: 'false'
+  key: MODERATOR
+  label_en: Moderator
+  label_it: Moderatore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/MODERATOR
+  valid_from: '2021-03-17'
+- country_code: NEGO_CHIEF
+  deprecated: 'false'
+  key: NEGO_CHIEF
+  label_en: Chief Negotiator
+  label_it: Capo negoziatore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/NEGO_CHIEF
+  valid_from: '2016-09-15'
+- country_code: NEGO_DEP_CHIEF
+  deprecated: 'false'
+  key: NEGO_DEP_CHIEF
+  label_en: Deputy Chief Negotiator
+  label_it: Vicecapo negoziatore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/NEGO_DEP_CHIEF
+  valid_from: '2004-09-10'
+- country_code: OFF_DATA_PROT
+  deprecated: 'false'
+  key: OFF_DATA_PROT
+  label_en: Data Protection Officer
+  label_it: Responsabile della protezione dei dati
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_DATA_PROT
+  valid_from: '2004-09-10'
+- country_code: OFF_DOC_MAN
+  deprecated: 'false'
+  key: OFF_DOC_MAN
+  label_en: Document Management Officer
+  label_it: Responsabile della gestione dei documenti
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_DOC_MAN
+  valid_from: '2021-03-17'
+- country_code: OFF_DOC_MAN_ARCH
+  deprecated: 'false'
+  key: OFF_DOC_MAN_ARCH
+  label_en: "Document Management Officer \u2013 Archives"
+  label_it: "Responsabile della gestione dei documenti \u2013 Archivi"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_DOC_MAN_ARCH
+  valid_from: '2021-03-17'
+- country_code: OFF_INF_COMMU
+  deprecated: 'false'
+  key: OFF_INF_COMMU
+  label_en: Information and Communication Officer
+  label_it: "Responsabile dell\u2019informazione e della comunicazione"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU
+  valid_from: '2009-12-01'
+- country_code: OFF_INF_COMMU_MULTI
+  deprecated: 'false'
+  key: OFF_INF_COMMU_MULTI
+  label_en: "Information and Communication Officer \u2013 Multimedia Editor"
+  label_it: "Responsabile dell\u2019informazione e della comunicazione \u2013 Redattore\
+    \ multimediale"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_MULTI
+  valid_from: '2021-03-17'
+- country_code: OFF_INF_COMMU_MULTI_REPR
+  deprecated: 'false'
+  key: OFF_INF_COMMU_MULTI_REPR
+  label_en: "Information and Communication Officer \u2013 Multimedia Editor and Liaison\
+    \ with the Representations"
+  label_it: "Responsabile dell\u2019informazione e della comunicazione \u2013 Redattore\
+    \ multimediale e collegamento con le rappresentanze"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_MULTI_REPR
+  valid_from: '2021-03-17'
+- country_code: OFF_INF_COMMU_PLAN_COORD_LIAISON
+  deprecated: 'false'
+  key: OFF_INF_COMMU_PLAN_COORD_LIAISON
+  label_en: "Information and Communication Officer \u2013 Planning/coordination and\
+    \ Liaison with the Representations"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Programmazione/coordinamento\
+    \ e collegamento con le rappresentanze"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_PLAN_COORD_LIAISON
+  valid_from: '2021-03-17'
+- country_code: OFF_INF_COMMU_PRESID_MEDIA
+  deprecated: 'false'
+  key: OFF_INF_COMMU_PRESID_MEDIA
+  label_en: "Information and Communication Officer \u2013 Communication Officer responsible\
+    \ for coordination of the President\u2019s media and social media activities"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_PRESID_MEDIA
+  valid_from: '2021-09-29'
+- country_code: OFF_INF_COMMU_SOCIAL_MEDIA
+  deprecated: 'false'
+  key: OFF_INF_COMMU_SOCIAL_MEDIA
+  label_en: "Information and Communication Officer \u2013 Social media"
+  label_it: "Responsabile dell\u2019informazione e della comunicazione \u2013 Social\
+    \ media"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_SOCIAL_MEDIA
+  valid_from: '2021-03-17'
+- country_code: OFF_INF_COMMU_VIS
+  deprecated: 'false'
+  key: OFF_INF_COMMU_VIS
+  label_en: "Information and Communication Officer \u2013 Visual communication"
+  label_it: "Responsabile dell\u2019informazione e della comunicazione \u2013 Comunicazione\
+    \ visiva"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_VIS
+  valid_from: '2021-03-17'
+- country_code: OFF_POLICY
+  deprecated: 'false'
+  key: OFF_POLICY
+  label_en: Policy Officer
+  label_it: Responsabile delle politiche
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_POLICY
+  valid_from: '2021-03-17'
+- country_code: OFF_PRESS_EEAS
+  deprecated: 'false'
+  key: OFF_PRESS_EEAS
+  label_en: Press and Media Officer for foreign affairs and security policy
+  label_it: Addetto stampa e media per gli affari esteri e la politica di sicurezza
+  url: http://publications.europa.eu/resource/authority/role-qualifier/OFF_PRESS_EEAS
+  valid_from: '2021-03-17'
+- country_code: PANELLIST
+  deprecated: 'false'
+  key: PANELLIST
+  label_en: Panellist
+  label_it: Membro del collegio
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PANELLIST
+  valid_from: '2021-03-17'
+- country_code: PHOTO
+  deprecated: 'false'
+  key: PHOTO
+  label_en: "Information and Communication Assistant \u2013 Visual communication"
+  label_it: "Assistente all\u2019informazione e alla comunicazione \u2013 Comunicazione\
+    \ visiva"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PHOTO
+  valid_from: '2017-01-01'
+- country_code: PRESID_EC
+  deprecated: 'false'
+  key: PRESID_EC
+  label_en: President of the Commission
+  label_it: Presidente della Commissione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESID_EC
+  valid_from: '2021-03-17'
+- country_code: PRESID_REPUBL
+  deprecated: 'false'
+  key: PRESID_REPUBL
+  label_en: President of the Republic
+  label_it: Presidente della Repubblica
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESID_REPUBL
+  valid_from: '1952-07-24'
+- country_code: PRESID_SUPAUDT
+  deprecated: 'false'
+  key: PRESID_SUPAUDT
+  label_en: President of the Supreme Audit Office
+  label_it: "Presidente dell\u2019Istituzione superiore di controllo"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESID_SUPAUDT
+  valid_from: '1952-07-24'
+- country_code: PRESID_VICE
+  deprecated: 'false'
+  key: PRESID_VICE
+  label_en: Vice-President of the Commission
+  label_it: Vicepresidente della Commissione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESID_VICE
+  valid_from: '2006-10-23'
+- country_code: PRESID_VICE_EXEC
+  deprecated: 'false'
+  key: PRESID_VICE_EXEC
+  label_en: Executive Vice-President
+  label_it: Vicepresidente esecutivo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESID_VICE_EXEC
+  valid_from: '2021-03-17'
+- country_code: PRESID_VICE_FIRST
+  deprecated: 'false'
+  key: PRESID_VICE_FIRST
+  label_en: First Vice-President
+  label_it: Primo vicepresidente
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESID_VICE_FIRST
+  valid_from: '2004-01-01'
+- country_code: PRESS_OFFICER
+  deprecated: 'false'
+  key: PRESS_OFFICER
+  label_en: Press Officer
+  label_it: Addetto stampa
+  url: http://publications.europa.eu/resource/authority/role-qualifier/PRESS_OFFICER
+  valid_from: '1952-07-24'
+- country_code: SECR
+  deprecated: 'false'
+  key: SECR
+  label_en: Secretary
+  label_it: Segretario
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SECR
+  valid_from: '1952-07-24'
+- country_code: SECR_GEN
+  deprecated: 'false'
+  key: SECR_GEN
+  label_en: Secretary-General
+  label_it: Segretario generale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SECR_GEN
+  valid_from: '2008-03-07'
+- country_code: SECR_GEN_DEP
+  deprecated: 'false'
+  key: SECR_GEN_DEP
+  label_en: Deputy Secretary-General
+  label_it: Vicesegretario generale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SECR_GEN_DEP
+  valid_from: '1952-07-24'
+- country_code: SECR_HEAD_TRANSIT
+  deprecated: 'false'
+  key: SECR_HEAD_TRANSIT
+  label_en: Secretary to the Head of the Transition Team
+  label_it: Segretario del capo del gruppo di transizione
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SECR_HEAD_TRANSIT
+  valid_from: '2021-03-17'
+- country_code: SECR_PRESID
+  deprecated: 'false'
+  key: SECR_PRESID
+  label_en: Secretary to the President
+  label_it: Segretario del presidente
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SECR_PRESID
+  valid_from: '2021-03-17'
+- country_code: SECR_PRESID_ELEC
+  deprecated: 'false'
+  key: SECR_PRESID_ELEC
+  label_en: Secretary to the President-Elect
+  label_it: Segretario del presidente eletto
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SECR_PRESID_ELEC
+  valid_from: '2021-03-17'
+- country_code: SPEAKER
+  deprecated: 'false'
+  key: SPEAKER
+  label_en: Speaker
+  label_it: Oratore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPEAKER
+  valid_from: '2021-03-17'
+- country_code: SPEAKER_KEYNOTE
+  deprecated: 'false'
+  key: SPEAKER_KEYNOTE
+  label_en: Keynote Speaker
+  label_it: Oratore principale
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPEAKER_KEYNOTE
+  valid_from: '2021-03-17'
+- country_code: SPOKESPRS
+  deprecated: 'false'
+  key: SPOKESPRS
+  label_en: Spokesperson
+  label_it: Portavoce
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS
+  valid_from: '1952-07-24'
+- country_code: SPOKESPRS_CHIEF_COM
+  deprecated: 'false'
+  key: SPOKESPRS_CHIEF_COM
+  label_en: European Commission Chief Spokesperson
+  label_it: Portavoce principale della Commissione europea
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_CHIEF_COM
+  valid_from: '2021-03-17'
+- country_code: SPOKESPRS_CHIEF_DEP_COM
+  deprecated: 'false'
+  key: SPOKESPRS_CHIEF_DEP_COM
+  label_en: European Commission Deputy Chief Spokesperson
+  label_it: Vice portavoce capo della Commissione europea
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_CHIEF_DEP_COM
+  valid_from: '2014-11-01'
+- country_code: SPOKESPRS_COORD
+  deprecated: 'false'
+  key: SPOKESPRS_COORD
+  label_en: Coordinating Spokesperson
+  label_it: Portavoce di coordinamento
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_COORD
+  valid_from: '2014-11-01'
+- country_code: SPOKESPRS_EEAS
+  deprecated: 'false'
+  key: SPOKESPRS_EEAS
+  label_en: Spokesperson for foreign affairs and security policy
+  label_it: Portavoce principale per gli affari esteri e la politica di sicurezza
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_EEAS
+  valid_from: '2021-03-17'
+- country_code: SPOKESPRS_LEAD_EEAS
+  deprecated: 'false'
+  key: SPOKESPRS_LEAD_EEAS
+  label_en: "Lead Spokesperson of the HR/VP \u2013 Lead EEAS Spokesperson"
+  label_it: "Portavoce principale dell\u2019AR/VP \u2013 Principale portavoce del\
+    \ SEAE"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_LEAD_EEAS
+  valid_from: '2021-03-17'
+- country_code: STAFF
+  deprecated: 'false'
+  key: STAFF
+  label_en: Official of the European Union
+  label_it: Funzionario dell'Unione europea
+  url: http://publications.europa.eu/resource/authority/role-qualifier/STAFF
+  valid_from: '2005-01-01'
+- country_code: STAFF_LEADNO_ORG
+  deprecated: 'false'
+  key: STAFF_LEADNO_ORG
+  label_en: Official (not head of entity) (post in the official organisation chart)
+  label_it: "Funzionario (non capo dell\u2019entit\xE0) (facente parte dell\u2019\
+    organigramma ufficiale)"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEADNO_ORG
+  valid_from: '2009-12-01'
+- country_code: STAFF_LEADNO_ORGNO
+  deprecated: 'false'
+  key: STAFF_LEADNO_ORGNO
+  label_en: Official (not head of entity) (not post in the official organisation chart)
+  label_it: "Funzionario (non capo dell\u2019entit\xE0) (non facente parte dell\u2019\
+    organigramma ufficiale)"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEADNO_ORGNO
+  valid_from: '2009-12-01'
+- country_code: STAFF_LEAD_ORG
+  deprecated: 'false'
+  key: STAFF_LEAD_ORG
+  label_en: Official (head of entity) (post in the official organisation chart)
+  label_it: "Funzionario (capo dell\u2019entit\xE0) (facente parte dell\u2019organigramma\
+    \ ufficiale)"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEAD_ORG
+  valid_from: '2009-12-01'
+- country_code: STAFF_LEAD_ORGNO
+  deprecated: 'false'
+  key: STAFF_LEAD_ORGNO
+  label_en: Official (head of entity) (not post in the official organisation chart)
+  label_it: "Funzionario (capo dell\u2019entit\xE0) (non facente parte dell\u2019\
+    organigramma ufficiale)"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEAD_ORGNO
+  valid_from: '2009-12-01'
+- country_code: SUPP_AG_ADMIN
+  deprecated: 'false'
+  key: SUPP_AG_ADMIN
+  label_en: Administrative Support Agent
+  label_it: Agente di supporto amministrativo
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN
+  valid_from: '2021-03-17'
+- country_code: SUPP_AG_ADMIN_PRESID_ELECT
+  deprecated: 'false'
+  key: SUPP_AG_ADMIN_PRESID_ELECT
+  label_en: Administrative Support Agent to the President-Elect
+  label_it: Agente di supporto amministrativo del presidente eletto
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_PRESID_ELECT
+  valid_from: '2021-03-17'
+- country_code: SUPP_AG_ADMIN_PRESS
+  deprecated: 'false'
+  key: SUPP_AG_ADMIN_PRESS
+  label_en: "Administrative Support Agent \u2013 Press Assistance"
+  label_it: "Agente di supporto amministrativo \u2013 Assistente stampa"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_PRESS
+  valid_from: '2021-03-17'
+- country_code: SUPP_AG_ADMIN_SPOKESPRS
+  deprecated: 'false'
+  key: SUPP_AG_ADMIN_SPOKESPRS
+  label_en: Administrative Support Agent to the Spokesperson
+  label_it: Agente di supporto amministrativo del portavoce
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_SPOKESPRS
+  valid_from: '2021-03-17'
+- country_code: SUPP_AG_ADMIN_TRANSCR
+  deprecated: 'false'
+  key: SUPP_AG_ADMIN_TRANSCR
+  label_en: "Administrative Support Agent \u2013 Communication Assistance \u2013 Transcript"
+  label_it: "Agente di supporto amministrativo \u2013 Assistente alla comunicazione\
+    \ e ai verbali"
+  url: http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_TRANSCR
+  valid_from: '2021-03-17'
+- country_code: TEAM_LEADER
+  deprecated: 'false'
+  key: TEAM_LEADER
+  label_en: Team leader
+  label_it: Team leader
+  url: http://publications.europa.eu/resource/authority/role-qualifier/TEAM_LEADER
+  valid_from: '1952-07-24'
+- country_code: THIRD_COUNTRY
+  deprecated: 'false'
+  key: THIRD_COUNTRY
+  label_en: Third countries
+  label_it: Paesi terzi
+  url: http://publications.europa.eu/resource/authority/role-qualifier/THIRD_COUNTRY
+  valid_from: '1952-07-24'
+- country_code: TRAINEE
+  deprecated: 'false'
+  key: TRAINEE
+  label_en: Trainee
+  label_it: Tirocinante
+  url: http://publications.europa.eu/resource/authority/role-qualifier/TRAINEE
+  valid_from: '2021-03-17'
+- country_code: WEB_EDIT
+  deprecated: 'false'
+  key: WEB_EDIT
+  label_en: Webmaster-Editor
+  label_it: Webmaster-Redattore
+  url: http://publications.europa.eu/resource/authority/role-qualifier/WEB_EDIT
+  valid_from: '2021-03-17'
+- country_code: WRITER_SPEECH
+  deprecated: 'false'
+  key: WRITER_SPEECH
+  label_en: Speechwriter
+  label_it: Redattore di discorsi
+  url: http://publications.europa.eu/resource/authority/role-qualifier/WRITER_SPEECH
+  valid_from: '2021-03-17'
+- country_code: WRITER_SPEECH_PRESID
+  deprecated: 'false'
+  key: WRITER_SPEECH_PRESID
+  label_en: Speechwriter for the President
+  url: http://publications.europa.eu/resource/authority/role-qualifier/WRITER_SPEECH_PRESID
+  valid_from: '2021-09-29'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/rolesqualifier/OP_DATPRO
+  valid_from: '1952-07-23'

@@ -1,0 +1,53 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO
+- country_code: inc
+  deprecated: 'false'
+  key: inc
+  label_en: Accessibility criteria for persons with disabilities are included
+  label_it: "Sono compresi criteri di accessibilit\xE0 per le persone con disabilit\xE0"
+  url: http://publications.europa.eu/resource/authority/accessibility/inc
+  valid_from: '2019-09-18'
+- country_code: n-inc
+  deprecated: 'false'
+  key: n-inc
+  label_en: Accessibility criteria for persons with disabilities are not included
+    because the procurement is not intended for use by natural persons
+  label_it: "Non sono compresi criteri di accessibilit\xE0 per le persone con disabilit\xE0\
+    \ perch\xE9 l'oggetto dell'appalto non \xE8 destinato all'uso da parte di persone\
+    \ fisiche"
+  url: http://publications.europa.eu/resource/authority/accessibility/n-inc
+  valid_from: '2019-09-18'
+- country_code: n-inc-just
+  deprecated: 'false'
+  key: n-inc-just
+  label_en: Accessibility criteria for persons with disabilities are not included
+    with the following justification
+  label_it: "Non sono compresi criteri di accessibilit\xE0 per le persone con disabilit\xE0\
+    \ con la giustificazione seguente"
+  url: http://publications.europa.eu/resource/authority/accessibility/n-inc-just
+  valid_from: '2019-09-18'

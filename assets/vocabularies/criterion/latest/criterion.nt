@@ -1,0 +1,595 @@
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://publications.europa.eu/ontology/authority/op-code> "year-manpower" .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breaching of obligations in the fields of environmental law"@en .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://purl.org/dc/elements/1.1/identifier> "misinterpr" .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://www.w3.org/2004/02/skos/core#prefLabel> "Assets being administered by liquidator"@en .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://publications.europa.eu/resource/authority/op-code> "crime-org" .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://publications.europa.eu/ontology/authority/authority-code> "distorsion" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guilty of grave professional misconduct"@en .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://publications.europa.eu/ontology/authority/op-code> "qu-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://publications.europa.eu/ontology/authority/authority-code> "fraud" .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://publications.europa.eu/ontology/authority/authority-code> "relied" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://purl.org/dc/elements/1.1/identifier> "distorsion" .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://publications.europa.eu/ontology/authority/op-code> "socsec-pay" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/criterion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Criterion"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://purl.org/dc/elements/1.1/identifier> "envir-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://publications.europa.eu/ontology/authority/op-code> "chain-manage" .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://publications.europa.eu/ontology/authority/authority-code> "membership" .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specific yearly turnover"@en .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://publications.europa.eu/resource/authority/op-code> "autorisation" .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://publications.europa.eu/resource/authority/op-code> "finan-rat" .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://purl.org/dc/elements/1.1/identifier> "indem-insu" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economic operator micro, small or medium-sized enterprise"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://publications.europa.eu/ontology/authority/authority-code> "envir-law" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://publications.europa.eu/ontology/authority/op-code> "subco-ent" .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://purl.org/dc/elements/1.1/identifier> "sanction" .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://www.w3.org/2004/02/skos/core#prefLabel> "For service contracts: membership of particular organisation needed"@en .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://purl.org/dc/elements/1.1/identifier> "work-tech" .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://www.w3.org/2004/02/skos/core#prefLabel> "Educational and professional qualifications"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://purl.org/dc/elements/1.1/identifier> "envir-law" .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://publications.europa.eu/ontology/authority/op-code> "relied" .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://publications.europa.eu/resource/authority/op-code> "qa-certif-inst" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://publications.europa.eu/ontology/authority/authority-code> "prof-regist" .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://publications.europa.eu/resource/authority/op-code> "terr-offence" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion> <http://www.w3.org/2000/01/rdf-schema#label> "Criterion"@en .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://publications.europa.eu/resource/authority/op-code> "chain-manage" .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://publications.europa.eu/ontology/authority/op-code> "membership" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://purl.org/dc/elements/1.1/identifier> "prof-regist" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Analogous situation like bankruptcy under national law"@en .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://publications.europa.eu/ontology/authority/authority-code> "shelt-worksh" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://purl.org/dc/elements/1.1/identifier> "fraud" .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://publications.europa.eu/ontology/authority/authority-code> "spec-req-check" .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://publications.europa.eu/ontology/authority/op-code> "finan-requ" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://publications.europa.eu/ontology/authority/op-code> "prof-misconduct" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://publications.europa.eu/ontology/authority/authority-code> "w-autent" .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://publications.europa.eu/ontology/authority/op-code> "research-fac" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://publications.europa.eu/ontology/authority/op-code> "bankr-nat" .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://purl.org/dc/elements/1.1/identifier> "w-autent" .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://publications.europa.eu/ontology/authority/op-code> "tax-pay" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://publications.europa.eu/ontology/authority/authority-code> "qual-facil" .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://publications.europa.eu/resource/authority/op-code> "qu-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://publications.europa.eu/resource/authority/op-code> "misinterpr" .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://publications.europa.eu/ontology/authority/op-code> "indem-insu" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://publications.europa.eu/resource/authority/op-code> "socsec-pay" .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://publications.europa.eu/ontology/authority/op-code> "labour-law" .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://publications.europa.eu/resource/authority/op-code> "finan-requ" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://publications.europa.eu/ontology/authority/authority-code> "insolvency" .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subcontracting proportion"@en .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economic operator registered in a pre qualification system"@en .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://purl.org/dc/elements/1.1/identifier> "qualification" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://www.w3.org/2004/02/skos/core#prefLabel> "For supply contracts: performance of deliveries of the specified type"@en .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://publications.europa.eu/ontology/authority/op-code> "spec-aver-to" .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conflict of interest due to its participation in the procurement procedure"@en .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://purl.org/dc/elements/1.1/identifier> "finan-laund" .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://publications.europa.eu/ontology/authority/authority-code> "nati-ground" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion> <http://publications.europa.eu/ontology/authority/prefLabel> "Criterion"@en .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://publications.europa.eu/resource/authority/op-code> "subco-ent" .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://www.w3.org/2004/02/skos/core#prefLabel> "Average annual manpower"@en .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://purl.org/dc/elements/1.1/identifier> "shelt-worksh" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://publications.europa.eu/resource/authority/op-code> "indem-insu" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://publications.europa.eu/ontology/authority/op-code> "human-traffic" .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://publications.europa.eu/resource/authority/op-code> "sme" .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://purl.org/dc/elements/1.1/identifier> "spec-req-check" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guilty of misinterpretation, withheld information, unable to provide required documents and obtained confidential information of this procedure"@en .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bankruptcy"@en .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://publications.europa.eu/resource/authority/op-code> "labour-law" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://publications.europa.eu/ontology/authority/op-code> "tech-equip" .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://www.w3.org/2004/02/skos/core#prefLabel> "Money laundering or terrorist financing"@en .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breaching of obligations in the fields of labour law"@en .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://publications.europa.eu/ontology/authority/authority-code> "envir-measure" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://publications.europa.eu/resource/authority/op-code> "spec-aver-to" .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enrolment in a trade register"@en .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://publications.europa.eu/ontology/authority/authority-code> "socsec-law" .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://www.w3.org/2004/02/skos/core#prefLabel> "For supply contracts: samples, descriptions or photographs with certification of authenticity"@en .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://purl.org/dc/elements/1.1/identifier> "prep-confl" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://purl.org/dc/elements/1.1/identifier> "qual-facil" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://publications.europa.eu/resource/authority/op-code> "prof-misconduct" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://purl.org/dc/elements/1.1/identifier> "envir-measure" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://publications.europa.eu/ontology/authority/op-code> "bankruptcy" .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://publications.europa.eu/ontology/authority/authority-code> "manage-staff" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://publications.europa.eu/ontology/authority/op-code> "cred-arran" .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://purl.org/dc/elements/1.1/identifier> "socsec-law" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://publications.europa.eu/resource/authority/op-code> "human-traffic" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://publications.europa.eu/resource/authority/op-code> "research-fac" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://purl.org/dc/elements/1.1/identifier> "insolvency" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://purl.org/dc/elements/1.1/identifier> "nati-ground" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://publications.europa.eu/resource/authority/op-code> "shelt-worksh" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://publications.europa.eu/ontology/authority/op-code> "partic-confl" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://purl.org/dc/elements/1.1/identifier> "registered" .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agreements with other economic operators aimed at distorting competition"@en .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://publications.europa.eu/resource/authority/op-code> "bankruptcy" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion> <http://publications.europa.eu/ontology/authority/table.id> "criterion" .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://publications.europa.eu/ontology/authority/authority-code> "sanction" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://publications.europa.eu/ontology/authority/authority-code> "work-tech" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://publications.europa.eu/resource/authority/op-code> "bankr-nat" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://publications.europa.eu/ontology/authority/authority-code> "service-perform" .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://www.w3.org/2004/02/skos/core#prefLabel> "For supply contracts: samples, descriptions or photographs without certification of authenticity"@en .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://www.w3.org/2004/02/skos/core#prefLabel> "Certificates by independent bodies about environmental management systems or standards"@en .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://publications.europa.eu/ontology/authority/authority-code> "wo-autent" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://www.w3.org/2004/02/skos/core#prefLabel> "Financial ratio"@en .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://publications.europa.eu/ontology/authority/op-code> "suncont-port" .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://purl.org/dc/elements/1.1/identifier> "manage-staff" .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://publications.europa.eu/ontology/authority/op-code> "trade-regist" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://publications.europa.eu/ontology/authority/authority-code> "gen-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professional risk indemnity insurance"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://publications.europa.eu/ontology/authority/authority-code> "envir-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://publications.europa.eu/ontology/authority/authority-code> "work-perform" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://publications.europa.eu/ontology/authority/op-code> "liq-admin" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://publications.europa.eu/ontology/authority/op-code> "terr-offence" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://purl.org/dc/elements/1.1/identifier> "work-perform" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://purl.org/dc/elements/1.1/identifier> "gen-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://publications.europa.eu/ontology/authority/op-code> "misinterpr" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://publications.europa.eu/resource/authority/op-code> "cred-arran" .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Early termination, damages or other comparable sanctions"@en .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://www.w3.org/2004/02/skos/core#prefLabel> "For service contracts: authorisation of particular organisation needed"@en .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://publications.europa.eu/resource/authority/op-code> "tech-equip" .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://publications.europa.eu/ontology/authority/op-code> "aver-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://publications.europa.eu/ontology/authority/op-code> "distorsion" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://publications.europa.eu/ontology/authority/authority-code> "staff-red" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://publications.europa.eu/resource/authority/op-code> "insolvency" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enrolment in a relevant professional register"@en .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://publications.europa.eu/resource/authority/op-code> "liq-admin" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://purl.org/dc/elements/1.1/identifier> "service-perform" .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://publications.europa.eu/resource/authority/op-code> "partic-confl" .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://purl.org/dc/elements/1.1/identifier> "wo-autent" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business activities are suspended"@en .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion> <http://www.w3.org/2002/07/owl#versionInfo> "20210616-0" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://publications.europa.eu/ontology/authority/op-code> "sanction" .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://publications.europa.eu/ontology/authority/authority-code> "supply-perform" .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Payment of social security contributions"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://publications.europa.eu/ontology/authority/op-code> "envir-law" .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://publications.europa.eu/ontology/authority/authority-code> "qual-cont-tech" .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Participation in a criminal organisation"@en .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://publications.europa.eu/ontology/authority/authority-code> "susp-act" .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://purl.org/dc/elements/1.1/identifier> "supply-perform" .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://www.w3.org/2004/02/skos/core#prefLabel> "General yearly turnover"@en .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://purl.org/dc/elements/1.1/identifier> "qual-cont-tech" .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://publications.europa.eu/ontology/authority/op-code> "envir-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://publications.europa.eu/ontology/authority/authority-code> "eo-group" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://publications.europa.eu/ontology/authority/op-code> "prof-regist" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://publications.europa.eu/resource/authority/op-code> "trade-regist" .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://purl.org/dc/elements/1.1/identifier> "eo-group" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://publications.europa.eu/ontology/authority/authority-code> "corruption" .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://www.w3.org/2004/02/skos/core#prefLabel> "For works contracts: performance of works of the specified type"@en .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economic operator together with others"@en .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://publications.europa.eu/resource/authority/op-code> "sanction" .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://publications.europa.eu/ontology/authority/authority-code> "qualification" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://www.w3.org/2004/02/skos/core#prefLabel> "Environmental management measures"@en .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://purl.org/dc/elements/1.1/identifier> "staff-red" .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://publications.europa.eu/ontology/authority/authority-code> "crime-org" .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://www.w3.org/2004/02/skos/core#prefLabel> "Number of managerial staff"@en .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://publications.europa.eu/ontology/authority/authority-code> "spec-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://publications.europa.eu/ontology/authority/authority-code> "finan-laund" .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://publications.europa.eu/ontology/authority/op-code> "work-tech" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://publications.europa.eu/ontology/authority/op-code> "service-perform" .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breaching of obligations in the fields of social law"@en .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://publications.europa.eu/ontology/authority/op-code> "w-autent" .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://purl.org/dc/elements/1.1/identifier> "crime-org" .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://purl.org/dc/elements/1.1/identifier> "spec-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://www.w3.org/2004/02/skos/core#prefLabel> "Average yearly turnover"@en .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://publications.europa.eu/resource/authority/op-code> "aver-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://publications.europa.eu/resource/authority/op-code> "suncont-port" .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://publications.europa.eu/resource/authority/op-code> "distorsion" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://publications.europa.eu/ontology/authority/authority-code> "registered" .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://publications.europa.eu/resource/authority/op-code> "relied" .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://publications.europa.eu/ontology/authority/op-code> "fraud" .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subcontracted entities"@en .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://purl.org/dc/elements/1.1/identifier> "susp-act" .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://publications.europa.eu/resource/authority/op-code> "work-tech" .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://publications.europa.eu/ontology/authority/authority-code> "prep-confl" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://publications.europa.eu/resource/authority/op-code> "service-perform" .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://publications.europa.eu/ontology/authority/op-code> "finan-laund" .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://publications.europa.eu/resource/authority/op-code> "membership" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://publications.europa.eu/ontology/authority/authority-code> "qa-certif-inst" .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://publications.europa.eu/ontology/authority/op-code> "shelt-worksh" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://purl.org/dc/elements/1.1/identifier> "corruption" .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://publications.europa.eu/ontology/authority/op-code> "spec-req-check" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://purl.org/dc/elements/1.1/identifier> "qa-certif-inst" .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://publications.europa.eu/ontology/authority/authority-code> "year-manpower" .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://publications.europa.eu/ontology/authority/authority-code> "autorisation" .
+<http://publications.europa.eu/resource/authority/criterion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/envir-certif-indep> <http://publications.europa.eu/resource/authority/op-code> "envir-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://publications.europa.eu/resource/authority/op-code> "fraud" .
+<http://publications.europa.eu/resource/authority/criterion/distorsion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://publications.europa.eu/resource/authority/op-code> "prof-regist" .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://publications.europa.eu/ontology/authority/op-code> "qualification" .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://purl.org/dc/elements/1.1/identifier> "autorisation" .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://publications.europa.eu/ontology/authority/op-code> "prep-confl" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://purl.org/dc/elements/1.1/identifier> "finan-rat" .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terrorist offences or offences linked to terrorist activities"@en .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://www.w3.org/2004/02/skos/core#prefLabel> "For service contracts: performance of services of the specified type"@en .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://publications.europa.eu/ontology/authority/op-code> "socsec-law" .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://publications.europa.eu/resource/authority/op-code> "spec-req-check" .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://publications.europa.eu/resource/authority/op-code> "envir-law" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://publications.europa.eu/ontology/authority/op-code> "insolvency" .
+<http://publications.europa.eu/resource/authority/criterion/sanction> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://publications.europa.eu/resource/authority/op-code> "w-autent" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://publications.europa.eu/resource/authority/op-code> "staff-red" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://publications.europa.eu/ontology/authority/authority-code> "socsec-pay" .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://publications.europa.eu/ontology/authority/op-code> "nati-ground" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://www.w3.org/2004/02/skos/core#prefLabel> "Study and research facilities"@en .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://purl.org/dc/elements/1.1/identifier> "socsec-pay" .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://publications.europa.eu/ontology/authority/op-code> "qual-facil" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://publications.europa.eu/ontology/authority/authority-code> "subco-ent" .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://purl.org/dc/elements/1.1/identifier> "year-manpower" .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://publications.europa.eu/resource/authority/op-code> "finan-laund" .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tools, plant or technical equipment"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://www.w3.org/2004/02/skos/core#prefLabel> "Purely national exclusion grounds"@en .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Other economic or financial requirements"@en .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://publications.europa.eu/ontology/authority/authority-code> "qu-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://publications.europa.eu/ontology/authority/authority-code> "sme" .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://purl.org/dc/elements/1.1/identifier> "subco-ent" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economic operator is a sheltered workshop"@en .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://publications.europa.eu/ontology/authority/authority-code> "labour-law" .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/nati-ground> <http://publications.europa.eu/resource/authority/op-code> "nati-ground" .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technicians or technical bodies for quality control"@en .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://purl.org/dc/elements/1.1/identifier> "qu-certif-indep" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://purl.org/dc/elements/1.1/identifier> "sme" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arrangement with creditors"@en .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://publications.europa.eu/ontology/authority/op-code> "manage-staff" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/service-perform> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://publications.europa.eu/resource/authority/op-code> "qual-facil" .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/shelt-worksh> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://publications.europa.eu/ontology/authority/op-code> "registered" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://publications.europa.eu/resource/authority/op-code> "corruption" .
+<http://publications.europa.eu/resource/authority/criterion/qualification> <http://publications.europa.eu/resource/authority/op-code> "qualification" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://publications.europa.eu/resource/authority/op-code> "prep-confl" .
+<http://publications.europa.eu/resource/authority/criterion> <http://publications.europa.eu/ontology/authority/table.version.number> "20210616-0" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://publications.europa.eu/ontology/authority/authority-code> "tax-pay" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://purl.org/dc/elements/1.1/identifier> "finan-requ" .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://publications.europa.eu/ontology/authority/op-code> "work-perform" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://www.w3.org/2004/02/skos/core#prefLabel> "Child labour and other forms of trafficking in human beings"@en .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://publications.europa.eu/ontology/authority/op-code> "envir-measure" .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://purl.org/dc/elements/1.1/identifier> "relied" .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://publications.europa.eu/resource/authority/op-code> "manage-staff" .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://publications.europa.eu/resource/authority/op-code> "year-manpower" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://publications.europa.eu/ontology/authority/authority-code> "spec-aver-to" .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/relied> <http://www.w3.org/2004/02/skos/core#prefLabel> "Relied on entities"@en .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://publications.europa.eu/resource/authority/op-code> "registered" .
+<http://publications.europa.eu/resource/authority/criterion/manage-staff> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://purl.org/dc/elements/1.1/identifier> "membership" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://publications.europa.eu/ontology/authority/authority-code> "prof-misconduct" .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://publications.europa.eu/ontology/authority/authority-code> "bankruptcy" .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://purl.org/dc/elements/1.1/identifier> "labour-law" .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://publications.europa.eu/ontology/authority/authority-code> "human-traffic" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://publications.europa.eu/resource/authority/op-code> "envir-measure" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://publications.europa.eu/ontology/authority/authority-code> "research-fac" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://purl.org/dc/elements/1.1/identifier> "prof-misconduct" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://publications.europa.eu/ontology/authority/authority-code> "bankr-nat" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://publications.europa.eu/ontology/authority/op-code> "gen-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://publications.europa.eu/ontology/authority/op-code> "sme" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://publications.europa.eu/resource/authority/op-code> "socsec-law" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/research-fac> <http://purl.org/dc/elements/1.1/identifier> "research-fac" .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://purl.org/dc/elements/1.1/identifier> "bankr-nat" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/w-autent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/envir-law> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://purl.org/dc/elements/1.1/identifier> "tax-pay" .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://www.w3.org/2004/02/skos/core#prefLabel> "Insolvency"@en .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Supply chain management"@en .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://publications.europa.eu/ontology/authority/op-code> "qual-cont-tech" .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/prof-regist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://publications.europa.eu/ontology/authority/op-code> "wo-autent" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://purl.org/dc/elements/1.1/identifier> "spec-aver-to" .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://publications.europa.eu/ontology/authority/op-code> "staff-red" .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://purl.org/dc/elements/1.1/identifier> "bankruptcy" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://publications.europa.eu/ontology/authority/authority-code> "tech-equip" .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/year-manpower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://publications.europa.eu/ontology/authority/op-code> "spec-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://purl.org/dc/elements/1.1/identifier> "human-traffic" .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://publications.europa.eu/ontology/authority/op-code> "supply-perform" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://publications.europa.eu/ontology/authority/authority-code> "liq-admin" .
+<http://publications.europa.eu/resource/authority/criterion/finan-laund> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/qual-facil> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical facilities and measures for ensuring quality"@en .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://purl.org/dc/elements/1.1/identifier> "tech-equip" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/bankruptcy> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/labour-law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://publications.europa.eu/ontology/authority/authority-code> "terr-offence" .
+<http://publications.europa.eu/resource/authority/criterion/spec-aver-to> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specific average turnover"@en .
+<http://publications.europa.eu/resource/authority/criterion/membership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://publications.europa.eu/resource/authority/op-code> "wo-autent" .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://publications.europa.eu/ontology/authority/authority-code> "chain-manage" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://publications.europa.eu/ontology/authority/op-code> "eo-group" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://publications.europa.eu/ontology/authority/authority-code> "cred-arran" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://publications.europa.eu/ontology/authority/op-code> "susp-act" .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Payment of taxes"@en .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://publications.europa.eu/resource/authority/op-code> "work-perform" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://publications.europa.eu/resource/authority/op-code> "gen-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://publications.europa.eu/ontology/authority/authority-code> "finan-rat" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/human-traffic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://www.w3.org/2004/02/skos/core#prefLabel> "Special requierements check"@en .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://purl.org/dc/elements/1.1/identifier> "cred-arran" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/criterion/insolvency> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/sme> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/spec-req-check> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/work-tech> <http://www.w3.org/2004/02/skos/core#prefLabel> "For works contracts: technicians or technical bodies to carry out the work"@en .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/crime-org> <http://publications.europa.eu/ontology/authority/op-code> "crime-org" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reduction of the number of qualified candidates"@en .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://publications.europa.eu/ontology/authority/op-code> "corruption" .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://publications.europa.eu/ontology/authority/op-code> "qa-certif-inst" .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://publications.europa.eu/ontology/authority/authority-code> "partic-confl" .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/qual-cont-tech> <http://publications.europa.eu/resource/authority/op-code> "qual-cont-tech" .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://publications.europa.eu/ontology/authority/authority-code> "trade-regist" .
+<http://publications.europa.eu/resource/authority/criterion/misinterpr> <http://publications.europa.eu/ontology/authority/authority-code> "misinterpr" .
+<http://publications.europa.eu/resource/authority/criterion/socsec-pay> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/staff-red> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://publications.europa.eu/resource/authority/op-code> "susp-act" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://purl.org/dc/elements/1.1/identifier> "partic-confl" .
+<http://publications.europa.eu/resource/authority/criterion/cred-arran> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/tax-pay> <http://publications.europa.eu/resource/authority/op-code> "tax-pay" .
+<http://publications.europa.eu/resource/authority/criterion/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/criterion/autorisation> <http://publications.europa.eu/ontology/authority/op-code> "autorisation" .
+<http://publications.europa.eu/resource/authority/criterion/prof-misconduct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/trade-regist> <http://purl.org/dc/elements/1.1/identifier> "trade-regist" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://publications.europa.eu/ontology/authority/op-code> "finan-rat" .
+<http://publications.europa.eu/resource/authority/criterion/bankr-nat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/finan-requ> <http://publications.europa.eu/ontology/authority/authority-code> "finan-requ" .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/liq-admin> <http://purl.org/dc/elements/1.1/identifier> "liq-admin" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://www.w3.org/2004/02/skos/core#prefLabel> "Certificates by independent bodies about quality assurance standards"@en .
+<http://publications.europa.eu/resource/authority/criterion/prep-confl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direct or indirect involvement in the preparation of this procurement procedure"@en .
+<http://publications.europa.eu/resource/authority/criterion/socsec-law> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/work-perform> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/terr-offence> <http://purl.org/dc/elements/1.1/identifier> "terr-offence" .
+<http://publications.europa.eu/resource/authority/criterion/tech-equip> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://purl.org/dc/elements/1.1/identifier> "chain-manage" .
+<http://publications.europa.eu/resource/authority/criterion/wo-autent> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/envir-measure> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qu-certif-indep> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://publications.europa.eu/ontology/authority/authority-code> "aver-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://publications.europa.eu/ontology/authority/authority-code> "suncont-port" .
+<http://publications.europa.eu/resource/authority/criterion/spec-year-to> <http://publications.europa.eu/resource/authority/op-code> "spec-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/registered> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/criterion> .
+<http://publications.europa.eu/resource/authority/criterion/supply-perform> <http://publications.europa.eu/resource/authority/op-code> "supply-perform" .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/finan-rat> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/subco-ent> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/partic-confl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/indem-insu> <http://publications.europa.eu/ontology/authority/authority-code> "indem-insu" .
+<http://publications.europa.eu/resource/authority/criterion/fraud> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fraud"@en .
+<http://publications.europa.eu/resource/authority/criterion/aver-year-to> <http://purl.org/dc/elements/1.1/identifier> "aver-year-to" .
+<http://publications.europa.eu/resource/authority/criterion/suncont-port> <http://purl.org/dc/elements/1.1/identifier> "suncont-port" .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/chain-manage> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://www.w3.org/2004/02/skos/core#prefLabel> "For supply contracts: certificates by quality control institutes"@en .
+<http://publications.europa.eu/resource/authority/criterion/qa-certif-inst> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/criterion/gen-year-to> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/criterion/eo-group> <http://publications.europa.eu/resource/authority/op-code> "eo-group" .
+<http://publications.europa.eu/resource/authority/criterion/susp-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/criterion/corruption> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corruption"@en .
+

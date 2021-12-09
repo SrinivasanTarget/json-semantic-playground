@@ -1,0 +1,2000 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_ADOPTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2021-03-16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_ADOPTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_ADOPTED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_ADOPTED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Adopted proposal (or draft) means that the proposed legal act was adopted. The adopted legal act has to be published in the Official Journal in order to enter into force."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Прието предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přijatý návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Vedtaget forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Angenommener Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Εγκριθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Adopted proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta adoptada"
+      },
+      {
+        "@language": "et",
+        "@value": "Vastuvõetud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hyväksytty ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition adoptée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra glactha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Doneseni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elfogadott javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta adottata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pieņemts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta adottata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aangenomen voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek przyjęty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta adotada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunerea adoptată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prijatý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sprejet predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Antaget förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_PENDING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_PENDING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2021-03-16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_PENDING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_PENDING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_PENDING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Pending proposal (or draft) means that there is a proposal (or draft) adopted by the Commission which is currently subject to a law-making procedure but the proposed act has not yet been adopted."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Предложение в процес на разглеждане"
+      },
+      {
+        "@language": "cs",
+        "@value": "Projednávaný návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Eksisterende forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Anhängiger Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκκρεμής πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Pending proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta pendiente"
+      },
+      {
+        "@language": "et",
+        "@value": "Menetluses olev ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vireillä oleva ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition en cours d’examen"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra ar feitheamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prijedlog u tijeku"
+      },
+      {
+        "@language": "hu",
+        "@value": "Folyamatban lévő javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta in sospeso"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dar nepriimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izskatāms priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta pendenti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Hangend voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek w toku"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta pendente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere în curs"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prerokúvaný návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predlog v obravnavi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Pågående förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_REJECTED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_REJECTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_REJECTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_REJECTED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_REJECTED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "If a legislative proposal is rejected at any stage of the procedure, or the Parliament and the Council cannot reach a compromise, the proposal is not adopted and the procedure is ended. A new procedure can start only with a new proposal from the Commission."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отхвърлено предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zamítnutý návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Forkastet forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Abgelehnter Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Απορριφθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Rejected proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta rechazada"
+      },
+      {
+        "@language": "et",
+        "@value": "Tagasilükatud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hylätty ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition rejetée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra diúltaithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odbijeni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elutasított javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta respinta"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atmestas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Noraidīts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta miċħuda"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verworpen voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek odrzucony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta rejeitada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere respinsă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zamietnutý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zavrnjen predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avvisat förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_ACCEPTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_ACCEPTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_ACCEPTED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_ACCEPTED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Accepted proposal (or draft) means that the proposed legal act was adopted. The adopted legal act has to be published in the Official Journal in order to enter into force."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Прието предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přijatý návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Vedtaget forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Angenommener Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Εγκριθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Accepted proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta aceptada"
+      },
+      {
+        "@language": "et",
+        "@value": "Vastuvõetud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hyväksytty ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition acceptée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra ar glacadh leis"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prihvaćeni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elfogadott javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta accettata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Akceptēts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta aċċettata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aanvaard voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek zaakceptowany"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta aceite"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere acceptată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prijatý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sprejet predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Godtaget förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROC_WITHDRAWN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROC_WITHDRAWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROC_WITHDRAWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROC_WITHDRAWN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROC_WITHDRAWN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Withdrawn procedure means that a procedure was launched but no agreement was reached between the EU institutions on a proposed act, and therefore, the procedure was stopped."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Оттеглена процедура"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zastavený postup"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilbagetrukket procedure"
+      },
+      {
+        "@language": "de",
+        "@value": "Zurückgezogenes Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανακληθείσα διαδικασία"
+      },
+      {
+        "@language": "en",
+        "@value": "Withdrawn procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento retirado"
+      },
+      {
+        "@language": "et",
+        "@value": "Tagasivõetud menetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Keskeytetty menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure retirée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta aistarraingthe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Povučeni postupak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Visszavont eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura ritirata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atšaukta procedūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atsaukta procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura rtirata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ingetrokken procedure"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura wycofana"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento retirado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură retrasă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zastavený postup"
+      },
+      {
+        "@language": "sl",
+        "@value": "Umaknjen postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillbakadraget förfarande"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED_PART",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_ADOPTED_PART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2021-03-16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_ADOPTED_PART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_ADOPTED_PART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_ADOPTED_PART"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Partially adopted proposal means that a part of the proposed act was adopted but the final legal act does not contain all the provisions present in the proposal initially submitted because no agreement was reached on the entire act."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Частично прието предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Částečně přijatý návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Delvist vedtaget forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Teilweise angenommener Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Μερικώς εγκριθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Partially adopted proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta parcialmente adoptada"
+      },
+      {
+        "@language": "et",
+        "@value": "Osaliselt vastu võetud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osittain hyväksytty ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition partiellement adoptée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra glactha go páirteach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Djelomično doneseni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részben elfogadott javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta parzialmente adottata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Iš dalies priimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Daļēji pieņemts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta parzjalment adottata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gedeeltelijk aangenomen voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek częściowo przyjęty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta parcialmente adotada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere parțial adoptată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Čiastočne prijatý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Delno sprejet predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Delvis antaget förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_SUBMITTED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_SUBMITTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_SUBMITTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_SUBMITTED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_SUBMITTED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Submitted proposal (or draft) means that there is a proposal (or draft) adopted by the Commission which is currently subject to a law-making procedure but the proposed act has not yet been adopted."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Внесено предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předložený návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Fremsat forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Eingereichter Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Υποβληθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Submitted proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta presentada"
+      },
+      {
+        "@language": "et",
+        "@value": "Esitatud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Annettu ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition présentée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra tíolactha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Podneseni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Benyújtott javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta presentata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pateiktas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iesniegts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposti sottomessi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ingediend voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek złożony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta apresentada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere prezentată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predložený návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predložen predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Inlämnat förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROC_COMPLETED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROC_COMPLETED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROC_COMPLETED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROC_COMPLETED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROC_COMPLETED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Completed procedure means that the proposed legal act was adopted and the law-making procedure was closed."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Приключила процедура"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dokončený postup"
+      },
+      {
+        "@language": "da",
+        "@value": "Afsluttet procedure"
+      },
+      {
+        "@language": "de",
+        "@value": "Abgeschlossenes Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Ολοκληρωθείσα διαδικασία"
+      },
+      {
+        "@language": "en",
+        "@value": "Completed procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento concluido"
+      },
+      {
+        "@language": "et",
+        "@value": "Lõpetatud menetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Päätökseen saatettu menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure achevée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta i gcrích"
+      },
+      {
+        "@language": "hr",
+        "@value": "Završeni postupak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Befejezett eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura completata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Baigta procedūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pabeigta procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura lesta"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voltooide procedure"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura zakończona"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento concluído"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură finalizată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dokončený postup"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zaključen postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avslutat förfarande"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED_PART",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_ACCEPTED_PART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_ACCEPTED_PART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_ACCEPTED_PART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_ACCEPTED_PART"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Partially accepted proposal means that a part of the proposed act was adopted but the final legal act does not contain all the provisions present in the proposal initially submitted because no agreement was reached on the entire act."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Частично прието предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Částečně přijatý návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Delvist vedtaget forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Teilweise angenommener Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Μερικώς εγκριθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Partially accepted proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta parcialmente aceptada"
+      },
+      {
+        "@language": "et",
+        "@value": "Osaliselt vastuvõetud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osittain hyväksytty ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition partiellement acceptée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra ar glacadh go páirteach leis"
+      },
+      {
+        "@language": "hr",
+        "@value": "Djelomično prihvaćeni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részben elfogadott javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta parzialmente accettata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Iš dalies priimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Daļēji akceptēts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta parzjalment aċċettata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gedeeltelijk aanvaard voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek częściowo zaakceptowany"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta parcialmente aceite"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere parțial acceptată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Čiastočne prijatý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Delno sprejet predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Partiellt godtaget förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROC_PENDING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROC_PENDING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROC_PENDING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROC_PENDING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROC_PENDING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Pending procedure means that there is an ongoing lawmaking procedure initiated by a proposal (or draft) but the proposed act has not yet been adopted."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Висяща процедура"
+      },
+      {
+        "@language": "cs",
+        "@value": "Probíhající postup"
+      },
+      {
+        "@language": "da",
+        "@value": "Igangværende procedure"
+      },
+      {
+        "@language": "de",
+        "@value": "Laufendes Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκκρεμής διαδικασία"
+      },
+      {
+        "@language": "en",
+        "@value": "Pending procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento pendiente"
+      },
+      {
+        "@language": "et",
+        "@value": "Pooleliolev menetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vireillä oleva menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure en cours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta ar feitheamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak u tijeku"
+      },
+      {
+        "@language": "hu",
+        "@value": "Folyamatban levő eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura in sospeso"
+      },
+      {
+        "@language": "lt",
+        "@value": "Nebaigta procedūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Notiekoša procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura pendenti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Lopende procedure"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura w toku"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento pendente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură în curs"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prebiehajúci postup"
+      },
+      {
+        "@language": "sl",
+        "@value": "Postopek v teku"
+      },
+      {
+        "@language": "sv",
+        "@value": "Pågående förfarande"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN_PART",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_WITHDRAWN_PART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_WITHDRAWN_PART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_WITHDRAWN_PART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_WITHDRAWN_PART"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Partially withdrawn proposal means that a part of the proposal as it was initially submitted was withdrawn by the Commission during the law-making procedure."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Частично оттеглено предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Částečně stažený návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Delvist tilbagetrukket forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Teilweise zurückgezogener Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Μερικώς αποσυρθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Partially withdrawn proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta parcialmente retirada"
+      },
+      {
+        "@language": "et",
+        "@value": "Osaliselt tagasi võetud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osittain peruutettu ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition partiellement retirée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra aistarraingthe go páirteach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Djelomično povučeni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részben visszavont javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta parzialmente ritirata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Iš dalies atsiimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Daļēji atsaukts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta parzjalment irtirata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gedeeltelijk ingetrokken voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek częściowo wycofany"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta parcialmente retirada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere parțial retrasă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Čiastočne stiahnutý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Delno umaknjen predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Delvis tillbakadraget förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file_status/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROP_WITHDRAWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROP_WITHDRAWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-12-12"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROP_WITHDRAWN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROP_WITHDRAWN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Withdrawn proposal (or draft) means that no agreement was reached between the EU institutions on a proposed act, and therefore, the proposal was taken back by the Commission and the proposed act is deemed not to have been adopted."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Оттеглено предложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Stažený návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilbagetrukket forslag"
+      },
+      {
+        "@language": "de",
+        "@value": "Zurückgezogener Vorschlag"
+      },
+      {
+        "@language": "el",
+        "@value": "Αποσυρθείσα πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Withdrawn proposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Propuesta retirada"
+      },
+      {
+        "@language": "et",
+        "@value": "Tagasivõetud ettepanek"
+      },
+      {
+        "@language": "fi",
+        "@value": "Peruutettu ehdotus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Proposition retirée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Togra aistarraingthe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Povučeni prijedlog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Visszavont javaslat"
+      },
+      {
+        "@language": "it",
+        "@value": "Proposta ritirata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atsiimtas pasiūlymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atsaukts priekšlikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proposta rtirata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ingetrokken voorstel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wniosek wycofany"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proposta retirada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Propunere retrasă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Stiahnutý návrh"
+      },
+      {
+        "@language": "sl",
+        "@value": "Umaknjen predlog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillbakadraget förslag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/file-status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/file-status",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "File status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "file-status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "File status"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "File status"
+      }
+    ]
+  }
+]

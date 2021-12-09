@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/MNEMONIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>MNEMONIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>MNEMONIC</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>MNEMONIC</atold:op-code>
+    <dc:identifier>MNEMONIC</dc:identifier>
+    <skos:altLabel xml:lang="en">WHOISWHO_mnemonic</skos:altLabel>
+    <skos:changeNote xml:lang="en">requested by Jean Delahousse on 05/05/2015</skos:changeNote>
+    <skos:definition xml:lang="en">Mnemonic code used for organisational entities by EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Organisational entity mnemonic code</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EURLEX">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EURLEX</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EURLEX</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>EURLEX</atold:op-code>
+    <dc:identifier>EURLEX</dc:identifier>
+    <skos:changeNote xml:lang="en">EUDOR covers also "ARCHIVE", this concept has been deleted, 21/01/2015</skos:changeNote>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by EurLex domain in ATTO (Atelier des Tables de Traductions de l’Office des publications).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EurLex</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ID_INSTITUTION</at:authority-code>
+    <at:deprecated>true</at:deprecated>
+    <at:end.use>2018-04-05</at:end.use>
+    <at:op-code>ID_INSTITUTION</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>ID_INSTITUTION</atold:op-code>
+    <dc:identifier>ID_INSTITUTION</dc:identifier>
+    <skos:changeNote xml:lang="en">requested by Jean Delahousse on 05/05/2015</skos:changeNote>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">WHOISWHO_institution_id</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>OP_DATPRO</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/ODP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ODP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ODP</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>ODP</atold:op-code>
+    <dc:identifier>ODP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by ODP, the European Union Open Data Portal.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">ODP</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_CURIA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_CURIA</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_CURIA</atold:op-code>
+    <dc:identifier>IMMC_CURIA</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the Court of Justice of the European Union.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_CURIA</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/TED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TED</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>TED</atold:op-code>
+    <dc:identifier>TED</dc:identifier>
+    <skos:changeNote xml:lang="en">PUB covers also "PUB_CORP", this concept has been deleted, 21/01/2015</skos:changeNote>
+    <skos:definition xml:lang="en">Use context in several authority tables for displaying concepts on the TED (tenders electronic daily) portal search mask.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">TED</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/DEMED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DEMED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DEMED</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>DEMED</atold:op-code>
+    <dc:identifier>DEMED</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Corporate body authority table for filtering concepts used by DEMED, the Demande Edition application.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">DEMED</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/COMREF">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COMREF</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COMREF</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>COMREF</atold:op-code>
+    <dc:identifier>COMREF</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by COMREF, the European Commission's Human Resources Database.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">COMREF</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SIGN_LANGUAGE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SIGN_LANGUAGE</at:op-code>
+    <at:start.use>2020-06-24</at:start.use>
+    <atold:op-code>SIGN_LANGUAGE</atold:op-code>
+    <dc:identifier>SIGN_LANGUAGE</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Language authority table for identifying sign languages.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Sign language</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/ELI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ELI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ELI</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>ELI</atold:op-code>
+    <dc:identifier>ELI</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for identifying concepts relevant for ELI, European Legislation Identifier.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">ELI</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>NOTICE_VIEWER</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>NOTICE_VIEWER</at:op-code>
+    <at:start.use>2019-06-19</at:start.use>
+    <atold:op-code>NOTICE_VIEWER</atold:op-code>
+    <dc:identifier>NOTICE_VIEWER</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for viewing concepts in eProcurement Notices.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Notice Viewer</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP</at:op-code>
+    <at:start.use>2021-09-29</at:start.use>
+    <atold:op-code>EP</atold:op-code>
+    <dc:identifier>EP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts relevant for the European Parliament.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EP</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EU_REC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_REC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_REC</at:op-code>
+    <at:start.use>2016-05-25</at:start.use>
+    <atold:op-code>EU_REC</atold:op-code>
+    <dc:identifier>EU_REC</dc:identifier>
+    <skos:definition xml:lang="en">Use context used in the Country authority table to distinguish countries which exist and are recognized by EU Member States from territories or from countries which do not exist any more.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EU_REC</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_ECA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_ECA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_ECA</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_ECA</atold:op-code>
+    <dc:identifier>IMMC_ECA</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Court of Auditors.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_ECA</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Use context</rdfs:label>
+    <at:prefLabel xml:lang="en">Use context</at:prefLabel>
+    <at:table.id>use-context</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Use context</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TED_SCHEMA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TED_SCHEMA</at:op-code>
+    <at:start.use>2018-09-26</at:start.use>
+    <atold:op-code>TED_SCHEMA</atold:op-code>
+    <dc:identifier>TED_SCHEMA</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for identifying concepts used in TED Schema (FORM_SECTION).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">TED Schema</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/CODIF_DATA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CODIF_DATA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CODIF_DATA</at:op-code>
+    <at:start.use>2019-06-19</at:start.use>
+    <atold:op-code>CODIF_DATA</atold:op-code>
+    <dc:identifier>CODIF_DATA</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for codifying concepts in TED portal expert search and used in TED Schema (CODIF_DATA).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Codification Data</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/OJ">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>OJ</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>OJ</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>OJ</atold:op-code>
+    <dc:identifier>OJ</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by the Official Journal of the European Union.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">OJ</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_OMR_OCT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_OMR_OCT</at:op-code>
+    <at:start.use>2018-03-21</at:start.use>
+    <atold:op-code>EU_OMR_OCT</atold:op-code>
+    <dc:identifier>EU_OMR_OCT</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Country authority table for filtering outermost regions (OMR) and overseas countries and territories (OCT) associated to the European Union.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EU_OMR_OCT</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/DCAT_AP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DCAT_AP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DCAT_AP</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>DCAT_AP</atold:op-code>
+    <dc:identifier>DCAT_AP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by DCAT-AP, an application profile based on the Data Catalogue vocabulary designed to facilitate interoperability between EU and European data catalogues published on the Web.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">DCAT_AP</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/COM_NEWS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COM_NEWS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COM_NEWS</at:op-code>
+    <at:start.use>2020-06-24</at:start.use>
+    <atold:op-code>COM_NEWS</atold:op-code>
+    <dc:identifier>COM_NEWS</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Resource type authority table for identifying resource types specific to 'news' content among the web resources of the directorates-general of the European Commission.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">COM_NEWS</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/ESPD">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ESPD</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ESPD</at:op-code>
+    <at:start.use>2020-02-20</at:start.use>
+    <atold:op-code>ESPD</atold:op-code>
+    <dc:identifier>ESPD</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for identifying concepts used in the European single procurement document (ESPD).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">ESPD</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/PLANPUBLI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>PLANPUBLI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>PLANPUBLI</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>PLANPUBLI</atold:op-code>
+    <dc:identifier>PLANPUBLI</dc:identifier>
+    <skos:changeNote xml:lang="en">OJ covers also "OJEEP", this concept has been deleted, 21/01/2015</skos:changeNote>
+    <skos:definition xml:lang="en">Use context in the Multilingual authority table for filtering concepts used by PlanPubli, the workflow application of general publications at the Publications Office.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">PlanPubli</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EUDOR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EUDOR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EUDOR</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>EUDOR</atold:op-code>
+    <dc:identifier>EUDOR</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Language authority table for filtering concepts used by EUDOR, the European Union Document Repository which is the long-term digital archive of the EU institutions managed by the Publications Office.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EUDOR</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/COUNTRY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COUNTRY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COUNTRY</at:op-code>
+    <at:start.use>2020-12-16</at:start.use>
+    <atold:op-code>COUNTRY</atold:op-code>
+    <dc:identifier>COUNTRY</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Country authority table for identifying the current entities that have a formal status of a country.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Country</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_COR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_COR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_COR</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_COR</atold:op-code>
+    <dc:identifier>IMMC_COR</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Committee of the Regions.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_COR</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/FORMEX">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>FORMEX</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>FORMEX</at:op-code>
+    <at:start.use>2015-06-10</at:start.use>
+    <atold:op-code>FORMEX</atold:op-code>
+    <dc:identifier>FORMEX</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Subdivision authority table for filtering concepts used by FORMEX, the Formalized Exchange of Electronic Publications.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">FORMEX</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EFORMS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EFORMS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EFORMS</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>EFORMS</atold:op-code>
+    <dc:identifier>EFORMS</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for identifying concepts used in eForms.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">eForms</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/OJEEP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>OJEEP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>OJEEP</at:op-code>
+    <at:start.use>2012-12-12</at:start.use>
+    <atold:op-code>OJEEP</atold:op-code>
+    <dc:identifier>OJEEP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the File type authority table for filtering concepts used by OJEEP, the Official Journal Electronic Exchange Protocol which is a protocol used for exchange of information between the contractors and the Publications Office. The protocol is based on an XML schema and defines naming conventions and content of the packages exchanged between the systems.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">OJEEP</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/AKN4EU">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AKN4EU</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AKN4EU</at:op-code>
+    <at:start.use>2020-03-18</at:start.use>
+    <atold:op-code>AKN4EU</atold:op-code>
+    <dc:identifier>AKN4EU</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for the Akoma Ntoso for European Union specification (AKN4EU) for the exchange of legal documents.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">AKN4EU</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/PUB_CORP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>PUB_CORP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>PUB_CORP</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>PUB_CORP</atold:op-code>
+    <dc:identifier>PUB_CORP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Corporate body authority table for filtering concepts used by PUB_CORP table of Publications domain in ATTO (Atelier des Tables de Traductions de l’Office des publications).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">PUB_CORP</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/CJ">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CJ</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CJ</at:op-code>
+    <at:start.use>2015-06-10</at:start.use>
+    <atold:op-code>CJ</atold:op-code>
+    <dc:identifier>CJ</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Subdivision authority table for filtering concepts used by the Court of Justice.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">CJ</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_EFTA_UK</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_EFTA_UK</at:op-code>
+    <at:start.use>2020-12-16</at:start.use>
+    <atold:op-code>EU_EFTA_UK</atold:op-code>
+    <dc:identifier>EU_EFTA_UK</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Country authority table for identifying the following group of entities: the current member states of the European Union, the current member states of the European Free Trade Association, the United Kingdom.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EU_EFTA_UK</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/WHOISWHO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>WHOISWHO</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>WHOISWHO</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>WHOISWHO</atold:op-code>
+    <dc:identifier>WHOISWHO</dc:identifier>
+    <skos:changeNote xml:lang="en">WHOISWHO covers also "ANNINTER"', this concept has been deleted after confirmation from Xavier Desurmont, 21/01/2015</skos:changeNote>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used in EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">WHOISWHO</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_COM">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_COM</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_COM</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_COM</atold:op-code>
+    <dc:identifier>IMMC_COM</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Commission.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_COM</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>IMMC</atold:op-code>
+    <dc:identifier>IMMC</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/CELLAR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CELLAR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CELLAR</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>CELLAR</atold:op-code>
+    <dc:identifier>CELLAR</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by CELLAR, the common content and metadata repository of the Publications Office.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">CELLAR</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_EESC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_EESC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_EESC</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_EESC</atold:op-code>
+    <dc:identifier>IMMC_EESC</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Economic and Social Committee.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_EESC</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_CONSIL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_CONSIL</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_CONSIL</atold:op-code>
+    <dc:identifier>IMMC_CONSIL</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the Council of the European Union.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_CONSIL</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/COM_WEB">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COM_WEB</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COM_WEB</at:op-code>
+    <at:start.use>2020-02-20</at:start.use>
+    <atold:op-code>COM_WEB</atold:op-code>
+    <dc:identifier>COM_WEB</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the authority tables for identifying concepts used across the websites of different directorates-general of the European Commission.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">COM_WEB</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EUBOOKSHOP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EUBOOKSHOP</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>EUBOOKSHOP</atold:op-code>
+    <dc:identifier>EUBOOKSHOP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by EU Bookshop.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">EU Bookshop</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/IMMC_EP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>IMMC_EP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>IMMC_EP</at:op-code>
+    <at:start.use>2019-02-20</at:start.use>
+    <atold:op-code>IMMC_EP</atold:op-code>
+    <dc:identifier>IMMC_EP</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Parliament.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">IMMC_EP</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/INSTITUTION">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>INSTITUTION</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>INSTITUTION</at:op-code>
+    <at:start.use>2018-04-06</at:start.use>
+    <atold:op-code>INSTITUTION</atold:op-code>
+    <dc:identifier>INSTITUTION</dc:identifier>
+    <skos:definition xml:lang="en">Uniform resource identifier (URI) used for institutions by EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Institution URI</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/PUB">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>PUB</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>PUB</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>PUB</atold:op-code>
+    <dc:identifier>PUB</dc:identifier>
+    <skos:definition xml:lang="en">Use context in several authority tables for filtering concepts used by Publications domain in ATTO (Atelier des Tables de Traductions de l’Office des publications).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">PUB</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/ID_ENTITY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ID_ENTITY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ID_ENTITY</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>ID_ENTITY</atold:op-code>
+    <dc:identifier>ID_ENTITY</dc:identifier>
+    <skos:altLabel xml:lang="en">WHOISWHO_entity_id</skos:altLabel>
+    <skos:changeNote xml:lang="en">requested by Jean Delahousse on 05/05/2015</skos:changeNote>
+    <skos:definition xml:lang="en">Identifier used for organisational entities by EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Organisational entity ID</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/DEMPUB">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DEMPUB</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DEMPUB</at:op-code>
+    <at:start.use>2018-09-26</at:start.use>
+    <atold:op-code>DEMPUB</atold:op-code>
+    <dc:identifier>DEMPUB</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Corporate body authority table for filtering concepts used by services of the Publications Office.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">Publication request</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/use-context/DG_NEAR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DG_NEAR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DG_NEAR</at:op-code>
+    <at:start.use>2020-02-20</at:start.use>
+    <atold:op-code>DG_NEAR</atold:op-code>
+    <dc:identifier>DG_NEAR</dc:identifier>
+    <skos:definition xml:lang="en">Use context in the Country authority table for identifying concepts relevant for the Directorate-General for Neighbourhood and Enlargement Negotiations of the European Commission (DG NEAR).</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+    <skos:prefLabel xml:lang="en">DG_NEAR</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/use-context"/>
+  </rdf:Description>
+</rdf:RDF>

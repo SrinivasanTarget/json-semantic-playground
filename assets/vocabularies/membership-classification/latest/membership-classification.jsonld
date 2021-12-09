@@ -1,0 +1,1005 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/SCHENGEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SCHENGEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SCHENGEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1995-03-26"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SCHENGEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SCHENGEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Шенгенско пространство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Schengenský prostor"
+      },
+      {
+        "@language": "da",
+        "@value": "Schengenområdet"
+      },
+      {
+        "@language": "de",
+        "@value": "Schengen-Raum"
+      },
+      {
+        "@language": "el",
+        "@value": "Χώρος Σένγκεν"
+      },
+      {
+        "@language": "en",
+        "@value": "Schengen area"
+      },
+      {
+        "@language": "es",
+        "@value": "Espacio Schengen"
+      },
+      {
+        "@language": "et",
+        "@value": "Schengeni ala"
+      },
+      {
+        "@language": "fi",
+        "@value": "Schengen-alue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Espace Schengen"
+      },
+      {
+        "@language": "ga",
+        "@value": "Limistéar Schengen"
+      },
+      {
+        "@language": "hr",
+        "@value": "Schengensko područje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Schengeni térség"
+      },
+      {
+        "@language": "it",
+        "@value": "Spazio Schengen"
+      },
+      {
+        "@language": "lt",
+        "@value": "Šengeno erdvė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Šengenas zona"
+      },
+      {
+        "@language": "mt",
+        "@value": "Iż-żona Schengen"
+      },
+      {
+        "@language": "nl",
+        "@value": "Schengengebied"
+      },
+      {
+        "@language": "pl",
+        "@value": "Strefa Schengen"
+      },
+      {
+        "@language": "pt",
+        "@value": "Espaço Schengen"
+      },
+      {
+        "@language": "ro",
+        "@value": "Spațiul Schengen"
+      },
+      {
+        "@language": "sk",
+        "@value": "Schengenský priestor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Schengensko območje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Schengenområdet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Membership classification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "membership-classification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Membership classification"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Membership classification"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/EEA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EEA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EEA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1994-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EEA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EEA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейско икономическо пространство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropský hospodářský prostor"
+      },
+      {
+        "@language": "da",
+        "@value": "Det Europæiske Økonomiske Samarbejdsområde"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäischer Wirtschaftsraum"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκός Οικονομικός Χώρος"
+      },
+      {
+        "@language": "en",
+        "@value": "European Economic Area"
+      },
+      {
+        "@language": "es",
+        "@value": "Espacio Económico Europeo"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa majanduspiirkond"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan talousalue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Espace économique européen"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Limistéar Eorpach Eacnamaíoch"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europski gospodarski prostor"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Gazdasági Térség"
+      },
+      {
+        "@language": "it",
+        "@value": "Spazio economico europeo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos ekonominė erdvė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Ekonomikas zona"
+      },
+      {
+        "@language": "mt",
+        "@value": "Iż-żona Ekonomika Ewropea"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Economische Ruimte"
+      },
+      {
+        "@language": "pl",
+        "@value": "Europejski obszar gospodarczy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Espaço Económico Europeu"
+      },
+      {
+        "@language": "ro",
+        "@value": "Spațiul Economic European"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európsky hospodársky priestor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropski gospodarski prostor"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska ekonomiska samarbetsområdet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/EFTA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EFTA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EFTA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1960-01-04"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EFTA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EFTA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейска асоциация за свободна търговия"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropské sdružení volného obchodu"
+      },
+      {
+        "@language": "da",
+        "@value": "Den Europæiske Frihandelssammenslutning"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Freihandelsassoziation"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκή Ζώνη Ελεύθερων Συναλλαγών"
+      },
+      {
+        "@language": "en",
+        "@value": "European Free Trade Association"
+      },
+      {
+        "@language": "es",
+        "@value": "Asociación Europea de Libre Comercio"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Vabakaubanduse Assotsiatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan vapaakauppajärjestö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Association européenne de libre-échange"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlachas Saorthrádála na hEorpa"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europsko udruženje slobodne trgovine"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Szabadkereskedelmi Társulás"
+      },
+      {
+        "@language": "it",
+        "@value": "Associazione europea di libero scambio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos laisvosios prekybos asociacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Brīvās tirdzniecības asociācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Assoċjazzjoni Ewropea tal-Kummerċ Ħieles"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Vrijhandelsassociatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Europejskie Stowarzyszenie Wolnego Handlu"
+      },
+      {
+        "@language": "pt",
+        "@value": "Associação Europeia de Comércio Livre"
+      },
+      {
+        "@language": "ro",
+        "@value": "Asociația Europeană a Liberului Schimb"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európske združenie voľného obchodu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropsko združenje za prosto trgovino"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska frihandelssammanslutningen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/OTHER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "sv",
+        "@value": "Annat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Друго"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiný"
+      },
+      {
+        "@language": "da",
+        "@value": "Anden"
+      },
+      {
+        "@language": "de",
+        "@value": "Andere"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλο"
+      },
+      {
+        "@language": "en",
+        "@value": "Other"
+      },
+      {
+        "@language": "es",
+        "@value": "Otro"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Drugo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb"
+      },
+      {
+        "@language": "it",
+        "@value": "Altro"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kitas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Cits"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ieħor"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ander"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Altele"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iný"
+      },
+      {
+        "@language": "sl",
+        "@value": "Drugo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annan"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/EU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейски съюз"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropská unie"
+      },
+      {
+        "@language": "da",
+        "@value": "Den Europæiske Union"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Union"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκή Ένωση"
+      },
+      {
+        "@language": "en",
+        "@value": "European Union"
+      },
+      {
+        "@language": "es",
+        "@value": "Unión Europea"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Liit"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan unioni"
+      },
+      {
+        "@language": "fr",
+        "@value": "Union européenne"
+      },
+      {
+        "@language": "ga",
+        "@value": "An tAontas Eorpach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europska unija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Unió"
+      },
+      {
+        "@language": "it",
+        "@value": "Unione europea"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos Sąjunga"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Savienība"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Unjoni Ewropea"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Unie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Unia Europejska"
+      },
+      {
+        "@language": "pt",
+        "@value": "União Europeia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Uniunea Europeană"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európska únia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropska unija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska unionen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/membership-classification/EURO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EURO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EURO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EURO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EURO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/membership-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Еврозона"
+      },
+      {
+        "@language": "cs",
+        "@value": "Eurozóna"
+      },
+      {
+        "@language": "da",
+        "@value": "Euroområdet"
+      },
+      {
+        "@language": "de",
+        "@value": "Euro-Raum"
+      },
+      {
+        "@language": "el",
+        "@value": "Ζώνη του ευρώ"
+      },
+      {
+        "@language": "en",
+        "@value": "Euro area"
+      },
+      {
+        "@language": "es",
+        "@value": "Zona del euro"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroala"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroalue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Zone euro"
+      },
+      {
+        "@language": "ga",
+        "@value": "An limistéar euro"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europodručje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Euróövezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Zona euro"
+      },
+      {
+        "@language": "lt",
+        "@value": "Euro zona"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eurozona"
+      },
+      {
+        "@language": "mt",
+        "@value": "Iż-żona tal-euro"
+      },
+      {
+        "@language": "nl",
+        "@value": "Eurozone"
+      },
+      {
+        "@language": "pl",
+        "@value": "Strefa euro"
+      },
+      {
+        "@language": "pt",
+        "@value": "Área do euro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Zona euro"
+      },
+      {
+        "@language": "sk",
+        "@value": "Eurozóna"
+      },
+      {
+        "@language": "sl",
+        "@value": "Euroobmočje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Euroområdet"
+      }
+    ]
+  }
+]

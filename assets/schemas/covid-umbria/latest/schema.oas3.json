@@ -1,0 +1,254 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "version": "1.0.0",
+    "title": "COVID-19 Schema",
+    "x-summary": "Schema dell'API sui dati del COVID-19 della Regione Umbria",
+    "description": "Lo schema descrive i dati relativi relativi all'emergenza COVID-19 in Umbria.\n Per maggiori informazioni visitare la pagina\n https://github.com/Regione-Umbria/coronavirus.\n **versione beta.**",
+    "termsOfService": "https://apistore.regione.umbria.it/terms",
+    "contact": {
+      "url": "https://apistore.regione.umbria.it/home"
+    },
+    "x-api-id": "945ba997-a799-4e28-a3a6-60926c3316ea"
+  },
+  "paths": {},
+  "servers": [],
+  "tags": [],
+  "components": {
+    "schemas": {
+      "Dati": {
+        "additionalProperties": false,
+        "type": "object",
+        "required": [
+          "data",
+          "stato",
+          "codice_regione",
+          "denominazione_regione",
+          "codice_geo",
+          "denominazione_geo",
+          "tipo_geo",
+          "lat_geo",
+          "long_geo",
+          "residenti",
+          "casi_positivi",
+          "isolamento_volontario",
+          "in_isolamento_domiciliare",
+          "usciti_da_isolamento",
+          "ricoverati_totale",
+          "di_cui_ricoverati_con_sintomi",
+          "di_cui_ricoverati_in_terapia_intensiva",
+          "attualmente_positivi",
+          "nuovi_positivi",
+          "tasso_positivi_x1000",
+          "sign_positivi_x1000",
+          "guariti",
+          "guariti_clinici",
+          "deceduti",
+          "tamponi_eseguiti",
+          "tamponi_positivi",
+          "note",
+          "status"
+        ],
+        "x-jsonld-context": {
+          "clvapit": "https://w3id.org/italia/onto/CLV/",
+          "indicator": "https://w3id.org/italia/onto/Indicator/",
+          "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+          "stato": {
+            "@id": "clvapit:hasCountry",
+            "@type": "@id",
+            "@context": {
+              "@base": "https://publications.europa.eu/resource/authority/country/"
+            }
+          },
+          "codice_regione": {
+            "@id": "clvapit:Identifier",
+            "@type": "@id",
+            "@context": {
+              "@base": "https://w3id.org/italia/controlled-vocabulary/territorial-classifications/regions/"
+            }
+          },
+          "denominazione_regione": {
+            "@id": "skos:prefLabel",
+            "@type": "clvapit:Region"
+          },
+          "codice_geo": {
+            "@id": "clvapit:Identifier",
+            "@type": "@id",
+            "@context": {
+              "@base": "https://w3id.org/italia/data/identifiers/cities-identifiers/numeric-istat-code/"
+            }
+          },
+          "lat_geo": {
+            "@id": "clvapit:lat"
+          },
+          "long_geo": {
+            "@id": "clvapit:long"
+          },
+          "data": {
+            "@id": "indicator:computedAtTime"
+          },
+          "note": {
+            "@id": "rdfs:comment"
+          }
+        },
+        "properties": {
+          "data": {
+            "type": "string",
+            "description": "Data dell'informazione",
+            "format": "date"
+          },
+          "stato": {
+            "type": "string",
+            "description": "Stato di riferimento codifica ISO 3166-1 alpha-3",
+            "example": "ITA",
+            "format": "XYZ (ISO 3166-1 alpha-3)"
+          },
+          "codice_regione": {
+            "type": "number",
+            "format": "int32",
+            "description": "Codice della Regione (ISTAT)",
+            "example": 10
+          },
+          "denominazione_regione": {
+            "type": "string",
+            "description": "Denominazione della Regione",
+            "example": "Umbria"
+          },
+          "codice_geo": {
+            "type": "number",
+            "format": "int32",
+            "description": "Codice area geografica (ISTAT per i comuni) o della struttura (ad es. ospedali) a cui si riferiscono i dati",
+            "example": 55004
+          },
+          "denominazione_geo": {
+            "type": "string",
+            "description": "Denominazione dell'area o struttura a cui si riferiscono i dati",
+            "example": "Perugia"
+          },
+          "tipo_geo": {
+            "type": "string",
+            "description": "Tipo di area geografica o struttura a cui si riferiscono i dati",
+            "example": "Comune"
+          },
+          "lat_geo": {
+            "type": "string",
+            "description": "Latitudine (centroide)",
+            "format": "WGS84"
+          },
+          "long_geo": {
+            "type": "string",
+            "description": "Longitudine (centroide)",
+            "format": "WGS84"
+          },
+          "residenti": {
+            "type": "string",
+            "description": "Totale residenti da ISTAT 2019",
+            "example": "11819"
+          },
+          "casi_positivi": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale dei casi positivi ad oggi diagnosticati; calcolo: attualmente_positivi + guariti + deceduti",
+            "example": 3
+          },
+          "isolamento_volontario": {
+            "type": "number",
+            "format": "int32",
+            "description": "Attuale numero di persone (non testate positive) che sono in isolamento fiduciario in casa o altra struttura non ospedaliera",
+            "example": 3
+          },
+          "in_isolamento_domiciliare": {
+            "type": "number",
+            "format": "int32",
+            "description": "Attuale numero di casi positivi che sono in isolamento contumaciale in casa o altra struttura non ospedaliera",
+            "example": 3
+          },
+          "usciti_da_isolamento": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale numero di casi positivi usciti dall'isolamento (non pi\u00f9 positivi al tampone)",
+            "example": 3
+          },
+          "ricoverati_totale": {
+            "type": "number",
+            "format": "int32",
+            "description": "Attuale numero dei casi positivi che sono ricoverati in ospedale; calcolo: di_cui_ricoverati_con_sintomi + di_cui_ricoverati_in_terapia_intensiva",
+            "example": 3
+          },
+          "di_cui_ricoverati_con_sintomi": {
+            "type": "number",
+            "format": "int32",
+            "description": "Attuale numero di casi positivi che sono ricoverati in reparti diversi dalla terapia intensiva",
+            "example": 3
+          },
+          "di_cui_ricoverati_in_terapia_intensiva": {
+            "type": "number",
+            "format": "int32",
+            "description": "Attuale numero di casi positivi ricoverati in terapia intensiva",
+            "example": 3
+          },
+          "attualmente_positivi": {
+            "type": "number",
+            "format": "int32",
+            "description": "Attuale numero di casi positivi; calcolo: ricoverati_totale + in_isolamento_domiciliare",
+            "example": 3
+          },
+          "nuovi_positivi": {
+            "type": "number",
+            "format": "int32",
+            "description": "Nuovi attualmente positivi; calcolo: attualmente_positivi - attualmente_positivi del giorno prima",
+            "example": 3
+          },
+          "tasso_positivi_x1000": {
+            "type": "string",
+            "description": "Tasso attuali casi positivi ogni 1000 abitanti residenti; calcolo: attualmente_positivi / residenti * 1000",
+            "example": "0.12"
+          },
+          "sign_positivi_x1000": {
+            "type": "string",
+            "description": "Significativit\u00e0 degli attuali casi positivi ogni 1000 abitanti residenti rispetto al tasso medio regionale; calcolo: 1 se tasso_positivi_x1000 superiore del 5% alla media, oppure -1 se tasso_positivi_x1000 inferiore del 5% alla media, altrimenti 0 se intorno alla media",
+            "example": "0.12"
+          },
+          "guariti": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale dei casi positivi che risolvono i sintomi dell\u2019infezione da Covid-19 e che risultano negativi in due test consecutivi effettuati a distanza di 24 ore uno dall\u2019altro",
+            "example": 3
+          },
+          "guariti_clinici": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale dei casi positivi che risultano clinicamente guariti anche se ancora positivi al tampone",
+            "example": 3
+          },
+          "deceduti": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale dei casi positivi che sono deceduti, anche con diagnosi post-mortem; La conferma che la causa del decesso \u00e8 attribuibile esclusivamente al SARS-CoV-2 verr\u00e0 dichiarata dall\u2019Istituto Superiore di Sanit\u00e0",
+            "example": 3
+          },
+          "tamponi_eseguiti": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale dei tamponi (test) effettuati, un soggetto pu\u00f2 essere sottoposto a pi\u00f9 tamponi quindi non \u00e8 indicativo delle persone controllate",
+            "example": 3
+          },
+          "tamponi_positivi": {
+            "type": "number",
+            "format": "int32",
+            "description": "Totale dei tamponi (test) effettuati con esito positivo",
+            "example": 3
+          },
+          "note": {
+            "type": "string",
+            "description": "Eventuali note sul dato raccolto"
+          },
+          "status": {
+            "type": "string",
+            "description": "Se dato ufficiale confermato = pub"
+          }
+        }
+      }
+    }
+  }
+}

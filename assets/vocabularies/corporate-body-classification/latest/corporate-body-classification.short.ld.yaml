@@ -1,0 +1,310 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: AGENCY_CFSP
+  deprecated: 'false'
+  key: AGENCY_CFSP
+  label_en: Common foreign and security policy agency
+  label_it: Agenzia per la politica estera e di sicurezza comune
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP
+  valid_from: '2002-01-01'
+- country_code: AGENCY_DEC
+  deprecated: 'false'
+  key: AGENCY_DEC
+  label_en: Decentralised agency
+  label_it: Agenzia decentrata
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC
+  valid_from: '1994-09-01'
+- country_code: AGENCY_EURATOM
+  deprecated: 'false'
+  key: AGENCY_EURATOM
+  label_en: Euratom agency
+  label_it: "Agenzia dell\u2019Euratom"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM
+  valid_from: '1958-12-06'
+- country_code: AGENCY_EXEC
+  deprecated: 'false'
+  key: AGENCY_EXEC
+  label_en: Executive agency
+  label_it: Agenzia esecutiva
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC
+  valid_from: '2014-12-17'
+- country_code: AGENCY_OTHER
+  deprecated: 'false'
+  key: AGENCY_OTHER
+  label_en: Other agency
+  label_it: Altra agenzia
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER
+  valid_from: '2007-01-01'
+- country_code: CB
+  deprecated: 'false'
+  key: CB
+  label_en: Corporate body
+  label_it: Persona giuridica
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/CB
+  valid_from: '1951-01-01'
+- country_code: CB_EU
+  deprecated: 'false'
+  key: CB_EU
+  label_en: European Union corporate body
+  label_it: "Persona giuridica dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU
+  valid_from: '1951-01-01'
+- country_code: CB_INT
+  deprecated: 'false'
+  key: CB_INT
+  label_en: International organisation
+  label_it: Organizzazione internazionale
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT
+  valid_from: '1900-01-01'
+- country_code: CB_OTHER
+  deprecated: 'false'
+  key: CB_OTHER
+  label_en: Other organisation
+  label_it: Altra organizzazione
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER
+  valid_from: '2012-08-30'
+- country_code: CMT_MIX
+  deprecated: 'false'
+  key: CMT_MIX
+  label_en: Joint committee
+  label_it: Comitato misto
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX
+  valid_from: '1957-03-25'
+- country_code: COR_COM
+  deprecated: 'false'
+  key: COR_COM
+  label_en: COR commission
+  label_it: Commissione CdR
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM
+  valid_from: '1994-03-09'
+- country_code: COR_DIR
+  deprecated: 'false'
+  key: COR_DIR
+  label_en: COR directorate
+  label_it: Direzione CdR
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR
+  valid_from: '2012-01-01'
+- country_code: COR_GROUP
+  deprecated: 'false'
+  key: COR_GROUP
+  label_en: COR group
+  label_it: Gruppo CdR
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP
+  valid_from: '1994-03-09'
+- country_code: COUN_ASS
+  deprecated: 'false'
+  key: COUN_ASS
+  label_en: Association council
+  label_it: Consiglio di associazione
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS
+  valid_from: '1957-03-25'
+- country_code: COUN_COOP
+  deprecated: 'false'
+  key: COUN_COOP
+  label_en: Cooperation council
+  label_it: Consiglio di cooperazione
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP
+  valid_from: '1958-01-01'
+- country_code: COUN_STAB_ASS
+  deprecated: 'false'
+  key: COUN_STAB_ASS
+  label_en: Stabilisation and association council
+  label_it: Consiglio di stabilizzazione e di associazione
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS
+  valid_from: '2009-12-01'
+- country_code: DEL
+  deprecated: 'false'
+  key: DEL
+  label_en: Delegation
+  label_it: Delegazione
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/DEL
+  valid_from: '1960-01-01'
+- country_code: DIR
+  deprecated: 'false'
+  key: DIR
+  label_en: Directorate
+  label_it: Direzione
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/DIR
+  valid_from: '1958-01-01'
+- country_code: DIR_GEN
+  deprecated: 'false'
+  key: DIR_GEN
+  label_en: Directorate-general
+  label_it: Direzione generale
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN
+  valid_from: '1958-01-01'
+- country_code: EP_AP
+  deprecated: 'false'
+  key: EP_AP
+  label_en: Delegation to a parliamentary assembly
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP
+  valid_from: '1952-07-23'
+- country_code: EP_CE
+  deprecated: 'false'
+  key: EP_CE
+  label_en: EP committee of inquiry
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE
+  valid_from: '1958-03-19'
+- country_code: EP_CJ
+  deprecated: 'false'
+  key: EP_CJ
+  label_en: EP joint committee
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ
+  valid_from: '1958-03-19'
+- country_code: EP_CMT
+  deprecated: 'false'
+  key: EP_CMT
+  label_en: EP parliamentary committee
+  label_it: Commissione parlamentare PE
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT
+  valid_from: '1958-03-19'
+- country_code: EP_CT
+  deprecated: 'false'
+  key: EP_CT
+  label_en: EP special committee
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT
+  valid_from: '1958-03-19'
+- country_code: EP_DE
+  deprecated: 'false'
+  key: EP_DE
+  label_en: Interparliamentary delegation
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE
+  valid_from: '1952-07-23'
+- country_code: EP_DEL
+  deprecated: 'false'
+  key: EP_DEL
+  label_en: EP delegation
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL
+  valid_from: '1952-07-23'
+- country_code: EP_DIR_GEN
+  deprecated: 'false'
+  key: EP_DIR_GEN
+  label_en: EP directorate-general
+  label_it: Direzione generale PE
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN
+  valid_from: '1952-07-23'
+- country_code: EP_DM
+  deprecated: 'false'
+  key: EP_DM
+  label_en: Delegation to a joint committee
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM
+  valid_from: '1952-07-23'
+- country_code: EP_GROUP
+  deprecated: 'false'
+  key: EP_GROUP
+  label_en: EP political group
+  label_it: Gruppo politico PE
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP
+  valid_from: '1958-01-01'
+- country_code: EP_IG
+  deprecated: 'false'
+  key: EP_IG
+  label_en: Intergroup
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG
+  valid_from: '1952-07-23'
+- country_code: EP_POLBODY
+  deprecated: 'false'
+  key: EP_POLBODY
+  label_en: EP political body
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY
+  valid_from: '1952-07-23'
+- country_code: EP_SC
+  deprecated: 'false'
+  key: EP_SC
+  label_en: EP subcommittee
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC
+  valid_from: '1958-03-19'
+- country_code: EU_AGENCY
+  deprecated: 'false'
+  key: EU_AGENCY
+  label_en: EU agency
+  label_it: "Agenzia dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY
+  valid_from: '1958-12-06'
+- country_code: EU_BODY
+  deprecated: 'false'
+  key: EU_BODY
+  label_en: EU body
+  label_it: "Organo dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY
+  valid_from: '1951-01-01'
+- country_code: EU_INST
+  deprecated: 'false'
+  key: EU_INST
+  label_en: EU institution
+  label_it: "Istituzione dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST
+  valid_from: '1951-01-01'
+- country_code: EU_INTERINSTSERV
+  deprecated: 'false'
+  key: EU_INTERINSTSERV
+  label_en: EU interinstitutional service
+  label_it: "Servizio interistituzionale dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV
+  valid_from: '1968-12-31'
+- country_code: EU_JU
+  deprecated: 'false'
+  key: EU_JU
+  label_en: EU joint undertaking
+  label_it: "Impresa comune dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU
+  valid_from: '2007-02-27'
+- country_code: INF_OFF
+  deprecated: 'false'
+  key: INF_OFF
+  label_en: Information office
+  label_it: "Ufficio d\u2019informazione"
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF
+  valid_from: '1958-01-01'
+- country_code: LIA_OFF
+  deprecated: 'false'
+  key: LIA_OFF
+  label_en: Liaison office
+  label_it: Ufficio di collegamento
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF
+  valid_from: '2018-07-01'
+- country_code: NP
+  deprecated: 'false'
+  key: NP
+  label_en: National party
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/NP
+  valid_from: '1900-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/OP_DATPRO
+- country_code: REPRES
+  deprecated: 'false'
+  key: REPRES
+  label_en: Representation
+  label_it: Rappresentanza
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES
+  valid_from: '1958-01-01'
+- country_code: SERV_DEP
+  deprecated: 'false'
+  key: SERV_DEP
+  label_en: Service
+  label_it: Servizio
+  url: http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP
+  valid_from: '1983-02-01'

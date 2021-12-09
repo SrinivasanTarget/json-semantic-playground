@@ -1,0 +1,11 @@
+# Serializing assets/vocabularies/applicability/latest/applicability.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/applicability
+# title: Applicability
+# version: 20201216-0
+# description: Applicability
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/applicability/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+no,http://publications.europa.eu/resource/authority/applicability/no,no,No,No,false,2019-09-18
+not-known,http://publications.europa.eu/resource/authority/applicability/not-known,not-known,Not yet known,Non ancora noto,false,2019-09-18
+yes,http://publications.europa.eu/resource/authority/applicability/yes,yes,Yes,Sì,false,2019-09-18

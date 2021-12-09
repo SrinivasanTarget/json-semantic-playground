@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/pin-only">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>pin-only</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>pin-only</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>pin-only</atold:op-code>
+    <dc:identifier>pin-only</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за предварителна информация или периодично индикативно обявление, използвани само за информация</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné oznámení nebo pravidelné předběžné oznámení použité pouze pro informační účely</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der kun er anvendt til informationsformål</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung nur zu Informationszwecken</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για ενημέρωση</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Prior information notice or a periodic indicative notice used only for information</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de información previa o anuncio periódico indicativo usado únicamente para información</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ainult teavitamise eesmärgil kasutatav eelteade või perioodiline eelteade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ennakkoilmoitus tai ohjeellinen kausi-ilmoitus vain tietotarkoituksiin</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de préinformation ou avis périodique indicatif utilisé uniquement à titre d’information</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil ar mhaithe le faisnéis amháin</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena samo u informativne svrhe</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kizárólag tájékoztatás céljából használt előzetes tájékoztató vagy időszakos előzetes tájékoztató</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di preinformazione o avviso periodico indicativo a fini unicamente informativi</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, skirtas tik informavimui</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto tikai informācijai</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat biss għall-informazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vooraankondiging of periodieke indicatieve aankondiging die alleen ter informatie wordt gebruikt</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane wyłącznie do celów informacyjnych</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de pré-informação ou anúncio periódico indicativo utilizado apenas a título informativo</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de intenție sau anunț orientativ periodic utilizat numai pentru informare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné oznámenie a pravidelné informatívne oznámenie použité len na informačné účely</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja samo za obveščanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Förhandsmeddelande som endast används i informationssyfte</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/pin-buyer">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>pin-buyer</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>pin-buyer</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>pin-buyer</atold:op-code>
+    <dc:identifier>pin-buyer</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за публикуването на обявление за предварителна информация или периодично индикативно обявление в профил на купувача</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o uveřejnění předběžného oznámení nebo pravidelného předběžného oznámení na profilu kupujícího</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om offentliggørelse af en forhåndsmeddelelse eller en vejledende periodisk bekendtgørelse i en køberprofil</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung der Veröffentlichung einer Vorinformation oder einer regelmäßigen nicht verbindlichen Bekanntmachung in einem Beschafferprofil</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση της δημοσίευσης προκαταρκτικής προκήρυξης ή περιοδικής ενημερωτικής προκήρυξης για προφίλ αγοραστή</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Notice of the publication of a prior information notice or a periodic information notice on a buyer profile</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de la publicación de un anuncio de información previa o de un anuncio periódico indicativo en un perfil de comprador</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Teade eelteate või perioodilise eelteate avaldamise kohta hankija profiilis</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ilmoitus ennakkoilmoituksen tai ohjeellisen kausi-ilmoituksen julkaisemisesta hankkijaprofiilissa</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis annonçant la publication d’un avis de préinformation ou d’un avis périodique indicatif sur un profil d’acheteur</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le foilsiú fógra faisnéise roimh ré nó fógra faisnéise tréimhsiúil i dtaobh próifíl cheannaitheora</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o objavi prethodne informacijske obavijesti ili periodične informativne obavijesti na profilu kupca</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Előzetes tájékoztató vagy időszakos előzetes tájékoztató felhasználói oldalon történő közzétételéről szóló hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di pubblicazione di un avviso di preinformazione o di un avviso periodico indicativo relativo al profilo di committente</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Pranešimas apie skelbiamą išankstinį informacinį skelbimą arba reguliarų orientacinį skelbimą pirkėjo profilyje</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par iepriekšējā informatīvā paziņojuma vai periodiskā informatīvā paziņojuma publicēšanu pircēja profilā</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-pubblikazzjoni ta’ avviż informattiv minn qabel jew ta’ avviż informattiv perjodiku fuq profil ta’ xerrej</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van de bekendmaking van een vooraankondiging of een periodieke indicatieve aankondiging via een kopersprofiel</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o publikacji wstępnego ogłoszenia informacyjnego lub okresowego ogłoszenia informacyjnego na profilu nabywcy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de publicação de um anúncio de pré-informação ou de um anúncio periódico indicativo sobre um perfil de adquirente</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț privind publicarea unui anunț de intenție sau a unui anunț periodic de informare privind profilul unui cumpărător</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o uverejnení predbežného oznámenia a pravidelného informatívneho oznámenia v profile kupujúceho</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o objavi predhodnega informativnega obvestila ali periodičnega informativnega obvestila v profilu kupca</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om offentliggörande av ett förhandsmeddelande på upphandlarprofil</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/brin-ecs">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>brin-ecs</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>brin-ecs</at:op-code>
+    <at:start.use>2021-09-29</at:start.use>
+    <atold:op-code>brin-ecs</atold:op-code>
+    <dc:identifier>brin-ecs</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="en">European Company / European Cooperative Society notice</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/pin-cfc-social">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>pin-cfc-social</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>pin-cfc-social</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>pin-cfc-social</atold:op-code>
+    <dc:identifier>pin-cfc-social</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за предварителна информация или периодично индикативно обявление, използвани като покана за участие в състезателна процедура – облекчен режим</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné oznámení nebo pravidelné předběžné oznámení použité jako výzva k účasti v soutěži – zjednodušený režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt som indkaldelser af tilbud – den lempelige ordning</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung als Aufruf zum Wettbewerb – Sonderregelung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για προκήρυξη διαγωνισμού – απλουστευμένο καθεστώς</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Prior information notice or a periodic indicative notice used as a call for competition – light regime</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de información previa o anuncio periódico indicativo usado como convocatoria de licitación. Régimen simplificado</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Hanke väljakuulutamiseks kasutatav eelteade või perioodiline eelteade – lihtsustatud kord</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Tarjouskilpailukutsuna käytettävä ennakkoilmoitus tai ohjeellinen kausi-ilmoitus – kevennetty järjestely</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de préinformation ou avis périodique indicatif utilisé comme appel à la concurrence – régime assoupli</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra réamhfhaisnéise nó fógra táscach tréimhsiúil lena ndéantar glao ar iomaíocht – an córas éadrom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena kao poziv na nadmetanje – blagi režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ajánlati/részvételi felhívásként használt előzetes tájékoztató vagy időszakos előzetes tájékoztató – enyhébb szabályozás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime alleggerito</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas kaip kvietimas dalyvauti konkurse. Paprastesnis režimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto iepirkuma izsludināšanai — atvieglotais režīms</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat għal sejħa għall-kompetizzjoni – reġim ħafif</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vooraankondiging of periodieke indicatieve aankondiging gebruikt als oproep tot mededinging – lichte regeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane jako zaproszenie do ubiegania się o zamówienie – tryb uproszczony</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de pré-informação ou anúncio periódico indicativo utilizado como anúncio de concurso — regime simplificado</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de intenție sau anunț orientativ periodic utilizat ca procedură concurențială de ofertare - regim simplificat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné oznámenie alebo pravidelné informatívne oznámenie použité ako výzva na súťaž – zjednodušený režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja kot javni razpis – enostavnejša ureditev</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Förhandsmeddelande som används som anbudsinfordran – förenklat system</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/cn-social">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>cn-social</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>cn-social</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>cn-social</atold:op-code>
+    <dc:identifier>cn-social</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за поръчка – облекчен режим</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o zahájení zadávacího řízení – zjednodušený režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Udbudsbekendtgørelse – den lempelige ordning</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Auftragsbekanntmachung – Sonderregelung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκήρυξη σύμβασης — απλουστευμένο καθεστώς</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Contract notice – light regime</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de contrato. Régimen simplificado</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Hanketeade – lihtsustatud kord</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Hankintailmoitus – kevennetty järjestely</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de marché – régime assoupli</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra conartha – an córas éadrom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o nadmetanju – blagi režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Eljárást megindító hirdetmény – enyhébb szabályozás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Bando di gara – regime alleggerito</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie pirkimą. Paprastesnis režimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par līgumu — atvieglotais režīms</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-kuntratt – reġim ħafif</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van een opdracht – lichte regeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o zamówieniu – tryb uproszczony</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de concurso — regime simplificado</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de participare - regim simplificat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o vyhlásení verejného obstarávania – zjednodušený režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o naročilu – enostavnejša ureditev</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om upphandling – förenklat system</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/subco">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>subco</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>subco</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>subco</atold:op-code>
+    <dc:identifier>subco</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за поръчка за подизпълнение</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o subdodávkách</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om underentreprise</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung der Vergabe von Unteraufträgen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκήρυξη υπεργολαβίας</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Subcontracting notice</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de subcontratación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Allhanke teade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alihankintaa koskeva ilmoitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de sous-traitance</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le fochonrú</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Poziv na podugovaranje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Alvállalkozói hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di subappalto</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie subrangą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par apakšuzņēmuma līgumu</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tas-sottokuntrattar</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van een opdracht in onderaanneming</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o podwykonawstwie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de subcontratação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de subcontractare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o zadaní subdodávok</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o oddaji naročil podizvajalcem</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om underentreprenad</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/pin-cfc-standard">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>pin-cfc-standard</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>pin-cfc-standard</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>pin-cfc-standard</atold:op-code>
+    <dc:identifier>pin-cfc-standard</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за предварителна информация или периодично индикативно обявление, използвани като покана за участие в състезателна процедура – стандартен режим</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné oznámení nebo pravidelné předběžné oznámení použité jako výzva k účasti v soutěži – standardní režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt som indkaldelser af tilbud – standardordningen</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung als Aufruf zum Wettbewerb – Standardregelung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για προκήρυξη διαγωνισμού – τυποποιημένο καθεστώς</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Prior information notice or a periodic indicative notice used as a call for competition – standard regime</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de información previa o anuncio periódico indicativo usado como convocatoria de licitación. Régimen normal</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Hanke väljakuulutamiseks kasutatav eelteade või perioodiline eelteade – üldkord</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Tarjouskilpailukutsuna käytettävä ennakkoilmoitus tai ohjeellinen kausi-ilmoitus – vakiojärjestelmä</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de préinformation ou avis périodique indicatif utilisé comme appel à la concurrence – régime ordinaire</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil lena ndéantar glao ar iomaíocht – an gnáthchóras</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena kao poziv na nadmetanje – standardni režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ajánlati/részvételi felhívásként használt előzetes tájékoztató vagy időszakos előzetes tájékoztató – klasszikus ajánlatkérőkre vonatkozó szabályok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime ordinario</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas kaip kvietimas dalyvauti konkurse. Įprasta tvarka</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto iepirkuma izsludināšanai — standarta režīms</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat għal sejħa għall-kompetizzjoni – reġim standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vooraankondiging of periodieke indicatieve aankondiging gebruikt als oproep tot mededinging – standaardregeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane jako zaproszenie do ubiegania się o zamówienie – tryb standardowy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de pré-informação ou anúncio periódico indicativo utilizado como anúncio de concurso — regime normal</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de intenție sau anunț orientativ periodic utilizat ca procedură concurențială de ofertare - regim standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné oznámenie a pravidelné informatívne oznámenie použité ako výzva na súťaž – štandardný režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja kot javni razpis – standardna ureditev</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Förhandsmeddelande som används som anbudsinfordran – standardsystem</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/can-social">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>can-social</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>can-social</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>can-social</atold:op-code>
+    <dc:identifier>can-social</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за възложена поръчка или концесия – облекчен режим</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o výsledku zadávacího nebo koncesního řízení – zjednodušený režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om indgåede kontrakter eller koncessionstildeling – den lempelige ordning</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung vergebener Aufträge oder Zuschlagsbekanntmachung – Sonderregelung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση συναφθείσας σύμβασης ή σύμβασης παραχώρησης — απλουστευμένο καθεστώς</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Contract or concession award notice – light regime</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de adjudicación de contrato o concesión. Régimen simplificado</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Lepingu sõlmimise või kontsessiooni andmise teade – lihtsustatud kord</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Hankintailmoitus tai käyttöoikeussopimusta koskeva ilmoitus – kevennetty järjestely</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis d’attribution de marché ou de concession – régime assoupli</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le dámhachtain conartha nó lamháltais — an córas éadrom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o dodjeli ugovora ili koncesije – blagi režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tájékoztató az eljárás eredményéről vagy koncesszió odaítéléséről – enyhébb szabályozás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di aggiudicazione di un appalto o di una concessione – regime alleggerito</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par līguma slēgšanas tiesību vai koncesijas piešķiršanu — atvieglotais režīms</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-għoti tal-kuntratt jew tal-konċessjoni – reġim ħafif</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van een gegunde opdracht of concessie – lichte regeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o udzieleniu zamówienia lub ogłoszenie o udzieleniu koncesji – tryb uproszczony</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de adjudicação de contrato ou de concessão — regime simplificado</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de atribuire a contractului sau a concesiunii - regim simplificat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o výsledku verejného obstarávania alebo oznámenie o udelení koncesie – zjednodušený režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o podelitvi koncesije ali oddaji naročila – enostavnejša ureditev</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om upphandlings- eller koncessionstilldelning – förenklat system</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/pin-rtl">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>pin-rtl</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>pin-rtl</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>pin-rtl</atold:op-code>
+    <dc:identifier>pin-rtl</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за предварителна информация или периодично индикативно обявление, използвани за съкращаване на сроковете за получаване на офертите</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné oznámení nebo pravidelné předběžné oznámení použité za účelem zkrácení lhůty pro podání nabídek</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt til at afkorte tidsfrister for modtagelse af tilbud</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung zum Zweck der Verkürzung der Frist für den Eingang der Angebote</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική διακήρυξη που χρησιμοποιείται για τη συντόμευση των προθεσμιών παραλαβής των προσφορών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Prior information notice or a periodic indicative notice used to shorten time limits for receipt of tenders</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de información previa o anuncio periódico indicativo usado para reducir los plazos de recepción de las ofertas</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Eelteade või perioodiline eelteade pakkumuste vastuvõtmise tähtaegade lühendamiseks</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ennakkoilmoitus tai ohjeellinen kausi-ilmoitus tarjousaikojen lyhentämistä varten</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de préinformation ou avis périodique indicatif utilisé pour raccourcir les délais de réception des offres</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil lena ngearrtar na teorainneacha ama le tairiscintí a fháil</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena za skraćivanje rokova za zaprimanje ponuda</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ajánlatok beérkezésére megszabott határidő rövidítésére szolgáló előzetes tájékoztató vagy időszakos előzetes tájékoztató</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di preinformazione o avviso periodico indicativo utilizzato per abbreviare i termini per la ricezione delle offerte</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant sutrumpinti pasiūlymų priėmimo terminą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto, lai saīsinātu piedāvājumu saņemšanas termiņus</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat biex jitqassru l-limiti ta’ żmien għall-wasla tal-offerti</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vooraankondiging of periodieke indicatieve aankondiging gebruikt om termijnen voor de ontvangst van inschrijvingen in te korten</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane do skrócenia terminu składania ofert</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de pré-informação ou anúncio periódico indicativo utilizado para encurtar os prazos de receção das propostas</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de intenție sau anunț orientativ periodic utilizat pentru scurtarea termenelor de primire a ofertelor</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné oznámenie a pravidelné informatívne oznámenie použité na skrátenie lehôt na prijímanie ponúk</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Predhodno informativno obvestilo ali periodično informativno obvestilo, predhodno informativno obvestilo kot sredstvo za skrajšanje rokov za prejem ponudb</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Förhandsmeddelande som används för att minska tidsfristerna för mottagande av anbud</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/can-desg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>can-desg</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>can-desg</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>can-desg</atold:op-code>
+    <dc:identifier>can-desg</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за резултата от конкурс за проект</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o výsledku soutěže o návrh</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om resultater af projektkonkurrence</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung der Wettbewerbsergebnisse</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση αποτελεσμάτων διαγωνισμού μελετών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Design contest result notice</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de concurso de proyectos</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ideekonkursi tulemuse teade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ilmoitus suunnittelukilpailun tuloksista</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de résultats de concours</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra faoi thorthaí an chomórtais dearaidh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o rezultatima projektnog natječaja</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tervpályázat eredményéről szóló hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Comunicazione dei risultati di un concorso di progettazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie projekto konkurso rezultatus</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par metu konkursa rezultātiem</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-konkors tad-disinn</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van de uitslag van een prijsvraag voor ontwerpen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o wynikach konkursu</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio dos resultados do concurso de conceção</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț privind rezultatul concursului de proiecte</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o výsledku súťaže návrhov</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o rezultatih projektnega natečaja</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om resultat av projekttävling</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/qu-sy">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>qu-sy</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>qu-sy</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>qu-sy</atold:op-code>
+    <dc:identifier>qu-sy</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за съществуването на квалификационна система</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o zavedení systému kvalifikace</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om anvendelse af en kvalifikationsordning</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung über das Bestehen eines Prüfungssystems</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση για την ύπαρξη συστήματος προεπιλογής</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Notice on the existence of a qualification system</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de la existencia de un sistema de calificación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kvalifitseerimissüsteemi teade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kelpuuttamisjärjestelmää koskeva ilmoitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis sur l’existence d’un système de qualification</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le córas cáiliúcháin a bheith ann</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o postojanju kvalifikacijskog sustava</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Előminősítési rendszer meglétéről szóló hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso sull'esistenza di un sistema di qualificazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie kvalifikacijos vertinimo sistemą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par kvalifikācijas sistēmu</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż dwar l-eżistenza ta’ sistema ta’ kwalifika</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging inzake het bestaan van een erkenningsregeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o istnieniu systemu kwalifikowania</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio relativo à existência de um sistema de qualificação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț privind existența unui sistem de calificare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o existencii kvalifikačného systému</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o vzpostavitvi kvalifikacijskega sistema</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om att det finns ett kvalificeringssystem</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/veat">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>veat</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>veat</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>veat</atold:op-code>
+    <dc:identifier>veat</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за доброволна прозрачност ex ante</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o dobrovolné průhlednosti ex ante</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse med henblik på frivillig forudgående gennemsigtighed</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Freiwillige Ex-ante-Transparenzbekanntmachung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκήρυξη για εκούσια εκ των προτέρων διαφάνεια</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Voluntary ex-ante transparency notice</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de transparencia previa voluntaria</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Vabatahtlik eelnev avalikustamisteade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Vapaaehtoista ex ante -avoimuutta koskeva ilmoitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis en cas de transparence ex ante volontaire</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra trédhearcachta ex ante deonach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest za dobrovoljnu ex ante transparentnost</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Önkéntes, előzetes, átláthatóságra vonatkozó hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso volontario per la trasparenza ex ante</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Savanoriškas ex-ante skelbimas skaidrumo sumetimais</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Brīvprātīgas ex ante pārskatāmības paziņojums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tat-trasparenza ex ante volontarju</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging in geval van vrijwillige transparantie vooraf</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o dobrowolnej przejrzystości ex ante</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio voluntário de transparência ex ante</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de transparență ex ante voluntară</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie pre dobrovoľnú transparentnosť ex-ante</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Prostovoljno obvestilo za predhodno transparentnost</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om frivillig förhandsinsyn</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/cn-desg">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>cn-desg</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>cn-desg</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>cn-desg</atold:op-code>
+    <dc:identifier>cn-desg</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за конкурс за проект</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o soutěži o návrh</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om projektkonkurrence</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Wettbewerbsbekanntmachung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκήρυξη διαγωνισμού μελετών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Design contest notice</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de concurso de proyectos</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ideekonkursi kutse</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Suunnittelukilpailua koskeva ilmoitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de concours</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra faoi chomórtas dearaidh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o projektnom natječaju</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tervpályázati hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso o bando di concorso di progettazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie projekto konkursą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par metu konkursu</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-konkors tad-disinn</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van een prijsvraag voor ontwerpen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o konkursie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de concurso para trabalhos de conceção</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de concurs de proiecte</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o vyhlásení súťaže návrhov</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o projektnem natečaju</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om projekttävling</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/can-standard">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>can-standard</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>can-standard</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>can-standard</atold:op-code>
+    <dc:identifier>can-standard</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за възложена поръчка или концесия – стандартен режим</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o výsledku zadávacího nebo koncesního řízení – standardní režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om indgåede kontrakter eller koncessionstildeling – standardordningen</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung vergebener Aufträge oder Zuschlagsbekanntmachung – Standardregelung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση ανάθεσης σύμβασης ή ανάθεσης σύμβασης παραχώρησης — τυποποιημένο καθεστώς</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Contract or concession award notice – standard regime</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de adjudicación de contrato o concesión. Régimen normal</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Lepingu sõlmimise või kontsessiooni andmise teade – üldkord</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Jälki-ilmoitus tai käyttöoikeussopimusta koskeva jälki-ilmoitus – vakiojärjestelmä</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis d’attribution de marché ou de concession – régime ordinaire</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le dámhachtain conartha nó lamháltais — an gnáthchóras</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o dodjeli ugovora ili koncesije – standardni režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tájékoztató az eljárás eredményéről vagy koncesszió odaítéléséről – klasszikus ajánlatkérőkre vonatkozó szabályok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di aggiudicazione di un appalto o di una concessione – regime ordinario</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par līguma slēgšanas tiesību vai koncesijas piešķiršanu — standarta režīms</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-għoti tal-kuntratt jew tal-konċessjoni – reġim standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van een gegunde opdracht of concessie – standaardregeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o udzieleniu zamówienia lub ogłoszenie o udzieleniu koncesji – tryb standardowy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de adjudicação de contrato ou de concessão — regime normal</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de atribuire a contractului sau a concesiunii - regim standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o výsledku verejného obstarávania alebo oznámenie o udelení koncesie – štandardný režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o podelitvi koncesije ali oddaji naročila – standardna ureditev</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om upphandlings- eller koncessionstilldelning – standardsystem</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/cn-standard">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>cn-standard</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>cn-standard</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>cn-standard</atold:op-code>
+    <dc:identifier>cn-standard</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за поръчка или концесия – стандартен режим</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o zahájení zadávacího nebo koncesního řízení – standardní režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Udbuds- eller koncessionsbekendtgørelse – standardordningen</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Auftrags- oder Konzessionsbekanntmachung – Standardregelung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκήρυξη σύμβασης ή σύμβασης παραχώρησης — τυποποιημένο καθεστώς</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Contract or concession notice – standard regime</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de contrato o de concesión. Régimen normal</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Hanketeade või kontsessiooniteade – üldkord</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Hankintailmoitus tai käyttöoikeussopimusta koskeva ilmoitus – vakiojärjestelmä</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de marché ou de concession – régime ordinaire</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le conradh nó lamháltas — an gnáthchóras</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o nadmetanju ili koncesiji – standardni režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Eljárást megindító vagy koncessziós hirdetmény – klasszikus ajánlatkérőkre vonatkozó szabályok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Bando di gara o di concessione – regime ordinario</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie pirkimą arba koncesiją. Įprasta tvarka</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par līgumu vai paziņojums par koncesiju — standarta režīms</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-kuntratt jew tal-konċessjoni – reġim standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van een opdracht of concessie – standaardregeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de adjudicação de contrato ou de concessão — regime normal</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de participare sau de concesionare - regim standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o vyhlásení verejného obstarávania alebo oznámenie o koncesii – štandardný režim</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o koncesiji ali naročilu – standardna ureditev</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om upphandling eller koncession – standardsystem</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/brin-eeig">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>brin-eeig</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>brin-eeig</at:op-code>
+    <at:start.use>2021-09-29</at:start.use>
+    <atold:op-code>brin-eeig</atold:op-code>
+    <dc:identifier>brin-eeig</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="en">European Economic Interest Grouping notice</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/can-tran">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>can-tran</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>can-tran</at:op-code>
+    <at:start.use>2021-09-29</at:start.use>
+    <atold:op-code>can-tran</atold:op-code>
+    <dc:identifier>can-tran</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="en">Contract award notice for public passenger transport services</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/can-modif">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>can-modif</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>can-modif</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>can-modif</atold:op-code>
+    <dc:identifier>can-modif</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за изменение на договор</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o změně smlouvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bekendtgørelse om kontraktændring</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bekanntmachung der Auftragsänderungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση τροποποίησης σύμβασης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Contract modification notice</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de modificación de contrato</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Lepingu muutmise teade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Hankintasopimuksen muuttamista koskeva ilmoitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de modification de marché</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le mionathrú conartha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o izmjeni ugovora</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Szerződésmódosításról szóló hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di modifica di un appalto</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie sutarties keitimą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Paziņojums par līguma grozījumiem</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-modifika fil-kuntratt</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aankondiging van wijziging contract</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o modyfikacji umowy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de modificação do contrato</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de modificare a contractului</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o úprave zmluvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o spremembi naročila</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om ändring av kontrakt</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/pin-tran">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>pin-tran</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>pin-tran</at:op-code>
+    <at:start.use>2021-09-29</at:start.use>
+    <atold:op-code>pin-tran</atold:op-code>
+    <dc:identifier>pin-tran</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="en">Prior information notice for public passenger transport services</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type/corr">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>corr</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>corr</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>corr</atold:op-code>
+    <dc:identifier>corr</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/notice-type"/>
+    <skos:prefLabel xml:lang="bg">Обявление за промяна</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení oprav</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Meddelelse om ændring</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Änderungsbekanntmachung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γνωστοποίηση αλλαγών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Change notice</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Anuncio de cambios</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Paranduse teade</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ilmoituksen muutos</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Avis de changement</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fógra maidir le hathrú</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obavijest o promjeni</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Változtatásról szóló hirdetmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Avviso di rettifica</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skelbimas apie pakeitimą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Izmaiņu paziņojums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Avviż tal-bidla</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Bericht van wijziging van een aankondiging</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Ogłoszenie o zmianie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Anúncio de alteração</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Anunț de schimbare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Oznámenie o zmene</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Obvestilo o spremembi obvestila</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Meddelande om ändring</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/notice-type">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Notice type</rdfs:label>
+    <at:prefLabel xml:lang="en">Notice type</at:prefLabel>
+    <at:table.id>notice-type</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Notice type</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

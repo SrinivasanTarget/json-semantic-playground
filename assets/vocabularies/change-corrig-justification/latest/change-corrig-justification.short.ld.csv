@@ -1,0 +1,15 @@
+# Serializing assets/vocabularies/change-corrig-justification/latest/change-corrig-justification.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/change-corrig-justification
+# title: Change corrig justification
+# version: 20200923-0
+# description: Change corrig justification
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/change-corrig-justification/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+cancel,http://publications.europa.eu/resource/authority/change-corrig-justification/cancel,cancel,Cancellation,Annullamento,false,2019-09-18
+cancel-intent,http://publications.europa.eu/resource/authority/change-corrig-justification/cancel-intent,cancel-intent,Cancellation intention,Previsto annullamento,false,2019-09-18
+cor-buy,http://publications.europa.eu/resource/authority/change-corrig-justification/cor-buy,cor-buy,Buyer correction,Rettifica errore committente,false,2019-09-18
+cor-esen,http://publications.europa.eu/resource/authority/change-corrig-justification/cor-esen,cor-esen,eSender correction,Rettifica errore eSender,false,2019-09-18
+cor-pub,http://publications.europa.eu/resource/authority/change-corrig-justification/cor-pub,cor-pub,Publisher correction,Rettifica errore editore,false,2019-09-18
+info-release,http://publications.europa.eu/resource/authority/change-corrig-justification/info-release,info-release,Availability information,Disponibilità di informazioni,false,2019-09-18
+update-add,http://publications.europa.eu/resource/authority/change-corrig-justification/update-add,update-add,Information updated,Aggiornamento informazioni,false,2019-09-18

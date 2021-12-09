@@ -1,0 +1,233 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/asset-classification/OP_DATPRO
+  valid_from: '1952-07-23'
+- country_code: c_1fb7be39
+  deprecated: 'false'
+  key: c_1fb7be39
+  label_en: Relational model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_1fb7be39
+  valid_from: '2019-12-11'
+- country_code: c_230aaab7
+  deprecated: 'false'
+  key: c_230aaab7
+  label_en: Presentation style sheet
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_230aaab7
+  valid_from: '2019-12-11'
+- country_code: c_25e514f4
+  deprecated: 'false'
+  key: c_25e514f4
+  label_en: Lexicon
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_25e514f4
+  valid_from: '2019-12-11'
+- country_code: c_2db4690d
+  deprecated: 'false'
+  key: c_2db4690d
+  label_en: Mind map
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_2db4690d
+  valid_from: '2019-12-11'
+- country_code: c_32ffe82d
+  deprecated: 'false'
+  key: c_32ffe82d
+  label_en: Business Process Model and Notation
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_32ffe82d
+  valid_from: '2019-12-11'
+- country_code: c_35dcf03c
+  deprecated: 'false'
+  key: c_35dcf03c
+  label_en: Argument map
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_35dcf03c
+  valid_from: '2019-12-11'
+- country_code: c_3626c85a
+  deprecated: 'false'
+  key: c_3626c85a
+  label_en: Subject headings
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_3626c85a
+  valid_from: '2019-12-11'
+- country_code: c_366e3b24
+  deprecated: 'false'
+  key: c_366e3b24
+  label_en: Base registry
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_366e3b24
+  valid_from: '2021-02-04'
+- country_code: c_3948c2ed
+  deprecated: 'false'
+  key: c_3948c2ed
+  label_en: Markup schema
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_3948c2ed
+  valid_from: '2019-12-11'
+- country_code: c_5796a20b
+  deprecated: 'false'
+  key: c_5796a20b
+  label_en: Dictionary
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_5796a20b
+  valid_from: '2019-12-11'
+- country_code: c_5b130cc6
+  deprecated: 'false'
+  key: c_5b130cc6
+  label_en: Authority file
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_5b130cc6
+  valid_from: '2020-11-03'
+- country_code: c_638e1719
+  deprecated: 'false'
+  key: c_638e1719
+  label_en: 'Authoritative source '
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_638e1719
+  valid_from: '2021-02-24'
+- country_code: c_64714767
+  deprecated: 'false'
+  key: c_64714767
+  label_en: Terminology
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_64714767
+  valid_from: '2019-12-11'
+- country_code: c_722cef3f
+  deprecated: 'false'
+  key: c_722cef3f
+  label_en: Data model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_722cef3f
+  valid_from: '2019-12-11'
+- country_code: c_89b4bdb7
+  deprecated: 'false'
+  key: c_89b4bdb7
+  label_en: Formal ontology
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_89b4bdb7
+  valid_from: '2019-12-11'
+- country_code: c_8da81c02
+  deprecated: 'false'
+  key: c_8da81c02
+  label_en: Classification
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_8da81c02
+  valid_from: '2019-12-11'
+- country_code: c_a2df28a1
+  deprecated: 'false'
+  key: c_a2df28a1
+  label_en: Taxonomy
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_a2df28a1
+  valid_from: '2019-12-11'
+- country_code: c_a6822084
+  deprecated: 'false'
+  key: c_a6822084
+  label_en: System network
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_a6822084
+  valid_from: '2019-12-11'
+- country_code: c_a7773248
+  deprecated: 'false'
+  key: c_a7773248
+  label_en: Thesaurus
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_a7773248
+  valid_from: '2019-12-11'
+- country_code: c_b0bfba6e
+  deprecated: 'false'
+  key: c_b0bfba6e
+  label_en: Categorisation
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_b0bfba6e
+  valid_from: '2019-12-11'
+- country_code: c_b37963b3
+  deprecated: 'false'
+  key: c_b37963b3
+  label_en: Application profile
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_b37963b3
+  valid_from: '2019-12-11'
+- country_code: c_b81ceeea
+  deprecated: 'false'
+  key: c_b81ceeea
+  label_en: Entity-relationship model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_b81ceeea
+  valid_from: '2019-12-11'
+- country_code: c_bba2bb35
+  deprecated: 'false'
+  key: c_bba2bb35
+  label_en: Alignment
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_bba2bb35
+  valid_from: '2019-12-11'
+- country_code: c_c0b5956c
+  deprecated: 'false'
+  key: c_c0b5956c
+  label_en: Frame-based model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_c0b5956c
+  valid_from: '2019-12-11'
+- country_code: c_c2f98e5f
+  deprecated: 'false'
+  key: c_c2f98e5f
+  label_en: Conceptual model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_c2f98e5f
+  valid_from: '2019-12-11'
+- country_code: c_c2ffe197
+  deprecated: 'false'
+  key: c_c2ffe197
+  label_en: Semantic network
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_c2ffe197
+  valid_from: '2019-12-11'
+- country_code: c_cdd11291
+  deprecated: 'false'
+  key: c_cdd11291
+  label_en: Code list
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_cdd11291
+  valid_from: '2019-12-11'
+- country_code: c_d3bf7907
+  deprecated: 'false'
+  key: c_d3bf7907
+  label_en: Synonym ring
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_d3bf7907
+  valid_from: '2019-12-11'
+- country_code: c_d5c26195
+  deprecated: 'false'
+  key: c_d5c26195
+  label_en: Topic map
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_d5c26195
+  valid_from: '2019-12-11'
+- country_code: c_d9dd5715
+  deprecated: 'false'
+  key: c_d9dd5715
+  label_en: Syntax encoding scheme
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_d9dd5715
+  valid_from: '2019-12-11'
+- country_code: c_e4cf092c
+  deprecated: 'false'
+  key: c_e4cf092c
+  label_en: Semantic model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_e4cf092c
+  valid_from: '2019-12-11'
+- country_code: c_ebfb658e
+  deprecated: 'false'
+  key: c_ebfb658e
+  label_en: Glossary
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_ebfb658e
+  valid_from: '2019-12-11'
+- country_code: c_ecacbeba
+  deprecated: 'false'
+  key: c_ecacbeba
+  label_en: Folksonomy
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_ecacbeba
+  valid_from: '2019-12-11'
+- country_code: c_eed252ff
+  deprecated: 'false'
+  key: c_eed252ff
+  label_en: Object-oriented model
+  url: http://publications.europa.eu/resource/authority/asset-classification/c_eed252ff
+  valid_from: '2019-12-11'

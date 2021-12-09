@@ -1,0 +1,84 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADR_OFFICE
+  deprecated: 'false'
+  key: ADR_OFFICE
+  label_en: Office address
+  url: http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE
+  valid_from: '2009-12-01'
+- country_code: ADR_POSTAL
+  deprecated: 'false'
+  key: ADR_POSTAL
+  label_en: Postal address
+  url: http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL
+  valid_from: '2009-12-01'
+- country_code: EMAIL
+  deprecated: 'false'
+  key: EMAIL
+  label_en: E-mail
+  url: http://publications.europa.eu/resource/authority/address-type/EMAIL
+  valid_from: '2009-12-01'
+- country_code: FAX
+  deprecated: 'false'
+  key: FAX
+  label_en: Fax
+  label_it: Fax
+  url: http://publications.europa.eu/resource/authority/address-type/FAX
+  valid_from: '2009-12-01'
+- country_code: MAIN
+  deprecated: 'false'
+  key: MAIN
+  label_en: Main address
+  url: http://publications.europa.eu/resource/authority/address-type/MAIN
+  valid_from: '2018-05-30'
+- country_code: OFFICE_NO
+  deprecated: 'false'
+  key: OFFICE_NO
+  label_en: Office
+  url: http://publications.europa.eu/resource/authority/address-type/OFFICE_NO
+  valid_from: '2009-12-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/address-type/OP_DATPRO
+- country_code: TEL
+  deprecated: 'false'
+  key: TEL
+  label_en: Telephone
+  label_it: Telefono
+  url: http://publications.europa.eu/resource/authority/address-type/TEL
+  valid_from: '2009-12-01'
+- country_code: TEL_EXT
+  deprecated: 'false'
+  key: TEL_EXT
+  label_en: Extension
+  url: http://publications.europa.eu/resource/authority/address-type/TEL_EXT
+  valid_from: '2009-12-01'
+- country_code: TEL_SWI
+  deprecated: 'false'
+  key: TEL_SWI
+  label_en: Switchboard
+  label_it: Standard
+  url: http://publications.europa.eu/resource/authority/address-type/TEL_SWI
+  valid_from: '2009-12-01'

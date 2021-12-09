@@ -1,0 +1,57 @@
+#
+# Questo json-schema contiene sia l'identificativo di
+#   pubblicazione "$id" che il riferimento alla versione
+#   di json-schema utilizzato.
+#   Quando si usa json-schema in congiunzione con OpenAPI 3.0
+#   bisogna utilizzare la versione adatta o definire un file
+#   ulteriore in formato oas3.0 (vedi [./person.oas3.yaml])
+#
+CertificatoDiCodiceFiscale:
+  "$id": "https://w3id.org/italia/age/schemas/CertificatoDiCodiceFiscale.v1.json"
+  "$schema": "https://json-schema.org/draft/2019-09/schema"
+  type: object
+  x-refersTo: https://w3id.org/italia/onto/CPV/Person
+  "x-@context": "https://w3id.org/italia/age/sdgr/jsonld/CertificatoDiCodiceFiscale.v1.jsonld"
+  additionalProperties: false
+  description: |-
+      Questo schema rappresenta un certificato di Codice Fiscale.
+  required:
+  - given_name
+  - family_name
+  - date_of_birth
+  - tax_code
+  properties:
+    "@context":
+      const:
+        "@version": 1.1  # Use json-ld 1.1
+        "@vocab": "https://w3id.org/italia/onto/CPV/"
+        tax_code: taxCode
+        given_name: givenName
+        family_name: familyName
+        date_of_birth: dateOfBirth
+    tax_code:
+      x-refersTo: https://w3id.org/italia/onto/CPV/taxCode
+      type: string
+      description: Il codice fiscale.
+      example: RSSMRA75L01H501A
+      maxLength: 16
+      minLength: 11
+    hasPersonTitle:  # https://w3id.org/italia/onto/CPV/hasPersonTitle exists ;)
+      type: string
+      description: |-
+        Even if this field is not present in @context, it is
+        resolved by "@vocab" and it exists, so it can be considered
+        a good match. TODO we can think about that anyway if that
+        is the good way to do it.
+    date_of_birth:
+      x-refersTo: https://w3id.org/italia/onto/CPV/dateOfBirth
+      format: date
+      type: string
+    family_name:
+      x-refersTo: https://w3id.org/italia/onto/CPV/familyName
+      maxLength: 255
+      type: string
+    given_name:
+      x-refersTo: https://w3id.org/italia/onto/CPV/givenName
+      maxLength: 255
+      type: string

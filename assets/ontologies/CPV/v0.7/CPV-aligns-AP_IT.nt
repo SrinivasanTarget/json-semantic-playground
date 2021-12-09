@@ -1,0 +1,12 @@
+<https://w3id.org/italia/onto/CPV-aligns> <http://www.w3.org/2002/07/owl#imports> <http://www.w3.org/2004/02/skos/core#> .
+<https://w3id.org/italia/onto/CPV-aligns> <http://www.w3.org/2002/07/owl#imports> <http://xmlns.com/foaf/0.1/> .
+<https://w3id.org/italia/onto/CPV-aligns> <http://www.w3.org/2002/07/owl#versionIRI> <https://w3id.org/italia/onto/CPV-aligns/0.1> .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2002/07/owl#subClassOf> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://xmlns.com/foaf/0.1/givenName> .
+<https://w3id.org/italia/onto/CPV-aligns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2002/07/owl#equivalentClass> <http://xmlns.com/foaf/0.1/Person> .
+<https://w3id.org/italia/onto/CPV-aligns> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/name> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://xmlns.com/foaf/0.1/name> .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://xmlns.com/foaf/0.1/familyName> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2002/07/owl#equivalentProperty> <http://xmlns.com/foaf/0.1/knows> .
+

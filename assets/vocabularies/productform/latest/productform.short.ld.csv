@@ -1,0 +1,25 @@
+# Serializing assets/vocabularies/productform/latest/productform.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/product-form
+# title: Product form
+# version: 20160921-0
+# description: Product form
+key,url,deprecated,valid_from,country_code,label_en,label_it
+BOOKMARK,http://publications.europa.eu/resource/authority/product-form/BOOKMARK,false,1951-01-01,BOOKMARK,Bookmark,
+CDROM,http://publications.europa.eu/resource/authority/product-form/CDROM,false,1951-01-01,CDROM,CD-ROM,
+DVDROM,http://publications.europa.eu/resource/authority/product-form/DVDROM,false,1951-01-01,DVDROM,DVD-ROM,
+FOLDER,http://publications.europa.eu/resource/authority/product-form/FOLDER,false,1951-01-01,FOLDER,Folder,
+LEAFLET,http://publications.europa.eu/resource/authority/product-form/LEAFLET,false,1951-01-01,LEAFLET,Leaflet,
+OP_DATPRO,http://publications.europa.eu/resource/authority/product-form/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+POSTCARD,http://publications.europa.eu/resource/authority/product-form/POSTCARD,false,1951-01-01,POSTCARD,Postcard,
+POSTER,http://publications.europa.eu/resource/authority/product-form/POSTER,false,1951-01-01,POSTER,Poster,
+POSTER_PROM,http://publications.europa.eu/resource/authority/product-form/POSTER_PROM,false,1951-01-01,POSTER_PROM,"Poster, promotional",
+PRINT,http://publications.europa.eu/resource/authority/product-form/PRINT,false,1951-01-01,PRINT,Print,
+PRINT_HRDCV,http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV,false,1951-01-01,PRINT_HRDCV,Print (hardcover),
+PRINT_LOSL,http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL,false,1951-01-01,PRINT_LOSL,Print (looseleaf),
+PRINT_RGBD,http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD,false,1951-01-01,PRINT_RGBD,Print (ringbinder),
+PRINT_SFTCV,http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV,false,1951-01-01,PRINT_SFTCV,Print (softcover),
+PRINT_STPL,http://publications.europa.eu/resource/authority/product-form/PRINT_STPL,false,1951-01-01,PRINT_STPL,Print (stapled),
+SHEET_MAP,http://publications.europa.eu/resource/authority/product-form/SHEET_MAP,false,1951-01-01,SHEET_MAP,Sheet map,
+USB_FD,http://publications.europa.eu/resource/authority/product-form/USB_FD,false,1951-01-01,USB_FD,USB flash drive,
+VIDEO_VHS,http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS,false,1951-01-01,VIDEO_VHS,VHS Video,

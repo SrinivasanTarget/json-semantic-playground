@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/subdivision-position/END">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>END</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>END</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b4"/>
+    <at:start.use>2004-05-01</at:start.use>
+    <atold:op-code>END</atold:op-code>
+    <dc:identifier>END</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-position"/>
+    <skos:prefLabel xml:lang="en">at the end</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>{(AF)}</at:legacy-code>
+    <dc:source>FORMEX</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/subdivision-position/BEGIN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>BEGIN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>BEGIN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b3"/>
+    <at:start.use>2004-05-01</at:start.use>
+    <atold:op-code>BEGIN</atold:op-code>
+    <dc:identifier>BEGIN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-position"/>
+    <skos:prefLabel xml:lang="en">at the beginning</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/subdivision-position/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-position"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/subdivision-position/BEFORE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>BEFORE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>BEFORE</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b2"/>
+    <at:start.use>2004-05-01</at:start.use>
+    <atold:op-code>BEFORE</atold:op-code>
+    <dc:identifier>BEFORE</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-position"/>
+    <skos:prefLabel xml:lang="en">before</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/subdivision-position">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Subdivision position</rdfs:label>
+    <at:prefLabel xml:lang="en">Subdivision position</at:prefLabel>
+    <at:table.id>subdivision-position</at:table.id>
+    <at:table.version.number>20190918-0</at:table.version.number>
+    <owl:versionInfo>20190918-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Subdivision position</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/subdivision-position/AFTER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AFTER</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AFTER</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b1"/>
+    <at:start.use>2004-05-01</at:start.use>
+    <atold:op-code>AFTER</atold:op-code>
+    <dc:identifier>AFTER</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/subdivision-position"/>
+    <skos:prefLabel xml:lang="en">after</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b4">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>{(EN)}</at:legacy-code>
+    <dc:source>FORMEX</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>{(BE)}</at:legacy-code>
+    <dc:source>FORMEX</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n1a6958a978bb468792489c641e0c5aa0b3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>{(AB)}</at:legacy-code>
+    <dc:source>FORMEX</dc:source>
+  </rdf:Description>
+</rdf:RDF>

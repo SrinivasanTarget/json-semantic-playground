@@ -1,0 +1,39 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ENTITY
+  deprecated: 'false'
+  key: ENTITY
+  label_en: Entity
+  url: http://publications.europa.eu/resource/authority/role-nature/ENTITY
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/role-nature/OP_DATPRO
+- country_code: PERSON
+  deprecated: 'false'
+  key: PERSON
+  label_en: Person
+  url: http://publications.europa.eu/resource/authority/role-nature/PERSON
+  valid_from: '1952-07-24'

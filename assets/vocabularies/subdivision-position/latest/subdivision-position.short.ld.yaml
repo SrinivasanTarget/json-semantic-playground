@@ -1,0 +1,51 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: AFTER
+  deprecated: 'false'
+  key: AFTER
+  label_en: after
+  url: http://publications.europa.eu/resource/authority/subdivision-position/AFTER
+  valid_from: '2004-05-01'
+- country_code: BEFORE
+  deprecated: 'false'
+  key: BEFORE
+  label_en: before
+  url: http://publications.europa.eu/resource/authority/subdivision-position/BEFORE
+  valid_from: '2004-05-01'
+- country_code: BEGIN
+  deprecated: 'false'
+  key: BEGIN
+  label_en: at the beginning
+  url: http://publications.europa.eu/resource/authority/subdivision-position/BEGIN
+  valid_from: '2004-05-01'
+- country_code: END
+  deprecated: 'false'
+  key: END
+  label_en: at the end
+  url: http://publications.europa.eu/resource/authority/subdivision-position/END
+  valid_from: '2004-05-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/subdivision-position/OP_DATPRO

@@ -1,0 +1,419 @@
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/ontology/authority/op-code> "CON" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sp\u00E9cialis\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/ontology/authority/authority-code> "CON" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#definition> "Persons with interest in technical scientific publications."@en .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/resource/authority/op-code> "YOP" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03C0\u03B9\u03C3\u03C4\u03B7\u03BC\u03BF\u03BD\u03B9\u03BA\u03AD\u03C2"@el .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb13 <http://publications.europa.eu/ontology/authority/legacy-code> "702" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0218tiin\u021Bific"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiede"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haridus"@et .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinder"@de .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb10 .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minorities"@en .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#definition> "Non-specialists in the field of a given publication."@en .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160vietimas"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specializ\u0113ts"@lv .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u011Bti"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u011Bdeck\u00E9"@cs .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00E4hemmist\u00F6t"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumidores"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cient\u00EDfico"@es .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mniejszo\u015Bci"@pl .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0428\u0438\u0440\u043E\u043A\u0430 \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043E\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislativo"@es .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumatori"@it .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specializuota"@lt .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb7 .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb8 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/ontology/authority/op-code> "SPE" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuluttajat"@fi .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb5 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb5 .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Juriidika"@et .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160pecializovan\u00E9"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minorit\u0101tes"@lv .
+<http://publications.europa.eu/resource/authority/target-audience> <http://publications.europa.eu/ontology/authority/table.id> "target-audience" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb11 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lapsed"@et .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Splo\u0161na javnost"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onderwijs"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb8 <http://purl.org/dc/elements/1.1/source> "PUB" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb3 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#definition> "Persons with interest in technical non-scientific publications."@en .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kisebbs\u00E9gek"@hu .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vartotojai"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb9 .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minorias"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Copii"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tineri"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetenschappelijk"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dzieci"@pl .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Men\u0161iny"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iedereen"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Young people"@en .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb8 .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minorit\u0103\u021Bi"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039D\u03AD\u03BF\u03B9"@el .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03C5\u03C1\u03CD \u03BA\u03BF\u03B9\u03BD\u03CC"@el .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Znanost"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pla\u0161a sabiedr\u012Bba"@lv .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Le\u0121i\u017Clattivi"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://purl.org/dc/elements/1.1/identifier> "CON" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb4 <http://purl.org/dc/elements/1.1/source> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Xjentifi\u010Bi"@mt .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb3 <http://publications.europa.eu/ontology/authority/legacy-code> "206" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb5 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jovens"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#definition> "Jeunes de 12 \u00E0 18 ans. Cette tranche d\u2019\u00E2ge correspond g\u00E9n\u00E9ralement aux \u00E9l\u00E8ves de l\u2019enseignement secondaire."@fr .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Educa\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#definition> "Enfants jusqu\u2019\u00E0 11 ans. Cette tranche d\u2019\u00E2ge correspond g\u00E9n\u00E9ralement aux enfants d\u2019\u00E2ge pr\u00E9scolaire et aux \u00E9l\u00E8ves de l\u2019enseignement primaire."@fr .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potro\u0161niki"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumenten"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#definition> "Young people from 12 to 24 years old \u2013 the age group typically corresponding to the secondary and higher education students."@en .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbraucher"@de .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grande p\u00FAblico"@pt .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagstiftning"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/resource/authority/op-code> "EDU" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mladi"@sl .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Znanstveno"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb13 .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Especializado"@es .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oktat\u00F3"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "An pobal i gcoitinne"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://purl.org/dc/elements/1.1/identifier> "SPE" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lovgivning"@da .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tfal"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spot\u0159ebitel\u00E9"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specializacija"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oideachas"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetgeving"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#definition> "Specialised public that needs to access legal information to learn about or apply law, for example: jurists, lawyers, legislators."@en .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb15 <http://publications.europa.eu/ontology/authority/legacy-code> "201" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ni\u00F1os"@es .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deti"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "B\u0113rni"@lv .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Education"@en .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435"@bg .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb4 .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vzd\u011Bl\u00E1n\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://publications.europa.eu/ontology/authority/start.use> "2017-10-04" .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minoritajiet"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bildung"@de .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erialakirjandus"@et .
+<http://publications.europa.eu/resource/authority/target-audience> <http://www.w3.org/2004/02/skos/core#prefLabel> "Target audience"@en .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/resource/authority/op-code> "SPE" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minoriteter"@da .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039A\u03B1\u03C4\u03B1\u03BD\u03B1\u03BB\u03C9\u03C4\u03AD\u03C2"@el .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#definition> "Personnes ayant un int\u00E9r\u00EAt pour les publications techniques scientifiques."@fr .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9ducation"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fackomr\u00E5den"@sv .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://publications.europa.eu/ontology/authority/authority-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grande pubblico"@it .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb7 <http://publications.europa.eu/ontology/authority/legacy-code> "General public" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crian\u00E7as"@pt .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb9 <http://publications.europa.eu/ontology/authority/legacy-code> "205" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+<http://publications.europa.eu/resource/authority/target-audience> <http://publications.europa.eu/ontology/authority/table.version.number> "20210929-0" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minderheden"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javnost"@hr .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tematyka og\u00F3lna"@pl .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03BE\u03B5\u03B9\u03B4\u03B9\u03BA\u03B5\u03C5\u03BC\u03AD\u03BD\u03B5\u03C2"@el .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scientific"@en .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb13 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://publications.europa.eu/ontology/authority/authority-code> "CHL" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/ontology/authority/op-code> "GEN" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb6 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konsumenci"@pl .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb8 <http://publications.europa.eu/ontology/authority/legacy-code> "705" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Otroci"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lapset"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumidores"@es .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erikoisalat"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ungdomar"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konsumaturi"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Men\u0161iny"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Educaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0430\u0443\u0447\u043D\u0430"@bg .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mlad\u00ED \u013Eudia"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forbrugere"@da .
+<http://publications.europa.eu/resource/authority/target-audience> <http://www.w3.org/2002/07/owl#versionInfo> "20210929-0" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teadus"@et .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u0430\u0432\u043D\u0430"@bg .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb9 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vzdel\u00E1vanie"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minoriteter"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaikai"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#definition> "Children up to 11 years old \u2013 the age group typically corresponding to the pre-school and primary school pupils."@en .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb2 .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb15 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Noored"@et .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarbijad"@et .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teis\u0117"@lt .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb2 <http://publications.europa.eu/ontology/authority/legacy-code> "Consumers" .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://publications.europa.eu/ontology/authority/authority-code> "MIN" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Especializado"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/resource/authority/op-code> "CON" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb9 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gespecialiseerd"@nl .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb2 <http://purl.org/dc/elements/1.1/source> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0430"@bg .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DCldsus"@et .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speisialaithe"@ga .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb11 <http://publications.europa.eu/ontology/authority/legacy-code> "704" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb10 <http://purl.org/dc/elements/1.1/source> "EUBOOKSHOP" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb7 <http://purl.org/dc/elements/1.1/source> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03B1\u03B9\u03B4\u03B9\u03AC"@el .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislativn\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utbildning"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mionlaigh"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb14 <http://purl.org/dc/elements/1.1/source> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislativo"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u017Bg\u0127a\u017Cag\u0127"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manjine"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://publications.europa.eu/ontology/authority/op-code> "LEG" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u043E\u0442\u0440\u0435\u0431\u0438\u0442\u0435\u043B\u0438"@bg .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minderheiten"@de .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spotrebitelia"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gyermekek"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publicul larg"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tematyka specjalistyczna"@pl .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaunimas"@lt .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb6 <http://publications.europa.eu/ontology/authority/legacy-code> "200" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edukacja"@pl .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vetenskap"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#definition> "\u00C9ducateurs et enseignants."@fr .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160irok\u00E1 ve\u0159ejnost"@cs .
+<http://publications.europa.eu/resource/authority/target-audience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mokslas"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nauka"@pl .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/ontology/authority/authority-code> "YOP" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zakonodaja"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suuri yleis\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izgl\u012Bt\u012Bba"@lv .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Educa\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jogi"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://publications.europa.eu/ontology/authority/op-code> "CHL" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://publications.europa.eu/resource/authority/op-code> "LEG" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb1 <http://publications.europa.eu/ontology/authority/legacy-code> "210" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obrazovanje"@hr .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb3 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potro\u0161a\u010Di"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spezialisiert"@de .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Videnskab"@da .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://publications.europa.eu/ontology/authority/authority-code> "LEG" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prawo"@pl .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://purl.org/dc/elements/1.1/identifier> "MIN" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb3 .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Allm\u00E4nheten"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumatori"@ro .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb14 <http://publications.europa.eu/ontology/authority/legacy-code> "Young people" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izobra\u017Eevanje"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039D\u03BF\u03BC\u03B9\u03BA\u03AD\u03C2"@el .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vedeck\u00E9"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/ontology/authority/op-code> "SCI" .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ma\u017Eumos"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/ontology/authority/authority-code> "GEN" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumers"@en .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giovani"@it .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislativi"@it .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leana\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fogyaszt\u00F3k"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb14 .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minor\u00EDas"@es .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03BA\u03C0\u03B1\u03AF\u03B4\u03B5\u03C5\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wissenschaft"@de .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041C\u0430\u043B\u0446\u0438\u043D\u0441\u0442\u0432\u0430"@bg .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "L\u00E9gislatif"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://purl.org/dc/elements/1.1/identifier> "GEN" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb1 .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recht"@de .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bambini"@it .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manj\u0161ine"@sl .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reachtach"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C1ltal\u00E1nos"@hu .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb12 <http://publications.europa.eu/ontology/authority/legacy-code> "Specialised/Technical" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istruzione"@it .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand public"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Le\u0123islat\u012Bvs"@lv .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/resource/authority/op-code> "GEN" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislativ"@ro .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eola\u00EDocht"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://purl.org/dc/elements/1.1/identifier> "YOP" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "General public"@en .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb15 .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lains\u00E4\u00E4d\u00E4nt\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb11 .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/ontology/authority/op-code> "EDU" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislative"@en .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pla\u010Dioji visuomen\u0117"@lt .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://purl.org/dc/elements/1.1/identifier> "CHL" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://publications.europa.eu/ontology/authority/authority-code> "EDU" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tudom\u00E1nyos"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unge"@da .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fagomr\u00E5de"@da .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039C\u03B5\u03B9\u03BF\u03BD\u03CC\u03C4\u03B7\u03C4\u03B5\u03C2"@el .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barn"@sv .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb6 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#definition> "Educators and teachers."@en .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minoranze"@it .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://purl.org/dc/elements/1.1/identifier> "LEG" .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minorit\u00E9s"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/ontology/authority/authority-code> "SCI" .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legislat\u00EDva"@sk .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb15 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scientifique"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://publications.europa.eu/ontology/authority/op-code> "MIN" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consommateurs"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edukazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ifj\u00FAs\u00E1gi"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://publications.europa.eu/resource/authority/op-code> "CHL" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb6 .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://purl.org/dc/elements/1.1/identifier> "SCI" .
+<http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specialised"@en .
+<http://publications.europa.eu/resource/authority/target-audience> <http://publications.europa.eu/ontology/authority/prefLabel> "Target audience"@en .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uddannelse"@da .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koulutus"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scientifici"@it .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160irok\u00E1 verejnos\u0165"@sk .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n0b5d48f381e741ed9c859f41f3c8f3fcb12 .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pat\u0113r\u0113t\u0101ji"@lv .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Den brede offentlighed"@da .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specializat"@ro .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb12 <http://purl.org/dc/elements/1.1/source> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://publications.europa.eu/ontology/authority/authority-code> "SPE" .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "B\u00F8rn"@da .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tematikus"@hu .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u0142odzie\u017C"@pl .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://publications.europa.eu/resource/authority/op-code> "SCI" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb13 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specijalizirano"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderen"@nl .
+<http://publications.europa.eu/resource/authority/target-audience> <http://www.w3.org/2000/01/rdf-schema#label> "Target audience"@en .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jongeren"@nl .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jaunie\u0161i"@lv .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tomhalt\u00F3ir\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://publications.europa.eu/resource/authority/op-code> "MIN" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb1 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spe\u010Bjalizzati"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zin\u0101tnisks"@lv .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "J\u00F3venes"@es .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specialistici"@it .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mlad\u00ED lid\u00E9"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/SCI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cient\u00EDfico"@pt .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/ontology/authority/op-code> "YOP" .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/target-audience> .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mladi"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enfants"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Djeca"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0435\u0446\u0430"@bg .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00D6ffentlichkeit"@de .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specializovan\u00E9"@cs .
+<http://publications.europa.eu/resource/authority/target-audience/SPE> <http://www.w3.org/2004/02/skos/core#definition> "Personnes ayant un int\u00E9r\u00EAt pour les publications techniques non scientifiques."@fr .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb1 <http://purl.org/dc/elements/1.1/source> "PUB" .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00FAblico en general"@es .
+<http://publications.europa.eu/resource/authority/target-audience/GEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pubbliku in\u0121enerali"@mt .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Junge Menschen"@de .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00E4hemused"@et .
+<http://publications.europa.eu/resource/authority/target-audience/CHL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children"@en .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb5 <http://publications.europa.eu/ontology/authority/legacy-code> "600" .
+<http://publications.europa.eu/resource/authority/target-audience/EDU> <http://purl.org/dc/elements/1.1/identifier> "EDU" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb11 <http://publications.europa.eu/ontology/authority/affected-table> "PUB_TARGET" .
+<http://publications.europa.eu/resource/authority/target-audience/CON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konsumenter"@sv .
+<http://publications.europa.eu/resource/authority/target-audience/MIN> <http://publications.europa.eu/ontology/authority/start.use> "1999-01-01" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb4 <http://publications.europa.eu/ontology/authority/legacy-code> "Education" .
+_:n0b5d48f381e741ed9c859f41f3c8f3fcb10 <http://publications.europa.eu/ontology/authority/legacy-code> "Scientific" .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jeunes"@fr .
+<http://publications.europa.eu/resource/authority/target-audience/LEG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zakonodavno"@hr .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Daoine \u00F3ga"@ga .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuoret"@fi .
+<http://publications.europa.eu/resource/authority/target-audience/YOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041C\u043B\u0430\u0434\u0435\u0436\u0438"@bg .
+

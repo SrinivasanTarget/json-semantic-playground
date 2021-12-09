@@ -1,0 +1,56 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: DOCUMENTATION_MAIN
+  deprecated: 'false'
+  key: DOCUMENTATION_MAIN
+  label_en: Main documentation
+  label_it: Documentazione principale
+  url: http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN
+  valid_from: '2013-01-01'
+- country_code: DOCUMENTATION_RELATED
+  deprecated: 'false'
+  key: DOCUMENTATION_RELATED
+  label_en: Related documentation
+  label_it: Documentazione correlata
+  url: http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED
+  valid_from: '2013-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO
+- country_code: VISUALIZATION
+  deprecated: 'true'
+  key: VISUALIZATION
+  label_en: Visualization
+  label_it: Visualizzazione
+  url: http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION
+  valid_from: '2013-01-01'
+  valid_until: '2013-01-02'
+- country_code: WEBPAGE_RELATED
+  deprecated: 'false'
+  key: WEBPAGE_RELATED
+  label_en: Related webpage
+  label_it: Pagina web collegata
+  url: http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED
+  valid_from: '2013-01-01'

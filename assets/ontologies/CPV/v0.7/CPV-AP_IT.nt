@@ -1,0 +1,951 @@
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#label> "family name"@en .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2000/01/rdf-schema#label> "resident in"@en .
+<http://purl.org/dc/terms/format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isGrandFatherOf> .
+_:n3466aaf65dd54613ba12f162a6801495b3 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione di conoscenza che intercorre tra due persone. Ex. 'Mario Rossi' conosce 'Paolo Neri'."@it .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/FamilySheetHolder> .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/identifier> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b7 .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2000/01/rdf-schema#comment> "La classe rappresenta i diversi tipi di relazioni parentali. Per esempio l'intestatario della scheda di famiglia in anagrafe \u00E8 un tipo di relazione parentale cos\u00EC come il coniuge (o convivente) dell'intestatario, il figlio  dell'intestatario e coniuge convivente, il fratello/sorella dell'intestatario."@it .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/dcat#keyword> "residenza"@it .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "Relazione che lega un tipo di relazione parentale con la relativa famiglia anagrafica"@it .
+<https://w3id.org/italia/data/contact-point/onto-agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Kind> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The inverse relation that links a person who is resident in a country to his/her location of residence. It is the current residence of the person."@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2000/01/rdf-schema#label> "Person ontology"@en .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2000/01/rdf-schema#label> "Famiglia"@it .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#label> "is uncle of"@en .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/TI/TimeIndexedEvent> .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale morta"@it .
+<https://w3id.org/italia/onto/ADMS/SemanticAsset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person of sex Female"@en .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Dead> .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2000/01/rdf-schema#comment> "A human community generally formed by people tied together by a relationship of coexistence, of kinship, of affinity, which constitutes the fundamental element of every society, since it is aimed, in its processes and relations, at the perpetuation of the species through reproduction."@en .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione di parentela tra zio e nipote."@it .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/name> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://w3id.org/italia/onto/CPV/residenceInLocation> .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/ADMS/SemanticAssetDistribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b8 .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/RegisteredFamily> .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasContributor> <https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#comment> "This class represents the sex of the person. The instances of the class are defined in the related sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@en .
+_:n3466aaf65dd54613ba12f162a6801495b30 <http://www.w3.org/2002/07/owl#cardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale che \u00E8 nata morta"@it .
+<https://w3id.org/italia/data/contact-point/onto-agid> <http://www.w3.org/2006/vcard/ns#fn> "banche dati e open data" .
+_:n3466aaf65dd54613ba12f162a6801495b27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://purl.org/dc/terms/format> <http://publications.europa.eu/resource/authority/file-type/RDF_XML> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#comment> "The tax code of a person."@en .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#label> "Dead Person"@en .
+_:n3466aaf65dd54613ba12f162a6801495b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/data/project/DAF> <https://w3id.org/italia/onto/l0/name> "Data & Analytics Framework"@it .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation asserts that a person has a certain place of birth."@en .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#comment> "This class represents the level of education of a person. The individuals of this class are defined in the related controlled vocabulary EducationLevel https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level"@en .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#label> "figlio di"@it .
+_:n3466aaf65dd54613ba12f162a6801495b22 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/taxCode> .
+_:n3466aaf65dd54613ba12f162a6801495b24 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#integer> .
+_:n3466aaf65dd54613ba12f162a6801495b32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3466aaf65dd54613ba12f162a6801495b33 .
+_:n3466aaf65dd54613ba12f162a6801495b10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b6 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/ageWhenDead> .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CLV/Address> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/l0/Description> .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2000/01/rdf-schema#label> "Born Dead Person"@en .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#label> "given name"@en .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The uncleship relation."@en .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/6> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isParentOf> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Alive> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2000/01/rdf-schema#label> "Foreign Citizen"@en .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 luogo di morte di"@it .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Resident> .
+_:n3466aaf65dd54613ba12f162a6801495b14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Sex> .
+<https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dati.gov.it/onto/dcatapit#Agent> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/description> .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#label> "Residence in Time"@en .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#label> "ha relazione parentale con"@it .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> <http://purl.org/dc/terms/identifier> "agid" .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#label> "appartiene a famiglia"@it .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> <http://purl.org/dc/terms/identifier> "ISTAT" .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.w3.org/2001/XMLSchema#date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Datatype> .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.w3.org/2006/vcard/ns#Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation that links a person to his/her sex"@en .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2002/07/owl#propertyChainAxiom> _:n3466aaf65dd54613ba12f162a6801495b1 .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b19 .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation between a place and a person. The relation asserts that a place is the place of birth of the person object of the relation."@en .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#label> "education level description"@en .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+_:n3466aaf65dd54613ba12f162a6801495b20 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The parent-child relationship."@en .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://xmlns.com/foaf/0.1/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#label> "et\u00E0"@it .
+_:n3466aaf65dd54613ba12f162a6801495b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://purl.org/dc/terms/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Sex> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#comment> "Unique identifier of a person. For instance it maybe a unique code associated by ISTAT (Italian Institute of Statistics) in its internal systems."@en .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/identifier> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#label> "is birth place of"@en .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation that links a person who is dead to its place of death."@en .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#label> "residence in location"@en .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2000/01/rdf-schema#comment> "This property represents the residence expressed as binary relation between a person and an address."@en .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/target> "Imprese" .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#label> "date of death"@en .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#label> "is grandfather of"@en .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#label> "Education Level"@en .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasSemanticAssetDistribution> <https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale residente nel Paese."@it .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person who owns a foreign nationality"@en .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#comment> "An alive person"@en .
+_:n3466aaf65dd54613ba12f162a6801495b16 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/CPV/Sex> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione tra un luogo ed una persona dove il luogo \u00E8 il luogo di nascit della persona oggetto della relazione."@it .
+_:n3466aaf65dd54613ba12f162a6801495b16 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasSex> .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:n3466aaf65dd54613ba12f162a6801495b15 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#label> "sex identifier"@en .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<http://www.w3.org/ns/dcat#downloadURL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b24 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> .
+_:n3466aaf65dd54613ba12f162a6801495b10 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CPV/Person> .
+_:n3466aaf65dd54613ba12f162a6801495b21 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#label> "is residence in time of"@en .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://purl.org/dc/terms/description> "Questa \u00E8 la distribuzione JSON-LD dell'ontologia delle Persone"@it .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b13 .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#label> "Persona"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2002/07/owl#disjointWith> <https://w3id.org/italia/onto/CPV/Resident> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/11> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isUncleOf> .
+<https://w3id.org/italia/onto/ADMS/Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/target> "Pubbliche Amministrazioni" .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b20 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/familyName> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/issued> "2017-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/l0/identifier> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/l0/> .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b23 .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://purl.org/dc/terms/format> <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Dead> .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/data/project/DAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://purl.org/dc/terms/description> "This is the distribution in JSON-LD of the persons ontology"@en .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione che lega una persona in vita al suo grado di istruzione"@it .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/prefix> "cpvapit" .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasTask> <https://w3id.org/italia/onto/ADMS/AnnotationTask> .
+_:n3466aaf65dd54613ba12f162a6801495b31 <http://www.w3.org/2002/07/owl#unionOf> _:n3466aaf65dd54613ba12f162a6801495b32 .
+_:n3466aaf65dd54613ba12f162a6801495b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#label> "tax code"@en .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Propriet\u00E0 che lega l'intestatario del foglio di famiglia a una persona"@it .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#comment> "Connette una persona ad un suo titolo."@it .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#label> "in famiglia anagrafica"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level> .
+_:n3466aaf65dd54613ba12f162a6801495b16 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> <http://xmlns.com/foaf/0.1/name> "Italian Digital Agency"@en .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#comment> "L'et\u00E0 della persona naturale rielvata al momento del decesso."@it .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#comment> "codice univoco che identifica il grado di istruzione nel vocabolario controllato EducationLevel https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level"@it .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale non residenze nel Paese."@it .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa classe rappresenta una relazione ennaria tra diversi concetti del dominio, in particolare con una persona residente in un paese, il luogo di residenza e il periodo temporale. E' utilizzata per gestire lo storico delle residenze delle persone. Essa \u00E8 sottoclasse di 'TimeIndexedEvent' definita nell'ontologia del tempo della rete di ontologie OntoPiA e pertanto eredita la relazione con l'intervallo temporale."@it .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+_:n3466aaf65dd54613ba12f162a6801495b33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#comment> "Propriet\u00E0 utilizzata per rappresentare il grado di istruzione come definito nel relativo vocabolario controllato EducationLevel https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level"@it .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Alive> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/age> .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#comment> "L'et\u00E0 della persona naturale. Es: 64"@it .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dati.gov.it/onto/dcatapit#Agent> .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#label> "age"@en .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/ENG> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CLV/hasAddress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Alive> .
+_:n3466aaf65dd54613ba12f162a6801495b6 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#comment> "Property used to represent the sex as defined in the related Sex controlled vocabulary  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@en .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#label> "ha stato residenza (ha residenza nel tempo)"@it .
+_:n3466aaf65dd54613ba12f162a6801495b7 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#dateTime> .
+_:n3466aaf65dd54613ba12f162a6801495b23 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/registeredFamilyID> .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2000/01/rdf-schema#label> "Femmina"@it .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#label> "Residente"@it .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 luogo di nascita di"@it .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#comment> "The number of people who forms the registered family"@en .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 nonno di"@it .
+_:n3466aaf65dd54613ba12f162a6801495b26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person who was born dead"@en .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#comment> "Property used to represent the education level as defined in the related controlled vocabulary EducationLevel https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level"@en .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b12 .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/3> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isChildOf> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isUncleOf> .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#label> "conosce"@it .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#label> "has title"@en .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://www.w3.org/ns/dcat#accessURL> <https://raw.githubusercontent.com/italia/daf-ontologie-vocabolari-controllati/master/Ontologie/CPV/latest> .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#comment> "It links a person to his/her title."@en .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Property that links the family sheet holder to a person of the family"@en .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/sexID> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex> .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#label> "numero componenti famiglia anagrafica"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://purl.org/dc/terms/description> "This is the distribution in RDF/turtle of the persons ontology"@en .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b21 .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/semanticAssetInUse> <https://w3id.org/italia/data/project/DAF> .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/creator> <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/2> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isConsortOf> .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/prev> <https://w3id.org/italia/onto/CPV/0.6> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione padre-figlio."@it .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2000/01/rdf-schema#label> "Ontologia delle persone (individui)"@it .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/person-title> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona in vita"@it .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/description> "Questa \u00E8 l'ontologia del profilo applicativo italiano sulle persone."@it .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#label> "Alive Person"@en .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa classe rappresenta l'intestatario del foglio di famiglia. Per intestatario del foglio di famiglia si intende la persona cui \u00E8 intestata la scheda di famiglia in anagrafe."@it .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione che lega una persona morta al luogo di morte."@it .
+_:n3466aaf65dd54613ba12f162a6801495b8 <http://www.w3.org/2002/07/owl#cardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/RegisteredFamily> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/description> "This is the ontology of the Italian application profile for Persons"@en .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#label> "has current residence"@en .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#label> "is nephew of"@en .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+_:n3466aaf65dd54613ba12f162a6801495b33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://w3id.org/italia/onto/CPV/ItalianCitizen> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#comment> "E' un codice univoco associato a una persona. Potrebbe essere per esempio il codice individuo attribuito dall'ISTAT per la gestione dei dati nei propri registri interni."@it .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation that links an alive person to his/her education level"@en .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#label> "codice famiglia anagrafica"@it .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#label> "codice fiscale"@it .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b20 .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasKeyClass> <https://w3id.org/italia/onto/CPV/RegisteredFamily> .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+_:n3466aaf65dd54613ba12f162a6801495b17 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#label> "death place of"@en .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+_:n3466aaf65dd54613ba12f162a6801495b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b12 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b25 .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b28 .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#label> "residenza in luogo"@it .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#label> "ha cittadinanza"@it .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The nephew relation between a newphew and an uncle."@en .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/dcat#contactPoint> <https://w3id.org/italia/data/contact-point/onto-agid> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+_:n3466aaf65dd54613ba12f162a6801495b11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Alive> .
+_:n3466aaf65dd54613ba12f162a6801495b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:n3466aaf65dd54613ba12f162a6801495b2 .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/data/project/DAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/ADMS/Project> .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2000/01/rdf-schema#label> "Parental Relationship Type"@en .
+_:n3466aaf65dd54613ba12f162a6801495b5 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Alive> .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b18 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#label> "data di morte"@it .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/ResidenceInTime> .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2000/01/rdf-schema#comment> "In senso ampio, comunit\u00E0 umana, diversamente caratterizzata nelle varie situazioni storiche e geografiche, ma in genere formata da persone legate fra loro da un rapporto di convivenza, di parentela, di affinit\u00E0, che costituisce l\u2019elemento fondamentale di ogni societ\u00E0, essendo essa finalizzata, nei suoi processi e nelle sue relazioni, alla perpetuazione della specie mediante la riproduzione."@it .
+_:n3466aaf65dd54613ba12f162a6801495b23 <http://www.w3.org/2002/07/owl#cardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2000/01/rdf-schema#label> "Stateless Person"@en .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#label> "is parent of"@en .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#comment> "Sex code used in the sex controlled vocabulary https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. It assumes the values \"F\" and \"M\"."@en .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2000/01/rdf-schema#comment> "Un titolo \u00E8 una parola usata prima o dopo il nome di una persona (e.g. Sig. Dott., Avv.)."@it .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation that links the different types of Parental Relationship to the related Registered Family"@en .
+<https://w3id.org/italia/onto/l0/name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level> .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#comment> "Any relationship between people."@en .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/data/project/OntoPiA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/ADMS/Project> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#label> "Sex"@en .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Dead> .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Resident> .
+_:n3466aaf65dd54613ba12f162a6801495b11 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CPV/PersonTitle> .
+<http://purl.org/dc/terms/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.w3.org/2006/vcard/ns#fn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#comment> "A dead natural person"@en .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2000/01/rdf-schema#label> "Not Resident Person"@en .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b15 .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://purl.org/dc/terms/title> "JSON-LD distribution of CPV-AP_IT Ontology"@en .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://purl.org/dc/terms/description> "Questa \u00E8 la distribuzione RDF/XML dell'ontologia delle persone"@it .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+_:n3466aaf65dd54613ba12f162a6801495b12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b13 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CPV/ResidenceInTime> .
+<https://w3id.org/italia/onto/CLV/Address> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2000/01/rdf-schema#label> "Cittadino Italiano"@it .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale che possiede la cittadinanza italiana"@it .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione che lega una persona alla sua cittadinanza (ex. cittadinanza italiana)."@it .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The property to link the death place (i.e. a location) to a person"@en .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dati.gov.it/onto/dcatapit#Agent> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b9 .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level> .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2000/01/rdf-schema#label> "Maschio"@it .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/rightsHolder> <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione che lega una persona al suo sesso"@it .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2000/01/rdf-schema#label> "Female"@en .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale"@it .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/l0/Location> .
+_:n3466aaf65dd54613ba12f162a6801495b25 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/data/project/OntoPiA> <https://w3id.org/italia/onto/l0/name> "OntoPiA - la rete di ontologie della pubblica amministrazione italiana"@it .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#comment> "Relazione che lega una persona residente in un paese al proprio luogo di residenza Rappresenta la residenza corrente della persona"@it .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <https://w3id.org/italia/onto/ADMS/status> "instabile"@it .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2002/07/owl#versionInfo> "instabile"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://www.w3.org/ns/dcat#downloadURL> <https://raw.githubusercontent.com/italia/daf-ontologie-vocabolari-controllati/master/Ontologie/CPV/latest/CPV-AP_IT.jsonld> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/status> "published" .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Resident> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#label> "is granchild of"@en .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/l0/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/data/contact-point/onto-agid> <http://www.w3.org/2006/vcard/ns#hasEmail> <mailto:info@dati.gov.it> .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#comment> "The family name of a person. E.g. 'Rossi' is the family name of the person 'Mario Rossi'."@en .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 coniuge di"@it .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#label> "luogo di nascita"@it .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2000/01/rdf-schema#label> "Apolide"@it .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasTask> <https://w3id.org/italia/onto/ADMS/QueryFormulationTask> .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Dead> .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/description> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/identifier> .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#comment> "The alternative name or middle name of a person. E.g., Anne is the middle name of \"Mary Anne Clark\"."@en .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2000/01/rdf-schema#label> "residente in"@it .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#label> "Persona in Vita"@it .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <https://w3id.org/italia/onto/ADMS/status> "unstable"@en .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/title> "CPV-AP_IT - Core Person Vocabulary Italian Application Profile - Person Ontology"@en .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://purl.org/dc/terms/description> "Questa \u00E8 la distribuzione RDF/Turtle dell'ontologia delle persone"@it .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "The relationship that links a person who is resident in a country to a family"@en .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#comment> "A parental relationship between two persons."@en .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://purl.org/dc/terms/title> "RDF/XML distribution of CPV-AP_IT Ontology"@en .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+_:n3466aaf65dd54613ba12f162a6801495b16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b27 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CPV/Family> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person"@en .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#label> "Sesso"@it .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The grandfathership relation"@en .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasFormalityLevel> <https://w3id.org/italia/onto/ADMS/Formal> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#comment> "The age of the natural person observed at the time of death"@en .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#label> "number of components in registered family"@en .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La propriet\u00E0 per associare un luogo di morte (i.e. una localit\u00E0) alla persona morta."@it .
+_:n3466aaf65dd54613ba12f162a6801495b3 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/CPV/EducationLevel> .
+_:n3466aaf65dd54613ba12f162a6801495b20 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Propriet\u00E0 inversa di \"ha residenza nel tempo (ha stato residenza)\" che collega il concetto di residenza nel tempo con la persona."@it .
+_:n3466aaf65dd54613ba12f162a6801495b15 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasBirthPlace> .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/semanticAssetInUse> <https://w3id.org/italia/data/project/OntoPiA> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/l0/Characteristic> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://purl.org/dc/terms/title> "Distribuzione RDF/XML ontologia CPV-AP_IT"@it .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale di sesso maschile"@it .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#comment> "The relationship of knowledge between two people. E.g. 'John White' knows 'Bob Black'."@en .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CLV/Address> .
+_:n3466aaf65dd54613ba12f162a6801495b29 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/sexDesc> .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/identifier> .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#label> "Residenza nel tempo (storica)"@it .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+_:n3466aaf65dd54613ba12f162a6801495b28 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://dati.gov.it/onto/dcatapit#Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#comment> "The given name of a person. E.g. 'Mario' is the given name of the person 'Mario Rossi'."@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/italia/onto/l0> .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#comment> "This class represents the n-ary relationship between a resident, the location of residence and the time. It is specifically subclass of the TimeIndexedEvent defined in the time ontology of OntoPiA network from which it inherits the relationship with the time interval"@en .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#comment> "il nome alternativo o secondo nome di una persona. Per esempio Anne \u00E8 il secondo nome di \"Mary Anne Clarke\"."@it .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 nipote lato nonni di"@it .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#label> "date of birth"@en .
+_:n3466aaf65dd54613ba12f162a6801495b31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b16 .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+_:n3466aaf65dd54613ba12f162a6801495b21 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b5 .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#label> "Persona Morta"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://purl.org/dc/terms/license> <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> .
+_:n3466aaf65dd54613ba12f162a6801495b28 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:n3466aaf65dd54613ba12f162a6801495b4 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#integer> .
+_:n3466aaf65dd54613ba12f162a6801495b19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b28 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasCurrentResidence> .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2002/07/owl#disjointWith> <https://w3id.org/italia/onto/CPV/Male> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasKeyClass> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:n3466aaf65dd54613ba12f162a6801495b15 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+_:n3466aaf65dd54613ba12f162a6801495b19 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/altName> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b24 .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b26 .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/4> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isGrandChildOf> .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa classe rappresenta il grado di istruzione della persona. Le istanze di questa classe sono definite nel relativo vocabolario controllato EducationLevel https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level"@it .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://www.w3.org/ns/dcat#downloadURL> <https://raw.githubusercontent.com/italia/daf-ontologie-vocabolari-controllati/master/Ontologie/CPV/latest/CPV-AP_IT.rdf> .
+_:n3466aaf65dd54613ba12f162a6801495b26 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://purl.org/dc/terms/title> "Distribuzione JSON-LD ontologia CPV-AP_IT"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://purl.org/dc/terms/title> "RDF/Turtle distribution of CPV-AP_IT Ontology"@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa \u00E8 l'ontologia del profilo applicativo italiano sulle persone."@it .
+<https://w3id.org/italia/onto/l0/controlledVocabulary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#comment> "Unique code used to identify the education level in the controlled vocabulary EducationLevel https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level"@en .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#label> "ha residenza attuale"@it .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2002/07/owl#versionIRI> <https://w3id.org/italia/onto/CPV/0.7> .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> <http://xmlns.com/foaf/0.1/name> "Istituto Nazionale di Statistica - ISTAT"@it .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#label> "et\u00E0 al decesso"@it .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa classe rappresenta il sesso della persona. Le istanze della classe sono definite nel relativo vocabolario controllato sul sesso https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@it .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b22 .
+<https://w3id.org/italia/onto/l0/description> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/l0/> .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#comment> "registered family identifier"@en .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#label> "is consort of"@en .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person who is not resident in the country."@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2000/01/rdf-schema#comment> "This is the ontology of the Italian application profile for Persons"@en .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/identifier> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#label> "age when dead"@en .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2000/01/rdf-schema#label> "Cittadino Straniero"@it .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b9 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CLV/Address> .
+_:n3466aaf65dd54613ba12f162a6801495b12 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#label> "ha relazione con"@it .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#comment> "The age of the natural person"@en .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2002/07/owl#disjointWith> _:n3466aaf65dd54613ba12f162a6801495b31 .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione di matrimonio tra due persone."@it .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/creator> <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isResidenceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#label> "birth place"@en .
+_:n3466aaf65dd54613ba12f162a6801495b25 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/residenceInLocation> .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2000/01/rdf-schema#comment> "The class represents the different types of parental relationships"@en .
+<https://w3id.org/italia/data/contact-point/onto-agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Organization> .
+<https://w3id.org/italia/onto/CPV/ResidenceInTime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Inverse property of \"has residence in time\" which links residence in time with the person"@en .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione figlio-padre (ex. Mario \u00E8 figlio di Carlo)."@it .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 stato residenza di (\u00E8 residenza nel tempo di)"@it .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b27 .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#comment> "Il numero di persone che compongono la famiglia anagrafica"@it .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/dcat#keyword> "persone"@it .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/acronym> "CPV-AP_IT" .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "It is a group of people tied together by relationships of marriage, kinship, affinity, adoption, protection or affection. The members must live and be habitually resident in the same municipality (Article 4 of Italian Presidential Decree 30/05/1989, n. 223)"@en .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+_:n3466aaf65dd54613ba12f162a6801495b23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#label> "belongs to family"@en .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale di sesso femminile"@it .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#label> "Registered Family"@en .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b18 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/personID> .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#label> "ha titolo"@it .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#label> "Grado di Istruzione"@it .
+<https://w3id.org/italia/onto/CPV/sexDesc> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasSemanticAssetDistribution> <https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#label> "education level identifier"@en .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#label> "sex description"@en .
+_:n3466aaf65dd54613ba12f162a6801495b11 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasPersonTitle> .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#label> "luogo di morte"@it .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#label> "has sex"@en .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/language> <http://publications.europa.eu/resource/authority/language/ITA> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasSemanticAssetDistribution> <https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/status> "catalogued" .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#comment> "Il cognome di una persona. Ex. 'Rossi' \u00E8 il cognome della persona 'Mario Rossi'"@it .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Family> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/modified> "2020-04-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2002/07/owl#versionInfo> "Versione 0.7 - aggiornata il 27 Aprile 2020 - corretti due typo sulla lingua it per due classi 'Grado di Istruzione' e a'Famiglia' e nella parola 'fogio'; aggiornata il 17 Luglio 2019 - tolto il riferimento di sotto classe di Relazione Parentale per l'Intestatario di foglio di famiglia. Aggiunto il riferimento al vocabolario controllato relativo per il concetto di ParentalRelationshipType ( Tipo Relazione Parentale). Rinominata classe ParentalRelationship in ParentalRelationshipType"@it .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b29 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 genitore di"@it .
+_:n3466aaf65dd54613ba12f162a6801495b26 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2002/07/owl#versionInfo> "Version 0.7 - updated on 27th April 2020 - fixed a few typo in the lang it for two classes 'Education Level' and 'Family' and in a word fogio instead of foglio; updated on 17th of July - deleted subclassOf ParentalRelationship for FamilySheetHolder and added the reference to the controlled vocabulary for ParentalRelationshipType. Renamed ParentalRelationship in ParentalRelationshipType"@en .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasOntologyLanguage> <https://w3id.org/italia/onto/ADMS/OWL> .
+_:n3466aaf65dd54613ba12f162a6801495b25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b13 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasResidenceInTime> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/type> <https://w3id.org/italia/onto/ADMS/CoreOntology> .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#comment> "Una relazione di parentela tra due persone."@it .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/dcat#theme> <http://publications.europa.eu/resource/authority/data-theme/SOCI> .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#label> "has level of education"@en .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/PersonTitle> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#label> "Resident"@en .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2002/07/owl#disjointWith> <https://w3id.org/italia/onto/CPV/Dead> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#label> "nome proprio"@it .
+_:n3466aaf65dd54613ba12f162a6801495b14 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/residentIn> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 nipote lato zii di"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://purl.org/dc/terms/title> "Distribuzione RDF/Turtle ontologia CPV-AP_IT"@it .
+<https://w3id.org/italia/onto/CPV/Resident> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person who is resident in the country"@en .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2000/01/rdf-schema#label> "ha sesso"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://www.w3.org/ns/dcat#accessURL> <https://raw.githubusercontent.com/italia/daf-ontologie-vocabolari-controllati/master/Ontologie/CPV/latest> .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/EducationLevel> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2000/01/rdf-schema#label> "Family Sheet Holder"@en .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa propriet\u00E0 rappresenta la residenza espressa come relazione binaria tra una persona ed un indirizzo."@it .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/BornDead> <http://www.w3.org/2000/01/rdf-schema#label> "Persona Nata Morta"@it .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/l0/Agent> .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/EducationLevel> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b21 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/givenName> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#label> "data di nascita"@it .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2000/01/rdf-schema#label> "Intestatario Foglio di Famiglia"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://purl.org/dc/terms/license> <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#label> "cognome"@it .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://purl.org/dc/terms/description> "This is the distribution in RDF/XML of the persons ontology"@en .
+<https://w3id.org/italia/data/contact-point/onto-agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/hasLevelOfEducation> <http://www.w3.org/2000/01/rdf-schema#label> "ha grado di istruzione"@it .
+_:n3466aaf65dd54613ba12f162a6801495b7 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/educationLevelDesc> .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Relazione inversa che lega una persona residente in un paese al proprio luogo di residenza Rappresenta la residenza corrente della persona"@it .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#comment> "Propriet\u00E0 utilizzata per rappresentare il sesso di una persona come definito nel vocabolario controllato sul sesso: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex"@it .
+<http://xmlns.com/foaf/0.1/Agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.w3.org/ns/dcat#accessURL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:n3466aaf65dd54613ba12f162a6801495b18 <http://www.w3.org/2002/07/owl#qualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2000/01/rdf-schema#label> "Titolo Persona"@it .
+_:n3466aaf65dd54613ba12f162a6801495b24 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#comment> "Property that links the residence in time (the n-ray relationship) to the location of the residence."@en .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#label> "has parental relationship with"@en .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2000/01/rdf-schema#label> "Tipo Relazione Parentale"@it .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b17 .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/l0/Characteristic> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/1> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#comment> "La data di morte della persona naturale. Es: 2002-10-04"@it .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#comment> "Qualsiasi relazione tra persone."@it .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2002/07/owl#versionInfo> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#label> "family sheet holder of"@en .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#label> "citizenship"@en .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b6 .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://purl.org/dc/terms/license> <https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#label> "nome alternativo (secondo nome)"@it .
+_:n3466aaf65dd54613ba12f162a6801495b5 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasDeathPlace> .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#label> "alternative name"@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://w3id.org/italia/onto/CPV/0.6> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/ADMS/SemanticAsset> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isBirthPlaceOf> .
+<https://w3id.org/italia/onto/l0/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b17 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/dateOfBirth> .
+<http://www.w3.org/2006/vcard/ns#Kind> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b14 .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#label> "Person"@en .
+<https://w3id.org/italia/onto/CPV/EducationLevel> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/l0/Characteristic> .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Family> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "E' un insieme di persone legate da vincoli di matrimonio, parentela, affinit\u00E0, adozione, tutela o da vincoli affettivi. I membri devono coabitare e avere dimora abituale nello stesso Comune (articolo 4 del Decreto del Presidente della Repubblica 30/05/1989, n. 223)"@it .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#comment> "Propriet\u00E0 che lega la residenza nel tempo (lo storico della residenza attraverso la definizione della relazione ennaria) al luogo della residenza."@it .
+_:n3466aaf65dd54613ba12f162a6801495b28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b17 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isDeathPlaceOf> .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/EducationLevel> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isDeathPlaceOf> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale emigrata all'estero, che non ha alcuna cittadinanza, perch\u00E9 priva di quella di origine e non in possesso di un'altra"@it .
+_:n3466aaf65dd54613ba12f162a6801495b5 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person who emigrated abroad, who has no nationality, because he or she does not have the nationality of origin and does not possess another one."@en .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b3 .
+_:n3466aaf65dd54613ba12f162a6801495b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-XML> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/ADMS/SemanticAssetDistribution> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#comment> "La data di nascita della persona naturale"@it .
+<https://w3id.org/italia/onto/CPV/Stateless> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#comment> "Codice della voce del vocabolario controllato sul sesso  https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex. Esso assume i valori \"M\" e \"F\"."@it .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/ResidenceInTime> .
+<http://dati.gov.it/onto/dcatapit#Agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#label> "has residence in time"@en .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione che permette di asserire che una persona \u00E8 nata in un certo luogo."@it .
+<https://w3id.org/italia/data/contact-point/onto-agid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dati.gov.it/onto/dcatapit#Organization> .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#label> "in registered family"@en .
+<https://w3id.org/italia/onto/CPV/Sex> <https://w3id.org/italia/onto/l0/controlledVocabulary> <https://w3id.org/italia/controlled-vocabulary/classifications-for-people/sex> .
+<https://w3id.org/italia/onto/CPV/dateOfBirth> <http://www.w3.org/2000/01/rdf-schema#comment> "The date of birth of the natural person"@en .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/italia/onto/TI> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://purl.org/dc/terms/format> <http://publications.europa.eu/resource/authority/file-type/JSON_LD> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+<https://w3id.org/italia/onto/CPV/residenceInLocation> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#label> "Famiglia Anagrafica"@it .
+_:n3466aaf65dd54613ba12f162a6801495b21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/last> <https://w3id.org/italia/onto/CPV/0.7> .
+<https://w3id.org/italia/onto/CPV/isResidenceOf> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/residentIn> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/isBirthPlaceOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/l0/Location> .
+_:n3466aaf65dd54613ba12f162a6801495b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://w3id.org/italia/onto/CPV/hasResidenceInTime> .
+<https://w3id.org/italia/onto/CPV/educationLevelDesc> <http://www.w3.org/2000/01/rdf-schema#label> "descrizione grado di istruzione"@it .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> <http://xmlns.com/foaf/0.1/name> "Agenzia per l'Italia Digitale"@it .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#comment> "Identificativo univoco della famiglia anagrafica"@it .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/officialURI> "https://w3id.org/italia/onto/CPV"^^<http://www.w3.org/2001/XMLSchema#anyURI> .
+_:n3466aaf65dd54613ba12f162a6801495b20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b10 .
+<http://www.w3.org/2006/vcard/ns#hasEmail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/l0/name> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/l0/> .
+<https://w3id.org/italia/onto/CPV/ageWhenDead> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Dead> .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/2000/01/rdf-schema#label> "is current residence of"@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/dcat#keyword> "persona"@it .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#label> "knows"@en .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <https://w3id.org/italia/onto/CPV/ForeignCitizen> .
+<https://w3id.org/italia/onto/CPV> <https://w3id.org/italia/onto/ADMS/hasKeyClass> <https://w3id.org/italia/onto/CPV/ResidenceInTime> .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isParentOf> .
+_:n3466aaf65dd54613ba12f162a6801495b8 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/educationLevelID> .
+<https://w3id.org/italia/onto/CPV/Female> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/name> .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#label> "codice sesso"@it .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#comment> "Propriet\u00E0 che lega una persona allo storico della sua residenza (lega quindi la persona alla relazione ennaria residenza nel tempo)"@it .
+<https://w3id.org/italia/onto/CPV/numberRegFamilyComponents> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> <http://purl.org/dc/terms/identifier> "cnr - Z6HZEH - STLab" .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2000/01/rdf-schema#comment> "A title is a word used before or after a person's name (e.g. Mr., Mrs. etc.)"@en .
+<https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> <http://xmlns.com/foaf/0.1/name> "Istituto di Scienze e Tecnologie della Cognizione del CNR - Semantic Technology Lab (STLab)"@it .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/dateOfDeath> <http://www.w3.org/2000/01/rdf-schema#comment> "The date of birth of the natural person"@en .
+<https://w3id.org/italia/onto/CPV/PersonTitle> <http://www.w3.org/2000/01/rdf-schema#label> "Person Title"@en .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/accrualPeriodicity> <http://publications.europa.eu/resource/authority/frequency/IRREG> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2000/01/rdf-schema#comment> "Una persona naturale che ha cittadinanza straniera"@it .
+<https://w3id.org/italia/onto/CPV/hasRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#label> "has relationship with"@en .
+_:n3466aaf65dd54613ba12f162a6801495b4 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/CPV/hasRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/isGrandFatherOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione parentale tra nonno-nipote"@it .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:n3466aaf65dd54613ba12f162a6801495b14 <http://www.w3.org/2002/07/owl#allValuesFrom> <https://w3id.org/italia/onto/CLV/Address> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Family> <http://www.w3.org/2000/01/rdf-schema#label> "Family"@en .
+<https://w3id.org/italia/onto/CPV/ParentalRelationshipType> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/RegisteredFamily> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#comment> "Rappresenta la relazione di parentela nipote-nonno"@it .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/ParentalRelationshipType> .
+_:n3466aaf65dd54613ba12f162a6801495b22 <http://www.w3.org/2002/07/owl#maxCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2002/07/owl#inverseOf> <https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/identifier> "https://w3id.org/italia/onto/CPV" .
+<https://w3id.org/italia/onto/CPV/hasSex> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Sex> .
+_:n3466aaf65dd54613ba12f162a6801495b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b18 .
+<https://w3id.org/italia/onto/CPV/hasPersonTitle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<http://purl.org/dc/terms/license> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2002/07/owl#versionInfo> "provvisoria"@it .
+_:n3466aaf65dd54613ba12f162a6801495b25 <http://www.w3.org/2002/07/owl#onClass> <https://w3id.org/italia/onto/CLV/Address> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2000/01/rdf-schema#comment> "It represents the parental relationship grandchild-grandfather"@en .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2000/01/rdf-schema#label> "Male"@en .
+<https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/italia/onto/l0/name> .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CLV/Address> .
+<https://w3id.org/italia/onto/CPV/hasDeathPlace> <http://www.w3.org/2000/01/rdf-schema#label> "death place"@en .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b11 .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/ADMS/SemanticAssetDistribution> .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/isNephewOf> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione di parentela tra un nipote ed uno zio."@it .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person of sex Male"@en .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-RDF-TURTLE> <http://www.w3.org/ns/dcat#downloadURL> <https://raw.githubusercontent.com/italia/daf-ontologie-vocabolari-controllati/master/Ontologie/CPV/latest/CPV-AP_IT.ttl> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#label> "person identifier"@en .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+_:n3466aaf65dd54613ba12f162a6801495b19 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#string> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/belongsToFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "La relazione che lega una persona residente in un paese a una famiglia"@it .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/italia/onto/CPV/taxCode> <http://www.w3.org/2000/01/rdf-schema#comment> "Il codice fiscale di  una persona."@it .
+<https://w3id.org/italia/data/project/OntoPiA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2000/01/rdf-schema#comment> "A natural person who owns an Italian nationality"@en .
+<https://w3id.org/italia/onto/CPV/residentIn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/italia/onto/CPV/hasCitizenship> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation that links a person to its citizenship (e.g. Italian)"@en .
+<https://w3id.org/italia/onto/CPV/sexID> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/CPV/Person> .
+<https://w3id.org/italia/onto/CPV/isUncleOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 zio di"@it .
+<https://w3id.org/italia/onto/CPV/FamilySheetHolder> <http://www.w3.org/2000/01/rdf-schema#comment> "This class represents the holder of the family sheet. The holder of the family sheet is defined as the person to whom the family in the civil register is headed."@en .
+<https://w3id.org/italia/onto/CPV/NotResident> <http://www.w3.org/2000/01/rdf-schema#label> "Persona non Residente"@it .
+_:n3466aaf65dd54613ba12f162a6801495b19 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/isParentOf> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/ns/dcat#keyword> "famiglia"@it .
+<https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/2002/07/owl#versionInfo> "unstable"@en .
+_:n3466aaf65dd54613ba12f162a6801495b9 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CLV/hasAddress> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b30 .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/givenName> <http://www.w3.org/2000/01/rdf-schema#comment> "Il nome di una persona. Ex. 'Mario' \u00E8 il nome della persona 'Mario Rossi'."@it .
+_:n3466aaf65dd54613ba12f162a6801495b6 <http://www.w3.org/2002/07/owl#onDataRange> <http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/italia/onto/CPV/isResidenceInTimeOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/ResidenceInTime> .
+<https://w3id.org/italia/onto/CPV/ForeignCitizen> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation child-parent (e.g. John is the son of Peter)."@en .
+<http://spcdata.digitpa.gov.it/browse/page/Amministrazione/ISTAT> <http://xmlns.com/foaf/0.1/name> "Italian National Institute of Statistics - ISTAT"@en .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/10> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isNephewOf> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/publisher> <http://spcdata.digitpa.gov.it/browse/page/Amministrazione/agid> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://www.w3.org/ns/dcat#accessURL> <https://raw.githubusercontent.com/italia/daf-ontologie-vocabolari-controllati/master/Ontologie/CPV/latest> .
+_:n3466aaf65dd54613ba12f162a6801495b3 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasLevelOfEducation> .
+<https://w3id.org/italia/onto/CPV> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/italia/onto/CLV> .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/7> <http://www.w3.org/2002/07/owl#sameAs> <https://w3id.org/italia/onto/CPV/isGrandFatherOf> .
+<https://w3id.org/italia/onto/CPV/isConsortOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The marriage relation between persons"@en .
+_:n3466aaf65dd54613ba12f162a6801495b4 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/age> .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/hasCurrentResidence> <http://www.w3.org/2000/01/rdf-schema#comment> "The relation that links a person who is resident in a country to his/her location of residence. It is the current residence of the person."@en .
+_:n3466aaf65dd54613ba12f162a6801495b18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/Person> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/italia/onto/l0/Agent> .
+<https://w3id.org/italia/data/organization/support-unit/cnr-Z6HZEH/stlab> <http://xmlns.com/foaf/0.1/name> "Institute of Cognitive Sciences and Technologies of the Italian Research Council (CNR) - Semantic Technology Laboratory (STLab)"@en .
+<https://w3id.org/italia/onto/CPV/personID> <http://www.w3.org/2000/01/rdf-schema#label> "codice persona"@it .
+_:n3466aaf65dd54613ba12f162a6801495b30 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/sexID> .
+<https://w3id.org/italia/onto/CPV/isChildOf> <http://www.w3.org/2000/01/rdf-schema#label> "child of"@en .
+<https://w3id.org/italia/onto/CPV/isFamilySheetHolderOf> <http://www.w3.org/2000/01/rdf-schema#label> "intestatario foglio di famiglia di"@en .
+<https://w3id.org/italia/onto/CPV/age> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/italia/onto/CPV/Alive> .
+<https://w3id.org/italia/onto/CPV/inRegisteredFamily> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/CPV/RegisteredFamily> .
+<https://w3id.org/italia/onto/CPV> <http://purl.org/dc/terms/title> "CPV-AP_IT: Core Person Vocabulary - profilo applicativo italiano - Ontologia delle persone"@it .
+<https://w3id.org/italia/onto/CPV/hasResidenceInTime> <http://www.w3.org/2000/01/rdf-schema#comment> "Property that links a person to his/her residence in time"@en .
+<https://w3id.org/italia/onto/CPV/Male> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<https://w3id.org/italia/onto/CPV/ItalianCitizen> <http://www.w3.org/2000/01/rdf-schema#label> "Italian Citizen"@en .
+<https://w3id.org/italia/controlled-vocabulary/classifications-for-people/parental-relationship-types/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<https://w3id.org/italia/onto/CPV/registeredFamilyID> <http://www.w3.org/2000/01/rdf-schema#comment> "Unique identifier of the registered family"@en .
+<https://w3id.org/italia/onto/CPV/Alive> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b4 .
+_:n3466aaf65dd54613ba12f162a6801495b10 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/hasParentalRelationshipWith> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#label> "descrizione sesso"@it .
+<https://w3id.org/italia/onto/CPV/altName> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CPV> .
+<https://w3id.org/italia/onto/CPV/sexDesc> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+_:n3466aaf65dd54613ba12f162a6801495b26 <http://www.w3.org/2002/07/owl#maxQualifiedCardinality> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<https://w3id.org/italia/onto/CPV/educationLevelID> <http://www.w3.org/2000/01/rdf-schema#label> "codice grado di istruzione"@it .
+<https://w3id.org/italia/onto/CPV/familyName> <http://www.w3.org/2002/07/owl#versionInfo> "stable"@en .
+<https://w3id.org/italia/onto/CPV/Dead> <http://www.w3.org/2002/07/owl#versionInfo> "stabile"@it .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+_:n3466aaf65dd54613ba12f162a6801495b27 <http://www.w3.org/2002/07/owl#onProperty> <https://w3id.org/italia/onto/CPV/belongsToFamily> .
+<https://w3id.org/italia/onto/CPV/knows> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<https://w3id.org/italia/onto/CPV/hasBirthPlace> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/italia/onto/l0/Location> .
+<https://w3id.org/italia/data/distribution/CPVAPIT-JSON-LD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/italia/onto/ADMS/SemanticAssetDistribution> .
+_:n3466aaf65dd54613ba12f162a6801495b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:n3466aaf65dd54613ba12f162a6801495b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+<https://w3id.org/italia/onto/CPV/Sex> <http://www.w3.org/2000/01/rdf-schema#subClassOf> _:n3466aaf65dd54613ba12f162a6801495b29 .
+<https://w3id.org/italia/onto/CPV/isCurrentResidenceOf> <http://www.w3.org/2000/01/rdf-schema#label> "\u00E8 residenza attuale di"@it .
+<https://w3id.org/italia/onto/CPV/isGrandChildOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+

@@ -1,0 +1,133 @@
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teko\u010Da zadeva"@sl .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+_:n9c534b6466884d9fa104acba86ee99d1b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n9c534b6466884d9fa104acba86ee99d1b2 .
+_:n9c534b6466884d9fa104acba86ee99d1b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00E5let \u00E4r avslutat"@sv .
+_:n9c534b6466884d9fa104acba86ee99d1b3 <http://purl.org/dc/elements/1.1/source> "LITIGE" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kon\u010Dana zadeva"@sl .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://publications.europa.eu/ontology/authority/authority-code> "STAY" .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n9c534b6466884d9fa104acba86ee99d1b4 .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://publications.europa.eu/ontology/authority/authority-code> "WITHDRAW" .
+_:n9c534b6466884d9fa104acba86ee99d1b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03B5\u03C1\u03B1\u03C4\u03C9\u03B8\u03B5\u03AF\u03C3\u03B1 \u03C5\u03C0\u03CC\u03B8\u03B5\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0412\u0438\u0441\u044F\u0449\u043E \u0434\u0435\u043B\u043E"@bg .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afsluttet sag"@da .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n9c534b6466884d9fa104acba86ee99d1b3 .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://publications.europa.eu/resource/authority/op-code> "CLOSED" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/case-status> .
+<http://publications.europa.eu/resource/authority/case-status> <http://www.w3.org/2002/07/owl#versionInfo> "20160921-0" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cauz\u0103 pendinte"@ro .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprawa zako\u0144czona"@pl .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/case-status> .
+<http://publications.europa.eu/resource/authority/case-status> <http://publications.europa.eu/ontology/authority/table.id> "case-status" .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Menetluses olev kohtuasi"@et .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://publications.europa.eu/ontology/authority/op-code> "CLOSED" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Processo conclu\u00EDdo"@pt .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9sistement"@fr .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://publications.europa.eu/ontology/authority/op-code> "PROGRESS" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://publications.europa.eu/ontology/authority/authority-code> "CLOSED" .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/case-status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukon\u010Den\u00E1 vec"@sk .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+_:n9c534b6466884d9fa104acba86ee99d1b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprawa w toku"@pl .
+<http://publications.europa.eu/resource/authority/case-status> <http://www.w3.org/2004/02/skos/core#prefLabel> "Case status"@en .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaw\u017Ca pendenti"@mt .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prejedn\u00E1van\u00E1 vec"@sk .
+_:n9c534b6466884d9fa104acba86ee99d1b4 <http://purl.org/dc/elements/1.1/source> "LITIGE" .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vireill\u00E4 oleva asia"@fi .
+<http://publications.europa.eu/resource/authority/case-status> <http://publications.europa.eu/ontology/authority/prefLabel> "Case status"@en .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afgesloten zaak"@nl .
+_:n9c534b6466884d9fa104acba86ee99d1b2 <http://purl.org/dc/elements/1.1/source> "LITIGE" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Causa conclusa"@it .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://purl.org/dc/elements/1.1/identifier> "STAY" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Processo pendente"@pt .
+<http://publications.europa.eu/resource/authority/case-status> <http://www.w3.org/2000/01/rdf-schema#label> "Case status"@en .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Postupak u tijeku"@hr .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n9c534b6466884d9fa104acba86ee99d1b4 <http://publications.europa.eu/ontology/authority/legacy-code> "DESIST" .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://publications.europa.eu/ontology/authority/op-code> "WITHDRAW" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "L\u00F5petatud kohtuasi"@et .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Causa pendente"@it .
+_:n9c534b6466884d9fa104acba86ee99d1b1 <http://publications.europa.eu/ontology/authority/legacy-code> "CLOT" .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/case-status> .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verserende sag"@da .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lieta izties\u0101\u0161anas stadij\u0101"@lv .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/case-status> <http://publications.europa.eu/ontology/authority/table.version.number> "20160921-0" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://purl.org/dc/elements/1.1/identifier> "CLOSED" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laufende Rechtssache"@de .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cauz\u0103 finalizat\u0103"@ro .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dar nei\u0161nagrin\u0117ta byla"@lt .
+_:n9c534b6466884d9fa104acba86ee99d1b3 <http://publications.europa.eu/ontology/authority/legacy-code> "SUSP" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asunto concluido"@es .
+_:n9c534b6466884d9fa104acba86ee99d1b2 <http://publications.europa.eu/ontology/authority/legacy-code> "ENC" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u043E \u0434\u0435\u043B\u043E"@bg .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aanhangige zaak"@nl .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00E5let p\u00E5g\u00E5r"@sv .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukon\u010Den\u00E1 v\u011Bc"@cs .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://publications.europa.eu/resource/authority/op-code> "PROGRESS" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predmet rije\u0161en"@hr .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baigta byla"@lt .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Affaire cl\u00F4tur\u00E9e"@fr .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n9c534b6466884d9fa104acba86ee99d1b1 .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://publications.europa.eu/ontology/authority/authority-code> "PROGRESS" .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+_:n9c534b6466884d9fa104acba86ee99d1b1 <http://purl.org/dc/elements/1.1/source> "LITIGE" .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://publications.europa.eu/ontology/authority/op-code> "STAY" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Projedn\u00E1van\u00E1 v\u011Bc"@cs .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/case-status> .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ratkaistu asia"@fi .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Case closed"@en .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://purl.org/dc/elements/1.1/identifier> "PROGRESS" .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Folyamatban l\u00E9v\u0151 \u00FCgy"@hu .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erledigte Rechtssache"@de .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Case in progress"@en .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://purl.org/dc/elements/1.1/identifier> "WITHDRAW" .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Befejezett \u00FCgy"@hu .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Affaire en cours"@fr .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Affaire suspendue"@fr .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03CC\u03B8\u03B5\u03C3\u03B7 \u03B5\u03BD \u03B5\u03BE\u03B5\u03BB\u03AF\u03BE\u03B5\u03B9"@el .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/case-status> .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaw\u017Ca mag\u0127luqa"@mt .
+<http://publications.europa.eu/resource/authority/case-status/CLOSED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lieta, kur\u0101 ir pabeigta tiesved\u012Bba"@lv .
+<http://publications.europa.eu/resource/authority/case-status/STAY> <http://publications.europa.eu/resource/authority/op-code> "STAY" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/case-status/PROGRESS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asunto pendiente"@es .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://publications.europa.eu/resource/authority/op-code> "WITHDRAW" .
+<http://publications.europa.eu/resource/authority/case-status/WITHDRAW> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/case-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+

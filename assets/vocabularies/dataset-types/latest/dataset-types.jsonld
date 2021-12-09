@@ -1,0 +1,3256 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GLOSSARY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GLOSSARY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-11-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GLOSSARY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GLOSSARY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Речник"
+      },
+      {
+        "@language": "cs",
+        "@value": "Glosář"
+      },
+      {
+        "@language": "da",
+        "@value": "Glossar"
+      },
+      {
+        "@language": "de",
+        "@value": "Glossar"
+      },
+      {
+        "@language": "el",
+        "@value": "Γλωσσάριο"
+      },
+      {
+        "@language": "en",
+        "@value": "Glossary"
+      },
+      {
+        "@language": "es",
+        "@value": "Glosario"
+      },
+      {
+        "@language": "et",
+        "@value": "Sõnastik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sanasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Glossaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gluais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pojmovnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "Glosszárium"
+      },
+      {
+        "@language": "it",
+        "@value": "Glossario"
+      },
+      {
+        "@language": "lt",
+        "@value": "Žodynėlis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Glosārijs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Glossarju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Woordenlijst"
+      },
+      {
+        "@language": "no",
+        "@value": "Ordliste"
+      },
+      {
+        "@language": "pl",
+        "@value": "Glosariusz"
+      },
+      {
+        "@language": "pt",
+        "@value": "Glossário"
+      },
+      {
+        "@language": "ro",
+        "@value": "Glosar"
+      },
+      {
+        "@language": "sk",
+        "@value": "Glosár"
+      },
+      {
+        "@language": "sl",
+        "@value": "Glosar"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ordlista"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "STATISTICAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "STATISTICAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "STATISTICAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "STATISTICAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Статистически данни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Statistické údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Statistiske data"
+      },
+      {
+        "@language": "de",
+        "@value": "Statistische Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Στατιστικά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Statistical data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos estadísticos"
+      },
+      {
+        "@language": "et",
+        "@value": "Statistilised andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tilastotiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données statistiques"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí staidrimh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Statistički podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Statisztikai adat"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati statistici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Statistiniai duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Statistikas dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Data dwar l-istatistika"
+      },
+      {
+        "@language": "nb",
+        "@value": "Statistisk"
+      },
+      {
+        "@language": "nl",
+        "@value": "Statistische gegevens"
+      },
+      {
+        "@language": "nn",
+        "@value": "Statistisk"
+      },
+      {
+        "@language": "no",
+        "@value": "Statistisk"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane statystyczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados estatísticos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date statistice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Štatistické údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Statistični podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Statistiska data"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TEST_DATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TEST_DATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-05-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TEST_DATA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TEST_DATA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Данни от изпитването"
+      },
+      {
+        "@language": "cs",
+        "@value": "Testovací data"
+      },
+      {
+        "@language": "da",
+        "@value": "Testdata"
+      },
+      {
+        "@language": "de",
+        "@value": "Testdaten"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεδομένα δοκιμής"
+      },
+      {
+        "@language": "en",
+        "@value": "Test data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos de prueba"
+      },
+      {
+        "@language": "et",
+        "@value": "Testandmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Testitiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données d’essai"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí tástála"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispitni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tesztadat"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati di prova"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bandymo duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dati testēšanai"
+      },
+      {
+        "@language": "mt",
+        "@value": "Data tal-ittestjar"
+      },
+      {
+        "@language": "nb",
+        "@value": "Testdata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Testgegevens"
+      },
+      {
+        "@language": "nn",
+        "@value": "Testdata"
+      },
+      {
+        "@language": "no",
+        "@value": "Testdata"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane testowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados de testes"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date test"
+      },
+      {
+        "@language": "sk",
+        "@value": "Fiktívne údaje na účely skúšok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Podatki o preskusu"
+      },
+      {
+        "@language": "sv",
+        "@value": "Testdata"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ATTO_PUB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ATTO_PUB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2017-10-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ATTO_PUB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ATTO_PUB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Таблица ATTO – домейн Публикации"
+      },
+      {
+        "@language": "cs",
+        "@value": "Tabulka ATTO – doména publikací"
+      },
+      {
+        "@language": "da",
+        "@value": "ATTO-tabel – publikationsdomæne"
+      },
+      {
+        "@language": "de",
+        "@value": "ATTO-Tabelle – Domain „Veröffentlichungen“"
+      },
+      {
+        "@language": "el",
+        "@value": "Πίνακας ATTO – Τομέας εκδόσεων"
+      },
+      {
+        "@language": "en",
+        "@value": "ATTO table – Publications domain"
+      },
+      {
+        "@language": "es",
+        "@value": "Cuadro ATTO – dominio Publicaciones"
+      },
+      {
+        "@language": "et",
+        "@value": "ATTO tabel – Väljaannete domeen"
+      },
+      {
+        "@language": "fi",
+        "@value": "ATTO-taulukko – Julkaisut-aihealue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tableau ATTO – domaine Publications"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tábla ATTO – fearann na bhFoilseachán"
+      },
+      {
+        "@language": "hr",
+        "@value": "ATTO tablica – domena publikacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "ATTO-táblázat – Kiadványtartomány"
+      },
+      {
+        "@language": "it",
+        "@value": "Tabella ATTO – dominio Pubblicazioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "ATTO lentelė – leidinių sritis"
+      },
+      {
+        "@language": "lv",
+        "@value": "ATTO tabula – “Publikāciju” domēns"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tabella ATTO – dominju tal-Pubblikazzjonijiet"
+      },
+      {
+        "@language": "nl",
+        "@value": "ATTO-tabel – Publicatiedomein"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tablica ATTO – domena publikacji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tabela ATTO — Domínio Publicações"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tabel ATTO – domeniul Publicații"
+      },
+      {
+        "@language": "sk",
+        "@value": "Tabuľka ATTO – doména Publikácií"
+      },
+      {
+        "@language": "sl",
+        "@value": "Tabela ATTO – domena publikacij"
+      },
+      {
+        "@language": "sv",
+        "@value": "ATTO-tabell – Publikationsdomän"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/MAPPING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MAPPING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MAPPING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MAPPING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MAPPING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Карта на връзките"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mapování"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilknytning"
+      },
+      {
+        "@language": "de",
+        "@value": "Mapping"
+      },
+      {
+        "@language": "el",
+        "@value": "Αντιστοιχία"
+      },
+      {
+        "@language": "en",
+        "@value": "Mapping"
+      },
+      {
+        "@language": "es",
+        "@value": "Correspondencia"
+      },
+      {
+        "@language": "et",
+        "@value": "Vastendus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Mappaus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mappage"
+      },
+      {
+        "@language": "hr",
+        "@value": "Mapiranje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Megfeleltetés"
+      },
+      {
+        "@language": "it",
+        "@value": "Mappatura"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priskyrimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kartēšana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Immappjar"
+      },
+      {
+        "@language": "nb",
+        "@value": "Mapping"
+      },
+      {
+        "@language": "nl",
+        "@value": "Mapping"
+      },
+      {
+        "@language": "nn",
+        "@value": "Mapping"
+      },
+      {
+        "@language": "no",
+        "@value": "Mapping"
+      },
+      {
+        "@language": "pl",
+        "@value": "Mapowanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Mapeamento"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cartografiere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Priradenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evidenca"
+      },
+      {
+        "@language": "sv",
+        "@value": "Mappning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DSCRP_SERV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DSCRP_SERV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DSCRP_SERV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DSCRP_SERV"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Описание на услуга"
+      },
+      {
+        "@language": "cs",
+        "@value": "Popis služby"
+      },
+      {
+        "@language": "da",
+        "@value": "Beskrivelse af tjenesten"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienstbeschreibung"
+      },
+      {
+        "@language": "el",
+        "@value": "Περιγραφή υπηρεσίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Service description"
+      },
+      {
+        "@language": "es",
+        "@value": "Descripción del servicio"
+      },
+      {
+        "@language": "et",
+        "@value": "Teenusekirjeldus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Palvelun kuvaus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Description de service"
+      },
+      {
+        "@language": "hr",
+        "@value": "Opis usluge"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szolgáltatás leírása"
+      },
+      {
+        "@language": "it",
+        "@value": "Descrizione del servizio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Paslaugos aprašas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pakalpojuma apraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Deskrizzjoni tas-servizz"
+      },
+      {
+        "@language": "nb",
+        "@value": "Tjenestebeskrivelse"
+      },
+      {
+        "@language": "nl",
+        "@value": "Servicebeschrijving"
+      },
+      {
+        "@language": "nn",
+        "@value": "Tenestebeskriving"
+      },
+      {
+        "@language": "no",
+        "@value": "Tjenestebeskrivelse"
+      },
+      {
+        "@language": "pl",
+        "@value": "Opis usługi"
+      },
+      {
+        "@language": "pt",
+        "@value": "Descrição do serviço"
+      },
+      {
+        "@language": "ro",
+        "@value": "Descrierea serviciului"
+      },
+      {
+        "@language": "sk",
+        "@value": "Schéma služby"
+      },
+      {
+        "@language": "sl",
+        "@value": "Opis storitve"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänstebeskrivning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ONTOLOGY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ONTOLOGY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ONTOLOGY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ONTOLOGY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Онтология"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ontologie"
+      },
+      {
+        "@language": "da",
+        "@value": "Ontologi"
+      },
+      {
+        "@language": "de",
+        "@value": "Ontologie"
+      },
+      {
+        "@language": "el",
+        "@value": "Οντολογία"
+      },
+      {
+        "@language": "en",
+        "@value": "Ontology"
+      },
+      {
+        "@language": "es",
+        "@value": "Ontología"
+      },
+      {
+        "@language": "et",
+        "@value": "Ontoloogia"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ontologia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ontologie"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ontologija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ontológia"
+      },
+      {
+        "@language": "it",
+        "@value": "Ontologia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ontologija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ontoloģija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ontoloġija"
+      },
+      {
+        "@language": "nb",
+        "@value": "Ontologi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ontologie"
+      },
+      {
+        "@language": "nn",
+        "@value": "Ontologi"
+      },
+      {
+        "@language": "no",
+        "@value": "Ontologi"
+      },
+      {
+        "@language": "pl",
+        "@value": "Struktura pojęciowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ontologia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ontologie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Ontológia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ontologija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ontologi"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ATTO_LEX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ATTO_LEX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2017-10-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ATTO_LEX"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ATTO_LEX"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Таблица ATTO – домейн EUR-Lex"
+      },
+      {
+        "@language": "cs",
+        "@value": "Tabulka ATTO – doména EUR-Lex"
+      },
+      {
+        "@language": "da",
+        "@value": "ATTO-tabel – Eur-Lex-domæne"
+      },
+      {
+        "@language": "de",
+        "@value": "ATTO-Tabelle – EUR-Lex-Domain"
+      },
+      {
+        "@language": "el",
+        "@value": "Πίνακας ATTO – Τομέας EUR-Lex"
+      },
+      {
+        "@language": "en",
+        "@value": "ATTO table – EUR-Lex domain"
+      },
+      {
+        "@language": "es",
+        "@value": "Cuadro ATTO – dominio EUR-Lex"
+      },
+      {
+        "@language": "et",
+        "@value": "ATTO tabel – EUR-Lexi domeen"
+      },
+      {
+        "@language": "fi",
+        "@value": "ATTO-taulukko – EUR-Lex-aihealue"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tableau ATTO – domaine EUR-Lex"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tábla ATTO – fearann EUR-Lex"
+      },
+      {
+        "@language": "hr",
+        "@value": "ATTO tablica – domena EUR-Lexa"
+      },
+      {
+        "@language": "hu",
+        "@value": "ATTO-táblázat – EUR-Lex-tartomány"
+      },
+      {
+        "@language": "it",
+        "@value": "Tabella ATTO – dominio EUR-Lex"
+      },
+      {
+        "@language": "lt",
+        "@value": "ATTO lentelė – „EUR-Lex“ sritis"
+      },
+      {
+        "@language": "lv",
+        "@value": "ATTO tabula – “EUR-Lex” domēns"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tabella ATTO – dominju EUR-Lex"
+      },
+      {
+        "@language": "nl",
+        "@value": "ATTO-tabel – EUR-Lex"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tablica ATTO – domena EUR-Lex"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tabela ATTO — Domínio EUR-Lex"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tabel ATTO – domeniul EUR-Lex"
+      },
+      {
+        "@language": "sk",
+        "@value": "Tabuľka ATTO – doména EUR-Lex"
+      },
+      {
+        "@language": "sl",
+        "@value": "Tabela ATTO – domena EUR-Lex"
+      },
+      {
+        "@language": "sv",
+        "@value": "ATTO-tabell – EUR-Lex-domän"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TAXONOMY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TAXONOMY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TAXONOMY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TAXONOMY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Таксономия"
+      },
+      {
+        "@language": "cs",
+        "@value": "Taxonomie"
+      },
+      {
+        "@language": "da",
+        "@value": "Taksonomi"
+      },
+      {
+        "@language": "de",
+        "@value": "Taxonomie"
+      },
+      {
+        "@language": "el",
+        "@value": "Ταξονομία"
+      },
+      {
+        "@language": "en",
+        "@value": "Taxonomy"
+      },
+      {
+        "@language": "es",
+        "@value": "Taxonomía"
+      },
+      {
+        "@language": "et",
+        "@value": "Taksonoomia"
+      },
+      {
+        "@language": "fi",
+        "@value": "Taksonomia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Taxonomie"
+      },
+      {
+        "@language": "hr",
+        "@value": "Taksonomija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Taxonómia"
+      },
+      {
+        "@language": "it",
+        "@value": "Tassonomia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sistematika"
+      },
+      {
+        "@language": "lv",
+        "@value": "Taksonomija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tassonomija"
+      },
+      {
+        "@language": "nb",
+        "@value": "Taksonomi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Taxonomie"
+      },
+      {
+        "@language": "nn",
+        "@value": "Taksonomi"
+      },
+      {
+        "@language": "no",
+        "@value": "Taksonomi"
+      },
+      {
+        "@language": "pl",
+        "@value": "Klasyfikacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Taxonomia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Taxonomie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Taxonómia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Taksonomija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Taxonomi"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CODE_LIST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CODE_LIST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CODE_LIST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CODE_LIST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Списък на кодовете"
+      },
+      {
+        "@language": "cs",
+        "@value": "Seznam kódů"
+      },
+      {
+        "@language": "da",
+        "@value": "Kodeliste"
+      },
+      {
+        "@language": "de",
+        "@value": "Codeliste"
+      },
+      {
+        "@language": "el",
+        "@value": "Κατάλογος κωδικών"
+      },
+      {
+        "@language": "en",
+        "@value": "Code list"
+      },
+      {
+        "@language": "es",
+        "@value": "Lista de códigos"
+      },
+      {
+        "@language": "et",
+        "@value": "Koodiloend"
+      },
+      {
+        "@language": "fi",
+        "@value": "Koodiluettelo"
+      },
+      {
+        "@language": "fr",
+        "@value": "Liste de codes"
+      },
+      {
+        "@language": "hr",
+        "@value": "Popis kodova"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kódlista"
+      },
+      {
+        "@language": "it",
+        "@value": "Elenco dei codici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kodų sąrašas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kodu saraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Lista ta' kodiċijiet"
+      },
+      {
+        "@language": "nb",
+        "@value": "Kodeliste"
+      },
+      {
+        "@language": "nl",
+        "@value": "Codelijst"
+      },
+      {
+        "@language": "nn",
+        "@value": "Kodeliste"
+      },
+      {
+        "@language": "no",
+        "@value": "Kodeliste"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wykaz kodów"
+      },
+      {
+        "@language": "pt",
+        "@value": "Lista de códigos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Listă de coduri"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zoznam kódov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Seznam kod"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kodlista"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/SCHEMA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SCHEMA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SCHEMA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SCHEMA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SCHEMA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Схема"
+      },
+      {
+        "@language": "cs",
+        "@value": "Schéma"
+      },
+      {
+        "@language": "da",
+        "@value": "Skema"
+      },
+      {
+        "@language": "de",
+        "@value": "Schema"
+      },
+      {
+        "@language": "el",
+        "@value": "Σύστημα"
+      },
+      {
+        "@language": "en",
+        "@value": "Schema"
+      },
+      {
+        "@language": "es",
+        "@value": "Esquema"
+      },
+      {
+        "@language": "et",
+        "@value": "Skeem"
+      },
+      {
+        "@language": "fi",
+        "@value": "Skeema"
+      },
+      {
+        "@language": "fr",
+        "@value": "Schéma"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nacrt"
+      },
+      {
+        "@language": "hu",
+        "@value": "Séma"
+      },
+      {
+        "@language": "it",
+        "@value": "Schema"
+      },
+      {
+        "@language": "lt",
+        "@value": "Schema"
+      },
+      {
+        "@language": "lv",
+        "@value": "Shēma"
+      },
+      {
+        "@language": "mt",
+        "@value": "Skema"
+      },
+      {
+        "@language": "nb",
+        "@value": "Skjema"
+      },
+      {
+        "@language": "nl",
+        "@value": "Schema"
+      },
+      {
+        "@language": "nn",
+        "@value": "Skjema"
+      },
+      {
+        "@language": "no",
+        "@value": "Skjema"
+      },
+      {
+        "@language": "pl",
+        "@value": "Schemat"
+      },
+      {
+        "@language": "pt",
+        "@value": "Esquema"
+      },
+      {
+        "@language": "ro",
+        "@value": "Schemă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Schéma"
+      },
+      {
+        "@language": "sl",
+        "@value": "Shema"
+      },
+      {
+        "@language": "sv",
+        "@value": "Schema"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DOMAIN_MODEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DOMAIN_MODEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DOMAIN_MODEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DOMAIN_MODEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Модел на област"
+      },
+      {
+        "@language": "cs",
+        "@value": "Model domény"
+      },
+      {
+        "@language": "da",
+        "@value": "Domænemodel"
+      },
+      {
+        "@language": "de",
+        "@value": "Domänenmodell"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπόδειγμα πεδίου"
+      },
+      {
+        "@language": "en",
+        "@value": "Domain model"
+      },
+      {
+        "@language": "es",
+        "@value": "Modelo de dominio"
+      },
+      {
+        "@language": "et",
+        "@value": "Domeenimudel"
+      },
+      {
+        "@language": "fi",
+        "@value": "Käsitemalli"
+      },
+      {
+        "@language": "fr",
+        "@value": "Modèle de domaine"
+      },
+      {
+        "@language": "hr",
+        "@value": "Model domene"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tartománymodell"
+      },
+      {
+        "@language": "it",
+        "@value": "Modello di dominio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Domeno modelis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Domēna modelis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mudell ta' dominju"
+      },
+      {
+        "@language": "nb",
+        "@value": "Domenemodell"
+      },
+      {
+        "@language": "nl",
+        "@value": "Domeinmodel"
+      },
+      {
+        "@language": "nn",
+        "@value": "Domenemodell"
+      },
+      {
+        "@language": "no",
+        "@value": "Domenemodell"
+      },
+      {
+        "@language": "pl",
+        "@value": "Model domeny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Modelo de domínio"
+      },
+      {
+        "@language": "ro",
+        "@value": "Model de domeniu"
+      },
+      {
+        "@language": "sk",
+        "@value": "Model domény"
+      },
+      {
+        "@language": "sl",
+        "@value": "Model domene"
+      },
+      {
+        "@language": "sv",
+        "@value": "Domänmodell"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/THESAURUS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "THESAURUS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "THESAURUS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "THESAURUS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "THESAURUS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Тезаурус"
+      },
+      {
+        "@language": "cs",
+        "@value": "Tezaurus"
+      },
+      {
+        "@language": "da",
+        "@value": "Tesaurus"
+      },
+      {
+        "@language": "de",
+        "@value": "Thesaurus"
+      },
+      {
+        "@language": "el",
+        "@value": "Θησαυρός"
+      },
+      {
+        "@language": "en",
+        "@value": "Thesaurus"
+      },
+      {
+        "@language": "es",
+        "@value": "Tesauro"
+      },
+      {
+        "@language": "et",
+        "@value": "Tesaurus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tesaurus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Thésaurus"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pojmovnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tezaurusz"
+      },
+      {
+        "@language": "it",
+        "@value": "Tesauro"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tezauras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tēzaurs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Teżawru"
+      },
+      {
+        "@language": "nb",
+        "@value": "Tesaurus"
+      },
+      {
+        "@language": "nl",
+        "@value": "Thesaurus"
+      },
+      {
+        "@language": "nn",
+        "@value": "Tesaurus"
+      },
+      {
+        "@language": "no",
+        "@value": "Tesaurus"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tezaurus"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tesauro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tezaur"
+      },
+      {
+        "@language": "sk",
+        "@value": "Synonymický slovník"
+      },
+      {
+        "@language": "sl",
+        "@value": "Tezaver"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tesaurus"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/IEPD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "IEPD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "IEPD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "IEPD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "IEPD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Описание на пакет за обмен на информация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Popis balíčku pro výměnu informací"
+      },
+      {
+        "@language": "da",
+        "@value": "Beskrivelse af informationsudveksling"
+      },
+      {
+        "@language": "de",
+        "@value": "Beschreibung des informationsaustauschpakets"
+      },
+      {
+        "@language": "el",
+        "@value": "Περιγραφή δέσμης ανταλλαγής πληροφοριών"
+      },
+      {
+        "@language": "en",
+        "@value": "Information exchange package description"
+      },
+      {
+        "@language": "es",
+        "@value": "Descripción de un paquete de intercambio de información"
+      },
+      {
+        "@language": "et",
+        "@value": "Teabevahetuspaketi kirjeldus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tiedonvaihtopaketin kuvaus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Description de paquet d’échange d'information"
+      },
+      {
+        "@language": "hr",
+        "@value": "Opis paketa informacijske razmjene"
+      },
+      {
+        "@language": "hu",
+        "@value": "Információcsere-csomag (IEP) leírása"
+      },
+      {
+        "@language": "it",
+        "@value": "Descrizione del pacchetto «scambio di informazioni»"
+      },
+      {
+        "@language": "lt",
+        "@value": "Informacijos mainų paketo aprašas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Informācijas apmaiņas paketes apraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Deskrizzjoni ta' pakkett ta' skambju ta' informazzjoni"
+      },
+      {
+        "@language": "nb",
+        "@value": "Beskrivelse av informasjonsutvekslingspakke"
+      },
+      {
+        "@language": "nl",
+        "@value": "Omschrijving informatie-uitwisselingspakket"
+      },
+      {
+        "@language": "nn",
+        "@value": "Beskriving av informasjonsutvekslingspakke"
+      },
+      {
+        "@language": "no",
+        "@value": "Beskrivelse av informasjonsutvekslingspakke"
+      },
+      {
+        "@language": "pl",
+        "@value": "Opis struktury i treści wymiany informacji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Descrição de pacote de intercâmbio de informação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Descrierea pachetului de schimb de informații"
+      },
+      {
+        "@language": "sk",
+        "@value": "Opis balíka výmeny informácií"
+      },
+      {
+        "@language": "sl",
+        "@value": "Opis paketa za izmenjavo podatkov"
+      },
+      {
+        "@language": "sv",
+        "@value": "Beskrivning av informationsutbyte"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/APROF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "APROF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "APROF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2017-10-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "APROF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "APROF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Профил за приложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Profil aplikace"
+      },
+      {
+        "@language": "da",
+        "@value": "Anvendelsesprofil"
+      },
+      {
+        "@language": "de",
+        "@value": "Anwendungsprofil"
+      },
+      {
+        "@language": "el",
+        "@value": "Προφίλ εφαρμογής"
+      },
+      {
+        "@language": "en",
+        "@value": "Application profile"
+      },
+      {
+        "@language": "es",
+        "@value": "Perfil de aplicación"
+      },
+      {
+        "@language": "et",
+        "@value": "Rakendusprofiil"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sovellusprofiili"
+      },
+      {
+        "@language": "fr",
+        "@value": "Profil d’application"
+      },
+      {
+        "@language": "ga",
+        "@value": "Próifíl feidhmchláir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Aplikacijski profil"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alkalmazásprofil"
+      },
+      {
+        "@language": "it",
+        "@value": "Profilo applicazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Programos profilis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lietotnes profils"
+      },
+      {
+        "@language": "mt",
+        "@value": "Profil tal-applikazzjoni"
+      },
+      {
+        "@language": "nb",
+        "@value": "Applikasjonsprofil"
+      },
+      {
+        "@language": "nl",
+        "@value": "Applicatieprofiel"
+      },
+      {
+        "@language": "nn",
+        "@value": "Applikasjonsprofil"
+      },
+      {
+        "@language": "no",
+        "@value": "Applikasjonsprofil"
+      },
+      {
+        "@language": "pl",
+        "@value": "Profil aplikacji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Perfil de aplicação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Profil aplicație"
+      },
+      {
+        "@language": "sk",
+        "@value": "Profil aplikácie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Profil aplikacije"
+      },
+      {
+        "@language": "sv",
+        "@value": "Applikationsprofil"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CORE_COMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CORE_COMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CORE_COMP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CORE_COMP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Базов елемент"
+      },
+      {
+        "@language": "cs",
+        "@value": "Základní prvek"
+      },
+      {
+        "@language": "da",
+        "@value": "Hovedkomponent"
+      },
+      {
+        "@language": "de",
+        "@value": "Kernbestandteil"
+      },
+      {
+        "@language": "el",
+        "@value": "Βασικό συστατικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Core component"
+      },
+      {
+        "@language": "es",
+        "@value": "Componente básico"
+      },
+      {
+        "@language": "et",
+        "@value": "Tuumikelement"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ydinkomponentti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Composant de base"
+      },
+      {
+        "@language": "hr",
+        "@value": "Osnovna komponenta"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alapkomponens"
+      },
+      {
+        "@language": "it",
+        "@value": "Componente centrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pagrindinis komponentas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pamatsastāvdaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Komponent ċentrali"
+      },
+      {
+        "@language": "nb",
+        "@value": "Hovedkomponent"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kerncomponent"
+      },
+      {
+        "@language": "nn",
+        "@value": "Hovudkomponent"
+      },
+      {
+        "@language": "no",
+        "@value": "Hovedkomponent"
+      },
+      {
+        "@language": "pl",
+        "@value": "Element podstawowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Componente fundamental"
+      },
+      {
+        "@language": "ro",
+        "@value": "Componentă centrală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Hlavná zložka"
+      },
+      {
+        "@language": "sl",
+        "@value": "Osnovna komponenta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kärnkomponent"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/NAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Проверен списък с имена"
+      },
+      {
+        "@language": "cs",
+        "@value": "Seznam názvů orgánů"
+      },
+      {
+        "@language": "da",
+        "@value": "Liste over myndighedsnavne"
+      },
+      {
+        "@language": "de",
+        "@value": "Liste zugelassener Namen"
+      },
+      {
+        "@language": "el",
+        "@value": "Κατάλογος εγκεκριμένων ονομάτων"
+      },
+      {
+        "@language": "en",
+        "@value": "Name authority list"
+      },
+      {
+        "@language": "es",
+        "@value": "Lista autorizada de nombres"
+      },
+      {
+        "@language": "et",
+        "@value": "Lubatud nimede loend"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hyväksyttyjen nimien luettelo"
+      },
+      {
+        "@language": "fr",
+        "@value": "Liste d’autorité de noms"
+      },
+      {
+        "@language": "hr",
+        "@value": "Popis zadanih naziva"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jóváhagyott névlista"
+      },
+      {
+        "@language": "it",
+        "@value": "Elenco dei nomi autorizzati"
+      },
+      {
+        "@language": "lt",
+        "@value": "Institucijų pavadinimų sąrašas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vārdu un nosaukumu saraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Lista ta' ismijiet awtorizzati"
+      },
+      {
+        "@language": "nb",
+        "@value": "Autoritetsliste for entitetsnavn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Standaardnamenlijst"
+      },
+      {
+        "@language": "nn",
+        "@value": "Autoritetsliste for entitetsnamn"
+      },
+      {
+        "@language": "no",
+        "@value": "Autoritetsliste for entitetsnavn"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wykaz nazw organów"
+      },
+      {
+        "@language": "pt",
+        "@value": "Lista autorizada de nomes"
+      },
+      {
+        "@language": "ro",
+        "@value": "Listă cu numele autorităților"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zoznam názvov orgánov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Seznam imen organov"
+      },
+      {
+        "@language": "sv",
+        "@value": "Auktoritetsregister"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GEOSPATIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GEOSPATIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-01-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GEOSPATIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GEOSPATIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Геопространствени данни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Geoprostorová data"
+      },
+      {
+        "@language": "da",
+        "@value": "Geospatiale data"
+      },
+      {
+        "@language": "de",
+        "@value": "Geodaten"
+      },
+      {
+        "@language": "el",
+        "@value": "Γεωχωρικά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Geospatial data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos geoespaciales"
+      },
+      {
+        "@language": "et",
+        "@value": "Ruumiandmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Paikkatiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données géospatiales"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí geospásúla"
+      },
+      {
+        "@language": "hr",
+        "@value": "Geoprostorni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Térinformatikai adat"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati geospaziali"
+      },
+      {
+        "@language": "lt",
+        "@value": "Geoerdviniai duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ģeotelpiskie dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Data ġeospazjali"
+      },
+      {
+        "@language": "nb",
+        "@value": "Geodata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Georuimtelijke gegevens"
+      },
+      {
+        "@language": "nn",
+        "@value": "Geodata"
+      },
+      {
+        "@language": "no",
+        "@value": "Geodata"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane geoprzestrzenne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados geoespaciais"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date geospațiale"
+      },
+      {
+        "@language": "sk",
+        "@value": "Geopriestorové údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Geoprostorski podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Geospatiala data"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SYNTAX_ECD_SCHEME"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SYNTAX_ECD_SCHEME"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SYNTAX_ECD_SCHEME"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SYNTAX_ECD_SCHEME"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Схема на кодиране със синтаксис"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kódovací schéma skladby"
+      },
+      {
+        "@language": "da",
+        "@value": "Kodeskema for syntaks"
+      },
+      {
+        "@language": "de",
+        "@value": "Codierungssystem mit Syntax"
+      },
+      {
+        "@language": "el",
+        "@value": "Σύστημα συντακτικής κωδικοποίησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Syntax encoding scheme"
+      },
+      {
+        "@language": "es",
+        "@value": "Esquema de codificación sintáctica"
+      },
+      {
+        "@language": "et",
+        "@value": "Süntaktiline kodeerimisskeem"
+      },
+      {
+        "@language": "fi",
+        "@value": "Syntaktinen koodausskeema"
+      },
+      {
+        "@language": "fr",
+        "@value": "Schème d’encodage de syntaxe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zadana pravila kodiranja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szintaxiskódolási séma"
+      },
+      {
+        "@language": "it",
+        "@value": "Sistema di codifica basato sulla sintassi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sintaksės kodavimo schema"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sintakses kodējumu shēma"
+      },
+      {
+        "@language": "mt",
+        "@value": "Skema ta' konverżjoni tas-sintassi"
+      },
+      {
+        "@language": "nb",
+        "@value": "Kodeskjema for syntaks"
+      },
+      {
+        "@language": "nl",
+        "@value": "Syntaxiscoderingsschema"
+      },
+      {
+        "@language": "nn",
+        "@value": "Kodeskjema for syntaks"
+      },
+      {
+        "@language": "no",
+        "@value": "Kodeskjema for syntaks"
+      },
+      {
+        "@language": "pl",
+        "@value": "System kodowania składniowego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Esquema de codificação sintática"
+      },
+      {
+        "@language": "ro",
+        "@value": "Sistem de codificare a sintaxei"
+      },
+      {
+        "@language": "sk",
+        "@value": "Syntaktická schéma kódovania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Shema kodiranja sintakse"
+      },
+      {
+        "@language": "sv",
+        "@value": "Syntaxschema"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dataset type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "dataset-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dataset type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dataset type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/STYLES",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "STYLES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "STYLES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2017-10-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "STYLES"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "STYLES"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Набори от стилове"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pravidla pro úpravu"
+      },
+      {
+        "@language": "da",
+        "@value": "Standardformularer"
+      },
+      {
+        "@language": "de",
+        "@value": "Formatvorlagen"
+      },
+      {
+        "@language": "el",
+        "@value": "Φύλλα στυλ"
+      },
+      {
+        "@language": "en",
+        "@value": "Style sheets"
+      },
+      {
+        "@language": "es",
+        "@value": "Hojas de estilo"
+      },
+      {
+        "@language": "et",
+        "@value": "Laadilehed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tyyliohjeet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Feuilles de style"
+      },
+      {
+        "@language": "ga",
+        "@value": "Stílbhileoga"
+      },
+      {
+        "@language": "hr",
+        "@value": "Stilski obrasci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Stíluslapok"
+      },
+      {
+        "@language": "it",
+        "@value": "Fogli di stile"
+      },
+      {
+        "@language": "lt",
+        "@value": "Stilių aprašai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Stila lapas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Style sheets"
+      },
+      {
+        "@language": "nb",
+        "@value": "Stilark"
+      },
+      {
+        "@language": "nl",
+        "@value": "Opmaakmodellen"
+      },
+      {
+        "@language": "nn",
+        "@value": "Stilark"
+      },
+      {
+        "@language": "no",
+        "@value": "Stilark"
+      },
+      {
+        "@language": "pl",
+        "@value": "Arkusze stylów"
+      },
+      {
+        "@language": "pt",
+        "@value": "Folhas de estilo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Foi de stil"
+      },
+      {
+        "@language": "sk",
+        "@value": "Listy so štýlmi"
+      },
+      {
+        "@language": "sl",
+        "@value": "Slogovne datoteke"
+      },
+      {
+        "@language": "sv",
+        "@value": "Formatmallar"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SYNTHETIC_DATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SYNTHETIC_DATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-05-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SYNTHETIC_DATA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SYNTHETIC_DATA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Синтетични данни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Syntetická data"
+      },
+      {
+        "@language": "da",
+        "@value": "Syntetiske data"
+      },
+      {
+        "@language": "de",
+        "@value": "Synthetische Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Συνθετικά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Synthetic data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos sintéticos"
+      },
+      {
+        "@language": "et",
+        "@value": "Sünteetilised andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Synteettiset tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données synthétiques"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sintéiseacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sintetički podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szintetikus adat"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati sintetici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dirbtiniai duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sintētiskie dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Data sintetika"
+      },
+      {
+        "@language": "nb",
+        "@value": "Kunstig data"
+      },
+      {
+        "@language": "nl",
+        "@value": "Synthetische gegevens"
+      },
+      {
+        "@language": "nn",
+        "@value": "Kunstig data"
+      },
+      {
+        "@language": "no",
+        "@value": "Kunstig data"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane syntetyczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados sintéticos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date sintetice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Syntetické údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sintetični podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Syntetiska data"
+      }
+    ]
+  }
+]

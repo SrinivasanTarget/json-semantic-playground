@@ -1,0 +1,85 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: 05c79cb9ee
+  deprecated: 'false'
+  key: 05c79cb9ee
+  label_en: A new push for European democracy
+  label_it: Un nuovo slancio per la democrazia europea
+  url: http://publications.europa.eu/resource/authority/strategic-priority/05c79cb9ee
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'
+- country_code: 33a612644a
+  deprecated: 'false'
+  key: 33a612644a
+  label_en: An economy that works for people
+  label_it: Un'economia al servizio delle persone
+  url: http://publications.europa.eu/resource/authority/strategic-priority/33a612644a
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'
+- country_code: 3c3c547b96
+  deprecated: 'false'
+  key: 3c3c547b96
+  label_en: A European Green Deal
+  label_it: Green Deal europeo
+  url: http://publications.europa.eu/resource/authority/strategic-priority/3c3c547b96
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'
+- country_code: 3da7cd2056
+  deprecated: 'false'
+  key: 3da7cd2056
+  label_en: A stronger Europe in the world
+  label_it: "Un'Europa pi\xF9 forte nel mondo"
+  url: http://publications.europa.eu/resource/authority/strategic-priority/3da7cd2056
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'
+- country_code: 6002f017ad
+  deprecated: 'false'
+  key: 6002f017ad
+  label_en: A Europe fit for the digital age
+  label_it: Un'Europa pronta per l'era digitale
+  url: http://publications.europa.eu/resource/authority/strategic-priority/6002f017ad
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/strategic-priority/OP_DATPRO
+  valid_from: '1952-07-23'
+- country_code: ad7bdb3bbd
+  deprecated: 'false'
+  key: ad7bdb3bbd
+  label_en: Promoting our European way of life
+  label_it: Promozione del nostro stile di vita europeo
+  url: http://publications.europa.eu/resource/authority/strategic-priority/ad7bdb3bbd
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'
+- country_code: c_d20941d9
+  deprecated: 'false'
+  key: c_d20941d9
+  label_en: "Commission priorities for 2019\u20132024"
+  label_it: "Le priorit\xE0 della Commissione per il 2019-2024"
+  url: http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9
+  valid_from: '2019-12-01'
+  valid_until: '2024-11-30'

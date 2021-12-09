@@ -1,0 +1,349 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: 1995_499-XIII
+  deprecated: 'false'
+  key: 1995_499-XIII
+  label_en: Ratified Parliament Decision (1995) No 499-XIII
+  url: http://publications.europa.eu/resource/authority/legal-basis/1995_499-XIII
+  valid_from: '2021-06-16'
+- country_code: 2011CEB_PROC_EXT
+  deprecated: 'false'
+  key: 2011CEB_PROC_EXT
+  label_en: Guidelines for Procurement of Supplies, Works and Services
+  url: http://publications.europa.eu/resource/authority/legal-basis/2011CEB_PROC_EXT
+  valid_from: '2021-06-16'
+- country_code: 2014CEB_PROC_INT
+  deprecated: 'false'
+  key: 2014CEB_PROC_INT
+  label_en: Guidelines on the internal procurement of services, supplies and works
+    by the CEB
+  url: http://publications.europa.eu/resource/authority/legal-basis/2014CEB_PROC_INT
+  valid_from: '2021-06-16'
+- country_code: 2020CEB_GRANT
+  deprecated: 'false'
+  key: 2020CEB_GRANT
+  label_en: "CEB\u2019s competitive procedures to award grants"
+  url: http://publications.europa.eu/resource/authority/legal-basis/2020CEB_GRANT
+  valid_from: '2021-06-16'
+- country_code: 31985R2137
+  deprecated: 'false'
+  key: 31985R2137
+  label_en: Regulation (EEC) No 2137/85
+  label_it: Regolamento (CEE) n. 2137/85
+  url: http://publications.europa.eu/resource/authority/legal-basis/31985R2137
+  valid_from: '1985-08-03'
+- country_code: 31992L0013
+  deprecated: 'false'
+  key: 31992L0013
+  label_en: Directive 92/13/EEC
+  label_it: Direttiva 92/13/CEE
+  url: http://publications.europa.eu/resource/authority/legal-basis/31992L0013
+  valid_from: '1992-03-06'
+- country_code: 31994D0001
+  deprecated: 'false'
+  key: 31994D0001
+  label_en: Decision 94/1/EC, ECSC
+  label_it: Decisione 94/1/CE, CECA
+  url: http://publications.europa.eu/resource/authority/legal-basis/31994D0001
+  valid_from: '1994-01-01'
+- country_code: 31994D0800
+  deprecated: 'false'
+  key: 31994D0800
+  label_en: Decision 94/800/EC
+  label_it: Decisione 94/800/CE
+  url: http://publications.europa.eu/resource/authority/legal-basis/31994D0800
+  valid_from: '1994-12-22'
+- country_code: 32001R2157
+  deprecated: 'false'
+  key: 32001R2157
+  label_en: Regulation (EC) No 2157/2001
+  label_it: Regolamento (CE) n. 2157/2001
+  url: http://publications.europa.eu/resource/authority/legal-basis/32001R2157
+  valid_from: '2004-10-08'
+- country_code: 32002D0309
+  deprecated: 'false'
+  key: 32002D0309
+  label_en: Decision 2002/309/EC, Euratom
+  label_it: Decisione 2002/309/CE, Euratom
+  url: http://publications.europa.eu/resource/authority/legal-basis/32002D0309
+  valid_from: '2002-04-04'
+- country_code: 32002R2342
+  deprecated: 'true'
+  key: 32002R2342
+  label_en: Regulation (EC, Euratom) No 2342/2002
+  label_it: Regolamento (CE, Euratom) n. 2342/2002
+  url: http://publications.europa.eu/resource/authority/legal-basis/32002R2342
+  valid_from: '2003-01-01'
+  valid_until: '2012-12-31'
+- country_code: 32003R1435
+  deprecated: 'false'
+  key: 32003R1435
+  label_en: Regulation (EC) No 1435/2003
+  label_it: Regolamento (CE) n. 1435/2003
+  url: http://publications.europa.eu/resource/authority/legal-basis/32003R1435
+  valid_from: '2003-08-21'
+- country_code: 32004L0017
+  deprecated: 'true'
+  key: 32004L0017
+  label_en: Directive 2004/17/EC
+  label_it: Direttiva 2004/17/CE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32004L0017
+  valid_from: '2004-04-30'
+  valid_until: '2016-04-18'
+- country_code: 32004L0018
+  deprecated: 'true'
+  key: 32004L0018
+  label_en: Directive 2004/18/EC
+  label_it: Direttiva 2004/18/CE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32004L0018
+  valid_from: '2004-04-30'
+  valid_until: '2016-04-18'
+- country_code: 32005D0015
+  deprecated: 'false'
+  key: 32005D0015
+  label_en: Decision 2005/15/EC
+  label_it: Decisione 2005/15/CE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32005D0015
+  valid_from: '2005-01-07'
+- country_code: 32007D0005_01
+  deprecated: 'true'
+  key: 32007D0005_01
+  label_en: Decision 2007/497/EC (ECB/2007/5)
+  label_it: Decisione 2007/497/CE (BCE/2007/5)
+  url: http://publications.europa.eu/resource/authority/legal-basis/32007D0005_01
+  valid_from: '2007-08-01'
+  valid_until: '2016-04-14'
+- country_code: 32007L0066
+  deprecated: 'false'
+  key: 32007L0066
+  label_en: Directive 2007/66/EC
+  label_it: Direttiva 2007/66/CE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32007L0066
+  valid_from: '2008-01-09'
+- country_code: 32007R0718
+  deprecated: 'false'
+  key: 32007R0718
+  label_en: Regulation (EC) No 718/2007
+  label_it: Regolamento (CE) n. 718/2007
+  url: http://publications.europa.eu/resource/authority/legal-basis/32007R0718
+  valid_from: '2007-01-01'
+- country_code: 32007R1370
+  deprecated: 'false'
+  key: 32007R1370
+  label_en: Regulation (EC) No 1370/2007
+  label_it: Regolamento (CE) n. 1370/2007
+  url: http://publications.europa.eu/resource/authority/legal-basis/32007R1370
+  valid_from: '2009-12-03'
+- country_code: 32008E0124
+  deprecated: 'false'
+  key: 32008E0124
+  label_en: Council Joint Action 2008/124/CFSP
+  label_it: Azione comune 2008/124/PESC del Consiglio
+  url: http://publications.europa.eu/resource/authority/legal-basis/32008E0124
+  valid_from: '2008-02-04'
+- country_code: 32008R1008
+  deprecated: 'false'
+  key: 32008R1008
+  label_en: Regulation (EC) No 1008/2008
+  label_it: Regolamento (CE) n. 1008/2008
+  url: http://publications.europa.eu/resource/authority/legal-basis/32008R1008
+  valid_from: '2008-11-01'
+- country_code: 32009L0081
+  deprecated: 'false'
+  key: 32009L0081
+  label_en: Directive 2009/81/EC
+  label_it: Direttiva 2009/81/CE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32009L0081
+  valid_from: '2009-08-21'
+- country_code: 32012R0966
+  deprecated: 'true'
+  key: 32012R0966
+  label_en: Regulation (EU, Euratom) No 966/2012
+  label_it: Regolamento (UE, Euratom) n. 966/2012
+  url: http://publications.europa.eu/resource/authority/legal-basis/32012R0966
+  valid_from: '2012-10-27'
+  valid_until: '2019-01-07'
+- country_code: 32012R1268
+  deprecated: 'true'
+  key: 32012R1268
+  label_en: Delegated Regulation (EU) No 1268/2012
+  label_it: Regolamento delegato (UE) n. 1268/2012
+  url: http://publications.europa.eu/resource/authority/legal-basis/32012R1268
+  valid_from: '2013-01-01'
+  valid_until: '2019-01-07'
+- country_code: 32013L0016
+  deprecated: 'false'
+  key: 32013L0016
+  label_en: Directive 2013/16/EU
+  label_it: Direttiva 2013/16/UE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32013L0016
+  valid_from: '2013-07-01'
+- country_code: 32014D0115
+  deprecated: 'false'
+  key: 32014D0115
+  label_en: Decision 2014/115/EU
+  label_it: Decisione 2014/115/UE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014D0115
+  valid_from: '2013-12-02'
+- country_code: 32014D0486
+  deprecated: 'false'
+  key: 32014D0486
+  label_en: Decision 2014/486/CFSP
+  label_it: Decisione 2014/486/PESC
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014D0486
+  valid_from: '2014-07-22'
+- country_code: 32014D0691
+  deprecated: 'false'
+  key: 32014D0691
+  label_en: Decision 2014/691/EU
+  label_it: Decisione 2014/691/UE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014D0691
+  valid_from: '2014-09-29'
+- country_code: 32014L0023
+  deprecated: 'false'
+  key: 32014L0023
+  label_en: Directive 2014/23/EU
+  label_it: Direttiva 2014/23/UE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014L0023
+  valid_from: '2014-04-17'
+- country_code: 32014L0024
+  deprecated: 'false'
+  key: 32014L0024
+  label_en: Directive 2014/24/EU
+  label_it: Direttiva 2014/24/UE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014L0024
+  valid_from: '2014-04-17'
+- country_code: 32014L0025
+  deprecated: 'false'
+  key: 32014L0025
+  label_en: Directive 2014/25/EU
+  label_it: Direttiva 2014/25/UE
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014L0025
+  valid_from: '2014-04-17'
+- country_code: 32014R0230
+  deprecated: 'false'
+  key: 32014R0230
+  label_en: Regulation (EU) No 230/2014
+  label_it: Regolamento (UE) n. 230/2014
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014R0230
+  valid_from: '2014-01-01'
+- country_code: 32014R0231
+  deprecated: 'false'
+  key: 32014R0231
+  label_en: Regulation (EU) No 231/2014
+  label_it: Regolamento (UE) n. 231/2014
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014R0231
+  valid_from: '2014-01-01'
+- country_code: 32014R0232
+  deprecated: 'false'
+  key: 32014R0232
+  label_en: Regulation (EU) No 232/2014
+  label_it: Regolamento (UE) n. 232/2014
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014R0232
+  valid_from: '2014-01-01'
+- country_code: 32014R0233
+  deprecated: 'false'
+  key: 32014R0233
+  label_en: Regulation (EU) No 233/2014
+  label_it: Regolamento (UE) n. 233/2014
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014R0233
+  valid_from: '2014-01-01'
+- country_code: 32014R0236
+  deprecated: 'false'
+  key: 32014R0236
+  label_en: Regulation (EU) No 236/2014
+  label_it: Regolamento (UE) n. 236/2014
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014R0236
+  valid_from: '2014-01-01'
+- country_code: 32014R0237
+  deprecated: 'false'
+  key: 32014R0237
+  label_en: Regulation (Euratom) No 237/2014
+  label_it: Regolamento (Euratom) n. 237/2014
+  url: http://publications.europa.eu/resource/authority/legal-basis/32014R0237
+  valid_from: '2014-01-01'
+- country_code: 32015R0323
+  deprecated: 'false'
+  key: 32015R0323
+  label_en: Regulation (EU) 2015/323
+  label_it: Regolamento (UE) 2015/323
+  url: http://publications.europa.eu/resource/authority/legal-basis/32015R0323
+  valid_from: '2015-03-06'
+- country_code: 32016D0002
+  deprecated: 'false'
+  key: 32016D0002
+  label_en: Decision (EU) 2016/245 (ECB/2016/2)
+  label_it: Decisione (UE) 2016/245 (BCE/2016/2)
+  url: http://publications.europa.eu/resource/authority/legal-basis/32016D0002
+  valid_from: '2016-04-15'
+- country_code: 32017D2263
+  deprecated: 'false'
+  key: 32017D2263
+  label_en: Decision (CFSP) 2017/2263
+  label_it: Decisione (PESC) 2017/2263
+  url: http://publications.europa.eu/resource/authority/legal-basis/32017D2263
+  valid_from: '2017-12-15'
+- country_code: 32018R1046
+  deprecated: 'false'
+  key: 32018R1046
+  label_en: Regulation (EU, Euratom) 2018/1046
+  label_it: Regolamento (UE, Euratom) 2018/1046
+  url: http://publications.europa.eu/resource/authority/legal-basis/32018R1046
+  valid_from: '2018-12-12'
+- country_code: 32019D0312
+  deprecated: 'false'
+  key: 32019D0312
+  label_en: Decision (CFSP) 2019/312
+  label_it: Decisione (PESC) 2019/312
+  url: http://publications.europa.eu/resource/authority/legal-basis/32019D0312
+  valid_from: '2019-03-01'
+- country_code: C2019_3277
+  deprecated: 'false'
+  key: C2019_3277
+  label_en: Decision C(2019) 3277
+  url: http://publications.europa.eu/resource/authority/legal-basis/C2019_3277
+  valid_from: '2021-06-16'
+- country_code: C2019_5515
+  deprecated: 'false'
+  key: C2019_5515
+  label_en: Decision C(2019) 5515
+  url: http://publications.europa.eu/resource/authority/legal-basis/C2019_5515
+  valid_from: '2021-06-16'
+- country_code: CFSP2017_34
+  deprecated: 'false'
+  key: CFSP2017_34
+  label_en: CFSP/2017/34/EUMM Georgia
+  url: http://publications.europa.eu/resource/authority/legal-basis/CFSP2017_34
+  valid_from: '2021-06-16'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/legal-basis/OP_DATPRO
+- country_code: other
+  deprecated: 'false'
+  key: other
+  label_en: Other
+  label_it: Altro
+  url: http://publications.europa.eu/resource/authority/legal-basis/other
+  valid_from: '1985-08-03'

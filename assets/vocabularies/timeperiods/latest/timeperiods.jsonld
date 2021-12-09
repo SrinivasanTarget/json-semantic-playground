@@ -1,0 +1,7189 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/HOUR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HOUR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HOUR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HOUR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HOUR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Часове"
+      },
+      {
+        "@language": "cs",
+        "@value": "Hodiny"
+      },
+      {
+        "@language": "da",
+        "@value": "Timer"
+      },
+      {
+        "@language": "de",
+        "@value": "Stunden"
+      },
+      {
+        "@language": "el",
+        "@value": "Ώρες"
+      },
+      {
+        "@language": "en",
+        "@value": "Hours"
+      },
+      {
+        "@language": "es",
+        "@value": "Horas"
+      },
+      {
+        "@language": "et",
+        "@value": "Tunnid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tunnit"
+      },
+      {
+        "@language": "fr",
+        "@value": "Heures"
+      },
+      {
+        "@language": "ga",
+        "@value": "Uaireanta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sati"
+      },
+      {
+        "@language": "hu",
+        "@value": "Órák"
+      },
+      {
+        "@language": "it",
+        "@value": "Ore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valandos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Stundas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sigħat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Uren"
+      },
+      {
+        "@language": "pl",
+        "@value": "Godziny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Horas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ore"
+      },
+      {
+        "@language": "sk",
+        "@value": "Hodiny"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ure"
+      },
+      {
+        "@language": "sl",
+        "@value": "Uri"
+      },
+      {
+        "@language": "sv",
+        "@value": "Timmar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Час"
+      },
+      {
+        "@language": "cs",
+        "@value": "Hodina"
+      },
+      {
+        "@language": "da",
+        "@value": "Time"
+      },
+      {
+        "@language": "de",
+        "@value": "Stunde"
+      },
+      {
+        "@language": "el",
+        "@value": "Ώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "Hour"
+      },
+      {
+        "@language": "es",
+        "@value": "Hora"
+      },
+      {
+        "@language": "et",
+        "@value": "Tund"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Heure"
+      },
+      {
+        "@language": "ga",
+        "@value": "Uair"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sat"
+      },
+      {
+        "@language": "hu",
+        "@value": "Óra"
+      },
+      {
+        "@language": "it",
+        "@value": "Ora"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valanda"
+      },
+      {
+        "@language": "lv",
+        "@value": "Stunda"
+      },
+      {
+        "@language": "mt",
+        "@value": "Siegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Uur"
+      },
+      {
+        "@language": "pl",
+        "@value": "Godzina"
+      },
+      {
+        "@language": "pt",
+        "@value": "Hora"
+      },
+      {
+        "@language": "ro",
+        "@value": "Oră"
+      },
+      {
+        "@language": "sk",
+        "@value": "Hodina"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ura"
+      },
+      {
+        "@language": "sv",
+        "@value": "Timme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/SPRING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SPRING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SPRING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SPRING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SPRING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Пролет"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jaro"
+      },
+      {
+        "@language": "da",
+        "@value": "Forår"
+      },
+      {
+        "@language": "de",
+        "@value": "Frühling"
+      },
+      {
+        "@language": "el",
+        "@value": "Άνοιξη"
+      },
+      {
+        "@language": "en",
+        "@value": "Spring"
+      },
+      {
+        "@language": "es",
+        "@value": "Primavera"
+      },
+      {
+        "@language": "et",
+        "@value": "Kevad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kevät"
+      },
+      {
+        "@language": "fr",
+        "@value": "Printemps"
+      },
+      {
+        "@language": "ga",
+        "@value": "Earrach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Proljeće"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tavasz"
+      },
+      {
+        "@language": "it",
+        "@value": "Primavera"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pavasaris"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pavasaris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ir-Rebbiegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Lente"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wiosna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Primavera"
+      },
+      {
+        "@language": "ro",
+        "@value": "Primăvară"
+      },
+      {
+        "@language": "sk",
+        "@value": "Jar"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pomlad"
+      },
+      {
+        "@language": "sv",
+        "@value": "Vår"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/SUMMER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SUMMER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SUMMER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SUMMER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SUMMER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Лято"
+      },
+      {
+        "@language": "cs",
+        "@value": "Léto"
+      },
+      {
+        "@language": "da",
+        "@value": "Sommer"
+      },
+      {
+        "@language": "de",
+        "@value": "Sommer"
+      },
+      {
+        "@language": "el",
+        "@value": "Καλοκαίρι"
+      },
+      {
+        "@language": "en",
+        "@value": "Summer"
+      },
+      {
+        "@language": "es",
+        "@value": "Verano"
+      },
+      {
+        "@language": "et",
+        "@value": "Suvi"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kesä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Été"
+      },
+      {
+        "@language": "ga",
+        "@value": "Samhradh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ljeto"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nyár"
+      },
+      {
+        "@language": "it",
+        "@value": "Estate"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vasara"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vasara"
+      },
+      {
+        "@language": "mt",
+        "@value": "Is-Sajf"
+      },
+      {
+        "@language": "nl",
+        "@value": "Zomer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lato"
+      },
+      {
+        "@language": "pt",
+        "@value": "Verão"
+      },
+      {
+        "@language": "ro",
+        "@value": "Vară"
+      },
+      {
+        "@language": "sk",
+        "@value": "Leto"
+      },
+      {
+        "@language": "sl",
+        "@value": "Poletje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sommar"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/UNLIMITED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "UNLIMITED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "UNLIMITED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b15"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "UNLIMITED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "UNLIMITED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Hеограничен"
+      },
+      {
+        "@language": "cs",
+        "@value": "Neomezený"
+      },
+      {
+        "@language": "da",
+        "@value": "Ubegrænset"
+      },
+      {
+        "@language": "de",
+        "@value": "Unbegrenzt"
+      },
+      {
+        "@language": "el",
+        "@value": "Απεριόριστος"
+      },
+      {
+        "@language": "en",
+        "@value": "Unlimited"
+      },
+      {
+        "@language": "es",
+        "@value": "Ilimitado"
+      },
+      {
+        "@language": "et",
+        "@value": "Piiramatu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Rajoittamaton"
+      },
+      {
+        "@language": "fr",
+        "@value": "Illimité"
+      },
+      {
+        "@language": "ga",
+        "@value": "Neamhtheoranta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Neograničen"
+      },
+      {
+        "@language": "hu",
+        "@value": "Korlátlan"
+      },
+      {
+        "@language": "it",
+        "@value": "Illimitato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Neribotas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Neierobežots"
+      },
+      {
+        "@language": "mt",
+        "@value": "Illimitat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onbeperkt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nieograniczony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ilimitado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nelimitat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Neobmedzený"
+      },
+      {
+        "@language": "sl",
+        "@value": "Neomejeno"
+      },
+      {
+        "@language": "sv",
+        "@value": "Obegränsat"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INDEFINITE_DURATION"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "TED_SCHEMA"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/SUN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SUN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SUN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SUN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SUN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Неделя"
+      },
+      {
+        "@language": "cs",
+        "@value": "Neděle"
+      },
+      {
+        "@language": "da",
+        "@value": "Søndag"
+      },
+      {
+        "@language": "de",
+        "@value": "Sonntag"
+      },
+      {
+        "@language": "el",
+        "@value": "Κυριακή"
+      },
+      {
+        "@language": "en",
+        "@value": "Sunday"
+      },
+      {
+        "@language": "es",
+        "@value": "Domingo"
+      },
+      {
+        "@language": "et",
+        "@value": "Pühapäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sunnuntai"
+      },
+      {
+        "@language": "fr",
+        "@value": "Dimanche"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Domhnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nedjelja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Vasárnap"
+      },
+      {
+        "@language": "it",
+        "@value": "Domenica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sekmadienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Svētdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-ħadd"
+      },
+      {
+        "@language": "nl",
+        "@value": "Zondag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Niedziela"
+      },
+      {
+        "@language": "pt",
+        "@value": "Domingo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Duminică"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nedeľa"
+      },
+      {
+        "@language": "sl",
+        "@value": "Nedelja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Söndag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/THU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "THU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "THU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "THU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "THU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Четвъртък"
+      },
+      {
+        "@language": "cs",
+        "@value": "Čtvrtek"
+      },
+      {
+        "@language": "da",
+        "@value": "Torsdag"
+      },
+      {
+        "@language": "de",
+        "@value": "Donnerstag"
+      },
+      {
+        "@language": "el",
+        "@value": "Πέμπτη"
+      },
+      {
+        "@language": "en",
+        "@value": "Thursday"
+      },
+      {
+        "@language": "es",
+        "@value": "Jueves"
+      },
+      {
+        "@language": "et",
+        "@value": "Neljapäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Torstai"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jeudi"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Déardaoin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Četvrtak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Csütörtök"
+      },
+      {
+        "@language": "it",
+        "@value": "Giovedì"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ketvirtadienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ceturtdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-ħamis"
+      },
+      {
+        "@language": "nl",
+        "@value": "Donderdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Czwartek"
+      },
+      {
+        "@language": "pt",
+        "@value": "Quinta-feira"
+      },
+      {
+        "@language": "ro",
+        "@value": "Joi"
+      },
+      {
+        "@language": "sk",
+        "@value": "Štvrtok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Četrtek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Torsdag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/JUL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JUL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JUL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JUL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JUL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "Črc"
+      },
+      {
+        "@language": "da",
+        "@value": "Jul"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιούλ"
+      },
+      {
+        "@language": "en",
+        "@value": "Jul"
+      },
+      {
+        "@language": "es",
+        "@value": "Jul"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hei"
+      },
+      {
+        "@language": "fr",
+        "@value": "Juil."
+      },
+      {
+        "@language": "hr",
+        "@value": "Srp"
+      },
+      {
+        "@language": "hu",
+        "@value": "Júl."
+      },
+      {
+        "@language": "it",
+        "@value": "Lug"
+      },
+      {
+        "@language": "lt",
+        "@value": "Lie"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jūl"
+      },
+      {
+        "@language": "mt",
+        "@value": "Lul"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lip"
+      },
+      {
+        "@language": "pt",
+        "@value": "Jul."
+      },
+      {
+        "@language": "ro",
+        "@value": "Iul"
+      },
+      {
+        "@language": "sl",
+        "@value": "Jul"
+      },
+      {
+        "@language": "sv",
+        "@value": "Jul"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Юли"
+      },
+      {
+        "@language": "cs",
+        "@value": "Červenec"
+      },
+      {
+        "@language": "da",
+        "@value": "Juli"
+      },
+      {
+        "@language": "de",
+        "@value": "Juli"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιούλιος"
+      },
+      {
+        "@language": "en",
+        "@value": "July"
+      },
+      {
+        "@language": "es",
+        "@value": "Julio"
+      },
+      {
+        "@language": "et",
+        "@value": "Juuli"
+      },
+      {
+        "@language": "fi",
+        "@value": "Heinäkuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Juillet"
+      },
+      {
+        "@language": "ga",
+        "@value": "Iúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Srpanj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Július"
+      },
+      {
+        "@language": "it",
+        "@value": "Luglio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Liepa"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jūlijs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Lulju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Juli"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lipiec"
+      },
+      {
+        "@language": "pt",
+        "@value": "Julho"
+      },
+      {
+        "@language": "ro",
+        "@value": "Iulie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Júl"
+      },
+      {
+        "@language": "sl",
+        "@value": "Julij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Juli"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "JUL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/MIN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Минути"
+      },
+      {
+        "@language": "cs",
+        "@value": "Minuty"
+      },
+      {
+        "@language": "da",
+        "@value": "Minutter"
+      },
+      {
+        "@language": "de",
+        "@value": "Minuten"
+      },
+      {
+        "@language": "el",
+        "@value": "Λεπτά"
+      },
+      {
+        "@language": "en",
+        "@value": "Minutes"
+      },
+      {
+        "@language": "es",
+        "@value": "Minutos"
+      },
+      {
+        "@language": "et",
+        "@value": "Minutid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Minuutit"
+      },
+      {
+        "@language": "fr",
+        "@value": "Minutes"
+      },
+      {
+        "@language": "hr",
+        "@value": "Minute"
+      },
+      {
+        "@language": "hu",
+        "@value": "Percek"
+      },
+      {
+        "@language": "it",
+        "@value": "Minuti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Minutės"
+      },
+      {
+        "@language": "lv",
+        "@value": "Minūtes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Minuti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Minuten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Minuty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Minutos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Minute"
+      },
+      {
+        "@language": "sk",
+        "@value": "Minúty"
+      },
+      {
+        "@language": "sl",
+        "@value": "Minute"
+      },
+      {
+        "@language": "sl",
+        "@value": "Minuti"
+      },
+      {
+        "@language": "sv",
+        "@value": "Minuter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Минута"
+      },
+      {
+        "@language": "cs",
+        "@value": "Minuta"
+      },
+      {
+        "@language": "da",
+        "@value": "Minut"
+      },
+      {
+        "@language": "de",
+        "@value": "Minute"
+      },
+      {
+        "@language": "el",
+        "@value": "Λεπτό"
+      },
+      {
+        "@language": "en",
+        "@value": "Minute"
+      },
+      {
+        "@language": "es",
+        "@value": "Minuto"
+      },
+      {
+        "@language": "et",
+        "@value": "Minut"
+      },
+      {
+        "@language": "fi",
+        "@value": "Minuutti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Minute"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nóiméad"
+      },
+      {
+        "@language": "hr",
+        "@value": "Minuta"
+      },
+      {
+        "@language": "hu",
+        "@value": "Perc"
+      },
+      {
+        "@language": "it",
+        "@value": "Minuto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Minutė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Minūte"
+      },
+      {
+        "@language": "mt",
+        "@value": "Minuta"
+      },
+      {
+        "@language": "nl",
+        "@value": "Minuut"
+      },
+      {
+        "@language": "pl",
+        "@value": "Minuta"
+      },
+      {
+        "@language": "pt",
+        "@value": "Minuto"
+      },
+      {
+        "@language": "ro",
+        "@value": "Minut"
+      },
+      {
+        "@language": "sk",
+        "@value": "Minúta"
+      },
+      {
+        "@language": "sl",
+        "@value": "Minuta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Minut"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/SEP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SEP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SEP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b14"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SEP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SEP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Сеп"
+      },
+      {
+        "@language": "da",
+        "@value": "Sep"
+      },
+      {
+        "@language": "de",
+        "@value": "Sept."
+      },
+      {
+        "@language": "el",
+        "@value": "Σεπ"
+      },
+      {
+        "@language": "en",
+        "@value": "Sep"
+      },
+      {
+        "@language": "es",
+        "@value": "Sep"
+      },
+      {
+        "@language": "et",
+        "@value": "Sept"
+      },
+      {
+        "@language": "fi",
+        "@value": "Syy"
+      },
+      {
+        "@language": "fr",
+        "@value": "Sept."
+      },
+      {
+        "@language": "ga",
+        "@value": "Meá"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ruj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szept."
+      },
+      {
+        "@language": "it",
+        "@value": "Set"
+      },
+      {
+        "@language": "lt",
+        "@value": "Rugs"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sep"
+      },
+      {
+        "@language": "mt",
+        "@value": "Set"
+      },
+      {
+        "@language": "nl",
+        "@value": "Sep"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wrz"
+      },
+      {
+        "@language": "pt",
+        "@value": "Set."
+      },
+      {
+        "@language": "ro",
+        "@value": "Sep"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sep"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sep"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sep"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Септември"
+      },
+      {
+        "@language": "cs",
+        "@value": "Září"
+      },
+      {
+        "@language": "da",
+        "@value": "September"
+      },
+      {
+        "@language": "de",
+        "@value": "September"
+      },
+      {
+        "@language": "el",
+        "@value": "Σεπτέμβριος"
+      },
+      {
+        "@language": "en",
+        "@value": "September"
+      },
+      {
+        "@language": "es",
+        "@value": "Septiembre"
+      },
+      {
+        "@language": "et",
+        "@value": "September"
+      },
+      {
+        "@language": "fi",
+        "@value": "Syyskuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Septembre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Meán Fómhair"
+      },
+      {
+        "@language": "hr",
+        "@value": "Rujan"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szeptember"
+      },
+      {
+        "@language": "it",
+        "@value": "Settembre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Rugsėjis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Septembris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Settembru"
+      },
+      {
+        "@language": "nl",
+        "@value": "September"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wrzesień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Setembro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Septembrie"
+      },
+      {
+        "@language": "sk",
+        "@value": "September"
+      },
+      {
+        "@language": "sl",
+        "@value": "September"
+      },
+      {
+        "@language": "sv",
+        "@value": "September"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SEP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/JUN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JUN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JUN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JUN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JUN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "Čer"
+      },
+      {
+        "@language": "da",
+        "@value": "Jun"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιούν"
+      },
+      {
+        "@language": "en",
+        "@value": "Jun"
+      },
+      {
+        "@language": "es",
+        "@value": "Jun"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kes"
+      },
+      {
+        "@language": "ga",
+        "@value": "Mei"
+      },
+      {
+        "@language": "hr",
+        "@value": "Lip"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jún."
+      },
+      {
+        "@language": "it",
+        "@value": "Giu"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bir"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jūn"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġun"
+      },
+      {
+        "@language": "pl",
+        "@value": "Cze"
+      },
+      {
+        "@language": "pt",
+        "@value": "Jun."
+      },
+      {
+        "@language": "ro",
+        "@value": "Iun"
+      },
+      {
+        "@language": "sl",
+        "@value": "Jun"
+      },
+      {
+        "@language": "sv",
+        "@value": "Jun"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Юни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Červen"
+      },
+      {
+        "@language": "da",
+        "@value": "Juni"
+      },
+      {
+        "@language": "de",
+        "@value": "Juni"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιούνιος"
+      },
+      {
+        "@language": "en",
+        "@value": "June"
+      },
+      {
+        "@language": "es",
+        "@value": "Junio"
+      },
+      {
+        "@language": "et",
+        "@value": "Juuni"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kesäkuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Juin"
+      },
+      {
+        "@language": "ga",
+        "@value": "Meitheamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Lipanj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Június"
+      },
+      {
+        "@language": "it",
+        "@value": "Giugno"
+      },
+      {
+        "@language": "lt",
+        "@value": "Birželis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jūnijs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġunju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Juni"
+      },
+      {
+        "@language": "pl",
+        "@value": "Czerwiec"
+      },
+      {
+        "@language": "pt",
+        "@value": "Junho"
+      },
+      {
+        "@language": "ro",
+        "@value": "Iunie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Jún"
+      },
+      {
+        "@language": "sl",
+        "@value": "Junij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Juni"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "JUN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/SAT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SAT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SAT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SAT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SAT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Събота"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sobota"
+      },
+      {
+        "@language": "da",
+        "@value": "Lørdag"
+      },
+      {
+        "@language": "de",
+        "@value": "Samstag"
+      },
+      {
+        "@language": "el",
+        "@value": "Σάββατο"
+      },
+      {
+        "@language": "en",
+        "@value": "Saturday"
+      },
+      {
+        "@language": "es",
+        "@value": "Sábado"
+      },
+      {
+        "@language": "et",
+        "@value": "Laupäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lauantai"
+      },
+      {
+        "@language": "fr",
+        "@value": "Samedi"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Satharn"
+      },
+      {
+        "@language": "hr",
+        "@value": "Subota"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szombat"
+      },
+      {
+        "@language": "it",
+        "@value": "Sabato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Šeštadienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sestdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Is-sibt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Zaterdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sobota"
+      },
+      {
+        "@language": "pt",
+        "@value": "Sábado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Sămbătă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sobota"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sobota"
+      },
+      {
+        "@language": "sv",
+        "@value": "Lördag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/MAY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b10"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MAY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "Kvě"
+      },
+      {
+        "@language": "el",
+        "@value": "Μάι"
+      },
+      {
+        "@language": "es",
+        "@value": "May"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tou"
+      },
+      {
+        "@language": "ga",
+        "@value": "Bea"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sv"
+      },
+      {
+        "@language": "hu",
+        "@value": "Máj."
+      },
+      {
+        "@language": "it",
+        "@value": "Mag"
+      },
+      {
+        "@language": "lt",
+        "@value": "Geg"
+      },
+      {
+        "@language": "lv",
+        "@value": "Mai"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Mai."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Май"
+      },
+      {
+        "@language": "cs",
+        "@value": "Květen"
+      },
+      {
+        "@language": "da",
+        "@value": "Maj"
+      },
+      {
+        "@language": "de",
+        "@value": "Mai"
+      },
+      {
+        "@language": "el",
+        "@value": "Μάιος"
+      },
+      {
+        "@language": "en",
+        "@value": "May"
+      },
+      {
+        "@language": "es",
+        "@value": "Mayo"
+      },
+      {
+        "@language": "et",
+        "@value": "Mai"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toukokuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mai"
+      },
+      {
+        "@language": "ga",
+        "@value": "Bealtaine"
+      },
+      {
+        "@language": "hr",
+        "@value": "Svibanj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Május"
+      },
+      {
+        "@language": "it",
+        "@value": "Maggio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Gegužė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Maijs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mejju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Mei"
+      },
+      {
+        "@language": "pl",
+        "@value": "Maj"
+      },
+      {
+        "@language": "pt",
+        "@value": "Maio"
+      },
+      {
+        "@language": "ro",
+        "@value": "Mai"
+      },
+      {
+        "@language": "sk",
+        "@value": "Máj"
+      },
+      {
+        "@language": "sl",
+        "@value": "Maj"
+      },
+      {
+        "@language": "sv",
+        "@value": "Maj"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "MAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/MONTH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MONTH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MONTH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MONTH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MONTH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Месеци"
+      },
+      {
+        "@language": "cs",
+        "@value": "Měsíce"
+      },
+      {
+        "@language": "da",
+        "@value": "Måneder"
+      },
+      {
+        "@language": "de",
+        "@value": "Monate"
+      },
+      {
+        "@language": "el",
+        "@value": "Μήνες"
+      },
+      {
+        "@language": "en",
+        "@value": "Months"
+      },
+      {
+        "@language": "es",
+        "@value": "Meses"
+      },
+      {
+        "@language": "et",
+        "@value": "Kuud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kuukaudet"
+      },
+      {
+        "@language": "ga",
+        "@value": "Míonna"
+      },
+      {
+        "@language": "hr",
+        "@value": "Mjeseci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hónapok"
+      },
+      {
+        "@language": "it",
+        "@value": "Mesi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mėnesiai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Mēneši"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xhur"
+      },
+      {
+        "@language": "nl",
+        "@value": "Maanden"
+      },
+      {
+        "@language": "pl",
+        "@value": "Miesiące"
+      },
+      {
+        "@language": "pt",
+        "@value": "Meses"
+      },
+      {
+        "@language": "ro",
+        "@value": "Luni"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mesiace"
+      },
+      {
+        "@language": "sl",
+        "@value": "Meseci"
+      },
+      {
+        "@language": "sv",
+        "@value": "Månader"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Месец"
+      },
+      {
+        "@language": "cs",
+        "@value": "Měsíc"
+      },
+      {
+        "@language": "da",
+        "@value": "Måned"
+      },
+      {
+        "@language": "de",
+        "@value": "Monat"
+      },
+      {
+        "@language": "el",
+        "@value": "Μήνας"
+      },
+      {
+        "@language": "en",
+        "@value": "Month"
+      },
+      {
+        "@language": "es",
+        "@value": "Mes"
+      },
+      {
+        "@language": "et",
+        "@value": "Kuu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kuukausi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mois"
+      },
+      {
+        "@language": "ga",
+        "@value": "Mí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Mjesec"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hónap"
+      },
+      {
+        "@language": "it",
+        "@value": "Mese"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mėnuo"
+      },
+      {
+        "@language": "lv",
+        "@value": "Mēnesis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xahar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Maand"
+      },
+      {
+        "@language": "pl",
+        "@value": "Miesiąc"
+      },
+      {
+        "@language": "pt",
+        "@value": "Mês"
+      },
+      {
+        "@language": "ro",
+        "@value": "Lună"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mesiac"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mesec"
+      },
+      {
+        "@language": "sv",
+        "@value": "Månad"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "MONTH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "TED_SCHEMA"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/WINTER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WINTER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WINTER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WINTER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WINTER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Зима"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zima"
+      },
+      {
+        "@language": "da",
+        "@value": "Vinter"
+      },
+      {
+        "@language": "de",
+        "@value": "Winter"
+      },
+      {
+        "@language": "el",
+        "@value": "Χειμώνας"
+      },
+      {
+        "@language": "en",
+        "@value": "Winter"
+      },
+      {
+        "@language": "es",
+        "@value": "Invierno"
+      },
+      {
+        "@language": "et",
+        "@value": "Talv"
+      },
+      {
+        "@language": "fi",
+        "@value": "Talvi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Hiver"
+      },
+      {
+        "@language": "ga",
+        "@value": "Geimhreadh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zima"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tél"
+      },
+      {
+        "@language": "it",
+        "@value": "Inverno"
+      },
+      {
+        "@language": "lt",
+        "@value": "Žiema"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ziema"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ix-Xitwa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Winter"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zima"
+      },
+      {
+        "@language": "pt",
+        "@value": "Inverno"
+      },
+      {
+        "@language": "ro",
+        "@value": "Iarnă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zima"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zima"
+      },
+      {
+        "@language": "sv",
+        "@value": "Vinter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/QUARTER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "QUARTER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "QUARTER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "QUARTER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "QUARTER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Тримесечие"
+      },
+      {
+        "@language": "cs",
+        "@value": "Čtvrtletí"
+      },
+      {
+        "@language": "da",
+        "@value": "Kvartal"
+      },
+      {
+        "@language": "de",
+        "@value": "Vierteljahr"
+      },
+      {
+        "@language": "el",
+        "@value": "Τρίμηνο"
+      },
+      {
+        "@language": "en",
+        "@value": "Quarter"
+      },
+      {
+        "@language": "es",
+        "@value": "Trimestre"
+      },
+      {
+        "@language": "et",
+        "@value": "Kvartal"
+      },
+      {
+        "@language": "fi",
+        "@value": "Neljännesvuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Trimestre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ráithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tromjesečje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Negyedév"
+      },
+      {
+        "@language": "it",
+        "@value": "Trimestre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ketvirtis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ceturksnis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kwart tas-sena"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kwartaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kwartał"
+      },
+      {
+        "@language": "pt",
+        "@value": "Trimestre"
+      },
+      {
+        "@language": "ro",
+        "@value": "Trimestru"
+      },
+      {
+        "@language": "sk",
+        "@value": "Štvrťrok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Četrtletje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kvartal"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/APR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "APR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "APR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "APR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "APR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Апр"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dub"
+      },
+      {
+        "@language": "da",
+        "@value": "Apr"
+      },
+      {
+        "@language": "de",
+        "@value": "Apr."
+      },
+      {
+        "@language": "el",
+        "@value": "Απρ"
+      },
+      {
+        "@language": "en",
+        "@value": "Apr"
+      },
+      {
+        "@language": "es",
+        "@value": "Abr"
+      },
+      {
+        "@language": "et",
+        "@value": "Apr"
+      },
+      {
+        "@language": "fi",
+        "@value": "Huh"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avr."
+      },
+      {
+        "@language": "ga",
+        "@value": "Aib"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tr"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ápr."
+      },
+      {
+        "@language": "it",
+        "@value": "Apr"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bal"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apr"
+      },
+      {
+        "@language": "mt",
+        "@value": "Apr"
+      },
+      {
+        "@language": "nl",
+        "@value": "Apr"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kwi"
+      },
+      {
+        "@language": "pt",
+        "@value": "Abr."
+      },
+      {
+        "@language": "ro",
+        "@value": "Apr"
+      },
+      {
+        "@language": "sk",
+        "@value": "Apr"
+      },
+      {
+        "@language": "sl",
+        "@value": "Apr"
+      },
+      {
+        "@language": "sv",
+        "@value": "Apr"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Април"
+      },
+      {
+        "@language": "cs",
+        "@value": "Duben"
+      },
+      {
+        "@language": "da",
+        "@value": "April"
+      },
+      {
+        "@language": "de",
+        "@value": "April"
+      },
+      {
+        "@language": "el",
+        "@value": "Απρίλιος"
+      },
+      {
+        "@language": "en",
+        "@value": "April"
+      },
+      {
+        "@language": "es",
+        "@value": "Abril"
+      },
+      {
+        "@language": "et",
+        "@value": "Aprill"
+      },
+      {
+        "@language": "fi",
+        "@value": "Huhtikuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avril"
+      },
+      {
+        "@language": "ga",
+        "@value": "Aibreán"
+      },
+      {
+        "@language": "hr",
+        "@value": "Travanj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Április"
+      },
+      {
+        "@language": "it",
+        "@value": "Aprile"
+      },
+      {
+        "@language": "lt",
+        "@value": "Balandis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Aprīlis"
+      },
+      {
+        "@language": "mt",
+        "@value": "April"
+      },
+      {
+        "@language": "nl",
+        "@value": "April"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kwiecień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Abril"
+      },
+      {
+        "@language": "ro",
+        "@value": "Aprilie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Apríl"
+      },
+      {
+        "@language": "sl",
+        "@value": "April"
+      },
+      {
+        "@language": "sv",
+        "@value": "April"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "APR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/WORKING_DAY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WORKING_DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WORKING_DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WORKING_DAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WORKING_DAY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Работен ден"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pracovní den"
+      },
+      {
+        "@language": "da",
+        "@value": "Arbejdsdag"
+      },
+      {
+        "@language": "de",
+        "@value": "Arbeitstag"
+      },
+      {
+        "@language": "el",
+        "@value": "Εργάσιμη ημέρα"
+      },
+      {
+        "@language": "en",
+        "@value": "Working day"
+      },
+      {
+        "@language": "es",
+        "@value": "Día hábil"
+      },
+      {
+        "@language": "et",
+        "@value": "Tööpäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Työpäivä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jour ouvré"
+      },
+      {
+        "@language": "ga",
+        "@value": "Lá oibre"
+      },
+      {
+        "@language": "hr",
+        "@value": "Radni dan"
+      },
+      {
+        "@language": "hu",
+        "@value": "Munkanap"
+      },
+      {
+        "@language": "it",
+        "@value": "Giorno lavorativo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Darbo diena"
+      },
+      {
+        "@language": "lv",
+        "@value": "Darba diena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jum tax-xogħol"
+      },
+      {
+        "@language": "nl",
+        "@value": "Werkdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dzień roboczy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dia útil"
+      },
+      {
+        "@language": "ro",
+        "@value": "Zi lucrătoare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pracovný deň"
+      },
+      {
+        "@language": "sl",
+        "@value": "Delovni dan"
+      },
+      {
+        "@language": "sv",
+        "@value": "Arbetsdag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/FEB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FEB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FEB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FEB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FEB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Фев"
+      },
+      {
+        "@language": "da",
+        "@value": "Feb"
+      },
+      {
+        "@language": "de",
+        "@value": "Febr."
+      },
+      {
+        "@language": "el",
+        "@value": "Φεβ"
+      },
+      {
+        "@language": "en",
+        "@value": "Feb"
+      },
+      {
+        "@language": "es",
+        "@value": "Feb"
+      },
+      {
+        "@language": "et",
+        "@value": "Veebr"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hel"
+      },
+      {
+        "@language": "fr",
+        "@value": "Fév."
+      },
+      {
+        "@language": "ga",
+        "@value": "Fea"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vel"
+      },
+      {
+        "@language": "hu",
+        "@value": "Feb."
+      },
+      {
+        "@language": "it",
+        "@value": "Feb"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Feb"
+      },
+      {
+        "@language": "mt",
+        "@value": "Fra"
+      },
+      {
+        "@language": "nl",
+        "@value": "Feb"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lut"
+      },
+      {
+        "@language": "pt",
+        "@value": "Fev."
+      },
+      {
+        "@language": "ro",
+        "@value": "Feb"
+      },
+      {
+        "@language": "sk",
+        "@value": "Feb"
+      },
+      {
+        "@language": "sl",
+        "@value": "Feb"
+      },
+      {
+        "@language": "sv",
+        "@value": "Feb"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Февруари"
+      },
+      {
+        "@language": "cs",
+        "@value": "Únor"
+      },
+      {
+        "@language": "da",
+        "@value": "Februar"
+      },
+      {
+        "@language": "de",
+        "@value": "Februar"
+      },
+      {
+        "@language": "el",
+        "@value": "Φεβρουάριος"
+      },
+      {
+        "@language": "en",
+        "@value": "February"
+      },
+      {
+        "@language": "es",
+        "@value": "Febrero"
+      },
+      {
+        "@language": "et",
+        "@value": "Veebruar"
+      },
+      {
+        "@language": "fi",
+        "@value": "Helmikuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Février"
+      },
+      {
+        "@language": "ga",
+        "@value": "Feabhra"
+      },
+      {
+        "@language": "hr",
+        "@value": "Veljača"
+      },
+      {
+        "@language": "hu",
+        "@value": "Február"
+      },
+      {
+        "@language": "it",
+        "@value": "Febbraio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vasaris"
+      },
+      {
+        "@language": "lv",
+        "@value": "Februāris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Frar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Februari"
+      },
+      {
+        "@language": "pl",
+        "@value": "Luty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Fevereiro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Februarie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Február"
+      },
+      {
+        "@language": "sl",
+        "@value": "Februar"
+      },
+      {
+        "@language": "sv",
+        "@value": "Februari"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FEB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/SEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Секунди"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sekundy"
+      },
+      {
+        "@language": "da",
+        "@value": "Sekunder"
+      },
+      {
+        "@language": "de",
+        "@value": "Sekunden"
+      },
+      {
+        "@language": "el",
+        "@value": "Δευτερόλεπτα"
+      },
+      {
+        "@language": "en",
+        "@value": "Seconds"
+      },
+      {
+        "@language": "es",
+        "@value": "Segundos"
+      },
+      {
+        "@language": "et",
+        "@value": "Sekundid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sekunnit"
+      },
+      {
+        "@language": "fr",
+        "@value": "Secondes"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sekunde"
+      },
+      {
+        "@language": "hu",
+        "@value": "Másodpercek"
+      },
+      {
+        "@language": "it",
+        "@value": "Secondi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sekundės"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sekundes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sekondi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Seconden"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sekundy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Segundos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Secunde"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sekundy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sekunde"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sekundi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sekunder"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Секунда"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sekunda"
+      },
+      {
+        "@language": "da",
+        "@value": "Sekund"
+      },
+      {
+        "@language": "de",
+        "@value": "Sekunde"
+      },
+      {
+        "@language": "el",
+        "@value": "Δευτερόλεπτο"
+      },
+      {
+        "@language": "en",
+        "@value": "Second"
+      },
+      {
+        "@language": "es",
+        "@value": "Segundo"
+      },
+      {
+        "@language": "et",
+        "@value": "Sekund"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sekunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Seconde"
+      },
+      {
+        "@language": "ga",
+        "@value": "Soicind"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sekunda"
+      },
+      {
+        "@language": "hu",
+        "@value": "Másodperc"
+      },
+      {
+        "@language": "it",
+        "@value": "Secondo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sekundė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sekunde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sekonda"
+      },
+      {
+        "@language": "nl",
+        "@value": "Seconde"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sekunda"
+      },
+      {
+        "@language": "pt",
+        "@value": "Segundo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Secundă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sekunda"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sekunda"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sekund"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/YEAR_HALF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "YEAR_HALF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "YEAR_HALF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "YEAR_HALF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "YEAR_HALF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Шестмесечие"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pololetí"
+      },
+      {
+        "@language": "da",
+        "@value": "Halvår"
+      },
+      {
+        "@language": "de",
+        "@value": "Halbjahr"
+      },
+      {
+        "@language": "el",
+        "@value": "Εξάμηνο"
+      },
+      {
+        "@language": "en",
+        "@value": "Half year"
+      },
+      {
+        "@language": "es",
+        "@value": "Semestre"
+      },
+      {
+        "@language": "et",
+        "@value": "Poolaasta"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vuosipuolisko"
+      },
+      {
+        "@language": "fr",
+        "@value": "Semestre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Leathbliain"
+      },
+      {
+        "@language": "hr",
+        "@value": "Polugodište"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fél év"
+      },
+      {
+        "@language": "it",
+        "@value": "Semestre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pusmetis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pusgads"
+      },
+      {
+        "@language": "mt",
+        "@value": "Nofs sena"
+      },
+      {
+        "@language": "nl",
+        "@value": "Halfjaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "Pół roku"
+      },
+      {
+        "@language": "pt",
+        "@value": "Semestre"
+      },
+      {
+        "@language": "ro",
+        "@value": "Semestru"
+      },
+      {
+        "@language": "sk",
+        "@value": "Polrok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Polletje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Halvår"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/CALENDAR_DAY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CALENDAR_DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CALENDAR_DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CALENDAR_DAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CALENDAR_DAY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Календарен ден"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kalendářního den"
+      },
+      {
+        "@language": "da",
+        "@value": "Kalendardag"
+      },
+      {
+        "@language": "de",
+        "@value": "Kalendertag"
+      },
+      {
+        "@language": "el",
+        "@value": "Ημερολογιακή ημέρα"
+      },
+      {
+        "@language": "en",
+        "@value": "Calendar day"
+      },
+      {
+        "@language": "es",
+        "@value": "Día natural"
+      },
+      {
+        "@language": "et",
+        "@value": "Kalendripäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kalenteripäivä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jour civil"
+      },
+      {
+        "@language": "ga",
+        "@value": "Lá féilire"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kalendarski dan"
+      },
+      {
+        "@language": "hu",
+        "@value": "Naptári nap"
+      },
+      {
+        "@language": "it",
+        "@value": "Giorno del calendario"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kalendoriaus diena"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kalendāra diena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jum kalendarju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kalenderdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dzień kalendarzowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dia do calendário"
+      },
+      {
+        "@language": "ro",
+        "@value": "Zi calendaristică"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kalendárny deň"
+      },
+      {
+        "@language": "sl",
+        "@value": "Koledarski dan"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kalenderdag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/UNKNOWN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Hеизвестен"
+      },
+      {
+        "@language": "cs",
+        "@value": "Neznámý"
+      },
+      {
+        "@language": "da",
+        "@value": "Ukendt"
+      },
+      {
+        "@language": "de",
+        "@value": "Unbekannt"
+      },
+      {
+        "@language": "el",
+        "@value": "Αγνωστος"
+      },
+      {
+        "@language": "en",
+        "@value": "Unknown"
+      },
+      {
+        "@language": "es",
+        "@value": "Desconocido"
+      },
+      {
+        "@language": "et",
+        "@value": "Teadmata"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tuntematon"
+      },
+      {
+        "@language": "fr",
+        "@value": "Inconnu"
+      },
+      {
+        "@language": "ga",
+        "@value": "Anaithnid"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nepoznat"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ismeretlen"
+      },
+      {
+        "@language": "it",
+        "@value": "Sconosciuto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Nežinomas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nezināms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mhux magħruf"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onbekend"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nieznany"
+      },
+      {
+        "@language": "pt",
+        "@value": "Desconhecido"
+      },
+      {
+        "@language": "ro",
+        "@value": "Necunoscut"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nevedno"
+      },
+      {
+        "@language": "sl",
+        "@value": "Neznano"
+      },
+      {
+        "@language": "sv",
+        "@value": "Okänd"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/DAY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DAY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Дни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dny"
+      },
+      {
+        "@language": "de",
+        "@value": "Tage"
+      },
+      {
+        "@language": "el",
+        "@value": "Ημέρες"
+      },
+      {
+        "@language": "en",
+        "@value": "Days"
+      },
+      {
+        "@language": "es",
+        "@value": "Días"
+      },
+      {
+        "@language": "et",
+        "@value": "Päevad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Päivät"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Laethanta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dani"
+      },
+      {
+        "@language": "hu",
+        "@value": "Napok"
+      },
+      {
+        "@language": "it",
+        "@value": "Giorni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dienos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dienas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jiem"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dagen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dni"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dias"
+      },
+      {
+        "@language": "ro",
+        "@value": "Zile"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dni"
+      },
+      {
+        "@language": "sl",
+        "@value": "Dnevi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Dagar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Ден"
+      },
+      {
+        "@language": "cs",
+        "@value": "Den"
+      },
+      {
+        "@language": "da",
+        "@value": "Døgn"
+      },
+      {
+        "@language": "de",
+        "@value": "Tag"
+      },
+      {
+        "@language": "el",
+        "@value": "Ημέρα"
+      },
+      {
+        "@language": "en",
+        "@value": "Day"
+      },
+      {
+        "@language": "es",
+        "@value": "Día"
+      },
+      {
+        "@language": "et",
+        "@value": "Päev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Päivä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jour"
+      },
+      {
+        "@language": "ga",
+        "@value": "Lá"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dan"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nap"
+      },
+      {
+        "@language": "it",
+        "@value": "Giorno"
+      },
+      {
+        "@language": "lt",
+        "@value": "Diena"
+      },
+      {
+        "@language": "lv",
+        "@value": "Diena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jum"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dzień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Zi"
+      },
+      {
+        "@language": "sk",
+        "@value": "Deň"
+      },
+      {
+        "@language": "sl",
+        "@value": "Dan"
+      },
+      {
+        "@language": "sv",
+        "@value": "Dag"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "TED_SCHEMA"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/FRI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FRI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FRI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FRI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FRI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Петък"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pátek"
+      },
+      {
+        "@language": "da",
+        "@value": "Fredag"
+      },
+      {
+        "@language": "de",
+        "@value": "Freitag"
+      },
+      {
+        "@language": "el",
+        "@value": "Παρασκευή"
+      },
+      {
+        "@language": "en",
+        "@value": "Friday"
+      },
+      {
+        "@language": "es",
+        "@value": "Viernes"
+      },
+      {
+        "@language": "et",
+        "@value": "Reede"
+      },
+      {
+        "@language": "fi",
+        "@value": "Perjantai"
+      },
+      {
+        "@language": "fr",
+        "@value": "Vendredi"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Aoine"
+      },
+      {
+        "@language": "hr",
+        "@value": "Petak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Péntek"
+      },
+      {
+        "@language": "it",
+        "@value": "Venerdì"
+      },
+      {
+        "@language": "lt",
+        "@value": "Penktadienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Piektdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-ġimgħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vrijdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Piątek"
+      },
+      {
+        "@language": "pt",
+        "@value": "Sexta-feira"
+      },
+      {
+        "@language": "ro",
+        "@value": "Vineri"
+      },
+      {
+        "@language": "sk",
+        "@value": "Piatok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Petek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Fredag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/MON",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MON"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MON"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MON"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MON"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Понеделник"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pondělí"
+      },
+      {
+        "@language": "da",
+        "@value": "Mandag"
+      },
+      {
+        "@language": "de",
+        "@value": "Montag"
+      },
+      {
+        "@language": "el",
+        "@value": "Δευτέρα"
+      },
+      {
+        "@language": "en",
+        "@value": "Monday"
+      },
+      {
+        "@language": "es",
+        "@value": "Lunes"
+      },
+      {
+        "@language": "et",
+        "@value": "Esmaspäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Maanantai"
+      },
+      {
+        "@language": "fr",
+        "@value": "Lundi"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Luan"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ponedjeljak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hétfő"
+      },
+      {
+        "@language": "it",
+        "@value": "Lunedì"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirmadienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pirmdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "It-tnejn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Maandag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Poniedziałek"
+      },
+      {
+        "@language": "pt",
+        "@value": "Segunda-feira"
+      },
+      {
+        "@language": "ro",
+        "@value": "Luni"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pondelok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ponedeljek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Måndag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/DEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Дек"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pro"
+      },
+      {
+        "@language": "da",
+        "@value": "Dec"
+      },
+      {
+        "@language": "de",
+        "@value": "Dez."
+      },
+      {
+        "@language": "el",
+        "@value": "Δεκ"
+      },
+      {
+        "@language": "en",
+        "@value": "Dec"
+      },
+      {
+        "@language": "es",
+        "@value": "Dic"
+      },
+      {
+        "@language": "et",
+        "@value": "Dets"
+      },
+      {
+        "@language": "fi",
+        "@value": "Jou"
+      },
+      {
+        "@language": "fr",
+        "@value": "Déc."
+      },
+      {
+        "@language": "ga",
+        "@value": "Nol"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pr"
+      },
+      {
+        "@language": "hu",
+        "@value": "Dec."
+      },
+      {
+        "@language": "it",
+        "@value": "Dic"
+      },
+      {
+        "@language": "lt",
+        "@value": "Gru"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dec"
+      },
+      {
+        "@language": "mt",
+        "@value": "Diċ"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dec"
+      },
+      {
+        "@language": "pl",
+        "@value": "Gru"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dez."
+      },
+      {
+        "@language": "ro",
+        "@value": "Dec"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dec"
+      },
+      {
+        "@language": "sl",
+        "@value": "Dec"
+      },
+      {
+        "@language": "sv",
+        "@value": "Dec"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Декември"
+      },
+      {
+        "@language": "cs",
+        "@value": "Prosinec"
+      },
+      {
+        "@language": "da",
+        "@value": "December"
+      },
+      {
+        "@language": "de",
+        "@value": "Dezember"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεκέμβριoς"
+      },
+      {
+        "@language": "en",
+        "@value": "December"
+      },
+      {
+        "@language": "es",
+        "@value": "Diciembre"
+      },
+      {
+        "@language": "et",
+        "@value": "Detsember"
+      },
+      {
+        "@language": "fi",
+        "@value": "Joulukuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Décembre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nollaig"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prosinac"
+      },
+      {
+        "@language": "hu",
+        "@value": "December"
+      },
+      {
+        "@language": "it",
+        "@value": "Dicembre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Gruodis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Decembris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Diċembru"
+      },
+      {
+        "@language": "nl",
+        "@value": "December"
+      },
+      {
+        "@language": "pl",
+        "@value": "Grudzień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dezembro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Decembrie"
+      },
+      {
+        "@language": "sk",
+        "@value": "December"
+      },
+      {
+        "@language": "sl",
+        "@value": "December"
+      },
+      {
+        "@language": "sv",
+        "@value": "December"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/TUE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TUE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TUE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TUE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TUE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Вторник"
+      },
+      {
+        "@language": "cs",
+        "@value": "Úterý"
+      },
+      {
+        "@language": "da",
+        "@value": "Tirsdag"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienstag"
+      },
+      {
+        "@language": "el",
+        "@value": "Τρίτη"
+      },
+      {
+        "@language": "en",
+        "@value": "Tuesday"
+      },
+      {
+        "@language": "es",
+        "@value": "Martes"
+      },
+      {
+        "@language": "et",
+        "@value": "Teisipäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tiistai"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mardi"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Mháirt"
+      },
+      {
+        "@language": "hr",
+        "@value": "Utorak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kedd"
+      },
+      {
+        "@language": "it",
+        "@value": "Martedì"
+      },
+      {
+        "@language": "lt",
+        "@value": "Antradienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Otrdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "It-tlieta"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dinsdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wtorek"
+      },
+      {
+        "@language": "pt",
+        "@value": "Terça-feira"
+      },
+      {
+        "@language": "ro",
+        "@value": "Marţi"
+      },
+      {
+        "@language": "sk",
+        "@value": "Utorok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Torek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tisdag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/JAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Яну"
+      },
+      {
+        "@language": "cs",
+        "@value": "Led"
+      },
+      {
+        "@language": "da",
+        "@value": "Jan"
+      },
+      {
+        "@language": "de",
+        "@value": "Jan."
+      },
+      {
+        "@language": "el",
+        "@value": "Ιαv"
+      },
+      {
+        "@language": "en",
+        "@value": "Jan"
+      },
+      {
+        "@language": "es",
+        "@value": "Ene"
+      },
+      {
+        "@language": "et",
+        "@value": "Jaan"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tam"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jan."
+      },
+      {
+        "@language": "ga",
+        "@value": "Ean"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sij"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jan."
+      },
+      {
+        "@language": "it",
+        "@value": "Gen"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sau"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jan"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jan"
+      },
+      {
+        "@language": "nl",
+        "@value": "Jan"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Jan."
+      },
+      {
+        "@language": "ro",
+        "@value": "Ian"
+      },
+      {
+        "@language": "sk",
+        "@value": "Jan"
+      },
+      {
+        "@language": "sl",
+        "@value": "Jan"
+      },
+      {
+        "@language": "sv",
+        "@value": "Jan"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Януари"
+      },
+      {
+        "@language": "cs",
+        "@value": "Leden"
+      },
+      {
+        "@language": "da",
+        "@value": "Januar"
+      },
+      {
+        "@language": "de",
+        "@value": "Januar"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιαvoυάριος"
+      },
+      {
+        "@language": "en",
+        "@value": "January"
+      },
+      {
+        "@language": "es",
+        "@value": "Enero"
+      },
+      {
+        "@language": "et",
+        "@value": "Jaanuar"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tammikuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Janvier"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eanáir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Siječanj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Január"
+      },
+      {
+        "@language": "it",
+        "@value": "Gennaio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sausis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Janvāris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jannar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Januari"
+      },
+      {
+        "@language": "pl",
+        "@value": "Styczeń"
+      },
+      {
+        "@language": "pt",
+        "@value": "Janeiro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ianuarie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Január"
+      },
+      {
+        "@language": "sl",
+        "@value": "Januar"
+      },
+      {
+        "@language": "sv",
+        "@value": "Januari"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "JAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/WEEK",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WEEK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WEEK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WEEK"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WEEK"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Седмица"
+      },
+      {
+        "@language": "cs",
+        "@value": "Týden"
+      },
+      {
+        "@language": "da",
+        "@value": "Uge"
+      },
+      {
+        "@language": "de",
+        "@value": "Woche"
+      },
+      {
+        "@language": "el",
+        "@value": "Εβδομάδα"
+      },
+      {
+        "@language": "en",
+        "@value": "Week"
+      },
+      {
+        "@language": "es",
+        "@value": "Semana"
+      },
+      {
+        "@language": "et",
+        "@value": "Nädalal"
+      },
+      {
+        "@language": "fi",
+        "@value": "Viikko"
+      },
+      {
+        "@language": "fr",
+        "@value": "Semaine"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seachtain"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tjedan"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hét"
+      },
+      {
+        "@language": "it",
+        "@value": "Settimana"
+      },
+      {
+        "@language": "lt",
+        "@value": "Savaitė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nedēļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġimgħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Week"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tydzień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Semana"
+      },
+      {
+        "@language": "ro",
+        "@value": "Săptămână"
+      },
+      {
+        "@language": "sk",
+        "@value": "Týždeň"
+      },
+      {
+        "@language": "sl",
+        "@value": "Teden"
+      },
+      {
+        "@language": "sv",
+        "@value": "Vecka"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/AUG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AUG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AUG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AUG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AUG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Авг"
+      },
+      {
+        "@language": "cs",
+        "@value": "Srp"
+      },
+      {
+        "@language": "da",
+        "@value": "Aug"
+      },
+      {
+        "@language": "de",
+        "@value": "Aug."
+      },
+      {
+        "@language": "el",
+        "@value": "Αύγ"
+      },
+      {
+        "@language": "en",
+        "@value": "Aug"
+      },
+      {
+        "@language": "es",
+        "@value": "Ago"
+      },
+      {
+        "@language": "et",
+        "@value": "Aug"
+      },
+      {
+        "@language": "fi",
+        "@value": "Elo"
+      },
+      {
+        "@language": "ga",
+        "@value": "Lún"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kol"
+      },
+      {
+        "@language": "hu",
+        "@value": "Aug."
+      },
+      {
+        "@language": "it",
+        "@value": "Ago"
+      },
+      {
+        "@language": "lt",
+        "@value": "Rugp"
+      },
+      {
+        "@language": "lv",
+        "@value": "Aug"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aww"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aug"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ago."
+      },
+      {
+        "@language": "ro",
+        "@value": "Aug"
+      },
+      {
+        "@language": "sk",
+        "@value": "Aug"
+      },
+      {
+        "@language": "sl",
+        "@value": "Avg"
+      },
+      {
+        "@language": "sv",
+        "@value": "Aug"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Август"
+      },
+      {
+        "@language": "cs",
+        "@value": "Srpen"
+      },
+      {
+        "@language": "da",
+        "@value": "August"
+      },
+      {
+        "@language": "de",
+        "@value": "August"
+      },
+      {
+        "@language": "el",
+        "@value": "Αύγουστος"
+      },
+      {
+        "@language": "en",
+        "@value": "August"
+      },
+      {
+        "@language": "es",
+        "@value": "Agosto"
+      },
+      {
+        "@language": "et",
+        "@value": "August"
+      },
+      {
+        "@language": "fi",
+        "@value": "Elokuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Août"
+      },
+      {
+        "@language": "ga",
+        "@value": "Lúnasa"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kolovoz"
+      },
+      {
+        "@language": "hu",
+        "@value": "Augusztus"
+      },
+      {
+        "@language": "it",
+        "@value": "Agosto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Rugpjūtis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Augusts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Awwissu"
+      },
+      {
+        "@language": "nl",
+        "@value": "Augustus"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sierpień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agosto"
+      },
+      {
+        "@language": "ro",
+        "@value": "August"
+      },
+      {
+        "@language": "sk",
+        "@value": "August"
+      },
+      {
+        "@language": "sl",
+        "@value": "Avgust"
+      },
+      {
+        "@language": "sv",
+        "@value": "Augusti"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AUG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/MAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "Bře"
+      },
+      {
+        "@language": "da",
+        "@value": "Mar"
+      },
+      {
+        "@language": "el",
+        "@value": "Μάρ"
+      },
+      {
+        "@language": "en",
+        "@value": "Mar"
+      },
+      {
+        "@language": "es",
+        "@value": "Mar"
+      },
+      {
+        "@language": "fi",
+        "@value": "Maa"
+      },
+      {
+        "@language": "ga",
+        "@value": "Már"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ož"
+      },
+      {
+        "@language": "hu",
+        "@value": "Már."
+      },
+      {
+        "@language": "it",
+        "@value": "Mar"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kov"
+      },
+      {
+        "@language": "lv",
+        "@value": "Mar"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Maa"
+      },
+      {
+        "@language": "pl",
+        "@value": "Mar"
+      },
+      {
+        "@language": "pt",
+        "@value": "Mar."
+      },
+      {
+        "@language": "ro",
+        "@value": "Mar"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mar"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mar"
+      },
+      {
+        "@language": "sv",
+        "@value": "Mar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Март"
+      },
+      {
+        "@language": "cs",
+        "@value": "Březen"
+      },
+      {
+        "@language": "da",
+        "@value": "Marts"
+      },
+      {
+        "@language": "de",
+        "@value": "März"
+      },
+      {
+        "@language": "el",
+        "@value": "Μάρτιος"
+      },
+      {
+        "@language": "en",
+        "@value": "March"
+      },
+      {
+        "@language": "es",
+        "@value": "Marzo"
+      },
+      {
+        "@language": "et",
+        "@value": "Märts"
+      },
+      {
+        "@language": "fi",
+        "@value": "Maaliskuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mars"
+      },
+      {
+        "@language": "ga",
+        "@value": "Márta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ožujak"
+      },
+      {
+        "@language": "hu",
+        "@value": "Március"
+      },
+      {
+        "@language": "it",
+        "@value": "Marzo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kovas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Marts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Marzu"
+      },
+      {
+        "@language": "nl",
+        "@value": "Maart"
+      },
+      {
+        "@language": "pl",
+        "@value": "Marzec"
+      },
+      {
+        "@language": "pt",
+        "@value": "Março"
+      },
+      {
+        "@language": "ro",
+        "@value": "Martie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Marec"
+      },
+      {
+        "@language": "sl",
+        "@value": "Marec"
+      },
+      {
+        "@language": "sv",
+        "@value": "Mars"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "MAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/WED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Сряда"
+      },
+      {
+        "@language": "cs",
+        "@value": "Středa"
+      },
+      {
+        "@language": "da",
+        "@value": "Onsdag"
+      },
+      {
+        "@language": "de",
+        "@value": "Mittwoch"
+      },
+      {
+        "@language": "el",
+        "@value": "Τετάρτη"
+      },
+      {
+        "@language": "en",
+        "@value": "Wednesday"
+      },
+      {
+        "@language": "es",
+        "@value": "Miércoles"
+      },
+      {
+        "@language": "et",
+        "@value": "Kolmapäev"
+      },
+      {
+        "@language": "fi",
+        "@value": "Keskiviikko"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mercredi"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Chéadaoin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Srijeda"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szerda"
+      },
+      {
+        "@language": "it",
+        "@value": "Mercoledì"
+      },
+      {
+        "@language": "lt",
+        "@value": "Trečiadienis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Trešdiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-erbgħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Woensdag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Środa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Quarta-feira"
+      },
+      {
+        "@language": "ro",
+        "@value": "Miercuri"
+      },
+      {
+        "@language": "sk",
+        "@value": "Streda"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sreda"
+      },
+      {
+        "@language": "sv",
+        "@value": "Onsdag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/YEAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "YEAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "YEAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "YEAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "YEAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Години"
+      },
+      {
+        "@language": "cs",
+        "@value": "Roky"
+      },
+      {
+        "@language": "de",
+        "@value": "Jahre"
+      },
+      {
+        "@language": "el",
+        "@value": "Έτη"
+      },
+      {
+        "@language": "en",
+        "@value": "Years"
+      },
+      {
+        "@language": "es",
+        "@value": "Años"
+      },
+      {
+        "@language": "et",
+        "@value": "Aastad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vuodet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ans"
+      },
+      {
+        "@language": "ga",
+        "@value": "Bliana"
+      },
+      {
+        "@language": "hr",
+        "@value": "Godine"
+      },
+      {
+        "@language": "hu",
+        "@value": "Évek"
+      },
+      {
+        "@language": "it",
+        "@value": "Anni"
+      },
+      {
+        "@language": "lv",
+        "@value": "Gadi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Snin"
+      },
+      {
+        "@language": "nl",
+        "@value": "Jaren"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lata"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ani"
+      },
+      {
+        "@language": "sk",
+        "@value": "Roky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Leta"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Година"
+      },
+      {
+        "@language": "cs",
+        "@value": "Rok"
+      },
+      {
+        "@language": "da",
+        "@value": "År"
+      },
+      {
+        "@language": "de",
+        "@value": "Jahr"
+      },
+      {
+        "@language": "el",
+        "@value": "Έτος"
+      },
+      {
+        "@language": "en",
+        "@value": "Year"
+      },
+      {
+        "@language": "es",
+        "@value": "Año"
+      },
+      {
+        "@language": "et",
+        "@value": "Aasta"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "An"
+      },
+      {
+        "@language": "ga",
+        "@value": "Bliain"
+      },
+      {
+        "@language": "hr",
+        "@value": "Godina"
+      },
+      {
+        "@language": "hu",
+        "@value": "Év"
+      },
+      {
+        "@language": "it",
+        "@value": "Anno"
+      },
+      {
+        "@language": "lt",
+        "@value": "Metai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Gads"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sena"
+      },
+      {
+        "@language": "nl",
+        "@value": "Jaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rok"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ano"
+      },
+      {
+        "@language": "ro",
+        "@value": "An"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Leto"
+      },
+      {
+        "@language": "sv",
+        "@value": "År"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b16",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "YEAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "TED_SCHEMA"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/NOV",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NOV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NOV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b12"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NOV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NOV"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Ное"
+      },
+      {
+        "@language": "cs",
+        "@value": "Lis"
+      },
+      {
+        "@language": "da",
+        "@value": "Nov"
+      },
+      {
+        "@language": "de",
+        "@value": "Nov."
+      },
+      {
+        "@language": "el",
+        "@value": "Νοέ"
+      },
+      {
+        "@language": "en",
+        "@value": "Nov"
+      },
+      {
+        "@language": "es",
+        "@value": "Nov"
+      },
+      {
+        "@language": "et",
+        "@value": "Nov"
+      },
+      {
+        "@language": "fi",
+        "@value": "Mar"
+      },
+      {
+        "@language": "fr",
+        "@value": "Nov."
+      },
+      {
+        "@language": "ga",
+        "@value": "Sam"
+      },
+      {
+        "@language": "hr",
+        "@value": "St"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nov."
+      },
+      {
+        "@language": "it",
+        "@value": "Nov"
+      },
+      {
+        "@language": "lt",
+        "@value": "Lap"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nov"
+      },
+      {
+        "@language": "mt",
+        "@value": "Nov"
+      },
+      {
+        "@language": "nl",
+        "@value": "Nov"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lis"
+      },
+      {
+        "@language": "pt",
+        "@value": "Nov."
+      },
+      {
+        "@language": "ro",
+        "@value": "Noi"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Nov"
+      },
+      {
+        "@language": "sv",
+        "@value": "Nov"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Ноември"
+      },
+      {
+        "@language": "cs",
+        "@value": "Listopad"
+      },
+      {
+        "@language": "da",
+        "@value": "November"
+      },
+      {
+        "@language": "de",
+        "@value": "November"
+      },
+      {
+        "@language": "el",
+        "@value": "Νοέμβριος"
+      },
+      {
+        "@language": "en",
+        "@value": "November"
+      },
+      {
+        "@language": "es",
+        "@value": "Noviembre"
+      },
+      {
+        "@language": "et",
+        "@value": "November"
+      },
+      {
+        "@language": "fi",
+        "@value": "Marraskuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Novembre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Samhain"
+      },
+      {
+        "@language": "hr",
+        "@value": "Studeni"
+      },
+      {
+        "@language": "hu",
+        "@value": "November"
+      },
+      {
+        "@language": "it",
+        "@value": "Novembre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Lapkritis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Novembris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Novembru"
+      },
+      {
+        "@language": "nl",
+        "@value": "November"
+      },
+      {
+        "@language": "pl",
+        "@value": "Listopad"
+      },
+      {
+        "@language": "pt",
+        "@value": "Novembro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Noiembrie"
+      },
+      {
+        "@language": "sk",
+        "@value": "November"
+      },
+      {
+        "@language": "sl",
+        "@value": "November"
+      },
+      {
+        "@language": "sv",
+        "@value": "November"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "NOV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Time period"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "timeperiod"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20190918-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Time period"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20190918-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Time period"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/AUTUMN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AUTUMN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AUTUMN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AUTUMN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AUTUMN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Есен"
+      },
+      {
+        "@language": "cs",
+        "@value": "Podzim"
+      },
+      {
+        "@language": "da",
+        "@value": "Efterår"
+      },
+      {
+        "@language": "de",
+        "@value": "Herbst"
+      },
+      {
+        "@language": "el",
+        "@value": "Φθινόπωρο"
+      },
+      {
+        "@language": "en",
+        "@value": "Autumn"
+      },
+      {
+        "@language": "es",
+        "@value": "Otoño"
+      },
+      {
+        "@language": "et",
+        "@value": "Sügis"
+      },
+      {
+        "@language": "fi",
+        "@value": "Syksy"
+      },
+      {
+        "@language": "fr",
+        "@value": "Automne"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fómhar"
+      },
+      {
+        "@language": "hr",
+        "@value": "Jesen"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ősz"
+      },
+      {
+        "@language": "it",
+        "@value": "Autunno"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ruduo"
+      },
+      {
+        "@language": "lv",
+        "@value": "Rudens"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Ħarifa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Herfst"
+      },
+      {
+        "@language": "pl",
+        "@value": "Jesień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outuno"
+      },
+      {
+        "@language": "ro",
+        "@value": "Toamnă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Jeseň"
+      },
+      {
+        "@language": "sl",
+        "@value": "Jesen"
+      },
+      {
+        "@language": "sv",
+        "@value": "Höst"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/timeperiod/OCT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OCT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OCT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b13"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OCT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OCT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Окт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Říj"
+      },
+      {
+        "@language": "da",
+        "@value": "Okt"
+      },
+      {
+        "@language": "de",
+        "@value": "Okt."
+      },
+      {
+        "@language": "el",
+        "@value": "Οκτ"
+      },
+      {
+        "@language": "en",
+        "@value": "Oct"
+      },
+      {
+        "@language": "es",
+        "@value": "Oct"
+      },
+      {
+        "@language": "et",
+        "@value": "Okt"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lok"
+      },
+      {
+        "@language": "fr",
+        "@value": "Oct."
+      },
+      {
+        "@language": "ga",
+        "@value": "Dei"
+      },
+      {
+        "@language": "hr",
+        "@value": "Lis"
+      },
+      {
+        "@language": "hu",
+        "@value": "Okt."
+      },
+      {
+        "@language": "it",
+        "@value": "Ott"
+      },
+      {
+        "@language": "lt",
+        "@value": "Spa"
+      },
+      {
+        "@language": "lv",
+        "@value": "Okt"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ott"
+      },
+      {
+        "@language": "nl",
+        "@value": "Okt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Paź"
+      },
+      {
+        "@language": "pt",
+        "@value": "Out."
+      },
+      {
+        "@language": "ro",
+        "@value": "Oct"
+      },
+      {
+        "@language": "sk",
+        "@value": "Okt"
+      },
+      {
+        "@language": "sl",
+        "@value": "Okt"
+      },
+      {
+        "@language": "sv",
+        "@value": "Okt"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/timeperiod"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Октомври"
+      },
+      {
+        "@language": "cs",
+        "@value": "Říjen"
+      },
+      {
+        "@language": "da",
+        "@value": "Oktober"
+      },
+      {
+        "@language": "de",
+        "@value": "Oktober"
+      },
+      {
+        "@language": "el",
+        "@value": "Οκτώβριος"
+      },
+      {
+        "@language": "en",
+        "@value": "October"
+      },
+      {
+        "@language": "es",
+        "@value": "Octubre"
+      },
+      {
+        "@language": "et",
+        "@value": "Oktoober"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lokakuu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Octobre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Deireadh Fómhair"
+      },
+      {
+        "@language": "hr",
+        "@value": "Listopad"
+      },
+      {
+        "@language": "hu",
+        "@value": "Október"
+      },
+      {
+        "@language": "it",
+        "@value": "Ottobre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Spalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Oktobris"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ottubru"
+      },
+      {
+        "@language": "nl",
+        "@value": "Oktober"
+      },
+      {
+        "@language": "pl",
+        "@value": "Październik"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outubro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Octombrie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Október"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oktober"
+      },
+      {
+        "@language": "sv",
+        "@value": "Oktober"
+      }
+    ]
+  },
+  {
+    "@id": "_:neb6c5b2b1a2648e1b3c1d2dee80e8075b13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OCT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  }
+]

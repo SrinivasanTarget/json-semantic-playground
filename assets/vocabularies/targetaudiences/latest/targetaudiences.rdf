@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/CON">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CON</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CON</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb2"/>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb3"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>CON</atold:op-code>
+    <dc:identifier>CON</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Потребители</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Spotřebitelé</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forbrugere</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Verbraucher</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Καταναλωτές</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Consumers</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Consumidores</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Tarbijad</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kuluttajat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Consommateurs</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Tomhaltóirí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Potrošači</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Fogyasztók</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Consumatori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Vartotojai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Patērētāji</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Konsumaturi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Consumenten</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Konsumenci</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Consumidores</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Consumatori</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Spotrebitelia</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Potrošniki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Konsumenter</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/SPE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SPE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SPE</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb12"/>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb13"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>SPE</atold:op-code>
+    <dc:identifier>SPE</dc:identifier>
+    <skos:definition xml:lang="en">Persons with interest in technical non-scientific publications.</skos:definition>
+    <skos:definition xml:lang="fr">Personnes ayant un intérêt pour les publications techniques non scientifiques.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Специализирана</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Specializované</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Fagområde</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Spezialisiert</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Εξειδικευμένες</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Specialised</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Especializado</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Erialakirjandus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Erikoisalat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Spécialisé</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Speisialaithe</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Specijalizirano</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tematikus</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Specialistici</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Specializuota</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Specializēts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Speċjalizzati</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Gespecialiseerd</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Tematyka specjalistyczna</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Especializado</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Specializat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Špecializované</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Specializacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Fackområden</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/GEN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>GEN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>GEN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb6"/>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb7"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>GEN</atold:op-code>
+    <dc:identifier>GEN</dc:identifier>
+    <skos:definition xml:lang="en">Non-specialists in the field of a given publication.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Широка общественост</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Široká veřejnost</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Den brede offentlighed</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Öffentlichkeit</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Ευρύ κοινό</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">General public</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Público en general</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Üldsus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Suuri yleisö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Grand public</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">An pobal i gcoitinne</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Javnost</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Általános</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Grande pubblico</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Plačioji visuomenė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Plaša sabiedrība</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Pubbliku inġenerali</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Iedereen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Tematyka ogólna</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Grande público</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Publicul larg</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Široká verejnosť</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Splošna javnost</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Allmänheten</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/SCI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SCI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SCI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb10"/>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb11"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>SCI</atold:op-code>
+    <dc:identifier>SCI</dc:identifier>
+    <skos:definition xml:lang="en">Persons with interest in technical scientific publications.</skos:definition>
+    <skos:definition xml:lang="fr">Personnes ayant un intérêt pour les publications techniques scientifiques.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Научна</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Vědecké</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Videnskab</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Wissenschaft</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Επιστημονικές</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Scientific</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Científico</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Teadus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Tiede</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Scientifique</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Eolaíocht</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Znanstveno</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tudományos</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Scientifici</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Mokslas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Zinātnisks</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Xjentifiċi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Wetenschappelijk</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Nauka</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Científico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Științific</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Vedecké</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Znanost</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Vetenskap</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/YOP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>YOP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>YOP</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb14"/>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb15"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>YOP</atold:op-code>
+    <dc:identifier>YOP</dc:identifier>
+    <skos:definition xml:lang="en">Young people from 12 to 24 years old – the age group typically corresponding to the secondary and higher education students.</skos:definition>
+    <skos:definition xml:lang="fr">Jeunes de 12 à 18 ans. Cette tranche d’âge correspond généralement aux élèves de l’enseignement secondaire.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Младежи</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Mladí lidé</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Unge</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Junge Menschen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Νέοι</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Young people</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Jóvenes</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Noored</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Nuoret</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Jeunes</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Daoine óga</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Mladi</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ifjúsági</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Giovani</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Jaunimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Jaunieši</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Żgħażagħ</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Jongeren</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Młodzież</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Jovens</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Tineri</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Mladí ľudia</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Mladi</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Ungdomar</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb13">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>702</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/EDU">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EDU</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EDU</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb4"/>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb5"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>EDU</atold:op-code>
+    <dc:identifier>EDU</dc:identifier>
+    <skos:definition xml:lang="en">Educators and teachers.</skos:definition>
+    <skos:definition xml:lang="fr">Éducateurs et enseignants.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Образование</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Vzdělání</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Uddannelse</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bildung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Εκπαίδευση</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Education</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Educación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Haridus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Koulutus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Éducation</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Oideachas</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Obrazovanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Oktató</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Istruzione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Švietimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Izglītība</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Edukazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Onderwijs</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Edukacja</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Educação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Educație</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Vzdelávanie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Izobraževanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Utbildning</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/CHL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CHL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CHL</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb1"/>
+    <at:start.use>2017-10-04</at:start.use>
+    <atold:op-code>CHL</atold:op-code>
+    <dc:identifier>CHL</dc:identifier>
+    <skos:definition xml:lang="en">Children up to 11 years old – the age group typically corresponding to the pre-school and primary school pupils.</skos:definition>
+    <skos:definition xml:lang="fr">Enfants jusqu’à 11 ans. Cette tranche d’âge correspond généralement aux enfants d’âge préscolaire et aux élèves de l’enseignement primaire.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Деца</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Děti</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Børn</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Kinder</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Παιδιά</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Children</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Niños</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Lapsed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Lapset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Enfants</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Leanaí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Djeca</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Gyermekek</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Bambini</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Vaikai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Bērni</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Tfal</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Kinderen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dzieci</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Crianças</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Copii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Deti</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Otroci</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Barn</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/MIN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>MIN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>MIN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb9"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>MIN</atold:op-code>
+    <dc:identifier>MIN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Малцинства</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Menšiny</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Minoriteter</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Minderheiten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Μειονότητες</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Minorities</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Minorías</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Vähemused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Vähemmistöt</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Minorités</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Mionlaigh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Manjine</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kisebbségek</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Minoranze</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Mažumos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Minoritātes</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Minoritajiet</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Minderheden</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Mniejszości</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Minorias</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Minorități</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Menšiny</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Manjšine</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Minoriteter</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb4">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Education</at:legacy-code>
+    <dc:source>EUBOOKSHOP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>OP_DATPRO</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>206</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience/LEG">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>LEG</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>LEG</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb8"/>
+    <at:start.use>1999-01-01</at:start.use>
+    <atold:op-code>LEG</atold:op-code>
+    <dc:identifier>LEG</dc:identifier>
+    <skos:definition xml:lang="en">Specialised public that needs to access legal information to learn about or apply law, for example: jurists, lawyers, legislators.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+    <skos:prefLabel xml:lang="bg">Правна</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Legislativní</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Lovgivning</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Recht</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Νομικές</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Legislative</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Legislativo</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Juriidika</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Lainsäädäntö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Législatif</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Reachtach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Zakonodavno</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Jogi</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Legislativi</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Teisė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Leģislatīvs</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Leġiżlattivi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Wetgeving</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Prawo</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Legislativo</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Legislativ</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Legislatíva</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Zakonodaja</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Lagstiftning</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/target-audience"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb8">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>705</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb6">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>200</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb5">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>600</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/target-audience">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Target audience</rdfs:label>
+    <at:prefLabel xml:lang="en">Target audience</at:prefLabel>
+    <at:table.id>target-audience</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Target audience</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb11">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>704</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>210</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb15">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>201</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Consumers</at:legacy-code>
+    <dc:source>EUBOOKSHOP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb7">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>General public</at:legacy-code>
+    <dc:source>EUBOOKSHOP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb14">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Young people</at:legacy-code>
+    <dc:source>EUBOOKSHOP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb9">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:affected-table>PUB_TARGET</at:affected-table>
+    <at:legacy-code>205</at:legacy-code>
+    <dc:source>PUB</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb10">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Scientific</at:legacy-code>
+    <dc:source>EUBOOKSHOP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n0b5d48f381e741ed9c859f41f3c8f3fcb12">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Specialised/Technical</at:legacy-code>
+    <dc:source>EUBOOKSHOP</dc:source>
+  </rdf:Description>
+</rdf:RDF>

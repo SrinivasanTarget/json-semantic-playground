@@ -1,0 +1,19 @@
+# Serializing assets/vocabularies/concept-status/latest/concept-status.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/concept-status
+# title: Concept status
+# version: 20181212-0
+# description: Concept status
+key,url,deprecated,valid_from,country_code,label_en,label_it
+CANDIDATE,http://publications.europa.eu/resource/authority/concept-status/CANDIDATE,false,2009-12-01,CANDIDATE,candidate,
+CANDIDATE_DEPRECATED,http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED,false,2009-12-01,CANDIDATE_DEPRECATED,candidate.deprecated,
+CURRENT,http://publications.europa.eu/resource/authority/concept-status/CURRENT,false,2009-12-01,CURRENT,current,attuale
+DEPRECATED,http://publications.europa.eu/resource/authority/concept-status/DEPRECATED,false,2009-12-01,DEPRECATED,deprecated,sconsigliato
+DRAFT,http://publications.europa.eu/resource/authority/concept-status/DRAFT,false,2009-12-01,DRAFT,draft,
+DRAFT_DEPRECATED,http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED,false,2009-12-01,DRAFT_DEPRECATED,draft.deprecated,
+OP_DATPRO,http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+RETIRED,http://publications.europa.eu/resource/authority/concept-status/RETIRED,false,2009-12-01,RETIRED,retired,ritirato
+REVISED,http://publications.europa.eu/resource/authority/concept-status/REVISED,false,2018-02-20,REVISED,revised,
+REVISED_DEPRECATED,http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED,false,2018-02-20,REVISED_DEPRECATED,revised.deprecated,
+WAITING,http://publications.europa.eu/resource/authority/concept-status/WAITING,false,2015-07-01,WAITING,waiting,
+WAITING_DEPRECATED,http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED,false,2015-07-03,WAITING_DEPRECATED,waiting.deprecated,

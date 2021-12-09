@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/year-manpower">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>year-manpower</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>year-manpower</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>year-manpower</atold:op-code>
+    <dc:identifier>year-manpower</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Average annual manpower</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/envir-law">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>envir-law</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>envir-law</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>envir-law</atold:op-code>
+    <dc:identifier>envir-law</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Breaching of obligations in the fields of environmental law</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/misinterpr">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>misinterpr</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>misinterpr</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>misinterpr</atold:op-code>
+    <dc:identifier>misinterpr</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Guilty of misinterpretation, withheld information, unable to provide required documents and obtained confidential information of this procedure</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/liq-admin">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>liq-admin</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>liq-admin</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>liq-admin</atold:op-code>
+    <dc:identifier>liq-admin</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Assets being administered by liquidator</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/socsec-law">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>socsec-law</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>socsec-law</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>socsec-law</atold:op-code>
+    <dc:identifier>socsec-law</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Breaching of obligations in the fields of social law</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/research-fac">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>research-fac</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>research-fac</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>research-fac</atold:op-code>
+    <dc:identifier>research-fac</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Study and research facilities</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/crime-org">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>crime-org</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>crime-org</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>crime-org</atold:op-code>
+    <dc:identifier>crime-org</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Participation in a criminal organisation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/shelt-worksh">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>shelt-worksh</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>shelt-worksh</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>shelt-worksh</atold:op-code>
+    <dc:identifier>shelt-worksh</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Economic operator is a sheltered workshop</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/distorsion">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>distorsion</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>distorsion</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>distorsion</atold:op-code>
+    <dc:identifier>distorsion</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Agreements with other economic operators aimed at distorting competition</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/prof-misconduct">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>prof-misconduct</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>prof-misconduct</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>prof-misconduct</atold:op-code>
+    <dc:identifier>prof-misconduct</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Guilty of grave professional misconduct</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/qu-certif-indep">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>qu-certif-indep</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>qu-certif-indep</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>qu-certif-indep</atold:op-code>
+    <dc:identifier>qu-certif-indep</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Certificates by independent bodies about quality assurance standards</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/fraud">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>fraud</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>fraud</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>fraud</atold:op-code>
+    <dc:identifier>fraud</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Fraud</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/envir-certif-indep">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>envir-certif-indep</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>envir-certif-indep</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>envir-certif-indep</atold:op-code>
+    <dc:identifier>envir-certif-indep</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Certificates by independent bodies about environmental management systems or standards</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/relied">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>relied</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>relied</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>relied</atold:op-code>
+    <dc:identifier>relied</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Relied on entities</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/spec-aver-to">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>spec-aver-to</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>spec-aver-to</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>spec-aver-to</atold:op-code>
+    <dc:identifier>spec-aver-to</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Specific average turnover</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/eo-group">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>eo-group</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>eo-group</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>eo-group</atold:op-code>
+    <dc:identifier>eo-group</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Economic operator together with others</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/socsec-pay">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>socsec-pay</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>socsec-pay</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>socsec-pay</atold:op-code>
+    <dc:identifier>socsec-pay</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Payment of social security contributions</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Criterion</rdfs:label>
+    <at:prefLabel xml:lang="en">Criterion</at:prefLabel>
+    <at:table.id>criterion</at:table.id>
+    <at:table.version.number>20210616-0</at:table.version.number>
+    <owl:versionInfo>20210616-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Criterion</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/nati-ground">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>nati-ground</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>nati-ground</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>nati-ground</atold:op-code>
+    <dc:identifier>nati-ground</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Purely national exclusion grounds</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/chain-manage">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>chain-manage</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>chain-manage</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>chain-manage</atold:op-code>
+    <dc:identifier>chain-manage</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Supply chain management</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/membership">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>membership</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>membership</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>membership</atold:op-code>
+    <dc:identifier>membership</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For service contracts: membership of particular organisation needed</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/spec-year-to">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>spec-year-to</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>spec-year-to</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>spec-year-to</atold:op-code>
+    <dc:identifier>spec-year-to</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Specific yearly turnover</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/autorisation">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>autorisation</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>autorisation</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>autorisation</atold:op-code>
+    <dc:identifier>autorisation</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For service contracts: authorisation of particular organisation needed</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/work-perform">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>work-perform</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>work-perform</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>work-perform</atold:op-code>
+    <dc:identifier>work-perform</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For works contracts: performance of works of the specified type</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/finan-rat">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>finan-rat</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>finan-rat</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>finan-rat</atold:op-code>
+    <dc:identifier>finan-rat</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Financial ratio</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/manage-staff">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>manage-staff</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>manage-staff</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>manage-staff</atold:op-code>
+    <dc:identifier>manage-staff</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Number of managerial staff</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/gen-year-to">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>gen-year-to</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>gen-year-to</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>gen-year-to</atold:op-code>
+    <dc:identifier>gen-year-to</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">General yearly turnover</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/indem-insu">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>indem-insu</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>indem-insu</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>indem-insu</atold:op-code>
+    <dc:identifier>indem-insu</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Professional risk indemnity insurance</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/sme">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>sme</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>sme</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>sme</atold:op-code>
+    <dc:identifier>sme</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Economic operator micro, small or medium-sized enterprise</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/service-perform">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>service-perform</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>service-perform</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>service-perform</atold:op-code>
+    <dc:identifier>service-perform</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For service contracts: performance of services of the specified type</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/subco-ent">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>subco-ent</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>subco-ent</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>subco-ent</atold:op-code>
+    <dc:identifier>subco-ent</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Subcontracted entities</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/sanction">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>sanction</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>sanction</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>sanction</atold:op-code>
+    <dc:identifier>sanction</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Early termination, damages or other comparable sanctions</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/work-tech">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>work-tech</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>work-tech</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>work-tech</atold:op-code>
+    <dc:identifier>work-tech</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For works contracts: technicians or technical bodies to carry out the work</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/qualification">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>qualification</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>qualification</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>qualification</atold:op-code>
+    <dc:identifier>qualification</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Educational and professional qualifications</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/qa-certif-inst">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>qa-certif-inst</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>qa-certif-inst</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>qa-certif-inst</atold:op-code>
+    <dc:identifier>qa-certif-inst</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For supply contracts: certificates by quality control institutes</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/prof-regist">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>prof-regist</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>prof-regist</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>prof-regist</atold:op-code>
+    <dc:identifier>prof-regist</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Enrolment in a relevant professional register</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/w-autent">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>w-autent</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>w-autent</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>w-autent</atold:op-code>
+    <dc:identifier>w-autent</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For supply contracts: samples, descriptions or photographs with certification of authenticity</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/terr-offence">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>terr-offence</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>terr-offence</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>terr-offence</atold:op-code>
+    <dc:identifier>terr-offence</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Terrorist offences or offences linked to terrorist activities</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/prep-confl">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>prep-confl</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>prep-confl</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>prep-confl</atold:op-code>
+    <dc:identifier>prep-confl</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Direct or indirect involvement in the preparation of this procurement procedure</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/suncont-port">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>suncont-port</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>suncont-port</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>suncont-port</atold:op-code>
+    <dc:identifier>suncont-port</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Subcontracting proportion</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/qual-facil">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>qual-facil</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>qual-facil</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>qual-facil</atold:op-code>
+    <dc:identifier>qual-facil</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Technical facilities and measures for ensuring quality</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/bankr-nat">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>bankr-nat</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>bankr-nat</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>bankr-nat</atold:op-code>
+    <dc:identifier>bankr-nat</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Analogous situation like bankruptcy under national law</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/spec-req-check">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>spec-req-check</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>spec-req-check</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>spec-req-check</atold:op-code>
+    <dc:identifier>spec-req-check</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Special requierements check</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/finan-requ">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>finan-requ</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>finan-requ</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>finan-requ</atold:op-code>
+    <dc:identifier>finan-requ</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Other economic or financial requirements</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/tax-pay">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>tax-pay</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>tax-pay</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>tax-pay</atold:op-code>
+    <dc:identifier>tax-pay</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Payment of taxes</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/aver-year-to">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>aver-year-to</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>aver-year-to</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>aver-year-to</atold:op-code>
+    <dc:identifier>aver-year-to</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Average yearly turnover</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/labour-law">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>labour-law</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>labour-law</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>labour-law</atold:op-code>
+    <dc:identifier>labour-law</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Breaching of obligations in the fields of labour law</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/trade-regist">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>trade-regist</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>trade-regist</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>trade-regist</atold:op-code>
+    <dc:identifier>trade-regist</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Enrolment in a trade register</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/insolvency">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>insolvency</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>insolvency</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>insolvency</atold:op-code>
+    <dc:identifier>insolvency</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Insolvency</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/registered">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>registered</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>registered</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>registered</atold:op-code>
+    <dc:identifier>registered</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Economic operator registered in a pre qualification system</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/corruption">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>corruption</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>corruption</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>corruption</atold:op-code>
+    <dc:identifier>corruption</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Corruption</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/supply-perform">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>supply-perform</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>supply-perform</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>supply-perform</atold:op-code>
+    <dc:identifier>supply-perform</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For supply contracts: performance of deliveries of the specified type</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/partic-confl">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>partic-confl</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>partic-confl</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>partic-confl</atold:op-code>
+    <dc:identifier>partic-confl</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Conflict of interest due to its participation in the procurement procedure</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/finan-laund">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>finan-laund</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>finan-laund</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>finan-laund</atold:op-code>
+    <dc:identifier>finan-laund</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Money laundering or terrorist financing</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/cred-arran">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>cred-arran</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>cred-arran</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>cred-arran</atold:op-code>
+    <dc:identifier>cred-arran</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Arrangement with creditors</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/human-traffic">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>human-traffic</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>human-traffic</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>human-traffic</atold:op-code>
+    <dc:identifier>human-traffic</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Child labour and other forms of trafficking in human beings</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/bankruptcy">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>bankruptcy</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>bankruptcy</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>bankruptcy</atold:op-code>
+    <dc:identifier>bankruptcy</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Bankruptcy</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/tech-equip">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>tech-equip</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>tech-equip</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>tech-equip</atold:op-code>
+    <dc:identifier>tech-equip</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Tools, plant or technical equipment</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/envir-measure">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>envir-measure</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>envir-measure</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>envir-measure</atold:op-code>
+    <dc:identifier>envir-measure</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Environmental management measures</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/staff-red">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>staff-red</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>staff-red</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>staff-red</atold:op-code>
+    <dc:identifier>staff-red</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Reduction of the number of qualified candidates</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/wo-autent">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>wo-autent</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>wo-autent</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>wo-autent</atold:op-code>
+    <dc:identifier>wo-autent</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">For supply contracts: samples, descriptions or photographs without certification of authenticity</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/susp-act">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>susp-act</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>susp-act</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>susp-act</atold:op-code>
+    <dc:identifier>susp-act</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Business activities are suspended</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/criterion/qual-cont-tech">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>qual-cont-tech</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>qual-cont-tech</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>qual-cont-tech</atold:op-code>
+    <dc:identifier>qual-cont-tech</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/criterion"/>
+    <skos:prefLabel xml:lang="en">Technicians or technical bodies for quality control</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

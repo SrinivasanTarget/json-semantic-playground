@@ -1,0 +1,31 @@
+<https://w3id.org/italia/onto/CLV/CivicNumbering> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CLV/> .
+<https://w3id.org/italia/onto/CLV/CivicNumbering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CLV/Address> <https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> "030104" .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://www.w3.org/2002/07/owl#versionInfo> "Versione 0.1 - creazione allineamento alle specifiche del database geotopografico"@it .
+<https://w3id.org/italia/onto/CLV/Address> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://www.w3.org/2002/07/owl#versionIRI> <https://w3id.org/italia/onto/CLV-DBGT/0.1> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://www.w3.org/2002/07/owl#imports> <https://w3id.org/italia/onto/CLV> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/creator> "Italian Digital Transformation Team"@en .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.w3.org/2002/07/owl#Thing> .
+<https://w3id.org/italia/onto/CLV/StreetToponym> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CLV/> .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/2000/01/rdf-schema#comment> "This property is used to align elements of the Core Location Vocabulary - Italian Application Profile to the Italian Geotopographic database"@en .
+<https://w3id.org/italia/onto/CLV/InternalAccess> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CLV/> .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/2000/01/rdf-schema#label> "Alignment to Italian Geotopographic database"@en .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<https://w3id.org/italia/onto/CLV/StreetToponym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/title> "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile  (CLV-AP_IT) alle specifiche del database geotopografico." .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/2000/01/rdf-schema#label> "Allineamento alle specifiche italiane DBGT"@it .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/2000/01/rdf-schema#comment> "Questa propriet\u00E0 \u00E8 utilizzata per allineare alcuni elementi dell'ontologia dei luoghi/indirizzi alle specifiche italiane del Database Geotopografico DBGT"@it .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/title> "These are the alignments to Italian GeoTopographic Database"@en .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/issued> "2018-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/italia/onto/CLV/CivicNumbering> <https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> "030102" .
+<https://w3id.org/italia/onto/CLV/InternalAccess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/italia/onto/CLV/InternalAccess> <https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> "030105" .
+<https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/creator> "Institute of Cognitive Sciences and Technologies of the Italian Research Council (CNR) - Semantic Technology Laboratory (STLab)"@en .
+<https://w3id.org/italia/onto/CLV/Address> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <https://w3id.org/italia/onto/CLV/> .
+<https://w3id.org/italia/onto/CLV/StreetToponym> <https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment> "030101" .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/modified> "2018-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://w3id.org/italia/onto/CLV-DBGT> <http://purl.org/dc/elements/1.1/creator> "Agency for Digital Italy - AgID"@en .
+

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/case-status/PROGRESS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>PROGRESS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>PROGRESS</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b2"/>
+    <at:start.use>1952-07-24</at:start.use>
+    <atold:op-code>PROGRESS</atold:op-code>
+    <dc:identifier>PROGRESS</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-status"/>
+    <skos:prefLabel xml:lang="bg">Висящо дело</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Projednávaná věc</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Verserende sag</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Laufende Rechtssache</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπόθεση εν εξελίξει</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Case in progress</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Asunto pendiente</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Menetluses olev kohtuasi</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Vireillä oleva asia</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Affaire en cours</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Postupak u tijeku</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Folyamatban lévő ügy</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Causa pendente</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Dar neišnagrinėta byla</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Lieta iztiesāšanas stadijā</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kawża pendenti</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Aanhangige zaak</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Sprawa w toku</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Processo pendente</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Cauză pendinte</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Prejednávaná vec</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Tekoča zadeva</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Målet pågår</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/case-status/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-status"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>CLOT</at:legacy-code>
+    <dc:source>LITIGE</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b4">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>DESIST</at:legacy-code>
+    <dc:source>LITIGE</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/case-status/CLOSED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CLOSED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CLOSED</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b1"/>
+    <at:start.use>1952-07-24</at:start.use>
+    <atold:op-code>CLOSED</atold:op-code>
+    <dc:identifier>CLOSED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-status"/>
+    <skos:prefLabel xml:lang="bg">Приключено дело</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Ukončená věc</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Afsluttet sag</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Erledigte Rechtssache</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Περατωθείσα υπόθεση</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Case closed</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Asunto concluido</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Lõpetatud kohtuasi</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ratkaistu asia</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Affaire clôturée</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Predmet riješen</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Befejezett ügy</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Causa conclusa</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Baigta byla</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Lieta, kurā ir pabeigta tiesvedība</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kawża magħluqa</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Afgesloten zaak</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Sprawa zakończona</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Processo concluído</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Cauză finalizată</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Ukončená vec</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Končana zadeva</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Målet är avslutat</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>SUSP</at:legacy-code>
+    <dc:source>LITIGE</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/case-status/STAY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>STAY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>STAY</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b3"/>
+    <at:start.use>1952-07-24</at:start.use>
+    <atold:op-code>STAY</atold:op-code>
+    <dc:identifier>STAY</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-status"/>
+    <skos:prefLabel xml:lang="fr">Affaire suspendue</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/case-status/WITHDRAW">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>WITHDRAW</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>WITHDRAW</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b4"/>
+    <at:start.use>1952-07-24</at:start.use>
+    <atold:op-code>WITHDRAW</atold:op-code>
+    <dc:identifier>WITHDRAW</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/case-status"/>
+    <skos:prefLabel xml:lang="fr">Désistement</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n9c534b6466884d9fa104acba86ee99d1b2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>ENC</at:legacy-code>
+    <dc:source>LITIGE</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/case-status">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Case status</rdfs:label>
+    <at:prefLabel xml:lang="en">Case status</at:prefLabel>
+    <at:table.id>case-status</at:table.id>
+    <at:table.version.number>20160921-0</at:table.version.number>
+    <owl:versionInfo>20160921-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Case status</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

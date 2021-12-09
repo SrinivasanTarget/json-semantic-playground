@@ -1,0 +1,69 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CONTR
+  deprecated: 'false'
+  key: CONTR
+  label_en: contractual
+  label_it: contrattuale
+  url: http://publications.europa.eu/resource/authority/position-type/CONTR
+  valid_from: '1958-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/position-type/OP_DATPRO
+- country_code: OTHER
+  deprecated: 'false'
+  key: OTHER
+  label_en: other
+  label_it: altro
+  url: http://publications.europa.eu/resource/authority/position-type/OTHER
+  valid_from: '1958-01-01'
+- country_code: PERM
+  deprecated: 'false'
+  key: PERM
+  label_en: permanent
+  label_it: permanente
+  url: http://publications.europa.eu/resource/authority/position-type/PERM
+  valid_from: '1958-01-01'
+- country_code: SNE
+  deprecated: 'false'
+  key: SNE
+  label_en: seconded national expert
+  label_it: esperto nazionale distaccato
+  url: http://publications.europa.eu/resource/authority/position-type/SNE
+  valid_from: '1958-01-01'
+- country_code: TEMP
+  deprecated: 'false'
+  key: TEMP
+  label_en: temporary
+  label_it: temporaneo
+  url: http://publications.europa.eu/resource/authority/position-type/TEMP
+  valid_from: '1958-01-01'
+- country_code: TRAINEE
+  deprecated: 'false'
+  key: TRAINEE
+  label_en: trainee
+  label_it: tirocinante
+  url: http://publications.europa.eu/resource/authority/position-type/TRAINEE
+  valid_from: '1958-01-01'

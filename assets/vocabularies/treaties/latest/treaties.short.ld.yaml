@@ -1,0 +1,932 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ACC_1972
+  deprecated: 'false'
+  key: ACC_1972
+  label_en: Treaty of Accession of Denmark, Ireland and the United Kingdom (1972)
+  label_it: "Trattato di adesione della Danimarca, dell\u2019Irlanda e del Regno Unito\
+    \ (1972)"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1972
+  valid_from: '1972-01-22'
+- country_code: ACC_1972_ACT
+  deprecated: 'false'
+  key: ACC_1972_ACT
+  label_en: Act concerning the conditions of accession and the adjustments to the
+    Treaties
+  label_it: Atto relativo alle condizioni di adesione e agli adattamenti dei trattati
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1972_ACT
+  valid_from: '1972-01-22'
+- country_code: ACC_1973
+  deprecated: 'false'
+  key: ACC_1973
+  label_en: Treaty of Accession of Denmark, Ireland and the United Kingdom (Adaptation
+    decision 1973)
+  label_it: "Trattato di adesione della Danimarca, dell\u2019Irlanda e del Regno Unito\
+    \ (decisione di adattamento 1973)"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1973
+  valid_from: '1973-01-01'
+- country_code: ACC_1979
+  deprecated: 'false'
+  key: ACC_1979
+  label_en: Treaty of Accession of Greece (1979)
+  label_it: Trattato di adesione della Grecia (1979)
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1979
+  valid_from: '1979-05-28'
+- country_code: ACC_1979_ACT
+  deprecated: 'false'
+  key: ACC_1979_ACT
+  label_en: Act concerning the conditions of accession of Greece and the adjustments
+    to the Treaties
+  label_it: Atto relativo alle condizioni di adesione della Grecia e agli adattamenti
+    dei trattati
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1979_ACT
+  valid_from: '1979-05-28'
+- country_code: ACC_1985
+  deprecated: 'false'
+  key: ACC_1985
+  label_en: Treaty of Accession of Spain and Portugal (1985)
+  label_it: Trattato di adesione della Spagna e del Portogallo (1985)
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1985
+  valid_from: '1985-06-12'
+- country_code: ACC_1985_ACT
+  deprecated: 'false'
+  key: ACC_1985_ACT
+  label_en: Act concerning the conditions of accession of Spain and Portugal and the
+    adjustments to the Treaties
+  label_it: Atto relativo alle condizioni di adesione della Spagna e del Portogallo
+    e agli adattamenti dei trattati
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1985_ACT
+  valid_from: '1985-06-12'
+- country_code: ACC_1994
+  deprecated: 'false'
+  key: ACC_1994
+  label_en: Treaty of Accession of Austria, Finland and Sweden (1994)
+  label_it: "Trattato di adesione dell\u2019Austria, della Finlandia e della Svezia\
+    \ (1994)"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1994
+  valid_from: '1994-06-24'
+- country_code: ACC_1994_ACT
+  deprecated: 'false'
+  key: ACC_1994_ACT
+  label_en: Act concerning the conditions of accession of Austria, Finland and Sweden
+    and the adjustments to the Treaties
+  label_it: "Atto relativo alle condizioni di adesione dell\u2019Austria, della Finlandia\
+    \ e della Svezia e agli adattamenti dei trattati"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1994_ACT
+  valid_from: '1994-06-24'
+- country_code: ACC_1995
+  deprecated: 'false'
+  key: ACC_1995
+  label_en: Treaty of Accession of Austria, Finland and Sweden (Adaptation decision
+    1995)
+  label_it: "Trattato di adesione dell\u2019Austria, della Finlandia e della Svezia\
+    \ (decisione di adattamento 1995)"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_1995
+  valid_from: '1995-01-01'
+- country_code: ACC_2003
+  deprecated: 'false'
+  key: ACC_2003
+  label_en: Treaty of Accession of the Czech Republic, Estonia, Cyprus, Latvia, Lithuania,
+    Hungary, Malta, Poland, Slovenia and Slovakia (2003)
+  label_it: "Trattato di adesione della Repubblica ceca, dell\u2019Estonia, di Cipro,\
+    \ della Lettonia, della Lituania, dell\u2019Ungheria, di Malta, della Polonia,\
+    \ della Slovenia e della Slovacchia (2003)"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_2003
+  valid_from: '2003-04-16'
+- country_code: ACC_2003_ACT
+  deprecated: 'false'
+  key: ACC_2003_ACT
+  label_en: Act concerning the conditions of accession of the Czech Republic, Estonia,
+    Cyprus, Latvia, Lithuania, Hungary, Malta, Poland, Slovenia and Slovakia and the
+    adjustments to the Treaties
+  label_it: "Atto relativo alle condizioni di adesione della Repubblica ceca, dell\u2019\
+    Estonia, di Cipro, della Lettonia, della Lituania, dell\u2019Ungheria, di Malta,\
+    \ della Polonia, della Slovenia e della Slovacchia e agli adattamenti dei trattati"
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_2003_ACT
+  valid_from: '2003-04-16'
+- country_code: ACC_2005
+  deprecated: 'false'
+  key: ACC_2005
+  label_en: Treaty of Accession of the Republic of Bulgaria and Romania (2005)
+  label_it: Trattato di adesione della Repubblica di Bulgaria e della Romania (2005)
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_2005
+  valid_from: '2005-04-25'
+- country_code: ACC_2005_ACT
+  deprecated: 'false'
+  key: ACC_2005_ACT
+  label_en: Act concerning the conditions of accession of Bulgaria and Romania and
+    the adjustments to the Treaties
+  label_it: Atto relativo alle condizioni di adesione della Bulgaria e della Romania
+    e agli adattamenti dei trattati
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_2005_ACT
+  valid_from: '2005-04-25'
+- country_code: ACC_2012
+  deprecated: 'false'
+  key: ACC_2012
+  label_en: Treaty of Accession of Croatia (2012)
+  label_it: Trattato di adesione della Croazia (2012)
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_2012
+  valid_from: '2011-12-05'
+- country_code: ACC_2012_ACT
+  deprecated: 'false'
+  key: ACC_2012_ACT
+  label_en: Act concerning the conditions of accession of Croatia and the adjustments
+    to the Treaties
+  label_it: Atto relativo alle condizioni di adesione della Repubblica di Croazia
+    e agli adattamenti dei trattati
+  url: http://publications.europa.eu/resource/authority/treaty/ACC_2012_ACT
+  valid_from: '2011-12-05'
+- country_code: AMS
+  deprecated: 'false'
+  key: AMS
+  label_en: Treaty of Amsterdam (1997)
+  label_it: Trattato di Amsterdam (1997)
+  url: http://publications.europa.eu/resource/authority/treaty/AMS
+  valid_from: '1997-10-02'
+- country_code: BUDG_1970
+  deprecated: 'false'
+  key: BUDG_1970
+  label_en: Treaty amending Certain Budgetary Provisions (1970)
+  label_it: Trattato che modifica talune disposizioni in materia di bilancio (1970)
+  url: http://publications.europa.eu/resource/authority/treaty/BUDG_1970
+  valid_from: '1970-04-22'
+- country_code: CECA
+  deprecated: 'false'
+  key: CECA
+  label_en: Treaty establishing the European Coal and Steel Community (1951)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea del carbone e dell\u2019\
+    acciaio (1951)"
+  url: http://publications.europa.eu/resource/authority/treaty/CECA
+  valid_from: '1951-04-18'
+- country_code: CECA_1951
+  deprecated: 'true'
+  key: CECA_1951
+  label_en: Treaty establishing the European Coal and Steel Community (1951)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea del carbone e dell\u2019\
+    acciaio (1951)"
+  url: http://publications.europa.eu/resource/authority/treaty/CECA_1951
+  valid_from: '1950-12-31'
+  valid_until: '1951-01-01'
+- country_code: CECA_AMND_1956
+  deprecated: 'false'
+  key: CECA_AMND_1956
+  label_en: Treaty amending the Treaty establishing the European Coal and Steel Community
+    (1956)
+  label_it: "Trattato che modifica il trattato che istituisce la Comunit\xE0 europea\
+    \ del carbone e dell\u2019acciaio (1956)"
+  url: http://publications.europa.eu/resource/authority/treaty/CECA_AMND_1956
+  valid_from: '1956-10-27'
+- country_code: CHAR_2007
+  deprecated: 'true'
+  key: CHAR_2007
+  label_en: Charter of Fundamental Rights of the European Union (2007)
+  label_it: "Carta dei diritti fondamentali dell\u2019Unione europea (2007)"
+  url: http://publications.europa.eu/resource/authority/treaty/CHAR_2007
+  valid_from: '2007-12-12'
+  valid_until: '2010-03-29'
+- country_code: CHAR_2010
+  deprecated: 'true'
+  key: CHAR_2010
+  label_en: Charter of Fundamental Rights of the European Union (2010)
+  label_it: "Carta dei diritti fondamentali dell\u2019Unione europea (2010)"
+  url: http://publications.europa.eu/resource/authority/treaty/CHAR_2010
+  valid_from: '2010-03-30'
+  valid_until: '2012-10-25'
+- country_code: CHAR_2012
+  deprecated: 'true'
+  key: CHAR_2012
+  label_en: Charter of Fundamental Rights of the European Union (2012)
+  label_it: "Carta dei diritti fondamentali dell\u2019Unione europea (2012)"
+  url: http://publications.europa.eu/resource/authority/treaty/CHAR_2012
+  valid_from: '2012-10-26'
+  valid_until: '2016-06-06'
+- country_code: CHAR_2016
+  deprecated: 'false'
+  key: CHAR_2016
+  label_en: Charter of Fundamental Rights of the European Union (2016)
+  label_it: "Carta dei diritti fondamentali dell\u2019Unione europea (versione consolidata\
+    \ 2016)"
+  url: http://publications.europa.eu/resource/authority/treaty/CHAR_2016
+  valid_from: '2016-06-07'
+- country_code: CONV_ANT_1962
+  deprecated: 'false'
+  key: CONV_ANT_1962
+  label_en: Convention on the Netherlands Antilles (1962)
+  label_it: Convenzione Antille olandesi (1962)
+  url: http://publications.europa.eu/resource/authority/treaty/CONV_ANT_1962
+  valid_from: '1962-11-13'
+- country_code: CONV_ANT_1962_PRO
+  deprecated: 'false'
+  key: CONV_ANT_1962_PRO
+  label_en: Protocol on the Netherlands Antilles (1962)
+  label_it: Protocollo Antille olandesi (1962)
+  url: http://publications.europa.eu/resource/authority/treaty/CONV_ANT_1962_PRO
+  valid_from: '1962-11-13'
+- country_code: CONV_INST_1957
+  deprecated: 'false'
+  key: CONV_INST_1957
+  label_en: Convention on Certain Institutions common to the European Communities
+    (1957)
+  label_it: "Convenzione relativa a alcune istituzioni comuni alle Comunit\xE0 europee\
+    \ (1957)"
+  url: http://publications.europa.eu/resource/authority/treaty/CONV_INST_1957
+  valid_from: '1957-03-25'
+- country_code: EEA
+  deprecated: 'false'
+  key: EEA
+  label_en: Agreement on the European Economic Area (1993)
+  label_it: Accordo sullo Spazio economico europeo (1993)
+  url: http://publications.europa.eu/resource/authority/treaty/EEA
+  valid_from: '1993-03-07'
+- country_code: ESM
+  deprecated: 'false'
+  key: ESM
+  label_en: Treaty establishing the European Stability Mechanism (2012)
+  label_it: "Trattato che istituisce il meccanismo europeo di stabilit\xE0 (2012)"
+  url: http://publications.europa.eu/resource/authority/treaty/ESM
+  valid_from: '2012-02-02'
+- country_code: EURATOM
+  deprecated: 'false'
+  key: EURATOM
+  label_en: Treaty establishing the European Atomic Energy Community (1957)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea dell\u2019energia atomica\
+    \ (1957)"
+  url: http://publications.europa.eu/resource/authority/treaty/EURATOM
+  valid_from: '1957-03-25'
+- country_code: EURATOM_1957
+  deprecated: 'true'
+  key: EURATOM_1957
+  label_en: Treaty establishing the European Atomic Energy Community (1957)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea dell\u2019energia atomica\
+    \ (1957)"
+  url: http://publications.europa.eu/resource/authority/treaty/EURATOM_1957
+  valid_from: '1957-03-24'
+  valid_until: '1957-03-25'
+- country_code: EURATOM_2010
+  deprecated: 'true'
+  key: EURATOM_2010
+  label_en: Treaty establishing the European Atomic Energy Community (consolidated
+    version 2010)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea dell\u2019energia atomica\
+    \ (versione consolidata 2010)"
+  url: http://publications.europa.eu/resource/authority/treaty/EURATOM_2010
+  valid_from: '2010-03-30'
+  valid_until: '2010-10-25'
+- country_code: EURATOM_2012
+  deprecated: 'true'
+  key: EURATOM_2012
+  label_en: Treaty establishing the European Atomic Energy Community (consolidated
+    version 2012)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea dell\u2019energia atomica\
+    \ (versione consolidata 2012)"
+  url: http://publications.europa.eu/resource/authority/treaty/EURATOM_2012
+  valid_from: '2012-10-26'
+  valid_until: '2016-06-06'
+- country_code: EURATOM_2016
+  deprecated: 'false'
+  key: EURATOM_2016
+  label_en: Treaty establishing the European Atomic Energy Community (consolidated
+    version 2016)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea dell\u2019energia atomica\
+    \ (versione consolidata 2016)"
+  url: http://publications.europa.eu/resource/authority/treaty/EURATOM_2016
+  valid_from: '2016-06-07'
+- country_code: FINAN_1975
+  deprecated: 'false'
+  key: FINAN_1975
+  label_en: Treaty amending Certain Financial Provisions (1975)
+  label_it: Trattato che modifica talune disposizioni in materia finanziaria (1975)
+  url: http://publications.europa.eu/resource/authority/treaty/FINAN_1975
+  valid_from: '1975-07-22'
+- country_code: FUSION
+  deprecated: 'false'
+  key: FUSION
+  label_en: Merger Treaty (1965)
+  label_it: Trattato di fusione (1965)
+  url: http://publications.europa.eu/resource/authority/treaty/FUSION
+  valid_from: '1965-04-08'
+- country_code: LIS
+  deprecated: 'false'
+  key: LIS
+  label_en: Treaty of Lisbon (2007)
+  label_it: Trattato di Lisbona (2007)
+  url: http://publications.europa.eu/resource/authority/treaty/LIS
+  valid_from: '2007-12-13'
+- country_code: LIS_2008
+  deprecated: 'false'
+  key: LIS_2008
+  label_en: Treaty of Lisbon (consolidated version 2008)
+  label_it: Trattato di Lisbona (versione consolidata 2008)
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_2008
+  valid_from: '2008-05-09'
+  valid_until: '2010-03-30'
+- country_code: LIS_2010
+  deprecated: 'false'
+  key: LIS_2010
+  label_en: Treaty of Lisbon (consolidated version 2010)
+  label_it: Trattato di Lisbona (versione consolidata 2010)
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_2010
+  valid_from: '2010-03-30'
+  valid_until: '2010-10-25'
+- country_code: LIS_2012
+  deprecated: 'false'
+  key: LIS_2012
+  label_en: Treaty of Lisbon (consolidated version 2012)
+  label_it: Trattato di Lisbona (versione consolidata 2012)
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_2012
+  valid_from: '2012-10-26'
+  valid_until: '2016-06-06'
+- country_code: LIS_2016
+  deprecated: 'false'
+  key: LIS_2016
+  label_en: Treaty of Lisbon (consolidated version 2016)
+  label_it: Trattato di Lisbona (versione consolidata 2016)
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_2016
+  valid_from: '2016-06-07'
+- country_code: LIS_CORR
+  deprecated: 'false'
+  key: LIS_CORR
+  label_en: "Corrigenda \u2014 Proc\xE8s-verbal of rectification to the Treaty of\
+    \ Lisbon (2007)"
+  label_it: "Rettifiche \u2014 Verbale di rettifica del trattato di Lisbona (2007)"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_CORR
+  valid_from: '2009-11-30'
+- country_code: LIS_PRO1
+  deprecated: 'false'
+  key: LIS_PRO1
+  label_en: Protocol (No 1) on the role of National Parliaments in the European Union
+  label_it: "Protocollo (N. 1) sul ruolo dei parlamenti nazionali nell\u2019Unione\
+    \ europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO1
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO10
+  deprecated: 'false'
+  key: LIS_PRO10
+  label_en: Protocol (No 10) on permanent structured cooperation established by Article
+    42 of the Treaty on European Union
+  label_it: "Protocollo (N. 10) sulla cooperazione strutturata permanente istituita\
+    \ dall\u2019articolo 42 del trattato sull\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO10
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO11
+  deprecated: 'false'
+  key: LIS_PRO11
+  label_en: Protocol (No 11) on Article 42 of the Treaty on European Union
+  label_it: "Protocollo (N. 11) sull\u2019articolo 42 del trattato sull\u2019Unione\
+    \ europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO11
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO12
+  deprecated: 'false'
+  key: LIS_PRO12
+  label_en: Protocol (No 12) on the excessive deficit procedure
+  label_it: Protocollo (N. 12) sulla procedura per i disavanzi eccessivi
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO12
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO13
+  deprecated: 'false'
+  key: LIS_PRO13
+  label_en: Protocol (No 13) on the convergence criteria
+  label_it: Protocollo (N. 13) sui criteri di convergenza
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO13
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO14
+  deprecated: 'false'
+  key: LIS_PRO14
+  label_en: Protocol (No 14) on the Euro Group
+  label_it: "Protocollo (N. 14) sull\u2019Eurogruppo"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO14
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO15
+  deprecated: 'false'
+  key: LIS_PRO15
+  label_en: Protocol (No 15) on certain provisions relating to the United Kingdom
+    of Great Britain and Northern Ireland
+  label_it: Protocollo (N. 15) su talune disposizioni relative al Regno Unito di Gran
+    Bretagna e Irlanda del Nord
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO15
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO16
+  deprecated: 'false'
+  key: LIS_PRO16
+  label_en: Protocol (No 16) on certain provisions relating to Denmark
+  label_it: Protocollo (N. 16) su talune disposizioni relative alla Danimarca
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO16
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO17
+  deprecated: 'false'
+  key: LIS_PRO17
+  label_en: Protocol (No 17) on Denmark
+  label_it: Protocollo (N. 17) sulla Danimarca
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO17
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO18
+  deprecated: 'false'
+  key: LIS_PRO18
+  label_en: Protocol (No 18) on France
+  label_it: Protocollo (N. 18) sulla Francia
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO18
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO19
+  deprecated: 'false'
+  key: LIS_PRO19
+  label_en: Protocol (No 19) on the Schengen acquis integrated into the framework
+    of the European Union
+  label_it: "Protocollo (N. 19) sull\u2019acquis di Schengen integrato nell\u2019\
+    ambito dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO19
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO2
+  deprecated: 'false'
+  key: LIS_PRO2
+  label_en: Protocol (No 2) on the application of the principles of subsidiarity and
+    proportionality
+  label_it: "Protocollo (N. 2) sull\u2019applicazione dei principi di sussidiariet\xE0\
+    \ e di proporzionalit\xE0"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO2
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO20
+  deprecated: 'false'
+  key: LIS_PRO20
+  label_en: Protocol (No 20) on the application of certain aspects of Article 26 of
+    the Treaty on the Functioning of the European Union to the United Kingdom and
+    to Ireland
+  label_it: "Protocollo (N. 20) sull\u2019applicazione di alcuni aspetti dell\u2019\
+    articolo 26 del trattato sul funzionamento dell\u2019Unione europea al Regno Unito\
+    \ e all\u2019Irlanda"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO20
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO21
+  deprecated: 'false'
+  key: LIS_PRO21
+  label_en: Protocol (No 21) on the position of the United Kingdom and Ireland in
+    respect of the area of freedom, security and justice
+  label_it: "Protocollo (N. 21) sulla posizione del Regno Unito e dell\u2019Irlanda\
+    \ rispetto allo spazio di libert\xE0, sicurezza e giustizia"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO21
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO22
+  deprecated: 'false'
+  key: LIS_PRO22
+  label_en: Protocol (No 22) on the position of Denmark
+  label_it: Protocollo (N. 22) sulla posizione della Danimarca
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO22
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO23
+  deprecated: 'false'
+  key: LIS_PRO23
+  label_en: Protocol (No 23) on external relations of the Member states with regard
+    to the crossing of external borders
+  label_it: Protocollo (N. 23) sulle relazioni esterne degli Stati membri in materia
+    di attraversamento delle frontiere esterne
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO23
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO24
+  deprecated: 'false'
+  key: LIS_PRO24
+  label_en: Protocol (No 24) on asylum for nationals of Member States of the European
+    Union
+  label_it: "Protocollo (N. 24) sull\u2019asilo per i cittadini degli Stati membri\
+    \ dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO24
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO25
+  deprecated: 'false'
+  key: LIS_PRO25
+  label_en: Protocol (No 25) on the exercise of shared competence
+  label_it: "Protocollo (N. 25) sull\u2019esercizio della competenza concorrente"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO25
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO26
+  deprecated: 'false'
+  key: LIS_PRO26
+  label_en: Protocol (No 26) on services of general interest
+  label_it: Protocollo (N. 26) sui servizi di interesse generale
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO26
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO27
+  deprecated: 'false'
+  key: LIS_PRO27
+  label_en: Protocol (No 27) on the internal market and competition
+  label_it: Protocollo (N. 27) sul mercato interno e sulla concorrenza
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO27
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO28
+  deprecated: 'false'
+  key: LIS_PRO28
+  label_en: Protocol (No 28) on economic, social and territorial cohesion
+  label_it: Protocollo (N. 28) sulla coesione economica, sociale e territoriale
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO28
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO29
+  deprecated: 'false'
+  key: LIS_PRO29
+  label_en: Protocol (No 29) on the system of public broadcasting in the Member States
+  label_it: Protocollo (N. 29) sul sistema di radiodiffusione pubblica negli Stati
+    membri
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO29
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO3
+  deprecated: 'false'
+  key: LIS_PRO3
+  label_en: Protocol (No 3) on the statute of the Court of Justice of the European
+    Union
+  label_it: "Protocollo (N. 3) sullo statuto della Corte di giustizia dell\u2019Unione\
+    \ europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO3
+  valid_from: '2001-02-26'
+- country_code: LIS_PRO30
+  deprecated: 'false'
+  key: LIS_PRO30
+  label_en: Protocol (No 30) on the application of the Charter of Fundamental Rights
+    of the European Union to Poland and to the United Kingdom
+  label_it: "Protocollo (N. 30) sull\u2019applicazione della Carta dei diritti fondamentali\
+    \ dell\u2019Unione europea alla Polonia e al Regno Unito"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO30
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO31
+  deprecated: 'false'
+  key: LIS_PRO31
+  label_en: Protocol (No 31) concerning imports into the European Union of petroleum
+    products refined in the Netherlands Antilles
+  label_it: "Protocollo (N. 31) sulle importazioni nell\u2019Unione europea di prodotti\
+    \ del petrolio raffinati nelle Antille olandesi"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO31
+  valid_from: '1962-11-13'
+- country_code: LIS_PRO32
+  deprecated: 'false'
+  key: LIS_PRO32
+  label_en: Protocol (No 32) on the acquisition of property in Denmark
+  label_it: "Protocollo (N. 32) sull\u2019acquisto di beni immobili in Danimarca"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO32
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO33
+  deprecated: 'false'
+  key: LIS_PRO33
+  label_en: Protocol (No 33) concerning Article 157 of the Treaty on the Functioning
+    of the European Union
+  label_it: "Protocollo (N. 33) sull\u2019articolo 157 del trattato sul funzionamento\
+    \ dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO33
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO34
+  deprecated: 'false'
+  key: LIS_PRO34
+  label_en: Protocol (No 34) on special arrangements for Greenland
+  label_it: Protocollo (N. 34) concernente il regime particolare applicabile alla
+    Groenlandia
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO34
+  valid_from: '1984-03-13'
+- country_code: LIS_PRO35
+  deprecated: 'false'
+  key: LIS_PRO35
+  label_en: Protocol (No 35) on Article 40.3.3 of the constitution of Ireland
+  label_it: "Protocollo (N. 35) sull\u2019articolo 40.3.3 della Costituzione irlandese"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO35
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO36
+  deprecated: 'false'
+  key: LIS_PRO36
+  label_en: Protocol (No 36) on transitional provisions
+  label_it: Protocollo (N. 36) sulle disposizioni transitorie
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO36
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO37
+  deprecated: 'false'
+  key: LIS_PRO37
+  label_en: Protocol (No 37) on the financial consequences of the expiry of the ECSC
+    Treaty and on the Research fund for Coal and Steel
+  label_it: Protocollo (N. 37) relativo alle conseguenze finanziarie della scadenza
+    del trattato CECA e al fondo di ricerca carbone e acciaio
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO37
+  valid_from: '2001-02-26'
+- country_code: LIS_PRO4
+  deprecated: 'false'
+  key: LIS_PRO4
+  label_en: Protocol (No 4) on the statute of the European System of Central Banks
+    and of the European Central Bank
+  label_it: Protocollo (N. 4) sullo statuto del sistema europeo di banche centrali
+    e della Banca centrale europea
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO4
+  valid_from: '1992-02-07'
+- country_code: LIS_PRO5
+  deprecated: 'false'
+  key: LIS_PRO5
+  label_en: Protocol (No 5) on the statute of the European Investment Bank
+  label_it: Protocollo (N. 5) sullo statuto della Banca europea per gli investimenti
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO5
+  valid_from: '1957-03-25'
+- country_code: LIS_PRO6
+  deprecated: 'false'
+  key: LIS_PRO6
+  label_en: Protocol (No 6) on the location of the seats of the institutions and of
+    certain bodies, offices, agencies and departments of the European Union
+  label_it: "Protocollo (N. 6) sulle sedi delle istituzioni e di determinati organi,\
+    \ organismi e servizi dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO6
+  valid_from: '1997-10-02'
+- country_code: LIS_PRO7
+  deprecated: 'false'
+  key: LIS_PRO7
+  label_en: Protocol (No 7) on the privileges and immunities of the European Union
+  label_it: "Protocollo (N. 7) sui privilegi e sulle immunit\xE0 dell\u2019Unione\
+    \ europea"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO7
+  valid_from: '1965-04-08'
+- country_code: LIS_PRO8
+  deprecated: 'false'
+  key: LIS_PRO8
+  label_en: Protocol (No 8) relating to article 6(2) of the Treaty on European Union
+    on the accession of the Union to the European Convention on the Protection of
+    Human Rights and Fundamental Freedoms
+  label_it: "Protocollo (N. 8) relativo all\u2019articolo 6, paragrafo 2 del trattato\
+    \ sull\u2019Unione europea sull\u2019adesione dell\u2019Unione alla Convenzione\
+    \ europea per la salvaguardia dei diritti dell\u2019uomo e delle libert\xE0 fondamentali"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO8
+  valid_from: '2007-12-13'
+- country_code: LIS_PRO9
+  deprecated: 'false'
+  key: LIS_PRO9
+  label_en: Protocol (No 9) on the decision of the Council relating to the implementation
+    of Article 16(4) of the Treaty on European Union and article 238(2) of the Treaty
+    on the Functioning of the European Union between 1 November 2014 and 31 March
+    2017 on the one hand, and as from 1 april 2017 on the other
+  label_it: "Protocollo (N. 9) sulla decisione del Consiglio relativa all\u2019attuazione\
+    \ degli articoli 16, paragrafo 4, del trattato sull\u2019Unione europea e 238,\
+    \ paragrafo 2 del trattato sul funzionamento dell\u2019Unione europea tra il 1o\
+    \ novembre 2014 e il 31 marzo 2017, da un lato, e dal 1o aprile 2017, dall\u2019\
+    altro"
+  url: http://publications.europa.eu/resource/authority/treaty/LIS_PRO9
+  valid_from: '2007-12-13'
+- country_code: NICE
+  deprecated: 'false'
+  key: NICE
+  label_en: Treaty of Nice (2001)
+  label_it: Trattato di Nizza (2001)
+  url: http://publications.europa.eu/resource/authority/treaty/NICE
+  valid_from: '2001-02-26'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/treaty/OP_DATPRO
+- country_code: PRO_ANT
+  deprecated: 'true'
+  key: PRO_ANT
+  label_en: Protocol on the Netherlands Antilles (1962)
+  label_it: Protocollo Antille olandesi (1962)
+  url: http://publications.europa.eu/resource/authority/treaty/PRO_ANT
+  valid_from: '1962-11-13'
+  valid_until: '1962-11-14'
+- country_code: PRO_STATUTE_EIB_1975
+  deprecated: 'false'
+  key: PRO_STATUTE_EIB_1975
+  label_en: Treaty amending Certain Provisions of the Protocol on the Statute of the
+    European Investment Bank (1975)
+  label_it: Trattato che modifica talune disposizioni del protocollo sullo statuto
+    della Banca europea per gli investimenti (1975)
+  url: http://publications.europa.eu/resource/authority/treaty/PRO_STATUTE_EIB_1975
+  valid_from: '1975-07-10'
+- country_code: PRO_STATUTE_EIB_1993
+  deprecated: 'false'
+  key: PRO_STATUTE_EIB_1993
+  label_en: Act amending the Protocol on the Statute of the European Investment Bank
+    empowering the Board of Governors to establish a European Investment Fund (1993)
+  label_it: "Atto che modifica il protocollo sullo statuto della Banca europea per\
+    \ gli investimenti per conferire al consiglio dei governatori il potere d\u2019\
+    istituire un Fondo europeo per gli investimenti (1993)"
+  url: http://publications.europa.eu/resource/authority/treaty/PRO_STATUTE_EIB_1993
+  valid_from: '1993-03-25'
+- country_code: ROME
+  deprecated: 'false'
+  key: ROME
+  label_en: Treaties of Rome (common parts)
+  label_it: Trattati di Roma (disposizioni comuni)
+  url: http://publications.europa.eu/resource/authority/treaty/ROME
+  valid_from: '1957-03-25'
+- country_code: SCHENGEN
+  deprecated: 'false'
+  key: SCHENGEN
+  label_en: Schengen Convention (1985)
+  label_it: Convenzione di Schengen (1985)
+  url: http://publications.europa.eu/resource/authority/treaty/SCHENGEN
+  valid_from: '1985-06-14'
+- country_code: SEA
+  deprecated: 'false'
+  key: SEA
+  label_en: Single European Act (1986)
+  label_it: Atto unico europeo (1986)
+  url: http://publications.europa.eu/resource/authority/treaty/SEA
+  valid_from: '1986-02-28'
+- country_code: TCONS_2004
+  deprecated: 'false'
+  key: TCONS_2004
+  label_en: Treaty establishing a Constitution for Europe (2004)
+  label_it: "Trattato che adotta una Costituzione per l\u2019Europa (2004)"
+  url: http://publications.europa.eu/resource/authority/treaty/TCONS_2004
+  valid_from: '2004-10-29'
+- country_code: TEC_1992
+  deprecated: 'true'
+  key: TEC_1992
+  label_en: Treaty establishing the European Community (consolidated version 1992)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea (versione consolidata\
+    \ 1992)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEC_1992
+  valid_from: '1992-02-07'
+  valid_until: '1999-04-30'
+- country_code: TEC_1997
+  deprecated: 'true'
+  key: TEC_1997
+  label_en: Treaty establishing the European Community (consolidated version 1997)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea (versione consolidata\
+    \ 1997)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEC_1997
+  valid_from: '1997-10-02'
+  valid_until: '2003-12-23'
+- country_code: TEC_2002
+  deprecated: 'true'
+  key: TEC_2002
+  label_en: Treaty establishing the European Community (consolidated version 2002)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea (versione consolidata\
+    \ 2002)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEC_2002
+  valid_from: '2002-12-24'
+  valid_until: '2006-12-28'
+- country_code: TEC_2006
+  deprecated: 'true'
+  key: TEC_2006
+  label_en: Treaty establishing the European Community (consolidated version 2006)
+  label_it: "Trattato che istituisce la Comunit\xE0 europea (versione consolidata\
+    \ 2006)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEC_2006
+  valid_from: '2006-12-29'
+  valid_until: '2008-05-08'
+- country_code: TEEC
+  deprecated: 'false'
+  key: TEEC
+  label_en: Treaty establishing the European Economic Community (1957)
+  label_it: "Trattato che istituisce la Comunit\xE0 economica europea (1957)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEEC
+  valid_from: '1957-03-25'
+- country_code: TEEC_1957
+  deprecated: 'true'
+  key: TEEC_1957
+  label_en: Treaty establishing the European Economic Community (1957)
+  label_it: "Trattato che istituisce la Comunit\xE0 economica europea (1957)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEEC_1957
+  valid_from: '1957-03-24'
+  valid_until: '1957-03-25'
+- country_code: TEU
+  deprecated: 'false'
+  key: TEU
+  label_en: Treaty on European Union (1992)
+  label_it: "Trattato sull\u2019Unione europea (1992)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU
+  valid_from: '1992-02-07'
+- country_code: TEU_1992
+  deprecated: 'true'
+  key: TEU_1992
+  label_en: Treaty on European Union (1992)
+  label_it: "Trattato sull\u2019Unione europea (1992)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_1992
+  valid_from: '1992-02-06'
+  valid_until: '1992-02-07'
+- country_code: TEU_1997
+  deprecated: 'true'
+  key: TEU_1997
+  label_en: Treaty on European Union (consolidated version 1997)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 1997)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_1997
+  valid_from: '1997-10-02'
+  valid_until: '2002-12-23'
+- country_code: TEU_2002
+  deprecated: 'true'
+  key: TEU_2002
+  label_en: Treaty on European Union (consolidated version 2002)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 2002)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_2002
+  valid_from: '2002-12-24'
+  valid_until: '2006-12-28'
+- country_code: TEU_2006
+  deprecated: 'true'
+  key: TEU_2006
+  label_en: Treaty on European Union (consolidated version 2006)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 2006)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_2006
+  valid_from: '2006-12-29'
+  valid_until: '2008-05-08'
+- country_code: TEU_2008
+  deprecated: 'true'
+  key: TEU_2008
+  label_en: Treaty on European Union (consolidated version 2008)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 2008)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_2008
+  valid_from: '2008-05-09'
+  valid_until: '2010-03-30'
+- country_code: TEU_2010
+  deprecated: 'true'
+  key: TEU_2010
+  label_en: Treaty on European Union (consolidated version 2010)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 2010)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_2010
+  valid_from: '2010-03-30'
+  valid_until: '2010-10-25'
+- country_code: TEU_2012
+  deprecated: 'true'
+  key: TEU_2012
+  label_en: Treaty on European Union (consolidated version 2012)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 2012)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_2012
+  valid_from: '2012-10-26'
+  valid_until: '2016-06-06'
+- country_code: TEU_2016
+  deprecated: 'false'
+  key: TEU_2016
+  label_en: Treaty on European Union (consolidated version 2016)
+  label_it: "Trattato sull\u2019Unione europea (versione consolidata 2016)"
+  url: http://publications.europa.eu/resource/authority/treaty/TEU_2016
+  valid_from: '2016-06-07'
+- country_code: TFEU_2008
+  deprecated: 'true'
+  key: TFEU_2008
+  label_en: Treaty on the Functioning of the European Union (consolidated version
+    2008)
+  label_it: "Trattato sul funzionamento dell\u2019Unione europea (versione consolidata\
+    \ 2008)"
+  url: http://publications.europa.eu/resource/authority/treaty/TFEU_2008
+  valid_from: '2008-05-09'
+  valid_until: '2010-03-30'
+- country_code: TFEU_2010
+  deprecated: 'true'
+  key: TFEU_2010
+  label_en: Treaty on the Functioning of the European Union (consolidated version
+    2010)
+  label_it: "Trattato sul funzionamento dell\u2019Unione europea (versione consolidata\
+    \ 2010)"
+  url: http://publications.europa.eu/resource/authority/treaty/TFEU_2010
+  valid_from: '2010-03-30'
+  valid_until: '2010-10-25'
+- country_code: TFEU_2012
+  deprecated: 'true'
+  key: TFEU_2012
+  label_en: Treaty on the Functioning of the European Union (consolidated version
+    2012)
+  label_it: "Trattato sul funzionamento dell\u2019Unione europea (versione consolidata\
+    \ 2012)"
+  url: http://publications.europa.eu/resource/authority/treaty/TFEU_2012
+  valid_from: '2012-10-26'
+  valid_until: '2016-06-06'
+- country_code: TFEU_2016
+  deprecated: 'false'
+  key: TFEU_2016
+  label_en: Treaty on the Functioning of the European Union (consolidated version
+    2016)
+  label_it: "Trattato sul funzionamento dell\u2019Unione europea (versione consolidata\
+    \ 2016)"
+  url: http://publications.europa.eu/resource/authority/treaty/TFEU_2016
+  valid_from: '2016-06-07'
+- country_code: TGREENL
+  deprecated: 'false'
+  key: TGREENL
+  label_en: Treaty of Greenland (1984)
+  label_it: Trattato Groenlandia (1984)
+  url: http://publications.europa.eu/resource/authority/treaty/TGREENL
+  valid_from: '1984-03-13'
+- country_code: TSCG
+  deprecated: 'false'
+  key: TSCG
+  label_en: Treaty on Stability, Coordination and Governance in the Economic and Monetary
+    Union (2012)
+  label_it: "Trattato sulla stabilit\xE0, sul coordinamento e sulla governance nell\u2019\
+    Unione economica e monetaria (2012)"
+  url: http://publications.europa.eu/resource/authority/treaty/TSCG
+  valid_from: '2012-02-02'
+- country_code: WITHD_AGREE_UK
+  deprecated: 'false'
+  key: WITHD_AGREE_UK
+  label_en: Agreement on the withdrawal of the United Kingdom of Great Britain and
+    Northern Ireland from the European Union and the European Atomic Energy Community
+  label_it: "Accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord\
+    \ dall\u2019Unione europea e dalla Comunit\xE0 europea dell\u2019energia atomica"
+  url: http://publications.europa.eu/resource/authority/treaty/WITHD_AGREE_UK
+  valid_from: '2019-11-12'

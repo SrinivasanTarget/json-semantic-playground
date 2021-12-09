@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/GUJARATI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>GUJARATI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>GUJARATI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb19"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb20"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>GUJARATI</atold:op-code>
+    <dc:identifier>GUJARATI</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Gujarati script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/GURMUKHI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>GURMUKHI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>GURMUKHI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb21"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb22"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>GURMUKHI</atold:op-code>
+    <dc:identifier>GURMUKHI</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Gurmukhi script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb17">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Grek</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb36">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>355</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb27">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>125</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/HEBREW">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>HEBREW</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>HEBREW</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb27"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb28"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>HEBREW</atold:op-code>
+    <dc:identifier>HEBREW</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Hebrew script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb41">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>347</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb11">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Deva</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb13">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>430</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb6">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>325</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/TIBETAN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TIBETAN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TIBETAN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb59"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb60"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>TIBETAN</atold:op-code>
+    <dc:identifier>TIBETAN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Tibetan script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb9">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>220</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/KHMER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>KHMER</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>KHMER</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb35"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb36"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>KHMER</atold:op-code>
+    <dc:identifier>KHMER</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Khmer script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/MALAYALAM">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>MALAYALAM</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>MALAYALAM</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb41"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb42"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>MALAYALAM</atold:op-code>
+    <dc:identifier>MALAYALAM</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Malayalam script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Armn</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/MYANMAR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>MYANMAR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>MYANMAR</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb45"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb46"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>MYANMAR</atold:op-code>
+    <dc:identifier>MYANMAR</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Myanmar script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/SINHALA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SINHALA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SINHALA</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb47"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb48"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>SINHALA</atold:op-code>
+    <dc:identifier>SINHALA</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Sinhala script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Script</rdfs:label>
+    <at:prefLabel xml:lang="en">Script</at:prefLabel>
+    <at:table.id>script</at:table.id>
+    <at:table.version.number>20200624-0</at:table.version.number>
+    <owl:versionInfo>20200624-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/ARABIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ARABIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ARABIC</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb1"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb2"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>ARABIC</atold:op-code>
+    <dc:identifier>ARABIC</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Arabic script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb7">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Brai</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb28">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Hebr</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb23">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>500</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/BENGALI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>BENGALI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>BENGALI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb5"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb6"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>BENGALI</atold:op-code>
+    <dc:identifier>BENGALI</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Bengali script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb10">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Cyrl</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/TAMIL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TAMIL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TAMIL</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb51"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb52"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>TAMIL</atold:op-code>
+    <dc:identifier>TAMIL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Tamil script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/ARMENIAN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ARMENIAN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ARMENIAN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb3"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb4"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>ARMENIAN</atold:op-code>
+    <dc:identifier>ARMENIAN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Armenian script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb29">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Hira</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb39">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Latn</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/LATIN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>LATIN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>LATIN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb39"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb40"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>LATIN</atold:op-code>
+    <dc:identifier>LATIN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Latin script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb55">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Thaa</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/GEORGIAN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>GEORGIAN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>GEORGIAN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb15"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb16"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>GEORGIAN</atold:op-code>
+    <dc:identifier>GEORGIAN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Georgian script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb56">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>170</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb16">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Geor</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb12">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>315</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/KATAKANA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>KATAKANA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>KATAKANA</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb33"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb34"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>KATAKANA</atold:op-code>
+    <dc:identifier>KATAKANA</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Katakana script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/BRAILLE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>BRAILLE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>BRAILLE</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb7"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb8"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>BRAILLE</atold:op-code>
+    <dc:identifier>BRAILLE</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Braille script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/KANNADA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>KANNADA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>KANNADA</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb31"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb32"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>KANNADA</atold:op-code>
+    <dc:identifier>KANNADA</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Kannada script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/TELUGU">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TELUGU</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TELUGU</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb53"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb54"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>TELUGU</atold:op-code>
+    <dc:identifier>TELUGU</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Telugu script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/MONGOLIAN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>MONGOLIAN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>MONGOLIAN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb43"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb44"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>MONGOLIAN</atold:op-code>
+    <dc:identifier>MONGOLIAN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Mongolian script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/HAN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>HAN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>HAN</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb23"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb24"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>HAN</atold:op-code>
+    <dc:identifier>HAN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Han script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb21">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Guru</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Arab</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb47">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>348</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb59">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Tibt</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb15">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>240</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/THAI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>THAI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>THAI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb57"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb58"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>THAI</atold:op-code>
+    <dc:identifier>THAI</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Thai script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb48">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Sinh</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb20">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>320</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/DEVANAGARI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DEVANAGARI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DEVANAGARI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb11"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb12"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>DEVANAGARI</atold:op-code>
+    <dc:identifier>DEVANAGARI</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Devanagari script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb42">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Mlym</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb33">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Kana</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb26">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>286</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb8">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>570</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/HIRAGANA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>HIRAGANA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>HIRAGANA</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb29"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb30"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>HIRAGANA</atold:op-code>
+    <dc:identifier>HIRAGANA</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Hiragana script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb38">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Laoo</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb44">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Mong</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb30">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>410</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb62">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>120</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb35">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Khmr</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb46">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Mymr</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/LAO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>LAO</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>LAO</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb37"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb38"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>LAO</atold:op-code>
+    <dc:identifier>LAO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Lao script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb5">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Beng</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/HANGUL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>HANGUL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>HANGUL</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb25"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb26"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>HANGUL</atold:op-code>
+    <dc:identifier>HANGUL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Hangul script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb53">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>340</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/TIFINAGH">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TIFINAGH</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TIFINAGH</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb61"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb62"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>TIFINAGH</atold:op-code>
+    <dc:identifier>TIFINAGH</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Tifinagh script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/TAGALOG">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TAGALOG</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TAGALOG</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb49"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb50"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>TAGALOG</atold:op-code>
+    <dc:identifier>TAGALOG</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Tagalog script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb37">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>356</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/GREEK">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>GREEK</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>GREEK</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb17"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb18"/>
+    <at:start.use>1981-01-01</at:start.use>
+    <atold:op-code>GREEK</atold:op-code>
+    <dc:identifier>GREEK</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Greek script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb54">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Telu</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/THAANA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>THAANA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>THAANA</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb55"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb56"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>THAANA</atold:op-code>
+    <dc:identifier>THAANA</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Thaana script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb45">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>350</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/ETHIOPIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ETHIOPIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ETHIOPIC</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb13"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb14"/>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>ETHIOPIC</atold:op-code>
+    <dc:identifier>ETHIOPIC</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Ethiopic script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb51">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>346</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb34">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>411</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb18">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>200</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb40">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>215</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb43">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>145</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb52">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Taml</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb61">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Tfng</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb14">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Ethi</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb22">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>310</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/script/CYRILLIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CYRILLIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CYRILLIC</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb9"/>
+    <at:op-mapped-code rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb10"/>
+    <at:start.use>2007-01-01</at:start.use>
+    <atold:op-code>CYRILLIC</atold:op-code>
+    <dc:identifier>CYRILLIC</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/script"/>
+    <skos:prefLabel xml:lang="en">Cyrillic script</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb25">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Hang</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb32">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Knda</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb50">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Tglg</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb60">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>330</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb4">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>230</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb19">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Gujr</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>160</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb24">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Hani</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb31">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>345</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb57">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>352</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb58">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>Thai</at:legacy-code>
+    <dc:source>iso-15924-alpha-4</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n4ffdd17be025475da97cc916de6765ddb49">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>370</at:legacy-code>
+    <dc:source>iso-15924-num</dc:source>
+  </rdf:Description>
+</rdf:RDF>

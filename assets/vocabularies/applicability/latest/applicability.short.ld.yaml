@@ -1,0 +1,48 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/applicability/OP_DATPRO
+- country_code: 'no'
+  deprecated: 'false'
+  key: 'no'
+  label_en: 'No'
+  label_it: 'No'
+  url: http://publications.europa.eu/resource/authority/applicability/no
+  valid_from: '2019-09-18'
+- country_code: not-known
+  deprecated: 'false'
+  key: not-known
+  label_en: Not yet known
+  label_it: Non ancora noto
+  url: http://publications.europa.eu/resource/authority/applicability/not-known
+  valid_from: '2019-09-18'
+- country_code: 'yes'
+  deprecated: 'false'
+  key: 'yes'
+  label_en: 'Yes'
+  label_it: "S\xEC"
+  url: http://publications.europa.eu/resource/authority/applicability/yes
+  valid_from: '2019-09-18'

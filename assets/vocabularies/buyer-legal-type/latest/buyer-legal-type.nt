@@ -1,0 +1,711 @@
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istituzzjoni/A\u0121enzija Ewropea jew Organizzazzjoni Internazzjonali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central government authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publiekrechtelijke instelling onder zeggenschap van een regionale overheid"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Awtorit\u00E0 tal-gvern \u010Bentrali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija, skirianti sutart\u012F, subsidijuojam\u0105 vietos vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overheidsonderneming onder zeggenschap van een centrale overheidsinstantie"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kansainv\u00E4linen j\u00E4rjest\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohaliku omavalitsuse kontrollitav riigi osalusega \u00E4ri\u00FChing"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u0101cija, kas pie\u0161\u0137ir centr\u0101l\u0101s p\u0101rvaldes iest\u0101des subsid\u0113tu l\u012Bgumu"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridade da administra\u00E7\u00E3o central"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizaci\u00F3n que concede un contrato subvencionado por un poder adjudicador"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subjekt s osobitn\u00FDmi alebo v\u00FDlu\u010Dn\u00FDmi pr\u00E1vami"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Body governed by public law, controlled by a local authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impri\u017Ca pubblika, ikkontrollata minn awtorit\u00E0 lokali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eri- v\u00F5i ainu\u00F5igustega \u00FCksus"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://publications.europa.eu/ontology/authority/authority-code> "eu-ins-bod-ag" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Re\u0123ion\u0101la vai viet\u0113ja iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u044F, \u043E\u0440\u0433\u0430\u043D \u0438\u043B\u0438 \u0430\u0433\u0435\u043D\u0446\u0438\u044F \u043D\u0430 \u0415\u0421"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://purl.org/dc/elements/1.1/identifier> "org-sub-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional- oder Kommunalbeh\u00F6rde"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Von einer zentralen Regierungsbeh\u00F6rde kontrollierte Einrichtung des \u00F6ffentlichen Rechts"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejn\u00FD podnik ovl\u00E1dan\u00FD m\u00EDstn\u00EDm org\u00E1nem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://purl.org/dc/elements/1.1/identifier> "def-cont" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation internationale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://publications.europa.eu/ontology/authority/op-code> "spec-rights-entity" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://publications.europa.eu/resource/authority/op-code> "eu-int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u044F\u0442\u043E \u0432\u044A\u0437\u043B\u0430\u0433\u0430 \u043F\u043E\u0440\u044A\u0447\u043A\u0430, \u0441\u0443\u0431\u0441\u0438\u0434\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u043E\u0440\u0433\u0430\u043D \u043D\u0430 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u043D\u0430\u0442\u0430 \u0432\u043B\u0430\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional eller lokal myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0430\u043D\u043E \u043E\u0442 \u043C\u0435\u0441\u0442\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://publications.europa.eu/ontology/authority/authority-code> "pub-undert-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vie\u0161osios teis\u0117s reglamentuojama \u012Fstaiga, kontroliuojama regionin\u0117s vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno poduze\u0107e koje nadzire regionalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU-institution, organ eller byr\u00E5"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationale Organisation"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisko ties\u012Bbu subjekts"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0418\u0437\u043F\u044A\u043B\u043D\u0438\u0442\u0435\u043B \u043E\u0442 \u043E\u0431\u043B\u0430\u0441\u0442\u0442\u0430 \u043D\u0430 \u043E\u0442\u0431\u0440\u0430\u043D\u0430\u0442\u0430"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionalno ili lokalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contractant din domeniul ap\u0103r\u0103rii"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU-Institution, -Einrichtung oder -Agentur"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU:n toimielin, elin tai virasto"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligr\u00E4ttsligt organ som kontrolleras av en lokal myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejnopr\u00E1vna in\u0161tit\u00FAcia pod kontrolou org\u00E1nu \u00FAstrednej \u0161t\u00E1tnej spr\u00E1vy"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizaci\u00F3n que concede un contrato subvencionado por una autoridad estatal"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAdar\u00E1s de chuid an rialtais l\u00E1ir"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piirkondliku omavalitsuse kontrollitav avalik-\u00F5iguslik isik"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entity with special or exclusive rights"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://publications.europa.eu/ontology/authority/op-code> "pub-undert-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://publications.europa.eu/ontology/authority/authority-code> "body-pl-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korp irregolat bil-li\u0121i pubblika, ikkontrollat minn awtorit\u00E0 lokali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridad regional o local"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritate local\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://publications.europa.eu/ontology/authority/authority-code> "body-pl" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisme de droit public, contr\u00F4l\u00E9 par une autorit\u00E9 locale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paikallisviranomainen"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation awarding a contract subsidised by a contracting authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alueviranomaisen subventoiman sopimuksen tekev\u00E4 organisaatio"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instytucja administracji centralnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://purl.org/dc/elements/1.1/identifier> "body-pl-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E0 governativa centrale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkinen yritys"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europska institucija/agencija ili me\u0111unarodna organizacija"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://publications.europa.eu/ontology/authority/authority-code> "org-sub-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://purl.org/dc/elements/1.1/identifier> "eu-ins-bod-ag" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entitate cu drepturi speciale sau exclusive"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, die einen durch eine regionale Gebietsk\u00F6rperschaft subventionierten Auftrag vergibt"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://publications.europa.eu/resource/authority/op-code> "org-sub-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keskvalitsusasutuse kontrollitav avalik-\u00F5iguslik isik"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europ\u00E6isk institution/agentur eller international organisation"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, der tildeler en kontrakt, som modtager subsidier fra central regeringsmyndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija, skirianti sutart\u012F, subsidijuojam\u0105 centrin\u0117s vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejn\u00FD podnik pod kontrolou miestneho org\u00E1nu"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijelo koje se ure\u0111uje javnim pravom"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avalik-\u00F5iguslik isik"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://publications.europa.eu/ontology/authority/authority-code> "org-sub" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buyer legal type"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impresa pubblica controllata da un'autorit\u00E0 regionale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://publications.europa.eu/ontology/authority/op-code> "body-pl-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://publications.europa.eu/ontology/authority/authority-code> "la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Helyi hat\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europos institucija arba agent\u016Bra ar tarptautin\u0117 organizacija"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ugovaratelj u podru\u010Dju obrane"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejn\u00FD podnik pod kontrolou org\u00E1nu \u00FAstrednej \u0161t\u00E1tnej spr\u00E1vy"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subjekt s posebnimi ali izklju\u010Dnimi pravicami"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://purl.org/dc/elements/1.1/identifier> "pub-undert-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisko ties\u012Bbu subjekts, ko kontrol\u0113 re\u0123ion\u0101l\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://publications.europa.eu/ontology/authority/op-code> "pub-undert" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piirkondliku omavalitsuse kontrollitav riigi osalusega \u00E4ri\u00FChing"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisme de droit public, contr\u00F4l\u00E9 par une autorit\u00E9 publique centrale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://publications.europa.eu/ontology/authority/op-code> "cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://publications.europa.eu/ontology/authority/op-code> "rl-aut" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://publications.europa.eu/resource/authority/op-code> "spec-rights-entity" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationell organisation"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B7\u00B5\u03CC\u03C3\u03B9\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo di diritto pubblico controllato da un'autorit\u00E0 regionale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podmiot, kt\u00F3remu przys\u0142uguj\u0105 prawa specjalne lub wy\u0142\u0105czne"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrin\u0117s vald\u017Eios institucija"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation som tilldelar ett kontrakt som subventioneras av en statlig myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zjogi int\u00E9zm\u00E9ny"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "In\u0161tit\u00FAcia, org\u00E1n alebo agent\u00FAra E\u00DA"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisks uz\u0146\u0113mums, ko kontrol\u0113 centr\u0101l\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAdar\u00E1s r\u00E9igi\u00FAnach n\u00F3 \u00E1iti\u00FAil"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijelo koje se ure\u0111uje javnim pravom, koje nadzire regionalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impri\u017Ca pubblika, ikkontrollata minn awtorit\u00E0 re\u0121jonali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zadavatel, zhotovitel, dodavatel nebo poskytovatel slu\u017Eeb v oblasti obrany"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://purl.org/dc/elements/1.1/identifier> "body-pl" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Puolustusalan toimeksisaaja"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation som tilldelar ett kontrakt som subventioneras av en lokal myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lis szerv \u00E1ltal ellen\u0151rz\u00F6tt k\u00F6zjogi int\u00E9zm\u00E9ny"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instituce, org\u00E1n nebo agentura EU"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://publications.europa.eu/resource/authority/op-code> "pub-undert" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00CEntreprindere de stat"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://publications.europa.eu/ontology/authority/op-code> "body-pl-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centrale overheidsinstantie"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://purl.org/dc/elements/1.1/identifier> "org-sub-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aizsardz\u012Bbas darbuz\u0146\u0113m\u0113js"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacja udzielaj\u0105ca zam\u00F3wienia dotowanego przez instytucj\u0119 administracji centralnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAst\u0159edn\u00ED org\u00E1n st\u00E1tn\u00ED spr\u00E1vy"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokale overheid"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica bajo el control de una autoridad regional"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno poduze\u0107e koje nadzire lokalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://publications.europa.eu/resource/authority/op-code> "rl-aut" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, die einen durch eine zentrale Regierungsbeh\u00F6rde subventionierten Auftrag vergibt"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istituzione, organo o agenzia dell\u2019UE"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subjekt s posebnim ili isklju\u010Divim pravima"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lny alebo miestny org\u00E1n"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://purl.org/dc/elements/1.1/identifier> "la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkisoikeudellinen yhteis\u00F6, joka on alueviranomaisen m\u00E4\u00E4r\u00E4ysvallassa"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E\u043F\u0440\u0430\u0432\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u043C\u0435\u0441\u0442\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u021Bie care atribuie un contract subven\u021Bionat de o autoritate guvernamental\u0103 central\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno podjetje, ki ga obvladuje osrednji dr\u017Eavni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u00E7\u00E3o que adjudica um contrato subvencionado por uma autoridade da administra\u00E7\u00E3o central"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subjekts ar \u012Bpa\u0161\u0101m vai ekskluz\u012Bv\u0101m ties\u012Bb\u0101m"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "ES institucija, \u012Fstaiga ar agent\u016Bra"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keskvalitsusasutus"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://publications.europa.eu/ontology/authority/op-code> "pub-undert-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zponti korm\u00E1nyzati szerv \u00E1ltal ellen\u0151rz\u00F6tt k\u00F6zv\u00E1llalkoz\u00E1s"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridade regional"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, der tildeler en kontrakt, som modtager subsidier fra lokal regeringsmyndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comhlacht dl\u00ED phoibl\u00ED at\u00E1 faoi rial\u00FA \u00FAdar\u00E1is de chuid an rialtais l\u00E1ir"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aj\u00E1nlatk\u00E9r\u0151 szerv \u00E1ltal t\u00E1mogatott szerz\u0151d\u00E9st oda\u00EDt\u00E9l\u0151 szervezet"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institu\u0163ie/agen\u0163ie european\u0103 sau organiza\u0163ie interna\u0163ional\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hankintaviranomaisen subventoiman sopimuksen tekev\u00E4 organisaatio"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://publications.europa.eu/ontology/authority/end.use> "2019-09-17" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Von einer lokalen Gebietsk\u00F6rperschaft kontrollierte Einrichtung des \u00F6ffentlichen Rechts"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00F3thas poibl\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europ\u00E4ische Institution/Agentur oder internationale Organisation"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligt f\u00F6retag som kontrolleras av en statlig myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zponti korm\u00E1nyzati szerv \u00E1ltal ellen\u0151rz\u00F6tt k\u00F6zjogi int\u00E9zm\u00E9ny"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://publications.europa.eu/resource/authority/op-code> "body-pl-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u00E7\u00E3o que adjudica um contrato subvencionado por uma autoridade local"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medzin\u00E1rodn\u00E1 organiz\u00E1cia"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://publications.europa.eu/ontology/authority/op-code> "org-sub" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vie\u0161osios teis\u0117s reglamentuojama \u012Fstaiga, kontroliuojama vietos vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organism de drept public, controlat de o autoritate guvernamental\u0103 central\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00CEntreprindere de stat, controlat\u0103 de o autoritate regional\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligt f\u00F6retag som kontrolleras av en regional myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entidade com direitos especiais ou exclusivos"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentlig virksomhed, der styres af en regional myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vietos vald\u017Eios institucija"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instytucja/agencja europejska lub organizacja mi\u0119dzynarodowa"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizace zad\u00E1vaj\u00EDc\u00ED zak\u00E1zku dotovanou m\u00EDstn\u00EDm org\u00E1nem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation som tilldelar ett kontrakt som subventioneras av en upphandlande myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Europese instelling/Europees agentschap of internationale organisatie"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija koja dodjeljuje ugovor koji subvencionira lokalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valstybin\u0117 \u012Fmon\u0117, kontroliuojama vietos vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instytucja, organ lub agencja UE"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija koja dodjeljuje ugovor koji subvencionira sredi\u0161nje tijelo dr\u017Eavne uprave"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU-instelling, -orgaan of -agentschapp"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacijo, ki oddaja naro\u010Dilo, subvencionira javni naro\u010Dnik"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://publications.europa.eu/ontology/authority/authority-code> "org-sub-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://publications.europa.eu/resource/authority/op-code> "pub-undert-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E\u043F\u0440\u0430\u0432\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E9 r\u00E9gionale ou locale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entreprise publique, contr\u00F4l\u00E9e par une autorit\u00E9 r\u00E9gionale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://purl.org/dc/elements/1.1/identifier> "org-sub-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evropska institucija/agencija ali mednarodna organizacija"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oseba javnega prava, ki jo obvladuje osrednji dr\u017Eavni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "ELi institutsioon, organ v\u00F5i amet"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejnopr\u00E1vn\u00ED subjekt ovl\u00E1dan\u00FD region\u00E1ln\u00EDm org\u00E1nem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://publications.europa.eu/resource/authority/op-code> "org-sub" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00F3thas poibl\u00ED at\u00E1 faoi rial\u00FA \u00FAdar\u00E1is r\u00E9igi\u00FAnaigh"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritate regional\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation qui passe un march\u00E9 subventionn\u00E9 par une autorit\u00E9 locale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entiteit met bijzondere of uitsluitende rechten"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publiekrechtelijke instelling onder zeggenschap van een lokale overheid"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo di diritto pubblico controllato da un'autorit\u00E0 governativa centrale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u0101cija, kas pie\u0161\u0137ir re\u0123ion\u0101las iest\u0101des subsid\u0113tu l\u012Bgumu"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Von einer lokalen Gebietsk\u00F6rperschaft kontrolliertes \u00F6ffentliches Unternehmen"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejn\u00FD podnik ovl\u00E1dan\u00FD region\u00E1ln\u00EDm org\u00E1nem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Buyer legal type"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keskushallinnon viranomainen"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E9 r\u00E9gionale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contractant du secteur de la d\u00E9fense"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viet\u0113j\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://publications.europa.eu/ontology/authority/op-code> "body-pl-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno podjetje, ki ga obvladuje lokalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisko ties\u012Bbu subjekts, ko kontrol\u0113 centr\u0101l\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impresa pubblica controllata da un'autorit\u00E0 locale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://publications.europa.eu/resource/authority/op-code> "cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B7\u03BC\u03CC\u03C3\u03B9\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03AF \u03C5\u03C0\u03CC \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03C0\u03B5\u03C1\u03B9\u03C6\u03B5\u03C1\u03B5\u03B9\u03B1\u03BA\u03AE\u03C2 \u03B1\u03C1\u03C7\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u00E1cia, ktor\u00E1 zad\u00E1va z\u00E1kazku subvencovan\u00FA org\u00E1nom \u00FAstrednej \u0161t\u00E1tnej spr\u00E1vy"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u0101cija, kas pie\u0161\u0137ir viet\u0113jas iest\u0101des subsid\u0113tu l\u012Bgumu"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0420\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041C\u0435\u0441\u0442\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przedsi\u0119biorstwo publiczne kontrolowane przez instytucj\u0119 administracji centralnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0398\u03B5\u03C3\u03BC\u03B9\u03BA\u03CC \u03CC\u03C1\u03B3\u03B1\u03BD\u03BF, \u03CC\u03C1\u03B3\u03B1\u03BD\u03BF \u03AE \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C4\u03B7\u03C2 \u0395\u0395"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizace zad\u00E1vaj\u00EDc\u00ED zak\u00E1zku dotovanou \u00FAst\u0159edn\u00EDm org\u00E1nem st\u00E1tn\u00ED spr\u00E1vy"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-16" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Starptautiska organiz\u0101cija"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1ln\u00ED \u010Di m\u00EDstn\u00ED org\u00E1n"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacja udzielaj\u0105ca zam\u00F3wienia dotowanego przez instytucj\u0119 administracji regionalnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkinen yritys, joka on keskushallinnon viranomaisen m\u00E4\u00E4r\u00E4ysvallassa"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uppdragstagare p\u00E5 f\u00F6rsvarsomr\u00E5det"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entreprise publique, contr\u00F4l\u00E9e par une autorit\u00E9 locale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligretligt organ"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B4\u03B7\u03BC\u03BF\u03C3\u03AF\u03BF\u03C5 \u03B4\u03B9\u03BA\u03B1\u03AF\u03BF\u03C5 \u03C0\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03AF \u03C5\u03C0\u03CC \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03C0\u03B5\u03C1\u03B9\u03C6\u03B5\u03C1\u03B5\u03B9\u03B1\u03BA\u03AE\u03C2 \u03B1\u03C1\u03C7\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03BD\u03AC\u03B4\u03BF\u03C7\u03BF\u03C2 \u03C3\u03C4\u03BF\u03BD \u03C4\u03BF\u03BC\u03AD\u03B1 \u03C4\u03B7\u03C2 \u03AC\u03BC\u03C5\u03BD\u03B1\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institu\u021Bie, organ sau agen\u021Bie a UE"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejn\u00FD podnik pod kontrolou region\u00E1lneho org\u00E1nu"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazione che aggiudica un appalto sovvenzionato da un'autorit\u00E0 locale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eur\u00F3pai int\u00E9zm\u00E9ny/\u00FCgyn\u00F6ks\u00E9g vagy nemzetk\u00F6zi szervezet"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU-institution/organ eller internationell organisation"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation som tilldelar ett kontrakt som subventioneras av en regional myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0430\u043D\u043E \u043E\u0442 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, die einen durch einen \u00F6ffentlichen Auftraggeber subventionierten Auftrag vergibt"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valstybin\u0117 \u012Fmon\u0117"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overheidsonderneming"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizace zad\u00E1vaj\u00EDc\u00ED zak\u00E1zku dotovanou region\u00E1ln\u00EDm org\u00E1nem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organism de drept public"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisks uz\u0146\u0113mums, ko kontrol\u0113 re\u0123ion\u0101l\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istituzione/agenzia europea o organizzazione internazionale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://www.w3.org/2002/07/owl#versionInfo> "20201216-0" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://publications.europa.eu/ontology/authority/op-code> "org-sub-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "International organisation"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkisoikeudellinen yhteis\u00F6"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://publications.europa.eu/ontology/authority/op-code> "def-cont" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Defence contractor"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation qui passe un march\u00E9 subventionn\u00E9 par une autorit\u00E9 r\u00E9gionale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comhlacht dl\u00ED phoibl\u00ED at\u00E1 faoi rial\u00FA \u00FAdar\u00E1is r\u00E9igi\u00FAnaigh"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osrednji dr\u017Eavni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation awarding a contract subsidised by a central government authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Auftragnehmer im Bereich Verteidigung"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u00E1cia, ktor\u00E1 zad\u00E1va z\u00E1kazku subvencovan\u00FA miestnym org\u00E1nom"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligr\u00E4ttsligt organ som kontrolleras av en statlig myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionale overheid"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritate regional\u0103 sau local\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institucija, tijelo ili agencija EU-a"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zponti korm\u00E1nyzati szerv \u00E1ltal t\u00E1mogatott szerz\u0151d\u00E9st oda\u00EDt\u00E9l\u0151 szervezet"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riigi osalusega \u00E4ri\u00FChing"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ente dotato di diritti speciali o esclusivi"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publiekrechtelijke instelling onder zeggenschap van een centrale overheidsinstantie"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://publications.europa.eu/ontology/authority/authority-code> "pub-undert-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hankija subsideeritavat lepingut s\u00F5lmiv organisatsioon"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de direito p\u00FAblico, controlado por uma autoridade local"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisatie die een door een lokale overheid gesubsidieerde opdracht gunt"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazione che aggiudica un appalto sovvenzionato da un'autorit\u00E0 regionale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica, controlada por uma autoridade local"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://purl.org/dc/elements/1.1/identifier> "pub-undert-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkinen yritys, joka on paikallisviranomaisen m\u00E4\u00E4r\u00E4ysvallassa"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piirkondlik omavalitsus"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przedsi\u0119biorstwo publiczne kontrolowane przez instytucj\u0119 lokaln\u0105"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public undertaking"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Awtorit\u00E0 re\u0121jonali jew lokali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://publications.europa.eu/resource/authority/op-code> "def-cont" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podmiot prawa publicznego kontrolowany przez instytucj\u0119 regionaln\u0105"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mednarodna organizacija"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU:n toimielin/virasto tai kansainv\u00E4linen organisaatio"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istituzzjoni, korp jew a\u0121enzija tal-UE"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dod\u00E1vate\u013E v oblasti obrany"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u044F\u0442\u043E \u0432\u044A\u0437\u043B\u0430\u0433\u0430 \u043F\u043E\u0440\u044A\u0447\u043A\u0430, \u0441\u0443\u0431\u0441\u0438\u0434\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u0432\u044A\u0437\u043B\u0430\u0433\u0430\u0449 \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica, controlada por uma autoridade da administra\u00E7\u00E3o central"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional or local authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU-institution, organ eller agentur"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, der tildeler en kontrakt, som modtager subsidier fra en ordregivende myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impresa pubblica controllata da un'autorit\u00E0 governativa centrale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionale Gebietsk\u00F6rperschaft"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Re\u0123ion\u0101la iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazione che aggiudica un appalto sovvenzionato da un'amministrazione aggiudicatrice"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Helyi szerv \u00E1ltal ellen\u0151rz\u00F6tt k\u00F6zv\u00E1llalkoz\u00E1s"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entreprise publique, contr\u00F4l\u00E9e par une autorit\u00E9 publique centrale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lis szerv \u00E1ltal ellen\u0151rz\u00F6tt k\u00F6zv\u00E1llalkoz\u00E1s"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno podjetje, ki ga obvladuje regionalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionalni ali lokalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przedsi\u0119biorstwo publiczne kontrolowane przez instytucj\u0119 regionaln\u0105"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://publications.europa.eu/ontology/authority/authority-code> "int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B7\u03BC\u03CC\u03C3\u03B9\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03AF \u03C5\u03C0\u03CC \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03B1\u03C1\u03C7\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03BA\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE\u03C2 \u03BA\u03C5\u03B2\u03AD\u03C1\u03BD\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organ w\u0142adzy regionalnej lub lokalnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00F3thas poibl\u00ED at\u00E1 faoi rial\u00FA \u00FAdar\u00E1is st\u00E1it"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, der tildeler en kontrakt, som modtager subsidier fra regional regeringsmyndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://publications.europa.eu/resource/authority/op-code> "body-pl-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organism de drept public, controlat de o autoritate local\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://purl.org/dc/elements/1.1/identifier> "int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institucija, organ ali agencija EU"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institi\u00FAid/Gn\u00EDomhaireacht Eorpach n\u00F3 Eagra\u00EDocht Idirn\u00E1isi\u00FAnta"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejnopr\u00E1vn\u00ED subjekt"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://publications.europa.eu/ontology/authority/authority-code> "eu-int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionale of plaatselijke instantie"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instytucja lokalna"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public undertaking, controlled by a regional authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entreprise publique"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation qui passe un march\u00E9 subventionn\u00E9 par une autorit\u00E9 publique centrale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contractant op defensiegebied"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u00E7\u00E3o que adjudica um contrato subvencionado por uma autoridade regional"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://publications.europa.eu/ontology/authority/op-code> "eu-ins-bod-ag" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligt f\u00F6retag som kontrolleras av en lokal myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E\u043F\u0440\u0430\u0432\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u043E\u0440\u0433\u0430\u043D \u043D\u0430 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u043D\u0430\u0442\u0430 \u0432\u043B\u0430\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00D6ffentliches Unternehmen"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritate guvernamental\u0103 central\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eur\u00F3pska in\u0161tit\u00FAcia/agent\u00FAra alebo medzin\u00E1rodn\u00E1 organiz\u00E1cia"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://purl.org/dc/elements/1.1/identifier> "eu-int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacja udzielaj\u0105ca zam\u00F3wienia dotowanego przez instytucj\u0119 administracji lokalnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazzjoni li tag\u0127ti kuntratt issussidjat minn awtorit\u00E0 lokali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija koja dodjeljuje ugovor koji subvencionira regionalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridades regionais ou locais"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organism de drept public, controlat de o autoritate regional\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instituci\u00F3n, \u00F3rgano o agencia de la UE"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://publications.europa.eu/ontology/authority/authority-code> "ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00CEntreprindere de stat, controlat\u0103 de o autoritate local\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nemzetk\u00F6zi szervezet"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podmiot prawa publicznego"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BD\u03B1\u03B8\u03AD\u03C4\u03B5\u03B9 \u03C3\u03CD\u03BC\u03B2\u03B1\u03C3\u03B7 \u03B5\u03C0\u03B9\u03B4\u03BF\u03C4\u03BF\u03CD\u03BC\u03B5\u03BD\u03B7 \u03B1\u03C0\u03CC \u03C4\u03BF\u03C0\u03B9\u03BA\u03AE \u03B1\u03C1\u03C7\u03AE"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://publications.europa.eu/ontology/authority/op-code> "org-sub-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de direito p\u00FAblico, controlado por uma autoridade da administra\u00E7\u00E3o central"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation, die einen durch eine lokale Gebietsk\u00F6rperschaft subventionierten Auftrag vergibt"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alue- tai paikallistason viranomainen"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vie\u0161osios teis\u0117s reglamentuojama \u012Fstaiga"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BD\u03B1\u03B8\u03AD\u03C4\u03B5\u03B9 \u03C3\u03CD\u03BC\u03B2\u03B1\u03C3\u03B7 \u03B5\u03C0\u03B9\u03B4\u03BF\u03C4\u03BF\u03CD\u03BC\u03B5\u03BD\u03B7 \u03B1\u03C0\u03CC \u03B1\u03C1\u03C7\u03AE \u03C4\u03B7\u03C2 \u03BA\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE\u03C2 \u03BA\u03C5\u03B2\u03AD\u03C1\u03BD\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enhet med s\u00E4rskilda eller exklusiva r\u00E4ttigheter"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizace zad\u00E1vaj\u00EDc\u00ED zak\u00E1zku dotovanou ve\u0159ejn\u00FDm zadavatelem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokal myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E9 locale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public undertaking, controlled by a central government authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://publications.europa.eu/resource/authority/op-code> "eu-ins-bod-ag" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisks uz\u0146\u0113mums, ko kontrol\u0113 viet\u0113j\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u00E1cia, ktor\u00E1 zad\u00E1va z\u00E1kazku subvencovan\u00FA verejn\u00FDm obstar\u00E1vate\u013Eom"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eagra\u00EDocht at\u00E1 ag d\u00E1mhachtain conradh at\u00E1 f\u00F3irdheonaithe ag \u00FAdar\u00E1s \u00E1iti\u00FAil"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacijo, ki oddaja naro\u010Dilo, subvencionira regionalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0415\u0432\u0440\u043E\u043F\u0435\u0439\u0441\u043A\u0430 \u0438\u043D\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u044F/\u0430\u0433\u0435\u043D\u0446\u0438\u044F \u0438\u043B\u0438 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eagra\u00EDocht at\u00E1 ag d\u00E1mhachtain conradh at\u00E1 f\u00F3irdheonaithe ag \u00FAdar\u00E1s st\u00E1it"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazione internazionale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00CEntreprindere de stat, controlat\u0103 de o autoritate guvernamental\u0103 central\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkisoikeudellinen yhteis\u00F6, joka on keskushallinnon viranomaisen m\u00E4\u00E4r\u00E4ysvallassa"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03C1\u03C7\u03AE \u03BA\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE\u03C2 \u03BA\u03C5\u03B2\u03AD\u03C1\u03BD\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Von einer regionalen Gebietsk\u00F6rperschaft kontrollierte Einrichtung des \u00F6ffentlichen Rechts"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izvajalec na podro\u010Dju obrambe"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://publications.europa.eu/ontology/authority/op-code> "body-pl" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lny org\u00E1n"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institui\u00E7\u00E3o, \u00F3rg\u00E3o ou ag\u00EAncia da UE"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://publications.europa.eu/ontology/authority/authority-code> "pub-undert-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontrahent w sektorze obronno\u015Bci"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Body governed by public law, controlled by a central government authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u021Bie interna\u021Bional\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03B5\u03B8\u03BD\u03AE\u03C2 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Helyi szerv \u00E1ltal ellen\u0151rz\u00F6tt k\u00F6zjogi int\u00E9zm\u00E9ny"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohaliku omavalitsuse kontrollitav avalik-\u00F5iguslik isik"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Von einer zentralen Regierungsbeh\u00F6rde kontrolliertes \u00F6ffentliches Unternehmen"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation awarding a contract subsidised by a local authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de Derecho p\u00FAblico bajo el control de una autoridad local"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional eller lokal myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keskvalitsusasutuse kontrollitav riigi osalusega \u00E4ri\u00FChing"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vie\u0161osios teis\u0117s reglamentuojama \u012Fstaiga, kontroliuojama centrin\u0117s vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazione che aggiudica un appalto sovvenzionato da un'autorit\u00E0 governativa centrale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Von einer regionalen Gebietsk\u00F6rperschaft kontrolliertes \u00F6ffentliches Unternehmen"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://publications.europa.eu/ontology/authority/op-code> "la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejn\u00FD podnik"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://purl.org/dc/elements/1.1/identifier> "ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overheidsonderneming onder zeggenschap van een regionale overheid"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://publications.europa.eu/resource/authority/op-code> "body-pl-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaitsevaldkonna t\u00F6\u00F6v\u00F5tja"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0440\u0433\u0430\u043D \u043D\u0430 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u043D\u0430\u0442\u0430 \u0432\u043B\u0430\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de direito p\u00FAblico, controlado por uma autoridade regional"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://publications.europa.eu/resource/authority/op-code> "body-pl" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisatie die een door een regionale overheid gesubsidieerde opdracht gunt"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alueviranomainen"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regiono ar vietos vald\u017Eios institucija"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://publications.europa.eu/ontology/authority/op-code> "org-sub-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo di diritto pubblico controllato da un'autorit\u00E0 locale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zponti korm\u00E1nyzati szerv"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paikallisviranomaisen subventoiman sopimuksen tekev\u00E4 organisaatio"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03C5\u03C1\u03C9\u03C0\u03B1\u03CA\u03BA\u03CC \u03B8\u03B5\u03C3\u03BC\u03B9\u03BA\u03CC \u03CC\u03C1\u03B3\u03B1\u03BD\u03BF/\u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03AE \u03B4\u03B9\u03B5\u03B8\u03BD\u03AE\u03C2 \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://publications.europa.eu/ontology/authority/authority-code> "pub-undert" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BD\u03B1\u03B8\u03AD\u03C4\u03B5\u03B9 \u03C3\u03CD\u03BC\u03B2\u03B1\u03C3\u03B7 \u03B5\u03C0\u03B9\u03B4\u03BF\u03C4\u03BF\u03CD\u03BC\u03B5\u03BD\u03B7 \u03B1\u03C0\u03CC \u03B1\u03BD\u03B1\u03B8\u03AD\u03C4\u03BF\u03C5\u03C3\u03B1 \u03B1\u03C1\u03C7\u03AE"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eiropas instit\u016Bcija/a\u0123ent\u016Bra vai starptautiska organiz\u0101cija"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Body governed by public law, controlled by a regional authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00EDstn\u00ED org\u00E1n"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impri\u017Ca pubblika, ikkontrollata minn awtorit\u00E0 tal-gvern \u010Bentrali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conraitheoir cosanta"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentlig virksomhed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://publications.europa.eu/ontology/authority/authority-code> "rl-aut" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridad regional"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0420\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u0435\u043D \u0438\u043B\u0438 \u043C\u0435\u0441\u0442\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizaci\u00F3n que concede un contrato subvencionado por una autoridad local"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://publications.europa.eu/resource/authority/op-code> "la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20201216-0" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Appaltatore nel settore della difesa"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://publications.europa.eu/resource/authority/op-code> "org-sub-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuntrattur tad-difi\u017Ca"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://publications.europa.eu/ontology/authority/authority-code> "spec-rights-entity" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de Derecho p\u00FAblico bajo el control de una autoridad estatal"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://purl.org/dc/elements/1.1/identifier> "pub-undert-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korp irregolat bil-li\u0121i pubblika, ikkontrollat minn awtorit\u00E0 tal-gvern \u010Bentrali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarptautin\u0117 organizacija"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comhlacht dl\u00ED phoibl\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo di diritto pubblico"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instituci\u00F3n/organismo descentralizado europeo u organizaci\u00F3n internacional"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://purl.org/dc/elements/1.1/identifier> "spec-rights-entity" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligr\u00E4ttsligt organ som kontrolleras av en regional myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution, organe ou agence de l\u2019UE"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Body governed by public law"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0430\u043D\u043E \u043E\u0442 \u043E\u0440\u0433\u0430\u043D \u043D\u0430 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u043D\u0430\u0442\u0430 \u0432\u043B\u0430\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de Derecho p\u00FAblico bajo el control de una autoridad regional"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03B5\u03C1\u03B9\u03C6\u03B5\u03C1\u03B5\u03B9\u03B1\u03BA\u03AE \u03B1\u03C1\u03C7\u03AE"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gn\u00F3thas poibl\u00ED at\u00E1 faoi rial\u00FA \u00FAdar\u00E1is \u00E1iti\u00FAil"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C0\u03BF\u03C5 \u03B1\u03BD\u03B1\u03B8\u03AD\u03C4\u03B5\u03B9 \u03C3\u03CD\u03BC\u03B2\u03B1\u03C3\u03B7 \u03B5\u03C0\u03B9\u03B4\u03BF\u03C4\u03BF\u03CD\u03BC\u03B5\u03BD\u03B7 \u03B1\u03C0\u03CC \u03C0\u03B5\u03C1\u03B9\u03C6\u03B5\u03C1\u03B5\u03B9\u03B1\u03BA\u03AE \u03B1\u03C1\u03C7\u03AE"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contratista de defensa"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entit\u00E0 bi drittijiet spe\u010Bjali jew esklu\u017Civi"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacijo, ki oddaja naro\u010Dilo, subvencionira osrednji dr\u017Eavni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU institution, body or agency"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkinen yritys, joka on alueviranomaisen m\u00E4\u00E4r\u00E4ysvallassa"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einrichtung des \u00F6ffentlichen Rechts"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://publications.europa.eu/ontology/authority/op-code> "ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijelo koje se ure\u0111uje javnim pravom, koje nadzire lokalno tijelo"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizaci\u00F3n que concede un contrato subvencionado por una autoridad regional"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Org\u00E1n \u00FAstrednej \u0161t\u00E1tnej spr\u00E1vy"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacja mi\u0119dzynarodowa"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejnopr\u00E1vna in\u0161tit\u00FAcia pod kontrolou region\u00E1lneho org\u00E1nu"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://purl.org/dc/elements/1.1/identifier> "pub-undert" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keskvalitsusasutuse subsideeritavat lepingut s\u00F5lmiv organisatsioon"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impresa pubblica"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://purl.org/dc/elements/1.1/identifier> "rl-aut" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central regeringsmyndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sredi\u0161nje tijelo dr\u017Eavne uprave"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation mit besonderen oder ausschlie\u00DFlichen Rechten"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u021Bie care atribuie un contract subven\u021Bionat de o autoritate local\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entit\u00E9 disposant de droits sp\u00E9ciaux ou exclusifs"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://publications.europa.eu/ontology/authority/authority-code> "body-pl-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u0101cija, kas pie\u0161\u0137ir l\u012Bgumsl\u0113dz\u0113jas iest\u0101des subsid\u0113tu l\u012Bgumu"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://publications.europa.eu/resource/authority/op-code> "ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u00E7\u00E3o que adjudica um contrato subvencionado por uma autoridade adjudicante"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u021Bie care atribuie un contract subven\u021Bionat de o autoritate regional\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korp irregolat bil-li\u0121i pubblika, ikkontrollat minn awtorit\u00E0 re\u0121jonali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enhed med s\u00E6rlige eller eksklusive rettigheder"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de direito p\u00FAblico"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizaci\u00F3n internacional"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://purl.org/dc/elements/1.1/identifier> "body-pl-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organismo de Derecho p\u00FAblico"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentlig virksomhed, der styres af en central regeringsmyndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internationale organisatie"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation qui passe un march\u00E9 subventionn\u00E9 par un pouvoir adjudicateur"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://publications.europa.eu/ontology/authority/authority-code> "cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligt f\u00F6retag"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E0 regionale o locale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u044F\u0442\u043E \u0432\u044A\u0437\u043B\u0430\u0433\u0430 \u043F\u043E\u0440\u044A\u0447\u043A\u0430, \u0441\u0443\u0431\u0441\u0438\u0434\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u043C\u0435\u0441\u0442\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://purl.org/dc/elements/1.1/identifier> "cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00E9delmi v\u00E1llalkoz\u00F3"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAdar\u00E1s r\u00E9igi\u00FAnach"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keskushallinnon viranomaisen subventoiman sopimuksen tekev\u00E4 organisaatio"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comhlacht dl\u00ED phoibl\u00ED at\u00E1 faoi rial\u00FA \u00FAdar\u00E1is \u00E1iti\u00FAil"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://publications.europa.eu/resource/authority/op-code> "org-sub-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisatie die een door een aanbestedende dienst gesubsidieerde opdracht gunt"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://publications.europa.eu/resource/authority/op-code> "pub-undert-la" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E9 publique centrale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "European Institution/Agency or International Organisation"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica, controlada por uma autoridade regional"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03C1\u03C7\u03AE \u03C4\u03BF\u03C0\u03B9\u03BA\u03AE\u03C2 \u03B1\u03C5\u03C4\u03BF\u03B4\u03B9\u03BF\u03AF\u03BA\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B4\u03B7\u03BC\u03BF\u03C3\u03AF\u03BF\u03C5 \u03B4\u03B9\u03BA\u03B1\u03AF\u03BF\u03C5 \u03C0\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03AF \u03C5\u03C0\u03CC \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03C4\u03BF\u03C0\u03B9\u03BA\u03AE\u03C2 \u03B1\u03C1\u03C7\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridad local"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u00E7\u00E3o internacional"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rahvusvaheline organisatsioon"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institui\u00E7\u00E3o Europeia/Ag\u00EAncia ou organiza\u00E7\u00E3o internacional"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokal myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A4\u03BF\u03C0\u03B9\u03BA\u03AE \u03B1\u03C1\u03C7\u03AE"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oseba javnega prava, ki jo obvladuje regionalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E0 locale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazzjoni li tag\u0127ti kuntratt issussidjat minn awtorit\u00E0 tal-gvern \u010Bentrali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://publications.europa.eu/ontology/authority/op-code> "pub-undert-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Me\u0111unarodna organizacija"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miestny org\u00E1n"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejnopr\u00E1vna in\u0161tit\u00FAcia"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u044F\u0442\u043E \u0432\u044A\u0437\u043B\u0430\u0433\u0430 \u043F\u043E\u0440\u044A\u0447\u043A\u0430, \u0441\u0443\u0431\u0441\u0438\u0434\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisme de droit public, contr\u00F4l\u00E9 par une autorit\u00E9 r\u00E9gionale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija koja dodjeljuje ugovor koji subvencionira javni naru\u010Ditelj"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subjekt se zvl\u00E1\u0161tn\u00EDmi nebo v\u00FDhradn\u00EDmi pr\u00E1vy"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zentrale Regierungsbeh\u00F6rde"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podmiot prawa publicznego kontrolowany przez instytucj\u0119 administracji centralnej"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligretligt organ, der styres af en lokal myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://publications.europa.eu/ontology/authority/op-code> "int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0431\u0440\u0430\u0437\u0443\u0432\u0430\u043D\u0438\u0435 \u0441\u044A\u0441 \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u043D\u0438 \u0438\u043B\u0438 \u0438\u0437\u043A\u043B\u044E\u0447\u0438\u0442\u0435\u043B\u043D\u0438 \u043F\u0440\u0430\u0432\u0430"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uFEFFInstiti\u00FAid, comhlact n\u00F3 gn\u00EDomhaireacht de chuid an AE"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija, skirianti sutart\u012F, subsidijuojam\u0105 perkan\u010Diosios organizacijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piirkondliku omavalitsuse subsideeritavat lepingut s\u00F5lmiv organisatsioon"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazzjoni li tag\u0127ti kuntratt issussidjat minn awtorit\u00E0 re\u0121jonali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u044F\u0442\u0438\u0435"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impri\u017Ca pubblika"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B7\u03BC\u03CC\u03C3\u03B9\u03B1 \u03B5\u03C0\u03B9\u03C7\u03B5\u03AF\u03C1\u03B7\u03C3\u03B7 \u03C0\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03AF \u03C5\u03C0\u03CC \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03C4\u03BF\u03C0\u03B9\u03BA\u03AE\u03C2 \u03B1\u03C1\u03C7\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Instytucja regionalna"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oseba javnega prava, ki jo obvladuje lokalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohaliku omavalitsuse subsideeritavat lepingut s\u00F5lmiv organisatsioon"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejn\u00FD podnik"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisatie die een door een centrale overheidsinstantie gesubsidieerde opdracht gunt"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejnopr\u00E1vn\u00ED subjekt ovl\u00E1dan\u00FD m\u00EDstn\u00EDm org\u00E1nem"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno podjetje"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "ES iest\u0101de, strukt\u016Bra vai a\u0123ent\u016Bra"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno poduze\u0107e"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://publications.europa.eu/ontology/authority/op-code> "eu-int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valstybin\u0117 \u012Fmon\u0117, kontroliuojama centrin\u0117s vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiza\u021Bie care atribuie un contract subven\u021Bionat de o autoritate contractant\u0103"@ro .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Przedsi\u0119biorstwo publiczne"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lis korm\u00E1nyzati szerv \u00E1ltal t\u00E1mogatott szerz\u0151d\u00E9st oda\u00EDt\u00E9l\u0151 szervezet"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAdar\u00E1s \u00E1iti\u00FAil"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public undertaking, controlled by a local authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entidad con derechos especiales o exclusivos"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zv\u00E1llalkoz\u00E1s"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oseba javnega prava"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lis hat\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://purl.org/dc/elements/1.1/identifier> "org-sub" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridad estatal"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejn\u00FD podnik ovl\u00E1dan\u00FD \u00FAst\u0159edn\u00EDm org\u00E1nem st\u00E1tn\u00ED spr\u00E1vy"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B4\u03B7\u03BC\u03BF\u03C3\u03AF\u03BF\u03C5 \u03B4\u03B9\u03BA\u03B1\u03AF\u03BF\u03C5"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorit\u00E0 regionale"@it .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evropsk\u00E1 instituce/agentura nebo mezin\u00E1rodn\u00ED organizace"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisme de droit public"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eagra\u00EDocht at\u00E1 ag d\u00E1mhachtain conradh at\u00E1 f\u00F3irdheonaithe ag \u00FAdar\u00E1s conarthachta"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://publications.europa.eu/ontology/authority/table.id> "buyer-legal-type" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Awtorit\u00E0 re\u0121jonali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euroopa Liidu institutsioon v\u00F5i rahvusvaheline organisatsioon"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A6\u03BF\u03C1\u03AD\u03B1\u03C2 \u03BC\u03B5 \u03B5\u03B9\u03B4\u03B9\u03BA\u03AC \u03AE \u03B1\u03C0\u03BF\u03BA\u03BB\u03B5\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC \u03B4\u03B9\u03BA\u03B1\u03B9\u03CE\u03BC\u03B1\u03C4\u03B1"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podmiot prawa publicznego kontrolowany przez instytucj\u0119 lokaln\u0105"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokale Gebietsk\u00F6rperschaft"@de .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statlig myndighet"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type> <http://www.w3.org/2000/01/rdf-schema#label> "Buyer legal type"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eagra\u00EDocht at\u00E1 ag d\u00E1mhachtain conradh at\u00E1 f\u00F3irdheonaithe ag \u00FAdar\u00E1s r\u00E9igi\u00FAnach"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazzjoni internazzjonali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizzazzjoni li tag\u0127ti kuntratt issussidjat minn awtorit\u00E0 kontraenti"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tijelo koje se ure\u0111uje javnim pravom, koje nadzire sredi\u0161nje tijelo dr\u017Eavne uprave"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligr\u00E4ttsligt organ"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica bajo el control de una autoridad local"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohalik omavalitsus"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korp irregolat bil-li\u0121i pubblika"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-16" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligretligt organ, der styres af en central regeringsmyndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gynybos sektoriaus rangovas"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejnopr\u00E1vna in\u0161tit\u00FAcia pod kontrolou miestneho org\u00E1nu"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Awtorit\u00E0 lokali"@mt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacijo, ki oddaja naro\u010Dilo, subvencionira lokalni organ"@sl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publiekrechtelijke instelling"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1lis vagy helyi hat\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linna v\u00F5i valla ametiasutus"@et .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centr\u0101l\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejnopr\u00E1vn\u00ED subjekt ovl\u00E1dan\u00FD \u00FAst\u0159edn\u00EDm org\u00E1nem st\u00E1tn\u00ED spr\u00E1vy"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Local authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://publications.europa.eu/ontology/authority/authority-code> "org-sub-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisko ties\u012Bbu subjekts, ko kontrol\u0113 viet\u0113j\u0101s p\u0101rvaldes iest\u0101de"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overheidsonderneming onder zeggenschap van een lokale overheid"@nl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u043E\u043F\u0440\u0430\u0432\u043D\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0430\u043D\u0430 \u043E\u0442 \u0440\u0435\u0433\u0438\u043E\u043D\u0430\u043B\u0435\u043D \u043E\u0440\u0433\u0430\u043D"@bg .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU-int\u00E9zm\u00E9ny, -szerv vagy -\u00FCgyn\u00F6ks\u00E9g"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisation awarding a contract subsidised by a regional authority"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://publications.europa.eu/ontology/authority/authority-code> "def-cont" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://publications.europa.eu/ontology/authority/authority-code> "body-pl-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://publications.europa.eu/resource/authority/op-code> "pub-undert-ra" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javno poduze\u0107e koje nadzire sredi\u0161nje tijelo dr\u017Eavne uprave"@hr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacja udzielaj\u0105ca zam\u00F3wienia dotowanego przez instytucj\u0119 zamawiaj\u0105c\u0105"@pl .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valstybin\u0117 \u012Fmon\u0117, kontroliuojama regionin\u0117s vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoridade local"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eagra\u00EDocht idirn\u00E1isi\u00FAnta"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://publications.europa.eu/ontology/authority/start.use> "2019-09-18" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/buyer-legal-type> .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "International organisation"@en .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://purl.org/dc/elements/1.1/identifier> "body-pl-cga" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://publications.europa.eu/resource/authority/op-code> "int-org" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentlig virksomhed, der styres af en lokal myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Region\u00E1ln\u00ED org\u00E1n"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentligretligt organ, der styres af en regional myndighed"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution/agence europ\u00E9enne ou organisation internationale"@fr .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Helyi korm\u00E1nyzati szerv \u00E1ltal t\u00E1mogatott szerz\u0151d\u00E9st oda\u00EDt\u00E9l\u0151 szervezet"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empresa p\u00FAblica bajo el control de una autoridad estatal"@es .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00FCl\u00F6nleges vagy kiz\u00E1r\u00F3lagos jogokkal rendelkez\u0151 jogi szem\u00E9ly"@hu .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entrepren\u00F8r p\u00E5 forsvarsomr\u00E5det"@da .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organiz\u00E1cia, ktor\u00E1 zad\u00E1va z\u00E1kazku subvencovan\u00FA region\u00E1lnym org\u00E1nom"@sk .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regionin\u0117s vald\u017Eios institucija"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yksikk\u00F6, jolla on erityis- tai yksinoikeuksia"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/int-org> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mezin\u00E1rodn\u00ED organizace"@cs .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publiskais uz\u0146\u0113mums"@lv .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizacija, skirianti sutart\u012F, subsidijuojam\u0105 regionin\u0117s vald\u017Eios institucijos"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subjektai, turintys speciali\u0173j\u0173 ar i\u0161skirtini\u0173 teisi\u0173"@lt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org> <http://publications.europa.eu/ontology/authority/end.use> "2019-09-17" .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eintiteas a bhfuil cearta speisialta n\u00F3 eisiacha aige"@ga .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contratante do dom\u00EDnio da defesa"@pt .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkisoikeudellinen yhteis\u00F6, joka on paikallisviranomaisen m\u00E4\u00E4r\u00E4ysvallassa"@fi .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2 \u03B4\u03B7\u03BC\u03BF\u03C3\u03AF\u03BF\u03C5 \u03B4\u03B9\u03BA\u03B1\u03AF\u03BF\u03C5 \u03C0\u03BF\u03C5 \u03C4\u03B5\u03BB\u03B5\u03AF \u03C5\u03C0\u03CC \u03C4\u03BF\u03BD \u03AD\u03BB\u03B5\u03B3\u03C7\u03BF \u03B1\u03C1\u03C7\u03AE\u03C2 \u03C4\u03B7\u03C2 \u03BA\u03B5\u03BD\u03C4\u03C1\u03B9\u03BA\u03AE\u03C2 \u03BA\u03C5\u03B2\u03AD\u03C1\u03BD\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/buyer-legal-type/la> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lokalni organ"@sl .
+

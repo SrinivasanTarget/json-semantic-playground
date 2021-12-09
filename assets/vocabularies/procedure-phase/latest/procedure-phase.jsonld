@@ -1,0 +1,860 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase/CONCILIA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONCILIA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONCILIA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONCILIA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONCILIA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-phase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Помирение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dohodovací"
+      },
+      {
+        "@language": "da",
+        "@value": "Forlig"
+      },
+      {
+        "@language": "de",
+        "@value": "Vermittlung"
+      },
+      {
+        "@language": "el",
+        "@value": "Συνδιαλλαγή"
+      },
+      {
+        "@language": "en",
+        "@value": "Conciliation"
+      },
+      {
+        "@language": "es",
+        "@value": "Conciliación"
+      },
+      {
+        "@language": "et",
+        "@value": "Lepitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sovittelu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Conciliation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Idir-réiteach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Mirenje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyeztetés"
+      },
+      {
+        "@language": "it",
+        "@value": "Conciliazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Taikinimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Samierināšana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konċiljazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bemiddeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura pojednawcza"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conciliação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Conciliere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zmierenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sprava"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förlikning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase/INI_LEGIS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INI_LEGIS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INI_LEGIS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INI_LEGIS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INI_LEGIS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-phase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Законодателна инициатива"
+      },
+      {
+        "@language": "cs",
+        "@value": "Legislativní podnět"
+      },
+      {
+        "@language": "da",
+        "@value": "Lovgivningsinitiativ"
+      },
+      {
+        "@language": "de",
+        "@value": "Gesetzgebungsinitiative"
+      },
+      {
+        "@language": "el",
+        "@value": "Νομοθετική πρωτοβουλία"
+      },
+      {
+        "@language": "en",
+        "@value": "Legislative initiative"
+      },
+      {
+        "@language": "es",
+        "@value": "Iniciativa legislativa"
+      },
+      {
+        "@language": "et",
+        "@value": "Seadusandlik algatus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Säädösaloite"
+      },
+      {
+        "@language": "fr",
+        "@value": "Initiative législative"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tionscnamh reachtach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zakonodavna inicijativa"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jogalkotási kezdeményezés"
+      },
+      {
+        "@language": "it",
+        "@value": "Iniziativa legislativa"
+      },
+      {
+        "@language": "lt",
+        "@value": "Teisėkūros iniciatyva"
+      },
+      {
+        "@language": "lv",
+        "@value": "Likumdošanas iniciatīva"
+      },
+      {
+        "@language": "mt",
+        "@value": "Inizjattiva leġiżlattiva"
+      },
+      {
+        "@language": "nl",
+        "@value": "Wetgevingsinitiatief"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inicjatywa ustawodawcza"
+      },
+      {
+        "@language": "pt",
+        "@value": "Iniciativa legislativa"
+      },
+      {
+        "@language": "ro",
+        "@value": "Inițiativă legislativă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Legislatívna iniciatíva"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zakonodajna pobuda"
+      },
+      {
+        "@language": "sv",
+        "@value": "Lagstiftningsinitiativ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-phase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase/RDG3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RDG3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RDG3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RDG3"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RDG3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-phase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Трето четене"
+      },
+      {
+        "@language": "cs",
+        "@value": "Třetí čtení"
+      },
+      {
+        "@language": "da",
+        "@value": "Tredjebehandling"
+      },
+      {
+        "@language": "de",
+        "@value": "Dritte Lesung"
+      },
+      {
+        "@language": "el",
+        "@value": "Τρίτη ανάγνωση"
+      },
+      {
+        "@language": "en",
+        "@value": "Third reading"
+      },
+      {
+        "@language": "es",
+        "@value": "Tercera lectura"
+      },
+      {
+        "@language": "et",
+        "@value": "Kolmas lugemine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kolmas käsittely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Troisième lecture"
+      },
+      {
+        "@language": "ga",
+        "@value": "An tríú léamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Treće čitanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Harmadik olvasat"
+      },
+      {
+        "@language": "it",
+        "@value": "Terza lettura"
+      },
+      {
+        "@language": "lt",
+        "@value": "Trečiasis svarstymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Trešais lasījums"
+      },
+      {
+        "@language": "mt",
+        "@value": "It-tielet qari"
+      },
+      {
+        "@language": "nl",
+        "@value": "Derde lezing"
+      },
+      {
+        "@language": "pl",
+        "@value": "Trzecie czytanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Terceira leitura"
+      },
+      {
+        "@language": "ro",
+        "@value": "A treia lectură"
+      },
+      {
+        "@language": "sk",
+        "@value": "Tretie čítanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Tretja obravnava"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tredje behandlingen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase/RDG1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RDG1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RDG1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RDG1"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RDG1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-phase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Първо четене"
+      },
+      {
+        "@language": "cs",
+        "@value": "První čtení"
+      },
+      {
+        "@language": "da",
+        "@value": "Førstebehandling"
+      },
+      {
+        "@language": "de",
+        "@value": "Erste Lesung"
+      },
+      {
+        "@language": "el",
+        "@value": "Πρώτη ανάγνωση"
+      },
+      {
+        "@language": "en",
+        "@value": "First reading"
+      },
+      {
+        "@language": "es",
+        "@value": "Primera lectura"
+      },
+      {
+        "@language": "et",
+        "@value": "Esimene lugemine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ensimmäinen käsittely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Première lecture"
+      },
+      {
+        "@language": "ga",
+        "@value": "An chéad léamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prvo čitanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Első olvasat"
+      },
+      {
+        "@language": "it",
+        "@value": "Prima lettura"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirmasis svarstymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pirmais lasījums"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-ewwel qari"
+      },
+      {
+        "@language": "nl",
+        "@value": "Eerste lezing"
+      },
+      {
+        "@language": "pl",
+        "@value": "Pierwsze czytanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Primeira leitura"
+      },
+      {
+        "@language": "ro",
+        "@value": "Prima lectură"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prvé čítanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Prva obravnava"
+      },
+      {
+        "@language": "sv",
+        "@value": "Första behandlingen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Procedure phase"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "procedure-phase"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Procedure phase"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Procedure phase"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-phase/RDG2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RDG2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RDG2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RDG2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RDG2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-phase"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Второ четене"
+      },
+      {
+        "@language": "cs",
+        "@value": "Druhé čtení"
+      },
+      {
+        "@language": "da",
+        "@value": "Andenbehandling"
+      },
+      {
+        "@language": "de",
+        "@value": "Zweite Lesung"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεύτερη ανάγνωση"
+      },
+      {
+        "@language": "en",
+        "@value": "Second reading"
+      },
+      {
+        "@language": "es",
+        "@value": "Segunda lectura"
+      },
+      {
+        "@language": "et",
+        "@value": "Teine lugemine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toinen käsittely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Deuxième lecture"
+      },
+      {
+        "@language": "ga",
+        "@value": "An dara léamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Drugo čitanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Második olvasat"
+      },
+      {
+        "@language": "it",
+        "@value": "Seconda lettura"
+      },
+      {
+        "@language": "lt",
+        "@value": "Antrasis svarstymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Otrais lasījums"
+      },
+      {
+        "@language": "mt",
+        "@value": "It-tieni qari"
+      },
+      {
+        "@language": "nl",
+        "@value": "Tweede lezing"
+      },
+      {
+        "@language": "pl",
+        "@value": "Drugie czytanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Segunda leitura"
+      },
+      {
+        "@language": "ro",
+        "@value": "A doua lectură"
+      },
+      {
+        "@language": "sk",
+        "@value": "Druhé čítanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Druga obravnava"
+      },
+      {
+        "@language": "sv",
+        "@value": "Andra behandlingen"
+      }
+    ]
+  }
+]

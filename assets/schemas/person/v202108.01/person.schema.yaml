@@ -1,0 +1,68 @@
+#
+# This is a json-schema model for a Person.
+#
+"$id": "https://w3id.org/italia/schemas/person/v202101.01/person.json"
+"$schema": "https://json-schema.org/draft/202-12/schema"
+"$defs":
+  TaxCode:
+    $id: "#/$defs/TaxCode"
+    type: string
+    x-refersTo: https://w3id.org/italia/onto/CPV/taxCode
+    description: Il codice fiscale.
+    example: RSSMRA75L01H501A
+    maxLength: 16
+    minLength: 11
+  Parent:
+    $id: "#/$defs/Parent"
+    type: string
+    x-refersTo: https://w3id.org/italia/onto/CPV/Person
+    description: |-
+      Uno schema semplificato per associare il solo URL
+      che identifica un genitore.
+    additionalProperties: false
+    required:
+      - href
+    properties:
+      href:
+        type: string
+        description: Il codice fiscale del genitore.
+        format: uri
+  Person:
+    type: object
+    x-refersTo: https://w3id.org/italia/onto/CPV/Person
+    additionalProperties: false
+    description: |-
+        Questo schema rappresenta una persona fisica.
+    required:
+    - given_name
+    - family_name
+    - tax_code
+    properties:
+      tax_code:
+        $ref: "#/$defs/TaxCode"
+      date_of_birth:
+        x-refersTo: https://w3id.org/italia/onto/CPV/dateOfBirth
+        format: date
+        type: string
+      family_name:
+        x-refersTo: https://w3id.org/italia/onto/CPV/familyName
+        maxLength: 255
+        type: string
+      given_name:
+        x-refersTo: https://w3id.org/italia/onto/CPV/givenName
+        maxLength: 255
+        type: string
+      children:
+        x-refersTo: https://w3id.org/italia/onto/CPV/hasChildren
+        type: array
+        items:
+          $ref: "#/$defs/Person"
+        maxItems: 50
+        minItems: 0
+      parents:
+        x-refersTo: https://w3id.org/italia/onto/CPV/hasParents
+        type: array
+        items:
+          $ref: "#/$defs/Parent"
+        maxItems: 2
+        minItems: 0

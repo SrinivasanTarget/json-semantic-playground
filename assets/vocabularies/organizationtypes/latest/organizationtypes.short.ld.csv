@@ -1,0 +1,35 @@
+# Serializing assets/vocabularies/organizationtypes/latest/organizationtypes.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/organization-type
+# title: Organization type
+# version: 20210929-0
+# description: Organization type
+key,url,deprecated,valid_from,country_code,label_en,label_it
+AGENCY,http://publications.europa.eu/resource/authority/organization-type/AGENCY,false,1975-02-10,AGENCY,Agency,Agenzia
+AGENCY_CFSP,http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP,false,2002-01-01,AGENCY_CFSP,Common foreign and security policy agency,Agenzia per la politica estera e di sicurezza comune
+AGENCY_DEC,http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC,false,1975-02-10,AGENCY_DEC,Decentralised agency,Agenzia decentrata
+AGENCY_EURATOM,http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM,false,1958-12-06,AGENCY_EURATOM,Euratom agency or body,Agenzia o organo Euratom
+AGENCY_EXE,http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE,false,2003-12-23,AGENCY_EXE,Executive Agency,Agenzia esecutiva
+CAB,http://publications.europa.eu/resource/authority/organization-type/CAB,false,1957-03-25,CAB,Cabinet,Gabinetto
+COMPANY,http://publications.europa.eu/resource/authority/organization-type/COMPANY,false,1900-01-01,COMPANY,Company,Società
+DEL,http://publications.europa.eu/resource/authority/organization-type/DEL,false,1960-01-01,DEL,Delegation,Delegazione
+DEP,http://publications.europa.eu/resource/authority/organization-type/DEP,false,1952-07-23,DEP,Department,Dipartimento
+DIR,http://publications.europa.eu/resource/authority/organization-type/DIR,false,1952-09-09,DIR,Directorate,Direzione
+DIR_ATT,http://publications.europa.eu/resource/authority/organization-type/DIR_ATT,false,1952-09-09,DIR_ATT,Attached to a Directorate,Che dipende da una direzione
+DIR_GEN,http://publications.europa.eu/resource/authority/organization-type/DIR_GEN,false,1952-09-09,DIR_GEN,Directorate-General,Direzione generale
+DIR_GEN_ATT,http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT,false,1952-09-09,DIR_GEN_ATT,Attached to a Directorate-General,Che dipende da una direzione generale
+DIR_GEN_DPT,http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT,false,1952-09-09,DIR_GEN_DPT,Service of deputy director-general,Servizio del direttore generale aggiunto
+DIR_MAN,http://publications.europa.eu/resource/authority/organization-type/DIR_MAN,false,1952-09-09,DIR_MAN,Managing directorate,Direzione gestionale
+DIVISION,http://publications.europa.eu/resource/authority/organization-type/DIVISION,false,1958-01-01,DIVISION,Division,Divisione
+INSTIT,http://publications.europa.eu/resource/authority/organization-type/INSTIT,false,1952-07-23,INSTIT,Institution,Istituzione
+INSTIT_ATT,http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT,false,1952-07-23,INSTIT_ATT,Attached to the institution,Che dipende dall'istituzione
+OFFICE,http://publications.europa.eu/resource/authority/organization-type/OFFICE,false,1952-07-24,OFFICE,Office,Ufficio
+OP_DATPRO,http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+REPRES,http://publications.europa.eu/resource/authority/organization-type/REPRES,false,1958-01-01,REPRES,Representation,Rappresentanza
+SECTOR,http://publications.europa.eu/resource/authority/organization-type/SECTOR,false,1952-09-09,SECTOR,Sector,Settore
+SEC_GEN,http://publications.europa.eu/resource/authority/organization-type/SEC_GEN,false,1952-09-09,SEC_GEN,General Secretariat,Segretariato generale
+SEC_GEN_DPT,http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT,false,1952-09-09,SEC_GEN_DPT,Service of deputy secretary general,Servizio del Segretario generale aggiunto
+SERV,http://publications.europa.eu/resource/authority/organization-type/SERV,false,1951-04-18,SERV,Service,Servizio
+TEAM,http://publications.europa.eu/resource/authority/organization-type/TEAM,false,1952-09-09,TEAM,Team,Equipe
+TSK_FRC,http://publications.europa.eu/resource/authority/organization-type/TSK_FRC,false,1998-01-21,TSK_FRC,Task Force,Task force
+UNIT,http://publications.europa.eu/resource/authority/organization-type/UNIT,false,1952-09-09,UNIT,Unit,Unità

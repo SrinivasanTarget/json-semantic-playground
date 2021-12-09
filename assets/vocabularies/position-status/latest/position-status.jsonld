@@ -1,0 +1,1837 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/DIS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "el",
+        "@value": "Αποσπασμένη"
+      },
+      {
+        "@language": "pl",
+        "@value": "Postawiona do dyspozycji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Colocada à disposição"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poskytnutá k dispozícii"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Предоставено на разположение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dáno k dispozici"
+      },
+      {
+        "@language": "da",
+        "@value": "Stillet til rådighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Zurverfügungstellung"
+      },
+      {
+        "@language": "el",
+        "@value": "Αποσπασμένος"
+      },
+      {
+        "@language": "en",
+        "@value": "Placed at the disposal"
+      },
+      {
+        "@language": "es",
+        "@value": "Adscrito"
+      },
+      {
+        "@language": "et",
+        "@value": "Antakse käsutusse"
+      },
+      {
+        "@language": "fi",
+        "@value": "Siirretty palvelukseen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mis à disposition"
+      },
+      {
+        "@language": "ga",
+        "@value": "Curtha ar fáil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Stavljen na raspolaganje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Rendelkezésre bocsátva"
+      },
+      {
+        "@language": "it",
+        "@value": "Messo a disposizione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Perduotas dispozicijai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nodots rīcībā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Imqiegħda għad-dispożizzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overgeplaatst"
+      },
+      {
+        "@language": "pl",
+        "@value": "Postawiony do dyspozycji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Colocado à disposição"
+      },
+      {
+        "@language": "ro",
+        "@value": "Pus la dispoziție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poskytnutý k dispozícii"
+      },
+      {
+        "@language": "sl",
+        "@value": "Na voljo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ställd till förfogande"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DIS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Position status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "position-status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Position status"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Position status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/ACTING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ACTING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ACTING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ACTING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ACTING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изпълняваща длъжността"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκτελούσα καθήκοντα"
+      },
+      {
+        "@language": "pl",
+        "@value": "Pełniąca obowiązki"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poverená vykonávaním funkcie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vršilka dolžnosti"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изпълняващ длъжността"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pověřeno"
+      },
+      {
+        "@language": "da",
+        "@value": "Fungerende"
+      },
+      {
+        "@language": "de",
+        "@value": "Mit der Wahrnehmung der Geschäfte beauftragt"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκτελών καθήκοντα"
+      },
+      {
+        "@language": "en",
+        "@value": "Acting"
+      },
+      {
+        "@language": "es",
+        "@value": "En funciones"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohusetäitja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Virkaa toimittava"
+      },
+      {
+        "@language": "fr",
+        "@value": "Faisant fonction"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obnaša dužnost"
+      },
+      {
+        "@language": "hu",
+        "@value": "Megbízott"
+      },
+      {
+        "@language": "it",
+        "@value": "Facente funzioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinai einantis pareigas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Amata pienākumu izpildītājs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġent"
+      },
+      {
+        "@language": "nl",
+        "@value": "Waarnemend"
+      },
+      {
+        "@language": "pl",
+        "@value": "Pełniący obowiązki"
+      },
+      {
+        "@language": "pt",
+        "@value": "Em exercício"
+      },
+      {
+        "@language": "ro",
+        "@value": "Interimar"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poverený vykonávaním funkcie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vršilec dolžnosti"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillförordnad"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/HDR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HDR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HDR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HDR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HDR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Предаване на поста"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přestup"
+      },
+      {
+        "@language": "da",
+        "@value": "Overdragelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Übergabe"
+      },
+      {
+        "@language": "el",
+        "@value": "Παράδοση"
+      },
+      {
+        "@language": "en",
+        "@value": "Handover"
+      },
+      {
+        "@language": "es",
+        "@value": "Transición"
+      },
+      {
+        "@language": "et",
+        "@value": "Üleandmine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tehtävien siirto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Transition"
+      },
+      {
+        "@language": "ga",
+        "@value": "Aistriú"
+      },
+      {
+        "@language": "hr",
+        "@value": "Primopredaja dužnosti"
+      },
+      {
+        "@language": "hu",
+        "@value": "Átadás"
+      },
+      {
+        "@language": "it",
+        "@value": "Passaggio delle consegne"
+      },
+      {
+        "@language": "lt",
+        "@value": "Perdavimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pāreja"
+      },
+      {
+        "@language": "mt",
+        "@value": "Trasferiment tal-kariga"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overdracht"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przekazanie obowiązków"
+      },
+      {
+        "@language": "pt",
+        "@value": "Transição"
+      },
+      {
+        "@language": "ro",
+        "@value": "Predarea mandatului"
+      },
+      {
+        "@language": "sk",
+        "@value": "Odovzdanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Primopredaja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Överlämning"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "HDR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/RESV",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RESV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RESV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb10"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RESV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RESV"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Запазена"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vyhrazeno"
+      },
+      {
+        "@language": "da",
+        "@value": "Reserveret"
+      },
+      {
+        "@language": "de",
+        "@value": "Reserviert"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεσμευμένη"
+      },
+      {
+        "@language": "en",
+        "@value": "Reserved"
+      },
+      {
+        "@language": "es",
+        "@value": "Reservado"
+      },
+      {
+        "@language": "et",
+        "@value": "Reserveeritud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Varattu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Réservé"
+      },
+      {
+        "@language": "ga",
+        "@value": "Curtha in áirithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Rezervirano"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fenntartva"
+      },
+      {
+        "@language": "it",
+        "@value": "Riservato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Rezervuotas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Rezervēts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Riżervat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gereserveerd"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zarezerwowany"
+      },
+      {
+        "@language": "pt",
+        "@value": "Reservado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Rezervat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vyhradené"
+      },
+      {
+        "@language": "sl",
+        "@value": "Rezervirano"
+      },
+      {
+        "@language": "sv",
+        "@value": "Reserverad"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RES"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/DISDL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DISDL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DISDL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DISDL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DISDL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "el",
+        "@value": "Αποσπασμένη σε αντιπροσωπεία"
+      },
+      {
+        "@language": "pl",
+        "@value": "Postawiona do dyspozycji delegatury"
+      },
+      {
+        "@language": "pt",
+        "@value": "Colocada à disposição numa delegação"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poskytnutá k dispozícii v delegácii"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Предоставено на разположение в делегация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dáno k dispozici na delegaci"
+      },
+      {
+        "@language": "da",
+        "@value": "Stillet til rådighed i en delegation"
+      },
+      {
+        "@language": "de",
+        "@value": "In einer Delegation zur Verfügung gestellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Αποσπασμένος σε αντιπροσωπεία"
+      },
+      {
+        "@language": "en",
+        "@value": "Placed at disposal in a delegation"
+      },
+      {
+        "@language": "es",
+        "@value": "Acreditado en una delegación"
+      },
+      {
+        "@language": "et",
+        "@value": "Antakse käsutusse delegatsioonis"
+      },
+      {
+        "@language": "fi",
+        "@value": "Siirretty palvelukseen edustustossa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mis à disposition dans une délégation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Curtha ar fáil i dtoscaireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Stavljen na raspolaganje u izaslanstvu"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egy küldöttségben rendelkezésre bocsátva"
+      },
+      {
+        "@language": "it",
+        "@value": "Messo a disposizione di una delegazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Perduotas delegacijos dispozicijai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nodots delegācijas rīcībā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Imqiegħda għad-dispożizzjoni f’delegazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overgeplaatst naar een delegatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Postawiony do dyspozycji delegatury"
+      },
+      {
+        "@language": "pt",
+        "@value": "Colocado à disposição numa delegação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Pus la dispoziție într-o delegație"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poskytnutý k dispozícii v delegácii"
+      },
+      {
+        "@language": "sl",
+        "@value": "Na voljo v delegaciji"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ställd till förfogande i en delegation"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DISDL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/OCUP_NO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OCUP_NO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OCUP_NO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OCUP_NO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OCUP_NO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Незает пост"
+      },
+      {
+        "@language": "cs",
+        "@value": "Neobsazeno"
+      },
+      {
+        "@language": "da",
+        "@value": "Ikke besat"
+      },
+      {
+        "@language": "de",
+        "@value": "Nicht besetzt"
+      },
+      {
+        "@language": "el",
+        "@value": "Μη κατειλημμένη"
+      },
+      {
+        "@language": "en",
+        "@value": "Not occupied"
+      },
+      {
+        "@language": "es",
+        "@value": "No ocupado"
+      },
+      {
+        "@language": "et",
+        "@value": "Täitmata"
+      },
+      {
+        "@language": "fi",
+        "@value": "Täyttämättä oleva"
+      },
+      {
+        "@language": "fr",
+        "@value": "Inoccupé"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gan líonadh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nije popunjeno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Betöltetlen"
+      },
+      {
+        "@language": "it",
+        "@value": "Non occupato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Neužimtas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Neaizņemts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mhux okkupat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vacant"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nieobsadzony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Não ocupado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Neocupat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Neobsadené"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ni zasedeno"
+      },
+      {
+        "@language": "sv",
+        "@value": "Inte tillsatt"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/REPL_TEMP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REPL_TEMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REPL_TEMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REPL_TEMP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REPL_TEMP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Временно заместване"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dočasně nahrazeno"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidig erstatning"
+      },
+      {
+        "@language": "de",
+        "@value": "Vertretung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινή αντικατάσταση"
+      },
+      {
+        "@language": "en",
+        "@value": "Temporary replacement"
+      },
+      {
+        "@language": "es",
+        "@value": "Sustitución temporal"
+      },
+      {
+        "@language": "et",
+        "@value": "Ajutine asendamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tilapäinen korvaaminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Remplacement temporaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ionadú sealadach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremena zamjena"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes helyettesítés"
+      },
+      {
+        "@language": "it",
+        "@value": "Sostituzione temporanea"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinai pakeičia"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pagaidu aizstāšana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sostituzzjoni temporanja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Tijdelijke vervanging"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tymczasowe zastępstwo"
+      },
+      {
+        "@language": "pt",
+        "@value": "Substituição temporária"
+      },
+      {
+        "@language": "ro",
+        "@value": "Înlocuire temporară"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dočasné nahradenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Nadomeščanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfällig ersättare"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REPL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/AI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Временно изпълняващa длъжността"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινή"
+      },
+      {
+        "@language": "pt",
+        "@value": "Interina"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Временно изпълняващ длъжността"
+      },
+      {
+        "@language": "cs",
+        "@value": "Prozatímní"
+      },
+      {
+        "@language": "da",
+        "@value": "Fungerende"
+      },
+      {
+        "@language": "de",
+        "@value": "Ad interim"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινός"
+      },
+      {
+        "@language": "en",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "es",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohusetäitja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sijainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ad interim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "it",
+        "@value": "Facente funzioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinasis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Uz laiku"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ad interim"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "pt",
+        "@value": "Interino"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "sk",
+        "@value": "Ad interim (dočasne)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ad Interim"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tills vidare"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ADI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/AFF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AFF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AFF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Назначение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přidělení"
+      },
+      {
+        "@language": "da",
+        "@value": "Placering"
+      },
+      {
+        "@language": "de",
+        "@value": "Stellenzuweisung"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανάθεση"
+      },
+      {
+        "@language": "en",
+        "@value": "Assignment"
+      },
+      {
+        "@language": "es",
+        "@value": "Destino"
+      },
+      {
+        "@language": "et",
+        "@value": "Ametiülesanne"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tehtäviin määrääminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Affectation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sannachán"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dodjela radnog mjesta"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kinevezés"
+      },
+      {
+        "@language": "it",
+        "@value": "Assegnazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Paskyrimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iecelts amatā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Assenjazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Tewerkstelling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przypisanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Afetação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Repartizare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pridelenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Dodelitev delovnega mesta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tilldelad arbetsuppgift"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AFF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-status/OCUP_SECOM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OCUP_SECOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OCUP_SECOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OCUP_SECOM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OCUP_SECOM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Длъжност по време на командироване в институцията"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zaměstnání během dočasného přidělení v orgánu"
+      },
+      {
+        "@language": "da",
+        "@value": "Beskæftigelse under udstationering i institutionen"
+      },
+      {
+        "@language": "de",
+        "@value": "Tätigkeit während einer Abordnung zu einem Organ"
+      },
+      {
+        "@language": "el",
+        "@value": "Απασχόληση στο πλαίσιο απόσπασης στο όργανο"
+      },
+      {
+        "@language": "en",
+        "@value": "Occupation during a secondment in the institution"
+      },
+      {
+        "@language": "es",
+        "@value": "Ocupación durante una comisión de servicio en la institución"
+      },
+      {
+        "@language": "et",
+        "@value": "Amet institutsioonis lähetuse ajal"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toimielimeen muihin tehtäviin tilapäisesti siirretyn tavanomainen tehtävä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Occupation pendant un détachement au sein de l’institution"
+      },
+      {
+        "@language": "ga",
+        "@value": "Post le linn tréimhse iasachta san institiúid"
+      },
+      {
+        "@language": "hr",
+        "@value": "Funkcija tijekom upućivanja u instituciju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Az intézményben a kirendelés ideje alatt betöltött foglalkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Occupazione durante un distaccamento presso l’istituzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pareigos komandiruotės institucijoje metu"
+      },
+      {
+        "@language": "lv",
+        "@value": "Amats norīkojuma laikā iestādē"
+      },
+      {
+        "@language": "mt",
+        "@value": "Okkupazzjoni matul is-sekondar fl-istituzzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Functie tijdens detachering bij de instelling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zajęcie podczas oddelegowania w instytucji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ocupação durante um destacamento na instituição"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ocupare pe durata unei detașări în cadrul instituției"
+      },
+      {
+        "@language": "sk",
+        "@value": "Profesijná činnosť počas vyslania v inštitúcii"
+      },
+      {
+        "@language": "sl",
+        "@value": "Poklicna dejavnost med napotitvijo v institucijo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ordinarie arbetsuppgift i institutionen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n44f60b2deba74f70ac5783226cf2eaaeb8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DET"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  }
+]

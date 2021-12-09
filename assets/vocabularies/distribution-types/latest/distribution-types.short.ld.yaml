@@ -1,0 +1,55 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: DOWNLOADABLE_FILE
+  deprecated: 'false'
+  key: DOWNLOADABLE_FILE
+  label_en: Downloadable file
+  label_it: File scaricabile
+  url: http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE
+  valid_from: '2013-01-01'
+- country_code: FEED_INFO
+  deprecated: 'false'
+  key: FEED_INFO
+  label_en: Information feed
+  label_it: Feed di informazioni
+  url: http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO
+  valid_from: '2013-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/distribution-type/OP_DATPRO
+- country_code: VISUALIZATION
+  deprecated: 'false'
+  key: VISUALIZATION
+  label_en: Visualization
+  label_it: Visualizzazione
+  url: http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION
+  valid_from: '2013-01-01'
+- country_code: WEB_SERVICE
+  deprecated: 'false'
+  key: WEB_SERVICE
+  label_en: Web service/API
+  label_it: Servizio web/API
+  url: http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE
+  valid_from: '2013-01-02'

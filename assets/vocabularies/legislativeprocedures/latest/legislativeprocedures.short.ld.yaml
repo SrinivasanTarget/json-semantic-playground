@@ -1,0 +1,132 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/legislativeprocedures/OP_DATPRO
+  valid_from: '1952-07-23'
+- country_code: ACC
+  deprecated: 'false'
+  key: ACC
+  label_en: Agreement (ACC)
+  label_it: Accordo (ACC)
+  url: http://publications.europa.eu/resource/authority/procedure/ACC
+  valid_from: '1958-01-01'
+- country_code: APP
+  deprecated: 'false'
+  key: APP
+  label_en: "Special legislative procedure \u2014 EP consent required (APP)"
+  label_it: "Procedura legislativa speciale \u2014 Approvazione del PE (APP)"
+  url: http://publications.europa.eu/resource/authority/procedure/APP
+  valid_from: '2009-12-01'
+- country_code: AVC
+  deprecated: 'true'
+  key: AVC
+  label_en: Assent procedure (AVC)
+  label_it: Procedura di parere conforme (AVC)
+  url: http://publications.europa.eu/resource/authority/procedure/AVC
+  valid_from: '1987-07-01'
+  valid_until: '2009-11-30'
+- country_code: BUD
+  deprecated: 'false'
+  key: BUD
+  label_en: Budgetary procedure (BUD)
+  label_it: Procedura di bilancio (BUD)
+  url: http://publications.europa.eu/resource/authority/procedure/BUD
+  valid_from: '1958-01-01'
+- country_code: CNB
+  deprecated: 'false'
+  key: CNB
+  label_en: Consultation of the European Central Bank (CNB)
+  label_it: Consultazione della Banca centrale europea (CNB)
+  url: http://publications.europa.eu/resource/authority/procedure/CNB
+  valid_from: '1993-11-01'
+- country_code: CNC
+  deprecated: 'true'
+  key: CNC
+  label_en: Consultation of the Court of Auditors (CNC)
+  label_it: Consultazione della Corte dei conti (CNC)
+  url: http://publications.europa.eu/resource/authority/procedure/CNC
+  valid_from: '1993-11-01'
+  valid_until: '2009-11-30'
+- country_code: CNS
+  deprecated: 'true'
+  key: CNS
+  label_en: Consultation procedure (CNS)
+  label_it: Procedura di consultazione (CNS)
+  url: http://publications.europa.eu/resource/authority/procedure/CNS
+  valid_from: '1958-01-01'
+  valid_until: '2009-11-30'
+- country_code: COD
+  deprecated: 'true'
+  key: COD
+  label_en: Co-decision procedure (COD)
+  label_it: Procedura di codecisione (COD)
+  url: http://publications.europa.eu/resource/authority/procedure/COD
+  valid_from: '1993-11-01'
+  valid_until: '2009-11-30'
+- country_code: DEC
+  deprecated: 'false'
+  key: DEC
+  label_en: Budgetary discharge procedure (DEC)
+  label_it: Procedura di discarico del bilancio (DEC)
+  url: http://publications.europa.eu/resource/authority/procedure/DEC
+  valid_from: '1958-01-01'
+- country_code: NLE
+  deprecated: 'false'
+  key: NLE
+  label_en: Non-legislative procedure (NLE)
+  label_it: Procedura non legislativa (NLE)
+  url: http://publications.europa.eu/resource/authority/procedure/NLE
+  valid_from: '2009-12-01'
+- country_code: OLP
+  deprecated: 'false'
+  key: OLP
+  label_en: Ordinary legislative procedure (COD)
+  label_it: Procedura legislativa ordinaria (COD)
+  url: http://publications.europa.eu/resource/authority/procedure/OLP
+  valid_from: '2009-12-01'
+- country_code: PRT
+  deprecated: 'false'
+  key: PRT
+  label_en: Social protocol (PRT)
+  label_it: Protocollo sulla politica sociale (PRT)
+  url: http://publications.europa.eu/resource/authority/procedure/PRT
+  valid_from: '1993-11-01'
+- country_code: SLP
+  deprecated: 'false'
+  key: SLP
+  label_en: "Special legislative procedure \u2014 EP consulted (CNS)"
+  label_it: "Procedura legislativa speciale \u2014 Consultazione del PE (CNS)"
+  url: http://publications.europa.eu/resource/authority/procedure/SLP
+  valid_from: '2009-12-01'
+- country_code: SYN
+  deprecated: 'true'
+  key: SYN
+  label_en: Cooperation procedure (SYN)
+  label_it: Procedura di cooperazione (SYN)
+  url: http://publications.europa.eu/resource/authority/procedure/SYN
+  valid_from: '1987-07-01'
+  valid_until: '2009-11-30'

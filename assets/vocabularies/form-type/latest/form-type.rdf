@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/cont-modif">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>cont-modif</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>cont-modif</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>cont-modif</atold:op-code>
+    <dc:identifier>cont-modif</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">Изменение на договор</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Změna smlouvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Kontraktændring</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Auftragsänderung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Τροποποίηση σύμβασης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Contract modification</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Modificación de contrato</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Lepingu muutmine</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Sopimusmuutokset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Modification du marché</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Mionathrú conartha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Izmjena ugovora</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Szerződésmódosítás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Modifica dell'appalto</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Sutarties keitimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Līguma grozījumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Modifika fil-kuntratt</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Wijziging van een opdracht</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Modyfikacja umowy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Modificação do contrato</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Modificări aduse contractului</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Úprava zmluvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Sprememba naročila</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Kontraktsändring</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/competition">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>competition</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>competition</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>competition</atold:op-code>
+    <dc:identifier>competition</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">Състезателна процедура</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Zadávání</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Konkurrencevilkår</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Wettbewerb</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Aνταγωνισμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Competition</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Licitación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Hange</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kilpailu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Mise en concurrence</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Iomaíocht</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Nadmetanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Verseny</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Gara</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Konkursas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Konkurss</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kompetizzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Mededinging</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Procedura konkurencyjna</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Concurso</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Procedură concurențială</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Súťaž</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Javni razpis</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Konkurrensvillkor</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/dir-awa-pre">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>dir-awa-pre</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>dir-awa-pre</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>dir-awa-pre</atold:op-code>
+    <dc:identifier>dir-awa-pre</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">Предварителна обява за пряко възлагане</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oznámení o záměru uzavřít smlouvu</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forudgående underretning om direkte tildeling</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorankündigung – Direktvergabe</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προκοινοποίηση απευθείας ανάθεσης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Direct award preannouncement</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Notificación previa de adjudicación directa</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Teavitamine kavandatavast otselepingust</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ennakkoilmoitus suorahankinnasta</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Notification préalable d’attribution directe</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Réamhfhógra maidir le dámhachtain dhíreach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Prethodna obavijest o izravnoj dodjeli</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Közvetlen odaítélés előzetes bejelentése</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Preavviso di aggiudicazione diretta</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Išankstinis skelbimas apie tiesioginį sutarties skyrimą</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Tiešas piešķiršanas priekšpaziņojums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Notifika minn qabel tal-għoti dirett</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vooraankondiging onderhandse gunning</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Uprzednie zawiadomienie o bezpośrednim udzieleniu zamówienia</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Pré-anúncio de adjudicação direta</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Notificare prealabilă a atribuirii directe</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné oznámenie o zámere uzavrieť zmluvu</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Predhodno obvestilo o neposredni dodelitvi</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Förhandsmeddelande om direkttilldelning</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/change">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>change</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>change</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>change</atold:op-code>
+    <dc:identifier>change</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">Промяна</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Oprava</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Meddelelse om ændring</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Änderung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αλλαγή</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Change</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Cambio</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Parandus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Ilmoituksen muutos</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Changement</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Athrú</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Promjena</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Változtatás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Rettifica</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Pakeitimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Izmaiņas</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Bidla</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Wijziging van een aankondiging</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Zmiana</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Alteração</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Schimbare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Zmena</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Sprememba obvestila</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Ändring</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/result">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>result</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>result</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>result</atold:op-code>
+    <dc:identifier>result</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">Резултат</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Výsledek</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Resultater</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Ergebnis</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αποτέλεσμα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Result</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Resultados</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Tulemus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Tulokset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Résultats</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Toradh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Rezultati</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Eredmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Risultati</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Rezultatai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Rezultāts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Riżultat</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Resultaat</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wyniki</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Resultados</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Rezultat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Výsledok</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Rezultati</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Resultat</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/planning">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>planning</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>planning</at:op-code>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>planning</atold:op-code>
+    <dc:identifier>planning</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="bg">Планиране</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Plánování</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Planlægning</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Planung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Σχεδιασμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Planning</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Planificación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kavandamine</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Suunnittelu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Planification</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Pleanáil</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Planiranje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tervezés</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Programmazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Planuojamas pirkimas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Plānošana</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Ippjanar</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Geplande opdracht</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Plan zakupu</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Planeamento</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Planificare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Plánovanie obstarávania</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Načrtovanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Planering</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type/bri">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>bri</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>bri</at:op-code>
+    <at:start.use>2021-09-29</at:start.use>
+    <atold:op-code>bri</atold:op-code>
+    <dc:identifier>bri</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/form-type"/>
+    <skos:prefLabel xml:lang="en">Business registration information</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/form-type">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Form type</rdfs:label>
+    <at:prefLabel xml:lang="en">Form type</at:prefLabel>
+    <at:table.id>form-type</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Form type</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

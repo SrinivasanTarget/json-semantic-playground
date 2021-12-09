@@ -1,0 +1,150 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/organisation-role/OP_DATPRO
+- country_code: ben-own
+  deprecated: 'false'
+  key: ben-own
+  label_en: Beneficial owner
+  label_it: Titolare effettivo
+  url: http://publications.europa.eu/resource/authority/organisation-role/ben-own
+  valid_from: '2019-09-18'
+- country_code: buyer
+  deprecated: 'false'
+  key: buyer
+  label_en: Buyer
+  label_it: Committente
+  url: http://publications.europa.eu/resource/authority/organisation-role/buyer
+  valid_from: '2019-09-18'
+- country_code: cpb-acq
+  deprecated: 'false'
+  key: cpb-acq
+  label_en: Central purchasing body acquiring supplies and/or services intended for
+    other buyers
+  label_it: Centrale di committenza per l'acquisizione di forniture e/o servizi destinati
+    ad altri committenti
+  url: http://publications.europa.eu/resource/authority/organisation-role/cpb-acq
+  valid_from: '2019-09-18'
+- country_code: cpb-awa
+  deprecated: 'false'
+  key: cpb-awa
+  label_en: Central purchasing body awarding public contracts or concluding framework
+    agreements for works, supplies or services intended for other buyers
+  label_it: Centrale di committenza per l'aggiudicazione di appalti o la conclusione
+    di accordi quadro per lavori, forniture o servizi destinati ad altri committenti
+  url: http://publications.europa.eu/resource/authority/organisation-role/cpb-awa
+  valid_from: '2019-09-18'
+- country_code: info-emp
+  deprecated: 'false'
+  key: info-emp
+  label_en: Organisation providing information concerning the general regulatory framework
+    for employment protection and working conditions applicable in the place where
+    the contract is to be performed
+  label_it: Organizzazione presso la quale possono essere richieste informazioni sul
+    quadro normativo generale vigente in materia di tutela dei lavoratori e condizioni
+    di lavoro nel luogo in cui l'appalto deve essere eseguito
+  url: http://publications.europa.eu/resource/authority/organisation-role/info-emp
+  valid_from: '2019-09-18'
+- country_code: info-envir
+  deprecated: 'false'
+  key: info-envir
+  label_en: Organisation providing information concerning the general regulatory framework
+    for environmental protection applicable in the place where the contract is to
+    be performed
+  label_it: Organizzazione presso la quale possono essere richieste informazioni sul
+    quadro normativo generale vigente in materia di protezione dell'ambiente nel luogo
+    in cui l'appalto deve essere eseguito
+  url: http://publications.europa.eu/resource/authority/organisation-role/info-envir
+  valid_from: '2019-09-18'
+- country_code: info-tax
+  deprecated: 'false'
+  key: info-tax
+  label_en: Organisation providing information concerning the general regulatory framework
+    for taxes applicable in the place where the contract is to be performed
+  label_it: "Organizzazione presso la quale possono essere richieste informazioni\
+    \ sul quadro normativo generale vigente in materia di fiscalit\xE0 nel luogo in\
+    \ cui l'appalto deve essere eseguito"
+  url: http://publications.europa.eu/resource/authority/organisation-role/info-tax
+  valid_from: '2019-09-18'
+- country_code: mediator
+  deprecated: 'false'
+  key: mediator
+  label_en: Mediation organisation
+  label_it: Organizzazione di mediazione
+  url: http://publications.europa.eu/resource/authority/organisation-role/mediator
+  valid_from: '2019-09-18'
+- country_code: rev-req
+  deprecated: 'false'
+  key: rev-req
+  label_en: Organisation (or person) requesting review that has or has had an interest
+    in a contract and who has been or risks being harmed by an alleged infringement
+  label_it: Organizzazione (o persona) che presenta ricorso, che abbia o abbia avuto
+    interesse a ottenere l'aggiudicazione di un appalto e sia stata o rischi di essere
+    lesa a causa di una presunta violazione
+  url: http://publications.europa.eu/resource/authority/organisation-role/rev-req
+  valid_from: '2020-12-16'
+- country_code: reviewer
+  deprecated: 'false'
+  key: reviewer
+  label_en: Review organisation
+  label_it: Organizzazione competente per i ricorsi
+  url: http://publications.europa.eu/resource/authority/organisation-role/reviewer
+  valid_from: '2019-09-18'
+- country_code: serv-prov
+  deprecated: 'false'
+  key: serv-prov
+  label_en: Procurement service provider
+  label_it: Prestatore di servizi in materia di appalti
+  url: http://publications.europa.eu/resource/authority/organisation-role/serv-prov
+  valid_from: '2019-09-18'
+- country_code: subcont
+  deprecated: 'false'
+  key: subcont
+  label_en: Subcontractor
+  label_it: Subappaltatore
+  url: http://publications.europa.eu/resource/authority/organisation-role/subcont
+  valid_from: '2019-09-18'
+- country_code: ted-esen
+  deprecated: 'false'
+  key: ted-esen
+  label_en: TED eSender
+  label_it: TED eSender
+  url: http://publications.europa.eu/resource/authority/organisation-role/ted-esen
+  valid_from: '2020-03-18'
+- country_code: tenderer
+  deprecated: 'false'
+  key: tenderer
+  label_en: Tenderer
+  label_it: Offerente
+  url: http://publications.europa.eu/resource/authority/organisation-role/tenderer
+  valid_from: '2020-03-18'
+- country_code: winner
+  deprecated: 'false'
+  key: winner
+  label_en: Winner
+  label_it: Vincitore
+  url: http://publications.europa.eu/resource/authority/organisation-role/winner
+  valid_from: '2019-09-18'

@@ -1,0 +1,782 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADDRESSEE
+  deprecated: 'false'
+  key: ADDRESSEE
+  label_en: Addressee
+  label_it: Destinatario
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE
+  valid_from: '1952-07-24'
+- country_code: ADDRESSEE_ACT
+  deprecated: 'false'
+  key: ADDRESSEE_ACT
+  label_en: Addressee for formal act
+  label_it: Destinatario di atto ufficiale
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE_ACT
+  valid_from: '1952-07-24'
+- country_code: ADDRESSEE_CONSULT
+  deprecated: 'false'
+  key: ADDRESSEE_CONSULT
+  label_en: Addressee for consultation
+  label_it: Destinatario di consultazione
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE_CONSULT
+  valid_from: '1952-07-24'
+- country_code: ADDRESSEE_CONSULT_MANDATORY
+  deprecated: 'false'
+  key: ADDRESSEE_CONSULT_MANDATORY
+  label_en: Addressee for mandatory consultation
+  label_it: Destinatario di consultazione obbligatoria
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE_CONSULT_MANDATORY
+  valid_from: '1952-07-24'
+- country_code: ADDRESSEE_CONSULT_OPTION
+  deprecated: 'false'
+  key: ADDRESSEE_CONSULT_OPTION
+  label_en: Addressee for optional consultation
+  label_it: Destinatario di consultazione facoltativa
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE_CONSULT_OPTION
+  valid_from: '1952-07-24'
+- country_code: ADDRESSEE_INFO
+  deprecated: 'false'
+  key: ADDRESSEE_INFO
+  label_en: Addressee for information
+  label_it: Destinatario a titolo informativo
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE_INFO
+  valid_from: '1952-07-24'
+- country_code: ADDRESSEE_MANDATORY
+  deprecated: 'false'
+  key: ADDRESSEE_MANDATORY
+  label_en: Mandatory addressee
+  label_it: Destinatario obbligatorio
+  url: http://publications.europa.eu/resource/authority/role/ADDRESSEE_MANDATORY
+  valid_from: '2016-06-10'
+- country_code: ADVOC
+  deprecated: 'false'
+  key: ADVOC
+  label_en: Advocate
+  label_it: Avvocato
+  url: http://publications.europa.eu/resource/authority/role/ADVOC
+  valid_from: '1952-07-24'
+- country_code: ADVOC_G
+  deprecated: 'false'
+  key: ADVOC_G
+  label_en: Advocate-General
+  label_it: Avvocato generale
+  url: http://publications.europa.eu/resource/authority/role/ADVOC_G
+  valid_from: '1952-07-24'
+- country_code: ALLY
+  deprecated: 'false'
+  key: ALLY
+  label_en: Ally
+  label_it: Apparentato
+  url: http://publications.europa.eu/resource/authority/role/ALLY
+  valid_from: '2021-09-29'
+- country_code: ASSOC_CORP
+  deprecated: 'false'
+  key: ASSOC_CORP
+  label_en: Associated service
+  label_it: Servizio associato
+  url: http://publications.europa.eu/resource/authority/role/ASSOC_CORP
+  valid_from: '1952-07-24'
+- country_code: ASSOC_JUDGE
+  deprecated: 'false'
+  key: ASSOC_JUDGE
+  label_en: Associate judge
+  label_it: Giudice assessore
+  url: http://publications.europa.eu/resource/authority/role/ASSOC_JUDGE
+  valid_from: '1952-07-24'
+- country_code: AUT
+  deprecated: 'false'
+  key: AUT
+  label_en: Author
+  label_it: Autore
+  url: http://publications.europa.eu/resource/authority/role/AUT
+  valid_from: '1952-07-24'
+- country_code: AUTHORI
+  deprecated: 'false'
+  key: AUTHORI
+  label_en: Authorising entity
+  label_it: "Entit\xE0 preposta all\u2019autorizzazione"
+  url: http://publications.europa.eu/resource/authority/role/AUTHORI
+  valid_from: '1952-07-24'
+- country_code: AUT_OPIN
+  deprecated: 'false'
+  key: AUT_OPIN
+  label_en: Author of opinion
+  label_it: Autore del parere
+  url: http://publications.europa.eu/resource/authority/role/AUT_OPIN
+  valid_from: '1952-07-24'
+- country_code: AUT_REPORT
+  deprecated: 'false'
+  key: AUT_REPORT
+  label_en: Author of report
+  label_it: Autore della relazione
+  url: http://publications.europa.eu/resource/authority/role/AUT_REPORT
+  valid_from: '1952-07-24'
+- country_code: CHAIR
+  deprecated: 'false'
+  key: CHAIR
+  label_en: Chairman
+  label_it: Presidente
+  url: http://publications.europa.eu/resource/authority/role/CHAIR
+  valid_from: '1952-07-24'
+- country_code: CHAIR_BUREAU
+  deprecated: 'false'
+  key: CHAIR_BUREAU
+  label_en: Chair of the Bureau
+  label_it: Presidente dell'ufficio di presidenza
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_BUREAU
+  valid_from: '1962-03-30'
+- country_code: CHAIR_CMT
+  deprecated: 'false'
+  key: CHAIR_CMT
+  label_en: Committee Chair
+  label_it: Presidenti de commissione
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_CMT
+  valid_from: '1952-07-24'
+- country_code: CHAIR_CO
+  deprecated: 'false'
+  key: CHAIR_CO
+  label_en: Co-Chair
+  label_it: Copresidente
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_CO
+  valid_from: '1952-07-24'
+- country_code: CHAIR_DEP
+  deprecated: 'false'
+  key: CHAIR_DEP
+  label_en: Deputy Chair
+  label_it: Vicepresidente
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_DEP
+  valid_from: '1952-07-24'
+- country_code: CHAIR_VICE
+  deprecated: 'false'
+  key: CHAIR_VICE
+  label_en: Vice-Chairman
+  label_it: Vicepresidente
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_VICE
+  valid_from: '1952-07-24'
+- country_code: CHAIR_VICE_FIRST
+  deprecated: 'false'
+  key: CHAIR_VICE_FIRST
+  label_en: First Vice-Chair
+  label_it: primo vicepresidente
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_VICE_FIRST
+  valid_from: '2021-09-29'
+- country_code: CHAIR_VICE_FIRST_MEM_BU
+  deprecated: 'false'
+  key: CHAIR_VICE_FIRST_MEM_BU
+  label_en: First Vice-Chair/Member of the Bureau
+  label_it: "Primo vicepresidente/Membro dell\u2019ufficio di presidenza"
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_VICE_FIRST_MEM_BU
+  valid_from: '2021-09-29'
+- country_code: CHAIR_VICE_MEM_BU
+  deprecated: 'false'
+  key: CHAIR_VICE_MEM_BU
+  label_en: Vice-Chair/Member of the Bureau
+  label_it: "Vicepresidente/Membro dell\u2019ufficio di presidenza"
+  url: http://publications.europa.eu/resource/authority/role/CHAIR_VICE_MEM_BU
+  valid_from: '1962-03-30'
+- country_code: CMT_OPIN
+  deprecated: 'false'
+  key: CMT_OPIN
+  label_en: Parliamentary committee for opinion
+  label_it: Commissione parlamentare competente per parere
+  url: http://publications.europa.eu/resource/authority/role/CMT_OPIN
+  valid_from: '1952-07-24'
+- country_code: CMT_OPIN_ASSOC
+  deprecated: 'false'
+  key: CMT_OPIN_ASSOC
+  label_en: Associated parliamentary committee for opinion
+  url: http://publications.europa.eu/resource/authority/role/CMT_OPIN_ASSOC
+  valid_from: '1952-07-24'
+- country_code: CMT_RESP
+  deprecated: 'false'
+  key: CMT_RESP
+  label_en: Parliamentary committee responsible
+  label_it: Commissione parlamentare competente per il merito
+  url: http://publications.europa.eu/resource/authority/role/CMT_RESP
+  valid_from: '1952-07-24'
+- country_code: COLLECTOR
+  deprecated: 'false'
+  key: COLLECTOR
+  label_en: Collector
+  label_it: Raccoglitore
+  url: http://publications.europa.eu/resource/authority/role/COLLECTOR
+  valid_from: '2018-06-11'
+- country_code: COMPILER
+  deprecated: 'false'
+  key: COMPILER
+  label_en: Compilator
+  label_it: Compilatore
+  url: http://publications.europa.eu/resource/authority/role/COMPILER
+  valid_from: '1952-07-24'
+- country_code: CONTRIB
+  deprecated: 'false'
+  key: CONTRIB
+  label_en: Contributor
+  label_it: Contributore
+  url: http://publications.europa.eu/resource/authority/role/CONTRIB
+  valid_from: '1952-07-24'
+- country_code: DEPOSITOR
+  deprecated: 'false'
+  key: DEPOSITOR
+  label_en: Depositor
+  label_it: Depositante
+  url: http://publications.europa.eu/resource/authority/role/DEPOSITOR
+  valid_from: '2021-09-29'
+- country_code: DEPOSITORY
+  deprecated: 'false'
+  key: DEPOSITORY
+  label_en: Depository
+  label_it: Depositario
+  url: http://publications.europa.eu/resource/authority/role/DEPOSITORY
+  valid_from: '2021-09-29'
+- country_code: DIR_COM_REGISTRY
+  deprecated: 'false'
+  key: DIR_COM_REGISTRY
+  label_en: Director of the Registry
+  label_it: Direttore della cancelleria
+  url: http://publications.europa.eu/resource/authority/role/DIR_COM_REGISTRY
+  valid_from: '2020-10-21'
+- country_code: DIR_EXEC
+  deprecated: 'false'
+  key: DIR_EXEC
+  label_en: Executive Director
+  label_it: Direttore esecutivo
+  url: http://publications.europa.eu/resource/authority/role/DIR_EXEC
+  valid_from: '1952-07-24'
+- country_code: DIR_GEN
+  deprecated: 'false'
+  key: DIR_GEN
+  label_en: Director-General
+  label_it: Direttore generale
+  url: http://publications.europa.eu/resource/authority/role/DIR_GEN
+  valid_from: '1952-07-24'
+- country_code: EDITOR
+  deprecated: 'false'
+  key: EDITOR
+  label_en: Editor
+  label_it: Redattore
+  url: http://publications.europa.eu/resource/authority/role/EDITOR
+  valid_from: '1952-07-24'
+- country_code: EMP_OFF_DIR_REGISTRY
+  deprecated: 'false'
+  key: EMP_OFF_DIR_REGISTRY
+  label_en: Registry official empowered to sign on behalf of the Director of the Registry
+  label_it: Funzionario della cancelleria abilitato a firmare per conto del direttore
+    della cancelleria
+  url: http://publications.europa.eu/resource/authority/role/EMP_OFF_DIR_REGISTRY
+  valid_from: '2020-10-21'
+- country_code: EU_ATC
+  deprecated: 'false'
+  key: EU_ATC
+  label_en: EU Anti-Trafficking Coordinator
+  label_it: "Coordinatore anti-tratta dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/role/EU_ATC
+  valid_from: '2011-04-05'
+- country_code: FORM_COURT
+  deprecated: 'false'
+  key: FORM_COURT
+  label_en: Formation of the Court
+  label_it: Collegio giudicante
+  url: http://publications.europa.eu/resource/authority/role/FORM_COURT
+  valid_from: '1952-07-24'
+- country_code: HEAR_OFF
+  deprecated: 'false'
+  key: HEAR_OFF
+  label_en: Hearing officer
+  label_it: Consigliere-auditore
+  url: http://publications.europa.eu/resource/authority/role/HEAR_OFF
+  valid_from: '1990-01-01'
+- country_code: ILLUSTR
+  deprecated: 'false'
+  key: ILLUSTR
+  label_en: Illustrator
+  label_it: Illustratore
+  url: http://publications.europa.eu/resource/authority/role/ILLUSTR
+  valid_from: '2009-12-01'
+- country_code: INTERV
+  deprecated: 'false'
+  key: INTERV
+  label_en: Intervener
+  label_it: Interveniente
+  url: http://publications.europa.eu/resource/authority/role/INTERV
+  valid_from: '1952-07-24'
+- country_code: JUDGE
+  deprecated: 'false'
+  key: JUDGE
+  label_en: Judge
+  label_it: Giudice
+  url: http://publications.europa.eu/resource/authority/role/JUDGE
+  valid_from: '1952-07-24'
+- country_code: JUDGE_RAPP
+  deprecated: 'false'
+  key: JUDGE_RAPP
+  label_en: Judge-Rapporteur
+  label_it: Giudice relatore
+  url: http://publications.europa.eu/resource/authority/role/JUDGE_RAPP
+  valid_from: '1952-07-24'
+- country_code: LEAD_CORP
+  deprecated: 'false'
+  key: LEAD_CORP
+  label_en: Leading service
+  label_it: Servizio capofila
+  url: http://publications.europa.eu/resource/authority/role/LEAD_CORP
+  valid_from: '1952-07-24'
+- country_code: LEAD_JOINT_CORP
+  deprecated: 'false'
+  key: LEAD_JOINT_CORP
+  label_en: Joint leading service
+  label_it: Servizio corresponsabile
+  url: http://publications.europa.eu/resource/authority/role/LEAD_JOINT_CORP
+  valid_from: '1952-07-24'
+- country_code: LEAD_JOINT_PERS
+  deprecated: 'false'
+  key: LEAD_JOINT_PERS
+  label_en: Joint leading person
+  label_it: Persona corresponsabile
+  url: http://publications.europa.eu/resource/authority/role/LEAD_JOINT_PERS
+  valid_from: '1952-07-24'
+- country_code: LEAD_PERS
+  deprecated: 'false'
+  key: LEAD_PERS
+  label_en: Leading person
+  label_it: Persona responsabile
+  url: http://publications.europa.eu/resource/authority/role/LEAD_PERS
+  valid_from: '1952-07-24'
+- country_code: MEDIATOR
+  deprecated: 'false'
+  key: MEDIATOR
+  label_en: Mediator
+  label_it: Mediatore
+  url: http://publications.europa.eu/resource/authority/role/MEDIATOR
+  valid_from: '1952-07-24'
+- country_code: MEMBER
+  deprecated: 'false'
+  key: MEMBER
+  label_en: Member
+  label_it: Membro
+  url: http://publications.europa.eu/resource/authority/role/MEMBER
+  valid_from: '1952-07-24'
+- country_code: MEMBER_ALT
+  deprecated: 'false'
+  key: MEMBER_ALT
+  label_en: Alternate member
+  label_it: Membro supplente
+  url: http://publications.europa.eu/resource/authority/role/MEMBER_ALT
+  valid_from: '1952-07-24'
+- country_code: MEMBER_BUREAU
+  deprecated: 'false'
+  key: MEMBER_BUREAU
+  label_en: Member of the Bureau
+  label_it: "Membro dell\u2019ufficio di presidenza"
+  url: http://publications.europa.eu/resource/authority/role/MEMBER_BUREAU
+  valid_from: '1962-03-30'
+- country_code: MEMBER_COM
+  deprecated: 'false'
+  key: MEMBER_COM
+  label_en: Member of the Commission
+  label_it: Membro della Commissione
+  url: http://publications.europa.eu/resource/authority/role/MEMBER_COM
+  valid_from: '1965-04-08'
+- country_code: MEMBER_EP
+  deprecated: 'false'
+  key: MEMBER_EP
+  label_en: Member of Parliament
+  label_it: Eurodeputato
+  url: http://publications.europa.eu/resource/authority/role/MEMBER_EP
+  valid_from: '1952-07-24'
+- country_code: MEMBER_REPORT
+  deprecated: 'false'
+  key: MEMBER_REPORT
+  label_en: Reporting Member
+  label_it: Membro relatore
+  url: http://publications.europa.eu/resource/authority/role/MEMBER_REPORT
+  valid_from: '1992-02-07'
+- country_code: MEMB_BUREAU_ENLARG
+  deprecated: 'false'
+  key: MEMB_BUREAU_ENLARG
+  label_en: Member of the enlarged Bureau
+  label_it: "Membro dell\u2019Ufficio di presidenza ampliato"
+  url: http://publications.europa.eu/resource/authority/role/MEMB_BUREAU_ENLARG
+  valid_from: '1962-03-30'
+- country_code: OBSERVER
+  deprecated: 'false'
+  key: OBSERVER
+  label_en: Observer
+  label_it: Osservatore
+  url: http://publications.europa.eu/resource/authority/role/OBSERVER
+  valid_from: '2021-09-29'
+- country_code: OBSERVER_SUBST
+  deprecated: 'false'
+  key: OBSERVER_SUBST
+  label_en: Substitute observer
+  label_it: Osservatore sostituto
+  url: http://publications.europa.eu/resource/authority/role/OBSERVER_SUBST
+  valid_from: '2021-09-29'
+- country_code: OMBUDSMAN
+  deprecated: 'false'
+  key: OMBUDSMAN
+  label_en: European Ombudsman
+  label_it: Mediatore europeo
+  url: http://publications.europa.eu/resource/authority/role/OMBUDSMAN
+  valid_from: '1995-07-12'
+- country_code: OPERATOR
+  deprecated: 'false'
+  key: OPERATOR
+  label_en: Operator
+  label_it: Operatore
+  url: http://publications.europa.eu/resource/authority/role/OPERATOR
+  valid_from: '2018-06-11'
+- country_code: PRESID
+  deprecated: 'false'
+  key: PRESID
+  label_en: President
+  label_it: Presidente
+  url: http://publications.europa.eu/resource/authority/role/PRESID
+  valid_from: '1952-07-24'
+- country_code: PRESID_ACTING
+  deprecated: 'false'
+  key: PRESID_ACTING
+  label_en: Acting President
+  label_it: Presidente ad interim
+  url: http://publications.europa.eu/resource/authority/role/PRESID_ACTING
+  valid_from: '1952-07-24'
+- country_code: PRESID_CHAMB
+  deprecated: 'false'
+  key: PRESID_CHAMB
+  label_en: President of the Chamber
+  label_it: Presidente di sezione
+  url: http://publications.europa.eu/resource/authority/role/PRESID_CHAMB
+  valid_from: '1952-07-24'
+- country_code: PRESID_CMT
+  deprecated: 'false'
+  key: PRESID_CMT
+  label_en: President of the Committee
+  label_it: Presidente del Comitato
+  url: http://publications.europa.eu/resource/authority/role/PRESID_CMT
+  valid_from: '1952-07-24'
+- country_code: PRESID_CO
+  deprecated: 'false'
+  key: PRESID_CO
+  label_en: Co-President
+  label_it: Copresidente
+  url: http://publications.europa.eu/resource/authority/role/PRESID_CO
+  valid_from: '1952-07-24'
+- country_code: PRESID_COM
+  deprecated: 'false'
+  key: PRESID_COM
+  label_en: President of the European Commission
+  label_it: Presidente della Commissione europea
+  url: http://publications.europa.eu/resource/authority/role/PRESID_COM
+  valid_from: '1965-04-08'
+- country_code: PRESID_CONSIL
+  deprecated: 'false'
+  key: PRESID_CONSIL
+  label_en: President of the Council
+  label_it: Presidente del Consiglio
+  url: http://publications.europa.eu/resource/authority/role/PRESID_CONSIL
+  valid_from: '1952-07-24'
+- country_code: PRESID_COR
+  deprecated: 'false'
+  key: PRESID_COR
+  label_en: President of the Committee of the Regions
+  label_it: Presidente del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/role/PRESID_COR
+  valid_from: '1992-02-07'
+- country_code: PRESID_CURIA
+  deprecated: 'false'
+  key: PRESID_CURIA
+  label_en: President of the Court of Justice
+  label_it: Presidente della Corte di giustizia
+  url: http://publications.europa.eu/resource/authority/role/PRESID_CURIA
+  valid_from: '1952-07-24'
+- country_code: PRESID_ECA
+  deprecated: 'false'
+  key: PRESID_ECA
+  label_en: President of the Court of Auditors
+  label_it: Presidente della Corte dei conti
+  url: http://publications.europa.eu/resource/authority/role/PRESID_ECA
+  valid_from: '1992-02-07'
+- country_code: PRESID_EP
+  deprecated: 'false'
+  key: PRESID_EP
+  label_en: President of the European Parliament
+  label_it: Presidente del Parlamento europeo
+  url: http://publications.europa.eu/resource/authority/role/PRESID_EP
+  valid_from: '1952-07-24'
+- country_code: PRESID_EURCOU
+  deprecated: 'false'
+  key: PRESID_EURCOU
+  label_en: President of the European Council
+  label_it: Presidente del Consiglio europeo
+  url: http://publications.europa.eu/resource/authority/role/PRESID_EURCOU
+  valid_from: '1975-10-03'
+- country_code: PRESID_VICE
+  deprecated: 'false'
+  key: PRESID_VICE
+  label_en: Vice-President
+  label_it: Vicepresidente
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE
+  valid_from: '1952-07-24'
+- country_code: PRESID_VICE_COM
+  deprecated: 'false'
+  key: PRESID_VICE_COM
+  label_en: Vice-President of the European Commission
+  label_it: Vicepresidente della Commissione europea
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE_COM
+  valid_from: '1965-04-08'
+- country_code: PRESID_VICE_EP
+  deprecated: 'false'
+  key: PRESID_VICE_EP
+  label_en: Vice-President of the European Parliament
+  label_it: Vicepresidente del Parlamento europeo
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE_EP
+  valid_from: '1952-07-24'
+- country_code: PRESID_VICE_EXEC
+  deprecated: 'false'
+  key: PRESID_VICE_EXEC
+  label_en: Executive Vice-President
+  label_it: Vicepresidente esecutivo
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE_EXEC
+  valid_from: '2019-12-01'
+- country_code: PRESID_VICE_FIRST
+  deprecated: 'false'
+  key: PRESID_VICE_FIRST
+  label_en: First Vice-President
+  label_it: Primo vicepresidente
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE_FIRST
+  valid_from: '1952-07-24'
+- country_code: PRESID_VICE_SECOND
+  deprecated: 'false'
+  key: PRESID_VICE_SECOND
+  label_en: Second Vice-President
+  label_it: Secondo vicepresidente
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE_SECOND
+  valid_from: '2021-09-29'
+- country_code: PRESID_VICE_STOA_EP
+  deprecated: 'false'
+  key: PRESID_VICE_STOA_EP
+  label_en: EP Vice-President responsible for STOA
+  label_it: "Vicepresidente del PE con responsabilit\xE0 per lo STOA"
+  url: http://publications.europa.eu/resource/authority/role/PRESID_VICE_STOA_EP
+  valid_from: '2021-09-29'
+- country_code: PRINTER
+  deprecated: 'false'
+  key: PRINTER
+  label_en: Printer
+  label_it: Stampatore
+  url: http://publications.europa.eu/resource/authority/role/PRINTER
+  valid_from: '1952-07-24'
+- country_code: PUBLISHER
+  deprecated: 'false'
+  key: PUBLISHER
+  label_en: Publisher
+  label_it: Editore
+  url: http://publications.europa.eu/resource/authority/role/PUBLISHER
+  valid_from: '1952-07-24'
+- country_code: QUAESTOR
+  deprecated: 'false'
+  key: QUAESTOR
+  label_en: Quaestor
+  label_it: Questore
+  url: http://publications.europa.eu/resource/authority/role/QUAESTOR
+  valid_from: '1952-07-24'
+- country_code: RAPP
+  deprecated: 'false'
+  key: RAPP
+  label_en: Rapporteur
+  label_it: Relatore
+  url: http://publications.europa.eu/resource/authority/role/RAPP
+  valid_from: '1952-07-24'
+- country_code: RAPP_CO
+  deprecated: 'false'
+  key: RAPP_CO
+  label_en: Co-rapporteur
+  label_it: Correlatore
+  url: http://publications.europa.eu/resource/authority/role/RAPP_CO
+  valid_from: '1952-07-24'
+- country_code: RAPP_GEN
+  deprecated: 'false'
+  key: RAPP_GEN
+  label_en: Rapporteur-general
+  label_it: Relatore generale
+  url: http://publications.europa.eu/resource/authority/role/RAPP_GEN
+  valid_from: '1952-07-24'
+- country_code: RAPP_OPIN
+  deprecated: 'false'
+  key: RAPP_OPIN
+  label_en: Rapporteur for the opinion
+  label_it: Relatore per parere
+  url: http://publications.europa.eu/resource/authority/role/RAPP_OPIN
+  valid_from: '1952-07-24'
+- country_code: REGISTRAR
+  deprecated: 'false'
+  key: REGISTRAR
+  label_en: Registrar
+  label_it: Cancelliere
+  url: http://publications.europa.eu/resource/authority/role/REGISTRAR
+  valid_from: '1952-07-24'
+- country_code: REPR_GOV
+  deprecated: 'false'
+  key: REPR_GOV
+  label_en: Representatives of the Governments of the Member States
+  label_it: Rappresentanti dei governi degli Stati membri
+  url: http://publications.europa.eu/resource/authority/role/REPR_GOV
+  valid_from: '1952-07-24'
+- country_code: REPR_HIGH
+  deprecated: 'false'
+  key: REPR_HIGH
+  label_en: High Representative of the Union
+  label_it: "Alto rappresentante dell\u2019Unione"
+  url: http://publications.europa.eu/resource/authority/role/REPR_HIGH
+  valid_from: '2009-12-01'
+- country_code: REPR_PERM
+  deprecated: 'false'
+  key: REPR_PERM
+  label_en: Permanent representatives
+  label_it: Rappresentanti permanenti
+  url: http://publications.europa.eu/resource/authority/role/REPR_PERM
+  valid_from: '1965-04-08'
+- country_code: RESP_CORP
+  deprecated: 'true'
+  key: RESP_CORP
+  label_en: Leading service
+  label_it: Servizio responsabile in via principale
+  url: http://publications.europa.eu/resource/authority/role/RESP_CORP
+  valid_from: '1952-07-24'
+  valid_until: '2012-08-02'
+- country_code: RESP_INST
+  deprecated: 'false'
+  key: RESP_INST
+  label_en: Responsible institution
+  label_it: Istituzione responsabile
+  url: http://publications.europa.eu/resource/authority/role/RESP_INST
+  valid_from: '2012-01-01'
+- country_code: RESP_JOINT_CORP
+  deprecated: 'true'
+  key: RESP_JOINT_CORP
+  label_en: Joint leading service
+  label_it: Servizio congiuntamente responsabile
+  url: http://publications.europa.eu/resource/authority/role/RESP_JOINT_CORP
+  valid_from: '1952-07-24'
+  valid_until: '2012-08-02'
+- country_code: RESP_JOINT_PERS
+  deprecated: 'true'
+  key: RESP_JOINT_PERS
+  label_en: Joint leading person
+  label_it: Persona congiuntamente responsabile
+  url: http://publications.europa.eu/resource/authority/role/RESP_JOINT_PERS
+  valid_from: '1952-07-24'
+  valid_until: '2012-08-02'
+- country_code: RESP_PERS
+  deprecated: 'true'
+  key: RESP_PERS
+  label_en: Leading person
+  label_it: Responsabile
+  url: http://publications.europa.eu/resource/authority/role/RESP_PERS
+  valid_from: '1952-07-24'
+  valid_until: '2012-08-02'
+- country_code: SECR_BUREAU
+  deprecated: 'false'
+  key: SECR_BUREAU
+  label_en: Secretary to the Bureau
+  label_it: "Segretario dell\u2019Uff. di presidenza"
+  url: http://publications.europa.eu/resource/authority/role/SECR_BUREAU
+  valid_from: '1962-03-30'
+- country_code: SEC_GEN
+  deprecated: 'false'
+  key: SEC_GEN
+  label_en: Secretary-General
+  label_it: Segretario generale
+  url: http://publications.europa.eu/resource/authority/role/SEC_GEN
+  valid_from: '1952-07-24'
+- country_code: SIGN
+  deprecated: 'false'
+  key: SIGN
+  label_en: Signatory
+  label_it: Firmatario
+  url: http://publications.europa.eu/resource/authority/role/SIGN
+  valid_from: '1952-07-24'
+- country_code: SPEAK
+  deprecated: 'false'
+  key: SPEAK
+  label_en: Speaker
+  label_it: Oratore
+  url: http://publications.europa.eu/resource/authority/role/SPEAK
+  valid_from: '1952-07-24'
+- country_code: TAKING_OVER
+  deprecated: 'false'
+  key: TAKING_OVER
+  label_en: Taking over
+  label_it: Responsabile
+  url: http://publications.europa.eu/resource/authority/role/TAKING_OVER
+  valid_from: '1952-07-24'
+- country_code: TENDER
+  deprecated: 'false'
+  key: TENDER
+  label_en: Tenderer
+  label_it: Offerente
+  url: http://publications.europa.eu/resource/authority/role/TENDER
+  valid_from: '1952-07-24'
+- country_code: TRANSL
+  deprecated: 'false'
+  key: TRANSL
+  label_en: Translator
+  label_it: Traduttore
+  url: http://publications.europa.eu/resource/authority/role/TRANSL
+  valid_from: '1952-07-24'
+- country_code: TREASURER
+  deprecated: 'false'
+  key: TREASURER
+  label_en: Treasurer
+  label_it: Tesoriere
+  url: http://publications.europa.eu/resource/authority/role/TREASURER
+  valid_from: '1952-07-24'
+- country_code: TREASURER_CO
+  deprecated: 'false'
+  key: TREASURER_CO
+  label_en: Co-treasurer
+  label_it: Cotesoriere
+  url: http://publications.europa.eu/resource/authority/role/TREASURER_CO
+  valid_from: '1952-07-24'
+- country_code: TREASURER_DEP
+  deprecated: 'false'
+  key: TREASURER_DEP
+  label_en: Deputy Treasurer
+  label_it: Tesoriere aggiunto
+  url: http://publications.europa.eu/resource/authority/role/TREASURER_DEP
+  valid_from: '2021-09-29'
+- country_code: TREA_CHAIR_VICE_MEM_BU
+  deprecated: 'false'
+  key: TREA_CHAIR_VICE_MEM_BU
+  label_en: Treasurer/Vice-Chair/Member of the Bureau
+  label_it: "Tesoriere/Vicepresidente/Membro dell\u2019ufficio di presidenza"
+  url: http://publications.europa.eu/resource/authority/role/TREA_CHAIR_VICE_MEM_BU
+  valid_from: '2021-09-29'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/roles/OP_DATPRO
+  valid_from: '1952-07-23'

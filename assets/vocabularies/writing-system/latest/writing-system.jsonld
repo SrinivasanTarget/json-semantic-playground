@@ -1,0 +1,999 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/ABUGIDA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ABUGIDA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ABUGIDA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ABUGIDA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ABUGIDA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Абугида"
+      },
+      {
+        "@language": "cs",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "da",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "de",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "el",
+        "@value": "Αμπουγκίντα"
+      },
+      {
+        "@language": "en",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "es",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "et",
+        "@value": "Konsonant-vokaalne kiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "fr",
+        "@value": "Alphasyllabaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "hr",
+        "@value": "Abugidsko"
+      },
+      {
+        "@language": "hu",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "it",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pusiau skiemeninė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "mt",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "nl",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "pl",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "pt",
+        "@value": "Alfassilábico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "sk",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "sl",
+        "@value": "Abugida"
+      },
+      {
+        "@language": "sv",
+        "@value": "Abugida"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Writing system"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "writing-system"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20200923-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Writing system"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20200923-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Writing system"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/ABJAD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ABJAD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ABJAD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ABJAD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ABJAD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Абджад"
+      },
+      {
+        "@language": "cs",
+        "@value": "Abdžád"
+      },
+      {
+        "@language": "da",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "de",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "el",
+        "@value": "Αμπτζάντ"
+      },
+      {
+        "@language": "en",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "es",
+        "@value": "Abyad"
+      },
+      {
+        "@language": "et",
+        "@value": "Konsonantkiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "fr",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "ga",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "hr",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "hu",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "it",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priebalsinė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Abdžads"
+      },
+      {
+        "@language": "mt",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "nl",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "pl",
+        "@value": "Abdżad"
+      },
+      {
+        "@language": "pt",
+        "@value": "Consonântico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Abjad"
+      },
+      {
+        "@language": "sk",
+        "@value": "Abdžad"
+      },
+      {
+        "@language": "sl",
+        "@value": "Abdžad"
+      },
+      {
+        "@language": "sv",
+        "@value": "Abjad"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/FEATURAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FEATURAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FEATURAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FEATURAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FEATURAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Признакова система"
+      },
+      {
+        "@language": "cs",
+        "@value": "Písmo reflektující fonetické rysy jazyka"
+      },
+      {
+        "@language": "da",
+        "@value": "Fonologisk"
+      },
+      {
+        "@language": "de",
+        "@value": "Alphabetosyllabisch"
+      },
+      {
+        "@language": "el",
+        "@value": "Φθογγογραφικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Featural"
+      },
+      {
+        "@language": "es",
+        "@value": "Rasgal"
+      },
+      {
+        "@language": "et",
+        "@value": "Foneetiliste omaduste põhine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Foneettisiin ominaisuuksiin perustuva"
+      },
+      {
+        "@language": "fr",
+        "@value": "Featural"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gnéitheach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Posebno glasovno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Megjelenítő"
+      },
+      {
+        "@language": "it",
+        "@value": "Distintivo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Fonetinė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Fonēmiskā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Distintiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "Featural"
+      },
+      {
+        "@language": "pl",
+        "@value": "Funkcyjne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Trácico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Subfonologic"
+      },
+      {
+        "@language": "sk",
+        "@value": "Fonetický prepis"
+      },
+      {
+        "@language": "sl",
+        "@value": "Posebno fonetsko"
+      },
+      {
+        "@language": "sv",
+        "@value": "Fonematiskt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/SYLLABIC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SYLLABIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SYLLABIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SYLLABIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SYLLABIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Сричкова система"
+      },
+      {
+        "@language": "cs",
+        "@value": "Slabičné písmo"
+      },
+      {
+        "@language": "da",
+        "@value": "Syllabisk"
+      },
+      {
+        "@language": "de",
+        "@value": "Syllabisch"
+      },
+      {
+        "@language": "el",
+        "@value": "Συλλαβικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Syllabic"
+      },
+      {
+        "@language": "es",
+        "@value": "Silábico"
+      },
+      {
+        "@language": "et",
+        "@value": "Silpkiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "Syllabinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Syllabique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Siollach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Slogovno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szillabikus"
+      },
+      {
+        "@language": "it",
+        "@value": "Sillabico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skiemeninė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Zilbju"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sillabiku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Syllabisch"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sylabariusz"
+      },
+      {
+        "@language": "pt",
+        "@value": "Silábico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Silabic"
+      },
+      {
+        "@language": "sk",
+        "@value": "Slabičné písmo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zlogovno"
+      },
+      {
+        "@language": "sv",
+        "@value": "Stavelseskrift"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/ALPHABETIC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ALPHABETIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ALPHABETIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ALPHABETIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ALPHABETIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Азбучна система"
+      },
+      {
+        "@language": "cs",
+        "@value": "Abeceda"
+      },
+      {
+        "@language": "da",
+        "@value": "Alfabetisk"
+      },
+      {
+        "@language": "de",
+        "@value": "Alphabetisch"
+      },
+      {
+        "@language": "el",
+        "@value": "Αλφαβητικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Alphabetic"
+      },
+      {
+        "@language": "es",
+        "@value": "Alfabético"
+      },
+      {
+        "@language": "et",
+        "@value": "Häälikkiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "Aakkosellinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Alphabétique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Aibítreach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Alfabetsko"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alfabetikus"
+      },
+      {
+        "@language": "it",
+        "@value": "Alfabetico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Abėcėlinė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Alfabētiskā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Alfabetiku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Alfabetisch"
+      },
+      {
+        "@language": "pl",
+        "@value": "Alfabetyczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Alfabético"
+      },
+      {
+        "@language": "ro",
+        "@value": "Alfabetic"
+      },
+      {
+        "@language": "sk",
+        "@value": "Alfabetické písmo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Abecedno"
+      },
+      {
+        "@language": "sv",
+        "@value": "Alfabetiskt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/writing-system/LOGOGRAPHIC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LOGOGRAPHIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LOGOGRAPHIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LOGOGRAPHIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LOGOGRAPHIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/writing-system"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Логографическа система"
+      },
+      {
+        "@language": "cs",
+        "@value": "Logogram"
+      },
+      {
+        "@language": "da",
+        "@value": "Logografisk"
+      },
+      {
+        "@language": "de",
+        "@value": "Logografisch"
+      },
+      {
+        "@language": "el",
+        "@value": "Λογογραφικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Logographic"
+      },
+      {
+        "@language": "es",
+        "@value": "Logográfico"
+      },
+      {
+        "@language": "et",
+        "@value": "Logograafiline kiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "Logografinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Logographique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Logagrafach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Logografsko"
+      },
+      {
+        "@language": "hu",
+        "@value": "Logografikus"
+      },
+      {
+        "@language": "it",
+        "@value": "Logografico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Logografinė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Logogrāfiskā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Logografiku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Logografisch"
+      },
+      {
+        "@language": "pl",
+        "@value": "Logograficzne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Logográfico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Logografic"
+      },
+      {
+        "@language": "sk",
+        "@value": "Logografické písmo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Logografsko"
+      },
+      {
+        "@language": "sv",
+        "@value": "Logografiskt"
+      }
+    ]
+  }
+]

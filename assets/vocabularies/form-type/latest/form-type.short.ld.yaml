@@ -1,0 +1,75 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/form-type/OP_DATPRO
+- country_code: bri
+  deprecated: 'false'
+  key: bri
+  label_en: Business registration information
+  url: http://publications.europa.eu/resource/authority/form-type/bri
+  valid_from: '2021-09-29'
+- country_code: change
+  deprecated: 'false'
+  key: change
+  label_en: Change
+  label_it: Rettifica
+  url: http://publications.europa.eu/resource/authority/form-type/change
+  valid_from: '2019-09-18'
+- country_code: competition
+  deprecated: 'false'
+  key: competition
+  label_en: Competition
+  label_it: Gara
+  url: http://publications.europa.eu/resource/authority/form-type/competition
+  valid_from: '2019-09-18'
+- country_code: cont-modif
+  deprecated: 'false'
+  key: cont-modif
+  label_en: Contract modification
+  label_it: Modifica dell'appalto
+  url: http://publications.europa.eu/resource/authority/form-type/cont-modif
+  valid_from: '2019-09-18'
+- country_code: dir-awa-pre
+  deprecated: 'false'
+  key: dir-awa-pre
+  label_en: Direct award preannouncement
+  label_it: Preavviso di aggiudicazione diretta
+  url: http://publications.europa.eu/resource/authority/form-type/dir-awa-pre
+  valid_from: '2019-09-18'
+- country_code: planning
+  deprecated: 'false'
+  key: planning
+  label_en: Planning
+  label_it: Programmazione
+  url: http://publications.europa.eu/resource/authority/form-type/planning
+  valid_from: '2019-09-18'
+- country_code: result
+  deprecated: 'false'
+  key: result
+  label_en: Result
+  label_it: Risultati
+  url: http://publications.europa.eu/resource/authority/form-type/result
+  valid_from: '2019-09-18'

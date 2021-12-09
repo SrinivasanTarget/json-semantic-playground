@@ -1,0 +1,9106 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b29"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "протокол"
+      },
+      {
+        "@language": "cs",
+        "@value": "protokol"
+      },
+      {
+        "@language": "da",
+        "@value": "protokol"
+      },
+      {
+        "@language": "de",
+        "@value": "Protokoll"
+      },
+      {
+        "@language": "el",
+        "@value": "πρωτόκολλο"
+      },
+      {
+        "@language": "en",
+        "@value": "protocol"
+      },
+      {
+        "@language": "es",
+        "@value": "protocolo"
+      },
+      {
+        "@language": "et",
+        "@value": "protokoll"
+      },
+      {
+        "@language": "fi",
+        "@value": "pöytäkirja"
+      },
+      {
+        "@language": "fr",
+        "@value": "protocole"
+      },
+      {
+        "@language": "ga",
+        "@value": "prótacal"
+      },
+      {
+        "@language": "hr",
+        "@value": "protokol"
+      },
+      {
+        "@language": "hu",
+        "@value": "jegyzőkönyv"
+      },
+      {
+        "@language": "it",
+        "@value": "protocollo"
+      },
+      {
+        "@language": "lt",
+        "@value": "protokolas"
+      },
+      {
+        "@language": "lv",
+        "@value": "protokols"
+      },
+      {
+        "@language": "mt",
+        "@value": "protokoll"
+      },
+      {
+        "@language": "nl",
+        "@value": "protocol"
+      },
+      {
+        "@language": "pl",
+        "@value": "protokół"
+      },
+      {
+        "@language": "pt",
+        "@value": "protocolo"
+      },
+      {
+        "@language": "ro",
+        "@value": "protocol"
+      },
+      {
+        "@language": "sk",
+        "@value": "protokol"
+      },
+      {
+        "@language": "sl",
+        "@value": "protokol"
+      },
+      {
+        "@language": "sv",
+        "@value": "protokoll"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b29",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/LST",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b20"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "списък"
+      },
+      {
+        "@language": "cs",
+        "@value": "seznam"
+      },
+      {
+        "@language": "da",
+        "@value": "liste"
+      },
+      {
+        "@language": "de",
+        "@value": "Liste"
+      },
+      {
+        "@language": "el",
+        "@value": "κατάλογος"
+      },
+      {
+        "@language": "en",
+        "@value": "list"
+      },
+      {
+        "@language": "es",
+        "@value": "lista"
+      },
+      {
+        "@language": "et",
+        "@value": "nimekiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "luettelo"
+      },
+      {
+        "@language": "fr",
+        "@value": "liste"
+      },
+      {
+        "@language": "ga",
+        "@value": "liostaigh"
+      },
+      {
+        "@language": "hr",
+        "@value": "popis"
+      },
+      {
+        "@language": "hu",
+        "@value": "lista"
+      },
+      {
+        "@language": "it",
+        "@value": "elenco"
+      },
+      {
+        "@language": "lt",
+        "@value": "sąrašas"
+      },
+      {
+        "@language": "lv",
+        "@value": "saraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "lista"
+      },
+      {
+        "@language": "nl",
+        "@value": "lijst"
+      },
+      {
+        "@language": "pl",
+        "@value": "wykaz"
+      },
+      {
+        "@language": "pt",
+        "@value": "lista"
+      },
+      {
+        "@language": "ro",
+        "@value": "listă"
+      },
+      {
+        "@language": "sk",
+        "@value": "zoznam"
+      },
+      {
+        "@language": "sl",
+        "@value": "seznam"
+      },
+      {
+        "@language": "sv",
+        "@value": "förteckning"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b20",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "LI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PNT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PNT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PNT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b27"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b28"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PNT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PNT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "точка"
+      },
+      {
+        "@language": "cs",
+        "@value": "bod"
+      },
+      {
+        "@language": "da",
+        "@value": "nummer"
+      },
+      {
+        "@language": "de",
+        "@value": "Nummer"
+      },
+      {
+        "@language": "el",
+        "@value": "σημείο"
+      },
+      {
+        "@language": "en",
+        "@value": "point"
+      },
+      {
+        "@language": "es",
+        "@value": "punto"
+      },
+      {
+        "@language": "et",
+        "@value": "punkt"
+      },
+      {
+        "@language": "fi",
+        "@value": "alakohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "point"
+      },
+      {
+        "@language": "ga",
+        "@value": "pointe"
+      },
+      {
+        "@language": "hr",
+        "@value": "točka"
+      },
+      {
+        "@language": "hu",
+        "@value": "pont"
+      },
+      {
+        "@language": "it",
+        "@value": "punto"
+      },
+      {
+        "@language": "lt",
+        "@value": "punktas"
+      },
+      {
+        "@language": "lv",
+        "@value": "punkts"
+      },
+      {
+        "@language": "mt",
+        "@value": "punt"
+      },
+      {
+        "@language": "nl",
+        "@value": "punt"
+      },
+      {
+        "@language": "pl",
+        "@value": "punkt"
+      },
+      {
+        "@language": "pt",
+        "@value": "ponto"
+      },
+      {
+        "@language": "ro",
+        "@value": "punct"
+      },
+      {
+        "@language": "sk",
+        "@value": "bod"
+      },
+      {
+        "@language": "sl",
+        "@value": "točka"
+      },
+      {
+        "@language": "sv",
+        "@value": "led"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b27",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b28",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/FNA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FNA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FNA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b15"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FNA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FNA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "заключителен акт"
+      },
+      {
+        "@language": "cs",
+        "@value": "závěrečný akt"
+      },
+      {
+        "@language": "da",
+        "@value": "slutakt"
+      },
+      {
+        "@language": "de",
+        "@value": "Schlussakte"
+      },
+      {
+        "@language": "el",
+        "@value": "τελική πράξη"
+      },
+      {
+        "@language": "en",
+        "@value": "final act"
+      },
+      {
+        "@language": "es",
+        "@value": "acta final"
+      },
+      {
+        "@language": "et",
+        "@value": "lõppakt"
+      },
+      {
+        "@language": "fi",
+        "@value": "päätösasiakirja"
+      },
+      {
+        "@language": "fr",
+        "@value": "acte final"
+      },
+      {
+        "@language": "ga",
+        "@value": "ionstraim chríochnaitheach"
+      },
+      {
+        "@language": "hr",
+        "@value": "završni akt"
+      },
+      {
+        "@language": "hu",
+        "@value": "záróokmány"
+      },
+      {
+        "@language": "it",
+        "@value": "atto finale"
+      },
+      {
+        "@language": "lt",
+        "@value": "baigiamasis aktas"
+      },
+      {
+        "@language": "lv",
+        "@value": "nobeiguma akts"
+      },
+      {
+        "@language": "mt",
+        "@value": "att finali"
+      },
+      {
+        "@language": "nl",
+        "@value": "slotakte"
+      },
+      {
+        "@language": "pl",
+        "@value": "akt końcowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "ato final"
+      },
+      {
+        "@language": "ro",
+        "@value": "act final"
+      },
+      {
+        "@language": "sk",
+        "@value": "záverečný akt"
+      },
+      {
+        "@language": "sl",
+        "@value": "sklepna listina"
+      },
+      {
+        "@language": "sv",
+        "@value": "slutakt"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/DES",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DES"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DES"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "описание"
+      },
+      {
+        "@language": "cs",
+        "@value": "popis"
+      },
+      {
+        "@language": "da",
+        "@value": "beskrivelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Beschreibung"
+      },
+      {
+        "@language": "el",
+        "@value": "περιγραφή"
+      },
+      {
+        "@language": "en",
+        "@value": "description"
+      },
+      {
+        "@language": "es",
+        "@value": "descripción"
+      },
+      {
+        "@language": "et",
+        "@value": "kirjeldus"
+      },
+      {
+        "@language": "fi",
+        "@value": "kuvaus"
+      },
+      {
+        "@language": "fr",
+        "@value": "description"
+      },
+      {
+        "@language": "ga",
+        "@value": "tuairisc"
+      },
+      {
+        "@language": "hr",
+        "@value": "opis"
+      },
+      {
+        "@language": "hu",
+        "@value": "leírás"
+      },
+      {
+        "@language": "it",
+        "@value": "descrizione"
+      },
+      {
+        "@language": "lt",
+        "@value": "aprašas"
+      },
+      {
+        "@language": "lv",
+        "@value": "apraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "deskrizzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "beschrijving"
+      },
+      {
+        "@language": "pl",
+        "@value": "opis"
+      },
+      {
+        "@language": "pt",
+        "@value": "descrição"
+      },
+      {
+        "@language": "ro",
+        "@value": "descriere"
+      },
+      {
+        "@language": "sk",
+        "@value": "opis"
+      },
+      {
+        "@language": "sl",
+        "@value": "opis"
+      },
+      {
+        "@language": "sv",
+        "@value": "beskrivning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/SUB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SUB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SUB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SUB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SUB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "алинея"
+      },
+      {
+        "@language": "cs",
+        "@value": "pododstavec"
+      },
+      {
+        "@language": "da",
+        "@value": "afsnit"
+      },
+      {
+        "@language": "de",
+        "@value": "Unterabsatz"
+      },
+      {
+        "@language": "el",
+        "@value": "εδάφιο"
+      },
+      {
+        "@language": "en",
+        "@value": "subparagraph"
+      },
+      {
+        "@language": "es",
+        "@value": "párrafo"
+      },
+      {
+        "@language": "et",
+        "@value": "lõik"
+      },
+      {
+        "@language": "fi",
+        "@value": "alakohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "alinéa"
+      },
+      {
+        "@language": "ga",
+        "@value": "fomhír"
+      },
+      {
+        "@language": "hr",
+        "@value": "podstavak"
+      },
+      {
+        "@language": "hu",
+        "@value": "albekezdés"
+      },
+      {
+        "@language": "it",
+        "@value": "comma"
+      },
+      {
+        "@language": "lt",
+        "@value": "pastraipa"
+      },
+      {
+        "@language": "lv",
+        "@value": "daļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "subparagrafu"
+      },
+      {
+        "@language": "nl",
+        "@value": "alinea"
+      },
+      {
+        "@language": "pl",
+        "@value": "akapit"
+      },
+      {
+        "@language": "pt",
+        "@value": "parágrafo"
+      },
+      {
+        "@language": "ro",
+        "@value": "paragraf"
+      },
+      {
+        "@language": "sk",
+        "@value": "pododsek"
+      },
+      {
+        "@language": "sl",
+        "@value": "pododstavek"
+      },
+      {
+        "@language": "sv",
+        "@value": "stycke"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/WRP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WRP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WRP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WRP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WRP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "финална част"
+      },
+      {
+        "@language": "cs",
+        "@value": "uzavírající část"
+      },
+      {
+        "@language": "da",
+        "@value": "afsluttende del"
+      },
+      {
+        "@language": "de",
+        "@value": "Abschluss"
+      },
+      {
+        "@language": "el",
+        "@value": "τελικό μέρος"
+      },
+      {
+        "@language": "en",
+        "@value": "closing part"
+      },
+      {
+        "@language": "es",
+        "@value": "parte conclusiva"
+      },
+      {
+        "@language": "et",
+        "@value": "lõpetav osa"
+      },
+      {
+        "@language": "fi",
+        "@value": "loppukappale"
+      },
+      {
+        "@language": "fr",
+        "@value": "partie conclusive"
+      },
+      {
+        "@language": "ga",
+        "@value": "an chuid dheireanach"
+      },
+      {
+        "@language": "hr",
+        "@value": "zaključni dio"
+      },
+      {
+        "@language": "hu",
+        "@value": "záró rész"
+      },
+      {
+        "@language": "it",
+        "@value": "parte conclusiva"
+      },
+      {
+        "@language": "lt",
+        "@value": "baigiamoji dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "noslēguma daļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "parti tal-għeluq"
+      },
+      {
+        "@language": "nl",
+        "@value": "slot"
+      },
+      {
+        "@language": "pl",
+        "@value": "formuła zamykająca"
+      },
+      {
+        "@language": "pt",
+        "@value": "último período"
+      },
+      {
+        "@language": "ro",
+        "@value": "partea finală"
+      },
+      {
+        "@language": "sk",
+        "@value": "záverečná časť"
+      },
+      {
+        "@language": "sl",
+        "@value": "zaključni del"
+      },
+      {
+        "@language": "sv",
+        "@value": "slutdel"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subdivision"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "subdivision"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Subdivision"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subdivision"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TAB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TAB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TAB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b39"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TAB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TAB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "таблица"
+      },
+      {
+        "@language": "cs",
+        "@value": "tabulka"
+      },
+      {
+        "@language": "da",
+        "@value": "tabel"
+      },
+      {
+        "@language": "de",
+        "@value": "Tabelle"
+      },
+      {
+        "@language": "el",
+        "@value": "πίνακας"
+      },
+      {
+        "@language": "en",
+        "@value": "table"
+      },
+      {
+        "@language": "es",
+        "@value": "cuadro"
+      },
+      {
+        "@language": "et",
+        "@value": "tabel"
+      },
+      {
+        "@language": "fi",
+        "@value": "taulukko"
+      },
+      {
+        "@language": "fr",
+        "@value": "tableau"
+      },
+      {
+        "@language": "ga",
+        "@value": "tábla"
+      },
+      {
+        "@language": "hr",
+        "@value": "tablica"
+      },
+      {
+        "@language": "hu",
+        "@value": "táblázat"
+      },
+      {
+        "@language": "it",
+        "@value": "tabella"
+      },
+      {
+        "@language": "lt",
+        "@value": "lentelė"
+      },
+      {
+        "@language": "lv",
+        "@value": "tabula"
+      },
+      {
+        "@language": "mt",
+        "@value": "tabella"
+      },
+      {
+        "@language": "nl",
+        "@value": "tabel"
+      },
+      {
+        "@language": "pl",
+        "@value": "tabela"
+      },
+      {
+        "@language": "pt",
+        "@value": "tabela"
+      },
+      {
+        "@language": "ro",
+        "@value": "tabel"
+      },
+      {
+        "@language": "sk",
+        "@value": "tabuľka"
+      },
+      {
+        "@language": "sl",
+        "@value": "tabela"
+      },
+      {
+        "@language": "sv",
+        "@value": "tabell"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b39",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TBG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TBG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TBG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TBG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TBG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "група таблици"
+      },
+      {
+        "@language": "cs",
+        "@value": "skupina tabulek"
+      },
+      {
+        "@language": "da",
+        "@value": "gruppe af tabeller"
+      },
+      {
+        "@language": "de",
+        "@value": "Gruppen von Tabellen"
+      },
+      {
+        "@language": "el",
+        "@value": "οlμάδα πινάκων"
+      },
+      {
+        "@language": "en",
+        "@value": "group of tables"
+      },
+      {
+        "@language": "es",
+        "@value": "grupo de cuadros"
+      },
+      {
+        "@language": "et",
+        "@value": "tabelite rühm"
+      },
+      {
+        "@language": "fi",
+        "@value": "taulukkoryhmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "groupe de tableaux"
+      },
+      {
+        "@language": "ga",
+        "@value": "grúpa táblaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "skup tablica"
+      },
+      {
+        "@language": "hu",
+        "@value": "táblázatcsoport"
+      },
+      {
+        "@language": "it",
+        "@value": "gruppo di tabelle"
+      },
+      {
+        "@language": "lt",
+        "@value": "lentelių grupė"
+      },
+      {
+        "@language": "lv",
+        "@value": "tabulu grupa"
+      },
+      {
+        "@language": "mt",
+        "@value": "grupp ta’ tabelli"
+      },
+      {
+        "@language": "nl",
+        "@value": "groep tabellen"
+      },
+      {
+        "@language": "pl",
+        "@value": "grupa tabel"
+      },
+      {
+        "@language": "pt",
+        "@value": "grupo de quadros"
+      },
+      {
+        "@language": "ro",
+        "@value": "grup de tabele"
+      },
+      {
+        "@language": "sk",
+        "@value": "skupina tabuliek"
+      },
+      {
+        "@language": "sl",
+        "@value": "skupina tabel"
+      },
+      {
+        "@language": "sv",
+        "@value": "grupp av tabeller"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/CIT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "позоваване"
+      },
+      {
+        "@language": "cs",
+        "@value": "právní východisko"
+      },
+      {
+        "@language": "da",
+        "@value": "henvisning"
+      },
+      {
+        "@language": "de",
+        "@value": "Bezugsvermerk"
+      },
+      {
+        "@language": "el",
+        "@value": "σημείο αναφοράς"
+      },
+      {
+        "@language": "en",
+        "@value": "citation"
+      },
+      {
+        "@language": "es",
+        "@value": "visto"
+      },
+      {
+        "@language": "et",
+        "@value": "volitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "viite"
+      },
+      {
+        "@language": "fr",
+        "@value": "visa"
+      },
+      {
+        "@language": "ga",
+        "@value": "lua"
+      },
+      {
+        "@language": "hr",
+        "@value": "pozivanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "bevezető hivatkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "visto"
+      },
+      {
+        "@language": "lt",
+        "@value": "nurodomoji dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "pamatojums"
+      },
+      {
+        "@language": "mt",
+        "@value": "konsiderazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "aanhaling"
+      },
+      {
+        "@language": "pl",
+        "@value": "umocowania"
+      },
+      {
+        "@language": "pt",
+        "@value": "citação"
+      },
+      {
+        "@language": "ro",
+        "@value": "referire"
+      },
+      {
+        "@language": "sk",
+        "@value": "citácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "sklicevanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "beaktandeled"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "VI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PCD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PCD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PCD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PCD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PCD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "процедура"
+      },
+      {
+        "@language": "cs",
+        "@value": "postup"
+      },
+      {
+        "@language": "da",
+        "@value": "procedure"
+      },
+      {
+        "@language": "de",
+        "@value": "Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "διαδικασία"
+      },
+      {
+        "@language": "en",
+        "@value": "procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "procedimiento"
+      },
+      {
+        "@language": "et",
+        "@value": "menetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "procédure"
+      },
+      {
+        "@language": "ga",
+        "@value": "nós imeachta"
+      },
+      {
+        "@language": "hr",
+        "@value": "postupak"
+      },
+      {
+        "@language": "hu",
+        "@value": "eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "procedura"
+      },
+      {
+        "@language": "lt",
+        "@value": "procedūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "proċedura"
+      },
+      {
+        "@language": "nl",
+        "@value": "procedure"
+      },
+      {
+        "@language": "pl",
+        "@value": "procedura"
+      },
+      {
+        "@language": "pt",
+        "@value": "procedimento"
+      },
+      {
+        "@language": "ro",
+        "@value": "procedură"
+      },
+      {
+        "@language": "sk",
+        "@value": "postup"
+      },
+      {
+        "@language": "sl",
+        "@value": "postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "förfarande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/ENC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ENC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ENC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b13"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ENC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ENC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "постановителна част"
+      },
+      {
+        "@language": "cs",
+        "@value": "normativní text"
+      },
+      {
+        "@language": "da",
+        "@value": "dispositiv del"
+      },
+      {
+        "@language": "de",
+        "@value": "verfügender Teil"
+      },
+      {
+        "@language": "el",
+        "@value": "διατακτικό"
+      },
+      {
+        "@language": "en",
+        "@value": "enacting terms"
+      },
+      {
+        "@language": "es",
+        "@value": "parte dispositiva"
+      },
+      {
+        "@language": "et",
+        "@value": "regulatiivosa"
+      },
+      {
+        "@language": "fi",
+        "@value": "artiklaosa"
+      },
+      {
+        "@language": "fr",
+        "@value": "dispositif"
+      },
+      {
+        "@language": "ga",
+        "@value": "téarmaí achtúcháin"
+      },
+      {
+        "@language": "hr",
+        "@value": "normativni dio"
+      },
+      {
+        "@language": "hu",
+        "@value": "rendelkező rész"
+      },
+      {
+        "@language": "it",
+        "@value": "articolato"
+      },
+      {
+        "@language": "lt",
+        "@value": "dėstomoji dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "pamatdaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "termini ta’ promulgazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "dispositief"
+      },
+      {
+        "@language": "pl",
+        "@value": "część normatywna"
+      },
+      {
+        "@language": "pt",
+        "@value": "dispositivo"
+      },
+      {
+        "@language": "ro",
+        "@value": "partea dispozitivă"
+      },
+      {
+        "@language": "sk",
+        "@value": "normatívna časť"
+      },
+      {
+        "@language": "sl",
+        "@value": "normativni del"
+      },
+      {
+        "@language": "sv",
+        "@value": "artikeldel"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/CNV",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CNV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CNV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CNV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CNV"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "конвенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "úmluva"
+      },
+      {
+        "@language": "da",
+        "@value": "konvention"
+      },
+      {
+        "@language": "de",
+        "@value": "Übereinkommen"
+      },
+      {
+        "@language": "el",
+        "@value": "σύμβαση"
+      },
+      {
+        "@language": "en",
+        "@value": "convention"
+      },
+      {
+        "@language": "es",
+        "@value": "convenio"
+      },
+      {
+        "@language": "et",
+        "@value": "konventsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "yleissopimus"
+      },
+      {
+        "@language": "fr",
+        "@value": "convention"
+      },
+      {
+        "@language": "ga",
+        "@value": "coinbhinsiún"
+      },
+      {
+        "@language": "hr",
+        "@value": "konvencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "egyezmény"
+      },
+      {
+        "@language": "it",
+        "@value": "convenzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "konvencija"
+      },
+      {
+        "@language": "lv",
+        "@value": "konvencija"
+      },
+      {
+        "@language": "mt",
+        "@value": "konvenzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "verdrag"
+      },
+      {
+        "@language": "pl",
+        "@value": "konwencja"
+      },
+      {
+        "@language": "pt",
+        "@value": "convenção"
+      },
+      {
+        "@language": "ro",
+        "@value": "convenție"
+      },
+      {
+        "@language": "sk",
+        "@value": "dohovor"
+      },
+      {
+        "@language": "sl",
+        "@value": "konvencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "konvention"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/SNT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SNT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SNT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SNT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SNT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "изречение"
+      },
+      {
+        "@language": "cs",
+        "@value": "věta"
+      },
+      {
+        "@language": "da",
+        "@value": "punktum"
+      },
+      {
+        "@language": "de",
+        "@value": "Satz"
+      },
+      {
+        "@language": "el",
+        "@value": "πρόταση"
+      },
+      {
+        "@language": "en",
+        "@value": "sentence"
+      },
+      {
+        "@language": "es",
+        "@value": "frase"
+      },
+      {
+        "@language": "et",
+        "@value": "lause"
+      },
+      {
+        "@language": "fi",
+        "@value": "virke"
+      },
+      {
+        "@language": "fr",
+        "@value": "phrase"
+      },
+      {
+        "@language": "ga",
+        "@value": "abairt"
+      },
+      {
+        "@language": "hr",
+        "@value": "rečenica"
+      },
+      {
+        "@language": "hu",
+        "@value": "mondat"
+      },
+      {
+        "@language": "it",
+        "@value": "frase"
+      },
+      {
+        "@language": "lt",
+        "@value": "sakinys"
+      },
+      {
+        "@language": "lv",
+        "@value": "teikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "sentenza"
+      },
+      {
+        "@language": "nl",
+        "@value": "zin"
+      },
+      {
+        "@language": "pl",
+        "@value": "zdanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "período"
+      },
+      {
+        "@language": "ro",
+        "@value": "teză"
+      },
+      {
+        "@language": "sk",
+        "@value": "veta"
+      },
+      {
+        "@language": "sl",
+        "@value": "stavek"
+      },
+      {
+        "@language": "sv",
+        "@value": "mening"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/LTR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b21"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "писмо"
+      },
+      {
+        "@language": "cs",
+        "@value": "dopis"
+      },
+      {
+        "@language": "da",
+        "@value": "brev"
+      },
+      {
+        "@language": "de",
+        "@value": "Schreiben"
+      },
+      {
+        "@language": "el",
+        "@value": "επιστολή"
+      },
+      {
+        "@language": "en",
+        "@value": "letter"
+      },
+      {
+        "@language": "es",
+        "@value": "carta"
+      },
+      {
+        "@language": "et",
+        "@value": "kiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "kirje"
+      },
+      {
+        "@language": "fr",
+        "@value": "lettre"
+      },
+      {
+        "@language": "ga",
+        "@value": "litir"
+      },
+      {
+        "@language": "hr",
+        "@value": "pismo"
+      },
+      {
+        "@language": "hu",
+        "@value": "levél"
+      },
+      {
+        "@language": "it",
+        "@value": "lettera"
+      },
+      {
+        "@language": "lt",
+        "@value": "raštas"
+      },
+      {
+        "@language": "lv",
+        "@value": "vēstule"
+      },
+      {
+        "@language": "mt",
+        "@value": "ittra"
+      },
+      {
+        "@language": "nl",
+        "@value": "brief"
+      },
+      {
+        "@language": "pl",
+        "@value": "list"
+      },
+      {
+        "@language": "pt",
+        "@value": "carta"
+      },
+      {
+        "@language": "ro",
+        "@value": "scrisoare"
+      },
+      {
+        "@language": "sk",
+        "@value": "list"
+      },
+      {
+        "@language": "sl",
+        "@value": "pismo"
+      },
+      {
+        "@language": "sv",
+        "@value": "skrivelse"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b21",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "LT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/FTN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FTN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FTN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b17"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FTN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FTN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "бележка под линия"
+      },
+      {
+        "@language": "cs",
+        "@value": "poznámka pod čarou"
+      },
+      {
+        "@language": "da",
+        "@value": "fodnote"
+      },
+      {
+        "@language": "de",
+        "@value": "Fußnote"
+      },
+      {
+        "@language": "el",
+        "@value": "υποσημείωση"
+      },
+      {
+        "@language": "en",
+        "@value": "footnote"
+      },
+      {
+        "@language": "es",
+        "@value": "nota a pie de página"
+      },
+      {
+        "@language": "et",
+        "@value": "joonealune märkus"
+      },
+      {
+        "@language": "fi",
+        "@value": "alaviite"
+      },
+      {
+        "@language": "fr",
+        "@value": "note de bas de page"
+      },
+      {
+        "@language": "ga",
+        "@value": "fonóta"
+      },
+      {
+        "@language": "hr",
+        "@value": "bilješka"
+      },
+      {
+        "@language": "hu",
+        "@value": "lábjegyzet"
+      },
+      {
+        "@language": "it",
+        "@value": "nota a piè di pagina"
+      },
+      {
+        "@language": "lt",
+        "@value": "išnaša"
+      },
+      {
+        "@language": "lv",
+        "@value": "zemsvītras piezīme"
+      },
+      {
+        "@language": "mt",
+        "@value": "nota f'qiegħ il-paġna"
+      },
+      {
+        "@language": "nl",
+        "@value": "voetnoot"
+      },
+      {
+        "@language": "pl",
+        "@value": "przypis"
+      },
+      {
+        "@language": "pt",
+        "@value": "nota de rodapé"
+      },
+      {
+        "@language": "ro",
+        "@value": "notă de subsol"
+      },
+      {
+        "@language": "sk",
+        "@value": "poznámka pod čiarou"
+      },
+      {
+        "@language": "sl",
+        "@value": "sprotna opomba"
+      },
+      {
+        "@language": "sv",
+        "@value": "fotnot"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b17",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/IMG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "IMG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "IMG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "IMG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "IMG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "изображение"
+      },
+      {
+        "@language": "cs",
+        "@value": "vyobrazení"
+      },
+      {
+        "@language": "da",
+        "@value": "billede"
+      },
+      {
+        "@language": "de",
+        "@value": "Bild"
+      },
+      {
+        "@language": "el",
+        "@value": "εικόνα"
+      },
+      {
+        "@language": "en",
+        "@value": "image"
+      },
+      {
+        "@language": "es",
+        "@value": "imagen"
+      },
+      {
+        "@language": "et",
+        "@value": "kujutis"
+      },
+      {
+        "@language": "fi",
+        "@value": "kuva"
+      },
+      {
+        "@language": "fr",
+        "@value": "image"
+      },
+      {
+        "@language": "ga",
+        "@value": "íomhá"
+      },
+      {
+        "@language": "hr",
+        "@value": "prikaz"
+      },
+      {
+        "@language": "hu",
+        "@value": "kép"
+      },
+      {
+        "@language": "it",
+        "@value": "immagine"
+      },
+      {
+        "@language": "lt",
+        "@value": "paveikslėlis"
+      },
+      {
+        "@language": "lv",
+        "@value": "attēls"
+      },
+      {
+        "@language": "mt",
+        "@value": "immaġni"
+      },
+      {
+        "@language": "nl",
+        "@value": "afbeelding"
+      },
+      {
+        "@language": "pl",
+        "@value": "grafika"
+      },
+      {
+        "@language": "pt",
+        "@value": "imagem"
+      },
+      {
+        "@language": "ro",
+        "@value": "imagine"
+      },
+      {
+        "@language": "sk",
+        "@value": "obrázok"
+      },
+      {
+        "@language": "sl",
+        "@value": "slika"
+      },
+      {
+        "@language": "sv",
+        "@value": "bild"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/NOT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NOT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NOT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NOT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NOT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "забележка"
+      },
+      {
+        "@language": "cs",
+        "@value": "poznámka"
+      },
+      {
+        "@language": "da",
+        "@value": "note"
+      },
+      {
+        "@language": "de",
+        "@value": "Anmerkung"
+      },
+      {
+        "@language": "el",
+        "@value": "σημείωση"
+      },
+      {
+        "@language": "en",
+        "@value": "note"
+      },
+      {
+        "@language": "es",
+        "@value": "nota"
+      },
+      {
+        "@language": "et",
+        "@value": "märkus"
+      },
+      {
+        "@language": "fi",
+        "@value": "huomautus"
+      },
+      {
+        "@language": "fr",
+        "@value": "note"
+      },
+      {
+        "@language": "ga",
+        "@value": "nóta"
+      },
+      {
+        "@language": "hr",
+        "@value": "napomena"
+      },
+      {
+        "@language": "hu",
+        "@value": "megjegyzés"
+      },
+      {
+        "@language": "it",
+        "@value": "nota"
+      },
+      {
+        "@language": "lt",
+        "@value": "pastaba"
+      },
+      {
+        "@language": "lv",
+        "@value": "piezīme"
+      },
+      {
+        "@language": "mt",
+        "@value": "nota"
+      },
+      {
+        "@language": "nl",
+        "@value": "opmerking"
+      },
+      {
+        "@language": "pl",
+        "@value": "uwaga"
+      },
+      {
+        "@language": "pt",
+        "@value": "nota"
+      },
+      {
+        "@language": "ro",
+        "@value": "notă"
+      },
+      {
+        "@language": "sk",
+        "@value": "poznámka"
+      },
+      {
+        "@language": "sl",
+        "@value": "opomba"
+      },
+      {
+        "@language": "sv",
+        "@value": "anmärkning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/IDT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "IDT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "IDT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b18"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b19"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "IDT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "IDT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тире"
+      },
+      {
+        "@language": "cs",
+        "@value": "odrážka"
+      },
+      {
+        "@language": "da",
+        "@value": "led"
+      },
+      {
+        "@language": "de",
+        "@value": "Gedankenstrich"
+      },
+      {
+        "@language": "el",
+        "@value": "περίπτωση"
+      },
+      {
+        "@language": "en",
+        "@value": "indent"
+      },
+      {
+        "@language": "es",
+        "@value": "guion"
+      },
+      {
+        "@language": "et",
+        "@value": "taane"
+      },
+      {
+        "@language": "fi",
+        "@value": "luetelmakohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "tiret"
+      },
+      {
+        "@language": "ga",
+        "@value": "fleasc"
+      },
+      {
+        "@language": "hr",
+        "@value": "alineja"
+      },
+      {
+        "@language": "hu",
+        "@value": "franciabekezdés"
+      },
+      {
+        "@language": "it",
+        "@value": "trattino"
+      },
+      {
+        "@language": "lt",
+        "@value": "įtrauka"
+      },
+      {
+        "@language": "lv",
+        "@value": "ievilkums"
+      },
+      {
+        "@language": "mt",
+        "@value": "inċiż"
+      },
+      {
+        "@language": "nl",
+        "@value": "streepje"
+      },
+      {
+        "@language": "pl",
+        "@value": "tiret"
+      },
+      {
+        "@language": "pt",
+        "@value": "travessão"
+      },
+      {
+        "@language": "ro",
+        "@value": "liniuță"
+      },
+      {
+        "@language": "sk",
+        "@value": "zarážka"
+      },
+      {
+        "@language": "sl",
+        "@value": "alinea"
+      },
+      {
+        "@language": "sv",
+        "@value": "strecksats"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b18",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "T"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b19",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TIS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TIS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TIS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b40"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TIS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TIS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "дял (структурен елемент)"
+      },
+      {
+        "@language": "cs",
+        "@value": "hlava (členění textu)"
+      },
+      {
+        "@language": "da",
+        "@value": "afsnit (underopdeling)"
+      },
+      {
+        "@language": "de",
+        "@value": "Titel (Gliederungsteil)"
+      },
+      {
+        "@language": "el",
+        "@value": "τίτλος (υποδιαίρεση)"
+      },
+      {
+        "@language": "en",
+        "@value": "title (subdivision)"
+      },
+      {
+        "@language": "es",
+        "@value": "título (subdivisión)"
+      },
+      {
+        "@language": "et",
+        "@value": "jaotis (alajaotis)"
+      },
+      {
+        "@language": "fi",
+        "@value": "osasto (jaottelu)"
+      },
+      {
+        "@language": "fr",
+        "@value": "titre (sous-division)"
+      },
+      {
+        "@language": "ga",
+        "@value": "teideal (forannán)"
+      },
+      {
+        "@language": "hr",
+        "@value": "glava (potpodjela)"
+      },
+      {
+        "@language": "hu",
+        "@value": "cím (szerkezeti egység)"
+      },
+      {
+        "@language": "it",
+        "@value": "titolo (suddivisione)"
+      },
+      {
+        "@language": "lt",
+        "@value": "antraštinė dalis (sudedamoji dalis)"
+      },
+      {
+        "@language": "lv",
+        "@value": "sadaļa (pamatiedalījums)"
+      },
+      {
+        "@language": "mt",
+        "@value": "titolu (suddiviżjoni)"
+      },
+      {
+        "@language": "nl",
+        "@value": "titel (onderverdeling)"
+      },
+      {
+        "@language": "pl",
+        "@value": "tytuł (podział)"
+      },
+      {
+        "@language": "pt",
+        "@value": "título (subdivisão)"
+      },
+      {
+        "@language": "ro",
+        "@value": "titlu (subdiviziune)"
+      },
+      {
+        "@language": "sk",
+        "@value": "hlava (jednotlivý prvok)"
+      },
+      {
+        "@language": "sl",
+        "@value": "naslov (členitev)"
+      },
+      {
+        "@language": "sv",
+        "@value": "avdelning (del)"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b40",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/ALN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ALN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ALN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b1"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ALN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ALN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "неномериран параграф"
+      },
+      {
+        "@language": "cs",
+        "@value": "pododstavec"
+      },
+      {
+        "@language": "da",
+        "@value": "unummererede afsnit"
+      },
+      {
+        "@language": "de",
+        "@value": "nicht nummerierter Absatz"
+      },
+      {
+        "@language": "el",
+        "@value": "εδάφιο"
+      },
+      {
+        "@language": "en",
+        "@value": "unnumbered paragraph"
+      },
+      {
+        "@language": "es",
+        "@value": "párrafo"
+      },
+      {
+        "@language": "et",
+        "@value": "lõik"
+      },
+      {
+        "@language": "fi",
+        "@value": "numeroimaton kohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "alinéa"
+      },
+      {
+        "@language": "ga",
+        "@value": "mír neamhuimhrithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "nenumerirani podstavak"
+      },
+      {
+        "@language": "hu",
+        "@value": "számozatlan bekezdés"
+      },
+      {
+        "@language": "it",
+        "@value": "comma"
+      },
+      {
+        "@language": "lt",
+        "@value": "pastraipa"
+      },
+      {
+        "@language": "lv",
+        "@value": "nenumurēts punkts"
+      },
+      {
+        "@language": "mt",
+        "@value": "paragrafu mhux numerat"
+      },
+      {
+        "@language": "nl",
+        "@value": "alinea"
+      },
+      {
+        "@language": "pl",
+        "@value": "nienumerowane akapity"
+      },
+      {
+        "@language": "pt",
+        "@value": "parágrafo"
+      },
+      {
+        "@language": "ro",
+        "@value": "paragraf"
+      },
+      {
+        "@language": "sk",
+        "@value": "neočíslovaný odsek"
+      },
+      {
+        "@language": "sl",
+        "@value": "neoštevilčeni odstavek"
+      },
+      {
+        "@language": "sv",
+        "@value": "stycke"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "L"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TIT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b41"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b42"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "заглавие"
+      },
+      {
+        "@language": "cs",
+        "@value": "název"
+      },
+      {
+        "@language": "da",
+        "@value": "titel"
+      },
+      {
+        "@language": "de",
+        "@value": "Titel"
+      },
+      {
+        "@language": "el",
+        "@value": "τίτλος"
+      },
+      {
+        "@language": "en",
+        "@value": "title"
+      },
+      {
+        "@language": "es",
+        "@value": "título"
+      },
+      {
+        "@language": "et",
+        "@value": "pealkiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "nimi"
+      },
+      {
+        "@language": "fr",
+        "@value": "titre"
+      },
+      {
+        "@language": "ga",
+        "@value": "teideal"
+      },
+      {
+        "@language": "hr",
+        "@value": "naslov"
+      },
+      {
+        "@language": "hu",
+        "@value": "cím"
+      },
+      {
+        "@language": "it",
+        "@value": "titolo"
+      },
+      {
+        "@language": "lt",
+        "@value": "pavadinimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "virsraksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "titolu"
+      },
+      {
+        "@language": "nl",
+        "@value": "titel"
+      },
+      {
+        "@language": "pl",
+        "@value": "tytuł"
+      },
+      {
+        "@language": "pt",
+        "@value": "título"
+      },
+      {
+        "@language": "ro",
+        "@value": "titlu"
+      },
+      {
+        "@language": "sk",
+        "@value": "názov"
+      },
+      {
+        "@language": "sl",
+        "@value": "naslov"
+      },
+      {
+        "@language": "sv",
+        "@value": "titel"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b41",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b42",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/COL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "колона на таблица"
+      },
+      {
+        "@language": "cs",
+        "@value": "sloupec tabulky"
+      },
+      {
+        "@language": "da",
+        "@value": "tabelkolonne"
+      },
+      {
+        "@language": "de",
+        "@value": "Tabellenspalte"
+      },
+      {
+        "@language": "el",
+        "@value": "στήλη πίνακα"
+      },
+      {
+        "@language": "en",
+        "@value": "table column"
+      },
+      {
+        "@language": "es",
+        "@value": "columna de cuadro"
+      },
+      {
+        "@language": "et",
+        "@value": "tabeli veerg"
+      },
+      {
+        "@language": "fi",
+        "@value": "taulukon sarake"
+      },
+      {
+        "@language": "fr",
+        "@value": "colonne de tableau"
+      },
+      {
+        "@language": "ga",
+        "@value": "colún tábla"
+      },
+      {
+        "@language": "hr",
+        "@value": "stupac tablice"
+      },
+      {
+        "@language": "hu",
+        "@value": "táblázatoszlop"
+      },
+      {
+        "@language": "it",
+        "@value": "colonna della tabella"
+      },
+      {
+        "@language": "lt",
+        "@value": "lentelės skiltis"
+      },
+      {
+        "@language": "lv",
+        "@value": "tabulas sleja"
+      },
+      {
+        "@language": "mt",
+        "@value": "kolonna tat-tabella"
+      },
+      {
+        "@language": "nl",
+        "@value": "tabelkolom"
+      },
+      {
+        "@language": "pl",
+        "@value": "kolumna tabeli"
+      },
+      {
+        "@language": "pt",
+        "@value": "coluna de quadro"
+      },
+      {
+        "@language": "ro",
+        "@value": "coloană de tabel"
+      },
+      {
+        "@language": "sk",
+        "@value": "stĺpec tabuľky"
+      },
+      {
+        "@language": "sl",
+        "@value": "stolpec tabele"
+      },
+      {
+        "@language": "sv",
+        "@value": "tabellkolumn"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/RUL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RUL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RUL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b35"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RUL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RUL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "правило"
+      },
+      {
+        "@language": "cs",
+        "@value": "pravidlo"
+      },
+      {
+        "@language": "da",
+        "@value": "regel"
+      },
+      {
+        "@language": "de",
+        "@value": "Regel"
+      },
+      {
+        "@language": "el",
+        "@value": "κανόνας"
+      },
+      {
+        "@language": "en",
+        "@value": "rule"
+      },
+      {
+        "@language": "es",
+        "@value": "regla"
+      },
+      {
+        "@language": "et",
+        "@value": "eeskiri"
+      },
+      {
+        "@language": "fi",
+        "@value": "sääntö"
+      },
+      {
+        "@language": "fr",
+        "@value": "règle"
+      },
+      {
+        "@language": "ga",
+        "@value": "riail"
+      },
+      {
+        "@language": "hr",
+        "@value": "pravilo"
+      },
+      {
+        "@language": "hu",
+        "@value": "szabály"
+      },
+      {
+        "@language": "it",
+        "@value": "regola"
+      },
+      {
+        "@language": "lt",
+        "@value": "taisyklė"
+      },
+      {
+        "@language": "lv",
+        "@value": "noteikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "regola"
+      },
+      {
+        "@language": "nl",
+        "@value": "regel"
+      },
+      {
+        "@language": "pl",
+        "@value": "zasada"
+      },
+      {
+        "@language": "pt",
+        "@value": "regra"
+      },
+      {
+        "@language": "ro",
+        "@value": "regulă"
+      },
+      {
+        "@language": "sk",
+        "@value": "pravidlo"
+      },
+      {
+        "@language": "sl",
+        "@value": "pravilo"
+      },
+      {
+        "@language": "sv",
+        "@value": "regel"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b35",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "R"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/MNT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MNT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MNT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MNT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MNT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "протокол"
+      },
+      {
+        "@language": "cs",
+        "@value": "zápis"
+      },
+      {
+        "@language": "da",
+        "@value": "protokol"
+      },
+      {
+        "@language": "de",
+        "@value": "Protokoll"
+      },
+      {
+        "@language": "el",
+        "@value": "συνοπτικά πρακτικά"
+      },
+      {
+        "@language": "en",
+        "@value": "minutes"
+      },
+      {
+        "@language": "es",
+        "@value": "acta"
+      },
+      {
+        "@language": "et",
+        "@value": "protokoll"
+      },
+      {
+        "@language": "fi",
+        "@value": "pöytäkirja"
+      },
+      {
+        "@language": "fr",
+        "@value": "procès-verbal"
+      },
+      {
+        "@language": "ga",
+        "@value": "miontuairiscí"
+      },
+      {
+        "@language": "hr",
+        "@value": "zapisnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "jegyzőkönyv"
+      },
+      {
+        "@language": "it",
+        "@value": "processo verbale"
+      },
+      {
+        "@language": "lt",
+        "@value": "posėdžio protokolas"
+      },
+      {
+        "@language": "lv",
+        "@value": "protokols"
+      },
+      {
+        "@language": "mt",
+        "@value": "minuti"
+      },
+      {
+        "@language": "nl",
+        "@value": "notulen"
+      },
+      {
+        "@language": "pl",
+        "@value": "protokół"
+      },
+      {
+        "@language": "pt",
+        "@value": "ata"
+      },
+      {
+        "@language": "ro",
+        "@value": "proces-verbal"
+      },
+      {
+        "@language": "sk",
+        "@value": "zápisnica"
+      },
+      {
+        "@language": "sl",
+        "@value": "zapisnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "protokoll"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TOC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TOC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TOC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b43"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TOC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TOC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "съдържание"
+      },
+      {
+        "@language": "cs",
+        "@value": "obsah"
+      },
+      {
+        "@language": "da",
+        "@value": "indholdsfortegnelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Inhaltsverzeichnis"
+      },
+      {
+        "@language": "el",
+        "@value": "πίνακας περιεχομένων"
+      },
+      {
+        "@language": "en",
+        "@value": "table of contents"
+      },
+      {
+        "@language": "es",
+        "@value": "índice"
+      },
+      {
+        "@language": "et",
+        "@value": "sisukord"
+      },
+      {
+        "@language": "fi",
+        "@value": "sisällysluettelo"
+      },
+      {
+        "@language": "fr",
+        "@value": "table des matières"
+      },
+      {
+        "@language": "ga",
+        "@value": "clár na n-ábhar"
+      },
+      {
+        "@language": "hr",
+        "@value": "sadržaj"
+      },
+      {
+        "@language": "hu",
+        "@value": "tartalomjegyzék"
+      },
+      {
+        "@language": "it",
+        "@value": "indice"
+      },
+      {
+        "@language": "lt",
+        "@value": "turinys"
+      },
+      {
+        "@language": "lv",
+        "@value": "satura rādītājs"
+      },
+      {
+        "@language": "mt",
+        "@value": "werrej"
+      },
+      {
+        "@language": "nl",
+        "@value": "inhoudsopgave"
+      },
+      {
+        "@language": "pl",
+        "@value": "spis treści"
+      },
+      {
+        "@language": "pt",
+        "@value": "índice"
+      },
+      {
+        "@language": "ro",
+        "@value": "cuprins"
+      },
+      {
+        "@language": "sk",
+        "@value": "obsah"
+      },
+      {
+        "@language": "sl",
+        "@value": "kazalo"
+      },
+      {
+        "@language": "sv",
+        "@value": "innehållsförteckning"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b43",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PBL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PBL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PBL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b25"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b26"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PBL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PBL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "преамбюл"
+      },
+      {
+        "@language": "cs",
+        "@value": "preambule"
+      },
+      {
+        "@language": "da",
+        "@value": "præambel"
+      },
+      {
+        "@language": "de",
+        "@value": "Präambel"
+      },
+      {
+        "@language": "el",
+        "@value": "προοίμιο"
+      },
+      {
+        "@language": "en",
+        "@value": "preamble"
+      },
+      {
+        "@language": "es",
+        "@value": "preámbulo"
+      },
+      {
+        "@language": "et",
+        "@value": "preambul"
+      },
+      {
+        "@language": "fi",
+        "@value": "johdanto-osa"
+      },
+      {
+        "@language": "fr",
+        "@value": "préambule"
+      },
+      {
+        "@language": "ga",
+        "@value": "brollach"
+      },
+      {
+        "@language": "hr",
+        "@value": "preambula"
+      },
+      {
+        "@language": "hu",
+        "@value": "preambulum"
+      },
+      {
+        "@language": "it",
+        "@value": "preambolo"
+      },
+      {
+        "@language": "lt",
+        "@value": "preambulė"
+      },
+      {
+        "@language": "lv",
+        "@value": "preambula"
+      },
+      {
+        "@language": "mt",
+        "@value": "preambolu"
+      },
+      {
+        "@language": "nl",
+        "@value": "preambule"
+      },
+      {
+        "@language": "pl",
+        "@value": "preambuła"
+      },
+      {
+        "@language": "pt",
+        "@value": "preâmbulo"
+      },
+      {
+        "@language": "ro",
+        "@value": "preambul"
+      },
+      {
+        "@language": "sk",
+        "@value": "preambula"
+      },
+      {
+        "@language": "sl",
+        "@value": "preambula"
+      },
+      {
+        "@language": "sv",
+        "@value": "ingress"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b25",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b26",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/APP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "допълнение"
+      },
+      {
+        "@language": "cs",
+        "@value": "dodatek"
+      },
+      {
+        "@language": "da",
+        "@value": "tillæg"
+      },
+      {
+        "@language": "de",
+        "@value": "Anlage"
+      },
+      {
+        "@language": "el",
+        "@value": "προσάρτημα"
+      },
+      {
+        "@language": "en",
+        "@value": "appendix"
+      },
+      {
+        "@language": "es",
+        "@value": "apéndice"
+      },
+      {
+        "@language": "et",
+        "@value": "liide"
+      },
+      {
+        "@language": "fi",
+        "@value": "lisäys"
+      },
+      {
+        "@language": "fr",
+        "@value": "appendice"
+      },
+      {
+        "@language": "ga",
+        "@value": "foscríbhinn"
+      },
+      {
+        "@language": "hr",
+        "@value": "dodatak"
+      },
+      {
+        "@language": "hu",
+        "@value": "függelék"
+      },
+      {
+        "@language": "it",
+        "@value": "appendice"
+      },
+      {
+        "@language": "lt",
+        "@value": "priedėlis"
+      },
+      {
+        "@language": "lv",
+        "@value": "papildinājums"
+      },
+      {
+        "@language": "mt",
+        "@value": "appendiċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "aanhangsel"
+      },
+      {
+        "@language": "pl",
+        "@value": "dodatek"
+      },
+      {
+        "@language": "pt",
+        "@value": "apêndice"
+      },
+      {
+        "@language": "ro",
+        "@value": "apendice"
+      },
+      {
+        "@language": "sk",
+        "@value": "dodatok"
+      },
+      {
+        "@language": "sl",
+        "@value": "dodatek"
+      },
+      {
+        "@language": "sv",
+        "@value": "tillägg"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PTI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PTI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PTI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PTI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PTI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "подточка"
+      },
+      {
+        "@language": "cs",
+        "@value": "podbod"
+      },
+      {
+        "@language": "da",
+        "@value": "nummer"
+      },
+      {
+        "@language": "de",
+        "@value": "Ziffer"
+      },
+      {
+        "@language": "el",
+        "@value": "σημείο"
+      },
+      {
+        "@language": "en",
+        "@value": "point"
+      },
+      {
+        "@language": "es",
+        "@value": "inciso"
+      },
+      {
+        "@language": "et",
+        "@value": "alapunkt"
+      },
+      {
+        "@language": "fi",
+        "@value": "alakohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "point"
+      },
+      {
+        "@language": "ga",
+        "@value": "pointe"
+      },
+      {
+        "@language": "hr",
+        "@value": "točka"
+      },
+      {
+        "@language": "hu",
+        "@value": "alpont"
+      },
+      {
+        "@language": "it",
+        "@value": "punto"
+      },
+      {
+        "@language": "lt",
+        "@value": "papunktis"
+      },
+      {
+        "@language": "lv",
+        "@value": "apakšpunkts"
+      },
+      {
+        "@language": "mt",
+        "@value": "punt"
+      },
+      {
+        "@language": "nl",
+        "@value": "punt"
+      },
+      {
+        "@language": "pl",
+        "@value": "podpunkt"
+      },
+      {
+        "@language": "pt",
+        "@value": "subalínea"
+      },
+      {
+        "@language": "ro",
+        "@value": "subpunct"
+      },
+      {
+        "@language": "sk",
+        "@value": "bod"
+      },
+      {
+        "@language": "sl",
+        "@value": "točka"
+      },
+      {
+        "@language": "sv",
+        "@value": "led"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/AGR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "споразумение"
+      },
+      {
+        "@language": "cs",
+        "@value": "dohoda"
+      },
+      {
+        "@language": "da",
+        "@value": "aftale"
+      },
+      {
+        "@language": "de",
+        "@value": "Abkommen"
+      },
+      {
+        "@language": "el",
+        "@value": "συμφωνία"
+      },
+      {
+        "@language": "en",
+        "@value": "agreement"
+      },
+      {
+        "@language": "es",
+        "@value": "acuerdo"
+      },
+      {
+        "@language": "et",
+        "@value": "leping"
+      },
+      {
+        "@language": "fi",
+        "@value": "sopimus"
+      },
+      {
+        "@language": "fr",
+        "@value": "accord"
+      },
+      {
+        "@language": "ga",
+        "@value": "comhaontú"
+      },
+      {
+        "@language": "hr",
+        "@value": "sporazum"
+      },
+      {
+        "@language": "hu",
+        "@value": "megállapodás"
+      },
+      {
+        "@language": "it",
+        "@value": "accordo"
+      },
+      {
+        "@language": "lt",
+        "@value": "susitarimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "nolīgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "ftehim"
+      },
+      {
+        "@language": "nl",
+        "@value": "overeenkomst"
+      },
+      {
+        "@language": "pl",
+        "@value": "umowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "acordo"
+      },
+      {
+        "@language": "ro",
+        "@value": "acord"
+      },
+      {
+        "@language": "sk",
+        "@value": "dohoda"
+      },
+      {
+        "@language": "sl",
+        "@value": "sporazum"
+      },
+      {
+        "@language": "sv",
+        "@value": "avtal"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/OTH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OTH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OTH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OTH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OTH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "друг"
+      },
+      {
+        "@language": "cs",
+        "@value": "ostatní"
+      },
+      {
+        "@language": "da",
+        "@value": "andre"
+      },
+      {
+        "@language": "de",
+        "@value": "andere"
+      },
+      {
+        "@language": "el",
+        "@value": "άλλο"
+      },
+      {
+        "@language": "en",
+        "@value": "other"
+      },
+      {
+        "@language": "es",
+        "@value": "otro"
+      },
+      {
+        "@language": "et",
+        "@value": "muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "muut"
+      },
+      {
+        "@language": "fr",
+        "@value": "autre"
+      },
+      {
+        "@language": "ga",
+        "@value": "eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "drugi"
+      },
+      {
+        "@language": "hu",
+        "@value": "egyéb"
+      },
+      {
+        "@language": "it",
+        "@value": "altro"
+      },
+      {
+        "@language": "lt",
+        "@value": "kita"
+      },
+      {
+        "@language": "lv",
+        "@value": "citi"
+      },
+      {
+        "@language": "mt",
+        "@value": "oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "overige"
+      },
+      {
+        "@language": "pl",
+        "@value": "inne"
+      },
+      {
+        "@language": "pt",
+        "@value": "outro"
+      },
+      {
+        "@language": "ro",
+        "@value": "altele"
+      },
+      {
+        "@language": "sk",
+        "@value": "ostatné"
+      },
+      {
+        "@language": "sl",
+        "@value": "drugo"
+      },
+      {
+        "@language": "sv",
+        "@value": "andra"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TXN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TXN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TXN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TXN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TXN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "нов текст"
+      },
+      {
+        "@language": "cs",
+        "@value": "nové znění"
+      },
+      {
+        "@language": "da",
+        "@value": "ny tekst"
+      },
+      {
+        "@language": "de",
+        "@value": "neue Fassung"
+      },
+      {
+        "@language": "el",
+        "@value": "νέο κείμενο"
+      },
+      {
+        "@language": "en",
+        "@value": "new text"
+      },
+      {
+        "@language": "es",
+        "@value": "texto nuevo"
+      },
+      {
+        "@language": "et",
+        "@value": "uus tekst"
+      },
+      {
+        "@language": "fi",
+        "@value": "uusi teksti"
+      },
+      {
+        "@language": "fr",
+        "@value": "nouveau texte"
+      },
+      {
+        "@language": "ga",
+        "@value": "an téacs nua"
+      },
+      {
+        "@language": "hr",
+        "@value": "novi tekst"
+      },
+      {
+        "@language": "hu",
+        "@value": "új szöveg"
+      },
+      {
+        "@language": "it",
+        "@value": "nuovo testo"
+      },
+      {
+        "@language": "lt",
+        "@value": "naujas tekstas"
+      },
+      {
+        "@language": "lv",
+        "@value": "jaunais teksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "test ġdid"
+      },
+      {
+        "@language": "nl",
+        "@value": "nieuwe tekst"
+      },
+      {
+        "@language": "pl",
+        "@value": "nowy tekst"
+      },
+      {
+        "@language": "pt",
+        "@value": "texto novo"
+      },
+      {
+        "@language": "ro",
+        "@value": "textul nou"
+      },
+      {
+        "@language": "sk",
+        "@value": "nové znenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "novo besedilo"
+      },
+      {
+        "@language": "sv",
+        "@value": "ny text"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/INP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "уводна част"
+      },
+      {
+        "@language": "cs",
+        "@value": "úvodní část"
+      },
+      {
+        "@language": "da",
+        "@value": "indledende del"
+      },
+      {
+        "@language": "de",
+        "@value": "Einleitung"
+      },
+      {
+        "@language": "el",
+        "@value": "εισαγωγικό μέρος"
+      },
+      {
+        "@language": "en",
+        "@value": "introductory part"
+      },
+      {
+        "@language": "es",
+        "@value": "parte introductoria"
+      },
+      {
+        "@language": "et",
+        "@value": "sissejuhatav osa"
+      },
+      {
+        "@language": "fi",
+        "@value": "johdantokappale"
+      },
+      {
+        "@language": "fr",
+        "@value": "partie introductive"
+      },
+      {
+        "@language": "ga",
+        "@value": "an chuid réamhráiteach"
+      },
+      {
+        "@language": "hr",
+        "@value": "uvodni dio"
+      },
+      {
+        "@language": "hu",
+        "@value": "bevezető rész"
+      },
+      {
+        "@language": "it",
+        "@value": "parte introduttiva"
+      },
+      {
+        "@language": "lt",
+        "@value": "įžanginė dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "ievaddaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "parti introduttorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "inleiding"
+      },
+      {
+        "@language": "pl",
+        "@value": "formuła wprowadzająca"
+      },
+      {
+        "@language": "pt",
+        "@value": "parte introdutória"
+      },
+      {
+        "@language": "ro",
+        "@value": "partea introductivă"
+      },
+      {
+        "@language": "sk",
+        "@value": "úvodná časť"
+      },
+      {
+        "@language": "sl",
+        "@value": "uvodni del"
+      },
+      {
+        "@language": "sv",
+        "@value": "inledande del"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/LGD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LGD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LGD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LGD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LGD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "легенда"
+      },
+      {
+        "@language": "cs",
+        "@value": "legenda"
+      },
+      {
+        "@language": "da",
+        "@value": "forklaring"
+      },
+      {
+        "@language": "de",
+        "@value": "Legende"
+      },
+      {
+        "@language": "el",
+        "@value": "λεζάντα"
+      },
+      {
+        "@language": "en",
+        "@value": "legend"
+      },
+      {
+        "@language": "es",
+        "@value": "leyenda"
+      },
+      {
+        "@language": "et",
+        "@value": "selgitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "seliteteksti"
+      },
+      {
+        "@language": "fr",
+        "@value": "légende"
+      },
+      {
+        "@language": "ga",
+        "@value": "eochair"
+      },
+      {
+        "@language": "hr",
+        "@value": "legenda"
+      },
+      {
+        "@language": "hu",
+        "@value": "magyarázat"
+      },
+      {
+        "@language": "it",
+        "@value": "legenda"
+      },
+      {
+        "@language": "lt",
+        "@value": "legenda"
+      },
+      {
+        "@language": "lv",
+        "@value": "apzīmējumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "leġġenda"
+      },
+      {
+        "@language": "nl",
+        "@value": "legenda"
+      },
+      {
+        "@language": "pl",
+        "@value": "objaśnienia"
+      },
+      {
+        "@language": "pt",
+        "@value": "legenda"
+      },
+      {
+        "@language": "ro",
+        "@value": "legendă"
+      },
+      {
+        "@language": "sk",
+        "@value": "vysvetlivky"
+      },
+      {
+        "@language": "sl",
+        "@value": "legenda"
+      },
+      {
+        "@language": "sv",
+        "@value": "förklaring"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/SBS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SBS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SBS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b36"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SBS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SBS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "подраздел"
+      },
+      {
+        "@language": "cs",
+        "@value": "pododdíl"
+      },
+      {
+        "@language": "da",
+        "@value": "hovedafdeling"
+      },
+      {
+        "@language": "de",
+        "@value": "Unterabschnitt"
+      },
+      {
+        "@language": "el",
+        "@value": "υποτμήμα"
+      },
+      {
+        "@language": "en",
+        "@value": "subsection"
+      },
+      {
+        "@language": "es",
+        "@value": "subsección"
+      },
+      {
+        "@language": "et",
+        "@value": "alajagu"
+      },
+      {
+        "@language": "fi",
+        "@value": "alajakso"
+      },
+      {
+        "@language": "fr",
+        "@value": "sous-section"
+      },
+      {
+        "@language": "ga",
+        "@value": "foroinn"
+      },
+      {
+        "@language": "hr",
+        "@value": "pododjeljak"
+      },
+      {
+        "@language": "hu",
+        "@value": "alszakasz"
+      },
+      {
+        "@language": "it",
+        "@value": "sottosezione"
+      },
+      {
+        "@language": "lt",
+        "@value": "poskirsnis"
+      },
+      {
+        "@language": "lv",
+        "@value": "apakšiedaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "sottotaqsima"
+      },
+      {
+        "@language": "nl",
+        "@value": "onderafdeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "podsekcja"
+      },
+      {
+        "@language": "pt",
+        "@value": "subsecção"
+      },
+      {
+        "@language": "ro",
+        "@value": "subsecțiune"
+      },
+      {
+        "@language": "sk",
+        "@value": "pododdiel"
+      },
+      {
+        "@language": "sl",
+        "@value": "pododdelek"
+      },
+      {
+        "@language": "sv",
+        "@value": "underavsnitt"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b36",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/CPT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CPT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CPT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b10"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CPT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CPT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "глава"
+      },
+      {
+        "@language": "cs",
+        "@value": "kapitola"
+      },
+      {
+        "@language": "da",
+        "@value": "kapitel"
+      },
+      {
+        "@language": "de",
+        "@value": "Kapitel"
+      },
+      {
+        "@language": "el",
+        "@value": "κεφάλαιο"
+      },
+      {
+        "@language": "en",
+        "@value": "chapter"
+      },
+      {
+        "@language": "es",
+        "@value": "capítulo"
+      },
+      {
+        "@language": "et",
+        "@value": "peatükk"
+      },
+      {
+        "@language": "fi",
+        "@value": "luku"
+      },
+      {
+        "@language": "fr",
+        "@value": "chapitre"
+      },
+      {
+        "@language": "ga",
+        "@value": "caibidil"
+      },
+      {
+        "@language": "hr",
+        "@value": "poglavlje"
+      },
+      {
+        "@language": "hu",
+        "@value": "fejezet"
+      },
+      {
+        "@language": "it",
+        "@value": "capo"
+      },
+      {
+        "@language": "lt",
+        "@value": "skyrius"
+      },
+      {
+        "@language": "lv",
+        "@value": "nodaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "kapitolu"
+      },
+      {
+        "@language": "nl",
+        "@value": "hoofdstuk"
+      },
+      {
+        "@language": "pl",
+        "@value": "rozdział"
+      },
+      {
+        "@language": "pt",
+        "@value": "capítulo"
+      },
+      {
+        "@language": "ro",
+        "@value": "capitol"
+      },
+      {
+        "@language": "sk",
+        "@value": "kapitola"
+      },
+      {
+        "@language": "sl",
+        "@value": "poglavje"
+      },
+      {
+        "@language": "sv",
+        "@value": "kapitel"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/ART",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b6"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ART"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "член"
+      },
+      {
+        "@language": "cs",
+        "@value": "článek"
+      },
+      {
+        "@language": "da",
+        "@value": "artikel"
+      },
+      {
+        "@language": "de",
+        "@value": "Artikel"
+      },
+      {
+        "@language": "el",
+        "@value": "άρθρο"
+      },
+      {
+        "@language": "en",
+        "@value": "article"
+      },
+      {
+        "@language": "es",
+        "@value": "artículo"
+      },
+      {
+        "@language": "et",
+        "@value": "artikkel"
+      },
+      {
+        "@language": "fi",
+        "@value": "artikla"
+      },
+      {
+        "@language": "fr",
+        "@value": "article"
+      },
+      {
+        "@language": "ga",
+        "@value": "airteagal"
+      },
+      {
+        "@language": "hr",
+        "@value": "članak"
+      },
+      {
+        "@language": "hu",
+        "@value": "cikk"
+      },
+      {
+        "@language": "it",
+        "@value": "articolo"
+      },
+      {
+        "@language": "lt",
+        "@value": "straipsnis"
+      },
+      {
+        "@language": "lv",
+        "@value": "pants"
+      },
+      {
+        "@language": "mt",
+        "@value": "artikolu"
+      },
+      {
+        "@language": "nl",
+        "@value": "artikel"
+      },
+      {
+        "@language": "pl",
+        "@value": "artykuł"
+      },
+      {
+        "@language": "pt",
+        "@value": "artigo"
+      },
+      {
+        "@language": "ro",
+        "@value": "articol"
+      },
+      {
+        "@language": "sk",
+        "@value": "článok"
+      },
+      {
+        "@language": "sl",
+        "@value": "člen"
+      },
+      {
+        "@language": "sv",
+        "@value": "artikel"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "A"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/FGR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FGR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FGR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b14"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FGR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FGR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "фигура"
+      },
+      {
+        "@language": "cs",
+        "@value": "obrázek"
+      },
+      {
+        "@language": "da",
+        "@value": "figur"
+      },
+      {
+        "@language": "de",
+        "@value": "Abbildung"
+      },
+      {
+        "@language": "el",
+        "@value": "εικόνα"
+      },
+      {
+        "@language": "en",
+        "@value": "figure"
+      },
+      {
+        "@language": "es",
+        "@value": "ilustración"
+      },
+      {
+        "@language": "et",
+        "@value": "joonis"
+      },
+      {
+        "@language": "fi",
+        "@value": "kaavio"
+      },
+      {
+        "@language": "fr",
+        "@value": "illustration"
+      },
+      {
+        "@language": "ga",
+        "@value": "figiúr"
+      },
+      {
+        "@language": "hr",
+        "@value": "slika"
+      },
+      {
+        "@language": "hu",
+        "@value": "ábra"
+      },
+      {
+        "@language": "it",
+        "@value": "illustrazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "iliustracija"
+      },
+      {
+        "@language": "lv",
+        "@value": "attēls"
+      },
+      {
+        "@language": "mt",
+        "@value": "illustrazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "figuur"
+      },
+      {
+        "@language": "pl",
+        "@value": "rysunek"
+      },
+      {
+        "@language": "pt",
+        "@value": "ilustração"
+      },
+      {
+        "@language": "ro",
+        "@value": "figură"
+      },
+      {
+        "@language": "sk",
+        "@value": "ilustrácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "slika"
+      },
+      {
+        "@language": "sv",
+        "@value": "figur"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PAG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PAG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PAG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b22"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PAG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PAG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "страница"
+      },
+      {
+        "@language": "cs",
+        "@value": "stránka"
+      },
+      {
+        "@language": "da",
+        "@value": "side"
+      },
+      {
+        "@language": "de",
+        "@value": "Seite"
+      },
+      {
+        "@language": "el",
+        "@value": "σελίδα"
+      },
+      {
+        "@language": "en",
+        "@value": "page"
+      },
+      {
+        "@language": "es",
+        "@value": "página"
+      },
+      {
+        "@language": "et",
+        "@value": "lehekülg"
+      },
+      {
+        "@language": "fi",
+        "@value": "sivu"
+      },
+      {
+        "@language": "fr",
+        "@value": "page"
+      },
+      {
+        "@language": "ga",
+        "@value": "leathanach"
+      },
+      {
+        "@language": "hr",
+        "@value": "stranica"
+      },
+      {
+        "@language": "hu",
+        "@value": "oldal"
+      },
+      {
+        "@language": "it",
+        "@value": "pagina"
+      },
+      {
+        "@language": "lt",
+        "@value": "puslapis"
+      },
+      {
+        "@language": "lv",
+        "@value": "lappuse"
+      },
+      {
+        "@language": "mt",
+        "@value": "paġna"
+      },
+      {
+        "@language": "nl",
+        "@value": "bladzijde"
+      },
+      {
+        "@language": "pl",
+        "@value": "strona"
+      },
+      {
+        "@language": "pt",
+        "@value": "página"
+      },
+      {
+        "@language": "ro",
+        "@value": "pagină"
+      },
+      {
+        "@language": "sk",
+        "@value": "strana"
+      },
+      {
+        "@language": "sl",
+        "@value": "stran"
+      },
+      {
+        "@language": "sv",
+        "@value": "sida"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b22",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/LLG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LLG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LLG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LLG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LLG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ред на легенда"
+      },
+      {
+        "@language": "cs",
+        "@value": "řádek legenda"
+      },
+      {
+        "@language": "da",
+        "@value": "forklaring af element"
+      },
+      {
+        "@language": "de",
+        "@value": "Legendenzeile"
+      },
+      {
+        "@language": "el",
+        "@value": "γραμμή λεζάντας"
+      },
+      {
+        "@language": "en",
+        "@value": "line of legend"
+      },
+      {
+        "@language": "es",
+        "@value": "línea de leyenda"
+      },
+      {
+        "@language": "et",
+        "@value": "selgituse rida"
+      },
+      {
+        "@language": "fi",
+        "@value": "selitetekstin rivi"
+      },
+      {
+        "@language": "fr",
+        "@value": "ligne de légende"
+      },
+      {
+        "@language": "ga",
+        "@value": "líne na heochrach"
+      },
+      {
+        "@language": "hr",
+        "@value": "red legende"
+      },
+      {
+        "@language": "hu",
+        "@value": "magyarázatsor"
+      },
+      {
+        "@language": "it",
+        "@value": "riga di legenda"
+      },
+      {
+        "@language": "lt",
+        "@value": "legendos eilutė"
+      },
+      {
+        "@language": "lv",
+        "@value": "apzīmējuma rindiņa"
+      },
+      {
+        "@language": "mt",
+        "@value": "linja tal-leġġenda"
+      },
+      {
+        "@language": "nl",
+        "@value": "legendaregel"
+      },
+      {
+        "@language": "pl",
+        "@value": "wiersz objaśnień"
+      },
+      {
+        "@language": "pt",
+        "@value": "linha de legenda"
+      },
+      {
+        "@language": "ro",
+        "@value": "descrierea unui element din legend"
+      },
+      {
+        "@language": "sk",
+        "@value": "riadok vysvetliviek"
+      },
+      {
+        "@language": "sl",
+        "@value": "vrstica legend"
+      },
+      {
+        "@language": "sv",
+        "@value": "rad i förklaring"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/SCT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SCT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SCT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b37"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b38"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SCT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SCT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "раздел"
+      },
+      {
+        "@language": "cs",
+        "@value": "oddíl"
+      },
+      {
+        "@language": "da",
+        "@value": "afdeling"
+      },
+      {
+        "@language": "de",
+        "@value": "Abschnitt"
+      },
+      {
+        "@language": "el",
+        "@value": "τμήμα"
+      },
+      {
+        "@language": "en",
+        "@value": "section"
+      },
+      {
+        "@language": "es",
+        "@value": "sección"
+      },
+      {
+        "@language": "et",
+        "@value": "jagu"
+      },
+      {
+        "@language": "fi",
+        "@value": "jakso"
+      },
+      {
+        "@language": "fr",
+        "@value": "section"
+      },
+      {
+        "@language": "ga",
+        "@value": "roinn"
+      },
+      {
+        "@language": "hr",
+        "@value": "odjeljak"
+      },
+      {
+        "@language": "hu",
+        "@value": "szakasz"
+      },
+      {
+        "@language": "it",
+        "@value": "sezione"
+      },
+      {
+        "@language": "lt",
+        "@value": "skirsnis"
+      },
+      {
+        "@language": "lv",
+        "@value": "iedaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "taqsima"
+      },
+      {
+        "@language": "nl",
+        "@value": "afdeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "sekcja"
+      },
+      {
+        "@language": "pt",
+        "@value": "secção"
+      },
+      {
+        "@language": "ro",
+        "@value": "secțiune"
+      },
+      {
+        "@language": "sk",
+        "@value": "oddiel"
+      },
+      {
+        "@language": "sl",
+        "@value": "oddelek"
+      },
+      {
+        "@language": "sv",
+        "@value": "avsnitt"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b37",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b38",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "S"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/CLS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CLS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CLS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CLS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CLS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "клауза"
+      },
+      {
+        "@language": "cs",
+        "@value": "ustanovení"
+      },
+      {
+        "@language": "da",
+        "@value": "klausul"
+      },
+      {
+        "@language": "de",
+        "@value": "Klausel"
+      },
+      {
+        "@language": "el",
+        "@value": "ρήτρα"
+      },
+      {
+        "@language": "en",
+        "@value": "clause"
+      },
+      {
+        "@language": "es",
+        "@value": "cláusula"
+      },
+      {
+        "@language": "et",
+        "@value": "klausel"
+      },
+      {
+        "@language": "fi",
+        "@value": "lauseke"
+      },
+      {
+        "@language": "fr",
+        "@value": "clause"
+      },
+      {
+        "@language": "ga",
+        "@value": "clásal"
+      },
+      {
+        "@language": "hr",
+        "@value": "odredba"
+      },
+      {
+        "@language": "hu",
+        "@value": "záradék"
+      },
+      {
+        "@language": "it",
+        "@value": "clausola"
+      },
+      {
+        "@language": "lt",
+        "@value": "nuostata"
+      },
+      {
+        "@language": "lv",
+        "@value": "klauzula"
+      },
+      {
+        "@language": "mt",
+        "@value": "klawżola"
+      },
+      {
+        "@language": "nl",
+        "@value": "clausule"
+      },
+      {
+        "@language": "pl",
+        "@value": "klauzula"
+      },
+      {
+        "@language": "pt",
+        "@value": "cláusula"
+      },
+      {
+        "@language": "ro",
+        "@value": "clauză"
+      },
+      {
+        "@language": "sk",
+        "@value": "doložka"
+      },
+      {
+        "@language": "sl",
+        "@value": "klavzula"
+      },
+      {
+        "@language": "sv",
+        "@value": "klausul"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/EXL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EXL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EXL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EXL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EXL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "размяна на писма"
+      },
+      {
+        "@language": "cs",
+        "@value": "výměna dopisů"
+      },
+      {
+        "@language": "da",
+        "@value": "brevveksling"
+      },
+      {
+        "@language": "de",
+        "@value": "Briefwechsel"
+      },
+      {
+        "@language": "el",
+        "@value": "ανταλλαγή επιστολών"
+      },
+      {
+        "@language": "en",
+        "@value": "exchange of letters"
+      },
+      {
+        "@language": "es",
+        "@value": "canje de letras"
+      },
+      {
+        "@language": "et",
+        "@value": "kirjade vahetamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "kirjeenvaihto"
+      },
+      {
+        "@language": "fr",
+        "@value": "échange de lettres"
+      },
+      {
+        "@language": "ga",
+        "@value": "malartú litreacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "razmjena nota"
+      },
+      {
+        "@language": "hu",
+        "@value": "levélváltás"
+      },
+      {
+        "@language": "it",
+        "@value": "scambio di lettere"
+      },
+      {
+        "@language": "lt",
+        "@value": "pasikeitimas raštais"
+      },
+      {
+        "@language": "lv",
+        "@value": "vēstuļu apmaiņa"
+      },
+      {
+        "@language": "mt",
+        "@value": "skambju ta’ ittri"
+      },
+      {
+        "@language": "nl",
+        "@value": "briefwisseling"
+      },
+      {
+        "@language": "pl",
+        "@value": "wymiana listów"
+      },
+      {
+        "@language": "pt",
+        "@value": "troca de cartas"
+      },
+      {
+        "@language": "ro",
+        "@value": "schimb de scrisori"
+      },
+      {
+        "@language": "sk",
+        "@value": "výmena listov"
+      },
+      {
+        "@language": "sl",
+        "@value": "izmenjava pisem"
+      },
+      {
+        "@language": "sv",
+        "@value": "skriftväxling"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PTA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PTA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PTA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PTA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PTA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "буква"
+      },
+      {
+        "@language": "cs",
+        "@value": "písmeno"
+      },
+      {
+        "@language": "da",
+        "@value": "litra"
+      },
+      {
+        "@language": "de",
+        "@value": "Buchstabe"
+      },
+      {
+        "@language": "el",
+        "@value": "στοιχείο"
+      },
+      {
+        "@language": "en",
+        "@value": "point"
+      },
+      {
+        "@language": "es",
+        "@value": "letra"
+      },
+      {
+        "@language": "et",
+        "@value": "punkt"
+      },
+      {
+        "@language": "fi",
+        "@value": "alakohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "point"
+      },
+      {
+        "@language": "ga",
+        "@value": "pointe"
+      },
+      {
+        "@language": "hr",
+        "@value": "točka"
+      },
+      {
+        "@language": "hu",
+        "@value": "pont"
+      },
+      {
+        "@language": "it",
+        "@value": "lettera"
+      },
+      {
+        "@language": "lt",
+        "@value": "punktas"
+      },
+      {
+        "@language": "lv",
+        "@value": "punkts"
+      },
+      {
+        "@language": "mt",
+        "@value": "punt"
+      },
+      {
+        "@language": "nl",
+        "@value": "punt"
+      },
+      {
+        "@language": "pl",
+        "@value": "litera"
+      },
+      {
+        "@language": "pt",
+        "@value": "alínea"
+      },
+      {
+        "@language": "ro",
+        "@value": "literă"
+      },
+      {
+        "@language": "sk",
+        "@value": "písmeno"
+      },
+      {
+        "@language": "sl",
+        "@value": "točka"
+      },
+      {
+        "@language": "sv",
+        "@value": "led"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/ANX",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ANX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ANX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b3"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ANX"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ANX"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "приложение"
+      },
+      {
+        "@language": "cs",
+        "@value": "příloha"
+      },
+      {
+        "@language": "da",
+        "@value": "bilag"
+      },
+      {
+        "@language": "de",
+        "@value": "Anhang"
+      },
+      {
+        "@language": "el",
+        "@value": "παράρτημα"
+      },
+      {
+        "@language": "en",
+        "@value": "annex"
+      },
+      {
+        "@language": "es",
+        "@value": "anexo"
+      },
+      {
+        "@language": "et",
+        "@value": "lisa"
+      },
+      {
+        "@language": "fi",
+        "@value": "liite"
+      },
+      {
+        "@language": "fr",
+        "@value": "annexe"
+      },
+      {
+        "@language": "ga",
+        "@value": "iarscríbhinn"
+      },
+      {
+        "@language": "hr",
+        "@value": "prilog"
+      },
+      {
+        "@language": "hu",
+        "@value": "melléklet"
+      },
+      {
+        "@language": "it",
+        "@value": "allegato"
+      },
+      {
+        "@language": "lt",
+        "@value": "priedas"
+      },
+      {
+        "@language": "lv",
+        "@value": "pielikums"
+      },
+      {
+        "@language": "mt",
+        "@value": "anness"
+      },
+      {
+        "@language": "nl",
+        "@value": "bijlage"
+      },
+      {
+        "@language": "pl",
+        "@value": "załącznik"
+      },
+      {
+        "@language": "pt",
+        "@value": "anexo"
+      },
+      {
+        "@language": "ro",
+        "@value": "anexă"
+      },
+      {
+        "@language": "sk",
+        "@value": "príloha"
+      },
+      {
+        "@language": "sl",
+        "@value": "priloga"
+      },
+      {
+        "@language": "sv",
+        "@value": "bilaga"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AX"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "N"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/TXO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TXO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TXO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TXO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TXO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "стар текст"
+      },
+      {
+        "@language": "cs",
+        "@value": "staré znění"
+      },
+      {
+        "@language": "da",
+        "@value": "gammel tekst"
+      },
+      {
+        "@language": "de",
+        "@value": "alte Fassung"
+      },
+      {
+        "@language": "el",
+        "@value": "παλαιό κείμενο"
+      },
+      {
+        "@language": "en",
+        "@value": "old text"
+      },
+      {
+        "@language": "es",
+        "@value": "texto anterior"
+      },
+      {
+        "@language": "et",
+        "@value": "vana tekst"
+      },
+      {
+        "@language": "fi",
+        "@value": "vanha teksti"
+      },
+      {
+        "@language": "fr",
+        "@value": "ancien texte"
+      },
+      {
+        "@language": "ga",
+        "@value": "an sean-téacs"
+      },
+      {
+        "@language": "hr",
+        "@value": "stari tekst"
+      },
+      {
+        "@language": "hu",
+        "@value": "korábbi szöveg"
+      },
+      {
+        "@language": "it",
+        "@value": "testo precedente"
+      },
+      {
+        "@language": "lt",
+        "@value": "ankstesnis tekstas"
+      },
+      {
+        "@language": "lv",
+        "@value": "agrākais teksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "test antik"
+      },
+      {
+        "@language": "nl",
+        "@value": "oude tekst"
+      },
+      {
+        "@language": "pl",
+        "@value": "poprzedni tekst"
+      },
+      {
+        "@language": "pt",
+        "@value": "texto antigo"
+      },
+      {
+        "@language": "ro",
+        "@value": "textul vechi"
+      },
+      {
+        "@language": "sk",
+        "@value": "pôvodné znenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "staro besedilo"
+      },
+      {
+        "@language": "sv",
+        "@value": "gammal text"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/CGR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CGR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CGR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CGR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CGR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "група поправки"
+      },
+      {
+        "@language": "cs",
+        "@value": "skupina oprav"
+      },
+      {
+        "@language": "da",
+        "@value": "gruppe af rettelser"
+      },
+      {
+        "@language": "de",
+        "@value": "Gruppen von Berichtigungen"
+      },
+      {
+        "@language": "el",
+        "@value": "ομάδα διορθώσεων"
+      },
+      {
+        "@language": "en",
+        "@value": "group of corrections"
+      },
+      {
+        "@language": "es",
+        "@value": "grupo de correcciones"
+      },
+      {
+        "@language": "et",
+        "@value": "paranduste rühm"
+      },
+      {
+        "@language": "fi",
+        "@value": "oikaisuryhmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "groupe de corrections"
+      },
+      {
+        "@language": "ga",
+        "@value": "grúpa ceartuithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "skup ispravaka"
+      },
+      {
+        "@language": "hu",
+        "@value": "korrekciócsoport"
+      },
+      {
+        "@language": "it",
+        "@value": "gruppo di correzioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "pataisų grupė"
+      },
+      {
+        "@language": "lv",
+        "@value": "labojumu grupa"
+      },
+      {
+        "@language": "mt",
+        "@value": "grupp ta’ rettifiki"
+      },
+      {
+        "@language": "nl",
+        "@value": "groep correcties"
+      },
+      {
+        "@language": "pl",
+        "@value": "grupa sprostowań"
+      },
+      {
+        "@language": "pt",
+        "@value": "grupo de correções"
+      },
+      {
+        "@language": "ro",
+        "@value": "grup de modificări"
+      },
+      {
+        "@language": "sk",
+        "@value": "skupina opráv"
+      },
+      {
+        "@language": "sl",
+        "@value": "skupina popravkov"
+      },
+      {
+        "@language": "sv",
+        "@value": "grupp av rättelser"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/RCT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RCT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RCT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b32"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b33"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RCT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RCT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "съображение"
+      },
+      {
+        "@language": "cs",
+        "@value": "bod odůvodnění"
+      },
+      {
+        "@language": "da",
+        "@value": "betragtning"
+      },
+      {
+        "@language": "de",
+        "@value": "Erwägungsgrund"
+      },
+      {
+        "@language": "el",
+        "@value": "αιτιολογική σκέψη"
+      },
+      {
+        "@language": "en",
+        "@value": "recital"
+      },
+      {
+        "@language": "es",
+        "@value": "considerando"
+      },
+      {
+        "@language": "et",
+        "@value": "põhjendus"
+      },
+      {
+        "@language": "fi",
+        "@value": "johdanto-osan kappale"
+      },
+      {
+        "@language": "fr",
+        "@value": "considérant"
+      },
+      {
+        "@language": "ga",
+        "@value": "aithris"
+      },
+      {
+        "@language": "hr",
+        "@value": "uvodna izjava"
+      },
+      {
+        "@language": "hu",
+        "@value": "preambulumbekezdés"
+      },
+      {
+        "@language": "it",
+        "@value": "considerando"
+      },
+      {
+        "@language": "lt",
+        "@value": "konstatuojamoji dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "apsvērums"
+      },
+      {
+        "@language": "mt",
+        "@value": "premessa"
+      },
+      {
+        "@language": "nl",
+        "@value": "overweging"
+      },
+      {
+        "@language": "pl",
+        "@value": "motyw"
+      },
+      {
+        "@language": "pt",
+        "@value": "considerando"
+      },
+      {
+        "@language": "ro",
+        "@value": "considerent"
+      },
+      {
+        "@language": "sk",
+        "@value": "odôvodnenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "uvodna izjava"
+      },
+      {
+        "@language": "sv",
+        "@value": "skäl"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b32",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "C"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b33",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/ROW",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ROW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ROW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b34"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ROW"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ROW"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ред на таблица"
+      },
+      {
+        "@language": "cs",
+        "@value": "řádek tabulky"
+      },
+      {
+        "@language": "da",
+        "@value": "tabelrække"
+      },
+      {
+        "@language": "de",
+        "@value": "Tabellenzeile"
+      },
+      {
+        "@language": "el",
+        "@value": "σειρά πίνακα"
+      },
+      {
+        "@language": "en",
+        "@value": "table row"
+      },
+      {
+        "@language": "es",
+        "@value": "línea de cuadro"
+      },
+      {
+        "@language": "et",
+        "@value": "tabeli rida"
+      },
+      {
+        "@language": "fi",
+        "@value": "taulukon rivi"
+      },
+      {
+        "@language": "fr",
+        "@value": "ligne de tableau"
+      },
+      {
+        "@language": "ga",
+        "@value": "ró tábla"
+      },
+      {
+        "@language": "hr",
+        "@value": "red tablice"
+      },
+      {
+        "@language": "hu",
+        "@value": "táblázatsor"
+      },
+      {
+        "@language": "it",
+        "@value": "riga della tabella"
+      },
+      {
+        "@language": "lt",
+        "@value": "lentelės eilutė"
+      },
+      {
+        "@language": "lv",
+        "@value": "tabulas rinda"
+      },
+      {
+        "@language": "mt",
+        "@value": "ringiela tat-tabella"
+      },
+      {
+        "@language": "nl",
+        "@value": "tabelrij"
+      },
+      {
+        "@language": "pl",
+        "@value": "wiersz tabeli"
+      },
+      {
+        "@language": "pt",
+        "@value": "linha de quadro"
+      },
+      {
+        "@language": "ro",
+        "@value": "rând de tabel"
+      },
+      {
+        "@language": "sk",
+        "@value": "riadok tabuľky"
+      },
+      {
+        "@language": "sl",
+        "@value": "vrstica tabele"
+      },
+      {
+        "@language": "sv",
+        "@value": "tabellrad"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b34",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/DCL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DCL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DCL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b12"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DCL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DCL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "декларация"
+      },
+      {
+        "@language": "cs",
+        "@value": "prohlášení"
+      },
+      {
+        "@language": "da",
+        "@value": "erklæring"
+      },
+      {
+        "@language": "de",
+        "@value": "Erklärung"
+      },
+      {
+        "@language": "el",
+        "@value": "δήλωση"
+      },
+      {
+        "@language": "en",
+        "@value": "declaration"
+      },
+      {
+        "@language": "es",
+        "@value": "declaración"
+      },
+      {
+        "@language": "et",
+        "@value": "deklaratsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "selitys"
+      },
+      {
+        "@language": "fr",
+        "@value": "déclaration"
+      },
+      {
+        "@language": "ga",
+        "@value": "dearbhú"
+      },
+      {
+        "@language": "hr",
+        "@value": "deklaracija"
+      },
+      {
+        "@language": "hu",
+        "@value": "nyilatkozat"
+      },
+      {
+        "@language": "it",
+        "@value": "dichiarazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "deklaracija"
+      },
+      {
+        "@language": "lv",
+        "@value": "deklarācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "dikjarazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "verklaring"
+      },
+      {
+        "@language": "pl",
+        "@value": "deklaracja"
+      },
+      {
+        "@language": "pt",
+        "@value": "declaração"
+      },
+      {
+        "@language": "ro",
+        "@value": "declarație"
+      },
+      {
+        "@language": "sk",
+        "@value": "vyhlásenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "izjava"
+      },
+      {
+        "@language": "sv",
+        "@value": "förklaring"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/SFR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SFR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SFR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SFR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SFR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "научна формула"
+      },
+      {
+        "@language": "cs",
+        "@value": "vědecký vzorec"
+      },
+      {
+        "@language": "da",
+        "@value": "videnskabelig formel"
+      },
+      {
+        "@language": "de",
+        "@value": "Wissenschaftliche Formel"
+      },
+      {
+        "@language": "el",
+        "@value": "επιστημονικός τύπος"
+      },
+      {
+        "@language": "en",
+        "@value": "scientific formula"
+      },
+      {
+        "@language": "es",
+        "@value": "fórmula científica"
+      },
+      {
+        "@language": "et",
+        "@value": "teaduslik valem"
+      },
+      {
+        "@language": "fi",
+        "@value": "tieteellinen kaava"
+      },
+      {
+        "@language": "fr",
+        "@value": "formule scientifique"
+      },
+      {
+        "@language": "ga",
+        "@value": "foirmle eolaíoch"
+      },
+      {
+        "@language": "hr",
+        "@value": "znanstvena formula"
+      },
+      {
+        "@language": "hu",
+        "@value": "tudományos képlet"
+      },
+      {
+        "@language": "it",
+        "@value": "formula scientifica"
+      },
+      {
+        "@language": "lt",
+        "@value": "mokslinė formulė"
+      },
+      {
+        "@language": "lv",
+        "@value": "zinātniska formula"
+      },
+      {
+        "@language": "mt",
+        "@value": "formula xjentifika"
+      },
+      {
+        "@language": "nl",
+        "@value": "wetenschappelijke formule"
+      },
+      {
+        "@language": "pl",
+        "@value": "wzór naukowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "fórmula científica"
+      },
+      {
+        "@language": "ro",
+        "@value": "formulă științifică"
+      },
+      {
+        "@language": "sk",
+        "@value": "vedecký vzorec"
+      },
+      {
+        "@language": "sl",
+        "@value": "znanstvena formula"
+      },
+      {
+        "@language": "sv",
+        "@value": "vetenskaplig formel"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/FNP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FNP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FNP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FNP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FNP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "заключителна част"
+      },
+      {
+        "@language": "cs",
+        "@value": "závěrečná část"
+      },
+      {
+        "@language": "da",
+        "@value": "afsluttende del"
+      },
+      {
+        "@language": "de",
+        "@value": "Schlussteil"
+      },
+      {
+        "@language": "el",
+        "@value": "τελικό μέρος"
+      },
+      {
+        "@language": "en",
+        "@value": "final part"
+      },
+      {
+        "@language": "es",
+        "@value": "parte final"
+      },
+      {
+        "@language": "et",
+        "@value": "lõpposa"
+      },
+      {
+        "@language": "fi",
+        "@value": "loppuosa"
+      },
+      {
+        "@language": "fr",
+        "@value": "partie finale"
+      },
+      {
+        "@language": "ga",
+        "@value": "cuid deiridh"
+      },
+      {
+        "@language": "hr",
+        "@value": "završni dio"
+      },
+      {
+        "@language": "hu",
+        "@value": "befejező rész"
+      },
+      {
+        "@language": "it",
+        "@value": "parte finale"
+      },
+      {
+        "@language": "lt",
+        "@value": "baigiamoji dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "nobeiguma daļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "parti finali"
+      },
+      {
+        "@language": "nl",
+        "@value": "afsluitend deel"
+      },
+      {
+        "@language": "pl",
+        "@value": "część końcowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "parte final"
+      },
+      {
+        "@language": "ro",
+        "@value": "partea finală"
+      },
+      {
+        "@language": "sk",
+        "@value": "záverečná časť"
+      },
+      {
+        "@language": "sl",
+        "@value": "sklepni del"
+      },
+      {
+        "@language": "sv",
+        "@value": "avslutande del"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b16",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/COR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "поправка"
+      },
+      {
+        "@language": "cs",
+        "@value": "oprava"
+      },
+      {
+        "@language": "da",
+        "@value": "rettelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Berichtigung"
+      },
+      {
+        "@language": "el",
+        "@value": "διόρθωση"
+      },
+      {
+        "@language": "en",
+        "@value": "correction"
+      },
+      {
+        "@language": "es",
+        "@value": "corrección"
+      },
+      {
+        "@language": "et",
+        "@value": "parandus"
+      },
+      {
+        "@language": "fi",
+        "@value": "oikaisu"
+      },
+      {
+        "@language": "fr",
+        "@value": "correction"
+      },
+      {
+        "@language": "ga",
+        "@value": "ceartú"
+      },
+      {
+        "@language": "hr",
+        "@value": "ispravak"
+      },
+      {
+        "@language": "hu",
+        "@value": "korrekció"
+      },
+      {
+        "@language": "it",
+        "@value": "correzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "pataisa"
+      },
+      {
+        "@language": "lv",
+        "@value": "labojums"
+      },
+      {
+        "@language": "mt",
+        "@value": "rettifika"
+      },
+      {
+        "@language": "nl",
+        "@value": "correctie"
+      },
+      {
+        "@language": "pl",
+        "@value": "sprostowanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "correção"
+      },
+      {
+        "@language": "ro",
+        "@value": "modificare"
+      },
+      {
+        "@language": "sk",
+        "@value": "oprava"
+      },
+      {
+        "@language": "sl",
+        "@value": "popravek"
+      },
+      {
+        "@language": "sv",
+        "@value": "rättelse"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/ACT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ACT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ACT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ACT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ACT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "акт"
+      },
+      {
+        "@language": "cs",
+        "@value": "akt"
+      },
+      {
+        "@language": "da",
+        "@value": "akt"
+      },
+      {
+        "@language": "de",
+        "@value": "Akte"
+      },
+      {
+        "@language": "el",
+        "@value": "πράξη"
+      },
+      {
+        "@language": "en",
+        "@value": "act"
+      },
+      {
+        "@language": "es",
+        "@value": "acta"
+      },
+      {
+        "@language": "et",
+        "@value": "akt"
+      },
+      {
+        "@language": "fi",
+        "@value": "asiakirja"
+      },
+      {
+        "@language": "fr",
+        "@value": "acte"
+      },
+      {
+        "@language": "ga",
+        "@value": "ionstraim"
+      },
+      {
+        "@language": "hr",
+        "@value": "akt"
+      },
+      {
+        "@language": "hu",
+        "@value": "okmány"
+      },
+      {
+        "@language": "it",
+        "@value": "atto"
+      },
+      {
+        "@language": "lt",
+        "@value": "aktas"
+      },
+      {
+        "@language": "lv",
+        "@value": "akts"
+      },
+      {
+        "@language": "mt",
+        "@value": "att"
+      },
+      {
+        "@language": "nl",
+        "@value": "akte"
+      },
+      {
+        "@language": "pl",
+        "@value": "akt"
+      },
+      {
+        "@language": "pt",
+        "@value": "ato"
+      },
+      {
+        "@language": "ro",
+        "@value": "act"
+      },
+      {
+        "@language": "sk",
+        "@value": "akt"
+      },
+      {
+        "@language": "sl",
+        "@value": "akt"
+      },
+      {
+        "@language": "sv",
+        "@value": "akt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PRT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b30"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b31"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "част"
+      },
+      {
+        "@language": "cs",
+        "@value": "část"
+      },
+      {
+        "@language": "da",
+        "@value": "del"
+      },
+      {
+        "@language": "de",
+        "@value": "Teil"
+      },
+      {
+        "@language": "el",
+        "@value": "μέρος"
+      },
+      {
+        "@language": "en",
+        "@value": "part"
+      },
+      {
+        "@language": "es",
+        "@value": "parte"
+      },
+      {
+        "@language": "et",
+        "@value": "osa"
+      },
+      {
+        "@language": "fi",
+        "@value": "osa"
+      },
+      {
+        "@language": "fr",
+        "@value": "partie"
+      },
+      {
+        "@language": "ga",
+        "@value": "cuid"
+      },
+      {
+        "@language": "hr",
+        "@value": "dio"
+      },
+      {
+        "@language": "hu",
+        "@value": "rész"
+      },
+      {
+        "@language": "it",
+        "@value": "parte"
+      },
+      {
+        "@language": "lt",
+        "@value": "dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "daļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "parti"
+      },
+      {
+        "@language": "nl",
+        "@value": "deel"
+      },
+      {
+        "@language": "pl",
+        "@value": "część"
+      },
+      {
+        "@language": "pt",
+        "@value": "parte"
+      },
+      {
+        "@language": "ro",
+        "@value": "parte"
+      },
+      {
+        "@language": "sk",
+        "@value": "časť"
+      },
+      {
+        "@language": "sl",
+        "@value": "del"
+      },
+      {
+        "@language": "sv",
+        "@value": "del"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b30",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b31",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/UNP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "UNP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "UNP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "UNP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "UNP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "неномериран параграф"
+      },
+      {
+        "@language": "cs",
+        "@value": "pododstavec"
+      },
+      {
+        "@language": "da",
+        "@value": "afsnit"
+      },
+      {
+        "@language": "de",
+        "@value": "nicht nummerierter Absatz"
+      },
+      {
+        "@language": "el",
+        "@value": "εδάφιο"
+      },
+      {
+        "@language": "en",
+        "@value": "unnumbered paragraph"
+      },
+      {
+        "@language": "es",
+        "@value": "párrafo"
+      },
+      {
+        "@language": "et",
+        "@value": "lõik"
+      },
+      {
+        "@language": "fi",
+        "@value": "numeroimaton kohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "alinéa"
+      },
+      {
+        "@language": "ga",
+        "@value": "mír neamhuimhrithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "podstavak"
+      },
+      {
+        "@language": "hu",
+        "@value": "számozatlan bekezdés"
+      },
+      {
+        "@language": "it",
+        "@value": "comma"
+      },
+      {
+        "@language": "lt",
+        "@value": "pastraipa"
+      },
+      {
+        "@language": "lv",
+        "@value": "nenumurēts punkts"
+      },
+      {
+        "@language": "mt",
+        "@value": "paragrafu mhux numerat"
+      },
+      {
+        "@language": "nl",
+        "@value": "alinea"
+      },
+      {
+        "@language": "pl",
+        "@value": "akapit"
+      },
+      {
+        "@language": "pt",
+        "@value": "parágrafo"
+      },
+      {
+        "@language": "ro",
+        "@value": "paragraf"
+      },
+      {
+        "@language": "sk",
+        "@value": "neočíslovaný odsek"
+      },
+      {
+        "@language": "sl",
+        "@value": "neoštevilčeni odstavek"
+      },
+      {
+        "@language": "sv",
+        "@value": "stycke"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/END",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "END"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "END"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-12-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "END"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "END"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "бележка"
+      },
+      {
+        "@language": "cs",
+        "@value": "poznámka"
+      },
+      {
+        "@language": "da",
+        "@value": "slutnote"
+      },
+      {
+        "@language": "de",
+        "@value": "Endnote"
+      },
+      {
+        "@language": "el",
+        "@value": "υποσημείωση"
+      },
+      {
+        "@language": "en",
+        "@value": "endnote"
+      },
+      {
+        "@language": "es",
+        "@value": "nota final"
+      },
+      {
+        "@language": "et",
+        "@value": "järelmärkus"
+      },
+      {
+        "@language": "fi",
+        "@value": "loppuviite"
+      },
+      {
+        "@language": "fr",
+        "@value": "note de fin"
+      },
+      {
+        "@language": "ga",
+        "@value": "críochnóta"
+      },
+      {
+        "@language": "hr",
+        "@value": "bilješka"
+      },
+      {
+        "@language": "hu",
+        "@value": "lábjegyzet"
+      },
+      {
+        "@language": "it",
+        "@value": "nota"
+      },
+      {
+        "@language": "lt",
+        "@value": "išnaša"
+      },
+      {
+        "@language": "lv",
+        "@value": "beigu piezīme"
+      },
+      {
+        "@language": "mt",
+        "@value": "nota tat-tmiem"
+      },
+      {
+        "@language": "nl",
+        "@value": "eindnoot"
+      },
+      {
+        "@language": "pl",
+        "@value": "przypis"
+      },
+      {
+        "@language": "pt",
+        "@value": "nota final"
+      },
+      {
+        "@language": "ro",
+        "@value": "notă finală"
+      },
+      {
+        "@language": "sk",
+        "@value": "poznámka na konci textu"
+      },
+      {
+        "@language": "sl",
+        "@value": "končna opomba"
+      },
+      {
+        "@language": "sv",
+        "@value": "slutnot"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision/PAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b23"
+      },
+      {
+        "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b24"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "параграф"
+      },
+      {
+        "@language": "cs",
+        "@value": "odstavec"
+      },
+      {
+        "@language": "da",
+        "@value": "stykke"
+      },
+      {
+        "@language": "de",
+        "@value": "Absatz"
+      },
+      {
+        "@language": "el",
+        "@value": "παράγραφος"
+      },
+      {
+        "@language": "en",
+        "@value": "paragraph"
+      },
+      {
+        "@language": "es",
+        "@value": "apartado"
+      },
+      {
+        "@language": "et",
+        "@value": "lõige"
+      },
+      {
+        "@language": "fi",
+        "@value": "kohta"
+      },
+      {
+        "@language": "fr",
+        "@value": "paragraphe"
+      },
+      {
+        "@language": "ga",
+        "@value": "mír"
+      },
+      {
+        "@language": "hr",
+        "@value": "stavak"
+      },
+      {
+        "@language": "hu",
+        "@value": "bekezdés"
+      },
+      {
+        "@language": "it",
+        "@value": "paragrafo"
+      },
+      {
+        "@language": "lt",
+        "@value": "dalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "punkts"
+      },
+      {
+        "@language": "mt",
+        "@value": "paragrafu"
+      },
+      {
+        "@language": "nl",
+        "@value": "lid"
+      },
+      {
+        "@language": "pl",
+        "@value": "ustęp"
+      },
+      {
+        "@language": "pt",
+        "@value": "número"
+      },
+      {
+        "@language": "ro",
+        "@value": "alineat"
+      },
+      {
+        "@language": "sk",
+        "@value": "očíslovaný odsek"
+      },
+      {
+        "@language": "sl",
+        "@value": "odstavek"
+      },
+      {
+        "@language": "sv",
+        "@value": "punkt"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b23",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "FORMEX"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne33d7cc206434dcca6d2e10a80446fc1b24",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "P"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  }
+]

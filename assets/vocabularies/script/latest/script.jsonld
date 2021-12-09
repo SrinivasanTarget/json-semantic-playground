@@ -1,0 +1,2862 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/THAI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "THAI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "THAI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb57"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb58"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "THAI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "THAI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Thai script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb57",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "352"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb58",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Thai"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/GURMUKHI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GURMUKHI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GURMUKHI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb21"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb22"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GURMUKHI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GURMUKHI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gurmukhi script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb21",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Guru"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb22",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "310"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/KHMER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KHMER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KHMER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb35"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb36"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KHMER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KHMER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Khmer script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb35",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Khmr"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb36",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "355"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Script"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "script"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20200624-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Script"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20200624-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Script"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/KANNADA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KANNADA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KANNADA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb31"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb32"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KANNADA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KANNADA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Kannada script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb31",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "345"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb32",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Knda"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/HEBREW",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HEBREW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HEBREW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb27"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb28"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HEBREW"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HEBREW"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hebrew script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb27",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "125"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb28",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Hebr"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/KATAKANA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KATAKANA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KATAKANA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb33"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb34"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KATAKANA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KATAKANA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Katakana script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb33",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Kana"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb34",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "411"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/MALAYALAM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MALAYALAM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MALAYALAM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb41"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb42"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MALAYALAM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MALAYALAM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Malayalam script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb41",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "347"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb42",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Mlym"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/THAANA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "THAANA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "THAANA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb55"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb56"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "THAANA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "THAANA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Thaana script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb55",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Thaa"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb56",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "170"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/BENGALI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BENGALI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BENGALI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb5"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BENGALI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BENGALI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Bengali script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Beng"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "325"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/ETHIOPIC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ETHIOPIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ETHIOPIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb13"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb14"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ETHIOPIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ETHIOPIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Ethiopic script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "430"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Ethi"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/HANGUL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HANGUL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HANGUL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb25"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb26"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HANGUL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HANGUL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hangul script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb25",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Hang"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb26",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "286"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/TIBETAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TIBETAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TIBETAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb59"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb60"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TIBETAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TIBETAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tibetan script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb59",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Tibt"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb60",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "330"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/GEORGIAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GEORGIAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GEORGIAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb15"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GEORGIAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GEORGIAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Georgian script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "240"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb16",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Geor"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/ARABIC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ARABIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ARABIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb1"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ARABIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ARABIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Arabic script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "160"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Arab"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/GUJARATI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GUJARATI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GUJARATI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb19"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb20"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GUJARATI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GUJARATI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Gujarati script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb19",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Gujr"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb20",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "320"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/GREEK",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GREEK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GREEK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb17"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb18"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1981-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GREEK"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GREEK"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Greek script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb17",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Grek"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb18",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "200"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/ARMENIAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ARMENIAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ARMENIAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb3"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ARMENIAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ARMENIAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Armenian script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Armn"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "230"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/LATIN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LATIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LATIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb39"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb40"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LATIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LATIN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Latin script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb39",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Latn"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb40",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "215"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/CYRILLIC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CYRILLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CYRILLIC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb9"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb10"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2007-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CYRILLIC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CYRILLIC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Cyrillic script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "220"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Cyrl"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/DEVANAGARI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEVANAGARI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEVANAGARI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb11"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb12"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEVANAGARI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEVANAGARI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Devanagari script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Deva"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "315"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/LAO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LAO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LAO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb37"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb38"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LAO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LAO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lao script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb37",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "356"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb38",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Laoo"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/TELUGU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TELUGU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TELUGU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb53"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb54"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TELUGU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TELUGU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Telugu script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb53",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "340"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb54",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Telu"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/BRAILLE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BRAILLE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BRAILLE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb7"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BRAILLE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BRAILLE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Braille script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Brai"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "570"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/HIRAGANA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HIRAGANA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HIRAGANA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb29"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HIRAGANA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HIRAGANA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Hiragana script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb29",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Hira"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb30",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "410"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/TIFINAGH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TIFINAGH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TIFINAGH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb61"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb62"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TIFINAGH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TIFINAGH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tifinagh script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb61",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Tfng"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb62",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "120"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/TAMIL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TAMIL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TAMIL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb51"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb52"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TAMIL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TAMIL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tamil script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb51",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "346"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb52",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Taml"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/SINHALA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SINHALA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SINHALA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb47"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb48"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SINHALA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SINHALA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Sinhala script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb47",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "348"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb48",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Sinh"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/TAGALOG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TAGALOG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TAGALOG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb49"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb50"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TAGALOG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TAGALOG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Tagalog script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb49",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "370"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb50",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Tglg"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/MONGOLIAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MONGOLIAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MONGOLIAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb43"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb44"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MONGOLIAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MONGOLIAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Mongolian script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb43",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "145"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb44",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Mong"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/MYANMAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MYANMAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MYANMAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb45"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb46"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MYANMAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MYANMAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Myanmar script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb45",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "350"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb46",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Mymr"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/script/HAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb23"
+      },
+      {
+        "@id": "_:n4ffdd17be025475da97cc916de6765ddb24"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-07-05"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/script"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Han script"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb23",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "500"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-num"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4ffdd17be025475da97cc916de6765ddb24",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Hani"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "iso-15924-alpha-4"
+      }
+    ]
+  }
+]

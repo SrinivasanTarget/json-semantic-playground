@@ -1,0 +1,2278 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ACCD
+  deprecated: 'false'
+  key: ACCD
+  label_en: Access to documents
+  label_it: Accesso ai documenti
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACCD
+  valid_from: '1952-07-24'
+- country_code: ACCE
+  deprecated: 'false'
+  key: ACCE
+  label_en: Accession to agreement
+  label_it: Adesione, accordo
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACCE
+  valid_from: '1952-07-24'
+- country_code: ACCI
+  deprecated: 'false'
+  key: ACCI
+  label_en: Excise duties
+  label_it: Diritti di accisa
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACCI
+  valid_from: '1952-07-24'
+- country_code: ACIE
+  deprecated: 'false'
+  key: ACIE
+  label_en: Steel
+  label_it: Acciaio
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACIE
+  valid_from: '1952-07-24'
+- country_code: ACIN
+  deprecated: 'false'
+  key: ACIN
+  label_en: International agreements
+  label_it: Accordi internazionali
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACIN
+  valid_from: '1952-07-24'
+- country_code: ACP
+  deprecated: 'false'
+  key: ACP
+  label_en: African, Caribbean and Pacific States (ACP)
+  label_it: Stati africani, dei Caraibi e del Pacifico (ACP)
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACP
+  valid_from: '1952-07-24'
+- country_code: ACSP
+  deprecated: 'false'
+  key: ACSP
+  label_en: Special steels
+  label_it: Acciai speciali
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACSP
+  valid_from: '1952-07-24'
+- country_code: ACTE
+  deprecated: 'false'
+  key: ACTE
+  label_en: Acts of the institutions
+  label_it: Atti delle istituzioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/ACTE
+  valid_from: '1952-07-24'
+- country_code: ADAP
+  deprecated: 'false'
+  key: ADAP
+  label_en: Adjustment
+  label_it: Adattamento
+  url: http://publications.europa.eu/resource/authority/subject-matter/ADAP
+  valid_from: '1952-07-24'
+- country_code: ADH
+  deprecated: 'false'
+  key: ADH
+  label_en: Accession
+  label_it: Adesione
+  url: http://publications.europa.eu/resource/authority/subject-matter/ADH
+  valid_from: '1952-07-24'
+- country_code: ADMI
+  deprecated: 'false'
+  key: ADMI
+  label_en: 'Common customs tariff: temporary importation'
+  label_it: 'Tariffa doganale comune: ammissione temporanea'
+  url: http://publications.europa.eu/resource/authority/subject-matter/ADMI
+  valid_from: '1952-07-24'
+- country_code: AELE
+  deprecated: 'false'
+  key: AELE
+  label_en: European Free Trade Association (EFTA)
+  label_it: Associazione europea di libero scambio (EFTA)
+  url: http://publications.europa.eu/resource/authority/subject-matter/AELE
+  valid_from: '1952-07-24'
+- country_code: AGRI
+  deprecated: 'false'
+  key: AGRI
+  label_en: Agriculture and Fisheries
+  label_it: Agricoltura e Pesca
+  url: http://publications.europa.eu/resource/authority/subject-matter/AGRI
+  valid_from: '1952-07-24'
+- country_code: AIDE
+  deprecated: 'false'
+  key: AIDE
+  label_en: State aids
+  label_it: Aiuti degli Stati
+  url: http://publications.europa.eu/resource/authority/subject-matter/AIDE
+  valid_from: '1952-07-24'
+- country_code: AL-A
+  deprecated: 'false'
+  key: AL-A
+  label_en: Animal feedingstuffs
+  label_it: Alimenti per animali
+  url: http://publications.europa.eu/resource/authority/subject-matter/AL-A
+  valid_from: '1952-07-24'
+- country_code: ALCO
+  deprecated: 'false'
+  key: ALCO
+  label_en: Alcohol
+  label_it: Alcole
+  url: http://publications.europa.eu/resource/authority/subject-matter/ALCO
+  valid_from: '1952-07-24'
+- country_code: ALIM
+  deprecated: 'false'
+  key: ALIM
+  label_en: Food aid
+  label_it: Aiuti alimentari
+  url: http://publications.europa.eu/resource/authority/subject-matter/ALIM
+  valid_from: '1952-07-24'
+- country_code: ANCO
+  deprecated: 'false'
+  key: ANCO
+  label_en: Non-trade agreement
+  label_it: Accordi non commerciali
+  url: http://publications.europa.eu/resource/authority/subject-matter/ANCO
+  valid_from: '1952-07-24'
+- country_code: APPR
+  deprecated: 'false'
+  key: APPR
+  label_en: Supply agency
+  label_it: Agenzia di approvvigionamento
+  url: http://publications.europa.eu/resource/authority/subject-matter/APPR
+  valid_from: '1952-07-24'
+- country_code: ASIL
+  deprecated: 'false'
+  key: ASIL
+  label_en: Asylum policy
+  label_it: Politica in materia di asilo
+  url: http://publications.europa.eu/resource/authority/subject-matter/ASIL
+  valid_from: '1952-07-24'
+- country_code: ASSI
+  deprecated: 'false'
+  key: ASSI
+  label_en: Assistance
+  label_it: Assistenza
+  url: http://publications.europa.eu/resource/authority/subject-matter/ASSI
+  valid_from: '1952-07-24'
+- country_code: ASSO
+  deprecated: 'false'
+  key: ASSO
+  label_en: Association Agreement
+  label_it: Accordo di associazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/ASSO
+  valid_from: '1952-07-24'
+- country_code: AUTH
+  deprecated: 'false'
+  key: AUTH
+  label_en: Authentication
+  label_it: Autenticazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/AUTH
+  valid_from: '1952-07-24'
+- country_code: BANA
+  deprecated: 'false'
+  key: BANA
+  label_en: Bananas
+  label_it: Banane
+  url: http://publications.europa.eu/resource/authority/subject-matter/BANA
+  valid_from: '1952-07-24'
+- country_code: BCE
+  deprecated: 'false'
+  key: BCE
+  label_en: European Central Bank (ECB)
+  label_it: Banca centrale europea (BCE)
+  url: http://publications.europa.eu/resource/authority/subject-matter/BCE
+  valid_from: '1952-07-24'
+- country_code: BEI
+  deprecated: 'false'
+  key: BEI
+  label_en: European Investment Bank (EIB)
+  label_it: Banca europea per gli investimenti (BEI)
+  url: http://publications.europa.eu/resource/authority/subject-matter/BEI
+  valid_from: '1952-07-24'
+- country_code: BOV
+  deprecated: 'false'
+  key: BOV
+  label_en: Beef and veal
+  label_it: Carni bovine
+  url: http://publications.europa.eu/resource/authority/subject-matter/BOV
+  valid_from: '1952-07-24'
+- country_code: BPAI
+  deprecated: 'false'
+  key: BPAI
+  label_en: Balance of payments
+  label_it: Bilancia dei pagamenti
+  url: http://publications.europa.eu/resource/authority/subject-matter/BPAI
+  valid_from: '1952-07-24'
+- country_code: BREV
+  deprecated: 'false'
+  key: BREV
+  label_en: Patents
+  label_it: Brevetti
+  url: http://publications.europa.eu/resource/authority/subject-matter/BREV
+  valid_from: '1952-07-24'
+- country_code: BT
+  deprecated: 'false'
+  key: BT
+  label_en: Tropical timber
+  label_it: Legno tropicale
+  url: http://publications.europa.eu/resource/authority/subject-matter/BT
+  valid_from: '1952-07-24'
+- country_code: BUDG
+  deprecated: 'false'
+  key: BUDG
+  label_en: Budget
+  label_it: Bilancio
+  url: http://publications.europa.eu/resource/authority/subject-matter/BUDG
+  valid_from: '1952-07-24'
+- country_code: CAC
+  deprecated: 'false'
+  key: CAC
+  label_en: Cocoa
+  label_it: Cacao
+  url: http://publications.europa.eu/resource/authority/subject-matter/CAC
+  valid_from: '1952-07-24'
+- country_code: CAFE
+  deprecated: 'false'
+  key: CAFE
+  label_en: Coffee
+  label_it: "Caff\xE8"
+  url: http://publications.europa.eu/resource/authority/subject-matter/CAFE
+  valid_from: '1952-07-24'
+- country_code: CAO
+  deprecated: 'false'
+  key: CAO
+  label_en: Rubber
+  label_it: Gomma naturale
+  url: http://publications.europa.eu/resource/authority/subject-matter/CAO
+  valid_from: '1952-07-24'
+- country_code: CDEV
+  deprecated: 'false'
+  key: CDEV
+  label_en: Development cooperation
+  label_it: Cooperazione allo sviluppo
+  url: http://publications.europa.eu/resource/authority/subject-matter/CDEV
+  valid_from: '1952-07-24'
+- country_code: CECA
+  deprecated: 'false'
+  key: CECA
+  label_en: ECSC matters
+  label_it: Materie CECA
+  url: http://publications.europa.eu/resource/authority/subject-matter/CECA
+  valid_from: '1952-07-24'
+- country_code: CECC
+  deprecated: 'false'
+  key: CECC
+  label_en: Brussels Convention of 27 September 1968
+  label_it: Convenzione di Bruxelles del 27 settembre 1968
+  url: http://publications.europa.eu/resource/authority/subject-matter/CECC
+  valid_from: '1952-07-24'
+- country_code: CEDH
+  deprecated: 'false'
+  key: CEDH
+  label_en: European Convention on Human Rights
+  label_it: Convenzione europea dei diritti dell'uomo
+  url: http://publications.europa.eu/resource/authority/subject-matter/CEDH
+  valid_from: '1952-07-24'
+- country_code: CEEA
+  deprecated: 'false'
+  key: CEEA
+  label_en: Euratom matters
+  label_it: Materie Euratom
+  url: http://publications.europa.eu/resource/authority/subject-matter/CEEA
+  valid_from: '1952-07-24'
+- country_code: CERE
+  deprecated: 'false'
+  key: CERE
+  label_en: Cereals
+  label_it: Cereali
+  url: http://publications.europa.eu/resource/authority/subject-matter/CERE
+  valid_from: '1952-07-24'
+- country_code: CHAR
+  deprecated: 'false'
+  key: CHAR
+  label_en: Coal
+  label_it: Carbone
+  url: http://publications.europa.eu/resource/authority/subject-matter/CHAR
+  valid_from: '1952-07-24'
+- country_code: CHDF
+  deprecated: 'false'
+  key: CHDF
+  label_en: Charter of Fundamental Rights
+  label_it: Carta dei diritti fondamentali
+  url: http://publications.europa.eu/resource/authority/subject-matter/CHDF
+  valid_from: '1952-07-24'
+- country_code: CIT
+  deprecated: 'false'
+  key: CIT
+  label_en: Citizenship of the Union
+  label_it: Cittadinanza dell'Unione
+  url: http://publications.europa.eu/resource/authority/subject-matter/CIT
+  valid_from: '1952-07-24'
+- country_code: CLUG
+  deprecated: 'false'
+  key: CLUG
+  label_en: Lugano Convention
+  label_it: Convenzione di Lugano
+  url: http://publications.europa.eu/resource/authority/subject-matter/CLUG
+  valid_from: '1952-07-24'
+- country_code: COAD
+  deprecated: 'false'
+  key: COAD
+  label_en: Administrative cooperation
+  label_it: Cooperazione amministrativa
+  url: http://publications.europa.eu/resource/authority/subject-matter/COAD
+  valid_from: '1952-07-24'
+- country_code: COES
+  deprecated: 'false'
+  key: COES
+  label_en: Economic, social and territorial cohesion
+  label_it: Coesione economica, sociale e territoriale
+  url: http://publications.europa.eu/resource/authority/subject-matter/COES
+  valid_from: '1952-07-24'
+- country_code: COHE
+  deprecated: 'false'
+  key: COHE
+  label_en: Cohesion Fund
+  label_it: Fondo di coesione
+  url: http://publications.europa.eu/resource/authority/subject-matter/COHE
+  valid_from: '1952-07-24'
+- country_code: COJC
+  deprecated: 'false'
+  key: COJC
+  label_en: Judicial cooperation in civil matters
+  label_it: Cooperazione giudiziaria in materia civile
+  url: http://publications.europa.eu/resource/authority/subject-matter/COJC
+  valid_from: '1952-07-24'
+- country_code: COJP
+  deprecated: 'false'
+  key: COJP
+  label_en: Judicial cooperation in criminal matters
+  label_it: Cooperazione giudiziaria in materia penale
+  url: http://publications.europa.eu/resource/authority/subject-matter/COJP
+  valid_from: '1952-07-24'
+- country_code: COKE
+  deprecated: 'false'
+  key: COKE
+  label_en: Coke
+  label_it: Coke
+  url: http://publications.europa.eu/resource/authority/subject-matter/COKE
+  valid_from: '1952-07-24'
+- country_code: COMB
+  deprecated: 'false'
+  key: COMB
+  label_en: Fuels
+  label_it: Combustibili
+  url: http://publications.europa.eu/resource/authority/subject-matter/COMB
+  valid_from: '1952-07-24'
+- country_code: COMP
+  deprecated: 'false'
+  key: COMP
+  label_en: Accession compensatory amounts
+  label_it: Importi compensativi adesione
+  url: http://publications.europa.eu/resource/authority/subject-matter/COMP
+  valid_from: '1952-07-24'
+- country_code: COMT
+  deprecated: 'false'
+  key: COMT
+  label_en: Brussels Convention of 27 September 1968 - Jurisdiction
+  label_it: Convenzione di Bruxelles del 27 settembre 1968 - Competenza
+  url: http://publications.europa.eu/resource/authority/subject-matter/COMT
+  valid_from: '1952-07-24'
+- country_code: CONC
+  deprecated: 'false'
+  key: CONC
+  label_en: Competition
+  label_it: Concorrenza
+  url: http://publications.europa.eu/resource/authority/subject-matter/CONC
+  valid_from: '1952-07-24'
+- country_code: CONJ
+  deprecated: 'false'
+  key: CONJ
+  label_en: Conjunctural policy
+  label_it: Politica di congiuntura
+  url: http://publications.europa.eu/resource/authority/subject-matter/CONJ
+  valid_from: '1952-07-24'
+- country_code: CONT
+  deprecated: 'false'
+  key: CONT
+  label_en: Quotas - third countries
+  label_it: Contingenti (paesi terzi)
+  url: http://publications.europa.eu/resource/authority/subject-matter/CONT
+  valid_from: '1952-07-24'
+- country_code: COOP
+  deprecated: 'false'
+  key: COOP
+  label_en: Cooperation
+  label_it: Cooperazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/COOP
+  valid_from: '1952-07-24'
+- country_code: COOR
+  deprecated: 'false'
+  key: COOR
+  label_en: Coordination of structural instruments
+  label_it: Coordinamento degli strumenti strutturali
+  url: http://publications.europa.eu/resource/authority/subject-matter/COOR
+  valid_from: '1952-07-24'
+- country_code: COPE
+  deprecated: 'false'
+  key: COPE
+  label_en: European political cooperation
+  label_it: Cooperazione politica europea
+  url: http://publications.europa.eu/resource/authority/subject-matter/COPE
+  valid_from: '1952-07-24'
+- country_code: COPO
+  deprecated: 'false'
+  key: COPO
+  label_en: Police cooperation
+  label_it: Cooperazione di polizia
+  url: http://publications.europa.eu/resource/authority/subject-matter/COPO
+  valid_from: '1952-07-24'
+- country_code: COPT
+  deprecated: 'false'
+  key: COPT
+  label_en: Economic, financial and technical cooperation with third countries
+  label_it: Cooperazione economica, finanziaria e tecnica con i paesi terzi
+  url: http://publications.europa.eu/resource/authority/subject-matter/COPT
+  valid_from: '1952-07-24'
+- country_code: CORE
+  deprecated: 'false'
+  key: CORE
+  label_en: Closer cooperation
+  label_it: Cooperazione rafforzata
+  url: http://publications.europa.eu/resource/authority/subject-matter/CORE
+  valid_from: '1952-07-24'
+- country_code: COTO
+  deprecated: 'false'
+  key: COTO
+  label_en: Cotton
+  label_it: Cotone
+  url: http://publications.europa.eu/resource/authority/subject-matter/COTO
+  valid_from: '1952-07-24'
+- country_code: CRBM
+  deprecated: 'false'
+  key: CRBM
+  label_en: Conservation of marine biological resources
+  label_it: Conservazione delle risorse biologiche del mare
+  url: http://publications.europa.eu/resource/authority/subject-matter/CRBM
+  valid_from: '1952-07-24'
+- country_code: CROM
+  deprecated: 'false'
+  key: CROM
+  label_en: Rome Convention of 19 June 1980
+  label_it: Convenzione di Roma del 18 giugno 1980
+  url: http://publications.europa.eu/resource/authority/subject-matter/CROM
+  valid_from: '1952-07-24'
+- country_code: CTEM
+  deprecated: 'false'
+  key: CTEM
+  label_en: Quotas between Member States
+  label_it: Contingenti tra Stati membri
+  url: http://publications.europa.eu/resource/authority/subject-matter/CTEM
+  valid_from: '1952-07-24'
+- country_code: CULT
+  deprecated: 'false'
+  key: CULT
+  label_en: Culture
+  label_it: Cultura
+  url: http://publications.europa.eu/resource/authority/subject-matter/CULT
+  valid_from: '1952-07-24'
+- country_code: D-AL
+  deprecated: 'false'
+  key: D-AL
+  label_en: Foodstuffs
+  label_it: Alimentari
+  url: http://publications.europa.eu/resource/authority/subject-matter/D-AL
+  valid_from: '1952-07-24'
+- country_code: DADV
+  deprecated: 'false'
+  key: DADV
+  label_en: Copyright and related rights
+  label_it: Diritto d'autore e diritti vicini
+  url: http://publications.europa.eu/resource/authority/subject-matter/DADV
+  valid_from: '1952-07-24'
+- country_code: DDES
+  deprecated: 'false'
+  key: DDES
+  label_en: Right of entry and residence
+  label_it: Diritto d'ingresso e di soggiorno
+  url: http://publications.europa.eu/resource/authority/subject-matter/DDES
+  valid_from: '1952-07-24'
+- country_code: DDLH
+  deprecated: 'false'
+  key: DDLH
+  label_en: Human rights
+  label_it: Diritti dell'uomo
+  url: http://publications.europa.eu/resource/authority/subject-matter/DDLH
+  valid_from: '1952-07-24'
+- country_code: DECH
+  deprecated: 'false'
+  key: DECH
+  label_en: Waste
+  label_it: Rifiuti
+  url: http://publications.europa.eu/resource/authority/subject-matter/DECH
+  valid_from: '1952-07-24'
+- country_code: DEMO
+  deprecated: 'false'
+  key: DEMO
+  label_en: Designs
+  label_it: Disegni e modelli
+  url: http://publications.europa.eu/resource/authority/subject-matter/DEMO
+  valid_from: '1952-07-24'
+- country_code: DFON
+  deprecated: 'false'
+  key: DFON
+  label_en: Fundamental rights
+  label_it: Diritti fondamentali
+  url: http://publications.europa.eu/resource/authority/subject-matter/DFON
+  valid_from: '1952-07-24'
+- country_code: DGEN
+  deprecated: 'false'
+  key: DGEN
+  label_en: General provisions
+  label_it: Disposizioni generali
+  url: http://publications.europa.eu/resource/authority/subject-matter/DGEN
+  valid_from: '1952-07-24'
+- country_code: DIFF
+  deprecated: 'false'
+  key: DIFF
+  label_en: Dissemination of information
+  label_it: Diffusione delle conoscenze
+  url: http://publications.europa.eu/resource/authority/subject-matter/DIFF
+  valid_from: '1952-07-24'
+- country_code: DIPL
+  deprecated: 'false'
+  key: DIPL
+  label_en: External action by the Union
+  label_it: Azione esterna dell'Unione
+  url: http://publications.europa.eu/resource/authority/subject-matter/DIPL
+  valid_from: '1952-07-24'
+- country_code: DISC
+  deprecated: 'false'
+  key: DISC
+  label_en: Anti-discrimination
+  label_it: Non discriminazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/DISC
+  valid_from: '1952-07-24'
+- country_code: DOM
+  deprecated: 'false'
+  key: DOM
+  label_en: French overseas departments
+  label_it: Dipartimenti francesi d'oltremare
+  url: http://publications.europa.eu/resource/authority/subject-matter/DOM
+  valid_from: '1952-07-24'
+- country_code: DOUA
+  deprecated: 'false'
+  key: DOUA
+  label_en: Customs Cooperation
+  label_it: Cooperazione doganale
+  url: http://publications.europa.eu/resource/authority/subject-matter/DOUA
+  valid_from: '1952-07-24'
+- country_code: DROIT
+  deprecated: 'false'
+  key: DROIT
+  label_en: General principles of Community law
+  label_it: Principi generali di diritto comunitario
+  url: http://publications.europa.eu/resource/authority/subject-matter/DROIT
+  valid_from: '1952-07-24'
+- country_code: DUMP
+  deprecated: 'false'
+  key: DUMP
+  label_en: Dumping
+  label_it: Dumping
+  url: http://publications.europa.eu/resource/authority/subject-matter/DUMP
+  valid_from: '1952-07-24'
+- country_code: EAMA
+  deprecated: 'false'
+  key: EAMA
+  label_en: Associated African States and Madagascar
+  label_it: Stati africani e malgasci associati
+  url: http://publications.europa.eu/resource/authority/subject-matter/EAMA
+  valid_from: '1952-07-24'
+- country_code: ECU
+  deprecated: 'false'
+  key: ECU
+  label_en: Conversion rates for the ECU
+  label_it: Corso dei cambi dell'ECU
+  url: http://publications.europa.eu/resource/authority/subject-matter/ECU
+  valid_from: '1952-07-24'
+- country_code: EFPJ
+  deprecated: 'false'
+  key: EFPJ
+  label_en: Education, vocational training and youth
+  label_it: "Istruzione, formazione professionale e giovent\xF9"
+  url: http://publications.europa.eu/resource/authority/subject-matter/EFPJ
+  valid_from: '1952-07-24'
+- country_code: ELSJ
+  deprecated: 'false'
+  key: ELSJ
+  label_en: Area of freedom, security and justice
+  label_it: "Spazio di libert\xE0, sicurezza e giustizia"
+  url: http://publications.europa.eu/resource/authority/subject-matter/ELSJ
+  valid_from: '1952-07-24'
+- country_code: EMPL
+  deprecated: 'false'
+  key: EMPL
+  label_en: Employment
+  label_it: Occupazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/EMPL
+  valid_from: '1952-07-24'
+- country_code: EMPR
+  deprecated: 'false'
+  key: EMPR
+  label_en: Loans contracted by the ECSC
+  label_it: Prestiti
+  url: http://publications.europa.eu/resource/authority/subject-matter/EMPR
+  valid_from: '1952-07-24'
+- country_code: ENCO
+  deprecated: 'false'
+  key: ENCO
+  label_en: Agreements and concentrations
+  label_it: Intese e concentrazioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/ENCO
+  valid_from: '1952-07-24'
+- country_code: ENER
+  deprecated: 'false'
+  key: ENER
+  label_en: Energy
+  label_it: Energia
+  url: http://publications.europa.eu/resource/authority/subject-matter/ENER
+  valid_from: '1952-07-24'
+- country_code: ENTC
+  deprecated: 'false'
+  key: ENTC
+  label_en: Joint undertakings
+  label_it: Imprese comuni
+  url: http://publications.europa.eu/resource/authority/subject-matter/ENTC
+  valid_from: '1952-07-24'
+- country_code: ENTR
+  deprecated: 'false'
+  key: ENTR
+  label_en: Agreements, decisions and concerted practices
+  label_it: Intese
+  url: http://publications.europa.eu/resource/authority/subject-matter/ENTR
+  valid_from: '1952-07-24'
+- country_code: ENV
+  deprecated: 'false'
+  key: ENV
+  label_en: Environment
+  label_it: Ambiente
+  url: http://publications.europa.eu/resource/authority/subject-matter/ENV
+  valid_from: '1952-07-24'
+- country_code: ESPA
+  deprecated: 'false'
+  key: ESPA
+  label_en: Space
+  label_it: Spazio
+  url: http://publications.europa.eu/resource/authority/subject-matter/ESPA
+  valid_from: '1952-07-24'
+- country_code: ETAB
+  deprecated: 'false'
+  key: ETAB
+  label_en: Right of establishment
+  label_it: Diritto di stabilimento
+  url: http://publications.europa.eu/resource/authority/subject-matter/ETAB
+  valid_from: '1952-07-24'
+- country_code: ETEC
+  deprecated: 'false'
+  key: ETEC
+  label_en: Technical barriers
+  label_it: Ostacoli tecnici
+  url: http://publications.europa.eu/resource/authority/subject-matter/ETEC
+  valid_from: '1952-07-24'
+- country_code: EURO
+  deprecated: 'false'
+  key: EURO
+  label_en: Euro
+  label_it: Euro
+  url: http://publications.europa.eu/resource/authority/subject-matter/EURO
+  valid_from: '1952-07-24'
+- country_code: EXCL
+  deprecated: 'false'
+  key: EXCL
+  label_en: Exclusive agreements
+  label_it: Contratti di esclusiva
+  url: http://publications.europa.eu/resource/authority/subject-matter/EXCL
+  valid_from: '1952-07-24'
+- country_code: EXEC
+  deprecated: 'false'
+  key: EXEC
+  label_en: Brussels Convention of 27 September 1968 - Enforcement
+  label_it: Convenzione di Bruxelles del 27 settembre 1968 - Esecuzione
+  url: http://publications.europa.eu/resource/authority/subject-matter/EXEC
+  valid_from: '1952-07-24'
+- country_code: EXT
+  deprecated: 'false'
+  key: EXT
+  label_en: External relations
+  label_it: Relazioni esterne
+  url: http://publications.europa.eu/resource/authority/subject-matter/EXT
+  valid_from: '1994-01-01'
+- country_code: F-L
+  deprecated: 'false'
+  key: F-L
+  label_en: Fruit and vegetables
+  label_it: Ortofrutticoli
+  url: http://publications.europa.eu/resource/authority/subject-matter/F-L
+  valid_from: '1952-07-24'
+- country_code: FD
+  deprecated: 'false'
+  key: FD
+  label_en: Hard fibres
+  label_it: Fibre dure
+  url: http://publications.europa.eu/resource/authority/subject-matter/FD
+  valid_from: '1952-07-24'
+- country_code: FDES
+  deprecated: 'false'
+  key: FDES
+  label_en: Dry fodder
+  label_it: Foraggi essiccati
+  url: http://publications.europa.eu/resource/authority/subject-matter/FDES
+  valid_from: '1952-07-24'
+- country_code: FEADER
+  deprecated: 'false'
+  key: FEADER
+  label_en: Agricultural structural funds
+  label_it: Fondi strutturali per l'agricoltura
+  url: http://publications.europa.eu/resource/authority/subject-matter/FEADER
+  valid_from: '1952-07-24'
+- country_code: FEAGA
+  deprecated: 'false'
+  key: FEAGA
+  label_en: European Agricultural Guarantee Fund
+  label_it: Fondo europeo agricolo di garanzia
+  url: http://publications.europa.eu/resource/authority/subject-matter/FEAGA
+  valid_from: '1952-07-24'
+- country_code: FED
+  deprecated: 'false'
+  key: FED
+  label_en: European Development Fund (EDF)
+  label_it: Fondo europeo di sviluppo (FES)
+  url: http://publications.europa.eu/resource/authority/subject-matter/FED
+  valid_from: '1952-07-24'
+- country_code: FEDE
+  deprecated: 'false'
+  key: FEDE
+  label_en: European Regional Development Fund (ERDF)
+  label_it: Fondo europeo di sviluppo regionale (FESR)
+  url: http://publications.europa.eu/resource/authority/subject-matter/FEDE
+  valid_from: '1952-07-24'
+- country_code: FEOG
+  deprecated: 'false'
+  key: FEOG
+  label_en: European Agricultural Guidance and Guarantee Fund (EAGGF)
+  label_it: Fondo europeo agricolo di orientamento e di garanzia (FEAOG)
+  url: http://publications.europa.eu/resource/authority/subject-matter/FEOG
+  valid_from: '1952-07-24'
+- country_code: FER
+  deprecated: 'false'
+  key: FER
+  label_en: Iron
+  label_it: Ferro
+  url: http://publications.europa.eu/resource/authority/subject-matter/FER
+  valid_from: '1952-07-24'
+- country_code: FERR
+  deprecated: 'false'
+  key: FERR
+  label_en: Scrap
+  label_it: Rottame
+  url: http://publications.europa.eu/resource/authority/subject-matter/FERR
+  valid_from: '1952-07-24'
+- country_code: FEVT
+  deprecated: 'false'
+  key: FEVT
+  label_en: Eur Foundation Improvement of Living and Working Conditions
+  label_it: Fondazione europea miglioramento condizioni vita e lavoro
+  url: http://publications.europa.eu/resource/authority/subject-matter/FEVT
+  valid_from: '1952-07-24'
+- country_code: FIN
+  deprecated: 'false'
+  key: FIN
+  label_en: Financial provisions
+  label_it: Disposizioni finanziarie
+  url: http://publications.europa.eu/resource/authority/subject-matter/FIN
+  valid_from: '1952-07-24'
+- country_code: FINC
+  deprecated: 'false'
+  key: FINC
+  label_en: Financial provisions ECSC
+  label_it: Disposizioni finanziarie CECA
+  url: http://publications.europa.eu/resource/authority/subject-matter/FINC
+  valid_from: '1952-07-24'
+- country_code: FISC
+  deprecated: 'false'
+  key: FISC
+  label_en: Taxation
+  label_it: Affari fiscali
+  url: http://publications.europa.eu/resource/authority/subject-matter/FISC
+  valid_from: '1952-07-24'
+- country_code: FLT
+  deprecated: 'false'
+  key: FLT
+  label_en: Processed fruit and vegetables
+  label_it: Ortofrutticoli trasformati
+  url: http://publications.europa.eu/resource/authority/subject-matter/FLT
+  valid_from: '1952-07-24'
+- country_code: FONT
+  deprecated: 'false'
+  key: FONT
+  label_en: Pig iron
+  label_it: Ghisa
+  url: http://publications.europa.eu/resource/authority/subject-matter/FONT
+  valid_from: '1952-07-24'
+- country_code: FRON
+  deprecated: 'false'
+  key: FRON
+  label_en: Border checks
+  label_it: Controlli alle frontiere
+  url: http://publications.europa.eu/resource/authority/subject-matter/FRON
+  valid_from: '1952-07-24'
+- country_code: FSE
+  deprecated: 'false'
+  key: FSE
+  label_en: European Social Fund (ESF)
+  label_it: Fondo sociale europeo (FSE)
+  url: http://publications.europa.eu/resource/authority/subject-matter/FSE
+  valid_from: '1952-07-24'
+- country_code: GATT
+  deprecated: 'false'
+  key: GATT
+  label_en: General Agreement on Tariffs and Trade (GATT)
+  label_it: Accordo generale sulle tariffe e il commercio (GATT)
+  url: http://publications.europa.eu/resource/authority/subject-matter/GATT
+  valid_from: '1952-07-24'
+- country_code: HARD
+  deprecated: 'false'
+  key: HARD
+  label_en: 'Harmonisation of customs law: customs territory'
+  label_it: 'Armonizzazione del diritto doganale: territorio doganale'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARD
+  valid_from: '1952-07-24'
+- country_code: HARE
+  deprecated: 'false'
+  key: HARE
+  label_en: 'Harmonisation of customs law: warehouses, free zones'
+  label_it: 'Armonizzazione del diritto doganale: depositi zone franche'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARE
+  valid_from: '1952-07-24'
+- country_code: HARM
+  deprecated: 'false'
+  key: HARM
+  label_en: Harmonisation of laws
+  label_it: Armonizzazione delle legislazioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARM
+  valid_from: '1952-07-24'
+- country_code: HARO
+  deprecated: 'false'
+  key: HARO
+  label_en: 'Harmonisation of customs law: origin of goods'
+  label_it: 'Armonizzazione del diritto doganale: origine delle merci'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARO
+  valid_from: '1952-07-24'
+- country_code: HARP
+  deprecated: 'false'
+  key: HARP
+  label_en: 'Harmonisation of customs law: inward processing'
+  label_it: 'Armonizzazione del diritto doganale: perfezionamento attivo'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARP
+  valid_from: '1952-07-24'
+- country_code: HART
+  deprecated: 'false'
+  key: HART
+  label_en: 'Harmonisation of customs law: Community transit'
+  label_it: 'Armonizzazione del diritto doganale: transito comunitario'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HART
+  valid_from: '1952-07-24'
+- country_code: HARV
+  deprecated: 'false'
+  key: HARV
+  label_en: 'Harmonisation of customs law: value for customs purposes'
+  label_it: 'Armonizzazione del diritto doganale: valore in dogana'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARV
+  valid_from: '1952-07-24'
+- country_code: HARX
+  deprecated: 'false'
+  key: HARX
+  label_en: 'Harmonisation of customs law: various'
+  label_it: 'Armonizzazione del diritto doganale: diversi'
+  url: http://publications.europa.eu/resource/authority/subject-matter/HARX
+  valid_from: '1952-07-24'
+- country_code: HORS
+  deprecated: 'false'
+  key: HORS
+  label_en: Non-Annex II EEC Treaty products
+  label_it: Prodotti non compresi nell'allegato II del trattato CEE
+  url: http://publications.europa.eu/resource/authority/subject-matter/HORS
+  valid_from: '1952-07-24'
+- country_code: HOUB
+  deprecated: 'false'
+  key: HOUB
+  label_en: Hops
+  label_it: Luppolo
+  url: http://publications.europa.eu/resource/authority/subject-matter/HOUB
+  valid_from: '1952-07-24'
+- country_code: HOUI
+  deprecated: 'false'
+  key: HOUI
+  label_en: Hard coal
+  label_it: Antracite
+  url: http://publications.europa.eu/resource/authority/subject-matter/HOUI
+  valid_from: '1952-07-24'
+- country_code: HUMA
+  deprecated: 'false'
+  key: HUMA
+  label_en: Humanitarian aid
+  label_it: Aiuto umanitario
+  url: http://publications.europa.eu/resource/authority/subject-matter/HUMA
+  valid_from: '1952-07-24'
+- country_code: IDST
+  deprecated: 'false'
+  key: IDST
+  label_en: Scientific and technical information and documentation
+  label_it: Informazione e documentazione scientifiche e tecniche
+  url: http://publications.europa.eu/resource/authority/subject-matter/IDST
+  valid_from: '1952-07-24'
+- country_code: IME
+  deprecated: 'false'
+  key: IME
+  label_en: European Monetary Institute
+  label_it: Istituto monetario europeo
+  url: http://publications.europa.eu/resource/authority/subject-matter/IME
+  valid_from: '1952-07-24'
+- country_code: IMMI
+  deprecated: 'false'
+  key: IMMI
+  label_en: Immigration and asylum policy
+  label_it: Politica di migrazione e asilo
+  url: http://publications.europa.eu/resource/authority/subject-matter/IMMI
+  valid_from: '1952-07-24'
+- country_code: IMPK
+  deprecated: 'false'
+  key: IMPK
+  label_en: Provisions implementing Article 95 - ECSC
+  label_it: Disposizioni a norma dell'art. 95 CECA
+  url: http://publications.europa.eu/resource/authority/subject-matter/IMPK
+  valid_from: '1952-07-24'
+- country_code: IMPL
+  deprecated: 'false'
+  key: IMPL
+  label_en: Provisions under Article 235 EEC
+  label_it: Disposizioni in applicazione dell'articolo 235 CEE
+  url: http://publications.europa.eu/resource/authority/subject-matter/IMPL
+  valid_from: '1952-07-24'
+- country_code: INDR
+  deprecated: 'false'
+  key: INDR
+  label_en: Indirect taxation
+  label_it: Imposte indirette
+  url: http://publications.europa.eu/resource/authority/subject-matter/INDR
+  valid_from: '1952-07-24'
+- country_code: INDU
+  deprecated: 'false'
+  key: INDU
+  label_en: Industry
+  label_it: Industria
+  url: http://publications.europa.eu/resource/authority/subject-matter/INDU
+  valid_from: '1952-07-24'
+- country_code: INFO
+  deprecated: 'false'
+  key: INFO
+  label_en: Information and verification
+  label_it: Informazione e verifiche
+  url: http://publications.europa.eu/resource/authority/subject-matter/INFO
+  valid_from: '1952-07-24'
+- country_code: INFQ
+  deprecated: 'false'
+  key: INFQ
+  label_en: Electronic data processing
+  label_it: Informatica
+  url: http://publications.europa.eu/resource/authority/subject-matter/INFQ
+  valid_from: '1952-07-24'
+- country_code: INST
+  deprecated: 'false'
+  key: INST
+  label_en: Provisions governing the Institutions
+  label_it: Disposizioni istituzionali
+  url: http://publications.europa.eu/resource/authority/subject-matter/INST
+  valid_from: '1952-07-24'
+- country_code: INTE
+  deprecated: 'false'
+  key: INTE
+  label_en: Internal taxation
+  label_it: Imposizioni interne
+  url: http://publications.europa.eu/resource/authority/subject-matter/INTE
+  valid_from: '1952-07-24'
+- country_code: INV
+  deprecated: 'false'
+  key: INV
+  label_en: Investments
+  label_it: Investimenti
+  url: http://publications.europa.eu/resource/authority/subject-matter/INV
+  valid_from: '1952-07-24'
+- country_code: IRDA
+  deprecated: 'false'
+  key: IRDA
+  label_en: Integration of the German Democratic Republic (GDR)
+  label_it: Integrazione della Repubblica democratica tedesca (RDT)
+  url: http://publications.europa.eu/resource/authority/subject-matter/IRDA
+  valid_from: '1952-07-24'
+- country_code: J-AI
+  deprecated: 'false'
+  key: J-AI
+  label_en: Justice and home affairs
+  label_it: Giustizia e affari interni
+  url: http://publications.europa.eu/resource/authority/subject-matter/J-AI
+  valid_from: '1952-07-24'
+- country_code: L-CH
+  deprecated: 'false'
+  key: L-CH
+  label_en: Flax and hemp
+  label_it: Lino e canapa
+  url: http://publications.europa.eu/resource/authority/subject-matter/L-CH
+  valid_from: '1952-07-24'
+- country_code: LAIT
+  deprecated: 'false'
+  key: LAIT
+  label_en: Milk products
+  label_it: Prodotti lattiero-caseari
+  url: http://publications.europa.eu/resource/authority/subject-matter/LAIT
+  valid_from: '1952-07-24'
+- country_code: LCC
+  deprecated: 'false'
+  key: LCC
+  label_en: Free movement of capital
+  label_it: Libera circolazione dei capitali
+  url: http://publications.europa.eu/resource/authority/subject-matter/LCC
+  valid_from: '1952-07-24'
+- country_code: LCM
+  deprecated: 'false'
+  key: LCM
+  label_en: Free movement of goods
+  label_it: Libera circolazione delle merci
+  url: http://publications.europa.eu/resource/authority/subject-matter/LCM
+  valid_from: '1952-07-24'
+- country_code: LCP
+  deprecated: 'false'
+  key: LCP
+  label_en: Free movement of persons
+  label_it: Libera circolazione delle persone
+  url: http://publications.europa.eu/resource/authority/subject-matter/LCP
+  valid_from: '1952-07-24'
+- country_code: LCT
+  deprecated: 'false'
+  key: LCT
+  label_en: Free movement of workers
+  label_it: Libera circolazione dei lavoratori
+  url: http://publications.europa.eu/resource/authority/subject-matter/LCT
+  valid_from: '1952-07-24'
+- country_code: LES
+  deprecated: 'false'
+  key: LES
+  label_en: Freedom of establishment
+  label_it: "Libert\xE0 di stabilimento"
+  url: http://publications.europa.eu/resource/authority/subject-matter/LES
+  valid_from: '1952-07-24'
+- country_code: LIEG
+  deprecated: 'false'
+  key: LIEG
+  label_en: Cork
+  label_it: Sughero
+  url: http://publications.europa.eu/resource/authority/subject-matter/LIEG
+  valid_from: '1952-07-24'
+- country_code: LPRA
+  deprecated: 'false'
+  key: LPRA
+  label_en: Free circulation
+  label_it: Libera pratica
+  url: http://publications.europa.eu/resource/authority/subject-matter/LPRA
+  valid_from: '1952-07-24'
+- country_code: MARC
+  deprecated: 'false'
+  key: MARC
+  label_en: Public procurement in the European Union
+  label_it: Appalti pubblici dell'Unione europea
+  url: http://publications.europa.eu/resource/authority/subject-matter/MARC
+  valid_from: '1952-07-24'
+- country_code: MARI
+  deprecated: 'false'
+  key: MARI
+  label_en: Internal market - Principles
+  label_it: Mercato interno - Principi
+  url: http://publications.europa.eu/resource/authority/subject-matter/MARI
+  valid_from: '1952-07-24'
+- country_code: MARQ
+  deprecated: 'false'
+  key: MARQ
+  label_en: Trade marks
+  label_it: Marchi
+  url: http://publications.europa.eu/resource/authority/subject-matter/MARQ
+  valid_from: '1952-07-24'
+- country_code: MECA
+  deprecated: 'false'
+  key: MECA
+  label_en: Medium-sized firms, distributive trades and craft industries
+  label_it: Medie imprese commercio e artigianato
+  url: http://publications.europa.eu/resource/authority/subject-matter/MECA
+  valid_from: '1952-07-24'
+- country_code: MEEQ
+  deprecated: 'false'
+  key: MEEQ
+  label_en: Measures having equivalent effect
+  label_it: Misure di effetto equivalente
+  url: http://publications.europa.eu/resource/authority/subject-matter/MEEQ
+  valid_from: '1952-07-24'
+- country_code: MERG
+  deprecated: 'false'
+  key: MERG
+  label_en: Concentrations between undertakings
+  label_it: Concentrazioni tra imprese
+  url: http://publications.europa.eu/resource/authority/subject-matter/MERG
+  valid_from: '1952-07-24'
+- country_code: MEXT
+  deprecated: 'false'
+  key: MEXT
+  label_en: Products from third countries
+  label_it: Prodotti provenienti da paesi terzi
+  url: http://publications.europa.eu/resource/authority/subject-matter/MEXT
+  valid_from: '1952-07-24'
+- country_code: MGRA
+  deprecated: 'false'
+  key: MGRA
+  label_en: Oils and fats
+  label_it: Grassi
+  url: http://publications.europa.eu/resource/authority/subject-matter/MGRA
+  valid_from: '1952-07-24'
+- country_code: MIN
+  deprecated: 'false'
+  key: MIN
+  label_en: Ore
+  label_it: Minerale
+  url: http://publications.europa.eu/resource/authority/subject-matter/MIN
+  valid_from: '1952-07-24'
+- country_code: MNOP
+  deprecated: 'false'
+  key: MNOP
+  label_en: State monopolies of a commercial character
+  label_it: Monopoli nazionali a carattere commerciale
+  url: http://publications.europa.eu/resource/authority/subject-matter/MNOP
+  valid_from: '1952-07-24'
+- country_code: MONA
+  deprecated: 'false'
+  key: MONA
+  label_en: Monetary measures in the field of agriculture
+  label_it: Misure monetarie in agricoltura
+  url: http://publications.europa.eu/resource/authority/subject-matter/MONA
+  valid_from: '1952-07-24'
+- country_code: NAT
+  deprecated: 'false'
+  key: NAT
+  label_en: Non-discrimination on grounds of nationality
+  label_it: Divieto di discriminazione fondata sulla cittadinanza
+  url: http://publications.europa.eu/resource/authority/subject-matter/NAT
+  valid_from: '1952-07-24'
+- country_code: NUCL
+  deprecated: 'false'
+  key: NUCL
+  label_en: Nuclear common market
+  label_it: Nucleare
+  url: http://publications.europa.eu/resource/authority/subject-matter/NUCL
+  valid_from: '1952-07-24'
+- country_code: O-V
+  deprecated: 'false'
+  key: O-V
+  label_en: Eggs and poultry
+  label_it: Uova e pollame
+  url: http://publications.europa.eu/resource/authority/subject-matter/O-V
+  valid_from: '1952-07-24'
+- country_code: OBT
+  deprecated: 'false'
+  key: OBT
+  label_en: Plant varieties
+  label_it: Ritrovati vegetali
+  url: http://publications.europa.eu/resource/authority/subject-matter/OBT
+  valid_from: '1952-07-24'
+- country_code: OCM
+  deprecated: 'false'
+  key: OCM
+  label_en: Common organisation of agricultural markets
+  label_it: Organizzazione comune dei mercati agricoli
+  url: http://publications.europa.eu/resource/authority/subject-matter/OCM
+  valid_from: '1952-07-24'
+- country_code: OMC
+  deprecated: 'false'
+  key: OMC
+  label_en: World Trade Organization
+  label_it: Organizzazione mondiale del commercio
+  url: http://publications.europa.eu/resource/authority/subject-matter/OMC
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/subject-matter/OP_DATPRO
+  valid_from: '1952-07-23'
+- country_code: ORIG
+  deprecated: 'false'
+  key: ORIG
+  label_en: Rules of origin
+  label_it: Norme sull'origine
+  url: http://publications.europa.eu/resource/authority/subject-matter/ORIG
+  valid_from: '1952-07-24'
+- country_code: OVIN
+  deprecated: 'false'
+  key: OVIN
+  label_en: Sheepmeat and goatmeat
+  label_it: Carni ovine e caprine
+  url: http://publications.europa.eu/resource/authority/subject-matter/OVIN
+  valid_from: '1952-07-24'
+- country_code: P-F
+  deprecated: 'false'
+  key: P-F
+  label_en: Plants and flowers
+  label_it: Piante e floricoltura
+  url: http://publications.europa.eu/resource/authority/subject-matter/P-F
+  valid_from: '1952-07-24'
+- country_code: PCIV
+  deprecated: 'false'
+  key: PCIV
+  label_en: Civil protection
+  label_it: Protezione civile
+  url: http://publications.europa.eu/resource/authority/subject-matter/PCIV
+  valid_from: '1952-07-24'
+- country_code: PCOM
+  deprecated: 'false'
+  key: PCOM
+  label_en: Commercial policy
+  label_it: Politica commerciale
+  url: http://publications.europa.eu/resource/authority/subject-matter/PCOM
+  valid_from: '1952-07-24'
+- country_code: PDET
+  deprecated: 'false'
+  key: PDET
+  label_en: Potatoes
+  label_it: Patate
+  url: http://publications.europa.eu/resource/authority/subject-matter/PDET
+  valid_from: '1952-07-24'
+- country_code: PDON
+  deprecated: 'false'
+  key: PDON
+  label_en: Data protection
+  label_it: Protezione dei dati
+  url: http://publications.europa.eu/resource/authority/subject-matter/PDON
+  valid_from: '1994-01-01'
+- country_code: PECH
+  deprecated: 'false'
+  key: PECH
+  label_en: Fisheries policy
+  label_it: Politica della pesca
+  url: http://publications.europa.eu/resource/authority/subject-matter/PECH
+  valid_from: '1952-07-24'
+- country_code: PECO
+  deprecated: 'false'
+  key: PECO
+  label_en: Economic policy
+  label_it: Politica economica
+  url: http://publications.europa.eu/resource/authority/subject-matter/PECO
+  valid_from: '1952-07-24'
+- country_code: PEM
+  deprecated: 'false'
+  key: PEM
+  label_en: Economic and monetary policy
+  label_it: Politica economica e monetaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/PEM
+  valid_from: '1952-07-24'
+- country_code: PENU
+  deprecated: 'false'
+  key: PENU
+  label_en: Shortage
+  label_it: Stato di penuria
+  url: http://publications.europa.eu/resource/authority/subject-matter/PENU
+  valid_from: '1952-07-24'
+- country_code: PERE
+  deprecated: 'false'
+  key: PERE
+  label_en: Scrap equalisation
+  label_it: Perequazione del rottame
+  url: http://publications.europa.eu/resource/authority/subject-matter/PERE
+  valid_from: '1952-07-24'
+- country_code: PESC
+  deprecated: 'false'
+  key: PESC
+  label_en: Common foreign and security policy
+  label_it: Politica estera e di sicurezza comune
+  url: http://publications.europa.eu/resource/authority/subject-matter/PESC
+  valid_from: '1952-07-24'
+- country_code: PHYT
+  deprecated: 'false'
+  key: PHYT
+  label_en: Plant health legislation
+  label_it: Legislazione fitosanitaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/PHYT
+  valid_from: '1952-07-24'
+- country_code: PIM
+  deprecated: 'false'
+  key: PIM
+  label_en: Integrated Mediterranean programmes (IMP)
+  label_it: Programmi integrati mediterranei (PIM)
+  url: http://publications.europa.eu/resource/authority/subject-matter/PIM
+  valid_from: '1952-07-24'
+- country_code: PIND
+  deprecated: 'false'
+  key: PIND
+  label_en: Industrial policy
+  label_it: Politica industriale
+  url: http://publications.europa.eu/resource/authority/subject-matter/PIND
+  valid_from: '1952-07-24'
+- country_code: PME
+  deprecated: 'false'
+  key: PME
+  label_en: Small and medium-sized enterprises
+  label_it: Piccole e medie imprese
+  url: http://publications.europa.eu/resource/authority/subject-matter/PME
+  valid_from: '1952-07-24'
+- country_code: POIS
+  deprecated: 'false'
+  key: POIS
+  label_en: Peas and field beans
+  label_it: Piselli, fave e favette
+  url: http://publications.europa.eu/resource/authority/subject-matter/POIS
+  valid_from: '1952-07-24'
+- country_code: POLL
+  deprecated: 'false'
+  key: POLL
+  label_en: Pollution
+  label_it: Inquinamento
+  url: http://publications.europa.eu/resource/authority/subject-matter/POLL
+  valid_from: '1952-07-24'
+- country_code: PORC
+  deprecated: 'false'
+  key: PORC
+  label_en: Pigmeat
+  label_it: Carne suina
+  url: http://publications.europa.eu/resource/authority/subject-matter/PORC
+  valid_from: '1952-07-24'
+- country_code: POSI
+  deprecated: 'false'
+  key: POSI
+  label_en: Dominant position
+  label_it: Posizione dominante
+  url: http://publications.europa.eu/resource/authority/subject-matter/POSI
+  valid_from: '1952-07-24'
+- country_code: PRAT
+  deprecated: 'false'
+  key: PRAT
+  label_en: Concerted practices
+  label_it: Pratiche concordate
+  url: http://publications.europa.eu/resource/authority/subject-matter/PRAT
+  valid_from: '1952-07-24'
+- country_code: PREG
+  deprecated: 'false'
+  key: PREG
+  label_en: Regional policy
+  label_it: Politica regionale
+  url: http://publications.europa.eu/resource/authority/subject-matter/PREG
+  valid_from: '1952-07-24'
+- country_code: PREL
+  deprecated: 'false'
+  key: PREL
+  label_en: Levies and loans
+  label_it: Prelievi e prestiti
+  url: http://publications.europa.eu/resource/authority/subject-matter/PREL
+  valid_from: '1952-07-24'
+- country_code: PRET
+  deprecated: 'false'
+  key: PRET
+  label_en: Loans and subsidies
+  label_it: Prestiti e sovvenzioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/PRET
+  valid_from: '1952-07-24'
+- country_code: PRIN
+  deprecated: 'false'
+  key: PRIN
+  label_en: Principles, objectives and tasks of the Treaties
+  label_it: Principi obiettivi e missione dei trattati
+  url: http://publications.europa.eu/resource/authority/subject-matter/PRIN
+  valid_from: '1952-07-24'
+- country_code: PRIV
+  deprecated: 'false'
+  key: PRIV
+  label_en: Privileges and immunities
+  label_it: "Privilegi e immunit\xE0"
+  url: http://publications.europa.eu/resource/authority/subject-matter/PRIV
+  valid_from: '1952-07-24'
+- country_code: PRIX
+  deprecated: 'false'
+  key: PRIX
+  label_en: Prices
+  label_it: Prezzi
+  url: http://publications.europa.eu/resource/authority/subject-matter/PRIX
+  valid_from: '1952-07-24'
+- country_code: PROC
+  deprecated: 'false'
+  key: PROC
+  label_en: Procedural provisions
+  label_it: Disposizioni procedurali
+  url: http://publications.europa.eu/resource/authority/subject-matter/PROC
+  valid_from: '1952-07-24'
+- country_code: PROP
+  deprecated: 'false'
+  key: PROP
+  label_en: Intellectual, industrial and commercial property
+  label_it: "Propriet\xE0 intellettuale, industriale e commerciale"
+  url: http://publications.europa.eu/resource/authority/subject-matter/PROP
+  valid_from: '1952-07-24'
+- country_code: PROT
+  deprecated: 'false'
+  key: PROT
+  label_en: Consumer protection
+  label_it: Tutela dei consumatori
+  url: http://publications.europa.eu/resource/authority/subject-matter/PROT
+  valid_from: '1952-07-24'
+- country_code: PTOM
+  deprecated: 'false'
+  key: PTOM
+  label_en: Overseas countries and territories
+  label_it: Paesi e territori d'oltremare
+  url: http://publications.europa.eu/resource/authority/subject-matter/PTOM
+  valid_from: '1952-07-24'
+- country_code: QUOT
+  deprecated: 'false'
+  key: QUOT
+  label_en: Production quotas
+  label_it: Quote di produzione
+  url: http://publications.europa.eu/resource/authority/subject-matter/QUOT
+  valid_from: '1952-07-24'
+- country_code: RAPL
+  deprecated: 'false'
+  key: RAPL
+  label_en: Approximation of laws
+  label_it: Ravvicinamento delle legislazioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/RAPL
+  valid_from: '1952-07-24'
+- country_code: RDOU
+  deprecated: 'false'
+  key: RDOU
+  label_en: Customs procedures
+  label_it: Regimi doganali
+  url: http://publications.europa.eu/resource/authority/subject-matter/RDOU
+  valid_from: '1952-07-24'
+- country_code: RDT
+  deprecated: 'false'
+  key: RDT
+  label_en: Research and technological development
+  label_it: Ricerca e sviluppo tecnologico
+  url: http://publications.europa.eu/resource/authority/subject-matter/RDT
+  valid_from: '1952-07-24'
+- country_code: REACH
+  deprecated: 'false'
+  key: REACH
+  label_en: REACH
+  label_it: REACH
+  url: http://publications.europa.eu/resource/authority/subject-matter/REACH
+  valid_from: '1952-07-24'
+- country_code: RECH
+  deprecated: 'false'
+  key: RECH
+  label_en: Research and training
+  label_it: Ricerca e insegnamento
+  url: http://publications.europa.eu/resource/authority/subject-matter/RECH
+  valid_from: '1952-07-24'
+- country_code: RECO
+  deprecated: 'false'
+  key: RECO
+  label_en: Judicial proceedings
+  label_it: Procedura giudiziaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/RECO
+  valid_from: '1952-07-24'
+- country_code: RESP
+  deprecated: 'false'
+  key: RESP
+  label_en: Non-contractual liability
+  label_it: "Responsabilit\xE0 extracontrattuale"
+  url: http://publications.europa.eu/resource/authority/subject-matter/RESP
+  valid_from: '1952-07-24'
+- country_code: RIZ
+  deprecated: 'false'
+  key: RIZ
+  label_en: Rice
+  label_it: Riso
+  url: http://publications.europa.eu/resource/authority/subject-matter/RIZ
+  valid_from: '1952-07-24'
+- country_code: RPRE
+  deprecated: 'false'
+  key: RPRE
+  label_en: Preferential systems
+  label_it: Regimi preferenziali
+  url: http://publications.europa.eu/resource/authority/subject-matter/RPRE
+  valid_from: '1952-07-24'
+- country_code: RPRO
+  deprecated: 'false'
+  key: RPRO
+  label_en: Own resources
+  label_it: Risorse proprie
+  url: http://publications.europa.eu/resource/authority/subject-matter/RPRO
+  valid_from: '1952-07-24'
+- country_code: RQME
+  deprecated: 'false'
+  key: RQME
+  label_en: Quantitative restrictions and measures of equivalent effect
+  label_it: Restrizioni quantitative e misure di effetto equivalente
+  url: http://publications.europa.eu/resource/authority/subject-matter/RQME
+  valid_from: '1952-07-24'
+- country_code: RSTR
+  deprecated: 'false'
+  key: RSTR
+  label_en: Quantitative restrictions
+  label_it: Restrizioni quantitative
+  url: http://publications.europa.eu/resource/authority/subject-matter/RSTR
+  valid_from: '1952-07-24'
+- country_code: RTR
+  deprecated: 'false'
+  key: RTR
+  label_en: Trans-European networks
+  label_it: Reti transeuropee
+  url: http://publications.europa.eu/resource/authority/subject-matter/RTR
+  valid_from: '1952-07-24'
+- country_code: RTRA
+  deprecated: 'false'
+  key: RTRA
+  label_en: Community transit systems
+  label_it: Regimi di transito comunitario
+  url: http://publications.europa.eu/resource/authority/subject-matter/RTRA
+  valid_from: '1952-07-24'
+- country_code: RULESPRO
+  deprecated: 'false'
+  key: RULESPRO
+  label_en: Rules of procedure
+  label_it: Regolamento interno
+  url: http://publications.europa.eu/resource/authority/subject-matter/RULESPRO
+  valid_from: '1952-07-24'
+- country_code: SANI
+  deprecated: 'false'
+  key: SANI
+  label_en: Health and safety
+  label_it: Protezione sanitaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/SANI
+  valid_from: '1952-07-24'
+- country_code: SANT
+  deprecated: 'false'
+  key: SANT
+  label_en: Public health
+  label_it: "Sanit\xE0 pubblica"
+  url: http://publications.europa.eu/resource/authority/subject-matter/SANT
+  valid_from: '1952-07-24'
+- country_code: SAUV
+  deprecated: 'false'
+  key: SAUV
+  label_en: Protective measures
+  label_it: Misure di salvaguardia
+  url: http://publications.europa.eu/resource/authority/subject-matter/SAUV
+  valid_from: '1952-07-24'
+- country_code: SEBC
+  deprecated: 'false'
+  key: SEBC
+  label_en: European system of central banks
+  label_it: Sistema europeo di banche centrali
+  url: http://publications.europa.eu/resource/authority/subject-matter/SEBC
+  valid_from: '1952-07-24'
+- country_code: SECR
+  deprecated: 'false'
+  key: SECR
+  label_en: Security system
+  label_it: Regime di segreto
+  url: http://publications.europa.eu/resource/authority/subject-matter/SECR
+  valid_from: '1952-07-24'
+- country_code: SECU
+  deprecated: 'false'
+  key: SECU
+  label_en: Safety at work and elsewhere
+  label_it: Sicurezza dei lavoratori e della popolazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/SECU
+  valid_from: '1952-07-24'
+- country_code: SEME
+  deprecated: 'false'
+  key: SEME
+  label_en: Seeds and seedlings
+  label_it: Sementi e piante
+  url: http://publications.europa.eu/resource/authority/subject-matter/SEME
+  valid_from: '1952-07-24'
+- country_code: SERV
+  deprecated: 'false'
+  key: SERV
+  label_en: Freedom to provide services
+  label_it: Libera prestazione dei servizi
+  url: http://publications.europa.eu/resource/authority/subject-matter/SERV
+  valid_from: '1952-07-24'
+- country_code: SESO
+  deprecated: 'false'
+  key: SESO
+  label_en: Social security for migrant workers
+  label_it: Sicurezza sociale dei lavoratori migranti
+  url: http://publications.europa.eu/resource/authority/subject-matter/SESO
+  valid_from: '1952-07-24'
+- country_code: SIDE
+  deprecated: 'false'
+  key: SIDE
+  label_en: Steel industry
+  label_it: "Siderurgia \u2013 acciaio in senso lato"
+  url: http://publications.europa.eu/resource/authority/subject-matter/SIDE
+  valid_from: '1952-07-24'
+- country_code: SILV
+  deprecated: 'false'
+  key: SILV
+  label_en: Forestry
+  label_it: Silvicoltura
+  url: http://publications.europa.eu/resource/authority/subject-matter/SILV
+  valid_from: '1952-07-24'
+- country_code: SOCI
+  deprecated: 'false'
+  key: SOCI
+  label_en: Social provisions
+  label_it: Disposizioni sociali
+  url: http://publications.europa.eu/resource/authority/subject-matter/SOCI
+  valid_from: '1952-07-24'
+- country_code: SOLD
+  deprecated: 'false'
+  key: SOLD
+  label_en: Products of Annex II EEC Treaty and Regulation No 827/68
+  label_it: Prodotti allegato II trattato CEE e regolamento (CEE) n. 827/68
+  url: http://publications.europa.eu/resource/authority/subject-matter/SOLD
+  valid_from: '1952-07-24'
+- country_code: SOLI
+  deprecated: 'false'
+  key: SOLI
+  label_en: Solidarity clause
+  label_it: "Clausola di solidariet\xE0"
+  url: http://publications.europa.eu/resource/authority/subject-matter/SOLI
+  valid_from: '1952-07-24'
+- country_code: SOPO
+  deprecated: 'false'
+  key: SOPO
+  label_en: Social Policy
+  label_it: Politica sociale
+  url: http://publications.europa.eu/resource/authority/subject-matter/SOPO
+  valid_from: '1952-07-24'
+- country_code: SPOR
+  deprecated: 'false'
+  key: SPOR
+  label_en: Sport
+  label_it: Sport
+  url: http://publications.europa.eu/resource/authority/subject-matter/SPOR
+  valid_from: '1952-07-24'
+- country_code: STAT
+  deprecated: 'false'
+  key: STAT
+  label_en: Staff regulations and employment conditions - EC
+  label_it: Statuto dei funzionari e regime altri agenti
+  url: http://publications.europa.eu/resource/authority/subject-matter/STAT
+  valid_from: '1952-07-24'
+- country_code: STRA
+  deprecated: 'false'
+  key: STRA
+  label_en: Agricultural structures
+  label_it: Strutture agrarie
+  url: http://publications.europa.eu/resource/authority/subject-matter/STRA
+  valid_from: '1952-07-24'
+- country_code: SUBV
+  deprecated: 'false'
+  key: SUBV
+  label_en: Subsidies and aids of the High Authority
+  label_it: "Sovvenzioni e aiuti dell'alta autorit\xE0"
+  url: http://publications.europa.eu/resource/authority/subject-matter/SUBV
+  valid_from: '1952-07-24'
+- country_code: SUCR
+  deprecated: 'false'
+  key: SUCR
+  label_en: Sugar
+  label_it: Zucchero
+  url: http://publications.europa.eu/resource/authority/subject-matter/SUCR
+  valid_from: '1952-07-24'
+- country_code: TABA
+  deprecated: 'false'
+  key: TABA
+  label_en: Tobacco
+  label_it: Tabacco
+  url: http://publications.europa.eu/resource/authority/subject-matter/TABA
+  valid_from: '1952-07-24'
+- country_code: TDC
+  deprecated: 'false'
+  key: TDC
+  label_en: Common customs tariff
+  label_it: Tariffa doganale comune
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDC
+  valid_from: '1952-07-24'
+- country_code: TDCA
+  deprecated: 'false'
+  key: TDCA
+  label_en: 'Customs duties: speed-up decisions'
+  label_it: 'Dazi doganali: decisioni sull''acceleramento'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCA
+  valid_from: '1952-07-24'
+- country_code: TDCC
+  deprecated: 'false'
+  key: TDCC
+  label_en: 'Customs duties: Community tariff quotas'
+  label_it: 'Dazi doganali: contingenti tariffari comunitari'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCC
+  valid_from: '1952-07-24'
+- country_code: TDCD
+  deprecated: 'false'
+  key: TDCD
+  label_en: 'Customs duties: authorisation to defer application of CCT'
+  label_it: 'Dazi doganali: autorizzazione differire applicazione tdc'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCD
+  valid_from: '1952-07-24'
+- country_code: TDCF
+  deprecated: 'false'
+  key: TDCF
+  label_en: 'CCT: franchise'
+  label_it: 'Tariffa doganale comune: franchigia'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCF
+  valid_from: '1952-07-24'
+- country_code: TDCM
+  deprecated: 'false'
+  key: TDCM
+  label_en: 'CCT: derogations'
+  label_it: 'Tariffa doganale comune: misure derogatorie'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCM
+  valid_from: '1952-07-24'
+- country_code: TDCN
+  deprecated: 'false'
+  key: TDCN
+  label_en: 'Customs duties: national tariff quotas'
+  label_it: 'Dazi doganali: contingenti tariffari nazionali'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCN
+  valid_from: '1952-07-24'
+- country_code: TDCS
+  deprecated: 'false'
+  key: TDCS
+  label_en: 'Customs duties: suspensions'
+  label_it: 'Dazi doganali: sospensioni'
+  url: http://publications.europa.eu/resource/authority/subject-matter/TDCS
+  valid_from: '1952-07-24'
+- country_code: TECN
+  deprecated: 'false'
+  key: TECN
+  label_en: Technology
+  label_it: Tecnologie
+  url: http://publications.europa.eu/resource/authority/subject-matter/TECN
+  valid_from: '1952-07-24'
+- country_code: TEEQ
+  deprecated: 'false'
+  key: TEEQ
+  label_en: Charges having an equivalent effect
+  label_it: Imposte di effetto equivalente
+  url: http://publications.europa.eu/resource/authority/subject-matter/TEEQ
+  valid_from: '1952-07-24'
+- country_code: TELE
+  deprecated: 'false'
+  key: TELE
+  label_en: Telecommunications
+  label_it: Telecomunicazioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/TELE
+  valid_from: '1952-07-24'
+- country_code: TIN
+  deprecated: 'false'
+  key: TIN
+  label_en: Tin
+  label_it: Stagno
+  url: http://publications.europa.eu/resource/authority/subject-matter/TIN
+  valid_from: '1952-07-24'
+- country_code: TOUR
+  deprecated: 'false'
+  key: TOUR
+  label_en: Tourism
+  label_it: Turismo
+  url: http://publications.europa.eu/resource/authority/subject-matter/TOUR
+  valid_from: '1952-07-24'
+- country_code: TRAN
+  deprecated: 'false'
+  key: TRAN
+  label_en: Transport
+  label_it: Trasporti
+  url: http://publications.europa.eu/resource/authority/subject-matter/TRAN
+  valid_from: '1952-07-24'
+- country_code: TUC
+  deprecated: 'false'
+  key: TUC
+  label_en: ECSC unified common tariff
+  label_it: Tariffa unificata comune CECA
+  url: http://publications.europa.eu/resource/authority/subject-matter/TUC
+  valid_from: '1952-07-24'
+- country_code: TVA
+  deprecated: 'false'
+  key: TVA
+  label_en: Value added tax
+  label_it: Imposta sul valore aggiunto
+  url: http://publications.europa.eu/resource/authority/subject-matter/TVA
+  valid_from: '1952-07-24'
+- country_code: TXTL
+  deprecated: 'false'
+  key: TXTL
+  label_en: Textiles
+  label_it: Tessili
+  url: http://publications.europa.eu/resource/authority/subject-matter/TXTL
+  valid_from: '1952-07-24'
+- country_code: UD
+  deprecated: 'false'
+  key: UD
+  label_en: Customs Union
+  label_it: Unione doganale
+  url: http://publications.europa.eu/resource/authority/subject-matter/UD
+  valid_from: '1952-07-24'
+- country_code: UEM
+  deprecated: 'false'
+  key: UEM
+  label_en: Economic and Monetary Union
+  label_it: Unione economica e monetaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/UEM
+  valid_from: '1952-07-24'
+- country_code: V-LG
+  deprecated: 'false'
+  key: V-LG
+  label_en: Rabbit meat and farmed game meat
+  label_it: Carni di coniglio e di selvaggina d'allevamento
+  url: http://publications.europa.eu/resource/authority/subject-matter/V-LG
+  valid_from: '1952-07-24'
+- country_code: VA
+  deprecated: 'false'
+  key: VA
+  label_en: Value for customs purposes
+  label_it: Valore in dogana
+  url: http://publications.europa.eu/resource/authority/subject-matter/VA
+  valid_from: '1952-07-24'
+- country_code: VETE
+  deprecated: 'false'
+  key: VETE
+  label_en: Veterinary legislation
+  label_it: Legislazione veterinaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/VETE
+  valid_from: '1952-07-24'
+- country_code: VIN
+  deprecated: 'false'
+  key: VIN
+  label_en: Wine
+  label_it: Vino
+  url: http://publications.europa.eu/resource/authority/subject-matter/VIN
+  valid_from: '1952-07-24'
+- country_code: VSOI
+  deprecated: 'false'
+  key: VSOI
+  label_en: Silkworms
+  label_it: Bachi da seta
+  url: http://publications.europa.eu/resource/authority/subject-matter/VSOI
+  valid_from: '1952-07-24'
+- country_code: c_02507fc0
+  deprecated: 'false'
+  key: c_02507fc0
+  label_en: Monetary, financial institutions and markets statistics
+  label_it: Statistiche monetarie, degli enti creditizi e dei mercati
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_02507fc0
+  valid_from: '1994-01-01'
+- country_code: c_04b171e5
+  deprecated: 'false'
+  key: c_04b171e5
+  label_en: Financial accounts
+  label_it: Conti finanziari
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_04b171e5
+  valid_from: '1994-01-01'
+- country_code: c_05d7dbed
+  deprecated: 'false'
+  key: c_05d7dbed
+  label_en: Supervisory powers and tasks
+  label_it: Poteri e compiti di vigilanza
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_05d7dbed
+  valid_from: '2013-11-03'
+- country_code: c_06daf249
+  deprecated: 'false'
+  key: c_06daf249
+  label_en: Organisational principles
+  label_it: Principi organizzativi
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_06daf249
+  valid_from: '2013-11-03'
+- country_code: c_0e6e516f
+  deprecated: 'false'
+  key: c_0e6e516f
+  label_en: Foreign exchange and Foreign reserves
+  label_it: Cambi e riserve in valuta
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_0e6e516f
+  valid_from: '1994-01-01'
+- country_code: c_12480e7d
+  deprecated: 'false'
+  key: c_12480e7d
+  label_en: Monetary policy instruments
+  label_it: Strumenti di politica monetaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_12480e7d
+  valid_from: '1994-01-01'
+- country_code: c_18755e4d
+  deprecated: 'false'
+  key: c_18755e4d
+  label_en: Exchange rate mechanism (ERM II)
+  label_it: Meccanismo di cambio (AEC II)
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_18755e4d
+  valid_from: '1994-01-01'
+- country_code: c_206cfcfa
+  deprecated: 'false'
+  key: c_206cfcfa
+  label_en: Cooperation in the field of banking supervision
+  label_it: Cooperazione in materia di vigilanza bancaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_206cfcfa
+  valid_from: '2013-11-03'
+- country_code: c_23d62986
+  deprecated: 'false'
+  key: c_23d62986
+  label_en: Reporting
+  label_it: Segnalazione
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_23d62986
+  valid_from: '2013-11-03'
+- country_code: c_29b3ace8
+  deprecated: 'false'
+  key: c_29b3ace8
+  label_en: Rules of procedure and other internal arrangements
+  label_it: Regolamento interno e altre disposizioni interne
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_29b3ace8
+  valid_from: '1994-01-01'
+- country_code: c_38e22180
+  deprecated: 'false'
+  key: c_38e22180
+  label_en: Monetary income
+  label_it: Reddito monetario
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_38e22180
+  valid_from: '1994-01-01'
+- country_code: c_3ad55b09
+  deprecated: 'false'
+  key: c_3ad55b09
+  label_en: Minimum reserves
+  label_it: Riserve obbligatorie
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_3ad55b09
+  valid_from: '1994-01-01'
+- country_code: c_3e1e305a
+  deprecated: 'false'
+  key: c_3e1e305a
+  label_en: Financial assistance
+  label_it: Sostegno finanziario
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_3e1e305a
+  valid_from: '1994-01-01'
+- country_code: c_40b2d24f
+  deprecated: 'false'
+  key: c_40b2d24f
+  label_en: Procurement
+  label_it: "Gare d\u2019appalto"
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_40b2d24f
+  valid_from: '1994-01-01'
+- country_code: c_491cdcaa
+  deprecated: 'false'
+  key: c_491cdcaa
+  label_en: Oversight
+  label_it: Sorveglianza
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_491cdcaa
+  valid_from: '1994-01-01'
+- country_code: c_4e12d83d
+  deprecated: 'false'
+  key: c_4e12d83d
+  label_en: Exchange of information and public access to documents
+  label_it: Scambio di informazioni e accesso del pubblico ai documenti
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_4e12d83d
+  valid_from: '2013-11-03'
+- country_code: c_594e5232
+  deprecated: 'false'
+  key: c_594e5232
+  label_en: Temporary framework
+  label_it: Disciplina temporanea
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_594e5232
+  valid_from: '1994-01-01'
+- country_code: c_5cd67341
+  deprecated: 'false'
+  key: c_5cd67341
+  label_en: Euro banknotes issuance
+  label_it: Emissione di banconote in euro
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_5cd67341
+  valid_from: '1994-01-01'
+- country_code: c_625f1587
+  deprecated: 'false'
+  key: c_625f1587
+  label_en: Securities holdings statistics
+  label_it: "Statistiche sulle disponibilit\xE0 in titoli"
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_625f1587
+  valid_from: '1994-01-01'
+- country_code: c_6365150f
+  deprecated: 'false'
+  key: c_6365150f
+  label_en: General statistics
+  label_it: Statistiche generali
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_6365150f
+  valid_from: '1994-01-01'
+- country_code: c_64a25727
+  deprecated: 'false'
+  key: c_64a25727
+  label_en: Accounting and reporting
+  label_it: Rilevazione e rendicontazione contabili
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_64a25727
+  valid_from: '1994-01-01'
+- country_code: c_64b94fae
+  deprecated: 'false'
+  key: c_64b94fae
+  label_en: Cash changeover
+  label_it: Sostituzione del contante
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_64b94fae
+  valid_from: '1994-01-01'
+- country_code: c_68aa4a7e
+  deprecated: 'false'
+  key: c_68aa4a7e
+  label_en: Euro banknotes production
+  label_it: Produzione di banconote in euro
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_68aa4a7e
+  valid_from: '1994-01-01'
+- country_code: c_69c82520
+  deprecated: 'false'
+  key: c_69c82520
+  label_en: Data protection matters
+  label_it: Questioni relative alla protezione dei dati
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_69c82520
+  valid_from: '1994-01-01'
+- country_code: c_6c9bbb79
+  deprecated: 'false'
+  key: c_6c9bbb79
+  label_en: Capital of the ECB
+  label_it: Capitale della BCE
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_6c9bbb79
+  valid_from: '1994-01-01'
+- country_code: c_6f402b92
+  deprecated: 'false'
+  key: c_6f402b92
+  label_en: External relations matters
+  label_it: Questioni relative alle relazioni esterne
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_6f402b92
+  valid_from: '1994-01-01'
+- country_code: c_714f9151
+  deprecated: 'false'
+  key: c_714f9151
+  label_en: Foreign exchange
+  label_it: Cambio
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_714f9151
+  valid_from: '1994-01-01'
+- country_code: c_726ab1b3
+  deprecated: 'false'
+  key: c_726ab1b3
+  label_en: General framework
+  label_it: Disciplina generale
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_726ab1b3
+  valid_from: '1994-01-01'
+- country_code: c_76b44336
+  deprecated: 'false'
+  key: c_76b44336
+  label_en: Banking supervision
+  label_it: Vigilanza bancaria
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_76b44336
+  valid_from: '2013-11-03'
+- country_code: c_7b45b05f
+  deprecated: 'false'
+  key: c_7b45b05f
+  label_en: Auditing
+  label_it: Revisione dei conti
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_7b45b05f
+  valid_from: '1994-01-01'
+- country_code: c_7ca072c7
+  deprecated: 'false'
+  key: c_7ca072c7
+  label_en: Coin issuance
+  label_it: Conio di monete metalliche
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_7ca072c7
+  valid_from: '1994-01-01'
+- country_code: c_8a588fbc
+  deprecated: 'false'
+  key: c_8a588fbc
+  label_en: Significance assessments
+  label_it: "Valutazioni di significativit\xE0"
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_8a588fbc
+  valid_from: '2013-11-03'
+- country_code: c_8c4a6e26
+  deprecated: 'false'
+  key: c_8c4a6e26
+  label_en: Monetary financing prohibition
+  label_it: Divieto di finanziamento monetario
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_8c4a6e26
+  valid_from: '1994-01-01'
+- country_code: c_8e12de2a
+  deprecated: 'false'
+  key: c_8e12de2a
+  label_en: Statistics
+  label_it: Statistiche
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_8e12de2a
+  valid_from: '1994-01-01'
+- country_code: c_962003de
+  deprecated: 'false'
+  key: c_962003de
+  label_en: Legal framework of the ESCB
+  label_it: Regime giuridico del SEBC
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_962003de
+  valid_from: '1994-01-01'
+- country_code: c_964d98cc
+  deprecated: 'false'
+  key: c_964d98cc
+  label_en: Institutional structure and Governance
+  label_it: Struttura istituzionale e governance
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_964d98cc
+  valid_from: '2013-11-03'
+- country_code: c_9e589776
+  deprecated: 'false'
+  key: c_9e589776
+  label_en: Trans-European Automated Real-time Gross settlement Express Transfer system
+    (TARGET2)
+  label_it: Sistema di trasferimento espresso transeuropeo automatizzato di regolamento
+    lordo in tempo reale (TARGET2)
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_9e589776
+  valid_from: '1994-01-01'
+- country_code: c_abd72d0f
+  deprecated: 'false'
+  key: c_abd72d0f
+  label_en: External transactions and positions
+  label_it: Operazioni e posizioni esterne
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_abd72d0f
+  valid_from: '1994-01-01'
+- country_code: c_ac4906db
+  deprecated: 'false'
+  key: c_ac4906db
+  label_en: Supervisory fees
+  label_it: "Contributi per le attivit\xE0 di vigilanza"
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_ac4906db
+  valid_from: '2013-11-03'
+- country_code: c_adb3ab0f
+  deprecated: 'false'
+  key: c_adb3ab0f
+  label_en: Capital requirements
+  label_it: Requisiti patrimoniali
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_adb3ab0f
+  valid_from: '2013-11-03'
+- country_code: c_af796aa3
+  deprecated: 'false'
+  key: c_af796aa3
+  label_en: Eurosystem reserve management services
+  label_it: "Servizi dell\u2019Eurosistema di gestione delle riserve"
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_af796aa3
+  valid_from: '1994-01-01'
+- country_code: c_b1a922fd
+  deprecated: 'false'
+  key: c_b1a922fd
+  label_en: Financial market stability
+  label_it: "Stabilit\xE0 dei mercati finanziari"
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_b1a922fd
+  valid_from: '1994-01-01'
+- country_code: c_b21ec68a
+  deprecated: 'false'
+  key: c_b21ec68a
+  label_en: Transparency
+  label_it: Trasparenza
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_b21ec68a
+  valid_from: '1994-01-01'
+- country_code: c_c3e5c068
+  deprecated: 'false'
+  key: c_c3e5c068
+  label_en: Monetary policy and Operations
+  label_it: Politica monetaria e operazioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_c3e5c068
+  valid_from: '1994-01-01'
+- country_code: c_c47bf652
+  deprecated: 'false'
+  key: c_c47bf652
+  label_en: TARGET2-Securities (T2S)
+  label_it: TARGET2-Securities (T2S)
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_c47bf652
+  valid_from: '1994-01-01'
+- country_code: c_c55af8ef
+  deprecated: 'false'
+  key: c_c55af8ef
+  label_en: Banknotes and coins, means of payment and currency matters
+  label_it: Banconote e monete metalliche, mezzi di pagamento e questioni valutarie
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_c55af8ef
+  valid_from: '1994-01-01'
+- country_code: c_cc640542
+  deprecated: 'false'
+  key: c_cc640542
+  label_en: Confidentiality
+  label_it: Riservatezza
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_cc640542
+  valid_from: '1994-01-01'
+- country_code: c_cd441130
+  deprecated: 'false'
+  key: c_cd441130
+  label_en: Payment and settlement systems
+  label_it: Sistemi di pagamento e di regolamento
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_cd441130
+  valid_from: '1994-01-01'
+- country_code: c_cd594a3b
+  deprecated: 'false'
+  key: c_cd594a3b
+  label_en: Fraud prevention
+  label_it: Prevenzione delle frodi
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_cd594a3b
+  valid_from: '1994-01-01'
+- country_code: c_d7a89aa3
+  deprecated: 'false'
+  key: c_d7a89aa3
+  label_en: Microprudential tasks
+  label_it: Compiti microprudenziali
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_d7a89aa3
+  valid_from: '2013-11-03'
+- country_code: c_d82c4c81
+  deprecated: 'false'
+  key: c_d82c4c81
+  label_en: ECB institutional provisions
+  label_it: Disposizioni istituzionali della BCE
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_d82c4c81
+  valid_from: '1994-01-01'
+- country_code: c_db8034fd
+  deprecated: 'false'
+  key: c_db8034fd
+  label_en: Close cooperation
+  label_it: Cooperazione stretta
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_db8034fd
+  valid_from: '2013-11-03'
+- country_code: c_eb901451
+  deprecated: 'false'
+  key: c_eb901451
+  label_en: Foreign reserves
+  label_it: Riserve in valuta
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_eb901451
+  valid_from: '1994-01-01'
+- country_code: c_eef03101
+  deprecated: 'false'
+  key: c_eef03101
+  label_en: Sanctions
+  label_it: Sanzioni
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_eef03101
+  valid_from: '1994-01-01'
+- country_code: c_f3f2224d
+  deprecated: 'false'
+  key: c_f3f2224d
+  label_en: Conditions of employment
+  label_it: Condizioni di impiego
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_f3f2224d
+  valid_from: '1994-01-01'
+- country_code: c_f6ee40b4
+  deprecated: 'false'
+  key: c_f6ee40b4
+  label_en: Protection of the euro
+  label_it: Protezione dell'euro
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_f6ee40b4
+  valid_from: '1994-01-01'
+- country_code: c_f7fa4b33
+  deprecated: 'false'
+  key: c_f7fa4b33
+  label_en: Euro short term rate
+  label_it: Euro short-term rate
+  url: http://publications.europa.eu/resource/authority/subject-matter/c_f7fa4b33
+  valid_from: '1994-01-01'

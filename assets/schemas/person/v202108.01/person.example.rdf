@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns="https://w3id.org/italia/onto/CPV/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://anpr/PLLCLL">
+    <familyName>Polli</familyName>
+    <givenName>Camilla</givenName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://anpr/PLLRRT">
+    <givenName>Roberto</givenName>
+    <hasChildren rdf:resource="http://anpr/PLLCLL"/>
+    <hasChildren rdf:resource="http://anpr/PLLRCR"/>
+    <surname>Polli</surname>
+    <taxCode>PLLRRT</taxCode>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://anpr/PLLRCR">
+    <givenName>Riccardo</givenName>
+    <surname>Polli</surname>
+  </rdf:Description>
+</rdf:RDF>

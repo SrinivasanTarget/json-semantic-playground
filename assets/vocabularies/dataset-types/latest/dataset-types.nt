@@ -1,0 +1,752 @@
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntaxschema"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descrierea pachetului de schimb de informa\u021Bii"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domeinmodel"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabela ATTO \u2013 domena EUR-Lex"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sint\u0113tiskie dati"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED staidrimh"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hlavn\u00E1 zlo\u017Eka"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ydinkomponentti"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodu saraksts"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologie"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Codelijst"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liste d\u2019autorit\u00E9 de noms"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model dom\u00E9ny"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis storitve"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lista autorizada de nombres"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tableau ATTO \u2013 domaine EUR-Lex"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologi"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zadana pravila kodiranja"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synonymick\u00FD slovn\u00EDk"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntaktinen koodausskeema"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u043E\u0432\u0435\u0440\u0435\u043D \u0441\u043F\u0438\u0441\u044A\u043A \u0441 \u0438\u043C\u0435\u043D\u0430"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://purl.org/dc/elements/1.1/identifier> "CORE_COMP" .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slogovne datoteke"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shema kodiranja sintakse"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Megfeleltet\u00E9s"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane syntetyczne"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lista de c\u00F3digos"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Applikationsprofil"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esquema"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Style sheets"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistisk"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0445\u0435\u043C\u0430"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geospatiala data"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popis kodova"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabu\u013Eka ATTO \u2013 dom\u00E9na EUR-Lex"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomija"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glosario"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://purl.org/dc/elements/1.1/identifier> "NAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03BD\u03C4\u03B9\u03C3\u03C4\u03BF\u03B9\u03C7\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03CD\u03C3\u03C4\u03B7\u03BC\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03C4\u03B1\u03C4\u03B9\u03C3\u03C4\u03B9\u03BA\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fikt\u00EDvne \u00FAdaje na \u00FA\u010Dely sk\u00FA\u0161ok"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://publications.europa.eu/ontology/authority/authority-code> "STATISTICAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://purl.org/dc/elements/1.1/identifier> "ONTOLOGY" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descripci\u00F3n de un paquete de intercambio de informaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Dataset type"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esquema"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomia"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039A\u03B1\u03C4\u03AC\u03BB\u03BF\u03B3\u03BF\u03C2 \u03B5\u03B3\u03BA\u03B5\u03BA\u03C1\u03B9\u03BC\u03AD\u03BD\u03C9\u03BD \u03BF\u03BD\u03BF\u03BC\u03AC\u03C4\u03C9\u03BD"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Description de service"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data dwar l-istatistika"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://publications.europa.eu/resource/authority/op-code> "SCHEMA" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esquema de codifica\u00E7\u00E3o sint\u00E1tica"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institucij\u0173 pavadinim\u0173 s\u0105ra\u0161as"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis usluge"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mappaus"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Test data"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skema"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Correspondencia"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://publications.europa.eu/resource/authority/op-code> "DOMAIN_MODEL" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-t\u00E1bl\u00E1zat \u2013 Kiadv\u00E1nytartom\u00E1ny"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model domene"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u017Dodyn\u0117lis"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pakalpojuma apraksts"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritetsliste for entitetsnavn"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pravidla pro \u00FApravu"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gluais"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geoerdviniai duomenys"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossario"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anvendelsesprofil"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil aplica\u021Bie"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane statystyczne"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://publications.europa.eu/ontology/authority/authority-code> "STYLES" .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00F5nastik"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados sint\u00E9ticos"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sch\u00E9ma"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "System kodowania sk\u0142adniowego"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testandmed"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hovudkomponent"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0413\u0435\u043E\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0435\u043D\u0438 \u0434\u0430\u043D\u043D\u0438"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomie"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bandymo duomenys"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://purl.org/dc/elements/1.1/identifier> "STYLES" .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati statistici"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tablica ATTO \u2013 domena EUR-Lex"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omschrijving informatie-uitwisselingspakket"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoznam n\u00E1zvov org\u00E1nov"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dienstbeschreibung"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntax encoding scheme"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thesaurus"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxon\u00F3mia"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati sintetici"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tassonomija"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapping"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Composant de base"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://publications.europa.eu/ontology/authority/authority-code> "TEST_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model domene"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuadro ATTO \u2013 dominio EUR-Lex"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://publications.europa.eu/ontology/authority/authority-code> "THESAURUS" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thesaurus"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://publications.europa.eu/ontology/authority/op-code> "STATISTICAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skeema"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statisti\u010Dni podatki"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synthetische gegevens"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domeenimudel"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schem\u0103"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descri\u00E7\u00E3o do servi\u00E7o"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ordliste"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sanasto"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistilised andmed"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formatmallar"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://purl.org/dc/elements/1.1/identifier> "THESAURUS" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeskjema for syntaks"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Codeliste"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data sintetika"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://publications.europa.eu/ontology/authority/authority-code> "ATTO_LEX" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nacrt"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0438\u043D\u0442\u0435\u0442\u0438\u0447\u043D\u0438 \u0434\u0430\u043D\u043D\u0438"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kart\u0113\u0161ana"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model de domeniu"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-tabell \u2013 EUR-Lex-dom\u00E4n"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testovac\u00ED data"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO lentel\u0117 \u2013 leidini\u0173 sritis"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tj\u00E4nstebeskrivning"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mappage"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://publications.europa.eu/ontology/authority/start.use> "2020-05-19" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FCntaktiline kodeerimisskeem"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntetiske data"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://publications.europa.eu/ontology/authority/authority-code> "DSCRP_SERV" .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A5\u03C0\u03CC\u03B4\u03B5\u03B9\u03B3\u03BC\u03B1 \u03C0\u03B5\u03B4\u03AF\u03BF\u03C5"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es statistiques"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapiranje"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontol\u00F3gia"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeskjema for syntaks"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonom\u00EDa"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liste de codes"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testdaten"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inform\u00E1ci\u00F3csere-csomag (IEP) le\u00EDr\u00E1sa"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00E9ma"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://publications.europa.eu/ontology/authority/op-code> "ATTO_LEX" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dom\u00E6nemodel"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomi"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://purl.org/dc/elements/1.1/identifier> "TEST_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Style sheets"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Code list"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane geoprzestrzenne"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane testowe"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Codierungssystem mit Syntax"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rakendusprofiil"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sh\u0113ma"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodlista"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statisztikai adat"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u043D\u0430 \u043F\u0430\u043A\u0435\u0442 \u0437\u0430 \u043E\u0431\u043C\u0435\u043D \u043D\u0430 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossarju"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testgegevens"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paikkatiedot"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos de prueba"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Core component"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es d\u2019essai"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://publications.europa.eu/ontology/authority/authority-code> "GLOSSARY" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stilski obrasci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mod\u00E8le de domaine"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://publications.europa.eu/resource/authority/op-code> "STATISTICAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistick\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Folhas de estilo"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontology"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://publications.europa.eu/ontology/authority/authority-code> "SYNTHETIC_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Szintetikus adat"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testdata"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil aplikace"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeskjema for syntaks"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeliste"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0420\u0435\u0447\u043D\u0438\u043A"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A6\u03CD\u03BB\u03BB\u03B1 \u03C3\u03C4\u03C5\u03BB"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabella ATTO \u2013 dominju tal-Pubblikazzjonijiet"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://purl.org/dc/elements/1.1/identifier> "SYNTHETIC_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabulka ATTO \u2013 dom\u00E9na EUR-Lex"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruumiandmed"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomi"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "List\u0103 de coduri"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Te\u017Cawru"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A4\u03B1\u03BE\u03BF\u03BD\u03BF\u03BC\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foi de stil"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://publications.europa.eu/ontology/authority/authority-code> "APROF" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03AF\u03BD\u03B1\u03BA\u03B1\u03C2 ATTO \u2013 \u03A4\u03BF\u03BC\u03AD\u03B1\u03C2 EUR-Lex"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F3dlista"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osnovna komponenta"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Priskyrimas"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistikas dati"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00E4rnkomponent"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ordlista"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://publications.europa.eu/ontology/authority/authority-code> "CORE_COMP" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tezaurusz"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sistematika"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomi"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Component\u0103 central\u0103"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://publications.europa.eu/ontology/authority/op-code> "GLOSSARY" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03CD\u03C3\u03C4\u03B7\u03BC\u03B1 \u03C3\u03C5\u03BD\u03C4\u03B1\u03BA\u03C4\u03B9\u03BA\u03AE\u03C2 \u03BA\u03C9\u03B4\u03B9\u03BA\u03BF\u03C0\u03BF\u03AF\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://purl.org/dc/elements/1.1/identifier> "APROF" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://publications.europa.eu/ontology/authority/op-code> "IEPD" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Applikasjonsprofil"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date statistice"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stilark"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "J\u00F3v\u00E1hagyott n\u00E9vlista"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kod\u0173 s\u0105ra\u0161as"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://publications.europa.eu/ontology/authority/authority-code> "ATTO_PUB" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://publications.europa.eu/ontology/authority/authority-code> "SYNTAX_ECD_SCHEME" .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossar"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://publications.europa.eu/ontology/authority/authority-code> "NAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pojmovnik"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beschreibung des informationsaustauschpakets"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabella ATTO \u2013 dominio EUR-Lex"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://publications.europa.eu/ontology/authority/authority-code> "TAXONOMY" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0445\u0435\u043C\u0430 \u043D\u0430 \u043A\u043E\u0434\u0438\u0440\u0430\u043D\u0435 \u0441\u044A\u0441 \u0441\u0438\u043D\u0442\u0430\u043A\u0441\u0438\u0441"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://purl.org/dc/elements/1.1/identifier> "ATTO_PUB" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://publications.europa.eu/ontology/authority/authority-code> "MAPPING" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapping"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Auktoritetsregister"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://publications.europa.eu/ontology/authority/authority-code> "ONTOLOGY" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0422\u0435\u0437\u0430\u0443\u0440\u0443\u0441"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sch\u00E8me d\u2019encodage de syntaxe"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO table \u2013 EUR-Lex domain"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alkalmaz\u00E1sprofil"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Th\u00E9saurus"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tezaver"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E1bla ATTO \u2013 fearann na bhFoilseach\u00E1n"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://purl.org/dc/elements/1.1/identifier> "TAXONOMY" .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geoprostorni podaci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Applikasjonsprofil"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://publications.europa.eu/ontology/authority/authority-code> "GEOSPATIAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klasyfikacja"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FCnteetilised andmed"@et .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://www.w3.org/2002/07/owl#versionInfo> "20201216-0" .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osnovna komponenta"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E1bla ATTO \u2013 fearann EUR-Lex"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beskrivning av informationsutbyte"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://publications.europa.eu/resource/authority/op-code> "THESAURUS" .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0393\u03B5\u03C9\u03C7\u03C9\u03C1\u03B9\u03BA\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://publications.europa.eu/ontology/authority/authority-code> "CODE_LIST" .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seznam imen organov"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tezauras"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://publications.europa.eu/ontology/authority/op-code> "DSCRP_SERV" .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sovellusprofiili"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041A\u0430\u0440\u0442\u0430 \u043D\u0430 \u0432\u0440\u044A\u0437\u043A\u0438\u0442\u0435"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://publications.europa.eu/ontology/authority/start.use> "2017-10-30" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thesaurus"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0422\u0430\u0431\u043B\u0438\u0446\u0430 ATTO \u2013 \u0434\u043E\u043C\u0435\u0439\u043D \u041F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alapkomponens"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testdata"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date sintetice"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologie"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontolo\u0121ija"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testdata"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://publications.europa.eu/ontology/authority/op-code> "ONTOLOGY" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0422\u0430\u043A\u0441\u043E\u043D\u043E\u043C\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immappjar"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabela ATTO \u2014 Dom\u00EDnio EUR-Lex"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil aplik\u00E1cie"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tartom\u00E1nymodell"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schema"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dom\u00E4nenmodell"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stili\u0173 apra\u0161ai"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabella ATTO \u2013 dominio Pubblicazioni"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomi"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domenemodell"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO tablica \u2013 domena EUR-Lexa"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deskrizzjoni ta' pakkett ta' skambju ta' informazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://purl.org/dc/elements/1.1/identifier> "SYNTAX_ECD_SCHEME" .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://publications.europa.eu/ontology/authority/op-code> "CORE_COMP" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u043D\u0442\u043E\u043B\u043E\u0433\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informacijos main\u0173 paketo apra\u0161as"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lista ta' kodi\u010Bijiet"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sinteti\u010Dki podaci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hojas de estilo"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomi"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontolo\u0123ija"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://publications.europa.eu/resource/authority/op-code> "DSCRP_SERV" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://purl.org/dc/elements/1.1/identifier> "MAPPING" .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160tatistick\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://publications.europa.eu/resource/authority/op-code> "IEPD" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vastendus"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://publications.europa.eu/ontology/authority/op-code> "NAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapowanie"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sint\u00E9iseacha"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geodata"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-t\u00E1bl\u00E1zat \u2013 EUR-Lex-tartom\u00E1ny"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-tabel \u2013 Publicatiedomein"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologija"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://purl.org/dc/elements/1.1/identifier> "GEOSPATIAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fogli di stile"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testdata"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C6\u03AF\u03BB \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ispitni podaci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schema"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1 \u03B4\u03BF\u03BA\u03B9\u03BC\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evidenca"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos sint\u00E9ticos"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://purl.org/dc/elements/1.1/identifier> "CODE_LIST" .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeskema for syntaks"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koodiloend"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontoloogia"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapping"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-tabel \u2013 publikationsdom\u00E6ne"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u043E\u0444\u0438\u043B \u0437\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://purl.org/dc/elements/1.1/identifier> "DSCRP_SERV" .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u0101rdu un nosaukumu saraksts"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dom\u00E4nmodell"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domenemodell"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dom\u0113na modelis"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntetick\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://publications.europa.eu/ontology/authority/op-code> "STYLES" .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geodata"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beskrivelse av informasjonsutvekslingspakke"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domenemodell"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0392\u03B1\u03C3\u03B9\u03BA\u03CC \u03C3\u03C5\u03C3\u03C4\u03B1\u03C4\u03B9\u03BA\u03CC"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synthetic data"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis paketa informacijske razmjene"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-taulukko \u2013 Julkaisut-aihealue"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liste zugelassener Namen"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wykaz nazw organ\u00F3w"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados geoespaciais"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabel ATTO \u2013 domeniul EUR-Lex"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologija"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synthetische Daten"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Componente b\u00E1sico"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modelo de dominio"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elenco dei nomi autorizzati"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popis bal\u00ED\u010Dku pro v\u00FDm\u011Bnu informac\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standaardnamenlijst"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://publications.europa.eu/ontology/authority/start.use> "2017-10-30" .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geodaten"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabela ATTO \u2013 domena publikacij"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geodata"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tablica ATTO \u2013 domena publikacji"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeliste"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glosariusz"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://publications.europa.eu/ontology/authority/op-code> "THESAURUS" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://publications.europa.eu/resource/authority/op-code> "ONTOLOGY" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomy"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esquema de codificaci\u00F3n sint\u00E1ctica"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03C5\u03BD\u03B8\u03B5\u03C4\u03B9\u03BA\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modello di dominio"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Componente centrale"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntetiska data"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schema"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seznam kod"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapov\u00E1n\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesztadat"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologija"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Description de paquet d\u2019\u00E9change d'information"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://publications.europa.eu/resource/authority/op-code> "CORE_COMP" .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tilastotiedot"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistische Daten"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomie"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tezaur"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Element podstawowy"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tjenestebeskrivelse"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntaxiscoderingsschema"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://publications.europa.eu/ontology/authority/op-code> "GEOSPATIAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologi"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u043D\u0430 \u0443\u0441\u043B\u0443\u0433\u0430"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E9rinformatikai adat"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039A\u03B1\u03C4\u03AC\u03BB\u03BF\u03B3\u03BF\u03C2 \u03BA\u03C9\u03B4\u03B9\u03BA\u03CE\u03BD"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO tabula \u2013 \u201CEUR-Lex\u201D dom\u0113ns"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossaire"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntaktick\u00E1 sch\u00E9ma k\u00F3dovania"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologie"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beskrivelse av informasjonsutvekslingspakke"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://publications.europa.eu/ontology/authority/start.use> "2017-10-30" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Priradenie"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skjema"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service description"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://publications.europa.eu/resource/authority/op-code> "NAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teabevahetuspaketi kirjeldus"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://publications.europa.eu/ontology/authority/start.use> "2020-05-19" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model dom\u00E9ny"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset type"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeliste"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hovedkomponent"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerncomponent"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Woordenlijst"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistical data"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schema"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mappatura"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Information exchange package description"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://publications.europa.eu/ontology/authority/authority-code> "DOMAIN_MODEL" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://purl.org/dc/elements/1.1/identifier> "SCHEMA" .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologia"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://publications.europa.eu/resource/authority/op-code> "GEOSPATIAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistiske data"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tassonomia"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-tabell \u2013 Publikationsdom\u00E4n"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wykaz kod\u00F3w"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0422\u0430\u0431\u043B\u0438\u0446\u0430 ATTO \u2013 \u0434\u043E\u043C\u0435\u0439\u043D EUR-Lex"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://purl.org/dc/elements/1.1/identifier> "DOMAIN_MODEL" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standardformularer"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inform\u0101cijas apmai\u0146as paketes apraksts"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elenco dei codici"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liste over myndighedsnavne"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil d\u2019application"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lietotnes profils"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO tablica \u2013 domena publikacija"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hovedkomponent"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0122eotelpiskie dati"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Applicatieprofiel"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podatki o preskusu"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiedonvaihtopaketin kuvaus"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Komponent \u010Bentrali"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041C\u043E\u0434\u0435\u043B \u043D\u0430 \u043E\u0431\u043B\u0430\u0441\u0442"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glosar"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tenestebeskriving"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mappning"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "St\u00EDlbhileoga"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://publications.europa.eu/ontology/authority/op-code> "TEST_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO table \u2013 Publications domain"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shema"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F3dovac\u00ED sch\u00E9ma skladby"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxon\u00F3mia"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paslaugos apra\u0161as"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Applikasjonsprofil"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://publications.europa.eu/ontology/authority/op-code> "SYNTHETIC_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "St\u00EDluslapok"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synteettiset tiedot"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistiniai duomenys"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20201216-0" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-Tabelle \u2013 EUR-Lex-Domain"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lista ta' ismijiet awtorizzati"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://publications.europa.eu/resource/authority/op-code> "STYLES" .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://publications.europa.eu/ontology/authority/table.id> "dataset-type" .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formatvorlagen"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartografiere"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoznam k\u00F3dov"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://publications.europa.eu/resource/authority/op-code> "ATTO_LEX" .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glos\u0101rijs"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil aplikacije"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologi"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomie"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0411\u0430\u0437\u043E\u0432 \u0435\u043B\u0435\u043C\u0435\u043D\u0442"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sintaks\u0117s kodavimo schema"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beskrivelse af informationsudveksling"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomie"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED t\u00E1st\u00E1la"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://publications.europa.eu/resource/authority/op-code> "TEST_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados de testes"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data tal-ittestjar"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descripci\u00F3n del servicio"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dirbtiniai duomenys"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0393\u03BB\u03C9\u03C3\u03C3\u03AC\u03C1\u03B9\u03BF"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://publications.europa.eu/ontology/authority/start.use> "2019-01-30" .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lista autorizada de nomes"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://publications.europa.eu/ontology/authority/start.use> "2017-10-30" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://publications.europa.eu/ontology/authority/op-code> "ATTO_PUB" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03AF\u03BD\u03B1\u03BA\u03B1\u03C2 ATTO \u2013 \u03A4\u03BF\u03BC\u03AD\u03B1\u03C2 \u03B5\u03BA\u03B4\u03CC\u03C3\u03B5\u03C9\u03BD"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED geosp\u00E1s\u00FAla"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Application profile"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-tabel \u2013 Eur-Lex-dom\u00E6ne"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skema"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados estat\u00EDsticos"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Szintaxisk\u00F3dol\u00E1si s\u00E9ma"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis struktury i tre\u015Bci wymiany informacji"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glos\u00E1\u0159"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hyv\u00E4ksyttyjen nimien luettelo"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tyyliohjeet"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pamatsast\u0101vda\u013Ca"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stilark"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syntetick\u00E1 data"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sintakses kod\u0113jumu sh\u0113ma"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geospatial data"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis paketa za izmenjavo podatkov"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://publications.europa.eu/ontology/authority/op-code> "APROF" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koodiluettelo"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistisk"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesauro"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descrierea serviciului"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domain model"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tilknytning"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palvelun kuvaus"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesauro"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skema ta' konver\u017Cjoni tas-sintassi"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabulka ATTO \u2013 dom\u00E9na publikac\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologie"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://purl.org/dc/elements/1.1/identifier> "STATISTICAL" .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geoprostorov\u00E1 data"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapeamento"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://publications.europa.eu/resource/authority/op-code> "GLOSSARY" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapping"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descrizione del servizio"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistische gegevens"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritetsliste for entitetsnavn"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opmaakmodellen"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil aplikacji"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tezaurus"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data \u0121eospazjali"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seznam k\u00F3d\u016F"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://publications.europa.eu/resource/authority/op-code> "SYNTHETIC_DATA" .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00E4sitemalli"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Name authority list"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-taulukko \u2013 EUR-Lex-aihealue"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO tabula \u2013 \u201CPublik\u0101ciju\u201D dom\u0113ns"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hovedkomponent"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glos\u00E1r"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stilark"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sistema di codifica basato sulla sintassi"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descri\u00E7\u00E3o de pacote de interc\u00E2mbio de informa\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-tabel \u2013 EUR-Lex"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03B5\u03C1\u03B9\u03B3\u03C1\u03B1\u03C6\u03AE \u03C5\u03C0\u03B7\u03C1\u03B5\u03C3\u03AF\u03B1\u03C2"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lubatud nimede loend"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tezaurus"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Szolg\u00E1ltat\u00E1s le\u00EDr\u00E1sa"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO lentel\u0117 \u2013 \u201EEUR-Lex\u201C sritis"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schema"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://publications.europa.eu/ontology/authority/op-code> "TAXONOMY" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://publications.europa.eu/ontology/authority/op-code> "MAPPING" .
+<http://publications.europa.eu/resource/authority/dataset-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dataset type"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aplikacijski profil"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Programos profilis"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03B5\u03C1\u03B9\u03B3\u03C1\u03B1\u03C6\u03AE \u03B4\u03AD\u03C3\u03BC\u03B7\u03C2 \u03B1\u03BD\u03C4\u03B1\u03BB\u03BB\u03B1\u03B3\u03AE\u03C2 \u03C0\u03BB\u03B7\u03C1\u03BF\u03C6\u03BF\u03C1\u03B9\u03CE\u03BD"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geospatiale data"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Componente fundamental"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schema"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Listy so \u0161t\u00FDlmi"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabella ATTO \u2013 dominju EUR-Lex"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laadilehed"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0430\u043D\u043D\u0438 \u043E\u0442 \u0438\u0437\u043F\u0438\u0442\u0432\u0430\u043D\u0435\u0442\u043E"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profilo applicazione"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistisk"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modelo de dom\u00EDnio"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servicebeschrijving"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuumikelement"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Struktura poj\u0119ciowa"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skjema"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistiska data"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tjenestebeskrivelse"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologi"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://publications.europa.eu/resource/authority/op-code> "ATTO_PUB" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://publications.europa.eu/ontology/authority/op-code> "CODE_LIST" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pagrindinis komponentas"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO tabel \u2013 V\u00E4ljaannete domeen"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati di prova"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesaurus"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es g\u00E9ospatiales"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://publications.europa.eu/ontology/authority/op-code> "SYNTAX_ECD_SCHEME" .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pojmovnik"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teenusekirjeldus"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologia"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stila lapas"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://publications.europa.eu/resource/authority/op-code> "TAXONOMY" .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://publications.europa.eu/resource/authority/op-code> "MAPPING" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schemat"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapping"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glosar"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seznam n\u00E1zv\u016F org\u00E1n\u016F"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sch\u00E9ma"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstig data"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tesauro"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomija"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://publications.europa.eu/resource/authority/op-code> "APROF" .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u0113zaurs"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perfil de aplica\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popis zadanih naziva"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geopriestorov\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date geospa\u021Biale"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossz\u00E1rium"@hu .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Descrizione del pacchetto \u00ABscambio di informazioni\u00BB"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lista de c\u00F3digos"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://publications.europa.eu/resource/authority/op-code> "CODE_LIST" .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossar"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://publications.europa.eu/resource/authority/op-code> "SYNTAX_ECD_SCHEME" .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodeliste"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologi"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skeem"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://purl.org/dc/elements/1.1/identifier> "ATTO_LEX" .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sch\u00E9ma"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0430\u0431\u043E\u0440\u0438 \u043E\u0442 \u0441\u0442\u0438\u043B\u043E\u0432\u0435"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sistem de codificare a sintaxei"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mapping"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beskrivelse af tjenesten"@da .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://publications.europa.eu/ontology/authority/authority-code> "SCHEMA" .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologia"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03BD\u03C4\u03BF\u03BB\u03BF\u03B3\u03AF\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati geospaziali"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuadro ATTO \u2013 dominio Publicaciones"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es synth\u00E9tiques"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstig data"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "List\u0103 cu numele autorit\u0103\u021Bilor"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontol\u00F3gia"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kernbestandteil"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perfil de aplicaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossary"@en .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomia"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gloss\u00E1rio"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statisti\u010Dki podaci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Model domeny"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Profil tal-applikazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tableau ATTO \u2013 domaine Publications"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Z\u00E1kladn\u00ED prvek"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Georuimtelijke gegevens"@nl .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testitiedot"@fi .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO tabel \u2013 EUR-Lexi domeen"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u043F\u0438\u0441\u044A\u043A \u043D\u0430 \u043A\u043E\u0434\u043E\u0432\u0435\u0442\u0435"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/NAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoritetsliste for entitetsnamn"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mudell ta' dominju"@mt .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feuilles de style"@fr .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos estad\u00EDsticos"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonoomia"@et .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis us\u0142ugi"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sinteti\u010Dni podatki"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO-Tabelle \u2013 Domain \u201EVer\u00F6ffentlichungen\u201C"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati test\u0113\u0161anai"@lv .
+<http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstig data"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabu\u013Eka ATTO \u2013 dom\u00E9na Publik\u00E1ci\u00ED"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domeno modelis"@lt .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geoprostorski podatki"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabela ATTO \u2014 Dom\u00EDnio Publica\u00E7\u00F5es"@pt .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://publications.europa.eu/ontology/authority/start.use> "2020-11-25" .
+<http://publications.europa.eu/resource/authority/dataset-type/THESAURUS> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0398\u03B7\u03C3\u03B1\u03C5\u03C1\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/dataset-type/STYLES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arkusze styl\u00F3w"@pl .
+<http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0434\u0430\u043D\u043D\u0438"@bg .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://publications.europa.eu/ontology/authority/op-code> "SCHEMA" .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date test"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos geoespaciales"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Testdata"@nb .
+<http://publications.europa.eu/resource/authority/dataset-type/MAPPING> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opis bal\u00EDka v\u00FDmeny inform\u00E1ci\u00ED"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anwendungsprofil"@de .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxonomie"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popis slu\u017Eby"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-type> .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://publications.europa.eu/ontology/authority/authority-code> "IEPD" .
+<http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taksonomija"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL> <http://publications.europa.eu/ontology/authority/op-code> "DOMAIN_MODEL" .
+<http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tabel ATTO \u2013 domeniul Publica\u021Bii"@ro .
+<http://publications.europa.eu/resource/authority/dataset-type/SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skjema"@no .
+<http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY> <http://purl.org/dc/elements/1.1/identifier> "GLOSSARY" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontologie"@cs .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beskriving av informasjonsutvekslingspakke"@nn .
+<http://publications.europa.eu/resource/authority/dataset-type/APROF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pr\u00F3if\u00EDl feidhmchl\u00E1ir"@ga .
+<http://publications.europa.eu/resource/authority/dataset-type/IEPD> <http://purl.org/dc/elements/1.1/identifier> "IEPD" .
+<http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ontolog\u00EDa"@es .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sch\u00E9ma slu\u017Eby"@sk .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deskrizzjoni tas-servizz"@mt .
+

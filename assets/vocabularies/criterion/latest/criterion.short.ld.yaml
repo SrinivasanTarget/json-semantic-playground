@@ -1,0 +1,405 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/criterion/OP_DATPRO
+- country_code: autorisation
+  deprecated: 'false'
+  key: autorisation
+  label_en: 'For service contracts: authorisation of particular organisation needed'
+  url: http://publications.europa.eu/resource/authority/criterion/autorisation
+  valid_from: '2021-06-16'
+- country_code: aver-year-to
+  deprecated: 'false'
+  key: aver-year-to
+  label_en: Average yearly turnover
+  url: http://publications.europa.eu/resource/authority/criterion/aver-year-to
+  valid_from: '2021-06-16'
+- country_code: bankr-nat
+  deprecated: 'false'
+  key: bankr-nat
+  label_en: Analogous situation like bankruptcy under national law
+  url: http://publications.europa.eu/resource/authority/criterion/bankr-nat
+  valid_from: '2021-06-16'
+- country_code: bankruptcy
+  deprecated: 'false'
+  key: bankruptcy
+  label_en: Bankruptcy
+  url: http://publications.europa.eu/resource/authority/criterion/bankruptcy
+  valid_from: '2021-06-16'
+- country_code: chain-manage
+  deprecated: 'false'
+  key: chain-manage
+  label_en: Supply chain management
+  url: http://publications.europa.eu/resource/authority/criterion/chain-manage
+  valid_from: '2021-06-16'
+- country_code: corruption
+  deprecated: 'false'
+  key: corruption
+  label_en: Corruption
+  url: http://publications.europa.eu/resource/authority/criterion/corruption
+  valid_from: '2021-06-16'
+- country_code: cred-arran
+  deprecated: 'false'
+  key: cred-arran
+  label_en: Arrangement with creditors
+  url: http://publications.europa.eu/resource/authority/criterion/cred-arran
+  valid_from: '2021-06-16'
+- country_code: crime-org
+  deprecated: 'false'
+  key: crime-org
+  label_en: Participation in a criminal organisation
+  url: http://publications.europa.eu/resource/authority/criterion/crime-org
+  valid_from: '2021-06-16'
+- country_code: distorsion
+  deprecated: 'false'
+  key: distorsion
+  label_en: Agreements with other economic operators aimed at distorting competition
+  url: http://publications.europa.eu/resource/authority/criterion/distorsion
+  valid_from: '2021-06-16'
+- country_code: envir-certif-indep
+  deprecated: 'false'
+  key: envir-certif-indep
+  label_en: Certificates by independent bodies about environmental management systems
+    or standards
+  url: http://publications.europa.eu/resource/authority/criterion/envir-certif-indep
+  valid_from: '2021-06-16'
+- country_code: envir-law
+  deprecated: 'false'
+  key: envir-law
+  label_en: Breaching of obligations in the fields of environmental law
+  url: http://publications.europa.eu/resource/authority/criterion/envir-law
+  valid_from: '2021-06-16'
+- country_code: envir-measure
+  deprecated: 'false'
+  key: envir-measure
+  label_en: Environmental management measures
+  url: http://publications.europa.eu/resource/authority/criterion/envir-measure
+  valid_from: '2021-06-16'
+- country_code: eo-group
+  deprecated: 'false'
+  key: eo-group
+  label_en: Economic operator together with others
+  url: http://publications.europa.eu/resource/authority/criterion/eo-group
+  valid_from: '2021-06-16'
+- country_code: finan-laund
+  deprecated: 'false'
+  key: finan-laund
+  label_en: Money laundering or terrorist financing
+  url: http://publications.europa.eu/resource/authority/criterion/finan-laund
+  valid_from: '2021-06-16'
+- country_code: finan-rat
+  deprecated: 'false'
+  key: finan-rat
+  label_en: Financial ratio
+  url: http://publications.europa.eu/resource/authority/criterion/finan-rat
+  valid_from: '2021-06-16'
+- country_code: finan-requ
+  deprecated: 'false'
+  key: finan-requ
+  label_en: Other economic or financial requirements
+  url: http://publications.europa.eu/resource/authority/criterion/finan-requ
+  valid_from: '2021-06-16'
+- country_code: fraud
+  deprecated: 'false'
+  key: fraud
+  label_en: Fraud
+  url: http://publications.europa.eu/resource/authority/criterion/fraud
+  valid_from: '2021-06-16'
+- country_code: gen-year-to
+  deprecated: 'false'
+  key: gen-year-to
+  label_en: General yearly turnover
+  url: http://publications.europa.eu/resource/authority/criterion/gen-year-to
+  valid_from: '2021-06-16'
+- country_code: human-traffic
+  deprecated: 'false'
+  key: human-traffic
+  label_en: Child labour and other forms of trafficking in human beings
+  url: http://publications.europa.eu/resource/authority/criterion/human-traffic
+  valid_from: '2021-06-16'
+- country_code: indem-insu
+  deprecated: 'false'
+  key: indem-insu
+  label_en: Professional risk indemnity insurance
+  url: http://publications.europa.eu/resource/authority/criterion/indem-insu
+  valid_from: '2021-06-16'
+- country_code: insolvency
+  deprecated: 'false'
+  key: insolvency
+  label_en: Insolvency
+  url: http://publications.europa.eu/resource/authority/criterion/insolvency
+  valid_from: '2021-06-16'
+- country_code: labour-law
+  deprecated: 'false'
+  key: labour-law
+  label_en: Breaching of obligations in the fields of labour law
+  url: http://publications.europa.eu/resource/authority/criterion/labour-law
+  valid_from: '2021-06-16'
+- country_code: liq-admin
+  deprecated: 'false'
+  key: liq-admin
+  label_en: Assets being administered by liquidator
+  url: http://publications.europa.eu/resource/authority/criterion/liq-admin
+  valid_from: '2021-06-16'
+- country_code: manage-staff
+  deprecated: 'false'
+  key: manage-staff
+  label_en: Number of managerial staff
+  url: http://publications.europa.eu/resource/authority/criterion/manage-staff
+  valid_from: '2021-06-16'
+- country_code: membership
+  deprecated: 'false'
+  key: membership
+  label_en: 'For service contracts: membership of particular organisation needed'
+  url: http://publications.europa.eu/resource/authority/criterion/membership
+  valid_from: '2021-06-16'
+- country_code: misinterpr
+  deprecated: 'false'
+  key: misinterpr
+  label_en: Guilty of misinterpretation, withheld information, unable to provide required
+    documents and obtained confidential information of this procedure
+  url: http://publications.europa.eu/resource/authority/criterion/misinterpr
+  valid_from: '2021-06-16'
+- country_code: nati-ground
+  deprecated: 'false'
+  key: nati-ground
+  label_en: Purely national exclusion grounds
+  url: http://publications.europa.eu/resource/authority/criterion/nati-ground
+  valid_from: '2021-06-16'
+- country_code: partic-confl
+  deprecated: 'false'
+  key: partic-confl
+  label_en: Conflict of interest due to its participation in the procurement procedure
+  url: http://publications.europa.eu/resource/authority/criterion/partic-confl
+  valid_from: '2021-06-16'
+- country_code: prep-confl
+  deprecated: 'false'
+  key: prep-confl
+  label_en: Direct or indirect involvement in the preparation of this procurement
+    procedure
+  url: http://publications.europa.eu/resource/authority/criterion/prep-confl
+  valid_from: '2021-06-16'
+- country_code: prof-misconduct
+  deprecated: 'false'
+  key: prof-misconduct
+  label_en: Guilty of grave professional misconduct
+  url: http://publications.europa.eu/resource/authority/criterion/prof-misconduct
+  valid_from: '2021-06-16'
+- country_code: prof-regist
+  deprecated: 'false'
+  key: prof-regist
+  label_en: Enrolment in a relevant professional register
+  url: http://publications.europa.eu/resource/authority/criterion/prof-regist
+  valid_from: '2021-06-16'
+- country_code: qa-certif-inst
+  deprecated: 'false'
+  key: qa-certif-inst
+  label_en: 'For supply contracts: certificates by quality control institutes'
+  url: http://publications.europa.eu/resource/authority/criterion/qa-certif-inst
+  valid_from: '2021-06-16'
+- country_code: qu-certif-indep
+  deprecated: 'false'
+  key: qu-certif-indep
+  label_en: Certificates by independent bodies about quality assurance standards
+  url: http://publications.europa.eu/resource/authority/criterion/qu-certif-indep
+  valid_from: '2021-06-16'
+- country_code: qual-cont-tech
+  deprecated: 'false'
+  key: qual-cont-tech
+  label_en: Technicians or technical bodies for quality control
+  url: http://publications.europa.eu/resource/authority/criterion/qual-cont-tech
+  valid_from: '2021-06-16'
+- country_code: qual-facil
+  deprecated: 'false'
+  key: qual-facil
+  label_en: Technical facilities and measures for ensuring quality
+  url: http://publications.europa.eu/resource/authority/criterion/qual-facil
+  valid_from: '2021-06-16'
+- country_code: qualification
+  deprecated: 'false'
+  key: qualification
+  label_en: Educational and professional qualifications
+  url: http://publications.europa.eu/resource/authority/criterion/qualification
+  valid_from: '2021-06-16'
+- country_code: registered
+  deprecated: 'false'
+  key: registered
+  label_en: Economic operator registered in a pre qualification system
+  url: http://publications.europa.eu/resource/authority/criterion/registered
+  valid_from: '2021-06-16'
+- country_code: relied
+  deprecated: 'false'
+  key: relied
+  label_en: Relied on entities
+  url: http://publications.europa.eu/resource/authority/criterion/relied
+  valid_from: '2021-06-16'
+- country_code: research-fac
+  deprecated: 'false'
+  key: research-fac
+  label_en: Study and research facilities
+  url: http://publications.europa.eu/resource/authority/criterion/research-fac
+  valid_from: '2021-06-16'
+- country_code: sanction
+  deprecated: 'false'
+  key: sanction
+  label_en: Early termination, damages or other comparable sanctions
+  url: http://publications.europa.eu/resource/authority/criterion/sanction
+  valid_from: '2021-06-16'
+- country_code: service-perform
+  deprecated: 'false'
+  key: service-perform
+  label_en: 'For service contracts: performance of services of the specified type'
+  url: http://publications.europa.eu/resource/authority/criterion/service-perform
+  valid_from: '2021-06-16'
+- country_code: shelt-worksh
+  deprecated: 'false'
+  key: shelt-worksh
+  label_en: Economic operator is a sheltered workshop
+  url: http://publications.europa.eu/resource/authority/criterion/shelt-worksh
+  valid_from: '2021-06-16'
+- country_code: sme
+  deprecated: 'false'
+  key: sme
+  label_en: Economic operator micro, small or medium-sized enterprise
+  url: http://publications.europa.eu/resource/authority/criterion/sme
+  valid_from: '2021-06-16'
+- country_code: socsec-law
+  deprecated: 'false'
+  key: socsec-law
+  label_en: Breaching of obligations in the fields of social law
+  url: http://publications.europa.eu/resource/authority/criterion/socsec-law
+  valid_from: '2021-06-16'
+- country_code: socsec-pay
+  deprecated: 'false'
+  key: socsec-pay
+  label_en: Payment of social security contributions
+  url: http://publications.europa.eu/resource/authority/criterion/socsec-pay
+  valid_from: '2021-06-16'
+- country_code: spec-aver-to
+  deprecated: 'false'
+  key: spec-aver-to
+  label_en: Specific average turnover
+  url: http://publications.europa.eu/resource/authority/criterion/spec-aver-to
+  valid_from: '2021-06-16'
+- country_code: spec-req-check
+  deprecated: 'false'
+  key: spec-req-check
+  label_en: Special requierements check
+  url: http://publications.europa.eu/resource/authority/criterion/spec-req-check
+  valid_from: '2021-06-16'
+- country_code: spec-year-to
+  deprecated: 'false'
+  key: spec-year-to
+  label_en: Specific yearly turnover
+  url: http://publications.europa.eu/resource/authority/criterion/spec-year-to
+  valid_from: '2021-06-16'
+- country_code: staff-red
+  deprecated: 'false'
+  key: staff-red
+  label_en: Reduction of the number of qualified candidates
+  url: http://publications.europa.eu/resource/authority/criterion/staff-red
+  valid_from: '2021-06-16'
+- country_code: subco-ent
+  deprecated: 'false'
+  key: subco-ent
+  label_en: Subcontracted entities
+  url: http://publications.europa.eu/resource/authority/criterion/subco-ent
+  valid_from: '2021-06-16'
+- country_code: suncont-port
+  deprecated: 'false'
+  key: suncont-port
+  label_en: Subcontracting proportion
+  url: http://publications.europa.eu/resource/authority/criterion/suncont-port
+  valid_from: '2021-06-16'
+- country_code: supply-perform
+  deprecated: 'false'
+  key: supply-perform
+  label_en: 'For supply contracts: performance of deliveries of the specified type'
+  url: http://publications.europa.eu/resource/authority/criterion/supply-perform
+  valid_from: '2021-06-16'
+- country_code: susp-act
+  deprecated: 'false'
+  key: susp-act
+  label_en: Business activities are suspended
+  url: http://publications.europa.eu/resource/authority/criterion/susp-act
+  valid_from: '2021-06-16'
+- country_code: tax-pay
+  deprecated: 'false'
+  key: tax-pay
+  label_en: Payment of taxes
+  url: http://publications.europa.eu/resource/authority/criterion/tax-pay
+  valid_from: '2021-06-16'
+- country_code: tech-equip
+  deprecated: 'false'
+  key: tech-equip
+  label_en: Tools, plant or technical equipment
+  url: http://publications.europa.eu/resource/authority/criterion/tech-equip
+  valid_from: '2021-06-16'
+- country_code: terr-offence
+  deprecated: 'false'
+  key: terr-offence
+  label_en: Terrorist offences or offences linked to terrorist activities
+  url: http://publications.europa.eu/resource/authority/criterion/terr-offence
+  valid_from: '2021-06-16'
+- country_code: trade-regist
+  deprecated: 'false'
+  key: trade-regist
+  label_en: Enrolment in a trade register
+  url: http://publications.europa.eu/resource/authority/criterion/trade-regist
+  valid_from: '2021-06-16'
+- country_code: w-autent
+  deprecated: 'false'
+  key: w-autent
+  label_en: 'For supply contracts: samples, descriptions or photographs with certification
+    of authenticity'
+  url: http://publications.europa.eu/resource/authority/criterion/w-autent
+  valid_from: '2021-06-16'
+- country_code: wo-autent
+  deprecated: 'false'
+  key: wo-autent
+  label_en: 'For supply contracts: samples, descriptions or photographs without certification
+    of authenticity'
+  url: http://publications.europa.eu/resource/authority/criterion/wo-autent
+  valid_from: '2021-06-16'
+- country_code: work-perform
+  deprecated: 'false'
+  key: work-perform
+  label_en: 'For works contracts: performance of works of the specified type'
+  url: http://publications.europa.eu/resource/authority/criterion/work-perform
+  valid_from: '2021-06-16'
+- country_code: work-tech
+  deprecated: 'false'
+  key: work-tech
+  label_en: 'For works contracts: technicians or technical bodies to carry out the
+    work'
+  url: http://publications.europa.eu/resource/authority/criterion/work-tech
+  valid_from: '2021-06-16'
+- country_code: year-manpower
+  deprecated: 'false'
+  key: year-manpower
+  label_en: Average annual manpower
+  url: http://publications.europa.eu/resource/authority/criterion/year-manpower
+  valid_from: '2021-06-16'

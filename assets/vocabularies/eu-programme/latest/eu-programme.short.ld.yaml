@@ -1,0 +1,1074 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: AFIS2020
+  deprecated: 'false'
+  key: AFIS2020
+  label_en: Anti Fraud Information System (AFIS)
+  label_it: "Sistema d\u2019informazione antifrode (AFIS)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/AFIS2020
+  valid_from: '2014-01-01'
+- country_code: AGR
+  deprecated: 'false'
+  key: AGR
+  label_en: European Agricultural Guarantee Fund (after transfers between EAGF and
+    EAFRD)
+  label_it: Fondo europeo agricolo di garanzia (dopo trasferimenti tra FEAGA e FEASR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/AGR
+  valid_from: '2014-01-01'
+- country_code: AGRNET
+  deprecated: 'true'
+  key: AGRNET
+  label_en: Net transfer between EAGF and EAFRD
+  label_it: Trasferimento netto tra FEAGA e FEASR
+  url: http://publications.europa.eu/resource/authority/eu-programme/AGRNET
+  valid_from: '2014-01-01'
+  valid_until: '2014-01-02'
+- country_code: AMF
+  deprecated: 'false'
+  key: AMF
+  label_en: Asylum, Migration and Integration Fund (AMF)
+  label_it: Fondo Asilo, migrazione e integrazione
+  url: http://publications.europa.eu/resource/authority/eu-programme/AMF
+  valid_from: '2014-01-01'
+- country_code: AMIF
+  deprecated: 'false'
+  key: AMIF
+  label_en: Asylum and Migration Fund (AMIF)
+  label_it: Fondo Asilo e migrazione (AMF)
+  url: http://publications.europa.eu/resource/authority/eu-programme/AMIF
+  valid_from: '2021-01-01'
+- country_code: ANTIFRAUD
+  deprecated: 'false'
+  key: ANTIFRAUD
+  label_en: EU Anti-Fraud Programme
+  label_it: "Programma antifrode dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ANTIFRAUD
+  valid_from: '2021-01-01'
+- country_code: BMVI
+  deprecated: 'false'
+  key: BMVI
+  label_en: "Integrated Border Management Fund (IBMF) \u2013 instrument for border\
+    \ management and visa (BMVi)"
+  label_it: Fondo per la gestione integrata delle frontiere (IBMF) - Strumento per
+    la gestione delle frontiere e i visti (BMVI)
+  url: http://publications.europa.eu/resource/authority/eu-programme/BMVI
+  valid_from: '2021-01-01'
+- country_code: CCEI
+  deprecated: 'false'
+  key: CCEI
+  label_en: "Integrated Border Management Fund (IBMF) \u2013 Instrument for financial\
+    \ support for customs control equipment (CCEi)"
+  label_it: Fondo per la gestione integrata delle frontiere (IBMF) - Strumento di
+    sostegno finanziario relativo alle attrezzature per il controllo doganale (CCEI)
+  url: http://publications.europa.eu/resource/authority/eu-programme/CCEI
+  valid_from: '2021-01-01'
+- country_code: CDF2020
+  deprecated: 'false'
+  key: CDF2020
+  label_en: Rights, equality and citizenship programme
+  label_it: Programma Diritti, uguaglianza e cittadinanza
+  url: http://publications.europa.eu/resource/authority/eu-programme/CDF2020
+  valid_from: '2014-01-01'
+- country_code: CEF
+  deprecated: 'false'
+  key: CEF
+  label_en: Connecting Europe Facility (CEF)
+  label_it: "Meccanismo per collegare l\u2019Europa (CEF)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CEF
+  valid_from: '2014-01-01'
+- country_code: CEF_2021
+  deprecated: 'false'
+  key: CEF_2021
+  label_en: Connecting Europe Facility (CEF)
+  label_it: "Meccanismo per collegare l\u2019Europa (MCE)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CEF_2021
+  valid_from: '2021-01-01'
+- country_code: CF
+  deprecated: 'false'
+  key: CF
+  label_en: Cohesion Fund (CF)
+  label_it: Fondo di coesione (FC)
+  url: http://publications.europa.eu/resource/authority/eu-programme/CF
+  valid_from: '2014-01-01'
+- country_code: CFSP2020
+  deprecated: 'false'
+  key: CFSP2020
+  label_en: Common foreign and security policy (CFSP)
+  label_it: Politica estera e di sicurezza comune (PESC)
+  url: http://publications.europa.eu/resource/authority/eu-programme/CFSP2020
+  valid_from: '2014-01-01'
+- country_code: CFSP_2021
+  deprecated: 'false'
+  key: CFSP_2021
+  label_en: Common Foreign and Security Policy (CFSP)
+  label_it: Politica estera e di sicurezza comune (PESC)
+  url: http://publications.europa.eu/resource/authority/eu-programme/CFSP_2021
+  valid_from: '2021-01-01'
+- country_code: CF_2021
+  deprecated: 'false'
+  key: CF_2021
+  label_en: Cohesion Fund (CF)
+  label_it: Fondo di coesione (FC)
+  url: http://publications.europa.eu/resource/authority/eu-programme/CF_2021
+  valid_from: '2021-01-01'
+- country_code: CF_DET
+  deprecated: 'false'
+  key: CF_DET
+  label_en: Contribution from the Cohesion Fund to the CEF programme
+  label_it: Contributo del Fondo di coesione al programma CEF
+  url: http://publications.europa.eu/resource/authority/eu-programme/CF_DET
+  valid_from: '2014-01-01'
+- country_code: CIFP_07_13
+  deprecated: 'false'
+  key: CIFP_07_13
+  label_en: Competitiveness and Innovation Framework Programme
+  label_it: "Programma quadro per la competitivit\xE0 e l\u2019innovazione"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CIFP_07_13
+  valid_from: '2007-01-01'
+- country_code: CIT2020
+  deprecated: 'false'
+  key: CIT2020
+  label_en: Europe for Citizens
+  label_it: Europa per i cittadini
+  url: http://publications.europa.eu/resource/authority/eu-programme/CIT2020
+  valid_from: '2014-01-01'
+- country_code: COMPREG
+  deprecated: 'false'
+  key: COMPREG
+  label_en: Competitiveness (more developed regions)
+  label_it: "Competitivit\xE0 (regioni pi\xF9 sviluppate)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/COMPREG
+  valid_from: '2014-01-01'
+- country_code: CONS
+  deprecated: 'false'
+  key: CONS
+  label_en: Consumer programme
+  label_it: "Programma \xABConsumatori\xBB"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CONS
+  valid_from: '2014-01-01'
+- country_code: COPERNICUS
+  deprecated: 'false'
+  key: COPERNICUS
+  label_en: European Earth Observation Programme (Copernicus)
+  label_it: Programma europeo di osservazione della terra (Copernicus)
+  url: http://publications.europa.eu/resource/authority/eu-programme/COPERNICUS
+  valid_from: '2014-01-01'
+- country_code: COSME
+  deprecated: 'false'
+  key: COSME
+  label_en: Programme for the competitiveness of enterprises and small and medium-sized
+    enterprises (COSME)
+  label_it: "Programma per la competitivit\xE0 delle imprese e le PMI (COSME)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/COSME
+  valid_from: '2014-01-01'
+- country_code: CPM_H3
+  deprecated: 'false'
+  key: CPM_H3
+  label_en: "Union Civil Protection Mechanism \u2014 Member States"
+  label_it: "Meccanismo di protezione civile dell\u2019Unione \u2014 Stati membri"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CPM_H3
+  valid_from: '2014-01-01'
+- country_code: CPM_H4
+  deprecated: 'false'
+  key: CPM_H4
+  label_en: "Union Civil Protection Mechanism \u2014 Outside EU"
+  label_it: "Meccanismo di protezione civile dell\u2019Unione \u2014 Al di fuori dell\u2019\
+    UE"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CPM_H4
+  valid_from: '2014-01-01'
+- country_code: CREA
+  deprecated: 'false'
+  key: CREA
+  label_en: Creative Europe programme
+  label_it: "Programma \xABEuropa creativa\xBB"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CREA
+  valid_from: '2014-01-01'
+- country_code: CREATIVEEU
+  deprecated: 'false'
+  key: CREATIVEEU
+  label_en: Creative Europe
+  label_it: Europa creativa
+  url: http://publications.europa.eu/resource/authority/eu-programme/CREATIVEEU
+  valid_from: '2021-01-01'
+- country_code: CUST2020
+  deprecated: 'false'
+  key: CUST2020
+  label_en: Action programme for customs in the European Union (Customs 2020)
+  label_it: "Programma d\u2019azione per la dogana nell\u2019Unione europea (Dogane\
+    \ 2020)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/CUST2020
+  valid_from: '2014-01-01'
+- country_code: CUSTOMS
+  deprecated: 'false'
+  key: CUSTOMS
+  label_en: Cooperation in the field of customs (CUSTOMS)
+  label_it: Cooperazione nel settore doganale (DOGANE)
+  url: http://publications.europa.eu/resource/authority/eu-programme/CUSTOMS
+  valid_from: '2021-01-01'
+- country_code: DCI2020
+  deprecated: 'false'
+  key: DCI2020
+  label_en: Development Cooperation Instrument (DCI)
+  label_it: Strumento di cooperazione allo sviluppo (DCI)
+  url: http://publications.europa.eu/resource/authority/eu-programme/DCI2020
+  valid_from: '2014-01-01'
+- country_code: DIGITALEU
+  deprecated: 'false'
+  key: DIGITALEU
+  label_en: Digital Europe Programme
+  label_it: Programma Europa digitale
+  url: http://publications.europa.eu/resource/authority/eu-programme/DIGITALEU
+  valid_from: '2021-01-01'
+- country_code: E4A
+  deprecated: 'false'
+  key: E4A
+  label_en: The Union programme for education, training, youth and sport (Erasmus+)
+  label_it: "Programma dell\u2019Unione per l\u2019istruzione, la formazione, la giovent\xF9\
+    \ e lo sport (Erasmus+)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/E4A
+  valid_from: '2014-01-01'
+- country_code: EAFRD
+  deprecated: 'false'
+  key: EAFRD
+  label_en: European Agricultural Fund for Rural Development (after transfers between
+    EAGF and EAFRD)
+  label_it: Fondo europeo agricolo per lo sviluppo rurale (dopo trasferimenti tra
+    FEAGA e FEASR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EAFRD
+  valid_from: '2014-01-01'
+- country_code: EAFRD2020
+  deprecated: 'false'
+  key: EAFRD2020
+  label_en: European Agricultural Fund for Rural Development (EAFRD)
+  label_it: Fondo europeo agricolo per lo sviluppo rurale (FEASR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EAFRD2020
+  valid_from: '2014-01-01'
+- country_code: EAFRD_2021
+  deprecated: 'false'
+  key: EAFRD_2021
+  label_en: European Agricultural Fund for Rural Development (EAFRD)
+  label_it: Fondo europeo agricolo per lo sviluppo rurale (FEASR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EAFRD_2021
+  valid_from: '2021-01-01'
+- country_code: EAGF2020
+  deprecated: 'false'
+  key: EAGF2020
+  label_en: European Agricultural Guarantee Fund (EAGF)
+  label_it: Fondo europeo agricolo di garanzia (FEAGA)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EAGF2020
+  valid_from: '2014-01-01'
+- country_code: EAGF_2021
+  deprecated: 'false'
+  key: EAGF_2021
+  label_en: European Agricultural Guarantee Fund (EAGF)
+  label_it: Fondo europeo agricolo di garanzia (FEAGA)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EAGF_2021
+  valid_from: '2021-01-01'
+- country_code: EAR2020
+  deprecated: 'false'
+  key: EAR2020
+  label_en: Emergency Aid Reserve (EAR)
+  label_it: "Riserva per aiuti d\u2019urgenza"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EAR2020
+  valid_from: '2014-01-01'
+- country_code: EDF
+  deprecated: 'false'
+  key: EDF
+  label_en: European Defence Fund (EDF)
+  label_it: Fondo europeo per la difesa (FED)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EDF
+  valid_from: '2021-01-01'
+- country_code: EDIDP
+  deprecated: 'false'
+  key: EDIDP
+  label_en: European Defence Industrial Development Programme
+  label_it: Programma europeo di sviluppo del settore industriale della difesa
+  url: http://publications.europa.eu/resource/authority/eu-programme/EDIDP
+  valid_from: '2019-01-01'
+- country_code: EERP
+  deprecated: 'true'
+  key: EERP
+  label_en: Energy projects to aid economic recovery (EERP)
+  label_it: Progetti energetici per sostenere la ripresa economica
+  url: http://publications.europa.eu/resource/authority/eu-programme/EERP
+  valid_from: '2009-01-01'
+  valid_until: '2013-12-31'
+- country_code: EFSD
+  deprecated: 'false'
+  key: EFSD
+  label_en: European Fund for Sustainable Development (EFSD)
+  label_it: Fondo europeo per lo sviluppo sostenibile (EFSD)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EFSD
+  valid_from: '2017-01-01'
+- country_code: EFSI
+  deprecated: 'false'
+  key: EFSI
+  label_en: European Fund for Strategic Investments (EFSI)
+  label_it: Fondo europeo per gli investimenti strategici (FEIS)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EFSI
+  valid_from: '2015-01-01'
+- country_code: EGF2020
+  deprecated: 'false'
+  key: EGF2020
+  label_en: European Globalisation Adjustment Fund (EGF)
+  label_it: Fondo europeo di adeguamento alla globalizzazione (FEG)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EGF2020
+  valid_from: '2014-01-01'
+- country_code: EGF_2021
+  deprecated: 'false'
+  key: EGF_2021
+  label_en: European Globalisation Adjustment Fund (EGF)
+  label_it: Fondo europeo di adeguamento alla globalizzazione (FEG)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EGF_2021
+  valid_from: '2021-01-01'
+- country_code: EIDHR2020
+  deprecated: 'false'
+  key: EIDHR2020
+  label_en: European Instrument for Democracy and Human Rights (EIDHR)
+  label_it: Strumento europeo per la democrazia e i diritti umani (EIDHR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EIDHR2020
+  valid_from: '2014-01-01'
+- country_code: EINS
+  deprecated: 'false'
+  key: EINS
+  label_en: European Instrument for Nuclear Safety (EINS)
+  label_it: Strumento europeo per la sicurezza nucleare (EINS)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EINS
+  valid_from: '2021-01-01'
+- country_code: EMFAF
+  deprecated: 'false'
+  key: EMFAF
+  label_en: European Maritime, Fisheries and Aquaculture Fund (EMFAF)
+  label_it: "Fondo europeo per gli affari marittimi, la pesca e l\u2019acquacoltura\
+    \ (FEAMPA)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EMFAF
+  valid_from: '2021-01-01'
+- country_code: EMFF2020
+  deprecated: 'false'
+  key: EMFF2020
+  label_en: European Maritime and Fisheries Fund (EMFF)
+  label_it: Fondo europeo per gli affari marittimi e la pesca (FEAMP)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EMFF2020
+  valid_from: '2014-01-01'
+- country_code: EMFF_2021
+  deprecated: 'false'
+  key: EMFF_2021
+  label_en: European Maritime and Fisheries Fund (EMFF)
+  label_it: Fondo europeo per gli affari marittimi e la pesca (FEAMP)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EMFF_2021
+  valid_from: '2021-01-01'
+- country_code: ENI
+  deprecated: 'false'
+  key: ENI
+  label_en: European Neighbourhood Instrument (ENI)
+  label_it: Strumento europeo di vicinato (ENI)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ENI
+  valid_from: '2014-01-01'
+- country_code: EPF
+  deprecated: 'false'
+  key: EPF
+  label_en: European Peace Facility
+  label_it: Strumento europeo per la pace
+  url: http://publications.europa.eu/resource/authority/eu-programme/EPF
+  valid_from: '2021-01-01'
+- country_code: ERASMUS_PLUS
+  deprecated: 'false'
+  key: ERASMUS_PLUS
+  label_en: Erasmus+
+  label_it: Erasmus+
+  url: http://publications.europa.eu/resource/authority/eu-programme/ERASMUS_PLUS
+  valid_from: '2021-01-01'
+- country_code: ERDF
+  deprecated: 'false'
+  key: ERDF
+  label_en: European Regional Development Fund (ERDF)
+  label_it: Fondo europeo di sviluppo regionale (FESR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ERDF
+  valid_from: '2014-01-01'
+- country_code: ERDF_2021
+  deprecated: 'false'
+  key: ERDF_2021
+  label_en: European Regional Development Fund (ERDF)
+  label_it: Fondo europeo di sviluppo regionale (FESR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ERDF_2021
+  valid_from: '2021-01-01'
+- country_code: ESC
+  deprecated: 'false'
+  key: ESC
+  label_en: European Solidarity Corps (ESC)
+  label_it: "Corpo europeo di solidariet\xE0 (ESC)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESC
+  valid_from: '2018-01-01'
+- country_code: ESC_2021
+  deprecated: 'false'
+  key: ESC_2021
+  label_en: European Solidarity Corps (ESC)
+  label_it: "Corpo europeo di solidariet\xE0 (ESC)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESC_2021
+  valid_from: '2021-01-01'
+- country_code: ESF
+  deprecated: 'false'
+  key: ESF
+  label_en: European Social Fund (ESF)
+  label_it: Fondo sociale europeo (FSE)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESF
+  valid_from: '2014-01-01'
+- country_code: ESF_PLUS
+  deprecated: 'false'
+  key: ESF_PLUS
+  label_en: European Social Fund Plus (ESF+)
+  label_it: Fondo sociale europeo Plus (FSE+)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESF_PLUS
+  valid_from: '2021-01-01'
+- country_code: ESI_2021
+  deprecated: 'false'
+  key: ESI_2021
+  label_en: Instrument for emergency support within the Union (ESI)
+  label_it: "Strumento per il sostegno di emergenza all\u2019interno dell\u2019Unione\
+    \ (ESI)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESI_2021
+  valid_from: '2021-01-01'
+- country_code: ESP2017
+  deprecated: 'false'
+  key: ESP2017
+  label_en: European statistical programme (ESP)
+  label_it: Programma statistico europeo
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESP2017
+  valid_from: '2013-01-01'
+- country_code: ESP2020
+  deprecated: 'false'
+  key: ESP2020
+  label_en: European statistical programme (ESP)
+  label_it: Programma statistico europeo
+  url: http://publications.europa.eu/resource/authority/eu-programme/ESP2020
+  valid_from: '2013-01-01'
+- country_code: EU4HEALTH
+  deprecated: 'false'
+  key: EU4HEALTH
+  label_en: EU4Health Programme
+  label_it: "Programma \xABUE per la salute\xBB"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EU4HEALTH
+  valid_from: '2021-01-01'
+- country_code: EUAV
+  deprecated: 'false'
+  key: EUAV
+  label_en: EU Aid Volunteers initiative (EUAV)
+  label_it: "Iniziativa Volontari dell\u2019Unione per l\u2019aiuto umanitario (VUAU)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EUAV
+  valid_from: '2014-01-01'
+- country_code: EURATOM
+  deprecated: 'false'
+  key: EURATOM
+  label_en: Euratom research and training programme
+  label_it: Programma Euratom di ricerca e formazione
+  url: http://publications.europa.eu/resource/authority/eu-programme/EURATOM
+  valid_from: '2014-01-01'
+- country_code: EURATOM_07_13
+  deprecated: 'false'
+  key: EURATOM_07_13
+  label_en: "Euratom Research and Training Programme (2007\u20132013)"
+  label_it: Programma Euratom di ricerca e formazione (2007-2013)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EURATOM_07_13
+  valid_from: '2007-01-01'
+- country_code: EURATOM_19_20
+  deprecated: 'false'
+  key: EURATOM_19_20
+  label_en: "Euratom Research and Training Programme (2019\u20132020)"
+  label_it: Programma Euratom di ricerca e formazione (2019-2020)
+  url: http://publications.europa.eu/resource/authority/eu-programme/EURATOM_19_20
+  valid_from: '2019-01-01'
+- country_code: EURATOM_21_27
+  deprecated: 'false'
+  key: EURATOM_21_27
+  label_en: Euratom Research and Training Programme
+  label_it: Programma Euratom di ricerca e formazione
+  url: http://publications.europa.eu/resource/authority/eu-programme/EURATOM_21_27
+  valid_from: '2021-01-01'
+- country_code: EURI
+  deprecated: 'false'
+  key: EURI
+  label_en: European Union Recovery Instrument (EURI)
+  label_it: "Strumento dell\u2019Unione europea per la ripresa (EURI)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EURI
+  valid_from: '2021-01-01'
+- country_code: EURODAC2020
+  deprecated: 'false'
+  key: EURODAC2020
+  label_en: Comparison of fingerprints for the effective application of the Dublin
+    Convention (EURODAC)
+  label_it: "Confronto delle impronte digitali per l\u2019efficace applicazione della\
+    \ convenzione di Dublino (Eurodac)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EURODAC2020
+  valid_from: '2014-01-01'
+- country_code: EUSF2020
+  deprecated: 'false'
+  key: EUSF2020
+  label_en: European Union Solidarity Fund (EUSF)
+  label_it: "Fondo di solidariet\xE0 dell\u2019Unione europea (FSUE)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EUSF2020
+  valid_from: '2014-01-01'
+- country_code: EUSF_2021
+  deprecated: 'false'
+  key: EUSF_2021
+  label_en: European Union Solidarity Fund (EUSF)
+  label_it: "Fondo di solidariet\xE0 dell\u2019Unione europea (FSUE)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EUSF_2021
+  valid_from: '2021-01-01'
+- country_code: EUSF_H3
+  deprecated: 'false'
+  key: EUSF_H3
+  label_en: "European Union Solidarity Fund (EUSF) \u2014 Member States"
+  label_it: "Fondo di solidariet\xE0 dell\u2019Unione europea (FSUE) \u2014 Stati\
+    \ membri"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EUSF_H3
+  valid_from: '2014-01-01'
+- country_code: EUSF_H4
+  deprecated: 'false'
+  key: EUSF_H4
+  label_en: "European Union Solidarity Fund (EUSF) \u2014 Countries negotiating for\
+    \ accession"
+  label_it: "Fondo di solidariet\xE0 dell\u2019Unione europea (FSUE) \u2014 Stati\
+    \ in fase di negoziato d\u2019adesione"
+  url: http://publications.europa.eu/resource/authority/eu-programme/EUSF_H4
+  valid_from: '2014-01-01'
+- country_code: FEAD
+  deprecated: 'false'
+  key: FEAD
+  label_en: Fund for European Aid to the Most Deprived (FEAD)
+  label_it: Fondo di aiuti europei agli indigenti (FEAD)
+  url: http://publications.europa.eu/resource/authority/eu-programme/FEAD
+  valid_from: '2014-01-01'
+- country_code: FF2020
+  deprecated: 'false'
+  key: FF2020
+  label_en: Food and feed
+  label_it: Alimenti e mangimi
+  url: http://publications.europa.eu/resource/authority/eu-programme/FF2020
+  valid_from: '2014-01-01'
+- country_code: FINSER2020
+  deprecated: 'false'
+  key: FINSER2020
+  label_en: Specific activities in the field of financial reporting and auditing
+  label_it: "Attivit\xE0 specifiche nel campo delle relazioni finanziarie e della\
+    \ revisione dei conti"
+  url: http://publications.europa.eu/resource/authority/eu-programme/FINSER2020
+  valid_from: '2014-01-01'
+- country_code: FISC2020
+  deprecated: 'false'
+  key: FISC2020
+  label_en: Action programme for taxation in the European Union (Fiscalis 2020)
+  label_it: "Programma d\u2019azione per l\u2019imposizione fiscale nell\u2019Unione\
+    \ europea (Fiscalis 2020)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/FISC2020
+  valid_from: '2014-01-01'
+- country_code: FISCALIS
+  deprecated: 'false'
+  key: FISCALIS
+  label_en: Cooperation in the field of taxation (FISCALIS)
+  label_it: Cooperazione nel settore fiscale (FISCALIS)
+  url: http://publications.europa.eu/resource/authority/eu-programme/FISCALIS
+  valid_from: '2021-01-01'
+- country_code: FP6
+  deprecated: 'false'
+  key: FP6
+  label_en: Sixth Framework Programme for Research and Innovation
+  label_it: Sesto programma quadro di ricerca e innovazione
+  url: http://publications.europa.eu/resource/authority/eu-programme/FP6
+  valid_from: '2001-01-01'
+- country_code: FP7
+  deprecated: 'false'
+  key: FP7
+  label_en: Seventh Framework Programme for Research and Innovation
+  label_it: Settimo programma quadro di ricerca e innovazione
+  url: http://publications.europa.eu/resource/authority/eu-programme/FP7
+  valid_from: '2007-01-01'
+- country_code: GAL2014
+  deprecated: 'false'
+  key: GAL2014
+  label_en: Implementation and exploitation of European satellite navigation systems
+    (EGNOS and Galileo)
+  label_it: Realizzazione e funzionamento dei sistemi europei di navigazione satellitare
+    (EGNOS e Galileo)
+  url: http://publications.europa.eu/resource/authority/eu-programme/GAL2014
+  valid_from: '2014-01-01'
+- country_code: GRLD2020
+  deprecated: 'false'
+  key: GRLD2020
+  label_en: EU cooperation with Greenland
+  label_it: "Cooperazione dell\u2019UE con la Groenlandia"
+  url: http://publications.europa.eu/resource/authority/eu-programme/GRLD2020
+  valid_from: '2014-01-01'
+- country_code: H2020
+  deprecated: 'false'
+  key: H2020
+  label_en: The framework programme for research and innovation (Horizon 2020)
+  label_it: "Programma quadro per la ricerca e l\u2019innovazione (Orizzonte 2020)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/H2020
+  valid_from: '2014-01-01'
+- country_code: HEALTH
+  deprecated: 'false'
+  key: HEALTH
+  label_en: Union's action in the field of health (Health programme)
+  label_it: Azione unionale nel campo della salute (programma sulla salute)
+  url: http://publications.europa.eu/resource/authority/eu-programme/HEALTH
+  valid_from: '2014-01-01'
+- country_code: HERC3
+  deprecated: 'false'
+  key: HERC3
+  label_en: Programme to promote activities in the field of the protection of the
+    European Union's financial interests (Hercule III)
+  label_it: "Programma per la promozione di azioni nel settore della tutela degli\
+    \ interessi finanziari dell\u2019Unione europea (Hercule III)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/HERC3
+  valid_from: '2014-01-01'
+- country_code: HFR2015
+  deprecated: 'false'
+  key: HFR2015
+  label_en: Supplementary high flux reactor (HFR) programmes
+  label_it: Programmi supplementari sul reattore comunitario ad alto flusso (HFR)
+  url: http://publications.europa.eu/resource/authority/eu-programme/HFR2015
+  valid_from: '2012-01-01'
+- country_code: HFR_09_11
+  deprecated: 'false'
+  key: HFR_09_11
+  label_en: Supplementary High Flux Reactor (HFR) programmes
+  url: http://publications.europa.eu/resource/authority/eu-programme/HFR_09_11
+  valid_from: '2009-01-01'
+- country_code: HFR_16_19
+  deprecated: 'false'
+  key: HFR_16_19
+  label_en: "Supplementary High Flux Reactor (HFR) programmes (2016\u2013209)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/HFR_16_19
+  valid_from: '2016-01-01'
+- country_code: HFR_20_23
+  deprecated: 'false'
+  key: HFR_20_23
+  label_en: "Supplementary High Flux Reactor (HFR) programmes (2020\u20132023)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/HFR_20_23
+  valid_from: '2020-01-01'
+- country_code: HORIZONEU
+  deprecated: 'false'
+  key: HORIZONEU
+  label_en: "Horizon Europe \u2013 the Framework Programme for Research and Innovation"
+  label_it: "Orizzonte Europa \u2013 il programma quadro di ricerca e innovazione"
+  url: http://publications.europa.eu/resource/authority/eu-programme/HORIZONEU
+  valid_from: '2021-01-01'
+- country_code: HUMA2020
+  deprecated: 'false'
+  key: HUMA2020
+  label_en: Humanitarian aid
+  label_it: Aiuti umanitari
+  url: http://publications.europa.eu/resource/authority/eu-programme/HUMA2020
+  valid_from: '2014-01-01'
+- country_code: HUMA_2021
+  deprecated: 'false'
+  key: HUMA_2021
+  label_en: Humanitarian Aid (HUMA)
+  label_it: Aiuti umanitari (HUMA)
+  url: http://publications.europa.eu/resource/authority/eu-programme/HUMA_2021
+  valid_from: '2021-01-01'
+- country_code: ICFS
+  deprecated: 'false'
+  key: ICFS
+  label_en: Enhancing consumers involvement in EU policy making in the field of financial
+    services
+  label_it: "Rafforzare il coinvolgimento dei consumatori nella definizione delle\
+    \ politiche dell\u2019Unione nel settore dei servizi finanziari"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ICFS
+  valid_from: '2017-01-01'
+- country_code: IES
+  deprecated: 'false'
+  key: IES
+  label_en: Instrument for emergency support within the Union
+  label_it: "Strumento per il sostegno di emergenza all\u2019interno dell\u2019Unione"
+  url: http://publications.europa.eu/resource/authority/eu-programme/IES
+  valid_from: '2016-01-01'
+- country_code: IF
+  deprecated: 'false'
+  key: IF
+  label_en: Innovation Fund (IF))
+  label_it: "Fondo per l\u2019innovazione (IF)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/IF
+  valid_from: '2021-01-01'
+- country_code: IFS2020
+  deprecated: 'false'
+  key: IFS2020
+  label_en: Instrument contributing to Stability and Peace (IcSP)
+  label_it: "Strumento inteso a contribuire alla stabilit\xE0 e alla pace"
+  url: http://publications.europa.eu/resource/authority/eu-programme/IFS2020
+  valid_from: '2014-01-01'
+- country_code: INSC2020
+  deprecated: 'false'
+  key: INSC2020
+  label_en: Instrument for Nuclear Safety Cooperation (INSC)
+  label_it: Strumento per la cooperazione in materia di sicurezza nucleare (INSC)
+  url: http://publications.europa.eu/resource/authority/eu-programme/INSC2020
+  valid_from: '2014-01-01'
+- country_code: INVESTEU
+  deprecated: 'false'
+  key: INVESTEU
+  label_en: InvestEU Programme
+  label_it: Programma InvestEU
+  url: http://publications.europa.eu/resource/authority/eu-programme/INVESTEU
+  valid_from: '2021-01-01'
+- country_code: IPA2
+  deprecated: 'false'
+  key: IPA2
+  label_en: Instrument for Pre-accession Assistance (IPA II)
+  label_it: Strumento di assistenza pre-adesione (IPA II)
+  url: http://publications.europa.eu/resource/authority/eu-programme/IPA2
+  valid_from: '2014-01-01'
+- country_code: IPAIII
+  deprecated: 'false'
+  key: IPAIII
+  label_en: Instrument for Pre-accession assistance (IPA III)
+  label_it: "Strumento per l\u2019assistenza preadesione (IPA III)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/IPAIII
+  valid_from: '2021-01-01'
+- country_code: ISA2015
+  deprecated: 'false'
+  key: ISA2015
+  label_en: Interoperability Solutions for European Public Administrations (ISA)
+  label_it: "Soluzioni di interoperabilit\xE0 per le pubbliche amministrazioni europee\
+    \ (ISA)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ISA2015
+  valid_from: '2010-01-01'
+- country_code: ISA2020
+  deprecated: 'false'
+  key: ISA2020
+  label_en: Interoperability Solutions for European public administrations, businesses
+    and citizens (ISA2)
+  label_it: "Soluzioni di interoperabilit\xE0 per le pubbliche amministrazioni europee,\
+    \ le imprese e i cittadini (ISA2)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/ISA2020
+  valid_from: '2016-01-01'
+- country_code: ISF
+  deprecated: 'false'
+  key: ISF
+  label_en: Internal Security Fund (ISF)
+  label_it: Fondo Scurezza interna
+  url: http://publications.europa.eu/resource/authority/eu-programme/ISF
+  valid_from: '2014-01-01'
+- country_code: ISF_2021
+  deprecated: 'false'
+  key: ISF_2021
+  label_en: Internal Security Fund (ISF)
+  label_it: Fondo sicurezza interna
+  url: http://publications.europa.eu/resource/authority/eu-programme/ISF_2021
+  valid_from: '2021-01-01'
+- country_code: ITER
+  deprecated: 'false'
+  key: ITER
+  label_en: International thermonuclear experimental reactor (ITER)
+  label_it: Reattore termonucleare sperimentale internazionale (ITER)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ITER
+  valid_from: '2014-01-01'
+- country_code: ITER_19_20
+  deprecated: 'false'
+  key: ITER_19_20
+  label_en: International Thermonuclear Experimental Reactor (ITER)
+  label_it: Reattore termonucleare sperimentale internazionale (ITER)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ITER_19_20
+  valid_from: '2019-01-01'
+- country_code: ITER_2021
+  deprecated: 'false'
+  key: ITER_2021
+  label_en: International Thermonuclear Experimental Reactor (ITER)
+  label_it: Reattore termonucleare sperimentale internazionale (ITER)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ITER_2021
+  valid_from: '2021-01-01'
+- country_code: JTF
+  deprecated: 'false'
+  key: JTF
+  label_en: Just Transition Fund
+  label_it: Fondo per una transizione giusta
+  url: http://publications.europa.eu/resource/authority/eu-programme/JTF
+  valid_from: '2021-01-01'
+- country_code: JUST
+  deprecated: 'false'
+  key: JUST
+  label_en: Justice programme
+  label_it: "Programma \xABGiustizia\xBB"
+  url: http://publications.europa.eu/resource/authority/eu-programme/JUST
+  valid_from: '2014-01-01'
+- country_code: JUSTICE
+  deprecated: 'false'
+  key: JUSTICE
+  label_en: Justice Programme
+  label_it: Programma Giustizia
+  url: http://publications.europa.eu/resource/authority/eu-programme/JUSTICE
+  valid_from: '2021-01-01'
+- country_code: LIFE2020
+  deprecated: 'false'
+  key: LIFE2020
+  label_en: Programme for the Environment and Climate Action (LIFE)
+  label_it: "Programma per l\u2019ambiente e azione per il clima (LIFE)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/LIFE2020
+  valid_from: '2014-01-01'
+- country_code: LIFE_2021
+  deprecated: 'false'
+  key: LIFE_2021
+  label_en: Programme for the Environment and Climate Action (LIFE)
+  label_it: "Programma per l\u2019ambiente e azione per il clima (LIFE)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/LIFE_2021
+  valid_from: '2021-01-01'
+- country_code: LOAN2020
+  deprecated: 'false'
+  key: LOAN2020
+  label_en: Guarantee Fund for external actions
+  label_it: Fondo di garanzia per le azioni esterne
+  url: http://publications.europa.eu/resource/authority/eu-programme/LOAN2020
+  valid_from: '2014-01-01'
+- country_code: MFA
+  deprecated: 'false'
+  key: MFA
+  label_en: Macro financial assistance (MFA)
+  label_it: Assistenza macrofinanziaria
+  url: http://publications.europa.eu/resource/authority/eu-programme/MFA
+  valid_from: '2014-01-01'
+- country_code: MM_2021
+  deprecated: 'false'
+  key: MM_2021
+  label_en: Military mobility
+  label_it: "Mobilit\xE0 militare"
+  url: http://publications.europa.eu/resource/authority/eu-programme/MM_2021
+  valid_from: '2021-01-01'
+- country_code: ND
+  deprecated: 'false'
+  key: ND
+  label_en: Nuclear decommissioning assistance programmes in Bulgaria, Lithuania and
+    Slovakia
+  label_it: Programmi di assistenza alla disattivazione nucleare in Bulgaria, Lituania
+    e Slovacchia
+  url: http://publications.europa.eu/resource/authority/eu-programme/ND
+  valid_from: '2014-01-01'
+- country_code: NDICI
+  deprecated: 'false'
+  key: NDICI
+  label_en: Neighbourhood, Development and International Cooperation Instrument (NDICI)
+  label_it: Strumento di vicinato, cooperazione allo sviluppo e cooperazione internazionale
+    (NDICI)
+  url: http://publications.europa.eu/resource/authority/eu-programme/NDICI
+  valid_from: '2021-01-01'
+- country_code: ND_LITH
+  deprecated: 'false'
+  key: ND_LITH
+  label_en: Nuclear decommissioning assistance programmes (Lithuania)
+  label_it: Disattivazione nucleare (Lituania)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ND_LITH
+  valid_from: '2021-01-01'
+- country_code: ND_OTHER
+  deprecated: 'false'
+  key: ND_OTHER
+  label_en: Nuclear Safety and decommissioning (incl. for Bulgaria and Slovakia)
+  label_it: Sicurezza nucleare e disattivazione (anche per Bulgaria e Slovacchia)
+  url: http://publications.europa.eu/resource/authority/eu-programme/ND_OTHER
+  valid_from: '2021-01-01'
+- country_code: OCT
+  deprecated: 'false'
+  key: OCT
+  label_en: Overseas Countries and Territories (OCT) (including Greenland)
+  label_it: "Paesi e territori d\u2019oltremare (PTOM) (compresa la Groenlandia)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/OCT
+  valid_from: '2021-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/eu-programme/OP_DATPRO
+- country_code: OUTREG
+  deprecated: 'false'
+  key: OUTREG
+  label_en: Outermost and sparsely populated regions
+  label_it: Regioni ultraperiferiche e scarsamente popolate
+  url: http://publications.europa.eu/resource/authority/eu-programme/OUTREG
+  valid_from: '2014-01-01'
+- country_code: PERI2020
+  deprecated: 'false'
+  key: PERI2020
+  label_en: Exchange, assistance and training programme for the protection of the
+    euro against counterfeiting (Pericles 2020)
+  label_it: "Programma di scambi, assistenza e formazione per la protezione dell\u2019\
+    euro contro la falsificazione (Pericles 2020)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/PERI2020
+  valid_from: '2014-01-01'
+- country_code: PERICLES
+  deprecated: 'false'
+  key: PERICLES
+  label_en: "Protection of the euro against counterfeiting (the \u2018Pericles IV\
+    \ programme\u2019)"
+  label_it: "Protezione dell\u2019euro contro la contraffazione monetaria (\xABprogramma\
+    \ Pericle IV\xBB)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/PERICLES
+  valid_from: '2021-01-01'
+- country_code: PI
+  deprecated: 'false'
+  key: PI
+  label_en: Partnership instrument for cooperation with third countries (PI)
+  label_it: Strumento di partenariato per la cooperazione con i paesi terzi
+  url: http://publications.europa.eu/resource/authority/eu-programme/PI
+  valid_from: '2014-01-01'
+- country_code: PSCI
+  deprecated: 'false'
+  key: PSCI
+  label_en: European Union programme for employment and social innovation (EaSI)
+  label_it: "Programma dell\u2019Unione europea per l\u2019occupazione e l\u2019innovazione\
+    \ sociale (EaSI)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/PSCI
+  valid_from: '2014-01-01'
+- country_code: PSLF_JTM2021
+  deprecated: 'false'
+  key: PSLF_JTM2021
+  label_en: Public sector loan facility under the Just Transition Mechanism (JTM)
+  label_it: Strumento di prestito per il settore pubblico nel quadro del meccanismo
+    per una transizione giusta
+  url: http://publications.europa.eu/resource/authority/eu-programme/PSLF_JTM2021
+  valid_from: '2021-01-01'
+- country_code: REGCONV
+  deprecated: 'false'
+  key: REGCONV
+  label_en: Regional convergence (less developed regions)
+  label_it: Convergenza regionale (regioni meno sviluppate)
+  url: http://publications.europa.eu/resource/authority/eu-programme/REGCONV
+  valid_from: '2014-01-01'
+- country_code: RESCEU
+  deprecated: 'false'
+  key: RESCEU
+  label_en: Union Civil Protection Mechanism (rescEU)
+  label_it: "Meccanismo di protezione civile dell\u2019Unione (rescEU)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/RESCEU
+  valid_from: '2021-01-01'
+- country_code: RFMOs
+  deprecated: 'false'
+  key: RFMOs
+  label_en: Compulsory contributions to regional fisheries management organisations
+    (RFMOs) and to other international organisations
+  label_it: Contributi obbligatori delle organizzazioni regionali di gestione della
+    pesca (ORGP) e di altre organizzazioni internazionali
+  url: http://publications.europa.eu/resource/authority/eu-programme/RFMOs
+  valid_from: '2014-01-01'
+- country_code: RIGHTS_2021
+  deprecated: 'false'
+  key: RIGHTS_2021
+  label_en: Rights and Values Programme
+  label_it: Programma Diritti e valori
+  url: http://publications.europa.eu/resource/authority/eu-programme/RIGHTS_2021
+  valid_from: '2021-01-01'
+- country_code: RRF
+  deprecated: 'false'
+  key: RRF
+  label_en: European Recovery and Resilience Facility (incl. Technical Support Instrument)
+  label_it: Dispositivo europeo per la ripresa e la resilienza (compreso lo strumento
+    di assistenza tecnica)
+  url: http://publications.europa.eu/resource/authority/eu-programme/RRF
+  valid_from: '2021-01-01'
+- country_code: SEAR_2021
+  deprecated: 'false'
+  key: SEAR_2021
+  label_en: Solidarity and Emergency Aid Reserve (SEAR)
+  label_it: "Riserva di solidariet\xE0 e per gli aiuti d\u2019urgenza"
+  url: http://publications.europa.eu/resource/authority/eu-programme/SEAR_2021
+  valid_from: '2021-01-01'
+- country_code: SFAs
+  deprecated: 'false'
+  key: SFAs
+  label_en: Sustainable Fisheries Partnership Agreements (SFPAs)
+  label_it: Accordi di partenariato nel settore della pesca sostenibile (APPS)
+  url: http://publications.europa.eu/resource/authority/eu-programme/SFAs
+  valid_from: '2014-01-01'
+- country_code: SINGLEMKT
+  deprecated: 'false'
+  key: SINGLEMKT
+  label_en: Single Market Programme, including COSME, ISA2, ESP, consumer involvement
+    in fin. Services, financial reporting, Health, Food and Feed, consumer programme
+  label_it: Programma per il mercato unico, comprendente COSME, ISA2, ESP, coinvolgimento
+    dei consumatori nei servizi finanziari, informativa finanziaria, salute, alimenti
+    e mangimi, programma Consumatori
+  url: http://publications.europa.eu/resource/authority/eu-programme/SINGLEMKT
+  valid_from: '2021-01-01'
+- country_code: SIS2020
+  deprecated: 'false'
+  key: SIS2020
+  label_en: Schengen Information System (SIS)
+  label_it: "Sistema d\u2019informazione Schengen (SIS)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/SIS2020
+  valid_from: '2014-01-01'
+- country_code: SPACE
+  deprecated: 'false'
+  key: SPACE
+  label_en: European Space Programme
+  label_it: Programma spaziale europeo
+  url: http://publications.europa.eu/resource/authority/eu-programme/SPACE
+  valid_from: '2021-01-01'
+- country_code: TA_IA
+  deprecated: 'false'
+  key: TA_IA
+  label_en: Technical assistance and innovative actions
+  label_it: Assistenza tecnica e azioni innovative
+  url: http://publications.europa.eu/resource/authority/eu-programme/TA_IA
+  valid_from: '2014-01-01'
+- country_code: TCC
+  deprecated: 'false'
+  key: TCC
+  label_en: Instrument of financial support for encouraging the economic development
+    of the Turkish Cypriot community (TCC)
+  label_it: "Strumento di sostegno finanziario per promuovere lo sviluppo economico\
+    \ della comunit\xE0 turco-cipriota"
+  url: http://publications.europa.eu/resource/authority/eu-programme/TCC
+  valid_from: '2014-01-01'
+- country_code: TCC_2021
+  deprecated: 'false'
+  key: TCC_2021
+  label_en: Support to the Turkish Cypriot Community
+  label_it: "Sostegno alla comunit\xE0 turco-cipriota"
+  url: http://publications.europa.eu/resource/authority/eu-programme/TCC_2021
+  valid_from: '2021-01-01'
+- country_code: TERRCOOP
+  deprecated: 'false'
+  key: TERRCOOP
+  label_en: European territorial cooperation
+  label_it: Cooperazione territoriale europea
+  url: http://publications.europa.eu/resource/authority/eu-programme/TERRCOOP
+  valid_from: '2014-01-01'
+- country_code: TRANSREG
+  deprecated: 'false'
+  key: TRANSREG
+  label_en: Transition regions
+  label_it: Regioni in transizione
+  url: http://publications.europa.eu/resource/authority/eu-programme/TRANSREG
+  valid_from: '2014-01-01'
+- country_code: VIS2020
+  deprecated: 'false'
+  key: VIS2020
+  label_en: Visa Information System (VIS)
+  label_it: Sistema di informazione sui visti (VIS)
+  url: http://publications.europa.eu/resource/authority/eu-programme/VIS2020
+  valid_from: '2014-01-01'
+- country_code: YEI
+  deprecated: 'false'
+  key: YEI
+  label_en: Youth employment initiative (specific top-up allocation)
+  label_it: "Iniziativa a favore dell\u2019occupazione giovanile (dotazione complementare\
+    \ specifica)"
+  url: http://publications.europa.eu/resource/authority/eu-programme/YEI
+  valid_from: '2014-01-01'

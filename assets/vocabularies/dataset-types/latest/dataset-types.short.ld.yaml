@@ -1,0 +1,174 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: APROF
+  deprecated: 'false'
+  key: APROF
+  label_en: Application profile
+  label_it: Profilo applicazione
+  url: http://publications.europa.eu/resource/authority/dataset-type/APROF
+  valid_from: '2017-10-30'
+- country_code: ATTO_LEX
+  deprecated: 'false'
+  key: ATTO_LEX
+  label_en: "ATTO table \u2013 EUR-Lex domain"
+  label_it: "Tabella ATTO \u2013 dominio EUR-Lex"
+  url: http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX
+  valid_from: '2017-10-30'
+- country_code: ATTO_PUB
+  deprecated: 'false'
+  key: ATTO_PUB
+  label_en: "ATTO table \u2013 Publications domain"
+  label_it: "Tabella ATTO \u2013 dominio Pubblicazioni"
+  url: http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB
+  valid_from: '2017-10-30'
+- country_code: CODE_LIST
+  deprecated: 'false'
+  key: CODE_LIST
+  label_en: Code list
+  label_it: Elenco dei codici
+  url: http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST
+  valid_from: '2013-01-01'
+- country_code: CORE_COMP
+  deprecated: 'false'
+  key: CORE_COMP
+  label_en: Core component
+  label_it: Componente centrale
+  url: http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP
+  valid_from: '2013-01-01'
+- country_code: DOMAIN_MODEL
+  deprecated: 'false'
+  key: DOMAIN_MODEL
+  label_en: Domain model
+  label_it: Modello di dominio
+  url: http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL
+  valid_from: '2013-01-01'
+- country_code: DSCRP_SERV
+  deprecated: 'false'
+  key: DSCRP_SERV
+  label_en: Service description
+  label_it: Descrizione del servizio
+  url: http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV
+  valid_from: '2013-01-01'
+- country_code: GEOSPATIAL
+  deprecated: 'false'
+  key: GEOSPATIAL
+  label_en: Geospatial data
+  label_it: Dati geospaziali
+  url: http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL
+  valid_from: '2019-01-30'
+- country_code: GLOSSARY
+  deprecated: 'false'
+  key: GLOSSARY
+  label_en: Glossary
+  label_it: Glossario
+  url: http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY
+  valid_from: '2020-11-25'
+- country_code: IEPD
+  deprecated: 'false'
+  key: IEPD
+  label_en: Information exchange package description
+  label_it: "Descrizione del pacchetto \xABscambio di informazioni\xBB"
+  url: http://publications.europa.eu/resource/authority/dataset-type/IEPD
+  valid_from: '2013-01-01'
+- country_code: MAPPING
+  deprecated: 'false'
+  key: MAPPING
+  label_en: Mapping
+  label_it: Mappatura
+  url: http://publications.europa.eu/resource/authority/dataset-type/MAPPING
+  valid_from: '2013-01-01'
+- country_code: NAL
+  deprecated: 'false'
+  key: NAL
+  label_en: Name authority list
+  label_it: Elenco dei nomi autorizzati
+  url: http://publications.europa.eu/resource/authority/dataset-type/NAL
+  valid_from: '2013-01-01'
+- country_code: ONTOLOGY
+  deprecated: 'false'
+  key: ONTOLOGY
+  label_en: Ontology
+  label_it: Ontologia
+  url: http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY
+  valid_from: '2013-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO
+- country_code: SCHEMA
+  deprecated: 'false'
+  key: SCHEMA
+  label_en: Schema
+  label_it: Schema
+  url: http://publications.europa.eu/resource/authority/dataset-type/SCHEMA
+  valid_from: '2013-01-01'
+- country_code: STATISTICAL
+  deprecated: 'false'
+  key: STATISTICAL
+  label_en: Statistical data
+  label_it: Dati statistici
+  url: http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL
+  valid_from: '2013-01-01'
+- country_code: STYLES
+  deprecated: 'false'
+  key: STYLES
+  label_en: Style sheets
+  label_it: Fogli di stile
+  url: http://publications.europa.eu/resource/authority/dataset-type/STYLES
+  valid_from: '2017-10-30'
+- country_code: SYNTAX_ECD_SCHEME
+  deprecated: 'false'
+  key: SYNTAX_ECD_SCHEME
+  label_en: Syntax encoding scheme
+  label_it: Sistema di codifica basato sulla sintassi
+  url: http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME
+  valid_from: '2013-01-01'
+- country_code: SYNTHETIC_DATA
+  deprecated: 'false'
+  key: SYNTHETIC_DATA
+  label_en: Synthetic data
+  label_it: Dati sintetici
+  url: http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA
+  valid_from: '2020-05-19'
+- country_code: TAXONOMY
+  deprecated: 'false'
+  key: TAXONOMY
+  label_en: Taxonomy
+  label_it: Tassonomia
+  url: http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY
+  valid_from: '2013-01-01'
+- country_code: TEST_DATA
+  deprecated: 'false'
+  key: TEST_DATA
+  label_en: Test data
+  label_it: Dati di prova
+  url: http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA
+  valid_from: '2020-05-19'
+- country_code: THESAURUS
+  deprecated: 'false'
+  key: THESAURUS
+  label_en: Thesaurus
+  label_it: Tesauro
+  url: http://publications.europa.eu/resource/authority/dataset-type/THESAURUS
+  valid_from: '2013-01-01'

@@ -1,0 +1,213 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ARABIC
+  deprecated: 'false'
+  key: ARABIC
+  label_en: Arabic script
+  url: http://publications.europa.eu/resource/authority/script/ARABIC
+  valid_from: '2012-07-05'
+- country_code: ARMENIAN
+  deprecated: 'false'
+  key: ARMENIAN
+  label_en: Armenian script
+  url: http://publications.europa.eu/resource/authority/script/ARMENIAN
+  valid_from: '2012-07-05'
+- country_code: BENGALI
+  deprecated: 'false'
+  key: BENGALI
+  label_en: Bengali script
+  url: http://publications.europa.eu/resource/authority/script/BENGALI
+  valid_from: '2012-07-05'
+- country_code: BRAILLE
+  deprecated: 'false'
+  key: BRAILLE
+  label_en: Braille script
+  url: http://publications.europa.eu/resource/authority/script/BRAILLE
+  valid_from: '2012-07-05'
+- country_code: CYRILLIC
+  deprecated: 'false'
+  key: CYRILLIC
+  label_en: Cyrillic script
+  url: http://publications.europa.eu/resource/authority/script/CYRILLIC
+  valid_from: '2007-01-01'
+- country_code: DEVANAGARI
+  deprecated: 'false'
+  key: DEVANAGARI
+  label_en: Devanagari script
+  url: http://publications.europa.eu/resource/authority/script/DEVANAGARI
+  valid_from: '2012-07-05'
+- country_code: ETHIOPIC
+  deprecated: 'false'
+  key: ETHIOPIC
+  label_en: Ethiopic script
+  url: http://publications.europa.eu/resource/authority/script/ETHIOPIC
+  valid_from: '2012-07-05'
+- country_code: GEORGIAN
+  deprecated: 'false'
+  key: GEORGIAN
+  label_en: Georgian script
+  url: http://publications.europa.eu/resource/authority/script/GEORGIAN
+  valid_from: '2012-07-05'
+- country_code: GREEK
+  deprecated: 'false'
+  key: GREEK
+  label_en: Greek script
+  url: http://publications.europa.eu/resource/authority/script/GREEK
+  valid_from: '1981-01-01'
+- country_code: GUJARATI
+  deprecated: 'false'
+  key: GUJARATI
+  label_en: Gujarati script
+  url: http://publications.europa.eu/resource/authority/script/GUJARATI
+  valid_from: '2012-07-05'
+- country_code: GURMUKHI
+  deprecated: 'false'
+  key: GURMUKHI
+  label_en: Gurmukhi script
+  url: http://publications.europa.eu/resource/authority/script/GURMUKHI
+  valid_from: '2012-07-05'
+- country_code: HAN
+  deprecated: 'false'
+  key: HAN
+  label_en: Han script
+  url: http://publications.europa.eu/resource/authority/script/HAN
+  valid_from: '2012-07-05'
+- country_code: HANGUL
+  deprecated: 'false'
+  key: HANGUL
+  label_en: Hangul script
+  url: http://publications.europa.eu/resource/authority/script/HANGUL
+  valid_from: '2012-07-05'
+- country_code: HEBREW
+  deprecated: 'false'
+  key: HEBREW
+  label_en: Hebrew script
+  url: http://publications.europa.eu/resource/authority/script/HEBREW
+  valid_from: '2012-07-05'
+- country_code: HIRAGANA
+  deprecated: 'false'
+  key: HIRAGANA
+  label_en: Hiragana script
+  url: http://publications.europa.eu/resource/authority/script/HIRAGANA
+  valid_from: '2012-07-05'
+- country_code: KANNADA
+  deprecated: 'false'
+  key: KANNADA
+  label_en: Kannada script
+  url: http://publications.europa.eu/resource/authority/script/KANNADA
+  valid_from: '2012-07-05'
+- country_code: KATAKANA
+  deprecated: 'false'
+  key: KATAKANA
+  label_en: Katakana script
+  url: http://publications.europa.eu/resource/authority/script/KATAKANA
+  valid_from: '2012-07-05'
+- country_code: KHMER
+  deprecated: 'false'
+  key: KHMER
+  label_en: Khmer script
+  url: http://publications.europa.eu/resource/authority/script/KHMER
+  valid_from: '2012-07-05'
+- country_code: LAO
+  deprecated: 'false'
+  key: LAO
+  label_en: Lao script
+  url: http://publications.europa.eu/resource/authority/script/LAO
+  valid_from: '2012-07-05'
+- country_code: LATIN
+  deprecated: 'false'
+  key: LATIN
+  label_en: Latin script
+  url: http://publications.europa.eu/resource/authority/script/LATIN
+  valid_from: '1952-07-23'
+- country_code: MALAYALAM
+  deprecated: 'false'
+  key: MALAYALAM
+  label_en: Malayalam script
+  url: http://publications.europa.eu/resource/authority/script/MALAYALAM
+  valid_from: '2012-07-05'
+- country_code: MONGOLIAN
+  deprecated: 'false'
+  key: MONGOLIAN
+  label_en: Mongolian script
+  url: http://publications.europa.eu/resource/authority/script/MONGOLIAN
+  valid_from: '2012-07-05'
+- country_code: MYANMAR
+  deprecated: 'false'
+  key: MYANMAR
+  label_en: Myanmar script
+  url: http://publications.europa.eu/resource/authority/script/MYANMAR
+  valid_from: '2012-07-05'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/script/OP_DATPRO
+- country_code: SINHALA
+  deprecated: 'false'
+  key: SINHALA
+  label_en: Sinhala script
+  url: http://publications.europa.eu/resource/authority/script/SINHALA
+  valid_from: '2012-07-05'
+- country_code: TAGALOG
+  deprecated: 'false'
+  key: TAGALOG
+  label_en: Tagalog script
+  url: http://publications.europa.eu/resource/authority/script/TAGALOG
+  valid_from: '2012-07-05'
+- country_code: TAMIL
+  deprecated: 'false'
+  key: TAMIL
+  label_en: Tamil script
+  url: http://publications.europa.eu/resource/authority/script/TAMIL
+  valid_from: '2012-07-05'
+- country_code: TELUGU
+  deprecated: 'false'
+  key: TELUGU
+  label_en: Telugu script
+  url: http://publications.europa.eu/resource/authority/script/TELUGU
+  valid_from: '2012-07-05'
+- country_code: THAANA
+  deprecated: 'false'
+  key: THAANA
+  label_en: Thaana script
+  url: http://publications.europa.eu/resource/authority/script/THAANA
+  valid_from: '2012-07-05'
+- country_code: THAI
+  deprecated: 'false'
+  key: THAI
+  label_en: Thai script
+  url: http://publications.europa.eu/resource/authority/script/THAI
+  valid_from: '2012-07-05'
+- country_code: TIBETAN
+  deprecated: 'false'
+  key: TIBETAN
+  label_en: Tibetan script
+  url: http://publications.europa.eu/resource/authority/script/TIBETAN
+  valid_from: '2012-07-05'
+- country_code: TIFINAGH
+  deprecated: 'false'
+  key: TIFINAGH
+  label_en: Tifinagh script
+  url: http://publications.europa.eu/resource/authority/script/TIFINAGH
+  valid_from: '2012-07-05'

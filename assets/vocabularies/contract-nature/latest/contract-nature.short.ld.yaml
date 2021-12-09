@@ -1,0 +1,55 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/contract-nature/OP_DATPRO
+- country_code: combined
+  deprecated: 'false'
+  key: combined
+  label_en: Combined
+  label_it: Appalti misti
+  url: http://publications.europa.eu/resource/authority/contract-nature/combined
+  valid_from: '2021-03-17'
+- country_code: services
+  deprecated: 'false'
+  key: services
+  label_en: Services
+  label_it: Servizi
+  url: http://publications.europa.eu/resource/authority/contract-nature/services
+  valid_from: '2019-09-18'
+- country_code: supplies
+  deprecated: 'false'
+  key: supplies
+  label_en: Supplies
+  label_it: Forniture
+  url: http://publications.europa.eu/resource/authority/contract-nature/supplies
+  valid_from: '2019-09-18'
+- country_code: works
+  deprecated: 'false'
+  key: works
+  label_en: Works
+  label_it: Lavori
+  url: http://publications.europa.eu/resource/authority/contract-nature/works
+  valid_from: '2019-09-18'

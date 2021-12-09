@@ -1,0 +1,13 @@
+# Serializing assets/vocabularies/access-right/latest/access-right.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/access-right
+# title: Access right
+# version: 20210317-0
+# description: Access right
+key,url,deprecated,valid_from,country_code,label_en,label_it
+CONFIDENTIAL,http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL,false,2021-03-17,CONFIDENTIAL,confidential,
+NON_PUBLIC,http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC,false,2013-01-01,NON_PUBLIC,non-public,
+OP_DATPRO,http://publications.europa.eu/resource/authority/access-right/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+PUBLIC,http://publications.europa.eu/resource/authority/access-right/PUBLIC,false,2013-01-01,PUBLIC,public,
+RESTRICTED,http://publications.europa.eu/resource/authority/access-right/RESTRICTED,false,2013-01-01,RESTRICTED,restricted,
+SENSITIVE,http://publications.europa.eu/resource/authority/access-right/SENSITIVE,false,2020-03-18,SENSITIVE,sensitive,

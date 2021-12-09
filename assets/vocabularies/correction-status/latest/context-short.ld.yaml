@@ -1,0 +1,108 @@
+---
+_meta:
+  label: short
+  description: |-
+    A framing context for a short version
+    of the table.
+  # This is the CSV field to be indexed. Its value is always `key`.
+  index: key
+  # This section contains a json-ld frame capable of extracting the following
+  #   information from the codelist: title, description, version and RDF resource URL.
+  _context:
+    "@embed": "@once"
+    "@type":
+    - "skos:ConceptScheme"
+    "@context":
+      "@vocab": 'http://www.w3.org/2004/02/skos/core#'
+      owl: 'http://www.w3.org/2002/07/owl#'
+      skos: 'http://www.w3.org/2004/02/skos/core#'
+      adms: 'http://www.w3.org/ns/adms#'
+      dct: http://purl.org/dc/terms/
+      rdfs: 'http://www.w3.org/2000/01/rdf-schema#'
+
+      # Vocabulary Metadata
+      title:
+        "@id": rdfs:label
+        "@language": en
+      description:
+        "@id": "skos:prefLabel"
+        "@language": en
+      version:
+        "@id": owl:versionInfo  # The predicate containing the version info to be used when converting the vocabulary to CSV.
+      url: "@id"
+
+  # This optional part contains a json-schema defining associated to
+  #   the resources exposed via API.
+  schema:
+    CountryShort:
+      type: object
+      required:
+      - key
+      - valid_from
+      - country_code
+      - deprecated
+      - label_en
+      - label_it
+      properties:
+        key:
+          type: string
+          pattern: "[A-Z0-9]{3}"
+        valid_from:
+          type: string
+          format: date
+        valid_until:
+          type: string
+          format: date
+        country_code:
+          type: string
+          enum: []
+        deprecated:
+          type: boolean
+        label_en:
+          type: string
+        label_it:
+          type: string
+#
+# This is the actual framing context used to extract the triples
+#  from the RDF graph associated to the controlled vocabulary.
+#
+# Never embed external references.
+"@embed": "@always"
+# Matching on type works.
+# see
+"@type":
+- "skos:Concept"
+
+# Matching on properties
+# doesn't work https://www.w3.org/TR/json-ld11-framing/#matching-on-properties
+
+# Use context.
+"@context":
+
+  # Namespaces.
+  "@vocab": http://publications.europa.eu/ontology/authority/
+  dct: http://purl.org/dc/elements/1.1/
+  skos: http://www.w3.org/2004/02/skos/core#
+  owl: 'http://www.w3.org/2002/07/owl#'
+
+  # Indexed key.
+  key:
+    "@id": "op-code"
+
+  # Fields.
+  valid_from: start.use
+  valid_until: end.use
+  url: "@id"
+  op_code:
+    "@id": "op-code"
+  country_code:
+    "@id": dct:identifier
+  version_info: owl:versionInfo
+  deprecated: {}
+  # Localize labels. Order is relevant.
+  label_en:
+    "@id": skos:prefLabel
+    "@language": en
+  label_it:
+    "@id": skos:prefLabel
+    "@language": it

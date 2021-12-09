@@ -1,0 +1,69 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/contract-detail/OP_DATPRO
+- country_code: all-rev-tic
+  deprecated: 'false'
+  key: all-rev-tic
+  label_en: Allocation of revenues of sales from tickets
+  label_it: Ripartizione dei ricavi dalla vendita di biglietti
+  url: http://publications.europa.eu/resource/authority/contract-detail/all-rev-tic
+  valid_from: '2021-06-16'
+- country_code: cost-comp
+  deprecated: 'false'
+  key: cost-comp
+  label_en: Cost parameters for compensation payments
+  label_it: Parametri di costo per le compensazioni
+  url: http://publications.europa.eu/resource/authority/contract-detail/cost-comp
+  valid_from: '2021-06-16'
+- country_code: exc-right
+  deprecated: 'false'
+  key: exc-right
+  label_en: Exclusive rights are granted
+  label_it: Sono concessi diritti di esclusiva
+  url: http://publications.europa.eu/resource/authority/contract-detail/exc-right
+  valid_from: '2021-06-16'
+- country_code: other
+  deprecated: 'false'
+  key: other
+  label_en: Other
+  label_it: Altre
+  url: http://publications.europa.eu/resource/authority/contract-detail/other
+  valid_from: '2021-06-16'
+- country_code: publ-ser-obl
+  deprecated: 'false'
+  key: publ-ser-obl
+  label_en: Public service obligations
+  label_it: Obblighi di servizio pubblico
+  url: http://publications.europa.eu/resource/authority/contract-detail/publ-ser-obl
+  valid_from: '2021-06-16'
+- country_code: soc-stand
+  deprecated: 'false'
+  key: soc-stand
+  label_en: Social standards
+  label_it: Standard sociali
+  url: http://publications.europa.eu/resource/authority/contract-detail/soc-stand
+  valid_from: '2021-06-16'

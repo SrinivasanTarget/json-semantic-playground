@@ -1,0 +1,162 @@
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glavna dokumentacija"@sl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentaci\u00F3n principal"@es .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documenta\u00E7\u00E3o principal"@pt .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asiaan liittyv\u00E4 verkkosivusto"@fi .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documenta\u021Bie principal\u0103"@ro .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saist\u012Bt\u0101 dokument\u0101cija"@lv .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pagin\u0103 de internet asociat\u0103"@ro .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FAvisiaca dokument\u00E1cia"@sk .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hlavn\u00E1 dokument\u00E1cia"@sk .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualiz\u0101cija"@lv .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dokumenty g\u0142\u00F3wne"@pl .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualizacija"@hr .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualisatie"@nl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoveddokumentation"@da .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentation correspondante"@fr .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hlavn\u00ED dokumentace"@cs .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visuaalne kuju"@et .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seotud dokumendid"@et .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E4\u00E4dokumentaatio"@fi .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seotud veebileht"@et .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AE \u03C4\u03B5\u03BA\u03BC\u03B7\u03C1\u03AF\u03C9\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pagina web collegata"@it .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualisering"@sv .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FAvisiaca webov\u00E1 str\u00E1nka"@sk .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/documentation-type> .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualizaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualisering"@da .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualiza\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asiaan liittyv\u00E4 dokumentaatio"@fi .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://publications.europa.eu/ontology/authority/authority-code> "WEBPAGE_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://purl.org/dc/elements/1.1/identifier> "DOCUMENTATION_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00F5hidokumendid"@et .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Related documentation"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Relateret webside"@da .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Povezana web-stranica"@hr .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://publications.europa.eu/ontology/authority/op-code> "DOCUMENTATION_MAIN" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Souvisej\u00EDc\u00ED dokumentace"@cs .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Susijusi dokumentacija"@lt .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039F\u03C0\u03C4\u03B9\u03BA\u03AE \u03B5\u03BC\u03C6\u03AC\u03BD\u03B9\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://www.w3.org/2002/07/owl#versionInfo> "20160921-0" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://purl.org/dc/elements/1.1/identifier> "WEBPAGE_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentation principale"@fr .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unterst\u00FCtzende Unterlagen"@de .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03C7\u03B5\u03C4\u03B9\u03BA\u03AE \u03B9\u03C3\u03C4\u03BF\u03C3\u03B5\u03BB\u03AF\u03B4\u03B1"@el .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Povezana spletna stran"@sl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Povezana dokumentacija"@hr .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://publications.europa.eu/ontology/authority/op-code> "VISUALIZATION" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Galven\u0101 dokument\u0101cija"@lv .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapcsol\u00F3d\u00F3 dokument\u00E1ci\u00F3"@hu .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kapcsol\u00F3d\u00F3 weboldal"@hu .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualizacija"@lt .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Page web correspondante"@fr .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillh\u00F6rande dokumentation"@sv .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20160921-0" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentation type"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://publications.europa.eu/resource/authority/op-code> "WEBPAGE_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualizare"@ro .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Related webpage"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentazione principale"@it .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0412\u0438\u0437\u0443\u0430\u043B\u0438\u0437\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/documentation-type> .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualizzazione"@it .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/documentation-type> .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualisointi"@fi .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alapdokument\u00E1ci\u00F3"@hu .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0441\u043D\u043E\u0432\u043D\u0430 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Documentation type"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zentrale Unterlagen"@de .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documenta\u00E7\u00E3o conexa"@pt .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glavna dokumentacija"@hr .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dokumenty powi\u0105zane"@pl .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://publications.europa.eu/resource/authority/op-code> "VISUALIZATION" .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Megjelen\u00EDt\u00E9s"@hu .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0432\u044A\u0440\u0437\u0430\u043D\u0430 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0430\u0446\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pagrindin\u0117 dokumentacija"@lt .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentazione correlata"@it .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E1gina web relacionada"@es .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://www.w3.org/2000/01/rdf-schema#label> "Documentation type"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://publications.europa.eu/ontology/authority/authority-code> "VISUALIZATION" .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einschl\u00E4gige Webseite"@de .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Webbsida"@sv .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dokumentazzjoni relatata"@mt .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Relateret dokumentation"@da .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u00E1gina web conexa"@pt .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vi\u017Cwalizzazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wizualizacja"@pl .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualization"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Powi\u0105zane strony internetowe"@pl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoofddocumentatie"@nl .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualiz\u00E1cia"@sk .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://publications.europa.eu/ontology/authority/op-code> "WEBPAGE_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Povezana dokumentacija"@sl .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualizacija"@sl .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://publications.europa.eu/ontology/authority/end.use> "2013-01-02" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://publications.europa.eu/resource/authority/op-code> "DOCUMENTATION_MAIN" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualisation"@fr .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://publications.europa.eu/ontology/authority/authority-code> "DOCUMENTATION_MAIN" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://publications.europa.eu/resource/authority/op-code> "DOCUMENTATION_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Susij\u0119s tinklalapis"@lt .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documenta\u021Bie conex\u0103"@ro .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Souvisej\u00EDc\u00ED internetov\u00E1 str\u00E1nka"@cs .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vizualizace"@cs .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0432\u044A\u0440\u0437\u0430\u043D\u0430 \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0430"@bg .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://purl.org/dc/elements/1.1/identifier> "DOCUMENTATION_MAIN" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pa\u0121na Web relatata"@mt .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://publications.europa.eu/ontology/authority/op-code> "DOCUMENTATION_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documentaci\u00F3n relacionada"@es .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039A\u03CD\u03C1\u03B9\u03B1 \u03C4\u03B5\u03BA\u03BC\u03B7\u03C1\u03AF\u03C9\u03C3\u03B7"@el .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dokumentazzjoni ewlenija"@mt .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verwante documentatie"@nl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://publications.europa.eu/ontology/authority/authority-code> "DOCUMENTATION_RELATED" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Main documentation"@en .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/documentation-type> .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verwante webpagina"@nl .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dokumentation"@sv .
+<http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saist\u012Bt\u0101 vietne"@lv .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://purl.org/dc/elements/1.1/identifier> "VISUALIZATION" .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/documentation-type> <http://publications.europa.eu/ontology/authority/table.id> "documentation-type" .
+<http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/documentation-type> .
+<http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visualisierung"@de .
+<http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+

@@ -1,0 +1,17 @@
+# Serializing assets/vocabularies/transport-service/latest/transport-service.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/transport-service
+# title: Transport service
+# version: 20210929-0
+# description: Transport service
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/transport-service/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+bus-s,http://publications.europa.eu/resource/authority/transport-service/bus-s,bus-s,Bus transport services (urban/regional),Servizi di trasporto mediante autobus (urbano/regionale),false,2021-06-16
+coach-s,http://publications.europa.eu/resource/authority/transport-service/coach-s,coach-s,Coach transport services (long-distance),Servizi di trasporto mediante autobus (lunga distanza),false,2021-06-16
+lrail-s,http://publications.europa.eu/resource/authority/transport-service/lrail-s,lrail-s,Light rail transport services,Servizi di trasporto mediante metropolitana leggera,false,2021-06-16
+metro-s,http://publications.europa.eu/resource/authority/transport-service/metro-s,metro-s,Metro transport services,Servizi di trasporto mediante metropolitana,false,2021-06-16
+other,http://publications.europa.eu/resource/authority/transport-service/other,other,Other,Altri,false,2021-06-16
+port-s,http://publications.europa.eu/resource/authority/transport-service/port-s,port-s,Inland waterway and maritime transport services,Servizi di trasporto marittimo e per via navigabile,false,2021-06-16
+rail-s,http://publications.europa.eu/resource/authority/transport-service/rail-s,rail-s,Rail transport services,Servizi di trasporto per ferrovia,false,2021-06-16
+tram-s,http://publications.europa.eu/resource/authority/transport-service/tram-s,tram-s,Tram transport services,Servizi di trasporto mediante tram,false,2021-06-16
+trolley-s,http://publications.europa.eu/resource/authority/transport-service/trolley-s,trolley-s,Trolleybus transport services,Servizi di trasporto mediante filobus,false,2021-06-16

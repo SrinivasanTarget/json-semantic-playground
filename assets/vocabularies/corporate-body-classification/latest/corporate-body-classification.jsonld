@@ -1,0 +1,5856 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LIA_OFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LIA_OFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-07-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LIA_OFF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LIA_OFF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Liaison offices"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Бюро за връзка"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kontaktní kancelář"
+      },
+      {
+        "@language": "da",
+        "@value": "Forbindelseskontor"
+      },
+      {
+        "@language": "de",
+        "@value": "Verbindungsbüro"
+      },
+      {
+        "@language": "el",
+        "@value": "Γραφείο συνδέσμου"
+      },
+      {
+        "@language": "en",
+        "@value": "Liaison office"
+      },
+      {
+        "@language": "es",
+        "@value": "Oficina de enlace"
+      },
+      {
+        "@language": "et",
+        "@value": "Büroo"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteystoimisto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bureau de liaison"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oifig idirchaidrimh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ured za vezu"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kapcsolattartó iroda"
+      },
+      {
+        "@language": "it",
+        "@value": "Ufficio di collegamento"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ryšių biuras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Birojs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Uffiċċju ta’ kollegament"
+      },
+      {
+        "@language": "nl",
+        "@value": "Liaisonbureau"
+      },
+      {
+        "@language": "pl",
+        "@value": "Biuro kontaktowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Gabinete de ligação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Biroul de legătură"
+      },
+      {
+        "@language": "sk",
+        "@value": "Styčná kancelária"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pisarna za stike"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förbindelsekontor"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/DEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1960-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Delegations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Делегация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Delegace"
+      },
+      {
+        "@language": "da",
+        "@value": "Delegationen"
+      },
+      {
+        "@language": "de",
+        "@value": "Delegation"
+      },
+      {
+        "@language": "el",
+        "@value": "Αντιπροσωπεία"
+      },
+      {
+        "@language": "en",
+        "@value": "Delegation"
+      },
+      {
+        "@language": "es",
+        "@value": "Delegación"
+      },
+      {
+        "@language": "et",
+        "@value": "Delegatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Edustusto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Délégation"
+      },
+      {
+        "@language": "ga",
+        "@value": "An toscaireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izaslanstvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Küldöttség"
+      },
+      {
+        "@language": "it",
+        "@value": "Delegazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Delegacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Delegācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Id-delegazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Delegatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Delegacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Delegação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Delegație"
+      },
+      {
+        "@language": "sk",
+        "@value": "Delegácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Delegacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Delegation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU_AGENCY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU_AGENCY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-12-06"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU_AGENCY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU_AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EU agencies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Агенция на ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "Agentura EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU-agentur"
+      },
+      {
+        "@language": "de",
+        "@value": "EU-Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός της ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia de la UE"
+      },
+      {
+        "@language": "et",
+        "@value": "ELi amet"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence de l’UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht de chuid an AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Agencija EU-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU-ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia dell’UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija tal-UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EU-agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência da UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenție a UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "Agentúra EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Agencija EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU-byrå"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_DEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_DEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b12"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_DEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_DEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP delegations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EP delegation"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2002-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Common foreign and security policy agencies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Агенции на общата външна политика и политика на сигурност"
+      },
+      {
+        "@language": "cs",
+        "@value": "Agentura společné zahraniční a bezpečnostní politiky"
+      },
+      {
+        "@language": "da",
+        "@value": "Agentur af den fælles udenrigs- og sikkerhedspolitik"
+      },
+      {
+        "@language": "de",
+        "@value": "Agentur der Gemeinsamen Außen- und Sicherheitspolitik"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός της κοινής εξωτερικής πολιτικής και πολιτικής ασφάλειας"
+      },
+      {
+        "@language": "en",
+        "@value": "Common foreign and security policy agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia de política exterior y de seguridad común"
+      },
+      {
+        "@language": "et",
+        "@value": "Ühise välis- ja julgeolekupoliitika amet"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteisen ulko- ja turvallisuuspolitiikan virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence de la politique étrangère et de sécurité commune"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ghníomhaireacht an chomhbheartais eachtraigh agus slándála"
+      },
+      {
+        "@language": "hr",
+        "@value": "Agencija za zajedničku vanjsku i sigurnosnu politiku"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közös kül- és biztonságpolitikai ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia per la politica estera e di sicurezza comune"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendra užsienio ir saugumo politika agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kopējās ārpolitikas un drošības politikas aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija tal-politika estera u ta' sigurtà komuni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Agentschap van het gemeenschappelijk buitenlands en veiligheidsbeleid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja wspólnej polityki zagranicznej i bezpieczeństwa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência da política externa e de segurança comum"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenția de politică externă și de securitate comune"
+      },
+      {
+        "@language": "sk",
+        "@value": "Agentúra spoločnej zahraničnej a bezpečnostnej politiky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Agencija za skupno zunanjo in varnostno politiko"
+      },
+      {
+        "@language": "sv",
+        "@value": "Byrån för gemensam utrikes- och säkerhetspolitik"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_CE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_CE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-03-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_CE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_CE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP committees of inquiry"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EP committee of inquiry"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COR_DIR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COR_DIR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COR_DIR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COR_DIR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "COR directorates"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Дирекция на КР"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ředitelství VR"
+      },
+      {
+        "@language": "da",
+        "@value": "Direktorat i Regionsudvalget"
+      },
+      {
+        "@language": "de",
+        "@value": "AdR-Direktion"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεύθυνση της ΕτΠ"
+      },
+      {
+        "@language": "en",
+        "@value": "COR directorate"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección del CDR"
+      },
+      {
+        "@language": "et",
+        "@value": "Regioonide Komitee direktoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alueiden komitean osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction du CdR"
+      },
+      {
+        "@language": "ga",
+        "@value": "Stiúrthóireacht CnR"
+      },
+      {
+        "@language": "hr",
+        "@value": "Uprava OR-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "A Régiók Bizottságának igazgatósága"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione CdR"
+      },
+      {
+        "@language": "lt",
+        "@value": "RK direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Reģionu komitejas direktorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat tal-KtR"
+      },
+      {
+        "@language": "nl",
+        "@value": "Directoraat CvdR"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja KR"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção do CR"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcție (CoR)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Riaditeľstvo VR"
+      },
+      {
+        "@language": "sl",
+        "@value": "Direktorat Odbora regij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Direktorat vid Regionkommittén"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2007-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_OTHER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Other agencies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Друга агенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiná agentura"
+      },
+      {
+        "@language": "da",
+        "@value": "Andet agentur"
+      },
+      {
+        "@language": "de",
+        "@value": "Andere Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλος οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Other agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Otro organismo"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu asutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muu virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre organisme"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Druga agencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Altra agenzia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kita agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Cita aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ander agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inna agencja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outra agência"
+      },
+      {
+        "@language": "ro",
+        "@value": "Altă agenție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iná agentúra"
+      },
+      {
+        "@language": "sl",
+        "@value": "Druga agencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annan byrå"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_SC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_SC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b10"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-03-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_SC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_SC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP subcommittees"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EP subcommittee"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Corporate body classification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "corporate-body-classification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Corporate body classification"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Corporate body classification"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU_INTERINSTSERV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU_INTERINSTSERV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1968-12-31"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU_INTERINSTSERV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU_INTERINSTSERV"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EU interinstitutional services"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Междуинституционална служба на ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "Interinstitucionální služby EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU's interinstitutionelle tjeneste"
+      },
+      {
+        "@language": "de",
+        "@value": "Interinstitutioneller Dienst der EU"
+      },
+      {
+        "@language": "el",
+        "@value": "Διοργανική υπηρεσία της ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU interinstitutional service"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicio interinstitucional de la UE"
+      },
+      {
+        "@language": "et",
+        "@value": "ELi institutsioonidevaheline talitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n toimielinten välinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service interinstitutionnel de l’UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhís idirinstitiúideach AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Međuinstitucijska služba EU-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU intézményközi szolgálat"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizio interistituzionale dell’UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES tarpinstitucinė tarnyba"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES iestāžu dienests"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizz interistituzzjonali tal-UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "Interinstitutionele dienst van de EU"
+      },
+      {
+        "@language": "pl",
+        "@value": "Służba międzyinstytucjonalna UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviço interinstitucional da UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Serviciu interinstituțional al UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "Medziinštitucionálna služba EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Medinstitucionalna služba EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU:s interinstitutionella tjänster"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_CJ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_CJ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-03-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_CJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_CJ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP joint committees"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EP joint committee"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CMT_MIX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CMT_MIX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1957-03-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CMT_MIX"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CMT_MIX"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Joint committees"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Смесен комитет"
+      },
+      {
+        "@language": "cs",
+        "@value": "Smíšený výbor"
+      },
+      {
+        "@language": "da",
+        "@value": "Det blandede udvalg"
+      },
+      {
+        "@language": "de",
+        "@value": "Gemischter Ausschuss"
+      },
+      {
+        "@language": "el",
+        "@value": "Μεικτή επιτροπή"
+      },
+      {
+        "@language": "en",
+        "@value": "Joint committee"
+      },
+      {
+        "@language": "es",
+        "@value": "Comité mixto"
+      },
+      {
+        "@language": "et",
+        "@value": "Ühiskomitee"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sekakomitea"
+      },
+      {
+        "@language": "fr",
+        "@value": "Comité mixte"
+      },
+      {
+        "@language": "ga",
+        "@value": "An comhchoiste"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zajednički odbor"
+      },
+      {
+        "@language": "hu",
+        "@value": "Vegyes bizottság"
+      },
+      {
+        "@language": "it",
+        "@value": "Comitato misto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Jungtinis komitetas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apvienotā komiteja"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kumitat konġunt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gemengd comité"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wspólny komitet"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comité misto"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comitetul mixt"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spoločný výbor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mešani odbor"
+      },
+      {
+        "@language": "sv",
+        "@value": "Gemensam kommitté"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COUN_STAB_ASS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COUN_STAB_ASS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COUN_STAB_ASS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COUN_STAB_ASS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Stabilisation and association councils"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съвет за стабилизиране и асоцииране"
+      },
+      {
+        "@language": "cs",
+        "@value": "Rada stabilizace a přidružení"
+      },
+      {
+        "@language": "da",
+        "@value": "Stabiliserings- og associeringsråd"
+      },
+      {
+        "@language": "de",
+        "@value": "Stabilitäts- und Assoziationsrat"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμβούλιο σταθεροποίησης και σύνδεσης"
+      },
+      {
+        "@language": "en",
+        "@value": "Stabilisation and association council"
+      },
+      {
+        "@language": "es",
+        "@value": "Consejo de estabilización y asociación"
+      },
+      {
+        "@language": "et",
+        "@value": "Stabiliseerimis- ja assotsiatsiooninõukogu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vakautus- ja assosiaationeuvosto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Conseil de stabilisation et d’association"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhairle cobhsaíochta agus comhlachais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vijeće za stabilizaciju i pridruživanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Stabilizációs és társulási tanács"
+      },
+      {
+        "@language": "it",
+        "@value": "Consiglio di stabilizzazione e di associazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Stabilizacijos ir asociacijos taryba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Stabilizācijas un asociācijas padome"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kunsill ta' stabbilizzazzjoni u ta' assoċjazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Stabilisatie- en associatieraad"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rada stabilizacji i stowarzyszenia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conselho de estabilização e de associação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Consiliul de stabilizare și de asociere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rada pre stabilizáciu a pridruženie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Stabilizacijsko-pridružitveni svet"
+      },
+      {
+        "@language": "sv",
+        "@value": "Stabiliserings- och associeringsråd"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_GROUP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_GROUP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_GROUP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_GROUP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP political groups"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Политическа група на ЕП"
+      },
+      {
+        "@language": "cs",
+        "@value": "Politická skupina Evropského parlamentu"
+      },
+      {
+        "@language": "da",
+        "@value": "Politisk gruppe i Europa-Parlamentet"
+      },
+      {
+        "@language": "de",
+        "@value": "Fraktion des Europäischen Parlaments"
+      },
+      {
+        "@language": "el",
+        "@value": "Πολιτική ομάδα του ΕΚ"
+      },
+      {
+        "@language": "en",
+        "@value": "EP political group"
+      },
+      {
+        "@language": "es",
+        "@value": "Grupo político del PE"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Parlamendi fraktsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan parlamentin poliittinen ryhmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Groupe politique du PE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Grúpa polaitiúil PE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Klubovi zastupnika EP-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai parlamenti képviselőcsoport"
+      },
+      {
+        "@language": "it",
+        "@value": "Gruppo politico PE"
+      },
+      {
+        "@language": "lt",
+        "@value": "EP frakcija"
+      },
+      {
+        "@language": "lv",
+        "@value": "EP politiskā grupa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Grupp politiku tal-PE"
+      },
+      {
+        "@language": "nl",
+        "@value": "Politieke fractie EP"
+      },
+      {
+        "@language": "pl",
+        "@value": "Grupa polityczna PE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Grupo político do PE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Grupuri politice (PE)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Politická skupina EP"
+      },
+      {
+        "@language": "sl",
+        "@value": "Politična skupina Evropskega parlamenta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Politisk grupp i Europaparlamentet"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "GP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_DIR_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_DIR_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_DIR_GEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_DIR_GEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP directorates-general"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Генерална дирекция на ЕП"
+      },
+      {
+        "@language": "cs",
+        "@value": "Generální ředitelství Evropského parlamentu"
+      },
+      {
+        "@language": "da",
+        "@value": "Generaldirektorat i Europa-Parlamentet"
+      },
+      {
+        "@language": "de",
+        "@value": "Generaldirektion des Europäischen Parlaments"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενική διεύθυνση του ΕΚ"
+      },
+      {
+        "@language": "en",
+        "@value": "EP directorate-general"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección general del PE"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Parlamendi peadirektoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan parlamentin pääosasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction générale du PE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ard-stiúrthóireacht PE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Glavna uprava EP-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai parlamenti főigazgatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione generale PE"
+      },
+      {
+        "@language": "lt",
+        "@value": "EP generalinis direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "EP ģenerāldirektorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat ġenerali tal-PE"
+      },
+      {
+        "@language": "nl",
+        "@value": "Directoraat-generaal EP"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja generalna PE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção‑geral do PE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcție generală (PE)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Generálne riaditeľstvo EP"
+      },
+      {
+        "@language": "sl",
+        "@value": "Generalni direktorat Evropskega parlamenta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Generaldirektorat vid Europaparlamentet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_DE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_DE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_DE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_DE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Interparliamentary delegations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interparliamentary delegation"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COR_COM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COR_COM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1994-03-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COR_COM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COR_COM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "COR commissions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Комисия на КР"
+      },
+      {
+        "@language": "cs",
+        "@value": "Komise VR"
+      },
+      {
+        "@language": "da",
+        "@value": "Underudvalg i Regionsudvalget"
+      },
+      {
+        "@language": "de",
+        "@value": "AdR-Kommission"
+      },
+      {
+        "@language": "el",
+        "@value": "Επιτροπή της ΕτΠ"
+      },
+      {
+        "@language": "en",
+        "@value": "COR commission"
+      },
+      {
+        "@language": "es",
+        "@value": "Comisión del CDR"
+      },
+      {
+        "@language": "et",
+        "@value": "Regioonide Komitee komisjon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alueiden komitean valiokunta"
+      },
+      {
+        "@language": "fr",
+        "@value": "Commission du CdR"
+      },
+      {
+        "@language": "ga",
+        "@value": "Coimisiún CnR"
+      },
+      {
+        "@language": "hr",
+        "@value": "Komisija OR-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "A Régiók Bizottságának szakbizottsága"
+      },
+      {
+        "@language": "it",
+        "@value": "Commissione CdR"
+      },
+      {
+        "@language": "lt",
+        "@value": "RK komisija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Reģionu komitejas komisija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kummissjoni tal-KtR"
+      },
+      {
+        "@language": "nl",
+        "@value": "Commissie CvdR"
+      },
+      {
+        "@language": "pl",
+        "@value": "Komisja KR"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comissão do CR"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comisie (CoR)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Komisia VR"
+      },
+      {
+        "@language": "sl",
+        "@value": "Komisija Odbora regij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Utskott i Regionkommittén"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_CT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_CT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-03-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_CT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_CT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP special committees"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EP special committee"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-12-06"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Euratom agencies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Агенция към Евратом"
+      },
+      {
+        "@language": "cs",
+        "@value": "Agentura Euratomu"
+      },
+      {
+        "@language": "da",
+        "@value": "Euratoms agentur"
+      },
+      {
+        "@language": "de",
+        "@value": "Euratom-Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός της Ευρατόμ"
+      },
+      {
+        "@language": "en",
+        "@value": "Euratom agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia de Euratom"
+      },
+      {
+        "@language": "et",
+        "@value": "Euratomi agentuur"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euratomin virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence d’Euratom"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht Euratom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Agencija Euratoma"
+      },
+      {
+        "@language": "hu",
+        "@value": "Euratom-ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia dell’Euratom"
+      },
+      {
+        "@language": "lt",
+        "@value": "Euratomo agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Euratom aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija Euratom"
+      },
+      {
+        "@language": "nl",
+        "@value": "Euratom-agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja Euratomu"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência da Euratom"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenția Euratom"
+      },
+      {
+        "@language": "sk",
+        "@value": "Agentúra Euratomu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Agencija Euratom"
+      },
+      {
+        "@language": "sv",
+        "@value": "Euratoms byrå"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_AP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_AP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_AP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_AP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Delegations to parliamentary assemblies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Delegation to a parliamentary assembly"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COUN_COOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COUN_COOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COUN_COOP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COUN_COOP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Cooperation councils"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съвет за сътрудничество"
+      },
+      {
+        "@language": "cs",
+        "@value": "Rada pro spolupráci"
+      },
+      {
+        "@language": "da",
+        "@value": "Samarbejdsrådet"
+      },
+      {
+        "@language": "de",
+        "@value": "Kooperationsrat"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμβούλιο συνεργασίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Cooperation council"
+      },
+      {
+        "@language": "es",
+        "@value": "Consejo de cooperación"
+      },
+      {
+        "@language": "et",
+        "@value": "Koostöönõukogu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteistyöneuvosto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Conseil de coopération"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhar comhairle"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vijeće za suradnju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Együttműködési tanács"
+      },
+      {
+        "@language": "it",
+        "@value": "Consiglio di cooperazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendradarbiavimo taryba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sadarbības padome"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kunsill ta' kooperazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Samenwerkingsraad"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rada współpracy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conselho de cooperação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Consiliul de cooperare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rada pre spoluprácu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Svet za sodelovanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samarbetsråd"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CB_INT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CB_INT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1900-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CB_INT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CB_INT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "International organisations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Международна организация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mezinárodní organizace"
+      },
+      {
+        "@language": "da",
+        "@value": "International organisation"
+      },
+      {
+        "@language": "de",
+        "@value": "Internationale Organisation"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεθνής οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "International organisation"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización internacional"
+      },
+      {
+        "@language": "et",
+        "@value": "Rahvusvaheline organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kansainvälinen järjestö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation internationale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht idirnáisiúnta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Međunarodna organizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nemzetközi szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione internazionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarptautinė organizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Starptautiska organizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni internazzjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Internationale organisatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja międzynarodowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização internacional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație internațională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Medzinárodná organizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mednarodna organizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Internationell organisation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/DIR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Directorates"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Direktorat"
+      },
+      {
+        "@language": "de",
+        "@value": "Direktion"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεύθυνση"
+      },
+      {
+        "@language": "en",
+        "@value": "Directorate"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección"
+      },
+      {
+        "@language": "et",
+        "@value": "Direktoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction"
+      },
+      {
+        "@language": "ga",
+        "@value": "Stiúrthóireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Uprava"
+      },
+      {
+        "@language": "hu",
+        "@value": "Igazgatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Direktorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Directoraat"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Riaditeľstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Direktorat"
+      },
+      {
+        "@language": "sv",
+        "@value": "Direktorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CB_EU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CB_EU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CB_EU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "European Union corporate bodies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/DEL"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/DIR"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Корпоративен орган на Европейския съюз"
+      },
+      {
+        "@language": "cs",
+        "@value": "Právnická osoba Evropské unie"
+      },
+      {
+        "@language": "da",
+        "@value": "Juridisk person under EU"
+      },
+      {
+        "@language": "de",
+        "@value": "Körperschaft der Europäischen Union"
+      },
+      {
+        "@language": "el",
+        "@value": "Νομικό πρόσωπο της Ευρωπαϊκής Ένωσης"
+      },
+      {
+        "@language": "en",
+        "@value": "European Union corporate body"
+      },
+      {
+        "@language": "es",
+        "@value": "Persona jurídica de la Unión Europea"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Liidu juriidiline isik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan unionin oikeushenkilö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entité légale de l’Union européenne"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht corparáideach de chuid an Aontais Eorpaigh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pravna osoba Europske unije"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai uniós jogi személy"
+      },
+      {
+        "@language": "it",
+        "@value": "Persona giuridica dell’Unione europea"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos Sąjungos juridinis asmuo"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Savienības juridiska persona"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp korporattiv tal-Unjoni Ewropea"
+      },
+      {
+        "@language": "nl",
+        "@value": "Rechtspersoon van de Europese Unie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Osoba prawna należąca do Unii Europejskiej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organismo da União Europeia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Persoană juridică (Uniunea Europeană)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Právnická osoba Európskej únie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pravna oseba Evropske unije"
+      },
+      {
+        "@language": "sv",
+        "@value": "Juridisk person inom Europeiska unionen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CB_OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CB_OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2012-08-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CB_OTHER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CB_OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Other organisations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Друга организация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiná organizace"
+      },
+      {
+        "@language": "da",
+        "@value": "Anden organisation"
+      },
+      {
+        "@language": "de",
+        "@value": "Andere Organisation"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλος οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Other organisation"
+      },
+      {
+        "@language": "es",
+        "@value": "Otra organización"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muu järjestö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre organisation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Druga organizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Altra organizzazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kita organizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Cita organizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "Andere organisatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inna organizacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outra organização"
+      },
+      {
+        "@language": "ro",
+        "@value": "Altă organizație"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iná organizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Druga organizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annan organisation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU_JU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU_JU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2007-02-27"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU_JU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU_JU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EU joint undertakings"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съвместно предприятие на ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "Společný podnik EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU's fællesforetagende"
+      },
+      {
+        "@language": "de",
+        "@value": "Gemeinsames Unternehmen der EU"
+      },
+      {
+        "@language": "el",
+        "@value": "Κοινή επιχείρηση της ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU joint undertaking"
+      },
+      {
+        "@language": "es",
+        "@value": "Empresa común de la UE"
+      },
+      {
+        "@language": "et",
+        "@value": "ELi ühisettevõte"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n yhteisyritys"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entreprise commune de l’UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhghnóthas an AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zajedničko poduzeće EU-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU közös vállalkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Impresa comune dell’UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES bendroji įmonė"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES kopuzņēmums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Impriża konġunta tal-UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gemeenschappelijke onderneming van de EU"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wspólne przedsięwzięcie UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Empresa comum da UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Întreprinderea comună a UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spoločný podnik EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Skupno podjetje EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "Gemensamt företag under EU"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_DM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_DM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_DM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_DM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Delegations to joint committees"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Delegation to a joint committee"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Directorates-general"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Генерална дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Generální ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Generaldirektorat"
+      },
+      {
+        "@language": "de",
+        "@value": "Generaldirektion"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενική διεύθυνση"
+      },
+      {
+        "@language": "en",
+        "@value": "Directorate-general"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección general"
+      },
+      {
+        "@language": "et",
+        "@value": "Peadirektoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Pääosasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction générale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ard-stiúrthóireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Glavna uprava"
+      },
+      {
+        "@language": "hu",
+        "@value": "Főigazgatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione generale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Generalinis direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ģenerāldirektorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Directoraat-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja generalna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção-geral"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcție generală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Generálne riaditeľstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Generalni direktorat"
+      },
+      {
+        "@language": "sv",
+        "@value": "Generaldirektorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Representations"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Представителство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zastoupení"
+      },
+      {
+        "@language": "da",
+        "@value": "Repræsentationen"
+      },
+      {
+        "@language": "de",
+        "@value": "Vertretung"
+      },
+      {
+        "@language": "el",
+        "@value": "Αντιπροσωπεία"
+      },
+      {
+        "@language": "en",
+        "@value": "Representation"
+      },
+      {
+        "@language": "es",
+        "@value": "Representación"
+      },
+      {
+        "@language": "et",
+        "@value": "Esindus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Edustusto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Représentation"
+      },
+      {
+        "@language": "ga",
+        "@value": "An ionadaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Predstavništvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Képviselet"
+      },
+      {
+        "@language": "it",
+        "@value": "Rappresentanza"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atstovybė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pārstāvniecība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ir-rappreżentazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vertegenwoordiging"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przedstawicielstwo"
+      },
+      {
+        "@language": "pt",
+        "@value": "Representação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Reprezentanță"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zastúpenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predstavništvo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Representation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Corporate bodies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/NP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Корпоративен орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Právnická osoba"
+      },
+      {
+        "@language": "da",
+        "@value": "Juridisk person"
+      },
+      {
+        "@language": "de",
+        "@value": "Körperschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Νομικό πρόσωπο"
+      },
+      {
+        "@language": "en",
+        "@value": "Corporate body"
+      },
+      {
+        "@language": "es",
+        "@value": "Persona jurídica"
+      },
+      {
+        "@language": "et",
+        "@value": "Juriidiline isik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Oikeushenkilö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entité légale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht corparáideach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pravna osoba"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jogi személy"
+      },
+      {
+        "@language": "it",
+        "@value": "Persona giuridica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Juridinis asmuo"
+      },
+      {
+        "@language": "lv",
+        "@value": "Juridiska persona"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp korporattiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "Rechtspersoon"
+      },
+      {
+        "@language": "pl",
+        "@value": "Osoba prawna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organismo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Persoană juridică"
+      },
+      {
+        "@language": "sk",
+        "@value": "Právnická osoba"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pravna oseba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Juridisk person"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_POLBODY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_POLBODY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_POLBODY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_POLBODY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP political bodies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EP political body"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "POLBODY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/NP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1900-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "National parties"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "National party"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU_BODY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU_BODY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU_BODY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU_BODY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EU bodies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Орган на ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "Orgán EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU-organ"
+      },
+      {
+        "@language": "de",
+        "@value": "EU-Einrichtung"
+      },
+      {
+        "@language": "el",
+        "@value": "Όργανο της ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU body"
+      },
+      {
+        "@language": "es",
+        "@value": "Órgano de la UE"
+      },
+      {
+        "@language": "et",
+        "@value": "ELi asutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n elin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organe de l’UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht de chuid an AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tijelo EU-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU-szerv"
+      },
+      {
+        "@language": "it",
+        "@value": "Organo dell’UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES organas"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES struktūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp tal-UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EU-orgaan"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organ UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Órgão da UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organ al UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "Orgán EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organ EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU-organ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SERV_DEP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SERV_DEP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1983-02-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SERV_DEP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SERV_DEP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Services"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Служба"
+      },
+      {
+        "@language": "cs",
+        "@value": "Služba"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjeneste"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienst"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσία"
+      },
+      {
+        "@language": "en",
+        "@value": "Service"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicio"
+      },
+      {
+        "@language": "et",
+        "@value": "Talitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Palveluyksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service"
+      },
+      {
+        "@language": "ga",
+        "@value": "An tseirbhís"
+      },
+      {
+        "@language": "hr",
+        "@value": "Služba"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szolgálat"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarnyba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dienests"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizz"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dienst"
+      },
+      {
+        "@language": "pl",
+        "@value": "Służba"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviço"
+      },
+      {
+        "@language": "ro",
+        "@value": "Serviciu"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služba"
+      },
+      {
+        "@language": "sl",
+        "@value": "Služba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänsten"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1994-09-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Decentralised agencies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Децентрализирана агенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Decentralizovaná agentura"
+      },
+      {
+        "@language": "da",
+        "@value": "Decentralt agentur"
+      },
+      {
+        "@language": "de",
+        "@value": "Dezentrale Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Αποκεντρωμένος οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Decentralised agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia descentralizada"
+      },
+      {
+        "@language": "et",
+        "@value": "Detsentraliseeritud asutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hajautettu virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence décentralisée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht dhíláraithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Decentralizirana agencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Decentralizált ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia decentrata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Decentralizuota agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Decentralizēta aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija deċentralizzata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gedecentraliseerd agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja zdecentralizowana"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência descentralizada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenție descentralizată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Decentralizovaná agentúra"
+      },
+      {
+        "@language": "sl",
+        "@value": "Decentralizirana agencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Decentraliserad byrå"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU_INST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU_INST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU_INST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU_INST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EU institutions"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Институция на ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "Instituce EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU-institution"
+      },
+      {
+        "@language": "de",
+        "@value": "EU-Institution"
+      },
+      {
+        "@language": "el",
+        "@value": "Θεσμικό όργανο της ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU institution"
+      },
+      {
+        "@language": "es",
+        "@value": "Institución de la UE"
+      },
+      {
+        "@language": "et",
+        "@value": "ELi institutsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n toimielin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Institution de l’UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Institiúid de chuid an AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Institucija EU-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU-intézmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Istituzione dell’UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES institucija"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Istituzzjoni tal-UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EU-instelling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Instituição da UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Instituție a UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "Inštitúcia EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Institucija EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU-institution"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INF_OFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INF_OFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INF_OFF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INF_OFF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Information offices"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Информационно бюро"
+      },
+      {
+        "@language": "cs",
+        "@value": "Informační kancelář"
+      },
+      {
+        "@language": "da",
+        "@value": "Informationskontoret"
+      },
+      {
+        "@language": "de",
+        "@value": "Informationsbüro"
+      },
+      {
+        "@language": "el",
+        "@value": "Γραφείο πληροφοριών"
+      },
+      {
+        "@language": "en",
+        "@value": "Information office"
+      },
+      {
+        "@language": "es",
+        "@value": "Oficina de información"
+      },
+      {
+        "@language": "et",
+        "@value": "Infobüroo"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tiedotustoimisto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bureau d’information"
+      },
+      {
+        "@language": "ga",
+        "@value": "An oifig eolais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Informacijski ured"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tájékoztatási iroda"
+      },
+      {
+        "@language": "it",
+        "@value": "Ufficio d’informazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Informacijos biuras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Informācijas birojs"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-uffiċċju tal-informazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlichtingsbureau"
+      },
+      {
+        "@language": "pl",
+        "@value": "Biuro informacyjne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Gabinete de informação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Biroul de informare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Informačná kancelária"
+      },
+      {
+        "@language": "sl",
+        "@value": "Informacijska pisarna"
+      },
+      {
+        "@language": "sv",
+        "@value": "Informationskontor"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COUN_ASS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COUN_ASS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1957-03-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COUN_ASS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COUN_ASS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Association councils"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съвет за асоцииране"
+      },
+      {
+        "@language": "cs",
+        "@value": "Rada přidružení"
+      },
+      {
+        "@language": "da",
+        "@value": "Associeringsrådet"
+      },
+      {
+        "@language": "de",
+        "@value": "Assoziationsrat"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμβούλιο σύνδεσης"
+      },
+      {
+        "@language": "en",
+        "@value": "Association council"
+      },
+      {
+        "@language": "es",
+        "@value": "Consejo de asociación"
+      },
+      {
+        "@language": "et",
+        "@value": "Assotsiatsiooninõukogu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Assosiaationeuvosto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Conseil d’association"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhairle comhlachais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vijeće za pridruživanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Társulási tanács"
+      },
+      {
+        "@language": "it",
+        "@value": "Consiglio di associazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Asociacijos taryba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Asociācijas padome"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kunsill ta' assoċjazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Associatieraad"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rada stowarzyszenia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conselho de associação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Consiliul de asociere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rada pre pridruženie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pridružitveni svet"
+      },
+      {
+        "@language": "sv",
+        "@value": "Associeringsråd"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COR_GROUP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COR_GROUP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1994-03-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COR_GROUP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COR_GROUP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "COR groups"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Група на КР"
+      },
+      {
+        "@language": "cs",
+        "@value": "Skupina VR"
+      },
+      {
+        "@language": "da",
+        "@value": "Gruppe i Regionsudvalget"
+      },
+      {
+        "@language": "de",
+        "@value": "AdR-Fachkommission"
+      },
+      {
+        "@language": "el",
+        "@value": "Ομάδα της ΕτΠ"
+      },
+      {
+        "@language": "en",
+        "@value": "COR group"
+      },
+      {
+        "@language": "es",
+        "@value": "Grupo del CDR"
+      },
+      {
+        "@language": "et",
+        "@value": "Regioonide Komitee rühm"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alueiden komitean ryhmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Groupe du CdR"
+      },
+      {
+        "@language": "ga",
+        "@value": "Grúpa CnR"
+      },
+      {
+        "@language": "hr",
+        "@value": "Skupina OR-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "A Régiók Bizottságának politikai csoportja"
+      },
+      {
+        "@language": "it",
+        "@value": "Gruppo CdR"
+      },
+      {
+        "@language": "lt",
+        "@value": "RK frakcija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Reģionu komitejas politiskā grupa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Grupp tal-KtR"
+      },
+      {
+        "@language": "nl",
+        "@value": "Groep CvdR"
+      },
+      {
+        "@language": "pl",
+        "@value": "Grupa KR"
+      },
+      {
+        "@language": "pt",
+        "@value": "Grupo do CR"
+      },
+      {
+        "@language": "ro",
+        "@value": "Grup (CoR)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Skupina VR"
+      },
+      {
+        "@language": "sl",
+        "@value": "Skupina Odbora regij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Grupp i Regionkommittén"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_CMT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_CMT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b13"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-03-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_CMT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_CMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "EP parliamentary committees"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Парламентарна комисия на ЕП"
+      },
+      {
+        "@language": "cs",
+        "@value": "Parlamentní výbor Evropského parlamentu"
+      },
+      {
+        "@language": "da",
+        "@value": "Udvalg i Europa-Parlamentet"
+      },
+      {
+        "@language": "de",
+        "@value": "Ausschuss des Europäischen Parlaments"
+      },
+      {
+        "@language": "el",
+        "@value": "Κοινοβουλευτική επιτροπή του ΕΚ"
+      },
+      {
+        "@language": "en",
+        "@value": "EP parliamentary committee"
+      },
+      {
+        "@language": "es",
+        "@value": "Comisión parlamentaria del PE"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Parlamendi komisjon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan parlamentin valiokunta"
+      },
+      {
+        "@language": "fr",
+        "@value": "Commission parlementaire du PE"
+      },
+      {
+        "@language": "ga",
+        "@value": "Coiste parlaiminteach PE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Parlamentarni odbori EP-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai parlamenti bizottság"
+      },
+      {
+        "@language": "it",
+        "@value": "Commissione parlamentare PE"
+      },
+      {
+        "@language": "lt",
+        "@value": "EP parlamentinis komitetas"
+      },
+      {
+        "@language": "lv",
+        "@value": "EP parlamentārā komiteja"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kumitat parlamentari tal-PE"
+      },
+      {
+        "@language": "nl",
+        "@value": "Parlementaire commissie EP"
+      },
+      {
+        "@language": "pl",
+        "@value": "Komisja parlamentarna PE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comissão parlamentar do PE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comisii parlamentare (PE)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Parlamentný výbor EP"
+      },
+      {
+        "@language": "sl",
+        "@value": "Parlamentarni odbor Evropskega parlamenta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Utskott i Europaparlamentet"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CMT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_EXEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_EXEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2014-12-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_EXEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_EXEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Executive agencies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изпълнителна агенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Výkonná agentura"
+      },
+      {
+        "@language": "da",
+        "@value": "Forvaltningsorgan"
+      },
+      {
+        "@language": "de",
+        "@value": "Exekutivagentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκτελεστικός οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Executive agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia ejecutiva"
+      },
+      {
+        "@language": "et",
+        "@value": "Rakendusamet"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toimeenpanovirasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence exécutive"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht feidhmiúcháin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izvršna agencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Végrehajtó ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia esecutiva"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vykdomoji įstaiga"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izpildaģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija eżekuttiva"
+      },
+      {
+        "@language": "nl",
+        "@value": "Uitvoerend agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja wykonawcza"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência de execução"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenție executivă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Výkonná agentúra"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izvajalska agencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Genomförandeorgan"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EP_IG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EP_IG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EP_IG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EP_IG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "en",
+        "@value": "Intergroups"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/corporate-body-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Intergroup"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb3551d788c0f4a17a9e2ece3cba5cbd2b8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  }
+]

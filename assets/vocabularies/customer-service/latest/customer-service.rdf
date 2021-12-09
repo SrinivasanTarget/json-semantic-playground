@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/reliability">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>reliability</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>reliability</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>reliability</atold:op-code>
+    <dc:identifier>reliability</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Punctuality and reliability</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/other">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>other</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>other</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>other</atold:op-code>
+    <dc:identifier>other</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/clean">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>clean</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>clean</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>clean</atold:op-code>
+    <dc:identifier>clean</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Cleanliness of rolling stock and station facilities</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/info">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>info</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>info</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>info</atold:op-code>
+    <dc:identifier>info</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Information</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/cancel">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>cancel</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>cancel</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>cancel</atold:op-code>
+    <dc:identifier>cancel</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Cancellations</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/assistance">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>assistance</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>assistance</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>assistance</atold:op-code>
+    <dc:identifier>assistance</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Assistance for persons with reduced mobility</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/sat-surv">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>sat-surv</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>sat-surv</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>sat-surv</atold:op-code>
+    <dc:identifier>sat-surv</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Customer satisfaction survey</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Customer service</rdfs:label>
+    <at:prefLabel xml:lang="en">Customer service</at:prefLabel>
+    <at:table.id>customer-service</at:table.id>
+    <at:table.version.number>20210616-0</at:table.version.number>
+    <owl:versionInfo>20210616-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Customer service</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/ticket">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ticket</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ticket</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>ticket</atold:op-code>
+    <dc:identifier>ticket</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Ticketing</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/customer-service/complaint">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>complaint</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>complaint</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>complaint</atold:op-code>
+    <dc:identifier>complaint</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/customer-service"/>
+    <skos:prefLabel xml:lang="en">Complaint handling</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

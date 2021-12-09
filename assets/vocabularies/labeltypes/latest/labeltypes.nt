@@ -1,0 +1,244 @@
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://publications.europa.eu/ontology/authority/op-code> "GRAMMATICAL" .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://www.w3.org/2004/02/skos/core#definition> "ATTO was a label type in eProcurement-related authority tables to separate a label used in ATTO tables from preferred labels. ATTO is the internal translation manager application of the Publications Office of the European Union."@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Abridged is a label type used in Time period authority table to mark a label form for abbreviated label versions."@en .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://publications.europa.eu/ontology/authority/op-code> "DEMONYM" .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://publications.europa.eu/ontology/authority/authority-code> "GRAMMATICAL" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "long"@en .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "ATTOLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://publications.europa.eu/ontology/authority/authority-code> "DEMONYM" .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "orthographical"@en .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "preferred"@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://purl.org/dc/elements/1.1/identifier> "ORIGINALLABEL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://publications.europa.eu/ontology/authority/op-code> "ALTERNATIVELABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://publications.europa.eu/resource/authority/op-code> "COUNTLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://purl.org/dc/elements/1.1/identifier> "ADJECTIVE" .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018Luxembourgish\u2019 is the adjectival form in relation with Luxembourg in Country authority table, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://publications.europa.eu/resource/authority/op-code> "STANDARDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://www.w3.org/2004/02/skos/core#definition> "Acronym is a label type used in several authority tables to mark label form composed of the initial letters of the complet form of a name or expression."@en .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "COUNTLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://publications.europa.eu/resource/authority/op-code> "GRAMMATICAL" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018Publications Office of the European Union\u2019 is the long label for \u2018Publications Office\u2019 (preferred label) in Corporate body table, in English."@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "STANDARDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://publications.europa.eu/ontology/authority/op-code> "ACRONYM" .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://publications.europa.eu/resource/authority/op-code> "DEMONYM" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "abridged"@en .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018OP\u2019 is the acronym for \u2018Publications Office\u2019 (preferred label) in Corporate body table, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://publications.europa.eu/ontology/authority/authority-code> "CURRENCYSUBUNIT" .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "form"@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://publications.europa.eu/ontology/authority/op-code> "LONGLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://purl.org/dc/elements/1.1/identifier> "COUNTLABEL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "original"@en .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "LONGLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://purl.org/dc/elements/1.1/identifier> "STANDARDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Count is a label type used in Number authority table to mark the label form used for counting, without alternative or gender-marked forms."@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://publications.europa.eu/ontology/authority/authority-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://www.w3.org/2004/02/skos/core#prefLabel> "symbol"@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://purl.org/dc/elements/1.1/identifier> "CURRENCYSUBUNIT" .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "ABRIDGEDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2014-11-26" .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Official is a label type used in Country authority table to mark the official state name of a country. In some cases this official label is the same as the preferred label which marks the geographical country name."@en .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2018-02-28" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Preferred is a label type used in all authority tables to mark the mainly used label form."@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://publications.europa.eu/ontology/authority/op-code> "ORTHOGRAPHICAL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://publications.europa.eu/ontology/authority/op-code> "OFFICIALLABEL" .
+<http://publications.europa.eu/resource/authority/label-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "grammatical"@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://purl.org/dc/elements/1.1/identifier> "ABRIDGEDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://publications.europa.eu/ontology/authority/op-code> "FORMLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "OFFICIALLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://purl.org/dc/elements/1.1/identifier> "GRAMMATICAL" .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Label type"@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://publications.europa.eu/resource/authority/op-code> "SHORTLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://purl.org/dc/elements/1.1/identifier> "ATTOLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://publications.europa.eu/resource/authority/op-code> "CURRENCYSUBUNIT" .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://purl.org/dc/elements/1.1/identifier> "DEMONYM" .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://www.w3.org/2004/02/skos/core#definition> "Grammatical is a special label type which can be combined with other label types. It aims to mark multiple gender markings within a term or other grammatical relations. This type is not used yet."@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://publications.europa.eu/ontology/authority/op-code> "SYMBOL" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "subunit"@en .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type> <http://publications.europa.eu/ontology/authority/table.id> "label-type" .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://publications.europa.eu/resource/authority/op-code> "LONGLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018un\u2019 to count one in French, without mentioning the feminine form \u2018une\u2019 which also means one but is not used to count (un, deux, trois...)."@en .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "SHORTLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Original is a label type used in several authority tables to mark a label written in the original language, eventually in more scripts used."@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://purl.org/dc/elements/1.1/identifier> "SYMBOL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://publications.europa.eu/resource/authority/op-code> "ABRIDGEDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://www.w3.org/2004/02/skos/core#definition> "Alternative is a label type used in several authority tables to mark a label form different from the preferred label, without specifying the type of difference. It is another, lesser used form to express the same concept."@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "official"@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type> <http://www.w3.org/2000/01/rdf-schema#label> "Label type"@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://purl.org/dc/elements/1.1/identifier> "SHORTLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018m\u2019 is the symbol used for \u2018metre\u2019 in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Form was a label type in eProcurement-related authority tables to separate a label used in forms from preferred labels."@en .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018Grand Duchy of Luxembourg\u2019 is the official label for \u2018Luxembourg\u2019 (preferred label) in Country authority table, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018Apr\u2019 is the abridged label for \u2018April\u2019, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://publications.europa.eu/resource/authority/op-code> "OFFICIALLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://publications.europa.eu/ontology/authority/op-code> "ADJECTIVE" .
+<http://publications.europa.eu/resource/authority/label-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Label type"@en .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://publications.europa.eu/resource/authority/op-code> "FORMLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://publications.europa.eu/ontology/authority/end.use> "2019-09-17" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://publications.europa.eu/resource/authority/op-code> "ALTERNATIVELABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://www.w3.org/2004/02/skos/core#definition> "Adjectival is a label type used in Country authority table to mark the adjectival form related with a country."@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://publications.europa.eu/resource/authority/op-code> "SYMBOL" .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://publications.europa.eu/ontology/authority/end.use> "2019-09-17" .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "count"@en .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "FORMLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://purl.org/dc/elements/1.1/identifier> "LONGLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://www.w3.org/2004/02/skos/core#definition> "Subunit is a label type used in Currency authority table to mark the fractions of the main currency unit."@en .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "ATTO"@en .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "alternative"@en .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://publications.europa.eu/ontology/authority/authority-code> "ORTHOGRAPHICAL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://publications.europa.eu/ontology/authority/authority-code> "SYMBOL" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://publications.europa.eu/ontology/authority/op-code> "COUNTLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://publications.europa.eu/ontology/authority/op-code> "CURRENCYSUBUNIT" .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018Sorani\u2019 is an alternative label for \u2018Central Kurdish\u2019 in Language authority table, in English."@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "short"@en .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://www.w3.org/2004/02/skos/core#example> "Example: the French version of \u2018Assistant to the President\u2019 in Role qualifier authority table can have four forms as both the assistant and the president can be a man or a woman:\nAssistant du pr\u00E9sident (male/male)\nAssistante du pr\u00E9sident (female/male)\nAssistant de la pr\u00E9sidente (male/female)\nAssistante de la pr\u00E9sidente (female/female)"@en .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://publications.europa.eu/ontology/authority/op-code> "STANDARDLABEL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://publications.europa.eu/ontology/authority/op-code> "ORIGINALLABEL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://purl.org/dc/elements/1.1/identifier> "ALTERNATIVELABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://purl.org/dc/elements/1.1/identifier> "ORTHOGRAPHICAL" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://publications.europa.eu/ontology/authority/authority-code> "ORIGINALLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://purl.org/dc/elements/1.1/identifier> "OFFICIALLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018European Commission\u2019 in Corporate body table, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://publications.europa.eu/resource/authority/op-code> "ADJECTIVE" .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://publications.europa.eu/ontology/authority/authority-code> "ACRONYM" .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://www.w3.org/2004/02/skos/core#prefLabel> "adjectival"@en .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://publications.europa.eu/ontology/authority/op-code> "ABRIDGEDLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2014-11-26" .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://www.w3.org/2004/02/skos/core#prefLabel> "demonym"@en .
+<http://publications.europa.eu/resource/authority/label-type> <http://www.w3.org/2002/07/owl#versionInfo> "20210616-0" .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://publications.europa.eu/ontology/authority/authority-code> "ADJECTIVE" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018Commission\u2019 is the short label for \u2018European Commission\u2019 (preferred label) in Corporate body table, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://publications.europa.eu/resource/authority/op-code> "ORTHOGRAPHICAL" .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://purl.org/dc/elements/1.1/identifier> "ACRONYM" .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://publications.europa.eu/ontology/authority/op-code> "ATTOLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://www.w3.org/2004/02/skos/core#prefLabel> "acronym"@en .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/label-type/COUNTLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://www.w3.org/2004/02/skos/core#definition> "Demonym is a label type to mark the citizenship and/or inhabitant form related with a country. This label type is not used yet."@en .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://publications.europa.eu/resource/authority/op-code> "ORIGINALLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/STANDARDLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/label-type/GRAMMATICAL> <http://publications.europa.eu/ontology/authority/start.use> "2021-06-16" .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://publications.europa.eu/ontology/authority/authority-code> "ALTERNATIVELABEL" .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ADJECTIVE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/ACRONYM> <http://publications.europa.eu/resource/authority/op-code> "ACRONYM" .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Short is a label type used in several authority tables to mark a label form different from the preferred label. The short label is generally shorter than the preferred one."@en .
+<http://publications.europa.eu/resource/authority/label-type/DEMONYM> <http://publications.europa.eu/ontology/authority/start.use> "2018-02-22" .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://publications.europa.eu/ontology/authority/start.use> "2018-02-28" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/label-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20210616-0" .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/SHORTLABEL> <http://publications.europa.eu/ontology/authority/op-code> "SHORTLABEL" .
+<http://publications.europa.eu/resource/authority/labeltypes/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/label-type> .
+<http://publications.europa.eu/resource/authority/label-type/ABRIDGEDLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/SYMBOL> <http://www.w3.org/2004/02/skos/core#definition> "Symbol is a label type used in the Measurement unit authority table for displaying the symbols of different measurement units. These symbols and abbreviations can be different from SI (International System of Units) symbols in languages that use other than Latin alphabet."@en .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://www.w3.org/2004/02/skos/core#definition> "Orthographical is a special label type which can be combined with other label types. It can contain HTML tags. It aims to keep italic markings which have a meaning in some languages to separate foreign language elements in a term. This type is not used yet."@en .
+<http://publications.europa.eu/resource/authority/label-type/CURRENCYSUBUNIT> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018cent\u2019 (singular form), \u2018cents\u2019 (plural form) is the subunit for \u2018euro\u2019, in English."@en .
+<http://publications.europa.eu/resource/authority/label-type/OFFICIALLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/FORMLABEL> <http://purl.org/dc/elements/1.1/identifier> "FORMLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://www.w3.org/2004/02/skos/core#example> "Example: \u2018\u0446\u0440\u043D\u043E\u0433\u043E\u0440\u0441\u043A\u0438 \u0458\u0435\u0437\u0438\u043A\u2019 and \u2018crnogorski jezik\u2019 are the original Montenegrin labels for Montenegrin in Language authority table."@en .
+<http://publications.europa.eu/resource/authority/label-type/ORIGINALLABEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/label-type/ALTERNATIVELABEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/label-type/ORTHOGRAPHICAL> <http://www.w3.org/2004/02/skos/core#example> "Example: in the Latvian version of Euratom Supply Agency, \u2018Euratom Apg\u0101des a\u0123ent\u016Bra\u2019 the first word, Euratom is written with italic to show that this word comes from another language without translation."@en .
+<http://publications.europa.eu/resource/authority/label-type/ATTOLABEL> <http://publications.europa.eu/resource/authority/op-code> "ATTOLABEL" .
+<http://publications.europa.eu/resource/authority/label-type/LONGLABEL> <http://www.w3.org/2004/02/skos/core#definition> "Long is a label type used in several authority tables to mark a label form different from the preferred label. The long label is generally longer than the preferred one."@en .
+

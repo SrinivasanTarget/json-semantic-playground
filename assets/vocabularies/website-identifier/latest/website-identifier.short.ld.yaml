@@ -1,0 +1,688 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ACER_WS
+  deprecated: 'false'
+  key: ACER_WS
+  label_en: Agency for the Cooperation of Energy Regulators
+  label_it: "Agenzia per la cooperazione fra i regolatori nazionali dell\u2019energia"
+  url: http://publications.europa.eu/resource/authority/website-identifier/ACER_WS
+  valid_from: '2010-10-01'
+- country_code: BBI_WS
+  deprecated: 'false'
+  key: BBI_WS
+  label_en: Bio-based Industries Joint Undertaking
+  label_it: Impresa comune Bioindustrie
+  url: http://publications.europa.eu/resource/authority/website-identifier/BBI_WS
+  valid_from: '2014-05-26'
+- country_code: BEREC_WS
+  deprecated: 'false'
+  key: BEREC_WS
+  label_en: Body of European Regulators for Electronic Communications
+  label_it: Organismo dei regolatori europei delle comunicazioni elettroniche
+  url: http://publications.europa.eu/resource/authority/website-identifier/BEREC_WS
+  valid_from: '2010-01-07'
+- country_code: CDT_WS
+  deprecated: 'false'
+  key: CDT_WS
+  label_en: Translation Centre
+  label_it: Centro di traduzione
+  url: http://publications.europa.eu/resource/authority/website-identifier/CDT_WS
+  valid_from: '2010-10-01'
+- country_code: CEDEFOP_WS
+  deprecated: 'false'
+  key: CEDEFOP_WS
+  label_en: European Centre for the Development of Vocational Training
+  label_it: Centro europeo per lo sviluppo della formazione professionale
+  url: http://publications.europa.eu/resource/authority/website-identifier/CEDEFOP_WS
+  valid_from: '2010-10-01'
+- country_code: CEPOL_WS
+  deprecated: 'false'
+  key: CEPOL_WS
+  label_en: European Union Agency for Law Enforcement Training
+  label_it: "Agenzia dell\u2019Unione europea per la formazione delle autorit\xE0\
+    \ di contrasto"
+  url: http://publications.europa.eu/resource/authority/website-identifier/CEPOL_WS
+  valid_from: '2010-10-01'
+- country_code: CFCA_WS
+  deprecated: 'false'
+  key: CFCA_WS
+  label_en: European Fisheries Control Agency
+  label_it: Agenzia europea di controllo della pesca
+  url: http://publications.europa.eu/resource/authority/website-identifier/CFCA_WS
+  valid_from: '2010-10-01'
+- country_code: CHAFEA_WS
+  deprecated: 'false'
+  key: CHAFEA_WS
+  label_en: Consumers, Health, Agriculture and Food Executive Agency
+  label_it: "Agenzia esecutiva per i consumatori, la salute, l\u2019agricoltura e\
+    \ la sicurezza alimentare"
+  url: http://publications.europa.eu/resource/authority/website-identifier/CHAFEA_WS
+  valid_from: '2014-12-17'
+- country_code: CITIZENS_WS
+  deprecated: 'false'
+  key: CITIZENS_WS
+  label_en: Citizens' Dialogues
+  label_it: Dialoghi con i cittadini
+  url: http://publications.europa.eu/resource/authority/website-identifier/CITIZENS_WS
+  valid_from: '2014-12-01'
+- country_code: COM_WS
+  deprecated: 'false'
+  key: COM_WS
+  label_en: European Commission
+  label_it: Commissione europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/COM_WS
+  valid_from: '1997-01-01'
+- country_code: CONSIL_WS
+  deprecated: 'false'
+  key: CONSIL_WS
+  label_en: Council of the European Union
+  label_it: "Consiglio dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/website-identifier/CONSIL_WS
+  valid_from: '1997-01-01'
+- country_code: CORDIS_WS
+  deprecated: 'false'
+  key: CORDIS_WS
+  label_en: Community Research and Development Information Service
+  label_it: Servizio comunitario di informazione in materia di ricerca e sviluppo
+  url: http://publications.europa.eu/resource/authority/website-identifier/CORDIS_WS
+  valid_from: '2012-02-01'
+- country_code: COR_WS
+  deprecated: 'false'
+  key: COR_WS
+  label_en: European Committee of the Regions
+  label_it: Comitato europeo delle regioni
+  url: http://publications.europa.eu/resource/authority/website-identifier/COR_WS
+  valid_from: '1997-01-01'
+- country_code: CPVO_WS
+  deprecated: 'false'
+  key: CPVO_WS
+  label_en: Community Plant Variety Office
+  label_it: "Ufficio comunitario delle variet\xE0 vegetali"
+  url: http://publications.europa.eu/resource/authority/website-identifier/CPVO_WS
+  valid_from: '2010-10-01'
+- country_code: CURIA_WS
+  deprecated: 'false'
+  key: CURIA_WS
+  label_en: Court of Justice of the European Union
+  label_it: "Corte di giustizia dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/website-identifier/CURIA_WS
+  valid_from: '1997-01-01'
+- country_code: EACEA_WS
+  deprecated: 'false'
+  key: EACEA_WS
+  label_en: Education, Audiovisual and Culture Executive Agency
+  label_it: "Agenzia esecutiva per l\u2019istruzione, gli audiovisivi e la cultura"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EACEA_WS
+  valid_from: '2010-10-01'
+- country_code: EASA_WS
+  deprecated: 'false'
+  key: EASA_WS
+  label_en: European Aviation Safety Agency
+  label_it: Agenzia europea per la sicurezza aerea
+  url: http://publications.europa.eu/resource/authority/website-identifier/EASA_WS
+  valid_from: '2010-10-01'
+- country_code: EASO_WS
+  deprecated: 'false'
+  key: EASO_WS
+  label_en: European Asylum Support Office
+  label_it: "Ufficio europeo di sostegno per l\u2019asilo"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EASO_WS
+  valid_from: '2010-10-01'
+- country_code: EBA_WS
+  deprecated: 'false'
+  key: EBA_WS
+  label_en: European Banking Authority
+  label_it: "Autorit\xE0 bancaria europea"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EBA_WS
+  valid_from: '2011-01-01'
+- country_code: ECA_WS
+  deprecated: 'false'
+  key: ECA_WS
+  label_en: European Court of Auditors
+  label_it: Corte dei conti europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/ECA_WS
+  valid_from: '1997-01-01'
+- country_code: ECB_SUPERVISION_WS
+  deprecated: 'false'
+  key: ECB_SUPERVISION_WS
+  label_en: Banking Supervision
+  label_it: Vigilanza bancaria
+  url: http://publications.europa.eu/resource/authority/website-identifier/ECB_SUPERVISION_WS
+  valid_from: '2014-12-17'
+- country_code: ECB_WS
+  deprecated: 'false'
+  key: ECB_WS
+  label_en: European Central Bank
+  label_it: Banca centrale europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/ECB_WS
+  valid_from: '1997-11-10'
+- country_code: ECDC_WS
+  deprecated: 'false'
+  key: ECDC_WS
+  label_en: European Centre for Disease Prevention and Control
+  label_it: Centro europeo per la prevenzione e il controllo delle malattie
+  url: http://publications.europa.eu/resource/authority/website-identifier/ECDC_WS
+  valid_from: '2010-10-01'
+- country_code: ECHA_WS
+  deprecated: 'false'
+  key: ECHA_WS
+  label_en: European Chemicals Agency
+  label_it: Agenzia europea per le sostanze chimiche
+  url: http://publications.europa.eu/resource/authority/website-identifier/ECHA_WS
+  valid_from: '2007-01-01'
+- country_code: ECSEL_WS
+  deprecated: 'false'
+  key: ECSEL_WS
+  label_en: ECSEL Joint Undertaking
+  label_it: Impresa comune ECSEL
+  url: http://publications.europa.eu/resource/authority/website-identifier/ECSEL_WS
+  valid_from: '2014-06-27'
+- country_code: EDA_WS
+  deprecated: 'false'
+  key: EDA_WS
+  label_en: European Defence Agency
+  label_it: Agenzia europea per la difesa
+  url: http://publications.europa.eu/resource/authority/website-identifier/EDA_WS
+  valid_from: '2010-10-01'
+- country_code: EDPB_WS
+  deprecated: 'false'
+  key: EDPB_WS
+  label_en: European Data Protection Board
+  label_it: Comitato europeo per la protezione dei dati
+  url: http://publications.europa.eu/resource/authority/website-identifier/EDPB_WS
+  valid_from: '2018-05-25'
+- country_code: EDPS_WS
+  deprecated: 'false'
+  key: EDPS_WS
+  label_en: European Data Protection Supervisor
+  label_it: Garante europeo della protezione dei dati
+  url: http://publications.europa.eu/resource/authority/website-identifier/EDPS_WS
+  valid_from: '2001-01-12'
+- country_code: EEAS_WS
+  deprecated: 'false'
+  key: EEAS_WS
+  label_en: European External Action Service
+  label_it: "Servizio europeo per l\u2019azione esterna"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EEAS_WS
+  valid_from: '2010-03-01'
+- country_code: EEA_WS
+  deprecated: 'false'
+  key: EEA_WS
+  label_en: European Environment Agency
+  label_it: "Agenzia europea dell\u2019ambiente"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EEA_WS
+  valid_from: '2010-10-01'
+- country_code: EESC_WS
+  deprecated: 'false'
+  key: EESC_WS
+  label_en: European Economic and Social Committee
+  label_it: Comitato economico e sociale europeo
+  url: http://publications.europa.eu/resource/authority/website-identifier/EESC_WS
+  valid_from: '1997-01-01'
+- country_code: EFSA_WS
+  deprecated: 'false'
+  key: EFSA_WS
+  label_en: European Food Safety Authority
+  label_it: "Autorit\xE0 europea per la sicurezza alimentare"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EFSA_WS
+  valid_from: '2010-10-01'
+- country_code: EGSA_WS
+  deprecated: 'false'
+  key: EGSA_WS
+  label_en: European GNSS Agency
+  label_it: Agenzia del GNSS europeo
+  url: http://publications.europa.eu/resource/authority/website-identifier/EGSA_WS
+  valid_from: '2010-10-01'
+- country_code: EIB_WS
+  deprecated: 'false'
+  key: EIB_WS
+  label_en: European Investment Bank
+  label_it: Banca europea per gli investimenti
+  url: http://publications.europa.eu/resource/authority/website-identifier/EIB_WS
+  valid_from: '1997-01-01'
+- country_code: EIF_WS
+  deprecated: 'false'
+  key: EIF_WS
+  label_en: European Investment Fund
+  label_it: Fondo europeo per gli investimenti
+  url: http://publications.europa.eu/resource/authority/website-identifier/EIF_WS
+  valid_from: '1997-01-01'
+- country_code: EIGE_WS
+  deprecated: 'false'
+  key: EIGE_WS
+  label_en: European Institute for Gender Equality
+  label_it: "Istituto europeo per l\u2019uguaglianza di genere"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EIGE_WS
+  valid_from: '2010-10-01'
+- country_code: EIOPA_WS
+  deprecated: 'false'
+  key: EIOPA_WS
+  label_en: European Insurance and Occupational Pensions Authority
+  label_it: "Autorit\xE0 europea delle assicurazioni e delle pensioni aziendali e\
+    \ professionali"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EIOPA_WS
+  valid_from: '2010-10-24'
+- country_code: EIT_WS
+  deprecated: 'false'
+  key: EIT_WS
+  label_en: European Institute of Innovation and Technology
+  label_it: Istituto europeo di innovazione e tecnologia
+  url: http://publications.europa.eu/resource/authority/website-identifier/EIT_WS
+  valid_from: '2010-10-01'
+- country_code: EMCDDA_WS
+  deprecated: 'false'
+  key: EMCDDA_WS
+  label_en: European Monitoring Centre for Drugs and Drug Addiction
+  label_it: Osservatorio europeo delle droghe e delle tossicodipendenze
+  url: http://publications.europa.eu/resource/authority/website-identifier/EMCDDA_WS
+  valid_from: '2010-10-01'
+- country_code: EMEA_WS
+  deprecated: 'false'
+  key: EMEA_WS
+  label_en: European Medicines Agency
+  label_it: Agenzia europea per i medicinali
+  url: http://publications.europa.eu/resource/authority/website-identifier/EMEA_WS
+  valid_from: '2010-10-01'
+- country_code: EMSA_WS
+  deprecated: 'false'
+  key: EMSA_WS
+  label_en: European Maritime Safety Agency
+  label_it: Agenzia europea per la sicurezza marittima
+  url: http://publications.europa.eu/resource/authority/website-identifier/EMSA_WS
+  valid_from: '2010-10-01'
+- country_code: ENISA_WS
+  deprecated: 'false'
+  key: ENISA_WS
+  label_en: European Union Agency for Network and Information Security
+  label_it: "Agenzia dell\u2019Unione europea per la sicurezza delle reti e dell\u2019\
+    informazione"
+  url: http://publications.europa.eu/resource/authority/website-identifier/ENISA_WS
+  valid_from: '2005-01-01'
+- country_code: EP_CROA_WS
+  deprecated: 'false'
+  key: EP_CROA_WS
+  label_en: Hearing of Commissioner-designate Mimica
+  label_it: Audizione del Commissario designato Neven Mimica
+  url: http://publications.europa.eu/resource/authority/website-identifier/EP_CROA_WS
+  valid_from: '2013-05-02'
+- country_code: EP_ELECTION_OMB_WS
+  deprecated: 'false'
+  key: EP_ELECTION_OMB_WS
+  label_en: "Election of the European Ombudsman \u2013 2013"
+  label_it: Elezione del Mediatore europeo -- 2013
+  url: http://publications.europa.eu/resource/authority/website-identifier/EP_ELECTION_OMB_WS
+  valid_from: '2013-04-01'
+- country_code: EP_WS
+  deprecated: 'false'
+  key: EP_WS
+  label_en: European Parliament
+  label_it: Parlamento europeo
+  url: http://publications.europa.eu/resource/authority/website-identifier/EP_WS
+  valid_from: '1997-01-01'
+- country_code: ERA_WS
+  deprecated: 'false'
+  key: ERA_WS
+  label_en: European Union Agency for Railways
+  label_it: "Agenzia dell\u2019Unione europea per le ferrovie"
+  url: http://publications.europa.eu/resource/authority/website-identifier/ERA_WS
+  valid_from: '2010-10-01'
+- country_code: ERC_WS
+  deprecated: 'false'
+  key: ERC_WS
+  label_en: European Research Council Executive Agency
+  label_it: Agenzia esecutiva del Consiglio europeo della ricerca
+  url: http://publications.europa.eu/resource/authority/website-identifier/ERC_WS
+  valid_from: '2007-09-01'
+- country_code: ESA_WS
+  deprecated: 'false'
+  key: ESA_WS
+  label_en: European Space Agency
+  label_it: Agenzia spaziale europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/ESA_WS
+  valid_from: '2010-10-01'
+- country_code: ESMA_WS
+  deprecated: 'false'
+  key: ESMA_WS
+  label_en: European Securities and Markets Authority
+  label_it: "Autorit\xE0 europea degli strumenti finanziari e dei mercati"
+  url: http://publications.europa.eu/resource/authority/website-identifier/ESMA_WS
+  valid_from: '2010-10-01'
+- country_code: ESTAT_WS
+  deprecated: 'false'
+  key: ESTAT_WS
+  label_en: Statistical Office of the European Union
+  label_it: "Ufficio statistico dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/website-identifier/ESTAT_WS
+  valid_from: '2004-10-01'
+- country_code: ETF_WS
+  deprecated: 'false'
+  key: ETF_WS
+  label_en: European Training Foundation
+  label_it: Fondazione europea per la formazione
+  url: http://publications.europa.eu/resource/authority/website-identifier/ETF_WS
+  valid_from: '2010-10-01'
+- country_code: EUISS_WS
+  deprecated: 'false'
+  key: EUISS_WS
+  label_en: European Union Institute for Security Studies
+  label_it: "Istituto dell\u2019Unione europea per gli studi sulla sicurezza"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUISS_WS
+  valid_from: '2010-10-01'
+- country_code: EUI_WS
+  deprecated: 'false'
+  key: EUI_WS
+  label_en: European University Institute
+  label_it: Istituto universitario europeo
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUI_WS
+  valid_from: '2010-10-01'
+- country_code: EUODP_WS
+  deprecated: 'false'
+  key: EUODP_WS
+  label_en: EU Open Data Portal
+  label_it: "Portale Open Data dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUODP_WS
+  valid_from: '2012-12-01'
+- country_code: EURCOU_WS
+  deprecated: 'false'
+  key: EURCOU_WS
+  label_en: European Council
+  label_it: Consiglio europeo
+  url: http://publications.europa.eu/resource/authority/website-identifier/EURCOU_WS
+  valid_from: '1997-01-01'
+- country_code: EURLEX_WS
+  deprecated: 'false'
+  key: EURLEX_WS
+  label_en: EUR-Lex
+  label_it: EUR-Lex
+  url: http://publications.europa.eu/resource/authority/website-identifier/EURLEX_WS
+  valid_from: '2005-01-01'
+- country_code: EUROFOUND_WS
+  deprecated: 'false'
+  key: EUROFOUND_WS
+  label_en: European Foundation for the Improvement of Living and Working Conditions
+  label_it: Fondazione europea per il miglioramento delle condizioni di vita e di
+    lavoro
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUROFOUND_WS
+  valid_from: '2010-10-01'
+- country_code: EUROJUST_WS
+  deprecated: 'false'
+  key: EUROJUST_WS
+  label_en: "European Union\u2019s Judicial Cooperation Unit"
+  label_it: "Unit\xE0 europea di cooperazione giudiziaria"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUROJUST_WS
+  valid_from: '2010-10-01'
+- country_code: EUROKRATT_WS
+  deprecated: 'false'
+  key: EUROKRATT_WS
+  label_en: Eurokratt
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUROKRATT_WS
+  valid_from: '2014-01-01'
+- country_code: EUROPOL_WS
+  deprecated: 'false'
+  key: EUROPOL_WS
+  label_en: European Union Agency for Law Enforcement Cooperation
+  label_it: "Agenzia dell\u2019Unione europea per la cooperazione nell\u2019attivit\xE0\
+    \ di contrasto"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUROPOL_WS
+  valid_from: '2010-10-01'
+- country_code: EUROVOC_WS
+  deprecated: 'true'
+  key: EUROVOC_WS
+  label_en: EuroVoc
+  label_it: EuroVoc
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUROVOC_WS
+  valid_from: '2012-12-01'
+  valid_until: '2018-12-17'
+- country_code: EURUN_WS
+  deprecated: 'false'
+  key: EURUN_WS
+  label_en: European Union
+  label_it: Unione europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/EURUN_WS
+  valid_from: '1995-01-01'
+- country_code: EUR_CONVENTON_WS
+  deprecated: 'false'
+  key: EUR_CONVENTON_WS
+  label_en: European Convention
+  label_it: Convenzione europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUR_CONVENTON_WS
+  valid_from: '1999-12-01'
+  valid_until: '1999-12-02'
+- country_code: EUSC_WS
+  deprecated: 'false'
+  key: EUSC_WS
+  label_en: European Union Satellite Centre
+  label_it: "Centro satellitare dell\u2019Unione europea"
+  url: http://publications.europa.eu/resource/authority/website-identifier/EUSC_WS
+  valid_from: '2010-10-01'
+- country_code: EU_VOCABULARIES_WS
+  deprecated: 'false'
+  key: EU_VOCABULARIES_WS
+  label_en: EU Vocabularies
+  label_it: EU Vocabularies
+  url: http://publications.europa.eu/resource/authority/website-identifier/EU_VOCABULARIES_WS
+  valid_from: '2018-12-18'
+- country_code: E_JUSTICE_WS
+  deprecated: 'false'
+  key: E_JUSTICE_WS
+  label_en: European e-Justice Portal
+  label_it: Portale europeo della giustizia elettronica
+  url: http://publications.europa.eu/resource/authority/website-identifier/E_JUSTICE_WS
+  valid_from: '2010-07-01'
+- country_code: FCH_WS
+  deprecated: 'false'
+  key: FCH_WS
+  label_en: Fuel Cells and Hydrogen 2 Joint Undertaking
+  label_it: Impresa comune Celle a combustibile e idrogeno 2
+  url: http://publications.europa.eu/resource/authority/website-identifier/FCH_WS
+  valid_from: '2010-10-01'
+- country_code: FISH_INSEP_WS
+  deprecated: 'false'
+  key: FISH_INSEP_WS
+  label_en: Inseparable. Eat, Buy and Sell Sustainable Fish
+  label_it: Inseparabili. Mangia, compra e vendi pesce sostenibile
+  url: http://publications.europa.eu/resource/authority/website-identifier/FISH_INSEP_WS
+  valid_from: '2013-01-01'
+- country_code: FP5_WS
+  deprecated: 'true'
+  key: FP5_WS
+  label_en: "FP5 \u2013 Research and Innovation"
+  label_it: "FP5 \u2013 Ricerca e innovazione"
+  url: http://publications.europa.eu/resource/authority/website-identifier/FP5_WS
+  valid_from: '2006-12-18'
+  valid_until: '2017-11-24'
+- country_code: FRA_WS
+  deprecated: 'false'
+  key: FRA_WS
+  label_en: European Union Agency for Fundamental Rights
+  label_it: "Agenzia dell\u2019Unione europea per i diritti fondamentali"
+  url: http://publications.europa.eu/resource/authority/website-identifier/FRA_WS
+  valid_from: '2010-10-01'
+- country_code: FRONTEX_WS
+  deprecated: 'false'
+  key: FRONTEX_WS
+  label_en: European Border and Coast Guard Agency
+  label_it: Agenzia europea della guardia di frontiera e costiera
+  url: http://publications.europa.eu/resource/authority/website-identifier/FRONTEX_WS
+  valid_from: '2010-10-01'
+- country_code: FUSEN_WS
+  deprecated: 'false'
+  key: FUSEN_WS
+  label_en: Fusion for Energy Joint Undertaking
+  label_it: Impresa comune Fusion for Energy
+  url: http://publications.europa.eu/resource/authority/website-identifier/FUSEN_WS
+  valid_from: '2010-10-01'
+- country_code: ICDPPC_WS
+  deprecated: 'false'
+  key: ICDPPC_WS
+  label_en: International Conference of Data Protection and Privacy Commissioners
+  url: http://publications.europa.eu/resource/authority/website-identifier/ICDPPC_WS
+  valid_from: '2016-03-31'
+- country_code: IMI_WS
+  deprecated: 'false'
+  key: IMI_WS
+  label_en: IMI 2 Joint Undertaking
+  label_it: Impresa comune IMI 2
+  url: http://publications.europa.eu/resource/authority/website-identifier/IMI_WS
+  valid_from: '2010-10-01'
+- country_code: INEA_WS
+  deprecated: 'false'
+  key: INEA_WS
+  label_en: Innovation and Networks Executive Agency
+  label_it: "Agenzia esecutiva per l\u2019innovazione e le reti"
+  url: http://publications.europa.eu/resource/authority/website-identifier/INEA_WS
+  valid_from: '2009-03-01'
+- country_code: LISA_WS
+  deprecated: 'false'
+  key: LISA_WS
+  label_en: European Agency for the Operational Management of Large-Scale IT Systems
+    in the Area of Freedom, Security and Justice
+  label_it: "Agenzia europea per la gestione operativa dei sistemi IT su larga scala\
+    \ nello spazio di libert\xE0, sicurezza e giustizia"
+  url: http://publications.europa.eu/resource/authority/website-identifier/LISA_WS
+  valid_from: '2011-11-01'
+- country_code: MARE_WS
+  deprecated: 'false'
+  key: MARE_WS
+  label_en: European Maritime Day
+  label_it: Giornata europea dei mari
+  url: http://publications.europa.eu/resource/authority/website-identifier/MARE_WS
+  valid_from: '2008-05-20'
+- country_code: MDR_WS
+  deprecated: 'true'
+  key: MDR_WS
+  label_en: Metadata Registry
+  url: http://publications.europa.eu/resource/authority/website-identifier/MDR_WS
+  valid_from: '2012-07-05'
+  valid_until: '2018-12-17'
+- country_code: N_LEX_WS
+  deprecated: 'false'
+  key: N_LEX_WS
+  label_en: N-Lex
+  label_it: N-Lex
+  url: http://publications.europa.eu/resource/authority/website-identifier/N_LEX_WS
+  valid_from: '2006-04-01'
+- country_code: OAMI_WS
+  deprecated: 'false'
+  key: OAMI_WS
+  label_en: European Union Intellectual Property Office
+  label_it: "Ufficio dell'Unione europea per la propriet\xE0 intellettuale"
+  url: http://publications.europa.eu/resource/authority/website-identifier/OAMI_WS
+  valid_from: '2016-03-23'
+- country_code: OLAF_WS
+  deprecated: 'false'
+  key: OLAF_WS
+  label_en: European Anti-Fraud Office
+  label_it: Ufficio europeo per la lotta antifrode
+  url: http://publications.europa.eu/resource/authority/website-identifier/OLAF_WS
+  valid_from: '1999-06-01'
+- country_code: OMB_WS
+  deprecated: 'false'
+  key: OMB_WS
+  label_en: European Ombudsman
+  label_it: Mediatore europeo
+  url: http://publications.europa.eu/resource/authority/website-identifier/OMB_WS
+  valid_from: '1997-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/website-identifier/OP_DATPRO
+- country_code: ORG_FARM_WS
+  deprecated: 'false'
+  key: ORG_FARM_WS
+  label_en: Organic farming
+  label_it: Agricoltura biologica
+  url: http://publications.europa.eu/resource/authority/website-identifier/ORG_FARM_WS
+  valid_from: '2007-01-01'
+- country_code: OSHA_WS
+  deprecated: 'false'
+  key: OSHA_WS
+  label_en: European Agency for Safety and Health at Work
+  label_it: Agenzia europea per la sicurezza e la salute sul lavoro
+  url: http://publications.europa.eu/resource/authority/website-identifier/OSHA_WS
+  valid_from: '2010-10-01'
+- country_code: PRELEX_WS
+  deprecated: 'true'
+  key: PRELEX_WS
+  label_en: PreLex
+  label_it: PreLex
+  url: http://publications.europa.eu/resource/authority/website-identifier/PRELEX_WS
+  valid_from: '2005-01-01'
+  valid_until: '2018-05-30'
+- country_code: PUBL_WS
+  deprecated: 'false'
+  key: PUBL_WS
+  label_en: Publications Office of the European Union
+  label_it: Ufficio delle pubblicazioni dell'Unione europea
+  url: http://publications.europa.eu/resource/authority/website-identifier/PUBL_WS
+  valid_from: '2009-07-01'
+- country_code: S2R_WS
+  deprecated: 'false'
+  key: S2R_WS
+  label_en: Shift2Rail Joint Undertaking
+  label_it: Impresa comune Shift2Rail
+  url: http://publications.europa.eu/resource/authority/website-identifier/S2R_WS
+  valid_from: '2014-07-07'
+- country_code: SCOREBOARD_WS
+  deprecated: 'false'
+  key: SCOREBOARD_WS
+  label_en: Single Market Scoreboard
+  label_it: Quadro di valutazione del mercato unico
+  url: http://publications.europa.eu/resource/authority/website-identifier/SCOREBOARD_WS
+  valid_from: '2012-10-24'
+- country_code: SESAR_WS
+  deprecated: 'false'
+  key: SESAR_WS
+  label_en: SESAR Joint Undertaking
+  label_it: Impresa comune SESAR
+  url: http://publications.europa.eu/resource/authority/website-identifier/SESAR_WS
+  valid_from: '2010-10-01'
+- country_code: SKY_WS
+  deprecated: 'false'
+  key: SKY_WS
+  label_en: Clean Sky 2 Joint Undertaking
+  label_it: Impresa comune Clean Sky 2
+  url: http://publications.europa.eu/resource/authority/website-identifier/SKY_WS
+  valid_from: '2010-10-01'
+- country_code: SRB_WS
+  deprecated: 'false'
+  key: SRB_WS
+  label_en: Single Resolution Board
+  label_it: Comitato di risoluzione unico
+  url: http://publications.europa.eu/resource/authority/website-identifier/SRB_WS
+  valid_from: '2015-01-01'
+- country_code: TED_WS
+  deprecated: 'false'
+  key: TED_WS
+  label_en: Tenders Electronic Daily
+  label_it: Tenders Electronic Daily
+  url: http://publications.europa.eu/resource/authority/website-identifier/TED_WS
+  valid_from: '1998-01-01'
+- country_code: WHOISWHO_WS
+  deprecated: 'false'
+  key: WHOISWHO_WS
+  label_en: EU Whoiswho
+  label_it: EU Whoiswho
+  url: http://publications.europa.eu/resource/authority/website-identifier/WHOISWHO_WS
+  valid_from: '2012-01-01'

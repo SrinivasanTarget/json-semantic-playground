@@ -1,0 +1,62 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: INT
+  deprecated: 'false'
+  key: INT
+  label_en: internal
+  label_it: interno
+  url: http://publications.europa.eu/resource/authority/procedure-nature/INT
+  valid_from: '1958-01-01'
+- country_code: INTERINST
+  deprecated: 'false'
+  key: INTERINST
+  label_en: interinstitutional
+  label_it: interistituzionale
+  url: http://publications.europa.eu/resource/authority/procedure-nature/INTERINST
+  valid_from: '1958-01-01'
+- country_code: JURISD
+  deprecated: 'false'
+  key: JURISD
+  label_en: jurisdictional
+  label_it: giurisdizionale
+  url: http://publications.europa.eu/resource/authority/procedure-nature/JURISD
+  valid_from: '1958-01-01'
+- country_code: LEG
+  deprecated: 'false'
+  key: LEG
+  label_en: legislative
+  label_it: legislativo
+  url: http://publications.europa.eu/resource/authority/procedure-nature/LEG
+  valid_from: '1958-01-01'
+- country_code: NON_LEG
+  deprecated: 'false'
+  key: NON_LEG
+  label_en: non legislative
+  label_it: non legislativo
+  url: http://publications.europa.eu/resource/authority/procedure-nature/NON_LEG
+  valid_from: '1958-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/procedure-nature/OP_DATPRO

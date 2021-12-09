@@ -1,0 +1,1838 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/bud-pay",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "bud-pay"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "bud-pay"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "bud-pay"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "bud-pay"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, чийто бюджет се използва за плащане за поръчката"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace, z jejíhož rozpočtu je zakázka placena"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, hvis budget anvendes til at betale for kontrakten"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, aus deren Mitteln der Auftrag bezahlt wird"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός του οποίου ο προϋπολογισμός χρησιμοποιείται για την πληρωμή της σύμβασης"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation whose budget is used to pay for the contract"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización cuyo presupuesto se utiliza para pagar el contrato"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, kelle eelarvet kasutatakse lepingu eest tasumiseks"
+      },
+      {
+        "@language": "fi",
+        "@value": "Organisaatio, jonka talousarviota käytetään sopimuksen maksamiseen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation dont le budget est utilisé pour payer le marché"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a n-úsáidtear a buiséad chun íoc as an gconradh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija iz čijih se proračunskih sredstava plaća ugovor"
+      },
+      {
+        "@language": "hu",
+        "@value": "Az a szervezet, amelynek költségvetését a szerződés kifizetésére használják"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione dal cui bilancio è finanziato l'appalto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, iš kurios biudžeto mokama pagal sutartį"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kuras budžetu izmanto, lai samaksātu par līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li l-baġit tagħha jintuża għall-pagament tal-kuntratt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie waarvan het budget wordt gebruikt om voor de opdracht te betalen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja, której budżet jest wykorzystywany do sfinansowania umowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização cujo orçamento é utilizado para pagar o contrato"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația al cărei buget este utilizat pentru plata contractului"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia, ktorej rozpočet sa používa na úhradu zákazky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, katere proračunska sredstva se uporabljajo za plačilo naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation vars budget används för att betala för kontraktet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/group-lead",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "group-lead"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "group-lead"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "group-lead"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "group-lead"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Водач на група"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vedoucí skupiny"
+      },
+      {
+        "@language": "da",
+        "@value": "Gruppeleder"
+      },
+      {
+        "@language": "de",
+        "@value": "Federführendes Mitglied"
+      },
+      {
+        "@language": "el",
+        "@value": "Επικεφαλής ομάδας"
+      },
+      {
+        "@language": "en",
+        "@value": "Group leader"
+      },
+      {
+        "@language": "es",
+        "@value": "Jefe de grupo"
+      },
+      {
+        "@language": "et",
+        "@value": "Rühmajuht"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ryhmänvetäjä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Chef de groupe"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceannaire grúpa"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vođa skupine"
+      },
+      {
+        "@language": "hu",
+        "@value": "Csoportvezető"
+      },
+      {
+        "@language": "it",
+        "@value": "Capofila"
+      },
+      {
+        "@language": "lt",
+        "@value": "Grupės vadovas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Grupas vadītājs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Mexxej ta' grupp"
+      },
+      {
+        "@language": "nl",
+        "@value": "Groepsleider"
+      },
+      {
+        "@language": "pl",
+        "@value": "Lider grupy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Líder do grupo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Lider de grup"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vedúci subjekt skupiny"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vodja skupine"
+      },
+      {
+        "@language": "sv",
+        "@value": "Gruppledare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/signatory",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "signatory"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "signatory"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "signatory"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "signatory"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която подписва договора"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace podepisující smlouvu"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der undertegner kontrakten"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die den Auftrag unterzeichnet"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που υπογράφει τη σύμβαση"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation signing the contract"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que firma el contrato"
+      },
+      {
+        "@language": "et",
+        "@value": "Lepingu allkirjastav organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sopimuksen allekirjoittava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui signe le marché"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht atá ag síniú an chonartha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja potpisuje ugovor"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szerződést aláíró szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che firma il contratto di appalto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, pasirašanti sutartį"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas paraksta līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tiffirma l-kuntratt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die het contract ondertekent"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja podpisująca umowę"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que assina o contrato"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care semnează contractul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia podpisujúca zmluvu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki podpiše pogodbo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som undertecknar kontraktet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/exec-pay",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "exec-pay"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "exec-pay"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "exec-pay"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "exec-pay"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която извършва плащането"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace provádějící platbu"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der udfører betalingen"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die die Zahlung ausführt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που εκτελεί την πληρωμή"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation executing the payment"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que ejecuta el pago"
+      },
+      {
+        "@language": "et",
+        "@value": "Makset teostav organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Maksun suorittava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui exécute le paiement"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a dhéanann an íocaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja izvršava plaćanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fizetést végző szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che esegue il pagamento"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, atliekanti mokėjimus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas izpilda maksājumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li twettaq il-pagament"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die de betaling uitvoert"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja realizująca płatność"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que executa o pagamento"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care execută plata"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia vykonávajúca platbu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki izvede plačilo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som verkställer betalningen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/offl-acc",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "offl-acc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "offl-acc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "offl-acc"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "offl-acc"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която предоставя достъп до документацията за поръчката без връзка с интернет"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující přístup k zadávací dokumentaci v režimu offline"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der sikrer adgang til udbudsdokumenterne offline"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die einen Offline-Zugang zu den Vergabeunterlagen bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός παροχής εκτός διαδικτύου πρόσβασης στα έγγραφα της δημόσιας σύμβασης"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing offline access to the procurement documents"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona acceso fuera de línea a los documentos de la contratación"
+      },
+      {
+        "@language": "et",
+        "@value": "Hankedokumentidele internetivälist juurdepääsu pakkuv organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankinta-asiakirjoja offline-tilassa tarjoava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit un accès hors-ligne aux documents de marché"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn rochtain as líne ar na doiciméid soláthair"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja osigurava izvanmrežni pristup dokumentaciji o nabavi"
+      },
+      {
+        "@language": "hu",
+        "@value": "A közbeszerzési dokumentumokhoz offline hozzáférést biztosító szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione alla quale rivolgersi per l'accesso offline ai documenti di gara"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti neinternetinę prieigą prie pirkimo dokumentų"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas nodrošina bezsaistes piekļuvi iepirkuma procedūras dokumentiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi aċċess offline għad-dokumenti tal-akkwist"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die offlinetoegang verleent tot de aanbestedingsstukken"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja zapewniająca dostęp offline do dokumentów zamówienia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece acesso fora de linha aos documentos do concurso"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care oferă acces offline la documentele achiziției"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca offline prístup k súťažným podkladom"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki omogoča nespletni dostop do dokumentov v zvezi z oddajo javnega naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som ger offlineåtkomst till upphandlingsdokumenten"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organisation subrole"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "organisation-subrole"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Organisation subrole"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organisation subrole"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/recepient",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "recepient"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "recepient"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "recepient"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "recepient"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която получава офертите"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace přijímající nabídky"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der modtager tilbud"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Angebote entgegennimmt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός παραλαβής των προσφορών"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation receiving tenders"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que recibe ofertas"
+      },
+      {
+        "@language": "et",
+        "@value": "Pakkumusi vastu võttev organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjouksia vastaanottava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui reçoit les offres"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a fhaigheann tairiscintí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja prima ponude"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlatokat fogadó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che riceve le offerte"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, priimanti pasiūlymus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas saņem piedāvājumus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tirċievi l-offerti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die inschrijvingen ontvangt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja przyjmująca oferty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que recebe as propostas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care primește ofertele"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia prijímajúca ponuky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki prejema ponudbe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som mottar anbud"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/lim-prov",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "lim-prov"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2020-12-15"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "lim-prov"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "lim-prov"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "lim-prov"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която предоставя повече информация за сроковете за процедурите за преразглеждане (обжалване)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující další informace o lhůtách pro podání návrhů na přezkum"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der leverer yderligere oplysninger om tidsfristerne for klageprocedurerne"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die weitere Informationen über die Fristen für die Nachprüfungsverfahren bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός παροχής περισσότερων πληροφοριών σχετικά με τις προθεσμίες των διαδικασιών προσφυγής"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing more information on the time limits for review procedures"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona más información sobre los plazos para los procedimientos de recurso"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis annab lisateavet läbivaatamismenetluse tähtaegade kohta"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muutoksenhakumenettelyjen määräajoista lisätietoja tarjoava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit des précisions concernant les délais d’introduction des recours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn tuilleadh faisnéise faoi na teorainneacha ama a bhaineann le nósanna imeachta athbhreithnithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja pruža više informacija o rokovima za postupke preispitivanja (pravne zaštite)"
+      },
+      {
+        "@language": "hu",
+        "@value": "A felülvizsgálati eljárások határidejével kapcsolatban további információt nyújtó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione alla quale rivolgersi per informazioni complementari sui termini per le procedure di ricorso"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti daugiau informacijos apie peržiūros procedūrų terminus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas sniedz sīkāku informāciju par pārskatīšanas procedūru termiņiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi iktar informazzjoni dwar il-limiti ta’ żmien għall-proċeduri tar-rieżami"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die meer informatie geeft over de termijnen voor beroepsprocedures"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca dodatkowych informacji na temat terminów procedur odwoławczych"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece mais informações sobre os prazos dos procedimentos de recurso"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care furnizează mai multe informații cu privire la termenele pentru căile de atac"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca ďalšie informácie o lehotách pre postupy preskúmania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki daje dodatne informacije o rokih revizijskih postopkov"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som ger mer information om tidsfristerna för prövningsförfaranden"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/processor",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "processor"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "processor"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "processor"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "processor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която обработва офертите"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace zpracovávající nabídky"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der behandler tilbud"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Angebote bearbeitet"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός επεξεργασίας των προσφορών"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation processing tenders"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que tramita ofertas"
+      },
+      {
+        "@language": "et",
+        "@value": "Pakkumusi menetlev organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjouksia käsittelevä organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui traite les offres"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a phróiseálann tairiscintí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja obrađuje ponude"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlatokat feldolgozó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che tratta le offerte"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, tvarkanti pasiūlymus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas apstrādā piedāvājumus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipproċessa l-offerti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die inschrijvingen verwerkt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja rozpatrująca oferty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização responsável pelo tratamento das propostas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care prelucrează ofertele"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia spracúvajúca ponuky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki obdeluje ponudbe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som behandlar anbud"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/rev-info",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "rev-info"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "rev-info"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-12-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "rev-info"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "rev-info"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, предоставяща повече информация за процедурите за преглед (обжалване)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující další informace o podání návrhů na přezkum"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der leverer yderligere oplysninger om klageprocedurerne"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die weitere Informationen für die Nachprüfungsverfahren bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός παροχής περισσότερων πληροφοριών των διαδικασιών προσφυγής"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing more information on the review procedures"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona más información sobre los procedimientos de recurso"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis annab lisateavet läbivaatamismenetluse kohta"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muutoksenhakumenettelyjen määräajoista lisätietoja tarjoava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit des précisions concernant l'introduction des recours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn tuilleadh faisnéise faoi na nósanna imeachta athbhreithnithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja pruža više informacija o postupcima preispitivanja (pravne zaštite)"
+      },
+      {
+        "@language": "hu",
+        "@value": "A felülvizsgálati eljárásokról további információkat nyújtó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti daugiau informacijos apie peržiūros procedūras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas sniedz sīkāku informāciju par pārskatīšanas procedūru"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi iktar informazzjoni dwar proċeduri tar-rieżami"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die meer informatie geeft over beroepsprocedures"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca dodatkowych informacji na temat procedur odwoławczych"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece mais informações sobre os procedimentos de recurso"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care furnizează mai multe informații cu privire la căile de atac"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca ďalšie informácie o postupy preskúmania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki daje dodatne informacije o revizijskih postopkih"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som ger mer information om prövningsförfaranden"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/req-recep",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "req-recep"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "req-recep"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "req-recep"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "req-recep"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която получава заявленията за участие"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace přijímající žádosti o účast"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der modtager ansøgninger om deltagelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Teilnahmeanträge entgegennimmt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός παραλαβής αιτήσεων συμμετοχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation receiving requests to participate"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que recibe solicitudes de participación"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, millele laekuvad osalemistaotlused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osallistumishakemuksia vastaanottava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui reçoit les demandes de participation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a fhaigheann iarratais ar rannpháirtíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja prima zahtjeve za sudjelovanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részvételi jelentkezéseket fogadó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che riceve le domande di partecipazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, priimanti dalyvavimo prašymus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas saņem dalības pieprasījumus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tirċievi t-talbiet għall-parteċipazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die verzoeken tot deelname ontvangt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja przyjmująca wnioski o dopuszczenie do udziału"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que recebe pedidos de participação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care primește cererile de participare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia prijímajúca žiadosti o účasť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki prejema prijave za sodelovanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som mottar anbudsansökningar"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/info-prov",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "info-prov"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "info-prov"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "info-prov"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "info-prov"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която предоставя допълнителна информация за процедурата за възлагане"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující další informace o zadávacím řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der leverer supplerende oplysninger om udbudsproceduren"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die zusätzliche Informationen über das Vergabeverfahren bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός παροχής πρόσθετων πληροφοριών σχετικά με τη διαδικασία δημόσιων συμβάσεων"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing additional information about the procurement procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona información adicional sobre el procedimiento de contratación"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis annab lisateavet hankemenetluse kohta"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintamenettelystä lisätietoja antava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit des informations complémentaires sur la procédure de passation de marché"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn faisnéis bhreise faoin nós imeachta soláthair"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja pruža dodatne informacije o postupku javne nabave"
+      },
+      {
+        "@language": "hu",
+        "@value": "A közbeszerzési eljárással kapcsolatban további információt nyújtó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti papildomą informaciją apie pirkimo procedūrą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas sniedz papildu informāciju par iepirkuma procedūru"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi informazzjoni addizzjonali dwar il-proċedura tal-akkwist"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die nadere inlichtingen over de aanbestedingsprocedure verstrekt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca dodatkowych informacji na temat postępowania o udzielenie zamówienia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece informações adicionais sobre o processo de adjudicação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care furnizează informații suplimentare cu privire la procedura de achiziții"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca doplňujúce informácie o postupe verejného obstarávania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki daje na voljo dodatne informacije o postopku za oddajo javnega naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som ger kompletterande information om upphandlingsförfarandet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-subrole/req-proc",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "req-proc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "req-proc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "req-proc"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "req-proc"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-subrole"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която обработва заявленията за участие"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace zpracovávající žádosti o účast"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der behandler ansøgninger om deltagelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Teilnahmeanträge bearbeitet"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός επεξεργασίας αιτήσεων συμμετοχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation processing requests to participate"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que tramita solicitudes de participación"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis menetleb osalemistaotlusi"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osallistumishakemuksia käsittelevä organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui traite les demandes de participation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a phróiseálann iarratais ar rannpháirtíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja obrađuje zahtjeve za sudjelovanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részvételi jelentkezéseket feldolgozó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che tratta le domande di partecipazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, tvarkanti dalyvavimo prašymus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas apstrādā dalības pieprasījumus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipproċessa t-talbiet għall-parteċipazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die verzoeken tot deelname verwerkt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja rozpatrująca wnioski o dopuszczenie do udziału"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que trata os pedidos de participação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care prelucrează cererile de participare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia spracúvajúca žiadosti o účasť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki obdeluje prijave za sodelovanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som behandlar anbudsansökningar"
+      }
+    ]
+  }
+]

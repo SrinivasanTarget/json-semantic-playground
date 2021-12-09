@@ -1,0 +1,358 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: AD
+  deprecated: 'false'
+  key: AD
+  label_en: AD
+  url: http://publications.europa.eu/resource/authority/position-grade/AD
+  valid_from: '1958-01-01'
+- country_code: AD10
+  deprecated: 'false'
+  key: AD10
+  label_en: AD 10
+  url: http://publications.europa.eu/resource/authority/position-grade/AD10
+  valid_from: '1958-01-01'
+- country_code: AD11
+  deprecated: 'false'
+  key: AD11
+  label_en: AD 11
+  url: http://publications.europa.eu/resource/authority/position-grade/AD11
+  valid_from: '1958-01-01'
+- country_code: AD12
+  deprecated: 'false'
+  key: AD12
+  label_en: AD 12
+  url: http://publications.europa.eu/resource/authority/position-grade/AD12
+  valid_from: '1958-01-01'
+- country_code: AD13
+  deprecated: 'false'
+  key: AD13
+  label_en: AD 13
+  url: http://publications.europa.eu/resource/authority/position-grade/AD13
+  valid_from: '1958-01-01'
+- country_code: AD14
+  deprecated: 'false'
+  key: AD14
+  label_en: AD 14
+  url: http://publications.europa.eu/resource/authority/position-grade/AD14
+  valid_from: '1958-01-01'
+- country_code: AD15
+  deprecated: 'false'
+  key: AD15
+  label_en: AD 15
+  url: http://publications.europa.eu/resource/authority/position-grade/AD15
+  valid_from: '1958-01-01'
+- country_code: AD16
+  deprecated: 'false'
+  key: AD16
+  label_en: AD 16
+  url: http://publications.europa.eu/resource/authority/position-grade/AD16
+  valid_from: '1958-01-01'
+- country_code: AD5
+  deprecated: 'false'
+  key: AD5
+  label_en: AD 5
+  url: http://publications.europa.eu/resource/authority/position-grade/AD5
+  valid_from: '1958-01-01'
+- country_code: AD6
+  deprecated: 'false'
+  key: AD6
+  label_en: AD 6
+  url: http://publications.europa.eu/resource/authority/position-grade/AD6
+  valid_from: '1958-01-01'
+- country_code: AD7
+  deprecated: 'false'
+  key: AD7
+  label_en: AD 7
+  url: http://publications.europa.eu/resource/authority/position-grade/AD7
+  valid_from: '1958-01-01'
+- country_code: AD8
+  deprecated: 'false'
+  key: AD8
+  label_en: AD 8
+  url: http://publications.europa.eu/resource/authority/position-grade/AD8
+  valid_from: '1958-01-01'
+- country_code: AD9
+  deprecated: 'false'
+  key: AD9
+  label_en: AD 9
+  url: http://publications.europa.eu/resource/authority/position-grade/AD9
+  valid_from: '1958-01-01'
+- country_code: AST
+  deprecated: 'false'
+  key: AST
+  label_en: AST
+  url: http://publications.europa.eu/resource/authority/position-grade/AST
+  valid_from: '1958-01-01'
+- country_code: AST1
+  deprecated: 'false'
+  key: AST1
+  label_en: AST 1
+  url: http://publications.europa.eu/resource/authority/position-grade/AST1
+  valid_from: '1958-01-01'
+- country_code: AST10
+  deprecated: 'false'
+  key: AST10
+  label_en: AST 10
+  url: http://publications.europa.eu/resource/authority/position-grade/AST10
+  valid_from: '1958-01-01'
+- country_code: AST11
+  deprecated: 'false'
+  key: AST11
+  label_en: AST 11
+  url: http://publications.europa.eu/resource/authority/position-grade/AST11
+  valid_from: '1958-01-01'
+- country_code: AST2
+  deprecated: 'false'
+  key: AST2
+  label_en: AST 2
+  url: http://publications.europa.eu/resource/authority/position-grade/AST2
+  valid_from: '1958-01-01'
+- country_code: AST3
+  deprecated: 'false'
+  key: AST3
+  label_en: AST 3
+  url: http://publications.europa.eu/resource/authority/position-grade/AST3
+  valid_from: '1958-01-01'
+- country_code: AST4
+  deprecated: 'false'
+  key: AST4
+  label_en: AST 4
+  url: http://publications.europa.eu/resource/authority/position-grade/AST4
+  valid_from: '1958-01-01'
+- country_code: AST5
+  deprecated: 'false'
+  key: AST5
+  label_en: AST 5
+  url: http://publications.europa.eu/resource/authority/position-grade/AST5
+  valid_from: '1958-01-01'
+- country_code: AST6
+  deprecated: 'false'
+  key: AST6
+  label_en: AST 6
+  url: http://publications.europa.eu/resource/authority/position-grade/AST6
+  valid_from: '1958-01-01'
+- country_code: AST7
+  deprecated: 'false'
+  key: AST7
+  label_en: AST 7
+  url: http://publications.europa.eu/resource/authority/position-grade/AST7
+  valid_from: '1958-01-01'
+- country_code: AST8
+  deprecated: 'false'
+  key: AST8
+  label_en: AST 8
+  url: http://publications.europa.eu/resource/authority/position-grade/AST8
+  valid_from: '1958-01-01'
+- country_code: AST9
+  deprecated: 'false'
+  key: AST9
+  label_en: AST 9
+  url: http://publications.europa.eu/resource/authority/position-grade/AST9
+  valid_from: '1958-01-01'
+- country_code: CONTR1
+  deprecated: 'false'
+  key: CONTR1
+  label_en: Contractual I
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR1
+  valid_from: '1958-01-01'
+- country_code: CONTR1_1
+  deprecated: 'false'
+  key: CONTR1_1
+  label_en: Contractual I-1
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR1_1
+  valid_from: '1958-01-01'
+- country_code: CONTR1_2
+  deprecated: 'false'
+  key: CONTR1_2
+  label_en: Contractual I-2
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR1_2
+  valid_from: '1958-01-01'
+- country_code: CONTR1_3
+  deprecated: 'false'
+  key: CONTR1_3
+  label_en: Contractual I-3
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR1_3
+  valid_from: '1958-01-01'
+- country_code: CONTR2
+  deprecated: 'false'
+  key: CONTR2
+  label_en: Contractual II
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR2
+  valid_from: '1958-01-01'
+- country_code: CONTR2_4
+  deprecated: 'false'
+  key: CONTR2_4
+  label_en: Contractual II-4
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR2_4
+  valid_from: '1958-01-01'
+- country_code: CONTR2_5
+  deprecated: 'false'
+  key: CONTR2_5
+  label_en: Contractual II-5
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR2_5
+  valid_from: '1958-01-01'
+- country_code: CONTR2_6
+  deprecated: 'false'
+  key: CONTR2_6
+  label_en: Contractual II-6
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR2_6
+  valid_from: '1958-01-01'
+- country_code: CONTR2_7
+  deprecated: 'false'
+  key: CONTR2_7
+  label_en: Contractual II-7
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR2_7
+  valid_from: '1958-01-01'
+- country_code: CONTR3
+  deprecated: 'false'
+  key: CONTR3
+  label_en: Contractual III
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR3
+  valid_from: '1958-01-01'
+- country_code: CONTR3_10
+  deprecated: 'false'
+  key: CONTR3_10
+  label_en: Contractual III-10
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR3_10
+  valid_from: '1958-01-01'
+- country_code: CONTR3_11
+  deprecated: 'false'
+  key: CONTR3_11
+  label_en: Contractual III-11
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR3_11
+  valid_from: '1958-01-01'
+- country_code: CONTR3_12
+  deprecated: 'false'
+  key: CONTR3_12
+  label_en: Contractual III-12
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR3_12
+  valid_from: '1958-01-01'
+- country_code: CONTR3_8
+  deprecated: 'false'
+  key: CONTR3_8
+  label_en: Contractual III-8
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR3_8
+  valid_from: '1958-01-01'
+- country_code: CONTR3_9
+  deprecated: 'false'
+  key: CONTR3_9
+  label_en: Contractual III-9
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR3_9
+  valid_from: '1958-01-01'
+- country_code: CONTR4
+  deprecated: 'false'
+  key: CONTR4
+  label_en: Contractual IV
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4
+  valid_from: '1958-01-01'
+- country_code: CONTR4_13
+  deprecated: 'false'
+  key: CONTR4_13
+  label_en: Contractual IV-13
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4_13
+  valid_from: '1958-01-01'
+- country_code: CONTR4_14
+  deprecated: 'false'
+  key: CONTR4_14
+  label_en: Contractual IV-14
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4_14
+  valid_from: '1958-01-01'
+- country_code: CONTR4_15
+  deprecated: 'false'
+  key: CONTR4_15
+  label_en: Contractual IV-15
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4_15
+  valid_from: '1958-01-01'
+- country_code: CONTR4_16
+  deprecated: 'false'
+  key: CONTR4_16
+  label_en: Contractual IV-16
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4_16
+  valid_from: '1958-01-01'
+- country_code: CONTR4_17
+  deprecated: 'false'
+  key: CONTR4_17
+  label_en: Contractual IV-17
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4_17
+  valid_from: '1958-01-01'
+- country_code: CONTR4_18
+  deprecated: 'false'
+  key: CONTR4_18
+  label_en: Contractual IV-18
+  url: http://publications.europa.eu/resource/authority/position-grade/CONTR4_18
+  valid_from: '1958-01-01'
+- country_code: NAT_EXP
+  deprecated: 'true'
+  key: NAT_EXP
+  label_en: Seconded national expert
+  url: http://publications.europa.eu/resource/authority/position-grade/NAT_EXP
+  valid_from: '1958-01-01'
+  valid_until: '1958-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/position-grade/OP_DATPRO
+- country_code: SC
+  deprecated: 'false'
+  key: SC
+  label_en: AST/SC
+  url: http://publications.europa.eu/resource/authority/position-grade/SC
+  valid_from: '1958-01-01'
+- country_code: SC1
+  deprecated: 'false'
+  key: SC1
+  label_en: AST/SC 1
+  url: http://publications.europa.eu/resource/authority/position-grade/SC1
+  valid_from: '1958-01-01'
+- country_code: SC2
+  deprecated: 'false'
+  key: SC2
+  label_en: AST/SC 2
+  url: http://publications.europa.eu/resource/authority/position-grade/SC2
+  valid_from: '1958-01-01'
+- country_code: SC3
+  deprecated: 'false'
+  key: SC3
+  label_en: AST/SC 3
+  url: http://publications.europa.eu/resource/authority/position-grade/SC3
+  valid_from: '1958-01-01'
+- country_code: SC4
+  deprecated: 'false'
+  key: SC4
+  label_en: AST/SC 4
+  url: http://publications.europa.eu/resource/authority/position-grade/SC4
+  valid_from: '1958-01-01'
+- country_code: SC5
+  deprecated: 'false'
+  key: SC5
+  label_en: AST/SC 5
+  url: http://publications.europa.eu/resource/authority/position-grade/SC5
+  valid_from: '1958-01-01'
+- country_code: SC6
+  deprecated: 'false'
+  key: SC6
+  label_en: AST/SC 6
+  url: http://publications.europa.eu/resource/authority/position-grade/SC6
+  valid_from: '1958-01-01'

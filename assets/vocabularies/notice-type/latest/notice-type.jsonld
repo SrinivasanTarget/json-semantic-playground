@@ -1,0 +1,2577 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/can-social",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "can-social"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "can-social"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "can-social"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "can-social"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за възложена поръчка или концесия – облекчен режим"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o výsledku zadávacího nebo koncesního řízení – zjednodušený režim"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om indgåede kontrakter eller koncessionstildeling – den lempelige ordning"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung vergebener Aufträge oder Zuschlagsbekanntmachung – Sonderregelung"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση συναφθείσας σύμβασης ή σύμβασης παραχώρησης — απλουστευμένο καθεστώς"
+      },
+      {
+        "@language": "en",
+        "@value": "Contract or concession award notice – light regime"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de adjudicación de contrato o concesión. Régimen simplificado"
+      },
+      {
+        "@language": "et",
+        "@value": "Lepingu sõlmimise või kontsessiooni andmise teade – lihtsustatud kord"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintailmoitus tai käyttöoikeussopimusta koskeva ilmoitus – kevennetty järjestely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis d’attribution de marché ou de concession – régime assoupli"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le dámhachtain conartha nó lamháltais — an córas éadrom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o dodjeli ugovora ili koncesije – blagi režim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tájékoztató az eljárás eredményéről vagy koncesszió odaítéléséről – enyhébb szabályozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di aggiudicazione di un appalto o di una concessione – regime alleggerito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie sutarties arba koncesijos skyrimą. Paprastesnis režimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par līguma slēgšanas tiesību vai koncesijas piešķiršanu — atvieglotais režīms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-għoti tal-kuntratt jew tal-konċessjoni – reġim ħafif"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van een gegunde opdracht of concessie – lichte regeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o udzieleniu zamówienia lub ogłoszenie o udzieleniu koncesji – tryb uproszczony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de adjudicação de contrato ou de concessão — regime simplificado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de atribuire a contractului sau a concesiunii - regim simplificat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o výsledku verejného obstarávania alebo oznámenie o udelení koncesie – zjednodušený režim"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o podelitvi koncesije ali oddaji naročila – enostavnejša ureditev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om upphandlings- eller koncessionstilldelning – förenklat system"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/can-tran",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "can-tran"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "can-tran"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-09-29"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "can-tran"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "can-tran"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contract award notice for public passenger transport services"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/brin-eeig",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "brin-eeig"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "brin-eeig"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-09-29"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "brin-eeig"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "brin-eeig"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "European Economic Interest Grouping notice"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/pin-tran",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pin-tran"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pin-tran"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-09-29"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pin-tran"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pin-tran"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Prior information notice for public passenger transport services"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/cn-standard",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cn-standard"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cn-standard"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cn-standard"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cn-standard"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за поръчка или концесия – стандартен режим"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o zahájení zadávacího nebo koncesního řízení – standardní režim"
+      },
+      {
+        "@language": "da",
+        "@value": "Udbuds- eller koncessionsbekendtgørelse – standardordningen"
+      },
+      {
+        "@language": "de",
+        "@value": "Auftrags- oder Konzessionsbekanntmachung – Standardregelung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκήρυξη σύμβασης ή σύμβασης παραχώρησης — τυποποιημένο καθεστώς"
+      },
+      {
+        "@language": "en",
+        "@value": "Contract or concession notice – standard regime"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de contrato o de concesión. Régimen normal"
+      },
+      {
+        "@language": "et",
+        "@value": "Hanketeade või kontsessiooniteade – üldkord"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintailmoitus tai käyttöoikeussopimusta koskeva ilmoitus – vakiojärjestelmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de marché ou de concession – régime ordinaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le conradh nó lamháltas — an gnáthchóras"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o nadmetanju ili koncesiji – standardni režim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Eljárást megindító vagy koncessziós hirdetmény – klasszikus ajánlatkérőkre vonatkozó szabályok"
+      },
+      {
+        "@language": "it",
+        "@value": "Bando di gara o di concessione – regime ordinario"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie pirkimą arba koncesiją. Įprasta tvarka"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par līgumu vai paziņojums par koncesiju — standarta režīms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-kuntratt jew tal-konċessjoni – reġim standard"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van een opdracht of concessie – standaardregeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o zamówieniu lub ogłoszenie o koncesji – tryb standardowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de adjudicação de contrato ou de concessão — regime normal"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de participare sau de concesionare - regim standard"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o vyhlásení verejného obstarávania alebo oznámenie o koncesii – štandardný režim"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o koncesiji ali naročilu – standardna ureditev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om upphandling eller koncession – standardsystem"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/pin-buyer",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pin-buyer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pin-buyer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pin-buyer"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pin-buyer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за публикуването на обявление за предварителна информация или периодично индикативно обявление в профил на купувача"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o uveřejnění předběžného oznámení nebo pravidelného předběžného oznámení na profilu kupujícího"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om offentliggørelse af en forhåndsmeddelelse eller en vejledende periodisk bekendtgørelse i en køberprofil"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung der Veröffentlichung einer Vorinformation oder einer regelmäßigen nicht verbindlichen Bekanntmachung in einem Beschafferprofil"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση της δημοσίευσης προκαταρκτικής προκήρυξης ή περιοδικής ενημερωτικής προκήρυξης για προφίλ αγοραστή"
+      },
+      {
+        "@language": "en",
+        "@value": "Notice of the publication of a prior information notice or a periodic information notice on a buyer profile"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de la publicación de un anuncio de información previa o de un anuncio periódico indicativo en un perfil de comprador"
+      },
+      {
+        "@language": "et",
+        "@value": "Teade eelteate või perioodilise eelteate avaldamise kohta hankija profiilis"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ilmoitus ennakkoilmoituksen tai ohjeellisen kausi-ilmoituksen julkaisemisesta hankkijaprofiilissa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis annonçant la publication d’un avis de préinformation ou d’un avis périodique indicatif sur un profil d’acheteur"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le foilsiú fógra faisnéise roimh ré nó fógra faisnéise tréimhsiúil i dtaobh próifíl cheannaitheora"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o objavi prethodne informacijske obavijesti ili periodične informativne obavijesti na profilu kupca"
+      },
+      {
+        "@language": "hu",
+        "@value": "Előzetes tájékoztató vagy időszakos előzetes tájékoztató felhasználói oldalon történő közzétételéről szóló hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di pubblicazione di un avviso di preinformazione o di un avviso periodico indicativo relativo al profilo di committente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pranešimas apie skelbiamą išankstinį informacinį skelbimą arba reguliarų orientacinį skelbimą pirkėjo profilyje"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par iepriekšējā informatīvā paziņojuma vai periodiskā informatīvā paziņojuma publicēšanu pircēja profilā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-pubblikazzjoni ta’ avviż informattiv minn qabel jew ta’ avviż informattiv perjodiku fuq profil ta’ xerrej"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van de bekendmaking van een vooraankondiging of een periodieke indicatieve aankondiging via een kopersprofiel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o publikacji wstępnego ogłoszenia informacyjnego lub okresowego ogłoszenia informacyjnego na profilu nabywcy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de publicação de um anúncio de pré-informação ou de um anúncio periódico indicativo sobre um perfil de adquirente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț privind publicarea unui anunț de intenție sau a unui anunț periodic de informare privind profilul unui cumpărător"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o uverejnení predbežného oznámenia a pravidelného informatívneho oznámenia v profile kupujúceho"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o objavi predhodnega informativnega obvestila ali periodičnega informativnega obvestila v profilu kupca"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om offentliggörande av ett förhandsmeddelande på upphandlarprofil"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/corr",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "corr"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "corr"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "corr"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "corr"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за промяна"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení oprav"
+      },
+      {
+        "@language": "da",
+        "@value": "Meddelelse om ændring"
+      },
+      {
+        "@language": "de",
+        "@value": "Änderungsbekanntmachung"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση αλλαγών"
+      },
+      {
+        "@language": "en",
+        "@value": "Change notice"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de cambios"
+      },
+      {
+        "@language": "et",
+        "@value": "Paranduse teade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ilmoituksen muutos"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de changement"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le hathrú"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o promjeni"
+      },
+      {
+        "@language": "hu",
+        "@value": "Változtatásról szóló hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di rettifica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie pakeitimą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izmaiņu paziņojums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-bidla"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bericht van wijziging van een aankondiging"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o zmianie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de alteração"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de schimbare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o zmene"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o spremembi obvestila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om ändring"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/pin-rtl",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pin-rtl"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pin-rtl"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pin-rtl"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pin-rtl"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за предварителна информация или периодично индикативно обявление, използвани за съкращаване на сроковете за получаване на офертите"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné oznámení nebo pravidelné předběžné oznámení použité za účelem zkrácení lhůty pro podání nabídek"
+      },
+      {
+        "@language": "da",
+        "@value": "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt til at afkorte tidsfrister for modtagelse af tilbud"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung zum Zweck der Verkürzung der Frist für den Eingang der Angebote"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική διακήρυξη που χρησιμοποιείται για τη συντόμευση των προθεσμιών παραλαβής των προσφορών"
+      },
+      {
+        "@language": "en",
+        "@value": "Prior information notice or a periodic indicative notice used to shorten time limits for receipt of tenders"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de información previa o anuncio periódico indicativo usado para reducir los plazos de recepción de las ofertas"
+      },
+      {
+        "@language": "et",
+        "@value": "Eelteade või perioodiline eelteade pakkumuste vastuvõtmise tähtaegade lühendamiseks"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ennakkoilmoitus tai ohjeellinen kausi-ilmoitus tarjousaikojen lyhentämistä varten"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de préinformation ou avis périodique indicatif utilisé pour raccourcir les délais de réception des offres"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil lena ngearrtar na teorainneacha ama le tairiscintí a fháil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena za skraćivanje rokova za zaprimanje ponuda"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlatok beérkezésére megszabott határidő rövidítésére szolgáló előzetes tájékoztató vagy időszakos előzetes tájékoztató"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di preinformazione o avviso periodico indicativo utilizzato per abbreviare i termini per la ricezione delle offerte"
+      },
+      {
+        "@language": "lt",
+        "@value": "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas siekiant sutrumpinti pasiūlymų priėmimo terminą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto, lai saīsinātu piedāvājumu saņemšanas termiņus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat biex jitqassru l-limiti ta’ żmien għall-wasla tal-offerti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vooraankondiging of periodieke indicatieve aankondiging gebruikt om termijnen voor de ontvangst van inschrijvingen in te korten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane do skrócenia terminu składania ofert"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de pré-informação ou anúncio periódico indicativo utilizado para encurtar os prazos de receção das propostas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de intenție sau anunț orientativ periodic utilizat pentru scurtarea termenelor de primire a ofertelor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné oznámenie a pravidelné informatívne oznámenie použité na skrátenie lehôt na prijímanie ponúk"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predhodno informativno obvestilo ali periodično informativno obvestilo, predhodno informativno obvestilo kot sredstvo za skrajšanje rokov za prejem ponudb"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förhandsmeddelande som används för att minska tidsfristerna för mottagande av anbud"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/can-modif",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "can-modif"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "can-modif"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "can-modif"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "can-modif"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за изменение на договор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o změně smlouvy"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om kontraktændring"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung der Auftragsänderungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση τροποποίησης σύμβασης"
+      },
+      {
+        "@language": "en",
+        "@value": "Contract modification notice"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de modificación de contrato"
+      },
+      {
+        "@language": "et",
+        "@value": "Lepingu muutmise teade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintasopimuksen muuttamista koskeva ilmoitus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de modification de marché"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le mionathrú conartha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o izmjeni ugovora"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szerződésmódosításról szóló hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di modifica di un appalto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie sutarties keitimą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par līguma grozījumiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-modifika fil-kuntratt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van wijziging contract"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o modyfikacji umowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de modificação do contrato"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de modificare a contractului"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o úprave zmluvy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o spremembi naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om ändring av kontrakt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/pin-only",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pin-only"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pin-only"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pin-only"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pin-only"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за предварителна информация или периодично индикативно обявление, използвани само за информация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné oznámení nebo pravidelné předběžné oznámení použité pouze pro informační účely"
+      },
+      {
+        "@language": "da",
+        "@value": "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der kun er anvendt til informationsformål"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung nur zu Informationszwecken"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για ενημέρωση"
+      },
+      {
+        "@language": "en",
+        "@value": "Prior information notice or a periodic indicative notice used only for information"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de información previa o anuncio periódico indicativo usado únicamente para información"
+      },
+      {
+        "@language": "et",
+        "@value": "Ainult teavitamise eesmärgil kasutatav eelteade või perioodiline eelteade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ennakkoilmoitus tai ohjeellinen kausi-ilmoitus vain tietotarkoituksiin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de préinformation ou avis périodique indicatif utilisé uniquement à titre d’information"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil ar mhaithe le faisnéis amháin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena samo u informativne svrhe"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kizárólag tájékoztatás céljából használt előzetes tájékoztató vagy időszakos előzetes tájékoztató"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di preinformazione o avviso periodico indicativo a fini unicamente informativi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, skirtas tik informavimui"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto tikai informācijai"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat biss għall-informazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vooraankondiging of periodieke indicatieve aankondiging die alleen ter informatie wordt gebruikt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane wyłącznie do celów informacyjnych"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de pré-informação ou anúncio periódico indicativo utilizado apenas a título informativo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de intenție sau anunț orientativ periodic utilizat numai pentru informare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné oznámenie a pravidelné informatívne oznámenie použité len na informačné účely"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja samo za obveščanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förhandsmeddelande som endast används i informationssyfte"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/veat",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "veat"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "veat"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "veat"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "veat"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за доброволна прозрачност ex ante"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o dobrovolné průhlednosti ex ante"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse med henblik på frivillig forudgående gennemsigtighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Freiwillige Ex-ante-Transparenzbekanntmachung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκήρυξη για εκούσια εκ των προτέρων διαφάνεια"
+      },
+      {
+        "@language": "en",
+        "@value": "Voluntary ex-ante transparency notice"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de transparencia previa voluntaria"
+      },
+      {
+        "@language": "et",
+        "@value": "Vabatahtlik eelnev avalikustamisteade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vapaaehtoista ex ante -avoimuutta koskeva ilmoitus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis en cas de transparence ex ante volontaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra trédhearcachta ex ante deonach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest za dobrovoljnu ex ante transparentnost"
+      },
+      {
+        "@language": "hu",
+        "@value": "Önkéntes, előzetes, átláthatóságra vonatkozó hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso volontario per la trasparenza ex ante"
+      },
+      {
+        "@language": "lt",
+        "@value": "Savanoriškas ex-ante skelbimas skaidrumo sumetimais"
+      },
+      {
+        "@language": "lv",
+        "@value": "Brīvprātīgas ex ante pārskatāmības paziņojums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tat-trasparenza ex ante volontarju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging in geval van vrijwillige transparantie vooraf"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o dobrowolnej przejrzystości ex ante"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio voluntário de transparência ex ante"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de transparență ex ante voluntară"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie pre dobrovoľnú transparentnosť ex-ante"
+      },
+      {
+        "@language": "sl",
+        "@value": "Prostovoljno obvestilo za predhodno transparentnost"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om frivillig förhandsinsyn"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Notice type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "notice-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Notice type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Notice type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/cn-desg",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cn-desg"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cn-desg"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cn-desg"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cn-desg"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за конкурс за проект"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o soutěži o návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om projektkonkurrence"
+      },
+      {
+        "@language": "de",
+        "@value": "Wettbewerbsbekanntmachung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκήρυξη διαγωνισμού μελετών"
+      },
+      {
+        "@language": "en",
+        "@value": "Design contest notice"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de concurso de proyectos"
+      },
+      {
+        "@language": "et",
+        "@value": "Ideekonkursi kutse"
+      },
+      {
+        "@language": "fi",
+        "@value": "Suunnittelukilpailua koskeva ilmoitus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de concours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra faoi chomórtas dearaidh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o projektnom natječaju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tervpályázati hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso o bando di concorso di progettazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie projekto konkursą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par metu konkursu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-konkors tad-disinn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van een prijsvraag voor ontwerpen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o konkursie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de concurso para trabalhos de conceção"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de concurs de proiecte"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o vyhlásení súťaže návrhov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o projektnem natečaju"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om projekttävling"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/brin-ecs",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "brin-ecs"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "brin-ecs"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-09-29"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "brin-ecs"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "brin-ecs"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "European Company / European Cooperative Society notice"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/pin-cfc-social",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pin-cfc-social"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pin-cfc-social"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pin-cfc-social"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pin-cfc-social"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за предварителна информация или периодично индикативно обявление, използвани като покана за участие в състезателна процедура – облекчен режим"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné oznámení nebo pravidelné předběžné oznámení použité jako výzva k účasti v soutěži – zjednodušený režim"
+      },
+      {
+        "@language": "da",
+        "@value": "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt som indkaldelser af tilbud – den lempelige ordning"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung als Aufruf zum Wettbewerb – Sonderregelung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για προκήρυξη διαγωνισμού – απλουστευμένο καθεστώς"
+      },
+      {
+        "@language": "en",
+        "@value": "Prior information notice or a periodic indicative notice used as a call for competition – light regime"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de información previa o anuncio periódico indicativo usado como convocatoria de licitación. Régimen simplificado"
+      },
+      {
+        "@language": "et",
+        "@value": "Hanke väljakuulutamiseks kasutatav eelteade või perioodiline eelteade – lihtsustatud kord"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjouskilpailukutsuna käytettävä ennakkoilmoitus tai ohjeellinen kausi-ilmoitus – kevennetty järjestely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de préinformation ou avis périodique indicatif utilisé comme appel à la concurrence – régime assoupli"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra réamhfhaisnéise nó fógra táscach tréimhsiúil lena ndéantar glao ar iomaíocht – an córas éadrom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena kao poziv na nadmetanje – blagi režim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlati/részvételi felhívásként használt előzetes tájékoztató vagy időszakos előzetes tájékoztató – enyhébb szabályozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime alleggerito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas kaip kvietimas dalyvauti konkurse. Paprastesnis režimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto iepirkuma izsludināšanai — atvieglotais režīms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat għal sejħa għall-kompetizzjoni – reġim ħafif"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vooraankondiging of periodieke indicatieve aankondiging gebruikt als oproep tot mededinging – lichte regeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane jako zaproszenie do ubiegania się o zamówienie – tryb uproszczony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de pré-informação ou anúncio periódico indicativo utilizado como anúncio de concurso — regime simplificado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de intenție sau anunț orientativ periodic utilizat ca procedură concurențială de ofertare - regim simplificat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné oznámenie alebo pravidelné informatívne oznámenie použité ako výzva na súťaž – zjednodušený režim"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja kot javni razpis – enostavnejša ureditev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förhandsmeddelande som används som anbudsinfordran – förenklat system"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/can-desg",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "can-desg"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "can-desg"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "can-desg"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "can-desg"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за резултата от конкурс за проект"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o výsledku soutěže o návrh"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om resultater af projektkonkurrence"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung der Wettbewerbsergebnisse"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση αποτελεσμάτων διαγωνισμού μελετών"
+      },
+      {
+        "@language": "en",
+        "@value": "Design contest result notice"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de concurso de proyectos"
+      },
+      {
+        "@language": "et",
+        "@value": "Ideekonkursi tulemuse teade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ilmoitus suunnittelukilpailun tuloksista"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de résultats de concours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra faoi thorthaí an chomórtais dearaidh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o rezultatima projektnog natječaja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tervpályázat eredményéről szóló hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Comunicazione dei risultati di un concorso di progettazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie projekto konkurso rezultatus"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par metu konkursa rezultātiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-konkors tad-disinn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van de uitslag van een prijsvraag voor ontwerpen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o wynikach konkursu"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio dos resultados do concurso de conceção"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț privind rezultatul concursului de proiecte"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o výsledku súťaže návrhov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o rezultatih projektnega natečaja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om resultat av projekttävling"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/qu-sy",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "qu-sy"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "qu-sy"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "qu-sy"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "qu-sy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за съществуването на квалификационна система"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o zavedení systému kvalifikace"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om anvendelse af en kvalifikationsordning"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung über das Bestehen eines Prüfungssystems"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση για την ύπαρξη συστήματος προεπιλογής"
+      },
+      {
+        "@language": "en",
+        "@value": "Notice on the existence of a qualification system"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de la existencia de un sistema de calificación"
+      },
+      {
+        "@language": "et",
+        "@value": "Kvalifitseerimissüsteemi teade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kelpuuttamisjärjestelmää koskeva ilmoitus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis sur l’existence d’un système de qualification"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le córas cáiliúcháin a bheith ann"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o postojanju kvalifikacijskog sustava"
+      },
+      {
+        "@language": "hu",
+        "@value": "Előminősítési rendszer meglétéről szóló hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso sull'esistenza di un sistema di qualificazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie kvalifikacijos vertinimo sistemą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par kvalifikācijas sistēmu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż dwar l-eżistenza ta’ sistema ta’ kwalifika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging inzake het bestaan van een erkenningsregeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o istnieniu systemu kwalifikowania"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio relativo à existência de um sistema de qualificação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț privind existența unui sistem de calificare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o existencii kvalifikačného systému"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o vzpostavitvi kvalifikacijskega sistema"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om att det finns ett kvalificeringssystem"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/subco",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "subco"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "subco"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "subco"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "subco"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за поръчка за подизпълнение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o subdodávkách"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om underentreprise"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung der Vergabe von Unteraufträgen"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκήρυξη υπεργολαβίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Subcontracting notice"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de subcontratación"
+      },
+      {
+        "@language": "et",
+        "@value": "Allhanke teade"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alihankintaa koskeva ilmoitus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de sous-traitance"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le fochonrú"
+      },
+      {
+        "@language": "hr",
+        "@value": "Poziv na podugovaranje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alvállalkozói hirdetmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di subappalto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie subrangą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par apakšuzņēmuma līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tas-sottokuntrattar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van een opdracht in onderaanneming"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o podwykonawstwie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de subcontratação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de subcontractare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o zadaní subdodávok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o oddaji naročil podizvajalcem"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om underentreprenad"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/can-standard",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "can-standard"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "can-standard"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "can-standard"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "can-standard"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за възложена поръчка или концесия – стандартен режим"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o výsledku zadávacího nebo koncesního řízení – standardní režim"
+      },
+      {
+        "@language": "da",
+        "@value": "Bekendtgørelse om indgåede kontrakter eller koncessionstildeling – standardordningen"
+      },
+      {
+        "@language": "de",
+        "@value": "Bekanntmachung vergebener Aufträge oder Zuschlagsbekanntmachung – Standardregelung"
+      },
+      {
+        "@language": "el",
+        "@value": "Γνωστοποίηση ανάθεσης σύμβασης ή ανάθεσης σύμβασης παραχώρησης — τυποποιημένο καθεστώς"
+      },
+      {
+        "@language": "en",
+        "@value": "Contract or concession award notice – standard regime"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de adjudicación de contrato o concesión. Régimen normal"
+      },
+      {
+        "@language": "et",
+        "@value": "Lepingu sõlmimise või kontsessiooni andmise teade – üldkord"
+      },
+      {
+        "@language": "fi",
+        "@value": "Jälki-ilmoitus tai käyttöoikeussopimusta koskeva jälki-ilmoitus – vakiojärjestelmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis d’attribution de marché ou de concession – régime ordinaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra maidir le dámhachtain conartha nó lamháltais — an gnáthchóras"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o dodjeli ugovora ili koncesije – standardni režim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tájékoztató az eljárás eredményéről vagy koncesszió odaítéléséről – klasszikus ajánlatkérőkre vonatkozó szabályok"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di aggiudicazione di un appalto o di una concessione – regime ordinario"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie sutarties arba koncesijos skyrimą. Įprasta tvarka"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par līguma slēgšanas tiesību vai koncesijas piešķiršanu — standarta režīms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-għoti tal-kuntratt jew tal-konċessjoni – reġim standard"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van een gegunde opdracht of concessie – standaardregeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o udzieleniu zamówienia lub ogłoszenie o udzieleniu koncesji – tryb standardowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de adjudicação de contrato ou de concessão — regime normal"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de atribuire a contractului sau a concesiunii - regim standard"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o výsledku verejného obstarávania alebo oznámenie o udelení koncesie – štandardný režim"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o podelitvi koncesije ali oddaji naročila – standardna ureditev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om upphandlings- eller koncessionstilldelning – standardsystem"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/pin-cfc-standard",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pin-cfc-standard"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pin-cfc-standard"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pin-cfc-standard"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pin-cfc-standard"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за предварителна информация или периодично индикативно обявление, използвани като покана за участие в състезателна процедура – стандартен режим"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné oznámení nebo pravidelné předběžné oznámení použité jako výzva k účasti v soutěži – standardní režim"
+      },
+      {
+        "@language": "da",
+        "@value": "Forhåndsmeddelelse eller vejledende periodisk bekendtgørelse, der er anvendt som indkaldelser af tilbud – standardordningen"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorinformation oder eine regelmäßige nicht verbindliche Bekanntmachung als Aufruf zum Wettbewerb – Standardregelung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκαταρκτική προκήρυξη ή περιοδική ενδεικτική προκήρυξη που χρησιμοποιείται μόνο για προκήρυξη διαγωνισμού – τυποποιημένο καθεστώς"
+      },
+      {
+        "@language": "en",
+        "@value": "Prior information notice or a periodic indicative notice used as a call for competition – standard regime"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de información previa o anuncio periódico indicativo usado como convocatoria de licitación. Régimen normal"
+      },
+      {
+        "@language": "et",
+        "@value": "Hanke väljakuulutamiseks kasutatav eelteade või perioodiline eelteade – üldkord"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjouskilpailukutsuna käytettävä ennakkoilmoitus tai ohjeellinen kausi-ilmoitus – vakiojärjestelmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de préinformation ou avis périodique indicatif utilisé comme appel à la concurrence – régime ordinaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra faisnéise roimh ré nó fógra táscach tréimhsiúil lena ndéantar glao ar iomaíocht – an gnáthchóras"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prethodna informacijska obavijest ili periodična indikativna obavijest upotrijebljena kao poziv na nadmetanje – standardni režim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlati/részvételi felhívásként használt előzetes tájékoztató vagy időszakos előzetes tájékoztató – klasszikus ajánlatkérőkre vonatkozó szabályok"
+      },
+      {
+        "@language": "it",
+        "@value": "Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime ordinario"
+      },
+      {
+        "@language": "lt",
+        "@value": "Išankstinis informacinis skelbimas arba reguliarus orientacinis skelbimas, naudojamas kaip kvietimas dalyvauti konkurse. Įprasta tvarka"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iepriekšējs informatīvs paziņojums vai periodisks informatīvs paziņojums, ko izmanto iepirkuma izsludināšanai — standarta režīms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż informattiv minn qabel jew avviż indikattiv perjodiku użat għal sejħa għall-kompetizzjoni – reġim standard"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vooraankondiging of periodieke indicatieve aankondiging gebruikt als oproep tot mededinging – standaardregeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wstępne ogłoszenie informacyjne lub okresowe ogłoszenie informacyjne wykorzystywane jako zaproszenie do ubiegania się o zamówienie – tryb standardowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de pré-informação ou anúncio periódico indicativo utilizado como anúncio de concurso — regime normal"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de intenție sau anunț orientativ periodic utilizat ca procedură concurențială de ofertare - regim standard"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné oznámenie a pravidelné informatívne oznámenie použité ako výzva na súťaž – štandardný režim"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predhodno informativno obvestilo ali periodično informativno obvestilo, ki se uporablja kot javni razpis – standardna ureditev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förhandsmeddelande som används som anbudsinfordran – standardsystem"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/notice-type/cn-social",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cn-social"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cn-social"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cn-social"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cn-social"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/notice-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявление за поръчка – облекчен режим"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení o zahájení zadávacího řízení – zjednodušený režim"
+      },
+      {
+        "@language": "da",
+        "@value": "Udbudsbekendtgørelse – den lempelige ordning"
+      },
+      {
+        "@language": "de",
+        "@value": "Auftragsbekanntmachung – Sonderregelung"
+      },
+      {
+        "@language": "el",
+        "@value": "Προκήρυξη σύμβασης — απλουστευμένο καθεστώς"
+      },
+      {
+        "@language": "en",
+        "@value": "Contract notice – light regime"
+      },
+      {
+        "@language": "es",
+        "@value": "Anuncio de contrato. Régimen simplificado"
+      },
+      {
+        "@language": "et",
+        "@value": "Hanketeade – lihtsustatud kord"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintailmoitus – kevennetty järjestely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Avis de marché – régime assoupli"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fógra conartha – an córas éadrom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest o nadmetanju – blagi režim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Eljárást megindító hirdetmény – enyhébb szabályozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Bando di gara – regime alleggerito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas apie pirkimą. Paprastesnis režimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums par līgumu — atvieglotais režīms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Avviż tal-kuntratt – reġim ħafif"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankondiging van een opdracht – lichte regeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie o zamówieniu – tryb uproszczony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Anúncio de concurso — regime simplificado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunț de participare - regim simplificat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oznámenie o vyhlásení verejného obstarávania – zjednodušený režim"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo o naročilu – enostavnejša ureditev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelande om upphandling – förenklat system"
+      }
+    ]
+  }
+]

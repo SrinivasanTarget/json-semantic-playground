@@ -1,0 +1,28 @@
+# Serializing assets/vocabularies/notice-type/latest/notice-type.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/notice-type
+# title: Notice type
+# version: 20210929-0
+# description: Notice type
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/notice-type/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+brin-ecs,http://publications.europa.eu/resource/authority/notice-type/brin-ecs,brin-ecs,European Company / European Cooperative Society notice,,false,2021-09-29
+brin-eeig,http://publications.europa.eu/resource/authority/notice-type/brin-eeig,brin-eeig,European Economic Interest Grouping notice,,false,2021-09-29
+can-desg,http://publications.europa.eu/resource/authority/notice-type/can-desg,can-desg,Design contest result notice,Comunicazione dei risultati di un concorso di progettazione,false,2019-09-18
+can-modif,http://publications.europa.eu/resource/authority/notice-type/can-modif,can-modif,Contract modification notice,Avviso di modifica di un appalto,false,2019-09-18
+can-social,http://publications.europa.eu/resource/authority/notice-type/can-social,can-social,Contract or concession award notice – light regime,Avviso di aggiudicazione di un appalto o di una concessione – regime alleggerito,false,2019-09-18
+can-standard,http://publications.europa.eu/resource/authority/notice-type/can-standard,can-standard,Contract or concession award notice – standard regime,Avviso di aggiudicazione di un appalto o di una concessione – regime ordinario,false,2019-09-18
+can-tran,http://publications.europa.eu/resource/authority/notice-type/can-tran,can-tran,Contract award notice for public passenger transport services,,false,2021-09-29
+cn-desg,http://publications.europa.eu/resource/authority/notice-type/cn-desg,cn-desg,Design contest notice,Avviso o bando di concorso di progettazione,false,2019-09-18
+cn-social,http://publications.europa.eu/resource/authority/notice-type/cn-social,cn-social,Contract notice – light regime,Bando di gara – regime alleggerito,false,2019-09-18
+cn-standard,http://publications.europa.eu/resource/authority/notice-type/cn-standard,cn-standard,Contract or concession notice – standard regime,Bando di gara o di concessione – regime ordinario,false,2019-09-18
+corr,http://publications.europa.eu/resource/authority/notice-type/corr,corr,Change notice,Avviso di rettifica,false,2019-09-18
+pin-buyer,http://publications.europa.eu/resource/authority/notice-type/pin-buyer,pin-buyer,Notice of the publication of a prior information notice or a periodic information notice on a buyer profile,Avviso di pubblicazione di un avviso di preinformazione o di un avviso periodico indicativo relativo al profilo di committente,false,2019-09-18
+pin-cfc-social,http://publications.europa.eu/resource/authority/notice-type/pin-cfc-social,pin-cfc-social,Prior information notice or a periodic indicative notice used as a call for competition – light regime,Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime alleggerito,false,2019-09-18
+pin-cfc-standard,http://publications.europa.eu/resource/authority/notice-type/pin-cfc-standard,pin-cfc-standard,Prior information notice or a periodic indicative notice used as a call for competition – standard regime,Avviso di preinformazione o avviso periodico indicativo utilizzato come avviso di indizione di gara – regime ordinario,false,2019-09-18
+pin-only,http://publications.europa.eu/resource/authority/notice-type/pin-only,pin-only,Prior information notice or a periodic indicative notice used only for information,Avviso di preinformazione o avviso periodico indicativo a fini unicamente informativi,false,2019-09-18
+pin-rtl,http://publications.europa.eu/resource/authority/notice-type/pin-rtl,pin-rtl,Prior information notice or a periodic indicative notice used to shorten time limits for receipt of tenders,Avviso di preinformazione o avviso periodico indicativo utilizzato per abbreviare i termini per la ricezione delle offerte,false,2019-09-18
+pin-tran,http://publications.europa.eu/resource/authority/notice-type/pin-tran,pin-tran,Prior information notice for public passenger transport services,,false,2021-09-29
+qu-sy,http://publications.europa.eu/resource/authority/notice-type/qu-sy,qu-sy,Notice on the existence of a qualification system,Avviso sull'esistenza di un sistema di qualificazione,false,2019-09-18
+subco,http://publications.europa.eu/resource/authority/notice-type/subco,subco,Subcontracting notice,Avviso di subappalto,false,2019-09-18
+veat,http://publications.europa.eu/resource/authority/notice-type/veat,veat,Voluntary ex-ante transparency notice,Avviso volontario per la trasparenza ex ante,false,2019-09-18

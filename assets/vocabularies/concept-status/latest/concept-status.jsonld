@@ -1,0 +1,958 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DRAFT_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DRAFT_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DRAFT_DEPRECATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DRAFT_DEPRECATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "draft.deprecated"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/WAITING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WAITING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WAITING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-07-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WAITING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WAITING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "waiting"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/REVISED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REVISED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REVISED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-02-20"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REVISED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REVISED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "revised"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/RETIRED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RETIRED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RETIRED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RETIRED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RETIRED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "отменено"
+      },
+      {
+        "@language": "cs",
+        "@value": "již nepoužívané"
+      },
+      {
+        "@language": "da",
+        "@value": "forældet"
+      },
+      {
+        "@language": "de",
+        "@value": "nicht mehr in Gebrauch"
+      },
+      {
+        "@language": "el",
+        "@value": "έχει καταργηθεί"
+      },
+      {
+        "@language": "en",
+        "@value": "retired"
+      },
+      {
+        "@language": "es",
+        "@value": "retirado"
+      },
+      {
+        "@language": "et",
+        "@value": "kehtetu"
+      },
+      {
+        "@language": "fi",
+        "@value": "poistettu käytöstä"
+      },
+      {
+        "@language": "fr",
+        "@value": "supprimé"
+      },
+      {
+        "@language": "ga",
+        "@value": "as feidhm"
+      },
+      {
+        "@language": "hr",
+        "@value": "umirovljeni"
+      },
+      {
+        "@language": "hu",
+        "@value": "visszavonva"
+      },
+      {
+        "@language": "it",
+        "@value": "ritirato"
+      },
+      {
+        "@language": "lt",
+        "@value": "panaikintas"
+      },
+      {
+        "@language": "lv",
+        "@value": "atcelts"
+      },
+      {
+        "@language": "mt",
+        "@value": "irtirat"
+      },
+      {
+        "@language": "nl",
+        "@value": "niet meer in gebruik"
+      },
+      {
+        "@language": "pl",
+        "@value": "wycofany"
+      },
+      {
+        "@language": "pt",
+        "@value": "reformado"
+      },
+      {
+        "@language": "ro",
+        "@value": "retras"
+      },
+      {
+        "@language": "sk",
+        "@value": "nepoužíva sa"
+      },
+      {
+        "@language": "sl",
+        "@value": "umaknjeno"
+      },
+      {
+        "@language": "sv",
+        "@value": "borttagen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CANDIDATE_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CANDIDATE_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CANDIDATE_DEPRECATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CANDIDATE_DEPRECATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "candidate.deprecated"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REVISED_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REVISED_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-02-20"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REVISED_DEPRECATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REVISED_DEPRECATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "revised.deprecated"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WAITING_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WAITING_DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-07-03"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WAITING_DEPRECATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WAITING_DEPRECATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "waiting.deprecated"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/DRAFT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DRAFT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DRAFT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DRAFT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DRAFT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "draft"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Concept status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "concept-status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20181212-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Concept status"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20181212-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Concept status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/DEPRECATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "неактуално"
+      },
+      {
+        "@language": "cs",
+        "@value": "zastaralé"
+      },
+      {
+        "@language": "da",
+        "@value": "frarådet"
+      },
+      {
+        "@language": "de",
+        "@value": "veraltet"
+      },
+      {
+        "@language": "el",
+        "@value": "δεν ισχύει πλέον"
+      },
+      {
+        "@language": "en",
+        "@value": "deprecated"
+      },
+      {
+        "@language": "es",
+        "@value": "desaconsejado"
+      },
+      {
+        "@language": "et",
+        "@value": "vananenud"
+      },
+      {
+        "@language": "fi",
+        "@value": "hylätty"
+      },
+      {
+        "@language": "fr",
+        "@value": "obsolète"
+      },
+      {
+        "@language": "ga",
+        "@value": "dímholta"
+      },
+      {
+        "@language": "hr",
+        "@value": "smijenjeni"
+      },
+      {
+        "@language": "hu",
+        "@value": "elavult"
+      },
+      {
+        "@language": "it",
+        "@value": "sconsigliato"
+      },
+      {
+        "@language": "lt",
+        "@value": "nerekomenduojamas"
+      },
+      {
+        "@language": "lv",
+        "@value": "novecojis"
+      },
+      {
+        "@language": "mt",
+        "@value": "deprekat"
+      },
+      {
+        "@language": "nl",
+        "@value": "verouderd"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieaktualny"
+      },
+      {
+        "@language": "pt",
+        "@value": "utilização desaconselhada"
+      },
+      {
+        "@language": "ro",
+        "@value": "nerecomandat"
+      },
+      {
+        "@language": "sk",
+        "@value": "zastaraný"
+      },
+      {
+        "@language": "sl",
+        "@value": "zastarano"
+      },
+      {
+        "@language": "sv",
+        "@value": "föråldrad"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/CURRENT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CURRENT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CURRENT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CURRENT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CURRENT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "актуално"
+      },
+      {
+        "@language": "cs",
+        "@value": "stávájící"
+      },
+      {
+        "@language": "da",
+        "@value": "gældende"
+      },
+      {
+        "@language": "de",
+        "@value": "aktuell"
+      },
+      {
+        "@language": "el",
+        "@value": "ισχύει"
+      },
+      {
+        "@language": "en",
+        "@value": "current"
+      },
+      {
+        "@language": "es",
+        "@value": "actual"
+      },
+      {
+        "@language": "et",
+        "@value": "praegune"
+      },
+      {
+        "@language": "fi",
+        "@value": "nykyinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "en vigueur"
+      },
+      {
+        "@language": "ga",
+        "@value": "i bhfeidhm"
+      },
+      {
+        "@language": "hr",
+        "@value": "trenutačni"
+      },
+      {
+        "@language": "hu",
+        "@value": "aktuális"
+      },
+      {
+        "@language": "it",
+        "@value": "attuale"
+      },
+      {
+        "@language": "lt",
+        "@value": "dabartinis"
+      },
+      {
+        "@language": "lv",
+        "@value": "pašreizējs"
+      },
+      {
+        "@language": "mt",
+        "@value": "attwali"
+      },
+      {
+        "@language": "nl",
+        "@value": "actueel"
+      },
+      {
+        "@language": "pl",
+        "@value": "obecny"
+      },
+      {
+        "@language": "pt",
+        "@value": "comum"
+      },
+      {
+        "@language": "ro",
+        "@value": "actual"
+      },
+      {
+        "@language": "sk",
+        "@value": "súčasný"
+      },
+      {
+        "@language": "sl",
+        "@value": "sedanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "gällande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/concept-status/CANDIDATE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CANDIDATE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CANDIDATE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CANDIDATE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CANDIDATE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/concept-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "candidate"
+      }
+    ]
+  }
+]

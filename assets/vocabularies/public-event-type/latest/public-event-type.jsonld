@@ -1,0 +1,1391 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONFERENCE_SUMMIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONFERENCE_SUMMIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONFERENCE_SUMMIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONFERENCE_SUMMIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Conferences and summits include public events such as conferences, summits, congresses and colloquiums."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Конференции и срещи на високо равнище"
+      },
+      {
+        "@language": "cs",
+        "@value": "Konference a summity"
+      },
+      {
+        "@language": "da",
+        "@value": "Konferencer og topmøder"
+      },
+      {
+        "@language": "de",
+        "@value": "Konferenzen und Gipfeltreffen"
+      },
+      {
+        "@language": "el",
+        "@value": "Διασκέψεις και σύνοδοι κορυφής"
+      },
+      {
+        "@language": "en",
+        "@value": "Conferences and summits"
+      },
+      {
+        "@language": "es",
+        "@value": "Conferencias y cumbres"
+      },
+      {
+        "@language": "et",
+        "@value": "Konverentsid ja tippkohtumised"
+      },
+      {
+        "@language": "fi",
+        "@value": "Konferenssit ja huippukokoukset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Conférences et sommets"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhdhálacha agus cruinnithe mullaigh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Konferencije i sastanci na vrhu"
+      },
+      {
+        "@language": "hu",
+        "@value": "Konferenciák és csúcstalálkozók"
+      },
+      {
+        "@language": "it",
+        "@value": "Conferenze e vertici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konferencijos ir aukščiausiojo lygio susitikimai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Konferences un samiti"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konferenzi u summits"
+      },
+      {
+        "@language": "nl",
+        "@value": "Conferenties en topontmoetingen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Konferencje i szczyty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conferências e cimeiras"
+      },
+      {
+        "@language": "ro",
+        "@value": "Conferințe și reuniuni la nivel înalt"
+      },
+      {
+        "@language": "sk",
+        "@value": "Konferencie a samity"
+      },
+      {
+        "@language": "sl",
+        "@value": "Konference in srečanja na vrhu"
+      },
+      {
+        "@language": "sv",
+        "@value": "Konferenser och toppmöten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Public event type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "public-event-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Public event type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Public event type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CAMP_LAUNCH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CAMP_LAUNCH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CAMP_LAUNCH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CAMP_LAUNCH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Campaign launches include events with the objective of highlighting the launch of public awareness campaigns, policies and other types of initiatives."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Стартиране на кампании"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zahájení kampaní"
+      },
+      {
+        "@language": "da",
+        "@value": "Kampagnestart"
+      },
+      {
+        "@language": "de",
+        "@value": "Kampagnendebüts"
+      },
+      {
+        "@language": "el",
+        "@value": "\tΈναρξη εκστρατειών"
+      },
+      {
+        "@language": "en",
+        "@value": "Campaign launches"
+      },
+      {
+        "@language": "es",
+        "@value": "Lanzamiento de la campaña"
+      },
+      {
+        "@language": "et",
+        "@value": "Kampaania avaüritused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kampanja-avajaiset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Lancements de campagnes"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seoltaí feachtas"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pokretanje kampanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kampányindító rendezvények"
+      },
+      {
+        "@language": "it",
+        "@value": "Lancio di una campagna"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kampanijos pradžios renginiai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kampaņas uzsākšana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tnedija ta’ kampanja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Campagnestartevenementen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inauguracje kampanii"
+      },
+      {
+        "@language": "pt",
+        "@value": "Lançamento da campanha"
+      },
+      {
+        "@language": "ro",
+        "@value": "Lansarea unei campanii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kampaň sa začína"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začetek kampanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kampanjlanseringar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EXHIBITION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EXHIBITION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EXHIBITION"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EXHIBITION"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Exhibitions include public events such as expos, exhibitions and fairs."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изложения"
+      },
+      {
+        "@language": "cs",
+        "@value": "Výstavy"
+      },
+      {
+        "@language": "da",
+        "@value": "Udstillinger"
+      },
+      {
+        "@language": "de",
+        "@value": "Ausstellungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκθέσεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Exhibitions"
+      },
+      {
+        "@language": "es",
+        "@value": "Exposiciones"
+      },
+      {
+        "@language": "et",
+        "@value": "Näitused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Näyttelyt"
+      },
+      {
+        "@language": "fr",
+        "@value": "Expositions"
+      },
+      {
+        "@language": "ga",
+        "@value": "Taispeántais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izložbe"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kiállítások"
+      },
+      {
+        "@language": "it",
+        "@value": "Esposizioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Parodos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izstādes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Wirjiet"
+      },
+      {
+        "@language": "nl",
+        "@value": "Tentoonstellingen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wystawy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Exposições"
+      },
+      {
+        "@language": "ro",
+        "@value": "Expoziții"
+      },
+      {
+        "@language": "sk",
+        "@value": "Výstavy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Razstave"
+      },
+      {
+        "@language": "sv",
+        "@value": "Utställningar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PUBLIC_DEBATE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PUBLIC_DEBATE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PUBLIC_DEBATE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PUBLIC_DEBATE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Public debates include public events such as public debates, dialogues, forums and public meetings."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публични дебати"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejné diskuse"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentlige debatter"
+      },
+      {
+        "@language": "de",
+        "@value": "Öffentliche Veranstaltungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Δημόσιες συζητήσεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Public debates"
+      },
+      {
+        "@language": "es",
+        "@value": "Debates públicos"
+      },
+      {
+        "@language": "et",
+        "@value": "Avalikud arutelud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkiset keskustelutilaisuudet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Débats publics"
+      },
+      {
+        "@language": "ga",
+        "@value": "Díospóireachtaí poiblí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Javne debate"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nyilvános viták"
+      },
+      {
+        "@language": "it",
+        "@value": "Dibattiti pubblici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vieši debatai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atklātas debates"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dibattiti pubbliċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Openbare debatten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Debaty publiczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Debates públicos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Dezbateri publice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejné diskusie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Javne razprave"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentliga debatter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PARTNER_MEETING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PARTNER_MEETING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PARTNER_MEETING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PARTNER_MEETING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Partner meetings include public events such as expert meetings, general meetings and stakeholder meetings."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Срещи с партньори"
+      },
+      {
+        "@language": "cs",
+        "@value": "Setkání partnerských subjektů"
+      },
+      {
+        "@language": "da",
+        "@value": "Partnermøder"
+      },
+      {
+        "@language": "de",
+        "@value": "Veranstaltungen mit Partnern"
+      },
+      {
+        "@language": "el",
+        "@value": "Συναντήσεις εταίρων"
+      },
+      {
+        "@language": "en",
+        "@value": "Partner meetings"
+      },
+      {
+        "@language": "es",
+        "@value": "Reuniones de socios"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohtumised partneritega"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kumppanikokoukset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Réunions de partenaires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cruinnithe comhpháirtíochta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Partnerski sastanci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Partneri találkozók"
+      },
+      {
+        "@language": "it",
+        "@value": "Riunioni dei partner"
+      },
+      {
+        "@language": "lt",
+        "@value": "Partnerių susitikimai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Partneru sanāksmes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Laqgħat tal-imsieħba"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vergaderingen met partners"
+      },
+      {
+        "@language": "pl",
+        "@value": "Spotkania partnerskie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Reuniões de parceiros"
+      },
+      {
+        "@language": "ro",
+        "@value": "Reuniuni ale partenerilor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Stretnutia partnerských subjektov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Partnerski sestanki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Möten med samarbetspartner"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TRAINING_WORKSHOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TRAINING_WORKSHOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TRAINING_WORKSHOP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TRAINING_WORKSHOP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Training and workshops include public events such as training, summer schools, webinars, workshops and seminars."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обучения и семинари"
+      },
+      {
+        "@language": "cs",
+        "@value": "Odborná příprava a semináře"
+      },
+      {
+        "@language": "da",
+        "@value": "Kurser og workshopper"
+      },
+      {
+        "@language": "de",
+        "@value": "Schulungen und Workshops"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκπαιδευτικά σεμινάρια και εργαστήρια"
+      },
+      {
+        "@language": "en",
+        "@value": "Training and workshops"
+      },
+      {
+        "@language": "es",
+        "@value": "Formación y talleres"
+      },
+      {
+        "@language": "et",
+        "@value": "Koolitused ja seminarid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Koulutus ja työpajat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Formations et ateliers"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oiliúint agus ceardlanna"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tečajevi i radionice"
+      },
+      {
+        "@language": "hu",
+        "@value": "Képzések és műhelytalálkozók"
+      },
+      {
+        "@language": "it",
+        "@value": "Formazione e seminari"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mokymas ir praktiniai seminarai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Mācības un semināri"
+      },
+      {
+        "@language": "mt",
+        "@value": "Taħriġ u workshops"
+      },
+      {
+        "@language": "nl",
+        "@value": "Opleidingen en workshops"
+      },
+      {
+        "@language": "pl",
+        "@value": "Szkolenia i warsztaty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Formação e seminários"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cursuri de formare și seminare de lucru"
+      },
+      {
+        "@language": "sk",
+        "@value": "Odborná príprava a semináre"
+      },
+      {
+        "@language": "sl",
+        "@value": "Usposabljanja in delavnice"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kurser och seminarier"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INFO_DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INFO_DAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INFO_DAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INFO_DAY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Info days include public events such as open days, information days, information meetings and networking events."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Информационни дни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Informační dny"
+      },
+      {
+        "@language": "da",
+        "@value": "Infodage"
+      },
+      {
+        "@language": "de",
+        "@value": "Info-Tage"
+      },
+      {
+        "@language": "el",
+        "@value": "Ημερίδες ενημέρωσης"
+      },
+      {
+        "@language": "en",
+        "@value": "Info days"
+      },
+      {
+        "@language": "es",
+        "@value": "Jornadas informativas"
+      },
+      {
+        "@language": "et",
+        "@value": "Teabepäevad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Infopäivät"
+      },
+      {
+        "@language": "fr",
+        "@value": "Journées d’information"
+      },
+      {
+        "@language": "ga",
+        "@value": "Laethanta eolais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dani informiranja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tájékoztató napok"
+      },
+      {
+        "@language": "it",
+        "@value": "Giornate d'informazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Informacinės dienos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Infodienas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Jiem ta’ informazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Infodagen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dni informacyjne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Jornadas de informação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Zile de informare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Informačné dni"
+      },
+      {
+        "@language": "sl",
+        "@value": "Informativni dnevi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Informationsdagar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COMPETITION_AWARD_CEREMONY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COMPETITION_AWARD_CEREMONY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COMPETITION_AWARD_CEREMONY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COMPETITION_AWARD_CEREMONY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Competitions and award ceremonies include public events such as award ceremonies, competitions and contests."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Конкурси и церемонии по награждаване"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soutěže a slavnostní předání cen"
+      },
+      {
+        "@language": "da",
+        "@value": "Konkurrencer og prisuddelinger"
+      },
+      {
+        "@language": "de",
+        "@value": "Wettbewerbe und Preisverleihungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαγωνισμοί και τελετές απονομής βραβείων"
+      },
+      {
+        "@language": "en",
+        "@value": "Competitions and award ceremonies"
+      },
+      {
+        "@language": "es",
+        "@value": "Concursos y ceremonias de entrega de premios"
+      },
+      {
+        "@language": "et",
+        "@value": "Konkursid ja auhinnatseremooniad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kilpailut ja palkintoseremoniat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Concours et cérémonies de remise de prix"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comórtais agus searmanais bhronnta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Natjecanja i svečanosti dodjele nagrada"
+      },
+      {
+        "@language": "hu",
+        "@value": "Versenyek és díjátadó ünnepségek"
+      },
+      {
+        "@language": "it",
+        "@value": "Concorsi e cerimonie di premiazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konkursai ir apdovanojimų iškilmės"
+      },
+      {
+        "@language": "lv",
+        "@value": "Konkursi un apbalvošanas ceremonijas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kompetizzjonijiet u ċerimonji ta’ premjazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Wedstrijden en prijsuitreikingen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Konkursy i ceremonie wręczenia nagród"
+      },
+      {
+        "@language": "pt",
+        "@value": "Concursos e cerimónias de entrega de prémios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Concursuri și ceremonii de decernare a premiilor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súťaže a slávnostné odovzdávanie cien"
+      },
+      {
+        "@language": "sl",
+        "@value": "Natečaji in podelitve nagrad"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tävlingar och prisutdelningar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "POLITICAL_MEETING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "POLITICAL_MEETING"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "POLITICAL_MEETING"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "POLITICAL_MEETING"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Political meetings include political events involving the public."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Политически срещи"
+      },
+      {
+        "@language": "cs",
+        "@value": "Politická setkání"
+      },
+      {
+        "@language": "da",
+        "@value": "Politiske møder"
+      },
+      {
+        "@language": "de",
+        "@value": "Politische Veranstaltungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Πολιτικές εκδηλώσεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Political meetings"
+      },
+      {
+        "@language": "es",
+        "@value": "Reuniones políticas"
+      },
+      {
+        "@language": "et",
+        "@value": "Poliitilised kohtumised"
+      },
+      {
+        "@language": "fi",
+        "@value": "Poliittiset kokoukset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Réunions politiques"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cruinnithe polaitiúla"
+      },
+      {
+        "@language": "hr",
+        "@value": "Politički sastanci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Politikai ülések"
+      },
+      {
+        "@language": "it",
+        "@value": "Riunioni politiche"
+      },
+      {
+        "@language": "lt",
+        "@value": "Politiniai susitikimai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Politiskas sanāksmes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Laqgħat politiċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Politieke vergaderingen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Spotkania polityczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Reuniões políticas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Reuniuni politice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Politické stretnutia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Politični sestanki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Politiska möten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/public-event-type"
+      }
+    ]
+  }
+]

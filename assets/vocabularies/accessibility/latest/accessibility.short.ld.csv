@@ -1,0 +1,11 @@
+# Serializing assets/vocabularies/accessibility/latest/accessibility.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/accessibility
+# title: Accessibility
+# version: 20201216-0
+# description: Accessibility
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+inc,http://publications.europa.eu/resource/authority/accessibility/inc,inc,Accessibility criteria for persons with disabilities are included,Sono compresi criteri di accessibilità per le persone con disabilità,false,2019-09-18
+n-inc,http://publications.europa.eu/resource/authority/accessibility/n-inc,n-inc,Accessibility criteria for persons with disabilities are not included because the procurement is not intended for use by natural persons,Non sono compresi criteri di accessibilità per le persone con disabilità perché l'oggetto dell'appalto non è destinato all'uso da parte di persone fisiche,false,2019-09-18
+n-inc-just,http://publications.europa.eu/resource/authority/accessibility/n-inc-just,n-inc-just,Accessibility criteria for persons with disabilities are not included with the following justification,Non sono compresi criteri di accessibilità per le persone con disabilità con la giustificazione seguente,false,2019-09-18

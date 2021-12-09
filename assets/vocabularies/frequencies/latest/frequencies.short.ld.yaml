@@ -1,0 +1,237 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ANNUAL
+  deprecated: 'false'
+  key: ANNUAL
+  label_en: annual
+  label_it: annuale
+  url: http://publications.europa.eu/resource/authority/frequency/ANNUAL
+  valid_from: '1952-07-25'
+- country_code: ANNUAL_2
+  deprecated: 'false'
+  key: ANNUAL_2
+  label_en: semiannual
+  label_it: semestrale
+  url: http://publications.europa.eu/resource/authority/frequency/ANNUAL_2
+  valid_from: '1952-07-25'
+- country_code: ANNUAL_3
+  deprecated: 'false'
+  key: ANNUAL_3
+  label_en: three times a year
+  label_it: tre volte all'anno
+  url: http://publications.europa.eu/resource/authority/frequency/ANNUAL_3
+  valid_from: '1952-07-25'
+- country_code: BIDECENNIAL
+  deprecated: 'false'
+  key: BIDECENNIAL
+  label_en: bidecennial
+  label_it: bidecennale
+  url: http://publications.europa.eu/resource/authority/frequency/BIDECENNIAL
+  valid_from: '1952-07-25'
+- country_code: BIENNIAL
+  deprecated: 'false'
+  key: BIENNIAL
+  label_en: biennial
+  label_it: biennale
+  url: http://publications.europa.eu/resource/authority/frequency/BIENNIAL
+  valid_from: '1952-07-25'
+- country_code: BIHOURLY
+  deprecated: 'false'
+  key: BIHOURLY
+  label_en: bihourly
+  label_it: ogni due ore
+  url: http://publications.europa.eu/resource/authority/frequency/BIHOURLY
+  valid_from: '1952-07-25'
+- country_code: BIMONTHLY
+  deprecated: 'false'
+  key: BIMONTHLY
+  label_en: bimonthly
+  label_it: bimestrale
+  url: http://publications.europa.eu/resource/authority/frequency/BIMONTHLY
+  valid_from: '1952-07-25'
+- country_code: BIWEEKLY
+  deprecated: 'false'
+  key: BIWEEKLY
+  label_en: biweekly
+  label_it: quindicinale
+  url: http://publications.europa.eu/resource/authority/frequency/BIWEEKLY
+  valid_from: '1952-07-25'
+- country_code: CONT
+  deprecated: 'false'
+  key: CONT
+  label_en: continuous
+  label_it: continuo
+  url: http://publications.europa.eu/resource/authority/frequency/CONT
+  valid_from: '1952-07-25'
+- country_code: DAILY
+  deprecated: 'false'
+  key: DAILY
+  label_en: daily
+  label_it: quotidiano
+  url: http://publications.europa.eu/resource/authority/frequency/DAILY
+  valid_from: '1952-07-25'
+- country_code: DAILY_2
+  deprecated: 'false'
+  key: DAILY_2
+  label_en: twice a day
+  label_it: due volte al giorno
+  url: http://publications.europa.eu/resource/authority/frequency/DAILY_2
+  valid_from: '1952-07-25'
+- country_code: DECENNIAL
+  deprecated: 'false'
+  key: DECENNIAL
+  label_en: decennial
+  label_it: decennale
+  url: http://publications.europa.eu/resource/authority/frequency/DECENNIAL
+  valid_from: '1952-07-25'
+- country_code: HOURLY
+  deprecated: 'false'
+  key: HOURLY
+  label_en: hourly
+  label_it: ogni ora
+  url: http://publications.europa.eu/resource/authority/frequency/HOURLY
+  valid_from: '1952-07-25'
+- country_code: IRREG
+  deprecated: 'false'
+  key: IRREG
+  label_en: irregular
+  label_it: irregolare
+  url: http://publications.europa.eu/resource/authority/frequency/IRREG
+  valid_from: '1952-07-25'
+- country_code: MONTHLY
+  deprecated: 'false'
+  key: MONTHLY
+  label_en: monthly
+  label_it: mensile
+  url: http://publications.europa.eu/resource/authority/frequency/MONTHLY
+  valid_from: '1952-07-25'
+- country_code: MONTHLY_2
+  deprecated: 'false'
+  key: MONTHLY_2
+  label_en: semimonthly
+  label_it: bimensile
+  url: http://publications.europa.eu/resource/authority/frequency/MONTHLY_2
+  valid_from: '1952-07-25'
+- country_code: MONTHLY_3
+  deprecated: 'false'
+  key: MONTHLY_3
+  label_en: three times a month
+  label_it: tre volte al mese
+  url: http://publications.europa.eu/resource/authority/frequency/MONTHLY_3
+  valid_from: '1952-07-25'
+- country_code: NEVER
+  deprecated: 'false'
+  key: NEVER
+  label_en: never
+  label_it: mai
+  url: http://publications.europa.eu/resource/authority/frequency/NEVER
+  valid_from: '1952-07-25'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/frequency/OP_DATPRO
+- country_code: OTHER
+  deprecated: 'false'
+  key: OTHER
+  label_en: other
+  label_it: altro
+  url: http://publications.europa.eu/resource/authority/frequency/OTHER
+  valid_from: '1952-07-25'
+- country_code: QUADRENNIAL
+  deprecated: 'false'
+  key: QUADRENNIAL
+  label_en: quadrennial
+  label_it: ogni quattro anni
+  url: http://publications.europa.eu/resource/authority/frequency/QUADRENNIAL
+  valid_from: '1952-07-25'
+- country_code: QUARTERLY
+  deprecated: 'false'
+  key: QUARTERLY
+  label_en: quarterly
+  label_it: trimestrale
+  url: http://publications.europa.eu/resource/authority/frequency/QUARTERLY
+  valid_from: '1952-07-25'
+- country_code: QUINQUENNIAL
+  deprecated: 'false'
+  key: QUINQUENNIAL
+  label_en: quinquennial
+  label_it: ogni cinque anni
+  url: http://publications.europa.eu/resource/authority/frequency/QUINQUENNIAL
+  valid_from: '1952-07-25'
+- country_code: TRIDECENNIAL
+  deprecated: 'false'
+  key: TRIDECENNIAL
+  label_en: tridecennial
+  label_it: tridecennale
+  url: http://publications.europa.eu/resource/authority/frequency/TRIDECENNIAL
+  valid_from: '1952-07-25'
+- country_code: TRIENNIAL
+  deprecated: 'false'
+  key: TRIENNIAL
+  label_en: triennial
+  label_it: triennale
+  url: http://publications.europa.eu/resource/authority/frequency/TRIENNIAL
+  valid_from: '1952-07-25'
+- country_code: TRIHOURLY
+  deprecated: 'false'
+  key: TRIHOURLY
+  label_en: trihourly
+  label_it: ogni tre ore
+  url: http://publications.europa.eu/resource/authority/frequency/TRIHOURLY
+  valid_from: '1952-07-25'
+- country_code: UNKNOWN
+  deprecated: 'false'
+  key: UNKNOWN
+  label_en: unknown
+  label_it: sconosciuto
+  url: http://publications.europa.eu/resource/authority/frequency/UNKNOWN
+  valid_from: '1952-07-25'
+- country_code: UPDATE_CONT
+  deprecated: 'false'
+  key: UPDATE_CONT
+  label_en: continuously updated
+  label_it: in continuo aggiornamento
+  url: http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT
+  valid_from: '1952-07-25'
+- country_code: WEEKLY
+  deprecated: 'false'
+  key: WEEKLY
+  label_en: weekly
+  label_it: settimanale
+  url: http://publications.europa.eu/resource/authority/frequency/WEEKLY
+  valid_from: '1952-07-25'
+- country_code: WEEKLY_2
+  deprecated: 'false'
+  key: WEEKLY_2
+  label_en: semiweekly
+  label_it: bisettimanale
+  url: http://publications.europa.eu/resource/authority/frequency/WEEKLY_2
+  valid_from: '1952-07-25'
+- country_code: WEEKLY_3
+  deprecated: 'false'
+  key: WEEKLY_3
+  label_en: three times a week
+  label_it: tre volte a settimana
+  url: http://publications.europa.eu/resource/authority/frequency/WEEKLY_3
+  valid_from: '1952-07-25'

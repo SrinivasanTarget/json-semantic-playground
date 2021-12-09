@@ -1,0 +1,76 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/OP_DATPRO
+- country_code: cancel
+  deprecated: 'false'
+  key: cancel
+  label_en: Cancellation
+  label_it: Annullamento
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/cancel
+  valid_from: '2019-09-18'
+- country_code: cancel-intent
+  deprecated: 'false'
+  key: cancel-intent
+  label_en: Cancellation intention
+  label_it: Previsto annullamento
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/cancel-intent
+  valid_from: '2019-09-18'
+- country_code: cor-buy
+  deprecated: 'false'
+  key: cor-buy
+  label_en: Buyer correction
+  label_it: Rettifica errore committente
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/cor-buy
+  valid_from: '2019-09-18'
+- country_code: cor-esen
+  deprecated: 'false'
+  key: cor-esen
+  label_en: eSender correction
+  label_it: Rettifica errore eSender
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/cor-esen
+  valid_from: '2019-09-18'
+- country_code: cor-pub
+  deprecated: 'false'
+  key: cor-pub
+  label_en: Publisher correction
+  label_it: Rettifica errore editore
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/cor-pub
+  valid_from: '2019-09-18'
+- country_code: info-release
+  deprecated: 'false'
+  key: info-release
+  label_en: Availability information
+  label_it: "Disponibilit\xE0 di informazioni"
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/info-release
+  valid_from: '2019-09-18'
+- country_code: update-add
+  deprecated: 'false'
+  key: update-add
+  label_en: Information updated
+  label_it: Aggiornamento informazioni
+  url: http://publications.europa.eu/resource/authority/change-corrig-justification/update-add
+  valid_from: '2019-09-18'

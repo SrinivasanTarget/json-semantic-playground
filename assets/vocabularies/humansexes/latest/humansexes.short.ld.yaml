@@ -1,0 +1,64 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: FEMALE
+  deprecated: 'false'
+  key: FEMALE
+  label_en: female
+  label_it: femminile
+  url: http://publications.europa.eu/resource/authority/human-sex/FEMALE
+  valid_from: '2015-05-06'
+- country_code: MALE
+  deprecated: 'false'
+  key: MALE
+  label_en: male
+  label_it: maschile
+  url: http://publications.europa.eu/resource/authority/human-sex/MALE
+  valid_from: '2015-05-06'
+- country_code: NAP
+  deprecated: 'false'
+  key: NAP
+  label_en: not applicable
+  label_it: non pertinente
+  url: http://publications.europa.eu/resource/authority/human-sex/NAP
+  valid_from: '2015-05-06'
+- country_code: NKN
+  deprecated: 'false'
+  key: NKN
+  label_en: not known
+  label_it: ignoto
+  url: http://publications.europa.eu/resource/authority/human-sex/NKN
+  valid_from: '2015-05-06'
+- country_code: NST
+  deprecated: 'false'
+  key: NST
+  label_en: not stated
+  label_it: non dichiarato
+  url: http://publications.europa.eu/resource/authority/human-sex/NST
+  valid_from: '2020-11-26'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/humansexes/OP_DATPRO
+  valid_from: '1952-07-23'

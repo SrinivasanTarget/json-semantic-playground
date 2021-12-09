@@ -1,0 +1,1011 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/TEL_EXT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TEL_EXT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TEL_EXT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TEL_EXT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TEL_EXT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Durchwahl"
+      },
+      {
+        "@language": "en",
+        "@value": "Extension"
+      },
+      {
+        "@language": "fr",
+        "@value": "Numéro de poste"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iekšējais numurs"
+      },
+      {
+        "@language": "nl",
+        "@value": "Doorverbinding"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "POSTE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/EMAIL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EMAIL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EMAIL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EMAIL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EMAIL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "E-mail"
+      },
+      {
+        "@language": "es",
+        "@value": "Correo electrónico"
+      },
+      {
+        "@language": "fr",
+        "@value": "Courrier électronique"
+      },
+      {
+        "@language": "pt",
+        "@value": "Correio eletrónico"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ADR_POSTAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ADR_POSTAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ADR_POSTAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ADR_POSTAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Anschrift"
+      },
+      {
+        "@language": "en",
+        "@value": "Postal address"
+      },
+      {
+        "@language": "fr",
+        "@value": "Adresse postale"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pasta adrese"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "POSTALADDRESS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ADR_OFFICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ADR_OFFICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ADR_OFFICE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ADR_OFFICE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Büroanschrift"
+      },
+      {
+        "@language": "en",
+        "@value": "Office address"
+      },
+      {
+        "@language": "fr",
+        "@value": "Adresse"
+      },
+      {
+        "@language": "lv",
+        "@value": "Biroja adrese"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OFFICEADDRESS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/FAX",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FAX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FAX"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FAX"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FAX"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Факс"
+      },
+      {
+        "@language": "cs",
+        "@value": "Fax"
+      },
+      {
+        "@language": "da",
+        "@value": "Fax"
+      },
+      {
+        "@language": "de",
+        "@value": "Fax"
+      },
+      {
+        "@language": "el",
+        "@value": "φαξ"
+      },
+      {
+        "@language": "en",
+        "@value": "Fax"
+      },
+      {
+        "@language": "es",
+        "@value": "Fax"
+      },
+      {
+        "@language": "et",
+        "@value": "Faks"
+      },
+      {
+        "@language": "fi",
+        "@value": "Faksi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Fax"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fax"
+      },
+      {
+        "@language": "hr",
+        "@value": "Faks"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fax"
+      },
+      {
+        "@language": "it",
+        "@value": "Fax"
+      },
+      {
+        "@language": "lt",
+        "@value": "Fakso"
+      },
+      {
+        "@language": "lv",
+        "@value": "Fakss"
+      },
+      {
+        "@language": "mt",
+        "@value": "Faks"
+      },
+      {
+        "@language": "nl",
+        "@value": "Fax"
+      },
+      {
+        "@language": "pl",
+        "@value": "Faks"
+      },
+      {
+        "@language": "pt",
+        "@value": "Fax"
+      },
+      {
+        "@language": "ro",
+        "@value": "Fax"
+      },
+      {
+        "@language": "sk",
+        "@value": "Fax"
+      },
+      {
+        "@language": "sl",
+        "@value": "Fax"
+      },
+      {
+        "@language": "sv",
+        "@value": "Fax"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FAX"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/TEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "телефон"
+      },
+      {
+        "@language": "cs",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "da",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "de",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "el",
+        "@value": "τηλεφώνου"
+      },
+      {
+        "@language": "en",
+        "@value": "Telephone"
+      },
+      {
+        "@language": "es",
+        "@value": "Teléfono"
+      },
+      {
+        "@language": "et",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Puhelin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Téléphone"
+      },
+      {
+        "@language": "ga",
+        "@value": "Guthán"
+      },
+      {
+        "@language": "hr",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "hu",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "it",
+        "@value": "Telefono"
+      },
+      {
+        "@language": "lt",
+        "@value": "Telefono"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tālrunis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "nl",
+        "@value": "Telefoon"
+      },
+      {
+        "@language": "pl",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "pt",
+        "@value": "Telefone"
+      },
+      {
+        "@language": "ro",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "sk",
+        "@value": "Telefón"
+      },
+      {
+        "@language": "sl",
+        "@value": "Telefon"
+      },
+      {
+        "@language": "sv",
+        "@value": "Telefon"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/TEL_SWI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TEL_SWI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TEL_SWI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TEL_SWI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TEL_SWI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "da",
+        "@value": "Omstillingsbord"
+      },
+      {
+        "@language": "de",
+        "@value": "Zentrale"
+      },
+      {
+        "@language": "en",
+        "@value": "Switchboard"
+      },
+      {
+        "@language": "es",
+        "@value": "Centralita"
+      },
+      {
+        "@language": "fr",
+        "@value": "Standard"
+      },
+      {
+        "@language": "it",
+        "@value": "Standard"
+      },
+      {
+        "@language": "lv",
+        "@value": "Centrālais tālrunis"
+      },
+      {
+        "@language": "nl",
+        "@value": "Schakelbord"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CENTRAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/OFFICE_NO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OFFICE_NO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OFFICE_NO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:ncfe1952d710e4d2293788c519d5970e9b4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OFFICE_NO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OFFICE_NO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "Büro"
+      },
+      {
+        "@language": "en",
+        "@value": "Office"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bureau"
+      },
+      {
+        "@language": "lv",
+        "@value": "Birojs"
+      }
+    ]
+  },
+  {
+    "@id": "_:ncfe1952d710e4d2293788c519d5970e9b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OFFICE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Address type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "address-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20180620-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Address type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20180620-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Address type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/address-type/MAIN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MAIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MAIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2018-05-30"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MAIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MAIN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/address-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Main address"
+      }
+    ]
+  }
+]

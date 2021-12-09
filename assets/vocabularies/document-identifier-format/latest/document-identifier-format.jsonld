@@ -1,0 +1,635 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/document-identifier-format",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Document identifier format"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "document-identifier-format"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Document identifier format"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Document identifier format"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CSL_NUMBER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CSL_NUMBER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-05-11"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CSL_NUMBER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CSL_NUMBER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "CSL number is a document identifier of the European Council comprising the following elements: <sequential number> <suffix> <year> (e.g. 05112/1/2020). In AKN4EU, it is used to identify the components of the identifier used by the Council for its internal documents."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "CSL номер"
+      },
+      {
+        "@language": "cs",
+        "@value": "Número CSL"
+      },
+      {
+        "@language": "da",
+        "@value": "CSL-nummer"
+      },
+      {
+        "@language": "de",
+        "@value": "CSL-Nummer"
+      },
+      {
+        "@language": "el",
+        "@value": "Αριθμός CSL"
+      },
+      {
+        "@language": "en",
+        "@value": "CSL number"
+      },
+      {
+        "@language": "es",
+        "@value": "Número CSL"
+      },
+      {
+        "@language": "et",
+        "@value": "CSLi number"
+      },
+      {
+        "@language": "fi",
+        "@value": "CSL-numero"
+      },
+      {
+        "@language": "fr",
+        "@value": "Numéro CSL"
+      },
+      {
+        "@language": "ga",
+        "@value": "Uimhir CSL"
+      },
+      {
+        "@language": "hr",
+        "@value": "Broj CSL"
+      },
+      {
+        "@language": "hu",
+        "@value": "CSL-szám"
+      },
+      {
+        "@language": "it",
+        "@value": "Numero CSL"
+      },
+      {
+        "@language": "lt",
+        "@value": "CSL numeris"
+      },
+      {
+        "@language": "lv",
+        "@value": "CSL numurs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Numru CSL"
+      },
+      {
+        "@language": "nl",
+        "@value": "CSL-nummer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Numer CSL"
+      },
+      {
+        "@language": "pt",
+        "@value": "Número CSL"
+      },
+      {
+        "@language": "ro",
+        "@value": "Număr CSL"
+      },
+      {
+        "@language": "sk",
+        "@value": "Číslo CSL"
+      },
+      {
+        "@language": "sl",
+        "@value": "Številka CSL"
+      },
+      {
+        "@language": "sv",
+        "@value": "CSL-nummer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COM_NUMBER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COM_NUMBER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-05-11"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COM_NUMBER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COM_NUMBER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "COM number is a document identifier of the European Commission comprising the following elements: \"COM\" <year> <sequential number> (e.g. COM(2019) 370). In AKN4EU, it is used to identify the components of a document identifier that follows the COM documents syntax."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "COM номер"
+      },
+      {
+        "@language": "cs",
+        "@value": "Číslo COM"
+      },
+      {
+        "@language": "da",
+        "@value": "COM-nummer"
+      },
+      {
+        "@language": "de",
+        "@value": "COM-Nummer"
+      },
+      {
+        "@language": "el",
+        "@value": "Αριθμός COM"
+      },
+      {
+        "@language": "en",
+        "@value": "COM number"
+      },
+      {
+        "@language": "es",
+        "@value": "Número COM"
+      },
+      {
+        "@language": "et",
+        "@value": "COMi number"
+      },
+      {
+        "@language": "fi",
+        "@value": "COM-numero"
+      },
+      {
+        "@language": "fr",
+        "@value": "Numéro COM"
+      },
+      {
+        "@language": "ga",
+        "@value": "Uimhir COM"
+      },
+      {
+        "@language": "hr",
+        "@value": "Broj COM"
+      },
+      {
+        "@language": "hu",
+        "@value": "COM-szám"
+      },
+      {
+        "@language": "it",
+        "@value": "Numero COM"
+      },
+      {
+        "@language": "lt",
+        "@value": "COM numeris"
+      },
+      {
+        "@language": "lv",
+        "@value": "COM numurs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Numru COM"
+      },
+      {
+        "@language": "nl",
+        "@value": "COM-nummer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Numer COM"
+      },
+      {
+        "@language": "pt",
+        "@value": "Número COM"
+      },
+      {
+        "@language": "ro",
+        "@value": "Număr COM"
+      },
+      {
+        "@language": "sk",
+        "@value": "Číslo COM"
+      },
+      {
+        "@language": "sl",
+        "@value": "Številka COM"
+      },
+      {
+        "@language": "sv",
+        "@value": "COM-nummer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SESSION_NUMBER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SESSION_NUMBER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-05-11"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SESSION_NUMBER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SESSION_NUMBER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Session number is a document identifier of the European Parliament comprising the following elements: <type of document> <number of legislature> <sequential number> <year> (e.g. B9-0078/2020). In AKN4EU, it is used to identify the components of the identifier used by the European Parliament for the session identifier of all documents presented at a plenary session."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Номер на заседание"
+      },
+      {
+        "@language": "cs",
+        "@value": "Číslo zasedání"
+      },
+      {
+        "@language": "da",
+        "@value": "Mødenummer"
+      },
+      {
+        "@language": "de",
+        "@value": "Sitzungsnummer"
+      },
+      {
+        "@language": "el",
+        "@value": "Αριθμός συνεδρίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Session number"
+      },
+      {
+        "@language": "es",
+        "@value": "Número de sesión"
+      },
+      {
+        "@language": "et",
+        "@value": "Istungi number"
+      },
+      {
+        "@language": "fi",
+        "@value": "Istunnon numero"
+      },
+      {
+        "@language": "fr",
+        "@value": "Numéro de session"
+      },
+      {
+        "@language": "ga",
+        "@value": "Uimhir sheisiúin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Broj sjednice"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ülés száma"
+      },
+      {
+        "@language": "it",
+        "@value": "Numero sessione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sesijos numeris"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sēdes numurs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Numru tas-sessjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Zittingsnummer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Numer sesji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Número da sessão"
+      },
+      {
+        "@language": "ro",
+        "@value": "Numărul sesiunii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Číslo zasadnutia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Številka seje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sessionsnummer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/document-identifier-format"
+      }
+    ]
+  }
+]

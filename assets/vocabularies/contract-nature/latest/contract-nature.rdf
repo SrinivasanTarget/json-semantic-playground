@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/contract-nature/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/contract-nature"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/contract-nature/combined">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>combined</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>combined</at:op-code>
+    <at:start.use>2021-03-17</at:start.use>
+    <atold:op-code>combined</atold:op-code>
+    <dc:identifier>combined</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/contract-nature"/>
+    <skos:prefLabel xml:lang="bg">Комбинирани договори</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Kombinované smlouvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Kombinerede kontrakter</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Kombiniert Verträge</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Σε συνδυασμό συμβάσεις</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Combined</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Contratos combinados</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kombineeritud lepingud</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Yhdistetyt sopimukset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Contrats combinés</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Conarthaí Chomhcheangailte</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Kombinirani ugovori</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kombinált szerződések</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Appalti misti</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Kombinuoti sutartys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Kombinētie līgumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kuntratti magħquda</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Gecombineerd contracten</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Połączone kontrakty</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Contratos combinados</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Contracte combinate</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Kombinované zmluvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Kombinirane pogodbe</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Kombinerade kontrakt</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/contract-nature/supplies">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>supplies</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>supplies</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n8831597bb81444a698f0b159da613323b2"/>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>supplies</atold:op-code>
+    <dc:identifier>supplies</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/contract-nature"/>
+    <skos:prefLabel xml:lang="bg">Доставки</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Dodávky</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Varer</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Lieferungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προμήθειες</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Supplies</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Suministros</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Tarned</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Tavarat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Fournitures</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Soláthairtí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Roba</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Árubeszerzések</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Forniture</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Prekės</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Piegādes</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Fornituri</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Leveringen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dostawy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Fornecimentos</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Bunuri</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Dodávky</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Blago</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Varor</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/contract-nature/works">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>works</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>works</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n8831597bb81444a698f0b159da613323b3"/>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>works</atold:op-code>
+    <dc:identifier>works</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/contract-nature"/>
+    <skos:prefLabel xml:lang="bg">Строителство</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Stavební práce</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Bygge og anlæg</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Bauleistung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Έργα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Works</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Obras</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ehitustööde hankelepingud</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Urakat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Marché de travaux</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Oibreacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Radovi</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Építési beruházás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Lavori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">darbai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Būvdarbi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Xogħlijiet</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Werken</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Roboty budowlane</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Obras</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Lucrări</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Práce</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Gradnje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Byggentreprenader</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/contract-nature/services">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>services</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>services</at:op-code>
+    <at:op-mapped-code rdf:nodeID="n8831597bb81444a698f0b159da613323b1"/>
+    <at:start.use>2019-09-18</at:start.use>
+    <atold:op-code>services</atold:op-code>
+    <dc:identifier>services</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/contract-nature"/>
+    <skos:prefLabel xml:lang="bg">Услуги</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Služby</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Dienstleistungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Teenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Palvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n8831597bb81444a698f0b159da613323b3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>1</at:legacy-code>
+    <dc:source>CODIF_DATA</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n8831597bb81444a698f0b159da613323b2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>2</at:legacy-code>
+    <dc:source>CODIF_DATA</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/contract-nature">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Contract nature</rdfs:label>
+    <at:prefLabel xml:lang="en">Contract nature</at:prefLabel>
+    <at:table.id>contract-nature</at:table.id>
+    <at:table.version.number>20210317-0</at:table.version.number>
+    <owl:versionInfo>20210317-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Contract nature</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="n8831597bb81444a698f0b159da613323b1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>4</at:legacy-code>
+    <dc:source>CODIF_DATA</dc:source>
+  </rdf:Description>
+</rdf:RDF>

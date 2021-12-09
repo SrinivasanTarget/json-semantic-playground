@@ -1,0 +1,22 @@
+# Serializing assets/vocabularies/legislativeprocedures/latest/legislativeprocedures.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/procedure
+# title: Interinstitutional procedure
+# version: 20210929-0
+# description: Interinstitutional procedure
+key,url,deprecated,valid_from,country_code,label_en,label_it,valid_until
+OP_DATPRO,http://publications.europa.eu/resource/authority/legislativeprocedures/OP_DATPRO,false,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori,
+ACC,http://publications.europa.eu/resource/authority/procedure/ACC,false,1958-01-01,ACC,Agreement (ACC),Accordo (ACC),
+APP,http://publications.europa.eu/resource/authority/procedure/APP,false,2009-12-01,APP,Special legislative procedure — EP consent required (APP),Procedura legislativa speciale — Approvazione del PE (APP),
+AVC,http://publications.europa.eu/resource/authority/procedure/AVC,true,1987-07-01,AVC,Assent procedure (AVC),Procedura di parere conforme (AVC),2009-11-30
+BUD,http://publications.europa.eu/resource/authority/procedure/BUD,false,1958-01-01,BUD,Budgetary procedure (BUD),Procedura di bilancio (BUD),
+CNB,http://publications.europa.eu/resource/authority/procedure/CNB,false,1993-11-01,CNB,Consultation of the European Central Bank (CNB),Consultazione della Banca centrale europea (CNB),
+CNC,http://publications.europa.eu/resource/authority/procedure/CNC,true,1993-11-01,CNC,Consultation of the Court of Auditors (CNC),Consultazione della Corte dei conti (CNC),2009-11-30
+CNS,http://publications.europa.eu/resource/authority/procedure/CNS,true,1958-01-01,CNS,Consultation procedure (CNS),Procedura di consultazione (CNS),2009-11-30
+COD,http://publications.europa.eu/resource/authority/procedure/COD,true,1993-11-01,COD,Co-decision procedure (COD),Procedura di codecisione (COD),2009-11-30
+DEC,http://publications.europa.eu/resource/authority/procedure/DEC,false,1958-01-01,DEC,Budgetary discharge procedure (DEC),Procedura di discarico del bilancio (DEC),
+NLE,http://publications.europa.eu/resource/authority/procedure/NLE,false,2009-12-01,NLE,Non-legislative procedure (NLE),Procedura non legislativa (NLE),
+OLP,http://publications.europa.eu/resource/authority/procedure/OLP,false,2009-12-01,OLP,Ordinary legislative procedure (COD),Procedura legislativa ordinaria (COD),
+PRT,http://publications.europa.eu/resource/authority/procedure/PRT,false,1993-11-01,PRT,Social protocol (PRT),Protocollo sulla politica sociale (PRT),
+SLP,http://publications.europa.eu/resource/authority/procedure/SLP,false,2009-12-01,SLP,Special legislative procedure — EP consulted (CNS),Procedura legislativa speciale — Consultazione del PE (CNS),
+SYN,http://publications.europa.eu/resource/authority/procedure/SYN,true,1987-07-01,SYN,Cooperation procedure (SYN),Procedura di cooperazione (SYN),2009-11-30

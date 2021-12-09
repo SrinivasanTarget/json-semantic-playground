@@ -1,0 +1,117 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/OP_DATPRO
+- country_code: bud-pay
+  deprecated: 'false'
+  key: bud-pay
+  label_en: Organisation whose budget is used to pay for the contract
+  label_it: "Organizzazione dal cui bilancio \xE8 finanziato l'appalto"
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/bud-pay
+  valid_from: '2019-09-18'
+- country_code: exec-pay
+  deprecated: 'false'
+  key: exec-pay
+  label_en: Organisation executing the payment
+  label_it: Organizzazione che esegue il pagamento
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/exec-pay
+  valid_from: '2019-09-18'
+- country_code: group-lead
+  deprecated: 'false'
+  key: group-lead
+  label_en: Group leader
+  label_it: Capofila
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/group-lead
+  valid_from: '2019-09-18'
+- country_code: info-prov
+  deprecated: 'false'
+  key: info-prov
+  label_en: Organisation providing additional information about the procurement procedure
+  label_it: Organizzazione alla quale rivolgersi per informazioni complementari sulla
+    procedura di appalto
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/info-prov
+  valid_from: '2019-09-18'
+- country_code: lim-prov
+  deprecated: 'true'
+  key: lim-prov
+  label_en: Organisation providing more information on the time limits for review
+    procedures
+  label_it: Organizzazione alla quale rivolgersi per informazioni complementari sui
+    termini per le procedure di ricorso
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/lim-prov
+  valid_from: '2019-09-18'
+  valid_until: '2020-12-15'
+- country_code: offl-acc
+  deprecated: 'false'
+  key: offl-acc
+  label_en: Organisation providing offline access to the procurement documents
+  label_it: Organizzazione alla quale rivolgersi per l'accesso offline ai documenti
+    di gara
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/offl-acc
+  valid_from: '2019-09-18'
+- country_code: processor
+  deprecated: 'false'
+  key: processor
+  label_en: Organisation processing tenders
+  label_it: Organizzazione che tratta le offerte
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/processor
+  valid_from: '2019-09-18'
+- country_code: recepient
+  deprecated: 'false'
+  key: recepient
+  label_en: Organisation receiving tenders
+  label_it: Organizzazione che riceve le offerte
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/recepient
+  valid_from: '2019-09-18'
+- country_code: req-proc
+  deprecated: 'false'
+  key: req-proc
+  label_en: Organisation processing requests to participate
+  label_it: Organizzazione che tratta le domande di partecipazione
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/req-proc
+  valid_from: '2019-09-18'
+- country_code: req-recep
+  deprecated: 'false'
+  key: req-recep
+  label_en: Organisation receiving requests to participate
+  label_it: Organizzazione che riceve le domande di partecipazione
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/req-recep
+  valid_from: '2019-09-18'
+- country_code: rev-info
+  deprecated: 'false'
+  key: rev-info
+  label_en: Organisation providing more information on the review procedures
+  label_it: Organizzazione alla quale rivolgersi per informazioni complementari sulle
+    procedure di ricorso
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/rev-info
+  valid_from: '2020-12-16'
+- country_code: signatory
+  deprecated: 'false'
+  key: signatory
+  label_en: Organisation signing the contract
+  label_it: Organizzazione che firma il contratto di appalto
+  url: http://publications.europa.eu/resource/authority/organisation-subrole/signatory
+  valid_from: '2019-09-18'

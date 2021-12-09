@@ -1,0 +1,12 @@
+# Serializing assets/vocabularies/distribution-types/latest/distribution-types.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/distribution-type
+# title: Distribution type
+# version: 20201216-0
+# description: Distribution type
+key,url,deprecated,valid_from,country_code,label_en,label_it
+DOWNLOADABLE_FILE,http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE,false,2013-01-01,DOWNLOADABLE_FILE,Downloadable file,File scaricabile
+FEED_INFO,http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO,false,2013-01-01,FEED_INFO,Information feed,Feed di informazioni
+OP_DATPRO,http://publications.europa.eu/resource/authority/distribution-type/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+VISUALIZATION,http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION,false,2013-01-01,VISUALIZATION,Visualization,Visualizzazione
+WEB_SERVICE,http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE,false,2013-01-02,WEB_SERVICE,Web service/API,Servizio web/API

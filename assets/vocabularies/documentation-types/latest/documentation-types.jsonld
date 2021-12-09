@@ -1,0 +1,710 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WEBPAGE_RELATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WEBPAGE_RELATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WEBPAGE_RELATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WEBPAGE_RELATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/documentation-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Свързана интернет страница"
+      },
+      {
+        "@language": "cs",
+        "@value": "Související internetová stránka"
+      },
+      {
+        "@language": "da",
+        "@value": "Relateret webside"
+      },
+      {
+        "@language": "de",
+        "@value": "Einschlägige Webseite"
+      },
+      {
+        "@language": "el",
+        "@value": "Σχετική ιστοσελίδα"
+      },
+      {
+        "@language": "en",
+        "@value": "Related webpage"
+      },
+      {
+        "@language": "es",
+        "@value": "Página web relacionada"
+      },
+      {
+        "@language": "et",
+        "@value": "Seotud veebileht"
+      },
+      {
+        "@language": "fi",
+        "@value": "Asiaan liittyvä verkkosivusto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Page web correspondante"
+      },
+      {
+        "@language": "hr",
+        "@value": "Povezana web-stranica"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kapcsolódó weboldal"
+      },
+      {
+        "@language": "it",
+        "@value": "Pagina web collegata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Susijęs tinklalapis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Saistītā vietne"
+      },
+      {
+        "@language": "mt",
+        "@value": "Paġna Web relatata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verwante webpagina"
+      },
+      {
+        "@language": "pl",
+        "@value": "Powiązane strony internetowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Página web conexa"
+      },
+      {
+        "@language": "ro",
+        "@value": "Pagină de internet asociată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súvisiaca webová stránka"
+      },
+      {
+        "@language": "sl",
+        "@value": "Povezana spletna stran"
+      },
+      {
+        "@language": "sv",
+        "@value": "Webbsida"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DOCUMENTATION_MAIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DOCUMENTATION_MAIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DOCUMENTATION_MAIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DOCUMENTATION_MAIN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/documentation-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Основна документация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Hlavní dokumentace"
+      },
+      {
+        "@language": "da",
+        "@value": "Hoveddokumentation"
+      },
+      {
+        "@language": "de",
+        "@value": "Zentrale Unterlagen"
+      },
+      {
+        "@language": "el",
+        "@value": "Κύρια τεκμηρίωση"
+      },
+      {
+        "@language": "en",
+        "@value": "Main documentation"
+      },
+      {
+        "@language": "es",
+        "@value": "Documentación principal"
+      },
+      {
+        "@language": "et",
+        "@value": "Põhidokumendid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Päädokumentaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Documentation principale"
+      },
+      {
+        "@language": "hr",
+        "@value": "Glavna dokumentacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alapdokumentáció"
+      },
+      {
+        "@language": "it",
+        "@value": "Documentazione principale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pagrindinė dokumentacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Galvenā dokumentācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dokumentazzjoni ewlenija"
+      },
+      {
+        "@language": "nl",
+        "@value": "Hoofddocumentatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dokumenty główne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Documentação principal"
+      },
+      {
+        "@language": "ro",
+        "@value": "Documentație principală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Hlavná dokumentácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Glavna dokumentacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Dokumentation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_RELATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DOCUMENTATION_RELATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DOCUMENTATION_RELATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DOCUMENTATION_RELATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DOCUMENTATION_RELATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/documentation-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Свързана документация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Související dokumentace"
+      },
+      {
+        "@language": "da",
+        "@value": "Relateret dokumentation"
+      },
+      {
+        "@language": "de",
+        "@value": "Unterstützende Unterlagen"
+      },
+      {
+        "@language": "el",
+        "@value": "Σχετική τεκμηρίωση"
+      },
+      {
+        "@language": "en",
+        "@value": "Related documentation"
+      },
+      {
+        "@language": "es",
+        "@value": "Documentación relacionada"
+      },
+      {
+        "@language": "et",
+        "@value": "Seotud dokumendid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Asiaan liittyvä dokumentaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Documentation correspondante"
+      },
+      {
+        "@language": "hr",
+        "@value": "Povezana dokumentacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kapcsolódó dokumentáció"
+      },
+      {
+        "@language": "it",
+        "@value": "Documentazione correlata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Susijusi dokumentacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Saistītā dokumentācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dokumentazzjoni relatata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verwante documentatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dokumenty powiązane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Documentação conexa"
+      },
+      {
+        "@language": "ro",
+        "@value": "Documentație conexă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súvisiaca dokumentácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Povezana dokumentacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillhörande dokumentation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/documentation-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/documentation-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/documentation-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Documentation type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "documentation-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Documentation type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Documentation type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/documentation-type/VISUALIZATION",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2013-01-02"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/documentation-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Визуализация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vizualizace"
+      },
+      {
+        "@language": "da",
+        "@value": "Visualisering"
+      },
+      {
+        "@language": "de",
+        "@value": "Visualisierung"
+      },
+      {
+        "@language": "el",
+        "@value": "Οπτική εμφάνιση"
+      },
+      {
+        "@language": "en",
+        "@value": "Visualization"
+      },
+      {
+        "@language": "es",
+        "@value": "Visualización"
+      },
+      {
+        "@language": "et",
+        "@value": "Visuaalne kuju"
+      },
+      {
+        "@language": "fi",
+        "@value": "Visualisointi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Visualisation"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vizualizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Megjelenítés"
+      },
+      {
+        "@language": "it",
+        "@value": "Visualizzazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vizualizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vizualizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Viżwalizzazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Visualisatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wizualizacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Visualização"
+      },
+      {
+        "@language": "ro",
+        "@value": "Vizualizare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vizualizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vizualizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Visualisering"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>CJ</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COUN_COOP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COUN_COOP</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>COUN_COOP</atold:op-code>
+    <dc:identifier>COUN_COOP</dc:identifier>
+    <skos:altLabel xml:lang="en">Cooperation councils</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Съвет за сътрудничество</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Rada pro spolupráci</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Samarbejdsrådet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Kooperationsrat</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συμβούλιο συνεργασίας</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Cooperation council</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Consejo de cooperación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Koostöönõukogu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Yhteistyöneuvosto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Conseil de coopération</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhar comhairle</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Vijeće za suradnju</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Együttműködési tanács</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Consiglio di cooperazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Bendradarbiavimo taryba</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Sadarbības padome</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Il-kunsill ta' kooperazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Samenwerkingsraad</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Rada współpracy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Conselho de cooperação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Consiliul de cooperare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Rada pre spoluprácu</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Svet za sodelovanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Samarbetsråd</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_INST</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_INST</at:op-code>
+    <at:start.use>1951-01-01</at:start.use>
+    <atold:op-code>EU_INST</atold:op-code>
+    <dc:identifier>EU_INST</dc:identifier>
+    <skos:altLabel xml:lang="en">EU institutions</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Институция на ЕС</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Instituce EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">EU-institution</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">EU-Institution</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Θεσμικό όργανο της ΕΕ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EU institution</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Institución de la UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">ELi institutsioon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">EU:n toimielin</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Institution de l’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Institiúid de chuid an AE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Institucija EU-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">EU-intézmény</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Istituzione dell’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">ES institucija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">ES iestāde</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Istituzzjoni tal-UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">EU-instelling</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Instytucja UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Instituição da UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Instituție a UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Inštitúcia EÚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Institucija EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">EU-institution</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_CMT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_CMT</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b13"/>
+    <at:start.use>1958-03-19</at:start.use>
+    <atold:op-code>EP_CMT</atold:op-code>
+    <dc:identifier>EP_CMT</dc:identifier>
+    <skos:altLabel xml:lang="en">EP parliamentary committees</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC"/>
+    <skos:prefLabel xml:lang="bg">Парламентарна комисия на ЕП</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Parlamentní výbor Evropského parlamentu</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Udvalg i Europa-Parlamentet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Ausschuss des Europäischen Parlaments</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Κοινοβουλευτική επιτροπή του ΕΚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EP parliamentary committee</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Comisión parlamentaria del PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Euroopa Parlamendi komisjon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Euroopan parlamentin valiokunta</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Commission parlementaire du PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Coiste parlaiminteach PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Parlamentarni odbori EP-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Európai parlamenti bizottság</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Commissione parlamentare PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">EP parlamentinis komitetas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">EP parlamentārā komiteja</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kumitat parlamentari tal-PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Parlementaire commissie EP</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Komisja parlamentarna PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Comissão parlamentar do PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Comisii parlamentare (PE)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Parlamentný výbor EP</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Parlamentarni odbor Evropskega parlamenta</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Utskott i Europaparlamentet</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AGENCY_OTHER</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AGENCY_OTHER</at:op-code>
+    <at:start.use>2007-01-01</at:start.use>
+    <atold:op-code>AGENCY_OTHER</atold:op-code>
+    <dc:identifier>AGENCY_OTHER</dc:identifier>
+    <skos:altLabel xml:lang="en">Other agencies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Друга агенция</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Jiná agentura</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Andet agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Andere Agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Άλλος οργανισμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Other agency</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Otro organismo</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Muu asutus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Muu virasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Autre organisme</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Gníomhaireacht eile</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Druga agencija</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Egyéb ügynökség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Altra agenzia</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Kita agentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Cita aģentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Aġenzija oħra</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Ander agentschap</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Inna agencja</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Outra agência</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Altă agenție</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Iná agentúra</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Druga agencija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Annan byrå</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>INF_OFF</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>INF_OFF</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>INF_OFF</atold:op-code>
+    <dc:identifier>INF_OFF</dc:identifier>
+    <skos:altLabel xml:lang="en">Information offices</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Информационно бюро</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Informační kancelář</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Informationskontoret</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Informationsbüro</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γραφείο πληροφοριών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Information office</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Oficina de información</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Infobüroo</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Tiedotustoimisto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Bureau d’information</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">An oifig eolais</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Informacijski ured</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tájékoztatási iroda</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Ufficio d’informazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Informacijos biuras</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Informācijas birojs</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">L-uffiċċju tal-informazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlichtingsbureau</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Biuro informacyjne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Gabinete de informação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Biroul de informare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Informačná kancelária</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Informacijska pisarna</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Informationskontor</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DIR_GEN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DIR_GEN</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>DIR_GEN</atold:op-code>
+    <dc:identifier>DIR_GEN</dc:identifier>
+    <skos:altLabel xml:lang="en">Directorates-general</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Генерална дирекция</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Generální ředitelství</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Generaldirektorat</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Generaldirektion</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γενική διεύθυνση</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Directorate-general</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Dirección general</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Peadirektoraat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Pääosasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Direction générale</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Ard-stiúrthóireacht</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Glavna uprava</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Főigazgatóság</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Direzione generale</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Generalinis direktoratas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Ģenerāldirektorāts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Direttorat ġenerali</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Directoraat-generaal</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dyrekcja generalna</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Direção-geral</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Direcție generală</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Generálne riaditeľstvo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Generalni direktorat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Generaldirektorat</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COUN_ASS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COUN_ASS</at:op-code>
+    <at:start.use>1957-03-25</at:start.use>
+    <atold:op-code>COUN_ASS</atold:op-code>
+    <dc:identifier>COUN_ASS</dc:identifier>
+    <skos:altLabel xml:lang="en">Association councils</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Съвет за асоцииране</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Rada přidružení</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Associeringsrådet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Assoziationsrat</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συμβούλιο σύνδεσης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Association council</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Consejo de asociación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Assotsiatsiooninõukogu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Assosiaationeuvosto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Conseil d’association</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhairle comhlachais</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Vijeće za pridruživanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Társulási tanács</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Consiglio di associazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Asociacijos taryba</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Asociācijas padome</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Il-kunsill ta' assoċjazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Associatieraad</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Rada stowarzyszenia</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Conselho de associação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Consiliul de asociere</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Rada pre pridruženie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Pridružitveni svet</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Associeringsråd</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CJ">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_CJ</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_CJ</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b3"/>
+    <at:start.use>1958-03-19</at:start.use>
+    <atold:op-code>EP_CJ</atold:op-code>
+    <dc:identifier>EP_CJ</dc:identifier>
+    <skos:altLabel xml:lang="en">EP joint committees</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">EP joint committee</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CMT_MIX</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CMT_MIX</at:op-code>
+    <at:start.use>1957-03-25</at:start.use>
+    <atold:op-code>CMT_MIX</atold:op-code>
+    <dc:identifier>CMT_MIX</dc:identifier>
+    <skos:altLabel xml:lang="en">Joint committees</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Смесен комитет</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Smíšený výbor</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Det blandede udvalg</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Gemischter Ausschuss</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Μεικτή επιτροπή</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Joint committee</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Comité mixto</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ühiskomitee</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Sekakomitea</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Comité mixte</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">An comhchoiste</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Zajednički odbor</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Vegyes bizottság</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Comitato misto</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Jungtinis komitetas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Apvienotā komiteja</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Il-kumitat konġunt</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Gemengd comité</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wspólny komitet</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Comité misto</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Comitetul mixt</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Spoločný výbor</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Mešani odbor</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Gemensam kommitté</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CB_INT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CB_INT</at:op-code>
+    <at:start.use>1900-01-01</at:start.use>
+    <atold:op-code>CB_INT</atold:op-code>
+    <dc:identifier>CB_INT</dc:identifier>
+    <skos:altLabel xml:lang="en">International organisations</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Международна организация</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Mezinárodní organizace</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">International organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Internationale Organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Διεθνής οργανισμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">International organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Organización internacional</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Rahvusvaheline organisatsioon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kansainvälinen järjestö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Organisation internationale</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Eagraíocht idirnáisiúnta</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Međunarodna organizacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Nemzetközi szervezet</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Organizzazione internazionale</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Tarptautinė organizacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Starptautiska organizācija</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Organizzazzjoni internazzjonali</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Internationale organisatie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Organizacja międzynarodowa</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Organização internacional</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Organizație internațională</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Medzinárodná organizácia</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Mednarodna organizacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Internationell organisation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_IG</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_IG</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b8"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_IG</atold:op-code>
+    <dc:identifier>EP_IG</dc:identifier>
+    <skos:altLabel xml:lang="en">Intergroups</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">Intergroup</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b6">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>DM</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COR_DIR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COR_DIR</at:op-code>
+    <at:start.use>2012-01-01</at:start.use>
+    <atold:op-code>COR_DIR</atold:op-code>
+    <dc:identifier>COR_DIR</dc:identifier>
+    <skos:altLabel xml:lang="en">COR directorates</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Дирекция на КР</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Ředitelství VR</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Direktorat i Regionsudvalget</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">AdR-Direktion</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Διεύθυνση της ΕτΠ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">COR directorate</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Dirección del CDR</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Regioonide Komitee direktoraat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alueiden komitean osasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Direction du CdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Stiúrthóireacht CnR</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Uprava OR-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">A Régiók Bizottságának igazgatósága</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Direzione CdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">RK direktoratas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Reģionu komitejas direktorāts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Direttorat tal-KtR</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Directoraat CvdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dyrekcja KR</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Direção do CR</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Direcție (CoR)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Riaditeľstvo VR</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Direktorat Odbora regij</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Direktorat vid Regionkommittén</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SERV_DEP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SERV_DEP</at:op-code>
+    <at:start.use>1983-02-01</at:start.use>
+    <atold:op-code>SERV_DEP</atold:op-code>
+    <dc:identifier>SERV_DEP</dc:identifier>
+    <skos:altLabel xml:lang="en">Services</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Служба</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Služba</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjeneste</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Dienst</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσία</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Service</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicio</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Talitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Palveluyksikkö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Service</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">An tseirbhís</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Služba</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Szolgálat</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizio</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Tarnyba</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Dienests</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizz</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Dienst</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Służba</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviço</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Serviciu</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služba</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Služba</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänsten</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COR_GROUP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COR_GROUP</at:op-code>
+    <at:start.use>1994-03-09</at:start.use>
+    <atold:op-code>COR_GROUP</atold:op-code>
+    <dc:identifier>COR_GROUP</dc:identifier>
+    <skos:altLabel xml:lang="en">COR groups</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Група на КР</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Skupina VR</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Gruppe i Regionsudvalget</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">AdR-Fachkommission</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Ομάδα της ΕτΠ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">COR group</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Grupo del CDR</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Regioonide Komitee rühm</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alueiden komitean ryhmä</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Groupe du CdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Grúpa CnR</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Skupina OR-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">A Régiók Bizottságának politikai csoportja</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Gruppo CdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">RK frakcija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Reģionu komitejas politiskā grupa</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Grupp tal-KtR</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Groep CvdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Grupa KR</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Grupo do CR</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Grup (CoR)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Skupina VR</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Skupina Odbora regij</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Grupp i Regionkommittén</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_SC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_SC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_SC</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b10"/>
+    <at:start.use>1958-03-19</at:start.use>
+    <atold:op-code>EP_SC</atold:op-code>
+    <dc:identifier>EP_SC</dc:identifier>
+    <skos:altLabel xml:lang="en">EP subcommittees</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">EP subcommittee</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COUN_STAB_ASS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COUN_STAB_ASS</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>COUN_STAB_ASS</atold:op-code>
+    <dc:identifier>COUN_STAB_ASS</dc:identifier>
+    <skos:altLabel xml:lang="en">Stabilisation and association councils</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Съвет за стабилизиране и асоцииране</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Rada stabilizace a přidružení</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Stabiliserings- og associeringsråd</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Stabilitäts- und Assoziationsrat</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συμβούλιο σταθεροποίησης και σύνδεσης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Stabilisation and association council</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Consejo de estabilización y asociación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Stabiliseerimis- ja assotsiatsiooninõukogu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Vakautus- ja assosiaationeuvosto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Conseil de stabilisation et d’association</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhairle cobhsaíochta agus comhlachais</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Vijeće za stabilizaciju i pridruživanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Stabilizációs és társulási tanács</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Consiglio di stabilizzazione e di associazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Stabilizacijos ir asociacijos taryba</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Stabilizācijas un asociācijas padome</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Il-kunsill ta' stabbilizzazzjoni u ta' assoċjazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Stabilisatie- en associatieraad</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Rada stabilizacji i stowarzyszenia</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Conselho de estabilização e de associação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Consiliul de stabilizare și de asociere</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Rada pre stabilizáciu a pridruženie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Stabilizacijsko-pridružitveni svet</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Stabiliserings- och associeringsråd</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AGENCY_CFSP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AGENCY_CFSP</at:op-code>
+    <at:start.use>2002-01-01</at:start.use>
+    <atold:op-code>AGENCY_CFSP</atold:op-code>
+    <dc:identifier>AGENCY_CFSP</dc:identifier>
+    <skos:altLabel xml:lang="en">Common foreign and security policy agencies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Агенции на общата външна политика и политика на сигурност</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Agentura společné zahraniční a bezpečnostní politiky</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Agentur af den fælles udenrigs- og sikkerhedspolitik</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Agentur der Gemeinsamen Außen- und Sicherheitspolitik</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Οργανισμός της κοινής εξωτερικής πολιτικής και πολιτικής ασφάλειας</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Common foreign and security policy agency</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Agencia de política exterior y de seguridad común</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ühise välis- ja julgeolekupoliitika amet</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Yhteisen ulko- ja turvallisuuspolitiikan virasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Agence de la politique étrangère et de sécurité commune</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Ghníomhaireacht an chomhbheartais eachtraigh agus slándála</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Agencija za zajedničku vanjsku i sigurnosnu politiku</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Közös kül- és biztonságpolitikai ügynökség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Agenzia per la politica estera e di sicurezza comune</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Bendra užsienio ir saugumo politika agentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Kopējās ārpolitikas un drošības politikas aģentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Aġenzija tal-politika estera u ta' sigurtà komuni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Agentschap van het gemeenschappelijk buitenlands en veiligheidsbeleid</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Agencja wspólnej polityki zagranicznej i bezpieczeństwa</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Agência da política externa e de segurança comum</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Agenția de politică externă și de securitate comune</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Agentúra spoločnej zahraničnej a bezpečnostnej politiky</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Agencija za skupno zunanjo in varnostno politiko</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Byrån för gemensam utrikes- och säkerhetspolitik</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/CB">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CB</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CB</at:op-code>
+    <at:start.use>1951-01-01</at:start.use>
+    <atold:op-code>CB</atold:op-code>
+    <dc:identifier>CB</dc:identifier>
+    <skos:altLabel xml:lang="en">Corporate bodies</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_INT"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/NP"/>
+    <skos:prefLabel xml:lang="bg">Корпоративен орган</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Právnická osoba</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Juridisk person</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Körperschaft</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Νομικό πρόσωπο</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Corporate body</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Persona jurídica</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Juriidiline isik</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Oikeushenkilö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Entité légale</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhlacht corparáideach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Pravna osoba</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Jogi személy</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Persona giuridica</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Juridinis asmuo</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Juridiska persona</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Korp korporattiv</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Rechtspersoon</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Osoba prawna</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Organismo</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Persoană juridică</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Právnická osoba</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Pravna oseba</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Juridisk person</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_INTERINSTSERV</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_INTERINSTSERV</at:op-code>
+    <at:start.use>1968-12-31</at:start.use>
+    <atold:op-code>EU_INTERINSTSERV</atold:op-code>
+    <dc:identifier>EU_INTERINSTSERV</dc:identifier>
+    <skos:altLabel xml:lang="en">EU interinstitutional services</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Междуинституционална служба на ЕС</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Interinstitucionální služby EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">EU's interinstitutionelle tjeneste</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Interinstitutioneller Dienst der EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Διοργανική υπηρεσία της ΕΕ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EU interinstitutional service</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicio interinstitucional de la UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">ELi institutsioonidevaheline talitus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">EU:n toimielinten välinen</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Service interinstitutionnel de l’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhís idirinstitiúideach AE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Međuinstitucijska služba EU-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">EU intézményközi szolgálat</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizio interistituzionale dell’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">ES tarpinstitucinė tarnyba</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">ES iestāžu dienests</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizz interistituzzjonali tal-UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Interinstitutionele dienst van de EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Służba międzyinstytucjonalna UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviço interinstitucional da UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Serviciu interinstituțional al UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Medziinštitucionálna služba EÚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Medinstitucionalna služba EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">EU:s interinstitutionella tjänster</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AGENCY_EXEC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AGENCY_EXEC</at:op-code>
+    <at:start.use>2014-12-17</at:start.use>
+    <atold:op-code>AGENCY_EXEC</atold:op-code>
+    <dc:identifier>AGENCY_EXEC</dc:identifier>
+    <skos:altLabel xml:lang="en">Executive agencies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Изпълнителна агенция</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Výkonná agentura</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forvaltningsorgan</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Exekutivagentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Εκτελεστικός οργανισμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Executive agency</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Agencia ejecutiva</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Rakendusamet</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Toimeenpanovirasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Agence exécutive</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Gníomhaireacht feidhmiúcháin</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Izvršna agencija</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Végrehajtó ügynökség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Agenzia esecutiva</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Vykdomoji įstaiga</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Izpildaģentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Aġenzija eżekuttiva</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Uitvoerend agentschap</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Agencja wykonawcza</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Agência de execução</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Agenție executivă</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Výkonná agentúra</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Izvajalska agencija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Genomförandeorgan</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>LIA_OFF</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>LIA_OFF</at:op-code>
+    <at:start.use>2018-07-01</at:start.use>
+    <atold:op-code>LIA_OFF</atold:op-code>
+    <dc:identifier>LIA_OFF</dc:identifier>
+    <skos:altLabel xml:lang="en">Liaison offices</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Бюро за връзка</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Kontaktní kancelář</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Forbindelseskontor</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Verbindungsbüro</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γραφείο συνδέσμου</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Liaison office</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Oficina de enlace</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Büroo</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Yhteystoimisto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Bureau de liaison</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Oifig idirchaidrimh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Ured za vezu</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kapcsolattartó iroda</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Ufficio di collegamento</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Ryšių biuras</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Birojs</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Uffiċċju ta’ kollegament</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Liaisonbureau</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Biuro kontaktowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Gabinete de ligação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Biroul de legătură</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Styčná kancelária</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Pisarna za stike</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Förbindelsekontor</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_DIR_GEN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_DIR_GEN</at:op-code>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_DIR_GEN</atold:op-code>
+    <dc:identifier>EP_DIR_GEN</dc:identifier>
+    <skos:altLabel xml:lang="en">EP directorates-general</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Генерална дирекция на ЕП</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Generální ředitelství Evropského parlamentu</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Generaldirektorat i Europa-Parlamentet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Generaldirektion des Europäischen Parlaments</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Γενική διεύθυνση του ΕΚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EP directorate-general</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Dirección general del PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Euroopa Parlamendi peadirektoraat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Euroopan parlamentin pääosasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Direction générale du PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Ard-stiúrthóireacht PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Glavna uprava EP-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Európai parlamenti főigazgatóság</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Direzione generale PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">EP generalinis direktoratas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">EP ģenerāldirektorāts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Direttorat ġenerali tal-PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Directoraat-generaal EP</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dyrekcja generalna PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Direção‑geral do PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Direcție generală (PE)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Generálne riaditeľstvo EP</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Generalni direktorat Evropskega parlamenta</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Generaldirektorat vid Europaparlamentet</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Corporate body classification</rdfs:label>
+    <at:prefLabel xml:lang="en">Corporate body classification</at:prefLabel>
+    <at:table.id>corporate-body-classification</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Corporate body classification</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_GROUP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_GROUP</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b7"/>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>EP_GROUP</atold:op-code>
+    <dc:identifier>EP_GROUP</dc:identifier>
+    <skos:altLabel xml:lang="en">EP political groups</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Политическа група на ЕП</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Politická skupina Evropského parlamentu</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Politisk gruppe i Europa-Parlamentet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Fraktion des Europäischen Parlaments</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Πολιτική ομάδα του ΕΚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EP political group</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Grupo político del PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Euroopa Parlamendi fraktsioon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Euroopan parlamentin poliittinen ryhmä</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Groupe politique du PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Grúpa polaitiúil PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Klubovi zastupnika EP-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Európai parlamenti képviselőcsoport</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Gruppo politico PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">EP frakcija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">EP politiskā grupa</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Grupp politiku tal-PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Politieke fractie EP</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Grupa polityczna PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Grupo político do PE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Grupuri politice (PE)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Politická skupina EP</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Politična skupina Evropskega parlamenta</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Politisk grupp i Europaparlamentet</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_AGENCY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_AGENCY</at:op-code>
+    <at:start.use>1958-12-06</at:start.use>
+    <atold:op-code>EU_AGENCY</atold:op-code>
+    <dc:identifier>EU_AGENCY</dc:identifier>
+    <skos:altLabel xml:lang="en">EU agencies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EXEC"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_OTHER"/>
+    <skos:prefLabel xml:lang="bg">Агенция на ЕС</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Agentura EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">EU-agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">EU-Agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Οργανισμός της ΕΕ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EU agency</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Agencia de la UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">ELi amet</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">EU:n virasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Agence de l’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Gníomhaireacht de chuid an AE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Agencija EU-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">EU-ügynökség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Agenzia dell’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">ES agentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">ES aģentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Aġenzija tal-UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">EU-agentschap</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Agencja UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Agência da UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Agenție a UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Agentúra EÚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Agencija EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">EU-byrå</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_BODY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_BODY</at:op-code>
+    <at:start.use>1951-01-01</at:start.use>
+    <atold:op-code>EU_BODY</atold:op-code>
+    <dc:identifier>EU_BODY</dc:identifier>
+    <skos:altLabel xml:lang="en">EU bodies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Орган на ЕС</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Orgán EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">EU-organ</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">EU-Einrichtung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Όργανο της ΕΕ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EU body</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Órgano de la UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">ELi asutus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">EU:n elin</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Organe de l’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhlacht de chuid an AE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Tijelo EU-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">EU-szerv</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Organo dell’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">ES organas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">ES struktūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Korp tal-UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">EU-orgaan</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Organ UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Órgão da UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Organ al UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Orgán EÚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Organ EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">EU-organ</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EU_JU</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EU_JU</at:op-code>
+    <at:start.use>2007-02-27</at:start.use>
+    <atold:op-code>EU_JU</atold:op-code>
+    <dc:identifier>EU_JU</dc:identifier>
+    <skos:altLabel xml:lang="en">EU joint undertakings</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Съвместно предприятие на ЕС</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Společný podnik EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">EU's fællesforetagende</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Gemeinsames Unternehmen der EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Κοινή επιχείρηση της ΕΕ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">EU joint undertaking</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Empresa común de la UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">ELi ühisettevõte</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">EU:n yhteisyritys</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Entreprise commune de l’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhghnóthas an AE</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Zajedničko poduzeće EU-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">EU közös vállalkozás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Impresa comune dell’UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">ES bendroji įmonė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">ES kopuzņēmums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Impriża konġunta tal-UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Gemeenschappelijke onderneming van de EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wspólne przedsięwzięcie UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Empresa comum da UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Întreprinderea comună a UE</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Spoločný podnik EÚ</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Skupno podjetje EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Gemensamt företag under EU</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_CT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_CT</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b4"/>
+    <at:start.use>1958-03-19</at:start.use>
+    <atold:op-code>EP_CT</atold:op-code>
+    <dc:identifier>EP_CT</dc:identifier>
+    <skos:altLabel xml:lang="en">EP special committees</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">EP special committee</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_DEL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_DEL</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b12"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_DEL</atold:op-code>
+    <dc:identifier>EP_DEL</dc:identifier>
+    <skos:altLabel xml:lang="en">EP delegations</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM"/>
+    <skos:prefLabel xml:lang="en">EP delegation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_OTHER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CB_OTHER</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CB_OTHER</at:op-code>
+    <at:start.use>2012-08-30</at:start.use>
+    <atold:op-code>CB_OTHER</atold:op-code>
+    <dc:identifier>CB_OTHER</dc:identifier>
+    <skos:altLabel xml:lang="en">Other organisations</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Друга организация</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Jiná organizace</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Anden organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Andere Organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Άλλος οργανισμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Other organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Otra organización</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Muu organisatsioon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Muu järjestö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Autre organisation</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Eagraíocht eile</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Druga organizacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Egyéb szervezet</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Altra organizzazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Kita organizacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Cita organizācija</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Organizzazzjoni oħra</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Andere organisatie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Inna organizacja</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Outra organização</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Altă organizație</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Iná organizácia</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Druga organizacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Annan organisation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COR_COM</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COR_COM</at:op-code>
+    <at:start.use>1994-03-09</at:start.use>
+    <atold:op-code>COR_COM</atold:op-code>
+    <dc:identifier>COR_COM</dc:identifier>
+    <skos:altLabel xml:lang="en">COR commissions</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Комисия на КР</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Komise VR</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Underudvalg i Regionsudvalget</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">AdR-Kommission</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Επιτροπή της ΕτΠ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">COR commission</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Comisión del CDR</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Regioonide Komitee komisjon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alueiden komitean valiokunta</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Commission du CdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Coimisiún CnR</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Komisija OR-a</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">A Régiók Bizottságának szakbizottsága</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Commissione CdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">RK komisija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Reģionu komitejas komisija</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kummissjoni tal-KtR</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Commissie CvdR</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Komisja KR</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Comissão do CR</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Comisie (CoR)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Komisia VR</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Komisija Odbora regij</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Utskott i Regionkommittén</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CB_EU</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CB_EU</at:op-code>
+    <at:start.use>1951-01-01</at:start.use>
+    <atold:op-code>CB_EU</atold:op-code>
+    <dc:identifier>CB_EU</dc:identifier>
+    <skos:altLabel xml:lang="en">European Union corporate bodies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CMT_MIX"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/COR_COM"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/COR_DIR"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/COR_GROUP"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_ASS"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_COOP"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/COUN_STAB_ASS"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/DEL"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/DIR"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/DIR_GEN"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DIR_GEN"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_GROUP"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_IG"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_BODY"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INST"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_INTERINSTSERV"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_JU"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/INF_OFF"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/LIA_OFF"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/SERV_DEP"/>
+    <skos:prefLabel xml:lang="bg">Корпоративен орган на Европейския съюз</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Právnická osoba Evropské unie</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Juridisk person under EU</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Körperschaft der Europäischen Union</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Νομικό πρόσωπο της Ευρωπαϊκής Ένωσης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">European Union corporate body</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Persona jurídica de la Unión Europea</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Euroopa Liidu juriidiline isik</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Euroopan unionin oikeushenkilö</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Entité légale de l’Union européenne</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhlacht corparáideach de chuid an Aontais Eorpaigh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Pravna osoba Europske unije</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Európai uniós jogi személy</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Persona giuridica dell’Unione europea</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Europos Sąjungos juridinis asmuo</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Eiropas Savienības juridiska persona</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Korp korporattiv tal-Unjoni Ewropea</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Rechtspersoon van de Europese Unie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Osoba prawna należąca do Unii Europejskiej</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Organismo da União Europeia</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Persoană juridică (Uniunea Europeană)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Právnická osoba Európskej únie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Pravna oseba Evropske unije</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Juridisk person inom Europeiska unionen</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/REPRES">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>REPRES</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>REPRES</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>REPRES</atold:op-code>
+    <dc:identifier>REPRES</dc:identifier>
+    <skos:altLabel xml:lang="en">Representations</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Представителство</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Zastoupení</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Repræsentationen</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vertretung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αντιπροσωπεία</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Representation</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Representación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esindus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Edustusto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Représentation</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">An ionadaíocht</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Predstavništvo</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Képviselet</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Rappresentanza</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Atstovybė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Pārstāvniecība</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Ir-rappreżentazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vertegenwoordiging</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Przedstawicielstwo</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Representação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Reprezentanță</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Zastúpenie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Predstavništvo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Representation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/DIR">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DIR</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DIR</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>DIR</atold:op-code>
+    <dc:identifier>DIR</dc:identifier>
+    <skos:altLabel xml:lang="en">Directorates</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Дирекция</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Ředitelství</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Direktorat</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Direktion</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Διεύθυνση</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Directorate</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Dirección</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Direktoraat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Osasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Direction</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Stiúrthóireacht</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Uprava</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Igazgatóság</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Direzione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Direktoratas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Direktorāts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Direttorat</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Directoraat</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dyrekcja</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Direção</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Direcție</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Riaditeľstvo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Direktorat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Direktorat</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_EURATOM">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AGENCY_EURATOM</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AGENCY_EURATOM</at:op-code>
+    <at:start.use>1958-12-06</at:start.use>
+    <atold:op-code>AGENCY_EURATOM</atold:op-code>
+    <dc:identifier>AGENCY_EURATOM</dc:identifier>
+    <skos:altLabel xml:lang="en">Euratom agencies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Агенция към Евратом</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Agentura Euratomu</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Euratoms agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Euratom-Agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Οργανισμός της Ευρατόμ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Euratom agency</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Agencia de Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Euratomi agentuur</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Euratomin virasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Agence d’Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Gníomhaireacht Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Agencija Euratoma</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Euratom-ügynökség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Agenzia dell’Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Euratomo agentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Euratom aģentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Aġenzija Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Euratom-agentschap</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Agencja Euratomu</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Agência da Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Agenția Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Agentúra Euratomu</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Agencija Euratom</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Euratoms byrå</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_AP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_AP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_AP</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b1"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_AP</atold:op-code>
+    <dc:identifier>EP_AP</dc:identifier>
+    <skos:altLabel xml:lang="en">Delegations to parliamentary assemblies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">Delegation to a parliamentary assembly</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b10">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>SC</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_POLBODY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_POLBODY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_POLBODY</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b9"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_POLBODY</atold:op-code>
+    <dc:identifier>EP_POLBODY</dc:identifier>
+    <skos:altLabel xml:lang="en">EP political bodies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">EP political body</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>CE</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_DE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_DE</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b5"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_DE</atold:op-code>
+    <dc:identifier>EP_DE</dc:identifier>
+    <skos:altLabel xml:lang="en">Interparliamentary delegations</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">Interparliamentary delegation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_CE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_CE</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b2"/>
+    <at:start.use>1958-03-19</at:start.use>
+    <atold:op-code>EP_CE</atold:op-code>
+    <dc:identifier>EP_CE</dc:identifier>
+    <skos:altLabel xml:lang="en">EP committees of inquiry</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_CMT"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">EP committee of inquiry</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_DEC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AGENCY_DEC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AGENCY_DEC</at:op-code>
+    <at:start.use>1994-09-01</at:start.use>
+    <atold:op-code>AGENCY_DEC</atold:op-code>
+    <dc:identifier>AGENCY_DEC</dc:identifier>
+    <skos:altLabel xml:lang="en">Decentralised agencies</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EU_AGENCY"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:narrower rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/AGENCY_CFSP"/>
+    <skos:prefLabel xml:lang="bg">Децентрализирана агенция</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Decentralizovaná agentura</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Decentralt agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Dezentrale Agentur</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αποκεντρωμένος οργανισμός</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Decentralised agency</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Agencia descentralizada</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Detsentraliseeritud asutus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Hajautettu virasto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Agence décentralisée</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Gníomhaireacht dhíláraithe</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Decentralizirana agencija</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Decentralizált ügynökség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Agenzia decentrata</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Decentralizuota agentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Decentralizēta aģentūra</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Aġenzija deċentralizzata</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Gedecentraliseerd agentschap</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Agencja zdecentralizowana</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Agência descentralizada</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Agenție descentralizată</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Decentralizovaná agentúra</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Decentralizirana agencija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Decentraliserad byrå</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>AP</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b4">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>CT</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b9">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>POLBODY</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b11">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>PN</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/DEL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DEL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DEL</at:op-code>
+    <at:start.use>1960-01-01</at:start.use>
+    <atold:op-code>DEL</atold:op-code>
+    <dc:identifier>DEL</dc:identifier>
+    <skos:altLabel xml:lang="en">Delegations</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB_EU"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="bg">Делегация</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Delegace</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Delegationen</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Delegation</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αντιπροσωπεία</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Delegation</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Delegación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Delegatsioon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Edustusto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Délégation</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">An toscaireacht</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Izaslanstvo</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Küldöttség</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Delegazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Delegacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Delegācija</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Id-delegazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Delegatie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Delegacja</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Delegação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Delegație</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Delegácia</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Delegacija</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Delegation</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b12">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>DEL</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b7">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>GP</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/NP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>NP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>NP</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b11"/>
+    <at:start.use>1900-01-01</at:start.use>
+    <atold:op-code>NP</atold:op-code>
+    <dc:identifier>NP</dc:identifier>
+    <skos:altLabel xml:lang="en">National parties</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/CB"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">National party</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DM">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EP_DM</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EP_DM</at:op-code>
+    <at:op-mapped-code rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b6"/>
+    <at:start.use>1952-07-23</at:start.use>
+    <atold:op-code>EP_DM</atold:op-code>
+    <dc:identifier>EP_DM</dc:identifier>
+    <skos:altLabel xml:lang="en">Delegations to joint committees</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification/EP_DEL"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/corporate-body-classification"/>
+    <skos:prefLabel xml:lang="en">Delegation to a joint committee</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b5">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>DE</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b8">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>IG</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="nb3551d788c0f4a17a9e2ece3cba5cbd2b13">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>CMT</at:legacy-code>
+    <dc:source>EP</dc:source>
+  </rdf:Description>
+</rdf:RDF>

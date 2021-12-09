@@ -1,0 +1,55 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/requirement-stage/OP_DATPRO
+- country_code: not-requ
+  deprecated: 'false'
+  key: not-requ
+  label_en: Not required
+  label_it: Indicazione non necessaria
+  url: http://publications.europa.eu/resource/authority/requirement-stage/not-requ
+  valid_from: '2020-06-24'
+- country_code: nyk
+  deprecated: 'false'
+  key: nyk
+  label_en: Not yet known
+  label_it: Dato non ancora noto
+  url: http://publications.europa.eu/resource/authority/requirement-stage/nyk
+  valid_from: '2020-06-24'
+- country_code: par-requ
+  deprecated: 'false'
+  key: par-requ
+  label_en: Request to participate requirement
+  label_it: Indicazione obbligatoria nella domanda di partecipazione
+  url: http://publications.europa.eu/resource/authority/requirement-stage/par-requ
+  valid_from: '2020-06-24'
+- country_code: t-requ
+  deprecated: 'false'
+  key: t-requ
+  label_en: Tender requirement
+  label_it: Indicazione obbligatoria nell'offerta
+  url: http://publications.europa.eu/resource/authority/requirement-stage/t-requ
+  valid_from: '2020-06-24'

@@ -1,0 +1,99 @@
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continuaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03C5\u03BD\u03AD\u03C7\u03B5\u03B9\u03B1"@el .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://www.w3.org/2000/01/rdf-schema#label> "EU budget status"@en .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAj"@hu .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jauns"@lv .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uusi"@fi .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuw"@nl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forts\u00E4ttning"@sv .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novi"@hr .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novo"@sl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/eu-budget-status> .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pokra\u010Dov\u00E1n\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nouveau"@fr .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nov\u00FD"@cs .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poursuite"@fr .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://publications.europa.eu/ontology/authority/op-code> "CONT" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuevo"@es .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uus"@et .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jatkoa"@fi .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pokra\u010Dovanie"@sk .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://www.w3.org/2002/07/owl#versionInfo> "20161214-0" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u043E\u0432"@bg .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://publications.europa.eu/ontology/authority/op-code> "NEW" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fortsetzung"@de .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naujas"@lt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Videref\u00F8relse"@da .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u0119siama"@lt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://publications.europa.eu/ontology/authority/authority-code> "NEW" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nov\u00FD"@sk .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039D\u03AD\u03BF\u03C2"@el .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "J\u00E4tk"@et .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://purl.org/dc/elements/1.1/identifier> "CONT" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ny"@sv .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuovo"@it .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/eu-budget-status> .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prosecuzione"@it .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nadaljevanje"@sl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://purl.org/dc/elements/1.1/identifier> "NEW" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://publications.europa.eu/resource/authority/op-code> "CONT" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neu"@de .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continua\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Folytat\u00E1s"@hu .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontinwazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0120did"@mt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://publications.europa.eu/ontology/authority/table.version.number> "20161214-0" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nou"@ro .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0440\u043E\u0434\u044A\u043B\u0436\u0435\u043D\u0438\u0435"@bg .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continuare"@ro .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nastavak"@hr .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://publications.europa.eu/ontology/authority/table.id> "eu-budget-status" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nowy"@pl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontynuacja"@pl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "New"@en .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://publications.europa.eu/resource/authority/op-code> "NEW" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://publications.europa.eu/ontology/authority/authority-code> "CONT" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU budget status"@en .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turpin\u0101jums"@lv .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/eu-budget-status> <http://publications.europa.eu/ontology/authority/prefLabel> "EU budget status"@en .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novo"@pt .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continuation"@en .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/eu-budget-status/NEW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ny"@da .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vervolg"@nl .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/eu-budget-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/eu-budget-status/CONT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/eu-budget-status> .
+

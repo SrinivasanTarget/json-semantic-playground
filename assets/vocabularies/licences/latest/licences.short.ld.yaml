@@ -1,0 +1,1055 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: 0BSD
+  deprecated: 'false'
+  key: 0BSD
+  label_en: Zero-Clause BSD / Free Public License 1.0.0 (0BSD)
+  url: http://publications.europa.eu/resource/authority/licence/0BSD
+  valid_from: '2006-07-01'
+- country_code: AGPL_3_0
+  deprecated: 'false'
+  key: AGPL_3_0
+  label_en: GNU Affero General Public License version 3
+  url: http://publications.europa.eu/resource/authority/licence/AGPL_3_0
+  valid_from: '2007-11-19'
+- country_code: APACHE_1_1
+  deprecated: 'true'
+  key: APACHE_1_1
+  label_en: Apache Software License, version 1.1 (Apache-1.1)
+  url: http://publications.europa.eu/resource/authority/licence/APACHE_1_1
+  valid_from: '2000-01-01'
+  valid_until: '2004-01-01'
+- country_code: APACHE_2_0
+  deprecated: 'false'
+  key: APACHE_2_0
+  label_en: Apache License, Version 2.0
+  url: http://publications.europa.eu/resource/authority/licence/APACHE_2_0
+  valid_from: '2004-01-02'
+- country_code: APL_1_0
+  deprecated: 'false'
+  key: APL_1_0
+  label_en: Adaptive Public License 1.0
+  url: http://publications.europa.eu/resource/authority/licence/APL_1_0
+  valid_from: '2003-07-01'
+- country_code: APSL_2_0
+  deprecated: 'false'
+  key: APSL_2_0
+  label_en: Apple Public Source License 2.0
+  url: http://publications.europa.eu/resource/authority/licence/APSL_2_0
+  valid_from: '2003-08-06'
+- country_code: ARTISTIC_1_0
+  deprecated: 'true'
+  key: ARTISTIC_1_0
+  label_en: Artistic License 1.0 (Artistic-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/ARTISTIC_1_0
+  valid_from: '1997-08-15'
+  valid_until: '2000-06-30'
+- country_code: ARTISTIC_2_0
+  deprecated: 'false'
+  key: ARTISTIC_2_0
+  label_en: Artistic License 2.0
+  url: http://publications.europa.eu/resource/authority/licence/ARTISTIC_2_0
+  valid_from: '2000-07-01'
+- country_code: BSD_2_CLAUSE
+  deprecated: 'false'
+  key: BSD_2_CLAUSE
+  label_en: 2-Clause BSD License
+  url: http://publications.europa.eu/resource/authority/licence/BSD_2_CLAUSE
+  valid_from: '1999-04-01'
+- country_code: BSD_3_CLAUSE
+  deprecated: 'false'
+  key: BSD_3_CLAUSE
+  label_en: 3-Clause BSD License
+  url: http://publications.europa.eu/resource/authority/licence/BSD_3_CLAUSE
+  valid_from: '1999-07-22'
+- country_code: BSD_3_CLAUSE_LBNL
+  deprecated: 'false'
+  key: BSD_3_CLAUSE_LBNL
+  label_en: Lawrence Berkeley National Labs BSD Variant License (BSD-3-Clause-LBNL)
+  url: http://publications.europa.eu/resource/authority/licence/BSD_3_CLAUSE_LBNL
+  valid_from: '2002-07-01'
+- country_code: BSD_PLUS_PATENT
+  deprecated: 'false'
+  key: BSD_PLUS_PATENT
+  label_en: BSD+Patent
+  url: http://publications.europa.eu/resource/authority/licence/BSD_PLUS_PATENT
+  valid_from: '2017-07-01'
+- country_code: BSL_1_0
+  deprecated: 'false'
+  key: BSL_1_0
+  label_en: Boost Software License 1.0
+  url: http://publications.europa.eu/resource/authority/licence/BSL_1_0
+  valid_from: '2003-08-17'
+- country_code: CATOSL_1_1
+  deprecated: 'false'
+  key: CATOSL_1_1
+  label_en: Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1)
+  url: http://publications.europa.eu/resource/authority/licence/CATOSL_1_1
+  valid_from: '2004-07-31'
+- country_code: CC0
+  deprecated: 'false'
+  key: CC0
+  label_en: Creative Commons CC0 1.0 Universal
+  label_it: Creative Commons CC0 1.0 Universal
+  url: http://publications.europa.eu/resource/authority/licence/CC0
+  valid_from: '2009-03-11'
+- country_code: CC_BY
+  deprecated: 'true'
+  key: CC_BY
+  label_en: Creative Commons Attribution 4.0 International
+  label_it: Creative Commons Attribuzione 4.0 Internazionale
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY
+  valid_from: '2013-11-25'
+  valid_until: '2013-11-26'
+- country_code: CC_BYNC
+  deprecated: 'true'
+  key: CC_BYNC
+  label_en: "Creative Commons Attribution\u2013NonCommercial 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNC
+  valid_from: '2013-11-25'
+  valid_until: '2013-11-26'
+- country_code: CC_BYNCND
+  deprecated: 'true'
+  key: CC_BYNCND
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013NoDerivatives 4.0\
+    \ International"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Non opere\
+    \ derivate 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCND
+  valid_from: '2013-11-25'
+  valid_until: '2013-11-26'
+- country_code: CC_BYNCND_1_0
+  deprecated: 'true'
+  key: CC_BYNCND_1_0
+  label_en: "Creative Commons Attribution\u2013NoDerivs\u2013NonCommercial 1.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate \u2013 Non commerciale\
+    \ 1.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCND_1_0
+  valid_from: '2002-12-15'
+  valid_until: '2004-05-24'
+- country_code: CC_BYNCND_2_0
+  deprecated: 'false'
+  key: CC_BYNCND_2_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013NoDerivs 2.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Non opere\
+    \ derivate 2.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCND_2_0
+  valid_from: '2004-05-25'
+- country_code: CC_BYNCND_2_5
+  deprecated: 'false'
+  key: CC_BYNCND_2_5
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013NoDerivs 2.5 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Non opere\
+    \ derivate 2.5 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCND_2_5
+  valid_from: '2005-06-01'
+- country_code: CC_BYNCND_3_0
+  deprecated: 'false'
+  key: CC_BYNCND_3_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013NoDerivs 3.0 Unported"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Non opere\
+    \ derivate 3.0 Unported"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCND_3_0
+  valid_from: '2007-02-23'
+- country_code: CC_BYNCND_4_0
+  deprecated: 'false'
+  key: CC_BYNCND_4_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013NoDerivatives 4.0\
+    \ International"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Non opere\
+    \ derivate 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCND_4_0
+  valid_from: '2013-11-26'
+- country_code: CC_BYNCSA
+  deprecated: 'true'
+  key: CC_BYNCSA
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013ShareAlike 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Condividi\
+    \ allo stesso modo 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCSA
+  valid_from: '2013-11-25'
+  valid_until: '2013-11-26'
+- country_code: CC_BYNCSA_1_0
+  deprecated: 'true'
+  key: CC_BYNCSA_1_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013ShareAlike 1.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Condividi\
+    \ allo stesso modo 1.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCSA_1_0
+  valid_from: '2002-12-15'
+  valid_until: '2004-05-24'
+- country_code: CC_BYNCSA_2_0
+  deprecated: 'false'
+  key: CC_BYNCSA_2_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013ShareAlike 2.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Condividi\
+    \ allo stesso modo 2.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCSA_2_0
+  valid_from: '2004-05-25'
+- country_code: CC_BYNCSA_2_5
+  deprecated: 'false'
+  key: CC_BYNCSA_2_5
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013ShareAlike 2.5 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Condividi\
+    \ allo stesso modo 2.5 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCSA_2_5
+  valid_from: '2005-06-01'
+- country_code: CC_BYNCSA_3_0
+  deprecated: 'false'
+  key: CC_BYNCSA_3_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013ShareAlike 3.0 Unported"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Condividi\
+    \ allo stesso modo 3.0 Unported"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCSA_3_0
+  valid_from: '2007-02-23'
+- country_code: CC_BYNCSA_4_0
+  deprecated: 'false'
+  key: CC_BYNCSA_4_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial\u2013ShareAlike 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale \u2013 Condividi\
+    \ allo stesso modo 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNCSA_4_0
+  valid_from: '2013-11-26'
+- country_code: CC_BYNC_1_0
+  deprecated: 'true'
+  key: CC_BYNC_1_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial 1.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale 1.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNC_1_0
+  valid_from: '2002-12-15'
+  valid_until: '2004-05-24'
+- country_code: CC_BYNC_2_0
+  deprecated: 'false'
+  key: CC_BYNC_2_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial 2.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale 2.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNC_2_0
+  valid_from: '2004-05-25'
+- country_code: CC_BYNC_2_5
+  deprecated: 'false'
+  key: CC_BYNC_2_5
+  label_en: "Creative Commons Attribution\u2013NonCommercial 2.5 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale 2.5 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNC_2_5
+  valid_from: '2005-06-01'
+- country_code: CC_BYNC_3_0
+  deprecated: 'false'
+  key: CC_BYNC_3_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial 3.0 Unported"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale 3.0 Unported"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNC_3_0
+  valid_from: '2007-02-23'
+- country_code: CC_BYNC_4_0
+  deprecated: 'false'
+  key: CC_BYNC_4_0
+  label_en: "Creative Commons Attribution\u2013NonCommercial 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Non commerciale 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYNC_4_0
+  valid_from: '2013-11-26'
+- country_code: CC_BYND
+  deprecated: 'true'
+  key: CC_BYND
+  label_en: "Creative Commons Attribution\u2013NoDerivatives 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYND
+  valid_from: '2013-11-25'
+  valid_until: '2013-11-26'
+- country_code: CC_BYND_1_0
+  deprecated: 'true'
+  key: CC_BYND_1_0
+  label_en: "Creative Commons Attribution\u2013NoDerivs 1.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate 1.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYND_1_0
+  valid_from: '2002-12-15'
+  valid_until: '2004-05-24'
+- country_code: CC_BYND_2_0
+  deprecated: 'false'
+  key: CC_BYND_2_0
+  label_en: "Creative Commons Attribution\u2013NoDerivs 2.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate 2.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYND_2_0
+  valid_from: '2004-05-25'
+- country_code: CC_BYND_2_5
+  deprecated: 'false'
+  key: CC_BYND_2_5
+  label_en: "Creative Commons Attribution\u2013NoDerivs 2.5 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate 2.5 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYND_2_5
+  valid_from: '2005-06-01'
+- country_code: CC_BYND_3_0
+  deprecated: 'false'
+  key: CC_BYND_3_0
+  label_en: "Creative Commons Attribution\u2013NoDerivs 3.0 Unported"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate 3.0 Unported"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYND_3_0
+  valid_from: '2007-02-23'
+- country_code: CC_BYND_4_0
+  deprecated: 'false'
+  key: CC_BYND_4_0
+  label_en: "Creative Commons Attribution\u2013NoDerivatives 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Non opere derivate 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYND_4_0
+  valid_from: '2013-11-26'
+- country_code: CC_BYSA
+  deprecated: 'true'
+  key: CC_BYSA
+  label_en: "Creative Commons Attribution\u2013ShareAlike 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Condividi allo stesso modo 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA
+  valid_from: '2013-11-25'
+  valid_until: '2013-11-26'
+- country_code: CC_BYSA_1_0
+  deprecated: 'true'
+  key: CC_BYSA_1_0
+  label_en: "Creative Commons Attribution\u2013ShareAlike 1.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Condividi allo stesso modo 1.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA_1_0
+  valid_from: '2002-12-15'
+  valid_until: '2004-05-24'
+- country_code: CC_BYSA_2_0
+  deprecated: 'false'
+  key: CC_BYSA_2_0
+  label_en: "Creative Commons Attribution\u2013ShareAlike 2.0 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Condividi allo stesso modo 2.0 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA_2_0
+  valid_from: '2004-05-25'
+- country_code: CC_BYSA_2_5
+  deprecated: 'false'
+  key: CC_BYSA_2_5
+  label_en: "Creative Commons Attribution\u2013ShareAlike 2.5 Generic"
+  label_it: "Creative Commons Attribuzione \u2013 Condividi allo stesso modo 2.5 Generico"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA_2_5
+  valid_from: '2005-06-01'
+- country_code: CC_BYSA_3_0
+  deprecated: 'false'
+  key: CC_BYSA_3_0
+  label_en: "Creative Commons Attribution\u2013ShareAlike 3.0 Unported"
+  label_it: "Creative Commons Attribuzione \u2013 Condividi allo stesso modo 3.0 Unported"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA_3_0
+  valid_from: '2007-02-23'
+- country_code: CC_BYSA_3_0_NL
+  deprecated: 'false'
+  key: CC_BYSA_3_0_NL
+  label_en: "Naamsvermelding\u2013GelijkDelen 3.0 Nederland"
+  label_it: "Attribuzione \u2013 Condividi allo stesso modo 3.0 Olanda"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA_3_0_NL
+  valid_from: '2007-02-23'
+- country_code: CC_BYSA_4_0
+  deprecated: 'false'
+  key: CC_BYSA_4_0
+  label_en: "Creative Commons Attribution\u2013ShareAlike 4.0 International"
+  label_it: "Creative Commons Attribuzione \u2013 Condividi allo stesso modo 4.0 Internazionale"
+  url: http://publications.europa.eu/resource/authority/licence/CC_BYSA_4_0
+  valid_from: '2013-11-26'
+- country_code: CC_BY_1_0
+  deprecated: 'true'
+  key: CC_BY_1_0
+  label_en: Creative Commons Attribution 1.0 Generic
+  label_it: Creative Commons Attribuzione 1.0 Generico
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_1_0
+  valid_from: '2002-12-15'
+  valid_until: '2004-05-24'
+- country_code: CC_BY_2_0
+  deprecated: 'false'
+  key: CC_BY_2_0
+  label_en: Creative Commons Attribution 2.0 Generic
+  label_it: Creative Commons Attribuzione 2.0 Generico
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_2_0
+  valid_from: '2004-05-25'
+- country_code: CC_BY_2_5
+  deprecated: 'false'
+  key: CC_BY_2_5
+  label_en: Creative Commons Attribution 2.5 Generic
+  label_it: Creative Commons Attribuzione 2.5 Generico
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_2_5
+  valid_from: '2005-06-01'
+- country_code: CC_BY_3_0
+  deprecated: 'false'
+  key: CC_BY_3_0
+  label_en: Creative Commons Attribution 3.0 Unported
+  label_it: Creative Commons Attribuzione 3.0 Unported
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_3_0
+  valid_from: '2007-02-23'
+- country_code: CC_BY_3_0_AT
+  deprecated: 'false'
+  key: CC_BY_3_0_AT
+  label_en: Attribution 3.0 Austria
+  label_it: Attribuzione 3.0 Austria
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_3_0_AT
+  valid_from: '2007-02-23'
+- country_code: CC_BY_3_0_NL
+  deprecated: 'false'
+  key: CC_BY_3_0_NL
+  label_en: Attribution 3.0 Netherlands
+  label_it: Attribuzione 3.0 Olanda
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_3_0_NL
+  valid_from: '2007-02-23'
+- country_code: CC_BY_4_0
+  deprecated: 'false'
+  key: CC_BY_4_0
+  label_en: Creative Commons Attribution 4.0 International
+  label_it: Creative Commons Attribuzione 4.0 Internazionale
+  url: http://publications.europa.eu/resource/authority/licence/CC_BY_4_0
+  valid_from: '2013-11-26'
+- country_code: CC_PDM_1_0
+  deprecated: 'false'
+  key: CC_PDM_1_0
+  label_en: Public Domain Mark 1.0
+  label_it: Marchio di pubblico dominio 1.0
+  url: http://publications.europa.eu/resource/authority/licence/CC_PDM_1_0
+  valid_from: '2010-10-01'
+- country_code: CDDL_1_0
+  deprecated: 'false'
+  key: CDDL_1_0
+  label_en: Common Development and Distribution License 1.0
+  url: http://publications.europa.eu/resource/authority/licence/CDDL_1_0
+  valid_from: '2004-01-24'
+- country_code: CECILL_2_1
+  deprecated: 'false'
+  key: CECILL_2_1
+  label_en: CEA CNRS Inria Free Software License Agreement, v2.1 (CECILL-2.1)
+  url: http://publications.europa.eu/resource/authority/licence/CECILL_2_1
+  valid_from: '2013-06-21'
+- country_code: CLARIN_ACA_1_0
+  deprecated: 'false'
+  key: CLARIN_ACA_1_0
+  label_en: Clarin Academic End-User Licence (ACA) 1.0
+  url: http://publications.europa.eu/resource/authority/licence/CLARIN_ACA_1_0
+  valid_from: '2014-12-12'
+- country_code: CNRI_PYTHON
+  deprecated: 'false'
+  key: CNRI_PYTHON
+  label_en: The CNRI portion of the multi-part Python License (CNRI-Python)
+  url: http://publications.europa.eu/resource/authority/licence/CNRI_PYTHON
+  valid_from: '2001-03-06'
+- country_code: COM_REUSE
+  deprecated: 'false'
+  key: COM_REUSE
+  label_en: European Commission reuse notice
+  url: http://publications.europa.eu/resource/authority/licence/COM_REUSE
+  valid_from: '2011-12-14'
+- country_code: CPAL_1_0
+  deprecated: 'false'
+  key: CPAL_1_0
+  label_en: Common Public Attribution License Version 1.0 (CPAL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/CPAL_1_0
+  valid_from: '2007-07-26'
+- country_code: CPL_1_0
+  deprecated: 'true'
+  key: CPL_1_0
+  label_en: Common Public License, version 1.0 (CPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/CPL_1_0
+  valid_from: '2001-05-01'
+  valid_until: '2005-06-27'
+- country_code: DLDE_BYNC_1_0
+  deprecated: 'false'
+  key: DLDE_BYNC_1_0
+  label_en: "Data licence Germany \u2013 attribution \u2013 non-commercial \u2013\
+    \ Version 1.0"
+  url: http://publications.europa.eu/resource/authority/licence/DLDE_BYNC_1_0
+  valid_from: '2012-01-01'
+- country_code: DLDE_BY_1_0
+  deprecated: 'false'
+  key: DLDE_BY_1_0
+  label_en: "Data licence Germany \u2013 attribution \u2013 Version 1.0"
+  url: http://publications.europa.eu/resource/authority/licence/DLDE_BY_1_0
+  valid_from: '2013-01-31'
+- country_code: DLDE_BY_2_0
+  deprecated: 'false'
+  key: DLDE_BY_2_0
+  label_en: "Data licence Germany \u2013 attribution \u2013 Version 2.0"
+  url: http://publications.europa.eu/resource/authority/licence/DLDE_BY_2_0
+  valid_from: '2014-07-01'
+- country_code: DLDE_ZERO_2_0
+  deprecated: 'false'
+  key: DLDE_ZERO_2_0
+  label_en: "Data licence Germany \u2013 Zero \u2013 Version 2.0"
+  url: http://publications.europa.eu/resource/authority/licence/DLDE_ZERO_2_0
+  valid_from: '2014-07-01'
+- country_code: ECL_1_0
+  deprecated: 'true'
+  key: ECL_1_0
+  label_en: Educational Community License version 1.0 (ECL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/ECL_1_0
+  valid_from: '2005-03-15'
+  valid_until: '2007-04-14'
+- country_code: ECL_2_0
+  deprecated: 'false'
+  key: ECL_2_0
+  label_en: Educational Community License version 2.0 (ECL-2.0)
+  url: http://publications.europa.eu/resource/authority/licence/ECL_2_0
+  valid_from: '2007-04-15'
+- country_code: ECOS_2_0
+  deprecated: 'false'
+  key: ECOS_2_0
+  label_en: eCos License version 2.0
+  url: http://publications.europa.eu/resource/authority/licence/ECOS_2_0
+  valid_from: '2002-05-15'
+- country_code: EFL_1_0
+  deprecated: 'true'
+  key: EFL_1_0
+  label_en: The Eiffel Forum License, version 1 (EFL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/EFL_1_0
+  valid_from: '2002-07-01'
+  valid_until: '2008-01-01'
+- country_code: EFL_2
+  deprecated: 'false'
+  key: EFL_2
+  label_en: Eiffel Forum License, version 2
+  url: http://publications.europa.eu/resource/authority/licence/EFL_2
+  valid_from: '2008-01-02'
+- country_code: ENTESSA
+  deprecated: 'false'
+  key: ENTESSA
+  label_en: Entessa Public License Version 1.0 (Entessa)
+  url: http://publications.europa.eu/resource/authority/licence/ENTESSA
+  valid_from: '2003-07-01'
+- country_code: EPL_1_0
+  deprecated: 'true'
+  key: EPL_1_0
+  label_en: Eclipse Public License 1.0 (EPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/EPL_1_0
+  valid_from: '2005-06-28'
+  valid_until: '2017-08-23'
+- country_code: EPL_2_0
+  deprecated: 'false'
+  key: EPL_2_0
+  label_en: Eclipse Public License version 2.0
+  url: http://publications.europa.eu/resource/authority/licence/EPL_2_0
+  valid_from: '2017-08-24'
+- country_code: EUPL_1_0
+  deprecated: 'false'
+  key: EUPL_1_0
+  label_en: European Union Public Licence v.1.0
+  label_it: Licenza Pubblica dell'Unione europea v.1.0
+  url: http://publications.europa.eu/resource/authority/licence/EUPL_1_0
+  valid_from: '2007-01-09'
+- country_code: EUPL_1_1
+  deprecated: 'false'
+  key: EUPL_1_1
+  label_en: European Union Public Licence v. 1.1
+  label_it: Licenza Pubblica dell'Unione europea v. 1.1
+  url: http://publications.europa.eu/resource/authority/licence/EUPL_1_1
+  valid_from: '2009-01-09'
+- country_code: EUPL_1_2
+  deprecated: 'false'
+  key: EUPL_1_2
+  label_en: European Union Public Licence v. 1.2
+  label_it: Licenza Pubblica dell'Unione europea v 1.2
+  url: http://publications.europa.eu/resource/authority/licence/EUPL_1_2
+  valid_from: '2017-05-19'
+- country_code: EU_DATAGRID
+  deprecated: 'false'
+  key: EU_DATAGRID
+  label_en: EU DataGrid Software License (EUDatagrid)
+  url: http://publications.europa.eu/resource/authority/licence/EU_DATAGRID
+  valid_from: '2001-06-30'
+- country_code: FAIR
+  deprecated: 'false'
+  key: FAIR
+  label_en: Fair License (Fair)
+  url: http://publications.europa.eu/resource/authority/licence/FAIR
+  valid_from: '2004-01-31'
+- country_code: FRAMEWORX_1_0
+  deprecated: 'false'
+  key: FRAMEWORX_1_0
+  label_en: Frameworx License 1.0 (Frameworx-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/FRAMEWORX_1_0
+  valid_from: '2003-07-01'
+- country_code: GNU_FDL
+  deprecated: 'true'
+  key: GNU_FDL
+  label_en: GNU Free Documentation License
+  url: http://publications.europa.eu/resource/authority/licence/GNU_FDL
+  valid_from: '2008-11-03'
+  valid_until: '2008-11-04'
+- country_code: GNU_FDL_1_1
+  deprecated: 'true'
+  key: GNU_FDL_1_1
+  label_en: GNU Free Documentation License 1.1
+  url: http://publications.europa.eu/resource/authority/licence/GNU_FDL_1_1
+  valid_from: '2000-03-01'
+  valid_until: '2007-06-28'
+- country_code: GNU_FDL_1_2
+  deprecated: 'true'
+  key: GNU_FDL_1_2
+  label_en: GNU Free Documentation License 1.2
+  url: http://publications.europa.eu/resource/authority/licence/GNU_FDL_1_2
+  valid_from: '2002-11-01'
+  valid_until: '2007-06-28'
+- country_code: GNU_FDL_1_3
+  deprecated: 'false'
+  key: GNU_FDL_1_3
+  label_en: GNU Free Documentation License 1.3
+  url: http://publications.europa.eu/resource/authority/licence/GNU_FDL_1_3
+  valid_from: '2008-11-04'
+- country_code: GPL_2_0
+  deprecated: 'false'
+  key: GPL_2_0
+  label_en: GNU General Public License version 2
+  url: http://publications.europa.eu/resource/authority/licence/GPL_2_0
+  valid_from: '1991-06-02'
+- country_code: GPL_3_0
+  deprecated: 'false'
+  key: GPL_3_0
+  label_en: GNU General Public License version 3
+  url: http://publications.europa.eu/resource/authority/licence/GPL_3_0
+  valid_from: '2007-06-29'
+- country_code: HPND
+  deprecated: 'true'
+  key: HPND
+  label_en: Historical Permission Notice and Disclaimer (HPND)
+  url: http://publications.europa.eu/resource/authority/licence/HPND
+  valid_from: '2002-11-29'
+  valid_until: '2015-01-01'
+- country_code: HROD
+  deprecated: 'false'
+  key: HROD
+  label_en: "Open Licence \u2013 The Republic of Croatia"
+  url: http://publications.europa.eu/resource/authority/licence/HROD
+  valid_from: '2017-07-01'
+- country_code: IODL_1_0
+  deprecated: 'false'
+  key: IODL_1_0
+  label_en: Italian Open Data License v1.0
+  url: http://publications.europa.eu/resource/authority/licence/IODL_1_0
+  valid_from: '2010-10-01'
+- country_code: IODL_2_0
+  deprecated: 'false'
+  key: IODL_2_0
+  label_en: Italian Open Data License v2.0
+  url: http://publications.europa.eu/resource/authority/licence/IODL_2_0
+  valid_from: '2012-03-02'
+- country_code: IPA
+  deprecated: 'false'
+  key: IPA
+  label_en: IPA Font License (IPA)
+  url: http://publications.europa.eu/resource/authority/licence/IPA
+  valid_from: '2014-09-30'
+- country_code: IPL_1_0
+  deprecated: 'false'
+  key: IPL_1_0
+  label_en: IBM Public License Version 1.0 (IPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/IPL_1_0
+  valid_from: '1999-08-31'
+- country_code: ISA_OML
+  deprecated: 'false'
+  key: ISA_OML
+  label_en: ISA Open Metadata Licence 1.1
+  url: http://publications.europa.eu/resource/authority/licence/ISA_OML
+  valid_from: '2012-04-18'
+- country_code: ISC
+  deprecated: 'false'
+  key: ISC
+  label_en: ISC License (ISC)
+  url: http://publications.europa.eu/resource/authority/licence/ISC
+  valid_from: '1995-06-30'
+- country_code: LGPL_2_1
+  deprecated: 'false'
+  key: LGPL_2_1
+  label_en: GNU Lesser General Public License version 2.1
+  url: http://publications.europa.eu/resource/authority/licence/LGPL_2_1
+  valid_from: '1999-02-15'
+- country_code: LGPL_3_0
+  deprecated: 'false'
+  key: LGPL_3_0
+  label_en: GNU Lesser General Public License version 3
+  url: http://publications.europa.eu/resource/authority/licence/LGPL_3_0
+  valid_from: '2007-06-29'
+- country_code: LILIQ_P_1_1
+  deprecated: 'false'
+  key: LILIQ_P_1_1
+  label_en: "Qu\xE9bec Free and Open-Source Licence \u2013 Permissive (LiLiQ-P) version\
+    \ 1.1"
+  url: http://publications.europa.eu/resource/authority/licence/LILIQ_P_1_1
+  valid_from: '2016-01-31'
+- country_code: LILIQ_RPLUS_1_1
+  deprecated: 'false'
+  key: LILIQ_RPLUS_1_1
+  label_en: "Qu\xE9bec Free and Open-Source Licence \u2013 Strong Reciprocity (LiLiQ-R+)\
+    \ version 1.1"
+  url: http://publications.europa.eu/resource/authority/licence/LILIQ_RPLUS_1_1
+  valid_from: '2016-01-31'
+- country_code: LILIQ_R_1_1
+  deprecated: 'false'
+  key: LILIQ_R_1_1
+  label_en: "Qu\xE9bec Free and Open-Source Licence \u2013 Reciprocity (LiLiQ-R) version\
+    \ 1.1"
+  url: http://publications.europa.eu/resource/authority/licence/LILIQ_R_1_1
+  valid_from: '2016-01-31'
+- country_code: LPL_1_0
+  deprecated: 'true'
+  key: LPL_1_0
+  label_en: Lucent Public License, Plan 9, version 1.0 (LPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/LPL_1_0
+  valid_from: '2003-01-01'
+  valid_until: '2003-06-30'
+- country_code: LPL_1_02
+  deprecated: 'false'
+  key: LPL_1_02
+  label_en: Lucent Public License Version 1.02 (LPL-1.02)
+  url: http://publications.europa.eu/resource/authority/licence/LPL_1_02
+  valid_from: '2003-07-01'
+- country_code: LPPL_1_3C
+  deprecated: 'false'
+  key: LPPL_1_3C
+  label_en: LaTeX Project Public License v1.3c (LPPL-1.3c)
+  url: http://publications.europa.eu/resource/authority/licence/LPPL_1_3C
+  valid_from: '2008-05-04'
+- country_code: MIROS
+  deprecated: 'false'
+  key: MIROS
+  label_en: MirOS License (MirOS)
+  url: http://publications.europa.eu/resource/authority/licence/MIROS
+  valid_from: '2006-12-11'
+- country_code: MIT
+  deprecated: 'false'
+  key: MIT
+  label_en: The MIT License
+  url: http://publications.europa.eu/resource/authority/licence/MIT
+  valid_from: '1988-08-14'
+- country_code: MOTOSOTO
+  deprecated: 'false'
+  key: MOTOSOTO
+  label_en: "Motosoto Open Source License \u2013 Version 0.9.1 (Motosoto)"
+  url: http://publications.europa.eu/resource/authority/licence/MOTOSOTO
+  valid_from: '1995-01-01'
+- country_code: MPL_1_0
+  deprecated: 'true'
+  key: MPL_1_0
+  label_en: The Mozilla Public License (MPL), version 1.0 (MPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/MPL_1_0
+  valid_from: '1998-01-01'
+  valid_until: '2012-01-02'
+- country_code: MPL_1_1
+  deprecated: 'true'
+  key: MPL_1_1
+  label_en: Mozilla Public License (MPL), version 1.1 (MPL-1.1)
+  url: http://publications.europa.eu/resource/authority/licence/MPL_1_1
+  valid_from: '1999-01-01'
+  valid_until: '2012-01-02'
+- country_code: MPL_2_0
+  deprecated: 'false'
+  key: MPL_2_0
+  label_en: Mozilla Public License (MPL), version 2.0 (MPL-2.0)
+  url: http://publications.europa.eu/resource/authority/licence/MPL_2_0
+  valid_from: '2012-01-03'
+- country_code: MS_PL
+  deprecated: 'false'
+  key: MS_PL
+  label_en: Microsoft Public License (MS-PL)
+  url: http://publications.europa.eu/resource/authority/licence/MS_PL
+  valid_from: '2007-10-12'
+- country_code: MS_RL
+  deprecated: 'false'
+  key: MS_RL
+  label_en: Microsoft Reciprocal License (MS-RL)
+  url: http://publications.europa.eu/resource/authority/licence/MS_RL
+  valid_from: '2007-08-10'
+- country_code: MULTICS
+  deprecated: 'false'
+  key: MULTICS
+  label_en: Multics License (Multics)
+  url: http://publications.europa.eu/resource/authority/licence/MULTICS
+  valid_from: '2006-07-01'
+- country_code: NASA_1_3
+  deprecated: 'false'
+  key: NASA_1_3
+  label_en: NASA Open Source Agreement v1.3 (NASA-1.3)
+  url: http://publications.europa.eu/resource/authority/licence/NASA_1_3
+  valid_from: '2012-01-01'
+- country_code: NAUMEN
+  deprecated: 'false'
+  key: NAUMEN
+  label_en: NAUMEN Public License (Naumen)
+  url: http://publications.europa.eu/resource/authority/licence/NAUMEN
+  valid_from: '2001-12-01'
+- country_code: NCSA
+  deprecated: 'false'
+  key: NCSA
+  label_en: The University of Illinois/NCSA Open Source License (NCSA)
+  url: http://publications.europa.eu/resource/authority/licence/NCSA
+  valid_from: '2002-03-28'
+- country_code: NGPL
+  deprecated: 'false'
+  key: NGPL
+  label_en: The Nethack General Public License (NGPL)
+  url: http://publications.europa.eu/resource/authority/licence/NGPL
+  valid_from: '1989-07-31'
+- country_code: NLOD_1_0
+  deprecated: 'false'
+  key: NLOD_1_0
+  label_en: Norwegian Licence for Open Government Data 1.0
+  url: http://publications.europa.eu/resource/authority/licence/NLOD_1_0
+  valid_from: '2012-01-01'
+- country_code: NLOD_2_0
+  deprecated: 'false'
+  key: NLOD_2_0
+  label_en: Norwegian Licence for Open Government Data (NLOD) 2.0
+  url: http://publications.europa.eu/resource/authority/licence/NLOD_2_0
+  valid_from: '2016-09-01'
+- country_code: NOKIA
+  deprecated: 'false'
+  key: NOKIA
+  label_en: Nokia Open Source License Version 1.0a (NOKIA)
+  url: http://publications.europa.eu/resource/authority/licence/NOKIA
+  valid_from: '2006-01-01'
+- country_code: NPOSL_3_0
+  deprecated: 'false'
+  key: NPOSL_3_0
+  label_en: The Non-Profit Open Software License version 3.0 (NPOSL-3.0)
+  url: http://publications.europa.eu/resource/authority/licence/NPOSL_3_0
+  valid_from: '2007-09-20'
+- country_code: NTP
+  deprecated: 'false'
+  key: NTP
+  label_en: NTP License (NTP)
+  url: http://publications.europa.eu/resource/authority/licence/NTP
+  valid_from: '2008-08-01'
+- country_code: OCLC_2_0
+  deprecated: 'false'
+  key: OCLC_2_0
+  label_en: The OCLC Research Public License 2.0 License (OCLC-2.0)
+  url: http://publications.europa.eu/resource/authority/licence/OCLC_2_0
+  valid_from: '2002-05-31'
+- country_code: ODC_BL
+  deprecated: 'false'
+  key: ODC_BL
+  label_en: Open Data Commons Open Database License v1.0
+  url: http://publications.europa.eu/resource/authority/licence/ODC_BL
+  valid_from: '2009-01-01'
+- country_code: ODC_BY
+  deprecated: 'false'
+  key: ODC_BY
+  label_en: Open Data Commons Attribution License v1.0
+  url: http://publications.europa.eu/resource/authority/licence/ODC_BY
+  valid_from: '2010-10-24'
+- country_code: ODC_PDDL
+  deprecated: 'false'
+  key: ODC_PDDL
+  label_en: Open Data Commons Public Domain Dedication and License 1.0
+  url: http://publications.europa.eu/resource/authority/licence/ODC_PDDL
+  valid_from: '2008-03-01'
+- country_code: OFL_1_1
+  deprecated: 'false'
+  key: OFL_1_1
+  label_en: SIL Open Font License (OFL-1.1)
+  url: http://publications.europa.eu/resource/authority/licence/OFL_1_1
+  valid_from: '2007-02-26'
+- country_code: OGL_1_0
+  deprecated: 'false'
+  key: OGL_1_0
+  label_en: Open Government Licence 1.0
+  url: http://publications.europa.eu/resource/authority/licence/OGL_1_0
+  valid_from: '2010-09-01'
+- country_code: OGL_2_0
+  deprecated: 'false'
+  key: OGL_2_0
+  label_en: Open Government Licence 2.0
+  url: http://publications.europa.eu/resource/authority/licence/OGL_2_0
+  valid_from: '2013-06-28'
+- country_code: OGL_3_0
+  deprecated: 'false'
+  key: OGL_3_0
+  label_en: Open Government Licence 3.0
+  url: http://publications.europa.eu/resource/authority/licence/OGL_3_0
+  valid_from: '2014-10-31'
+- country_code: OGL_NC
+  deprecated: 'false'
+  key: OGL_NC
+  label_en: Non-Commercial Government Licence
+  url: http://publications.europa.eu/resource/authority/licence/OGL_NC
+  valid_from: '2013-06-28'
+- country_code: OGL_ROU_1_0
+  deprecated: 'false'
+  key: OGL_ROU_1_0
+  label_en: Non-Commercial Government Licence 1.0
+  url: http://publications.europa.eu/resource/authority/licence/OGL_ROU_1_0
+  valid_from: '2010-09-01'
+- country_code: OGTSL
+  deprecated: 'false'
+  key: OGTSL
+  label_en: The Open Group Test Suite License (OGTSL)
+  url: http://publications.europa.eu/resource/authority/licence/OGTSL
+  valid_from: '2007-04-01'
+- country_code: OPL_2_1
+  deprecated: 'false'
+  key: OPL_2_1
+  label_en: OSET Public License version 2.1
+  url: http://publications.europa.eu/resource/authority/licence/OPL_2_1
+  valid_from: '2015-08-31'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/licence/OP_DATPRO
+- country_code: OSL_1_0
+  deprecated: 'true'
+  key: OSL_1_0
+  label_en: Open Software License, version 1.0 (OSL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/OSL_1_0
+  valid_from: '2002-08-31'
+  valid_until: '2005-11-30'
+- country_code: OSL_2_1
+  deprecated: 'true'
+  key: OSL_2_1
+  label_en: The Open Software License, version 2.1 (OSL-2.1)
+  url: http://publications.europa.eu/resource/authority/licence/OSL_2_1
+  valid_from: '2003-10-31'
+  valid_until: '2005-11-30'
+- country_code: OSL_3_0
+  deprecated: 'false'
+  key: OSL_3_0
+  label_en: Open Software License, version 3.0 (OSL-3.0)
+  url: http://publications.europa.eu/resource/authority/licence/OSL_3_0
+  valid_from: '2005-12-01'
+- country_code: PHP_3_0
+  deprecated: 'false'
+  key: PHP_3_0
+  label_en: The PHP License 3.0 (PHP-3.0)
+  url: http://publications.europa.eu/resource/authority/licence/PHP_3_0
+  valid_from: '2002-07-21'
+- country_code: POSTGRE_SQL
+  deprecated: 'false'
+  key: POSTGRE_SQL
+  label_en: The PostgreSQL Licence (PostgreSQL)
+  url: http://publications.europa.eu/resource/authority/licence/POSTGRE_SQL
+  valid_from: '1996-07-08'
+- country_code: PSEUL
+  deprecated: 'false'
+  key: PSEUL
+  label_en: INSPIRE End User Licence
+  url: http://publications.europa.eu/resource/authority/licence/PSEUL
+  valid_from: '2013-08-01'
+- country_code: PYTHON_2_0
+  deprecated: 'false'
+  key: PYTHON_2_0
+  label_en: Python License (Python-2.0)
+  url: http://publications.europa.eu/resource/authority/licence/PYTHON_2_0
+  valid_from: '2000-09-01'
+- country_code: QPL_1_0
+  deprecated: 'false'
+  key: QPL_1_0
+  label_en: The Q Public License Version (QPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/QPL_1_0
+  valid_from: '1999-03-04'
+- country_code: RPL_1_1
+  deprecated: 'true'
+  key: RPL_1_1
+  label_en: Reciprocal Public License, version 1.1
+  url: http://publications.europa.eu/resource/authority/licence/RPL_1_1
+  valid_from: '2002-11-01'
+  valid_until: '2007-07-14'
+- country_code: RPL_1_5
+  deprecated: 'false'
+  key: RPL_1_5
+  label_en: Reciprocal Public License 1.5 (RPL-1.5)
+  url: http://publications.europa.eu/resource/authority/licence/RPL_1_5
+  valid_from: '2007-07-15'
+- country_code: RPSL_1_0
+  deprecated: 'false'
+  key: RPSL_1_0
+  label_en: RealNetworks Public Source License Version 1.0 (RPSL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/RPSL_1_0
+  valid_from: '2002-10-28'
+- country_code: RSCPL
+  deprecated: 'false'
+  key: RSCPL
+  label_en: The Ricoh Source Code Public License (RSCPL)
+  url: http://publications.europa.eu/resource/authority/licence/RSCPL
+  valid_from: '1995-12-01'
+- country_code: SIMPL_2_0
+  deprecated: 'false'
+  key: SIMPL_2_0
+  label_en: Simple Public License (SimPL-2.0)
+  url: http://publications.europa.eu/resource/authority/licence/SIMPL_2_0
+  valid_from: '2007-11-01'
+- country_code: SLEEPYCAT
+  deprecated: 'false'
+  key: SLEEPYCAT
+  label_en: The Sleepycat License (Sleepycat)
+  url: http://publications.europa.eu/resource/authority/licence/SLEEPYCAT
+  valid_from: '1990-01-01'
+- country_code: SPL_1_0
+  deprecated: 'false'
+  key: SPL_1_0
+  label_en: Sun Public License Version 1.0 (SPL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/SPL_1_0
+  valid_from: '1995-01-01'
+- country_code: UCL_1_0
+  deprecated: 'false'
+  key: UCL_1_0
+  label_en: Upstream Compatibility License v1.0
+  url: http://publications.europa.eu/resource/authority/licence/UCL_1_0
+  valid_from: '2017-02-01'
+- country_code: UPL_1_0
+  deprecated: 'false'
+  key: UPL_1_0
+  label_en: The Universal Permissive License (UPL), Version 1.0
+  url: http://publications.europa.eu/resource/authority/licence/UPL_1_0
+  valid_from: '2015-02-01'
+- country_code: VSL_1_0
+  deprecated: 'false'
+  key: VSL_1_0
+  label_en: The Vovida Software License v. 1.0 (VSL-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/VSL_1_0
+  valid_from: '2000-01-01'
+- country_code: W3C
+  deprecated: 'false'
+  key: W3C
+  label_en: The W3C Software Notice and License (W3C)
+  url: http://publications.europa.eu/resource/authority/licence/W3C
+  valid_from: '2002-12-31'
+- country_code: WATCOM_1_0
+  deprecated: 'false'
+  key: WATCOM_1_0
+  label_en: The Sybase Open Source Licence (Watcom-1.0)
+  url: http://publications.europa.eu/resource/authority/licence/WATCOM_1_0
+  valid_from: '2002-05-19'
+- country_code: WXWINDOWS
+  deprecated: 'true'
+  key: WXWINDOWS
+  label_en: The wxWindows Library Licence (wxWindows)
+  url: http://publications.europa.eu/resource/authority/licence/WXWINDOWS
+  valid_from: '1998-07-01'
+  valid_until: '2007-06-28'
+- country_code: XNET
+  deprecated: 'true'
+  key: XNET
+  label_en: The X.Net, Inc. License (Xnet)
+  url: http://publications.europa.eu/resource/authority/licence/XNET
+  valid_from: '2000-07-01'
+  valid_until: '2020-01-01'
+- country_code: ZLIB
+  deprecated: 'false'
+  key: ZLIB
+  label_en: The zlib/libpng License (Zlib)
+  url: http://publications.europa.eu/resource/authority/licence/ZLIB
+  valid_from: '1995-05-01'
+- country_code: ZPL_2_0
+  deprecated: 'false'
+  key: ZPL_2_0
+  label_en: The Zope Public License Version 2.0 (ZPL-2.0)
+  url: http://publications.europa.eu/resource/authority/licence/ZPL_2_0
+  valid_from: '2002-02-01'

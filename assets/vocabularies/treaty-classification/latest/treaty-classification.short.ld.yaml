@@ -1,0 +1,75 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ACCESS
+  deprecated: 'false'
+  key: ACCESS
+  label_en: Accession treaty
+  label_it: Trattato di adesione
+  url: http://publications.europa.eu/resource/authority/treaty-classification/ACCESS
+  valid_from: '1972-01-22'
+- country_code: AMEND
+  deprecated: 'false'
+  key: AMEND
+  label_en: Amending treaty
+  label_it: Trattato modificato
+  url: http://publications.europa.eu/resource/authority/treaty-classification/AMEND
+  valid_from: '1965-04-08'
+- country_code: CONS
+  deprecated: 'false'
+  key: CONS
+  label_en: Consolidated version
+  label_it: Versione consolidata
+  url: http://publications.europa.eu/resource/authority/treaty-classification/CONS
+  valid_from: '1992-02-07'
+- country_code: FOUND
+  deprecated: 'false'
+  key: FOUND
+  label_en: Founding treaty
+  label_it: Trattato costitutivo
+  url: http://publications.europa.eu/resource/authority/treaty-classification/FOUND
+  valid_from: '1951-04-18'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/treaty-classification/OP_DATPRO
+- country_code: OTHER
+  deprecated: 'false'
+  key: OTHER
+  label_en: Other
+  label_it: Altro
+  url: http://publications.europa.eu/resource/authority/treaty-classification/OTHER
+  valid_from: '1962-11-13'
+- country_code: SUBPART
+  deprecated: 'false'
+  key: SUBPART
+  label_en: Subpart
+  url: http://publications.europa.eu/resource/authority/treaty-classification/SUBPART
+  valid_from: '1951-04-18'
+- country_code: WITHDRAWAL
+  deprecated: 'false'
+  key: WITHDRAWAL
+  label_en: Withdrawal agreement
+  label_it: Accordo di recesso
+  url: http://publications.europa.eu/resource/authority/treaty-classification/WITHDRAWAL
+  valid_from: '2007-12-13'

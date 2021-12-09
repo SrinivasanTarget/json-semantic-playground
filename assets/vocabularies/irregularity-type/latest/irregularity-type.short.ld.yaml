@@ -1,0 +1,312 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/irregularity-type/OP_DATPRO
+- country_code: ab-low
+  deprecated: 'false'
+  key: ab-low
+  label_en: Unjustified rejection of abnormally low tenders
+  label_it: Rigetto ingiustificato di offerte anormalmente basse
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ab-low
+  valid_from: '2020-06-24'
+- country_code: ar-split
+  deprecated: 'false'
+  key: ar-split
+  label_en: Artificial splitting of contracts
+  label_it: Frazionamento artificioso degli appalti
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ar-split
+  valid_from: '2020-06-24'
+- country_code: bid-rigging
+  deprecated: 'false'
+  key: bid-rigging
+  label_en: Bid-rigging (established by a competition / anti-cartel office, a court
+    or other competent body)
+  label_it: "Turbativa d'asta (accertata da un'autorit\xE0 anticartello o garante\
+    \ della concorrenza, da un organo giurisdizionale o da un altro organismo competente)"
+  url: http://publications.europa.eu/resource/authority/irregularity-type/bid-rigging
+  valid_from: '2020-06-24'
+- country_code: change-eval
+  deprecated: 'false'
+  key: change-eval
+  label_en: Negotiation during the award procedure, including modification of the
+    winning tender during evaluation
+  label_it: Negoziazione nel corso della procedura di aggiudicazione, comprese modifiche
+    dell'offerta vincitrice durante la valutazione
+  url: http://publications.europa.eu/resource/authority/irregularity-type/change-eval
+  valid_from: '2020-06-24'
+- country_code: conf-int
+  deprecated: 'false'
+  key: conf-int
+  label_en: Conflict of interest with impact on the outcome of the procurement procedure
+  label_it: Conflitto di interessi con incidenza sul risultato della procedura di
+    appalto
+  url: http://publications.europa.eu/resource/authority/irregularity-type/conf-int
+  valid_from: '2020-06-24'
+- country_code: cp-mod-cond
+  deprecated: 'false'
+  key: cp-mod-cond
+  label_en: Competitive procedure with negotiation, with substantial modification
+    of the conditions set out in the contract notice or tender specifications
+  label_it: Procedura competitiva con negoziazione, con modifica sostanziale delle
+    condizioni fissate nel bando di gara o nel capitolato d'oneri
+  url: http://publications.europa.eu/resource/authority/irregularity-type/cp-mod-cond
+  valid_from: '2020-06-24'
+- country_code: elem-mod
+  deprecated: 'false'
+  key: elem-mod
+  label_en: Modifications of the contract elements set out in the contract notice
+    or tender specifications, not in compliance with the relevant rules
+  label_it: Modifica degli elementi dell'appalto stabiliti nel bando di gara o nel
+    capitolato d'oneri in maniera non conforme alle norme pertinenti
+  url: http://publications.europa.eu/resource/authority/irregularity-type/elem-mod
+  valid_from: '2020-06-24'
+- country_code: eva-add-crit
+  deprecated: 'false'
+  key: eva-add-crit
+  label_en: Evaluation using additional award criteria that were not published
+  label_it: Valutazione secondo ulteriori criteri di aggiudicazione che non sono stati
+    pubblicati
+  url: http://publications.europa.eu/resource/authority/irregularity-type/eva-add-crit
+  valid_from: '2020-06-24'
+- country_code: eva-diff-crit
+  deprecated: 'false'
+  key: eva-diff-crit
+  label_en: Evaluation of tenders using award criteria that are different from the
+    ones stated in the contract notice or tender specifications
+  label_it: Valutazione delle offerte in base a criteri di aggiudicazione differenti
+    da quelli pubblicati nel bando di gara o nel capitolato d'oneri
+  url: http://publications.europa.eu/resource/authority/irregularity-type/eva-diff-crit
+  valid_from: '2020-06-24'
+- country_code: formal
+  deprecated: 'false'
+  key: formal
+  label_en: Formal
+  label_it: Formale
+  url: http://publications.europa.eu/resource/authority/irregularity-type/formal
+  valid_from: '2020-06-24'
+- country_code: ins-audit
+  deprecated: 'false'
+  key: ins-audit
+  label_en: Insufficient audit trail for the award of the contract
+  label_it: Pista di controllo insufficiente in relazione all'aggiudicazione dell'appalto
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ins-audit
+  valid_from: '2020-06-24'
+- country_code: insuf-timl
+  deprecated: 'false'
+  key: insuf-timl
+  label_en: Insufficient time for potential tenderers/candidates to obtain the procurement
+    documents
+  label_it: "Tempo insufficiente affinch\xE9 i potenziali offerenti o candidati ottengano\
+    \ la documentazione di gara"
+  url: http://publications.europa.eu/resource/authority/irregularity-type/insuf-timl
+  valid_from: '2020-06-24'
+- country_code: irr-involv
+  deprecated: 'false'
+  key: irr-involv
+  label_en: Irregular prior involvement of candidates or tenderers with the buyer
+  label_it: Precedenti relazioni irregolari di candidati o offerenti con il committente
+  url: http://publications.europa.eu/resource/authority/irregularity-type/irr-involv
+  valid_from: '2020-06-24'
+- country_code: mod-inco
+  deprecated: 'false'
+  key: mod-inco
+  label_en: Selection criteria or technical specifications were modified after opening
+    of tenders or were incorrectly applied
+  label_it: Criteri di selezione o specifiche tecniche sottoposti a modifica dopo
+    l'apertura delle offerte oppure applicati in modo scorretto
+  url: http://publications.europa.eu/resource/authority/irregularity-type/mod-inco
+  valid_from: '2020-06-24'
+- country_code: nc-proc-eap
+  deprecated: 'false'
+  key: nc-proc-eap
+  label_en: Non-compliance with the procedure established in the Directive for electronic
+    and aggregated procurement
+  label_it: Inosservanza della procedura stabilita nella direttiva per gli appalti
+    elettronici e aggregati
+  url: http://publications.europa.eu/resource/authority/irregularity-type/nc-proc-eap
+  valid_from: '2020-06-24'
+- country_code: nc-timl
+  deprecated: 'false'
+  key: nc-timl
+  label_en: Non-compliance with time limits for receipt of tenders or time limits
+    for receipt of requests to participate
+  label_it: Inosservanza dei termini per la ricezione delle offerte o dei termini
+    per la ricezione delle domande di partecipazione
+  url: http://publications.europa.eu/resource/authority/irregularity-type/nc-timl
+  valid_from: '2020-06-24'
+- country_code: ncompl-awcrit
+  deprecated: 'false'
+  key: ncompl-awcrit
+  label_en: Failure to describe in sufficient detail the award criteria and their
+    weighting
+  label_it: Descrizione non sufficientemente dettagliata dei criteri di aggiudicazione
+    e della relativa ponderazione
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ncompl-awcrit
+  valid_from: '2020-06-24'
+- country_code: ncompl-cn
+  deprecated: 'false'
+  key: ncompl-cn
+  label_en: Failure to publish in the contract notice the technical specifications,
+    selection criteria, award criteria (and their weighing), or contract performance
+    conditions
+  label_it: Mancata pubblicazione nel bando di gara delle specifiche tecniche, dei
+    criteri di selezione, dei criteri di aggiudicazione (e della relativa ponderazione)
+    o delle condizioni di esecuzione dell'appalto
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ncompl-cn
+  valid_from: '2020-06-24'
+- country_code: ncompl-com
+  deprecated: 'false'
+  key: ncompl-com
+  label_en: Failure to communicate and/or publish clarifications and/or additional
+    information
+  label_it: Mancata comunicazione e/o pubblicazione di chiarimenti e/o informazioni
+    supplementari
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ncompl-com
+  valid_from: '2020-06-24'
+- country_code: ncompl-sub
+  deprecated: 'false'
+  key: ncompl-sub
+  label_en: Insufficient or imprecise definition of the subject matter of the contract
+  label_it: Definizione insufficiente o imprecisa dell'oggetto dell'appalto
+  url: http://publications.europa.eu/resource/authority/irregularity-type/ncompl-sub
+  valid_from: '2020-06-24'
+- country_code: no-notice
+  deprecated: 'false'
+  key: no-notice
+  label_en: Lack of publication of contract notice or unjustified direct award
+  label_it: Mancata pubblicazione del bando di gara o assegnazione diretta ingiustificata
+  url: http://publications.europa.eu/resource/authority/irregularity-type/no-notice
+  valid_from: '2020-06-24'
+- country_code: noex-addinfo
+  deprecated: 'false'
+  key: noex-addinfo
+  label_en: Failure to extend time limits for receipt of tenders or requests to participate
+    where additional information, although requested by the economic operator in good
+    time, is not supplied at the latest six days before the time limit
+  label_it: "Mancata proroga dei termini per la ricezione delle offerte o delle domande\
+    \ di partecipazione nel caso in cui le informazioni supplementari, seppur richieste\
+    \ in tempo utile dall'operatore economico, non sono fornite al pi\xF9 tardi sei\
+    \ giorni prima del termine stabilito"
+  url: http://publications.europa.eu/resource/authority/irregularity-type/noex-addinfo
+  valid_from: '2020-06-24'
+- country_code: noex-timl
+  deprecated: 'false'
+  key: noex-timl
+  label_en: Failure to extend time limits for receipt of tenders or requests to participate
+    where significant changes are made to the procurement documents
+  label_it: Mancata proroga dei termini per la ricezione delle offerte o delle domande
+    di partecipazione qualora siano state apportate modifiche significative alla documentazione
+    di gara
+  url: http://publications.europa.eu/resource/authority/irregularity-type/noex-timl
+  valid_from: '2020-06-24'
+- country_code: nojust-nolots
+  deprecated: 'false'
+  key: nojust-nolots
+  label_en: Lack of justification for not subdividing contract into lots
+  label_it: Mancanza di giustificazione dell'omessa suddivisione di un appalto in
+    lotti
+  url: http://publications.europa.eu/resource/authority/irregularity-type/nojust-nolots
+  valid_from: '2020-06-24'
+- country_code: npub-limit
+  deprecated: 'false'
+  key: npub-limit
+  label_en: Lack of publication of extended time limits for receipt of tenders or
+    requests to participate
+  label_it: Mancata pubblicazione della proroga dei termini per la ricezione delle
+    offerte o delle domande di partecipazione
+  url: http://publications.europa.eu/resource/authority/irregularity-type/npub-limit
+  valid_from: '2020-06-24'
+- country_code: other
+  deprecated: 'false'
+  key: other
+  label_en: Other
+  label_it: Altra
+  url: http://publications.europa.eu/resource/authority/irregularity-type/other
+  valid_from: '2020-06-24'
+- country_code: restr-not-tlim
+  deprecated: 'false'
+  key: restr-not-tlim
+  label_en: Restrictions to obtaining the procurement documents, other than insufficient
+    time
+  label_it: Restrizioni all'accesso alla documentazione di gara diverse dal tempo
+    insufficiente
+  url: http://publications.europa.eu/resource/authority/irregularity-type/restr-not-tlim
+  valid_from: '2020-06-24'
+- country_code: unj-comp-pro
+  deprecated: 'false'
+  key: unj-comp-pro
+  label_en: Unjustified use of competitive procedure with negotiation, competitive
+    dialogue or innovative partnership
+  label_it: Ricorso senza giustificazione a una procedura competitiva con negoziazione,
+    a un dialogo competitivo o a un partenariato per l'innovazione
+  url: http://publications.europa.eu/resource/authority/irregularity-type/unj-comp-pro
+  valid_from: '2020-06-24'
+- country_code: unj-excl
+  deprecated: 'false'
+  key: unj-excl
+  label_en: Unjustified exclusion of tenderers or candidates
+  label_it: Esclusione ingiustificata di offerenti o candidati
+  url: http://publications.europa.eu/resource/authority/irregularity-type/unj-excl
+  valid_from: '2020-06-24'
+- country_code: unj-lim-subc
+  deprecated: 'false'
+  key: unj-lim-subc
+  label_en: Unjustified limitation of subcontracting
+  label_it: Limitazione ingiustificata dei subappalti
+  url: http://publications.europa.eu/resource/authority/irregularity-type/unj-lim-subc
+  valid_from: '2020-06-24'
+- country_code: unj-na-ppr
+  deprecated: 'false'
+  key: unj-na-ppr
+  label_en: Unjustified non-application of public procurement rules
+  label_it: Mancato rispetto ingiustificato delle norme in materia di appalti pubblici
+  url: http://publications.europa.eu/resource/authority/irregularity-type/unj-na-ppr
+  valid_from: '2020-06-24'
+- country_code: unj-nrl
+  deprecated: 'false'
+  key: unj-nrl
+  label_en: Use of technical specification, selection criterion, award criterion,
+    exclusion criterion, or contract performance condition that are discriminatory
+    because of unjustified national, regional or local preferences
+  label_it: Applicazione di specifiche tecniche, criterio di selezione, criterio di
+    aggiudicazione, criterio di esclusione o condizione di esecuzione dell'appalto
+    che sono discriminatori in ragione di ingiustificate preferenze nazionali, regionali
+    o locali
+  url: http://publications.europa.eu/resource/authority/irregularity-type/unj-nrl
+  valid_from: '2020-06-24'
+- country_code: unj-nrl-other
+  deprecated: 'false'
+  key: unj-nrl-other
+  label_en: Use of technical specifications, selection criteria, award criteria, exclusion
+    criteria, or contract performance conditions that are discriminatory (i.e. restrict
+    access for economic operators) for other reasons than unjustified national, regional
+    or local preferences
+  label_it: Applicazione di specifiche tecniche, criteri di selezione, criteri di
+    aggiudicazione, criteri di esclusione o condizioni di esecuzione dell'appalto
+    che sono discriminatori (vale a dire limitano l'accesso di operatori economici)
+    per motivi diversi da ingiustificate preferenze nazionali, regionali o locali
+  url: http://publications.europa.eu/resource/authority/irregularity-type/unj-nrl-other
+  valid_from: '2020-06-24'

@@ -1,0 +1,95 @@
+# Serializing assets/vocabularies/numbers/latest/numbers.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/number
+# title: Number
+# version: 20160921-0
+# description: Number
+key,url,deprecated,valid_from,country_code,label_en,label_it
+CAR_00,http://publications.europa.eu/resource/authority/number/CAR_00,false,1952-07-25,CAR_00,zero,zero
+CAR_01,http://publications.europa.eu/resource/authority/number/CAR_01,false,1952-07-25,CAR_01,one,uno
+CAR_02,http://publications.europa.eu/resource/authority/number/CAR_02,false,1952-07-25,CAR_02,two,due
+CAR_03,http://publications.europa.eu/resource/authority/number/CAR_03,false,1952-07-25,CAR_03,three,tre
+CAR_04,http://publications.europa.eu/resource/authority/number/CAR_04,false,1952-07-25,CAR_04,four,quattro
+CAR_05,http://publications.europa.eu/resource/authority/number/CAR_05,false,1952-07-25,CAR_05,five,cinque
+CAR_06,http://publications.europa.eu/resource/authority/number/CAR_06,false,1952-07-25,CAR_06,six,sei
+CAR_07,http://publications.europa.eu/resource/authority/number/CAR_07,false,1952-07-25,CAR_07,seven,sette
+CAR_08,http://publications.europa.eu/resource/authority/number/CAR_08,false,1952-07-25,CAR_08,eight,otto
+CAR_09,http://publications.europa.eu/resource/authority/number/CAR_09,false,1952-07-25,CAR_09,nine,nove
+CAR_10,http://publications.europa.eu/resource/authority/number/CAR_10,false,1952-07-25,CAR_10,ten,dieci
+CAR_100,http://publications.europa.eu/resource/authority/number/CAR_100,false,1952-07-25,CAR_100,hundred,cento
+CAR_1000,http://publications.europa.eu/resource/authority/number/CAR_1000,false,1952-07-25,CAR_1000,thousand,mille
+CAR_10000,http://publications.europa.eu/resource/authority/number/CAR_10000,false,1952-07-25,CAR_10000,ten thousand,diecimila
+CAR_100000,http://publications.europa.eu/resource/authority/number/CAR_100000,false,1952-07-25,CAR_100000,hundred thousand,centomila
+CAR_11,http://publications.europa.eu/resource/authority/number/CAR_11,false,1952-07-25,CAR_11,eleven,undici
+CAR_12,http://publications.europa.eu/resource/authority/number/CAR_12,false,1952-07-25,CAR_12,twelve,dodici
+CAR_13,http://publications.europa.eu/resource/authority/number/CAR_13,false,1952-07-25,CAR_13,thirteen,tredici
+CAR_14,http://publications.europa.eu/resource/authority/number/CAR_14,false,1952-07-25,CAR_14,fourteen,quattordici
+CAR_15,http://publications.europa.eu/resource/authority/number/CAR_15,false,1952-07-25,CAR_15,fifteen,quindici
+CAR_16,http://publications.europa.eu/resource/authority/number/CAR_16,false,1952-07-25,CAR_16,sixteen,sedici
+CAR_17,http://publications.europa.eu/resource/authority/number/CAR_17,false,1952-07-25,CAR_17,seventeen,diciassette
+CAR_18,http://publications.europa.eu/resource/authority/number/CAR_18,false,1952-07-25,CAR_18,eighteen,diciotto
+CAR_19,http://publications.europa.eu/resource/authority/number/CAR_19,false,1952-07-25,CAR_19,nineteen,diciannove
+CAR_20,http://publications.europa.eu/resource/authority/number/CAR_20,false,1952-07-25,CAR_20,twenty,venti
+CAR_21,http://publications.europa.eu/resource/authority/number/CAR_21,false,1952-07-25,CAR_21,twenty-one,ventuno
+CAR_22,http://publications.europa.eu/resource/authority/number/CAR_22,false,1952-07-25,CAR_22,twenty-two,ventidue
+CAR_23,http://publications.europa.eu/resource/authority/number/CAR_23,false,1952-07-25,CAR_23,twenty-three,ventitré
+CAR_24,http://publications.europa.eu/resource/authority/number/CAR_24,false,1952-07-25,CAR_24,twenty-four,ventiquattro
+CAR_25,http://publications.europa.eu/resource/authority/number/CAR_25,false,1952-07-25,CAR_25,twenty-five,venticinque
+CAR_26,http://publications.europa.eu/resource/authority/number/CAR_26,false,1952-07-25,CAR_26,twenty-six,ventisei
+CAR_27,http://publications.europa.eu/resource/authority/number/CAR_27,false,1952-07-25,CAR_27,twenty-seven,ventisette
+CAR_28,http://publications.europa.eu/resource/authority/number/CAR_28,false,1952-07-25,CAR_28,twenty-eight,ventotto
+CAR_29,http://publications.europa.eu/resource/authority/number/CAR_29,false,1952-07-25,CAR_29,twenty-nine,ventinove
+CAR_30,http://publications.europa.eu/resource/authority/number/CAR_30,false,1952-07-25,CAR_30,thirty,trenta
+CAR_31,http://publications.europa.eu/resource/authority/number/CAR_31,false,1952-07-25,CAR_31,thirty-one,trentuno
+CAR_40,http://publications.europa.eu/resource/authority/number/CAR_40,false,1952-07-25,CAR_40,forty,quaranta
+CAR_50,http://publications.europa.eu/resource/authority/number/CAR_50,false,1952-07-25,CAR_50,fifty,cinquanta
+CAR_60,http://publications.europa.eu/resource/authority/number/CAR_60,false,1952-07-25,CAR_60,sixty,sessanta
+CAR_70,http://publications.europa.eu/resource/authority/number/CAR_70,false,1952-07-25,CAR_70,seventy,settanta
+CAR_80,http://publications.europa.eu/resource/authority/number/CAR_80,false,1952-07-25,CAR_80,eighty,ottanta
+CAR_90,http://publications.europa.eu/resource/authority/number/CAR_90,false,1952-07-25,CAR_90,ninety,novanta
+CAR_BILLION,http://publications.europa.eu/resource/authority/number/CAR_BILLION,false,1952-07-25,CAR_BILLION,billion,miliardo
+CAR_MILLION,http://publications.europa.eu/resource/authority/number/CAR_MILLION,false,1952-07-25,CAR_MILLION,million,milione
+OP_DATPRO,http://publications.europa.eu/resource/authority/number/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+ORD_01,http://publications.europa.eu/resource/authority/number/ORD_01,false,1952-07-25,ORD_01,first,primo
+ORD_02,http://publications.europa.eu/resource/authority/number/ORD_02,false,1952-07-25,ORD_02,second,secondo
+ORD_03,http://publications.europa.eu/resource/authority/number/ORD_03,false,1952-07-25,ORD_03,third,terzo
+ORD_04,http://publications.europa.eu/resource/authority/number/ORD_04,false,1952-07-25,ORD_04,fourth,quarto
+ORD_05,http://publications.europa.eu/resource/authority/number/ORD_05,false,1952-07-25,ORD_05,fifth,quinto
+ORD_06,http://publications.europa.eu/resource/authority/number/ORD_06,false,1952-07-25,ORD_06,sixth,sesto
+ORD_07,http://publications.europa.eu/resource/authority/number/ORD_07,false,1952-07-25,ORD_07,seventh,settimo
+ORD_08,http://publications.europa.eu/resource/authority/number/ORD_08,false,1952-07-25,ORD_08,eighth,ottavo
+ORD_09,http://publications.europa.eu/resource/authority/number/ORD_09,false,1952-07-25,ORD_09,ninth,nono
+ORD_10,http://publications.europa.eu/resource/authority/number/ORD_10,false,1952-07-25,ORD_10,tenth,decimo
+ORD_100,http://publications.europa.eu/resource/authority/number/ORD_100,false,1952-07-25,ORD_100,hundredth,centesimo
+ORD_1000,http://publications.europa.eu/resource/authority/number/ORD_1000,false,1952-07-25,ORD_1000,thousandth,millesimo
+ORD_10000,http://publications.europa.eu/resource/authority/number/ORD_10000,false,1952-07-25,ORD_10000,ten thousandth,diecimillesimo
+ORD_100000,http://publications.europa.eu/resource/authority/number/ORD_100000,false,1952-07-25,ORD_100000,hundred thousandth,centomillesimo
+ORD_11,http://publications.europa.eu/resource/authority/number/ORD_11,false,1952-07-25,ORD_11,eleventh,undicesimo
+ORD_12,http://publications.europa.eu/resource/authority/number/ORD_12,false,1952-07-25,ORD_12,twelfth,dodicesimo
+ORD_13,http://publications.europa.eu/resource/authority/number/ORD_13,false,1952-07-25,ORD_13,thirteenth,tredicesimo
+ORD_14,http://publications.europa.eu/resource/authority/number/ORD_14,false,1952-07-25,ORD_14,fourteenth,quattrodicesimo
+ORD_15,http://publications.europa.eu/resource/authority/number/ORD_15,false,1952-07-25,ORD_15,fifteenth,quindicesimo
+ORD_16,http://publications.europa.eu/resource/authority/number/ORD_16,false,1952-07-25,ORD_16,sixteenth,sedicesimo
+ORD_17,http://publications.europa.eu/resource/authority/number/ORD_17,false,1952-07-25,ORD_17,seventeenth,diciassettesimo
+ORD_18,http://publications.europa.eu/resource/authority/number/ORD_18,false,1952-07-25,ORD_18,eighteenth,diciottesimo
+ORD_19,http://publications.europa.eu/resource/authority/number/ORD_19,false,1952-07-25,ORD_19,nineteenth,diciannovesimo
+ORD_20,http://publications.europa.eu/resource/authority/number/ORD_20,false,1952-07-25,ORD_20,twentieth,ventesimo
+ORD_21,http://publications.europa.eu/resource/authority/number/ORD_21,false,1952-07-25,ORD_21,twenty-first,ventunesimo
+ORD_22,http://publications.europa.eu/resource/authority/number/ORD_22,false,1952-07-25,ORD_22,twenty-second,ventiduesimo
+ORD_23,http://publications.europa.eu/resource/authority/number/ORD_23,false,1952-07-25,ORD_23,twenty-third,ventitreesimo
+ORD_24,http://publications.europa.eu/resource/authority/number/ORD_24,false,1952-07-25,ORD_24,twenty-fourth,ventiquattresimo
+ORD_25,http://publications.europa.eu/resource/authority/number/ORD_25,false,1952-07-25,ORD_25,twenty-fifth,venticinquesimo
+ORD_26,http://publications.europa.eu/resource/authority/number/ORD_26,false,1952-07-25,ORD_26,twenty-sixth,ventiseiesimo
+ORD_27,http://publications.europa.eu/resource/authority/number/ORD_27,false,1952-07-25,ORD_27,twenty-seventh,ventisettesimo
+ORD_28,http://publications.europa.eu/resource/authority/number/ORD_28,false,1952-07-25,ORD_28,twenty-eighth,ventottesimo
+ORD_29,http://publications.europa.eu/resource/authority/number/ORD_29,false,1952-07-25,ORD_29,twenty-ninth,ventinovesimo
+ORD_30,http://publications.europa.eu/resource/authority/number/ORD_30,false,1952-07-25,ORD_30,thirtieth,trentesimo
+ORD_31,http://publications.europa.eu/resource/authority/number/ORD_31,false,1952-07-25,ORD_31,thirty-first,trentunesimo
+ORD_40,http://publications.europa.eu/resource/authority/number/ORD_40,false,1952-07-25,ORD_40,fortieth,quarantesimo
+ORD_50,http://publications.europa.eu/resource/authority/number/ORD_50,false,1952-07-25,ORD_50,fiftieth,cinquantesimo
+ORD_60,http://publications.europa.eu/resource/authority/number/ORD_60,false,1952-07-25,ORD_60,sixtieth,sessantesimo
+ORD_70,http://publications.europa.eu/resource/authority/number/ORD_70,false,1952-07-25,ORD_70,seventieth,settantesimo
+ORD_80,http://publications.europa.eu/resource/authority/number/ORD_80,false,1952-07-25,ORD_80,eightieth,ottantesimo
+ORD_90,http://publications.europa.eu/resource/authority/number/ORD_90,false,1952-07-25,ORD_90,ninetieth,novantesimo
+ORD_BILLION,http://publications.europa.eu/resource/authority/number/ORD_BILLION,false,1952-07-25,ORD_BILLION,billionth,miliardesimo
+ORD_MILLION,http://publications.europa.eu/resource/authority/number/ORD_MILLION,false,1952-07-25,ORD_MILLION,millionth,milionesimo

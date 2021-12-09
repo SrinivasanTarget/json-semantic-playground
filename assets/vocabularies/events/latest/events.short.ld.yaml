@@ -1,0 +1,1463 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADD_byCOM
+  deprecated: 'false'
+  key: ADD_byCOM
+  label_en: Addendum
+  label_it: Addendum
+  url: http://publications.europa.eu/resource/authority/event/ADD_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_ACTDENO_byCONSIL
+  deprecated: 'true'
+  key: ADP_ACTDENO_byCONSIL
+  label_en: Proposed act deemed not adopted
+  label_it: Atto proposto considerato non adottato
+  url: http://publications.europa.eu/resource/authority/event/ADP_ACTDENO_byCONSIL
+  valid_from: '1967-06-30'
+  valid_until: '1967-07-01'
+- country_code: ADP_ACTDENO_byEP_CONSIL
+  deprecated: 'false'
+  key: ADP_ACTDENO_byEP_CONSIL
+  label_en: Proposed act deemed not adopted
+  label_it: Atto proposto considerato non adottato
+  url: http://publications.europa.eu/resource/authority/event/ADP_ACTDENO_byEP_CONSIL
+  valid_from: '1967-07-01'
+- country_code: ADP_ACT_byCOM
+  deprecated: 'false'
+  key: ADP_ACT_byCOM
+  label_en: Adoption of act by Commission
+  label_it: Adozione dell'atto da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/ADP_ACT_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_BUDAME_byCONSIL
+  deprecated: 'true'
+  key: ADP_BUDAME_byCONSIL
+  label_en: 'Council: adoption of amended budget'
+  url: http://publications.europa.eu/resource/authority/event/ADP_BUDAME_byCONSIL
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: ADP_CCPOSR1CONSIL_byCOM
+  deprecated: 'false'
+  key: ADP_CCPOSR1CONSIL_byCOM
+  label_en: "Adoption by Commission of its communication on Council\u2019s position\
+    \ at 1st reading"
+  label_it: Adozione, da parte della Commissione, della comunicazione sulla posizione
+    del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_CCPOSR1CONSIL_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_COMPOS_byCONSIL
+  deprecated: 'false'
+  key: ADP_COMPOS_byCONSIL
+  label_en: Adoption of common position by Council
+  label_it: Adozione della posizione comune da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/ADP_COMPOS_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: ADP_DCLCOMPOS_byCOM
+  deprecated: 'false'
+  key: ADP_DCLCOMPOS_byCOM
+  label_en: Adoption by Commission of declaration on common position
+  label_it: Adozione di dichiarazione della Commissione su posizione comune
+  url: http://publications.europa.eu/resource/authority/event/ADP_DCLCOMPOS_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_FRM_byCONSIL
+  deprecated: 'false'
+  key: ADP_FRM_byCONSIL
+  label_en: Adoption by Council
+  label_it: Adozione da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/ADP_FRM_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: ADP_NO_R3_byCONSIL
+  deprecated: 'false'
+  key: ADP_NO_R3_byCONSIL
+  label_en: Non-adoption by the Council at 3rd reading
+  label_it: Non adozione da parte del Consiglio in terza lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_NO_R3_byCONSIL
+  valid_from: '2009-12-01'
+- country_code: ADP_NO_R3_byEP
+  deprecated: 'false'
+  key: ADP_NO_R3_byEP
+  label_en: EP non-adoption at 3rd reading
+  label_it: Non adozione da parte del PE in terza lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_NO_R3_byEP
+  valid_from: '2009-12-01'
+- country_code: ADP_NO_byCONSIL
+  deprecated: 'false'
+  key: ADP_NO_byCONSIL
+  label_en: No adoption by Council
+  label_it: Mancata adozione da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/ADP_NO_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: ADP_OPR2AMEPE_byCOM
+  deprecated: 'false'
+  key: ADP_OPR2AMEPE_byCOM
+  label_en: Adoption by Commission of opinion on EP amendments on 2nd reading
+  label_it: Adozione di parere della Commissione su emendamenti del PE in seconda
+    lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_OPR2AMEPE_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_PAR_byCONSIL
+  deprecated: 'false'
+  key: ADP_PAR_byCONSIL
+  label_en: Partial adoption by Council
+  label_it: Adozione parziale da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/ADP_PAR_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: ADP_PLSL_byEESC
+  deprecated: 'false'
+  key: ADP_PLSL_byEESC
+  label_en: Adoption at plenary level
+  label_it: Adozione a livello di sessione plenaria
+  url: http://publications.europa.eu/resource/authority/event/ADP_PLSL_byEESC
+  valid_from: '1967-07-01'
+- country_code: ADP_POSR1CONSIL_byCOM
+  deprecated: 'true'
+  key: ADP_POSR1CONSIL_byCOM
+  label_en: "Adoption by Commission of Council\u2019s position 1st reading"
+  url: http://publications.europa.eu/resource/authority/event/ADP_POSR1CONSIL_byCOM
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: ADP_PROPAME_byCOM
+  deprecated: 'false'
+  key: ADP_PROPAME_byCOM
+  label_en: Adoption by Commission of amended proposal
+  label_it: Adozione di proposta modificata da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/ADP_PROPAME_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_PROREEX_byCOM
+  deprecated: 'false'
+  key: ADP_PROREEX_byCOM
+  label_en: Adoption by Commission of re-examined proposal
+  label_it: Adozione di proposta riesaminata da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/ADP_PROREEX_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_R1_POS_byCONSIL
+  deprecated: 'false'
+  key: ADP_R1_POS_byCONSIL
+  label_en: "Council\u2019s position at 1st reading and statement of reasons"
+  label_it: Posizione del Consiglio in prima lettura e motivazione
+  url: http://publications.europa.eu/resource/authority/event/ADP_R1_POS_byCONSIL
+  valid_from: '2009-12-01'
+- country_code: ADP_R1_POS_byEP
+  deprecated: 'false'
+  key: ADP_R1_POS_byEP
+  label_en: EP position at 1st reading
+  label_it: Posizione del PE in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_R1_POS_byEP
+  valid_from: '2009-12-01'
+- country_code: ADP_R1_byCONSIL
+  deprecated: 'true'
+  key: ADP_R1_byCONSIL
+  label_en: "Adoption of Council\u2019s position at 1st reading"
+  label_it: Adozione della posizione del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_R1_byCONSIL
+  valid_from: '1967-07-01'
+  valid_until: '2009-11-30'
+- country_code: ADP_R3_byCONSIL
+  deprecated: 'false'
+  key: ADP_R3_byCONSIL
+  label_en: Adoption by the Council at 3rd reading
+  label_it: Adozione da parte del Consiglio in terza lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_R3_byCONSIL
+  valid_from: '2009-12-01'
+- country_code: ADP_R3_byEP
+  deprecated: 'false'
+  key: ADP_R3_byEP
+  label_en: EP adoption at 3rd reading
+  label_it: Adozione da parte del PE in terza lettura
+  url: http://publications.europa.eu/resource/authority/event/ADP_R3_byEP
+  valid_from: '2009-12-01'
+- country_code: ADP_SL_byEESC
+  deprecated: 'false'
+  key: ADP_SL_byEESC
+  label_en: Adoption at section level
+  label_it: Adozione a livello di sezione
+  url: http://publications.europa.eu/resource/authority/event/ADP_SL_byEESC
+  valid_from: '1967-07-01'
+- country_code: ADP_byCOM
+  deprecated: 'false'
+  key: ADP_byCOM
+  label_en: Adoption by Commission
+  label_it: Adozione da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/ADP_byCOM
+  valid_from: '1967-07-01'
+- country_code: ADP_byEP
+  deprecated: 'true'
+  key: ADP_byEP
+  label_en: Adoption by EP
+  label_it: Adozione da parte del PE
+  url: http://publications.europa.eu/resource/authority/event/ADP_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: AGR_COMPOS_byCONSIL
+  deprecated: 'false'
+  key: AGR_COMPOS_byCONSIL
+  label_en: Agreement on Council common position
+  label_it: Accordo politico posizione comune del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/AGR_COMPOS_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: AGR_byCONSIL
+  deprecated: 'false'
+  key: AGR_byCONSIL
+  label_en: Council agreement
+  label_it: Accordo politico Consiglio
+  url: http://publications.europa.eu/resource/authority/event/AGR_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: AMEND_R1_byEP
+  deprecated: 'false'
+  key: AMEND_R1_byEP
+  label_en: EP position at 1st reading with amendments
+  label_it: "Posizione del PE in 1\xAA lettura con emendamenti"
+  url: http://publications.europa.eu/resource/authority/event/AMEND_R1_byEP
+  valid_from: '2009-12-01'
+- country_code: AMEND_R2_byEP
+  deprecated: 'false'
+  key: AMEND_R2_byEP
+  label_en: "EP amendments at 2nd reading to the Council\u2019s position"
+  label_it: Emendamenti alla posizione del Consiglio da parte del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/AMEND_R2_byEP
+  valid_from: '2009-12-01'
+- country_code: AMEND_byEP
+  deprecated: 'false'
+  key: AMEND_byEP
+  label_en: EP amendments
+  label_it: Emendamenti del Parlamento europeo
+  url: http://publications.europa.eu/resource/authority/event/AMEND_byEP
+  valid_from: '1967-07-01'
+- country_code: APPLICATION_PRO
+  deprecated: 'false'
+  key: APPLICATION_PRO
+  label_en: Provisional application
+  url: http://publications.europa.eu/resource/authority/event/APPLICATION_PRO
+  valid_from: '1952-07-23'
+- country_code: APPL_END
+  deprecated: 'false'
+  key: APPL_END
+  label_en: End of applicability
+  label_it: "Fine dell\u2019applicabilit\xE0"
+  url: http://publications.europa.eu/resource/authority/event/APPL_END
+  valid_from: '1952-07-23'
+- country_code: APPL_START
+  deprecated: 'false'
+  key: APPL_START
+  label_en: Start of applicability
+  label_it: "Inizio dell\u2019applicabilit\xE0"
+  url: http://publications.europa.eu/resource/authority/event/APPL_START
+  valid_from: '1952-07-23'
+- country_code: APR_JT_byCMT_CONC
+  deprecated: 'false'
+  key: APR_JT_byCMT_CONC
+  label_en: Approval by the Conciliation Committee of a joint text
+  label_it: Approvazione di un progetto comune da parte del comitato di conciliazione
+  url: http://publications.europa.eu/resource/authority/event/APR_JT_byCMT_CONC
+  valid_from: '2009-12-01'
+- country_code: APR_NO_JT_byCMT_CONC
+  deprecated: 'false'
+  key: APR_NO_JT_byCMT_CONC
+  label_en: Non-approval by the Conciliation Committee of a joint text
+  label_it: Non approvazione di un progetto comune da parte del comitato di conciliazione
+  url: http://publications.europa.eu/resource/authority/event/APR_NO_JT_byCMT_CONC
+  valid_from: '2009-12-01'
+- country_code: APR_NO_R2_byCONSIL
+  deprecated: 'false'
+  key: APR_NO_R2_byCONSIL
+  label_en: Non-approval by the Council of the EP amendments at 2nd reading
+  label_it: Non approvazione degli emendamenti del PE da parte del Consiglio in seconda
+    lettura
+  url: http://publications.europa.eu/resource/authority/event/APR_NO_R2_byCONSIL
+  valid_from: '2009-12-01'
+- country_code: APR_NO_byEP
+  deprecated: 'true'
+  key: APR_NO_byEP
+  label_en: Not approved by EP
+  label_it: Mancata approvazione da parte del PE
+  url: http://publications.europa.eu/resource/authority/event/APR_NO_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: APR_PARR1_byCONSIL
+  deprecated: 'false'
+  key: APR_PARR1_byCONSIL
+  label_en: Council partial approval on 1st reading
+  label_it: Approvazione parziale del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/APR_PARR1_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: APR_PARR2_byCONSIL
+  deprecated: 'false'
+  key: APR_PARR2_byCONSIL
+  label_en: Council partial approval on 2nd reading
+  label_it: Approvazione parziale da parte del Consiglio in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/APR_PARR2_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: APR_R1_byCONSIL
+  deprecated: 'false'
+  key: APR_R1_byCONSIL
+  label_en: Approval by the Council of the EP position at 1st reading
+  label_it: Approvazione da parte del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/APR_R1_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: APR_R2_POS_CONSIL_byEP
+  deprecated: 'false'
+  key: APR_R2_POS_CONSIL_byEP
+  label_en: "EP approval at 2nd reading of the Council\u2019s position"
+  label_it: Approvazione della posizione del Consiglio da parte del PE in seconda
+    lettura
+  url: http://publications.europa.eu/resource/authority/event/APR_R2_POS_CONSIL_byEP
+  valid_from: '2009-12-01'
+- country_code: APR_R2_byCONSIL
+  deprecated: 'false'
+  key: APR_R2_byCONSIL
+  label_en: Approval by the Council of the EP amendments at 2nd reading
+  label_it: Approvazione da parte del Consiglio in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/APR_R2_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: APR_byCOM
+  deprecated: 'false'
+  key: APR_byCOM
+  label_en: Approval by Commission
+  label_it: Approvazione da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/APR_byCOM
+  valid_from: '1967-07-01'
+- country_code: ASS_byCONSIL
+  deprecated: 'false'
+  key: ASS_byCONSIL
+  label_en: Council assent
+  label_it: Parere conforme del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/ASS_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: ASS_byEP
+  deprecated: 'true'
+  key: ASS_byEP
+  label_en: EP assent
+  label_it: Parere conforme PE
+  url: http://publications.europa.eu/resource/authority/event/ASS_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: CC_AT_byCOM
+  deprecated: 'false'
+  key: CC_AT_byCOM
+  label_en: Commission communication on the action taken
+  label_it: Comunicazione del Commissione sul seguito dato
+  url: http://publications.europa.eu/resource/authority/event/CC_AT_byCOM
+  valid_from: '1967-07-01'
+- country_code: CC_CD_PUB_OJ
+  deprecated: 'false'
+  key: CC_CD_PUB_OJ
+  label_en: Communication on court decision published in OJ
+  label_it: Comunicazione sullla sentenza della corte pubblicata nella GU
+  url: http://publications.europa.eu/resource/authority/event/CC_CD_PUB_OJ
+  valid_from: '1952-12-30'
+- country_code: CC_FUAC_byEP
+  deprecated: 'true'
+  key: CC_FUAC_byEP
+  label_en: Communication of the Parliament on the follow-up
+  label_it: Comunicazione del PE sul seguito dato
+  url: http://publications.europa.eu/resource/authority/event/CC_FUAC_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: CC_NC_PUB_OJ
+  deprecated: 'false'
+  key: CC_NC_PUB_OJ
+  label_en: Communication on new case published in OJ
+  label_it: Comunicazione sul nuovo caso pubblicata nella GU
+  url: http://publications.europa.eu/resource/authority/event/CC_NC_PUB_OJ
+  valid_from: '1952-12-30'
+- country_code: CH_LB_byCOM
+  deprecated: 'false'
+  key: CH_LB_byCOM
+  label_en: Change of legal basis by Commission
+  label_it: Cambiamento base giuridica da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/CH_LB_byCOM
+  valid_from: '1967-07-01'
+- country_code: CH_LB_byCONSIL
+  deprecated: 'false'
+  key: CH_LB_byCONSIL
+  label_en: Change of legal basis by Council
+  label_it: Cambiamento base giuridica da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CH_LB_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CH_TLIS_byCOM
+  deprecated: 'false'
+  key: CH_TLIS_byCOM
+  label_en: Changes following entry into force of the Lisbon Treaty
+  label_it: A seguito dell'entrata in vigore del trattato di Lisbona
+  url: http://publications.europa.eu/resource/authority/event/CH_TLIS_byCOM
+  valid_from: '1967-07-01'
+- country_code: CONC_byCONSIL
+  deprecated: 'false'
+  key: CONC_byCONSIL
+  label_en: Council conclusions
+  label_it: Conclusioni del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONC_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CONF_COMPOS_byCONSIL
+  deprecated: 'false'
+  key: CONF_COMPOS_byCONSIL
+  label_en: Confirmation of common position by Council
+  label_it: Conferma della posizione comune da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONF_COMPOS_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CONS_ofCMT_MON_byCONSIL
+  deprecated: 'false'
+  key: CONS_ofCMT_MON_byCONSIL
+  label_en: Consultation of Monetary Committee by Council
+  label_it: Consultazione del Comitato monetario da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofCMT_MON_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CONS_ofCURIA_byCONSIL
+  deprecated: 'false'
+  key: CONS_ofCURIA_byCONSIL
+  label_en: Consultation of Court of Justice by Council
+  label_it: Consultazione della Corte di giustizia da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofCURIA_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CONS_ofECA_byCONSIL
+  deprecated: 'false'
+  key: CONS_ofECA_byCONSIL
+  label_en: Consultation of Court of Auditors by Council
+  label_it: Consultazione della Corte dei Conti da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofECA_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CONS_ofECB_byCONSIL
+  deprecated: 'false'
+  key: CONS_ofECB_byCONSIL
+  label_en: Consultation of the European Central Bank by the Council
+  label_it: Consultazione della Banca centrale europea da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofECB_byCONSIL
+  valid_from: '1998-06-01'
+- country_code: CONS_ofEESC_byCOM
+  deprecated: 'false'
+  key: CONS_ofEESC_byCOM
+  label_en: Consultation of European Economic and Social Committee by Commission
+  label_it: Consultazione del Comitato economico e sociale europeo da parte della
+    Commissione
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofEESC_byCOM
+  valid_from: '2002-07-01'
+- country_code: CONS_ofEESC_byCONSIL
+  deprecated: 'false'
+  key: CONS_ofEESC_byCONSIL
+  label_en: Consultation of European Economic and Social Committee
+  label_it: Consultazione del Comitato economico e sociale europeo da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofEESC_byCONSIL
+  valid_from: '2002-07-01'
+- country_code: CONS_ofEMI_byCONSIL
+  deprecated: 'true'
+  key: CONS_ofEMI_byCONSIL
+  label_en: Consultation of European Monetary Institute by Council
+  label_it: "Consultazione dell\u2019Istituto monetario europeo da parte del Consiglio"
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofEMI_byCONSIL
+  valid_from: '1994-01-01'
+  valid_until: '1998-05-31'
+- country_code: CONS_ofEP_byCOM
+  deprecated: 'false'
+  key: CONS_ofEP_byCOM
+  label_en: Consultation Parliament by Commission
+  label_it: Consultazione del PE da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofEP_byCOM
+  valid_from: '1967-07-01'
+- country_code: CONS_ofEP_byCONSIL
+  deprecated: 'false'
+  key: CONS_ofEP_byCONSIL
+  label_en: Consultation of Parliament by Council
+  label_it: Consultazione del PE da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofEP_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: CONS_ofESC_byCOM
+  deprecated: 'true'
+  key: CONS_ofESC_byCOM
+  label_en: Consultation of Economic and Social Committee by Commission
+  label_it: Consultazione del Comitato economico e sociale da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofESC_byCOM
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: CONS_ofESC_byCONSIL
+  deprecated: 'true'
+  key: CONS_ofESC_byCONSIL
+  label_en: Consultation of Economic and Social Committee
+  label_it: Consultazione del Comitato economico e sociale da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/CONS_ofESC_byCONSIL
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: CONV_ofCMT_CONC
+  deprecated: 'false'
+  key: CONV_ofCMT_CONC
+  label_en: Convening of the Conciliation Committee
+  label_it: Convocazione del Comitato di conciliazione
+  url: http://publications.europa.eu/resource/authority/event/CONV_ofCMT_CONC
+  valid_from: '1967-07-01'
+- country_code: CONV_ofCMT_CONC_byCONSIL
+  deprecated: 'true'
+  key: CONV_ofCMT_CONC_byCONSIL
+  label_en: Convening of Conciliation Committee
+  label_it: Convocazione del comitato di conciliazione
+  url: http://publications.europa.eu/resource/authority/event/CONV_ofCMT_CONC_byCONSIL
+  valid_from: '1967-06-30'
+  valid_until: '1967-07-01'
+- country_code: CORR_byCOM
+  deprecated: 'false'
+  key: CORR_byCOM
+  label_en: Corrigendum
+  label_it: Rettifica
+  url: http://publications.europa.eu/resource/authority/event/CORR_byCOM
+  valid_from: '1967-07-01'
+- country_code: DAY_SITTING
+  deprecated: 'false'
+  key: DAY_SITTING
+  label_en: Sitting day
+  url: http://publications.europa.eu/resource/authority/event/DAY_SITTING
+  valid_from: '1952-09-10'
+- country_code: DEC_BUDACT_byCONSIL
+  deprecated: 'false'
+  key: DEC_BUDACT_byCONSIL
+  label_en: Council decision on budgetary act
+  label_it: Decisione del Consiglio su atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/DEC_BUDACT_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: DEC_BUDACT_byEP
+  deprecated: 'true'
+  key: DEC_BUDACT_byEP
+  label_en: EP decision on budgetary act
+  label_it: Decisione del PE su atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/DEC_BUDACT_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2019-04-24'
+- country_code: DEC_BUDDIS_byEP
+  deprecated: 'false'
+  key: DEC_BUDDIS_byEP
+  label_en: EP decision on budgetary discharge
+  label_it: Decisione di discarico bilancio da parte del PE
+  url: http://publications.europa.eu/resource/authority/event/DEC_BUDDIS_byEP
+  valid_from: '1967-07-01'
+- country_code: DEC_CONC_byCONSIL
+  deprecated: 'true'
+  key: DEC_CONC_byCONSIL
+  label_en: 'Council: decision, with or without conciliation'
+  url: http://publications.europa.eu/resource/authority/event/DEC_CONC_byCONSIL
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: DEC_FUAC_byCOM
+  deprecated: 'false'
+  key: DEC_FUAC_byCOM
+  label_en: Decision on follow-up action
+  label_it: Decisione sul seguito da dare
+  url: http://publications.europa.eu/resource/authority/event/DEC_FUAC_byCOM
+  valid_from: '1967-07-01'
+- country_code: DEC_PROCEND_byCONSIL
+  deprecated: 'true'
+  key: DEC_PROCEND_byCONSIL
+  label_en: 'End of procedure: decision by Council'
+  url: http://publications.europa.eu/resource/authority/event/DEC_PROCEND_byCONSIL
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: DEC_PROCONCERT_byCONSIL
+  deprecated: 'false'
+  key: DEC_PROCONCERT_byCONSIL
+  label_en: Decision by Council on concertation procedure
+  label_it: Decisione del Consiglio sulla procedura di concertazione
+  url: http://publications.europa.eu/resource/authority/event/DEC_PROCONCERT_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: DEC_R3_byCONSIL
+  deprecated: 'false'
+  key: DEC_R3_byCONSIL
+  label_en: Council decision on 3rd reading
+  label_it: Decisione del Consiglio terza lettura
+  url: http://publications.europa.eu/resource/authority/event/DEC_R3_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: DEC_R3_byEP
+  deprecated: 'true'
+  key: DEC_R3_byEP
+  label_en: EP decision on 3rd reading
+  label_it: Decisione del PE terza lettura
+  url: http://publications.europa.eu/resource/authority/event/DEC_R3_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: DEC_RSI_R1_byEP
+  deprecated: 'true'
+  key: DEC_RSI_R1_byEP
+  label_en: EP decision 1st reading or single reading
+  url: http://publications.europa.eu/resource/authority/event/DEC_RSI_R1_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: DEC_byACP_AMB
+  deprecated: 'false'
+  key: DEC_byACP_AMB
+  label_en: Decision of the ACP-EC Committee of Ambassadors
+  label_it: Decisione del Comitato degli ambasciatori ACP-CE
+  url: http://publications.europa.eu/resource/authority/event/DEC_byACP_AMB
+  valid_from: '1976-04-01'
+- country_code: DEC_byACP_MIN
+  deprecated: 'false'
+  key: DEC_byACP_MIN
+  label_en: Decision of the ACP-EC Council of Ministers
+  label_it: Decisione del Consiglio dei ministri ACP-CE
+  url: http://publications.europa.eu/resource/authority/event/DEC_byACP_MIN
+  valid_from: '1976-01-01'
+- country_code: DEC_byCMT_CONC
+  deprecated: 'false'
+  key: DEC_byCMT_CONC
+  label_en: Conciliation Committee decision
+  label_it: Decisione del Comitato di conciliazione
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCMT_CONC
+  valid_from: '1993-01-01'
+- country_code: DEC_byCMT_CONJOIN
+  deprecated: 'true'
+  key: DEC_byCMT_CONJOIN
+  label_en: Joint Committee decision
+  label_it: Decisione del comitato congiunto
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCMT_CONJOIN
+  valid_from: '1967-06-30'
+  valid_until: '1967-07-01'
+- country_code: DEC_byCMT_COOP
+  deprecated: 'false'
+  key: DEC_byCMT_COOP
+  label_en: Decision of the Cooperation Committee
+  label_it: Decisione del Comitato di cooperazione
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCMT_COOP
+  valid_from: '1967-07-01'
+- country_code: DEC_byCMT_JOIN
+  deprecated: 'false'
+  key: DEC_byCMT_JOIN
+  label_en: Decision of the Joint Committee
+  label_it: Decisione del Comitato congiunto
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCMT_JOIN
+  valid_from: '1967-07-01'
+- country_code: DEC_byCMT_MIX
+  deprecated: 'false'
+  key: DEC_byCMT_MIX
+  label_en: Joint Committee decision
+  label_it: Decisione del comitato congiunto
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCMT_MIX
+  valid_from: '1967-07-01'
+- country_code: DEC_byCOUN_ASS
+  deprecated: 'false'
+  key: DEC_byCOUN_ASS
+  label_en: Association Council decision
+  label_it: Decisione del Consiglio di associazione
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCOUN_ASS
+  valid_from: '1967-07-01'
+- country_code: DEC_byCOUN_COOP
+  deprecated: 'false'
+  key: DEC_byCOUN_COOP
+  label_en: Cooperation Council decision
+  label_it: Decisione del Consiglio di cooperazione
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCOUN_COOP
+  valid_from: '1967-07-01'
+- country_code: DEC_byCOUN_JOIN
+  deprecated: 'false'
+  key: DEC_byCOUN_JOIN
+  label_en: Joint Council decision
+  label_it: Decisione del Consiglio congiunto
+  url: http://publications.europa.eu/resource/authority/event/DEC_byCOUN_JOIN
+  valid_from: '1967-07-01'
+- country_code: DEC_byEP
+  deprecated: 'false'
+  key: DEC_byEP
+  label_en: EP decision
+  label_it: Decisione del Parlamento europeo
+  url: http://publications.europa.eu/resource/authority/event/DEC_byEP
+  valid_from: '1967-07-01'
+- country_code: DELIV_JUDG_ORDER
+  deprecated: 'false'
+  key: DELIV_JUDG_ORDER
+  label_en: Delivery of the Judgment or making of the Order
+  label_it: Pronuncia della sentenza o adozione del'ordinanza
+  url: http://publications.europa.eu/resource/authority/event/DELIV_JUDG_ORDER
+  valid_from: '1952-07-24'
+- country_code: DELIV_OPI_VIEW
+  deprecated: 'false'
+  key: DELIV_OPI_VIEW
+  label_en: Delivery of the Opinion or View
+  label_it: Lettura delle conclusioni o presa di posizione
+  url: http://publications.europa.eu/resource/authority/event/DELIV_OPI_VIEW
+  valid_from: '1952-07-24'
+- country_code: DIS_BUDR1_byCONSIL
+  deprecated: 'false'
+  key: DIS_BUDR1_byCONSIL
+  label_en: Discussion of budget by Council on 1st reading
+  label_it: Deliberazione di bilancio del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/DIS_BUDR1_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: DIS_BUDR1_byEP
+  deprecated: 'true'
+  key: DIS_BUDR1_byEP
+  label_en: Discussion of budget by EP on 1st reading
+  label_it: Deliberazione di bilancio del PE in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/DIS_BUDR1_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2019-04-24'
+- country_code: DIS_BUDR2_byCONSIL
+  deprecated: 'false'
+  key: DIS_BUDR2_byCONSIL
+  label_en: Discussion of budget by Council on 2nd reading
+  label_it: Deliberazione di bilancio del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/DIS_BUDR2_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: DIS_BUDR2_byEP
+  deprecated: 'true'
+  key: DIS_BUDR2_byEP
+  label_en: Discussion of budget by EP on 2nd reading
+  label_it: Deliberazione di bilancio del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/DIS_BUDR2_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2019-04-24'
+- country_code: DIS_byCONSIL
+  deprecated: 'false'
+  key: DIS_byCONSIL
+  label_en: Discussions within the Council or its preparatory bodies
+  label_it: Discussioni al Consiglio
+  url: http://publications.europa.eu/resource/authority/event/DIS_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: EMPOW_byCOM
+  deprecated: 'false'
+  key: EMPOW_byCOM
+  label_en: Empowerment
+  label_it: Abilitazione
+  url: http://publications.europa.eu/resource/authority/event/EMPOW_byCOM
+  valid_from: '1967-07-01'
+- country_code: INF_RJ_R2_byEP
+  deprecated: 'true'
+  key: INF_RJ_R2_byEP
+  label_en: Information concerning EP rejection on 2nd reading
+  label_it: Comunicazione sul rigetto del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/INF_RJ_R2_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: INI_byEUMS
+  deprecated: 'false'
+  key: INI_byEUMS
+  label_en: Member States initiative
+  label_it: Iniziativa degli Statii membri
+  url: http://publications.europa.eu/resource/authority/event/INI_byEUMS
+  valid_from: '2009-12-01'
+- country_code: JUDG_byCURIA
+  deprecated: 'true'
+  key: JUDG_byCURIA
+  label_en: Court of Justice judgment
+  label_it: Sentenza della Corte di giustizia
+  url: http://publications.europa.eu/resource/authority/event/JUDG_byCURIA
+  valid_from: '1952-07-23'
+  valid_until: '1952-07-24'
+- country_code: OPI_ASS_byEP_CMT
+  deprecated: 'true'
+  key: OPI_ASS_byEP_CMT
+  label_en: EP Committee opinion on assent
+  label_it: "Parere della commissione parlamentare \u2014 Parere conforme"
+  url: http://publications.europa.eu/resource/authority/event/OPI_ASS_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_BUDACT_byCONSIL
+  deprecated: 'false'
+  key: OPI_BUDACT_byCONSIL
+  label_en: Council opinion on budgetary act
+  label_it: Parere del Consiglio su atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/OPI_BUDACT_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: OPI_BUDACT_byEP
+  deprecated: 'true'
+  key: OPI_BUDACT_byEP
+  label_en: EP opinion on budgetary act
+  label_it: Parere del PE su atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/OPI_BUDACT_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2019-04-24'
+- country_code: OPI_BUDACT_byEP_CMT
+  deprecated: 'true'
+  key: OPI_BUDACT_byEP_CMT
+  label_en: EP Committee opinion on budgetary act
+  label_it: Parere della commissione parlamentare su atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/OPI_BUDACT_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_EXPL_byEESC
+  deprecated: 'true'
+  key: OPI_EXPL_byEESC
+  label_en: European Economic and Social Committee exploratory opinion
+  label_it: Parere esplorativo del Comitato economico e sociale europeo
+  url: http://publications.europa.eu/resource/authority/event/OPI_EXPL_byEESC
+  valid_from: '2002-07-01'
+  valid_until: '2016-08-30'
+- country_code: OPI_EXPL_byESC
+  deprecated: 'true'
+  key: OPI_EXPL_byESC
+  label_en: Economic and Social Committee exploratory opinion
+  label_it: Parere esplorativo del Comitato economico e sociale
+  url: http://publications.europa.eu/resource/authority/event/OPI_EXPL_byESC
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: OPI_NO_R2_byEP
+  deprecated: 'true'
+  key: OPI_NO_R2_byEP
+  label_en: No EP opinion on 2nd reading
+  label_it: Mancata pronuncia del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/OPI_NO_R2_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_OUT_byCOR
+  deprecated: 'true'
+  key: OPI_OUT_byCOR
+  label_en: Outlook opinion of the Committee of the Regions
+  label_it: Parere di prospettiva del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/event/OPI_OUT_byCOR
+  valid_from: '1993-01-12'
+  valid_until: '2016-08-30'
+- country_code: OPI_OWINI_byCOR
+  deprecated: 'true'
+  key: OPI_OWINI_byCOR
+  label_en: Committee of Regions own-initiative opinion
+  label_it: Parere di iniziativa del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/event/OPI_OWINI_byCOR
+  valid_from: '1993-11-01'
+  valid_until: '2016-08-30'
+- country_code: OPI_OWINI_byECA
+  deprecated: 'false'
+  key: OPI_OWINI_byECA
+  label_en: European Court of Auditors own-initiative opinion
+  label_it: Parere di iniziativa della Corte dei conti
+  url: http://publications.europa.eu/resource/authority/event/OPI_OWINI_byECA
+  valid_from: '1978-01-01'
+- country_code: OPI_OWINI_byEESC
+  deprecated: 'false'
+  key: OPI_OWINI_byEESC
+  label_en: European Economic and Social Committee own-initiative opinion
+  label_it: Parere di iniziativa del Comitato economico e sociale europeo
+  url: http://publications.europa.eu/resource/authority/event/OPI_OWINI_byEESC
+  valid_from: '2002-07-01'
+- country_code: OPI_OWINI_byESC
+  deprecated: 'true'
+  key: OPI_OWINI_byESC
+  label_en: Economic and Social Committee own-initiative opinion
+  label_it: Parere di iniziativa del Comitato economico e sociale
+  url: http://publications.europa.eu/resource/authority/event/OPI_OWINI_byESC
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: OPI_OWINIbyCOR
+  deprecated: 'true'
+  key: OPI_OWINIbyCOR
+  label_en: Committee of Regions own-initiative opinion
+  label_it: Parere di iniziativa del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/event/OPI_OWINIbyCOR
+  valid_from: '1993-10-31'
+  valid_until: '1993-11-01'
+- country_code: OPI_R1_byEP
+  deprecated: 'true'
+  key: OPI_R1_byEP
+  label_en: EP opinion on 1st reading
+  label_it: Parere del PE in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/OPI_R1_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_R1_byEP_CMT
+  deprecated: 'true'
+  key: OPI_R1_byEP_CMT
+  label_en: EP Committee opinion on 1st reading
+  label_it: Parere della commissione parlamentare in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/OPI_R1_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_R2_byEP
+  deprecated: 'true'
+  key: OPI_R2_byEP
+  label_en: EP opinion on 2nd reading
+  label_it: Parere del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/OPI_R2_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_R2_byEP_CMT
+  deprecated: 'true'
+  key: OPI_R2_byEP_CMT
+  label_en: EP Committee opinion on 2nd reading
+  label_it: Parere della commissione parlamentare in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/OPI_R2_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_R3_byEP_CMT
+  deprecated: 'true'
+  key: OPI_R3_byEP_CMT
+  label_en: EP Committee opinion on 3rd reading
+  label_it: Parere della commissione parlamentare in terza lettura
+  url: http://publications.europa.eu/resource/authority/event/OPI_R3_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_RES_byEP_CMT
+  deprecated: 'true'
+  key: OPI_RES_byEP_CMT
+  label_en: "EP Committee opinion \u2013 resolution"
+  label_it: "Parere della commissione parlamentare \u2014 Risoluzione"
+  url: http://publications.europa.eu/resource/authority/event/OPI_RES_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_RSI_byEP
+  deprecated: 'false'
+  key: OPI_RSI_byEP
+  label_en: EP opinion on single reading
+  label_it: Parere del PE in lettura unica
+  url: http://publications.europa.eu/resource/authority/event/OPI_RSI_byEP
+  valid_from: '1967-07-01'
+- country_code: OPI_RSI_byEP_CMT
+  deprecated: 'true'
+  key: OPI_RSI_byEP_CMT
+  label_en: EP Committee opinion on single reading
+  label_it: Parere della commissione parlamentare in lettura unica
+  url: http://publications.europa.eu/resource/authority/event/OPI_RSI_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: OPI_byCMT_MON
+  deprecated: 'false'
+  key: OPI_byCMT_MON
+  label_en: Monetary Committee opinion
+  label_it: Parere del Comitato monetario europeo
+  url: http://publications.europa.eu/resource/authority/event/OPI_byCMT_MON
+  valid_from: '1997-10-02'
+- country_code: OPI_byCONSIL
+  deprecated: 'false'
+  key: OPI_byCONSIL
+  label_en: Council opinion
+  label_it: Parere del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/OPI_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: OPI_byCOR
+  deprecated: 'false'
+  key: OPI_byCOR
+  label_en: Committee of Regions opinion
+  label_it: Parere del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/event/OPI_byCOR
+  valid_from: '1993-11-01'
+- country_code: OPI_byCURIA
+  deprecated: 'true'
+  key: OPI_byCURIA
+  label_en: Court of Justice opinion
+  label_it: Parere della Corte di giustizia
+  url: http://publications.europa.eu/resource/authority/event/OPI_byCURIA
+  valid_from: '1952-07-23'
+  valid_until: '1952-07-24'
+- country_code: OPI_byECA
+  deprecated: 'false'
+  key: OPI_byECA
+  label_en: Court of Auditors opinion
+  label_it: Parere della Corte dei conti
+  url: http://publications.europa.eu/resource/authority/event/OPI_byECA
+  valid_from: '1977-04-28'
+- country_code: OPI_byECB
+  deprecated: 'false'
+  key: OPI_byECB
+  label_en: European Central Bank opinion
+  label_it: Parere della Banca centrale europea
+  url: http://publications.europa.eu/resource/authority/event/OPI_byECB
+  valid_from: '1997-11-10'
+- country_code: OPI_byECSC_CMTCSL
+  deprecated: 'true'
+  key: OPI_byECSC_CMTCSL
+  label_en: ECSC Consultative Committee opinion
+  label_it: Parere del Comitato consultivo CECA
+  url: http://publications.europa.eu/resource/authority/event/OPI_byECSC_CMTCSL
+  valid_from: '1967-07-01'
+  valid_until: '2002-07-23'
+- country_code: OPI_byEDPS
+  deprecated: 'false'
+  key: OPI_byEDPS
+  label_en: Opinion of the European Data Protection Supervisor
+  label_it: Parere del Garante europeo della protezione dei dati
+  url: http://publications.europa.eu/resource/authority/event/OPI_byEDPS
+  valid_from: '2001-01-12'
+- country_code: OPI_byEESC
+  deprecated: 'false'
+  key: OPI_byEESC
+  label_en: European Economic and Social Committee opinion
+  label_it: Parere del Comitato economico e sociale europeo
+  url: http://publications.europa.eu/resource/authority/event/OPI_byEESC
+  valid_from: '2002-07-01'
+- country_code: OPI_byEIB
+  deprecated: 'false'
+  key: OPI_byEIB
+  label_en: European Investment Bank opinion
+  label_it: Parere della Banca europea per gli investimenti
+  url: http://publications.europa.eu/resource/authority/event/OPI_byEIB
+  valid_from: '1967-07-01'
+- country_code: OPI_byEMI
+  deprecated: 'true'
+  key: OPI_byEMI
+  label_en: European Monetary Institute opinion
+  label_it: "Parere dell\u2019Istituto monetario europeo"
+  url: http://publications.europa.eu/resource/authority/event/OPI_byEMI
+  valid_from: '1994-01-01'
+  valid_until: '1997-12-31'
+- country_code: OPI_byESC
+  deprecated: 'true'
+  key: OPI_byESC
+  label_en: Economic and Social Committee opinion
+  label_it: Parere del Comitato economico e sociale
+  url: http://publications.europa.eu/resource/authority/event/OPI_byESC
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: OPI_byFRA
+  deprecated: 'false'
+  key: OPI_byFRA
+  label_en: European Union Agency for Fundamental Rights opinion
+  label_it: "Parere dell\u2019Agenzia dell'Unione europea per i diritti fondamentali"
+  url: http://publications.europa.eu/resource/authority/event/OPI_byFRA
+  valid_from: '2007-03-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/event/OP_DATPRO
+- country_code: POS_AME_R1_byCOM
+  deprecated: 'false'
+  key: POS_AME_R1_byCOM
+  label_en: Commission position on EP amendments on 1st reading
+  label_it: Posizione della Commissione sugli emendamenti del PE in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/POS_AME_R1_byCOM
+  valid_from: '1967-07-01'
+- country_code: POS_AME_R2_byCOM
+  deprecated: 'false'
+  key: POS_AME_R2_byCOM
+  label_en: Commission position on EP amendments on 2nd reading
+  label_it: Posizione della Commissione sugli emendamenti del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/POS_AME_R2_byCOM
+  valid_from: '1967-07-01'
+- country_code: POS_AME_RSI_byCOM
+  deprecated: 'false'
+  key: POS_AME_RSI_byCOM
+  label_en: Commission position on EP amendments on single reading
+  label_it: Posizione della Commissione sugli emendamenti del PE in lettura unica
+  url: http://publications.europa.eu/resource/authority/event/POS_AME_RSI_byCOM
+  valid_from: '1967-07-01'
+- country_code: POS_BUDACT_byEP
+  deprecated: 'false'
+  key: POS_BUDACT_byEP
+  label_en: EP position on draft budgetary act
+  label_it: Parere del PE su un progetto di atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/POS_BUDACT_byEP
+  valid_from: '2019-04-25'
+- country_code: PRTC_INT_AGR_END
+  deprecated: 'false'
+  key: PRTC_INT_AGR_END
+  label_en: "Participation in an international agreement \u2013 end"
+  label_it: "Partecipazione a un accordo internazionale \u2013 fine"
+  url: http://publications.europa.eu/resource/authority/event/PRTC_INT_AGR_END
+  valid_from: '1952-07-23'
+- country_code: PRTC_INT_AGR_START
+  deprecated: 'false'
+  key: PRTC_INT_AGR_START
+  label_en: "Participation in an international agreement \u2013 start"
+  label_it: "Partecipazione a un accordo internazionale \u2013 inizio"
+  url: http://publications.europa.eu/resource/authority/event/PRTC_INT_AGR_START
+  valid_from: '1952-07-23'
+- country_code: PUB
+  deprecated: 'true'
+  key: PUB
+  label_en: Publication at the Official Journal
+  url: http://publications.europa.eu/resource/authority/event/PUB
+  valid_from: '1969-01-18'
+  valid_until: '2012-06-13'
+- country_code: PUB_CFE
+  deprecated: 'true'
+  key: PUB_CFE
+  label_en: Publication of a call for evidence
+  label_it: Pubblicazione di un invito a presentare contributi
+  url: http://publications.europa.eu/resource/authority/event/PUB_CFE
+  valid_from: '2021-02-22'
+  valid_until: '2021-02-23'
+- country_code: PUB_OJ
+  deprecated: 'false'
+  key: PUB_OJ
+  label_en: Publication in the Official Journal
+  label_it: Pubblicazione nella Gazzetta ufficiale
+  url: http://publications.europa.eu/resource/authority/event/PUB_OJ
+  valid_from: '1969-01-18'
+- country_code: RAT_INT_AGR
+  deprecated: 'false'
+  key: RAT_INT_AGR
+  label_en: Ratification of an international agreement
+  label_it: Ratifica di un accordo internazionale
+  url: http://publications.europa.eu/resource/authority/event/RAT_INT_AGR
+  valid_from: '1952-07-23'
+- country_code: RECP_COMPOS_byEP
+  deprecated: 'false'
+  key: RECP_COMPOS_byEP
+  label_en: Receipt by EP of Council common position
+  label_it: Ricevimento da parte del PE della posizione comune del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/RECP_COMPOS_byEP
+  valid_from: '1967-07-01'
+- country_code: RECP_byEP
+  deprecated: 'false'
+  key: RECP_byEP
+  label_en: "Receipt by the Parliament of the Council\u2019s position at 1st reading"
+  label_it: Ricevimento da parte del PE della posizione del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/RECP_byEP
+  valid_from: '1967-07-01'
+- country_code: REF_OF_byEP
+  deprecated: 'true'
+  key: REF_OF_byEP
+  label_en: 'EP: referral to Committee responsible and Committee asked for opinion'
+  url: http://publications.europa.eu/resource/authority/event/REF_OF_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: REF_PRE_byEP
+  deprecated: 'true'
+  key: REF_PRE_byEP
+  label_en: 'EP: document for information, pre-referral'
+  url: http://publications.europa.eu/resource/authority/event/REF_PRE_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: REF_SELF_byCOR
+  deprecated: 'false'
+  key: REF_SELF_byCOR
+  label_en: Self-referral by Committee of Regions
+  label_it: Iniziativa del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/event/REF_SELF_byCOR
+  valid_from: '1994-11-01'
+- country_code: REP_ASS_byEP_CMT
+  deprecated: 'true'
+  key: REP_ASS_byEP_CMT
+  label_en: EP Committee report on assent
+  label_it: Relazione della commissione parlamentare su parere conforme
+  url: http://publications.europa.eu/resource/authority/event/REP_ASS_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REP_BUDACT_byEP_CMT
+  deprecated: 'true'
+  key: REP_BUDACT_byEP_CMT
+  label_en: EP Committee report on budgetary act
+  label_it: Relazione della commissione parlamentare su atto di bilancio
+  url: http://publications.europa.eu/resource/authority/event/REP_BUDACT_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REP_R1_byEP_CMT
+  deprecated: 'true'
+  key: REP_R1_byEP_CMT
+  label_en: EP Committee report on 1st reading
+  label_it: Relazione della commissione parlamentare in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/REP_R1_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REP_R2_byEP_CMT
+  deprecated: 'true'
+  key: REP_R2_byEP_CMT
+  label_en: EP Committee report on 2nd reading
+  label_it: Relazione della commissione parlamentare in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/REP_R2_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REP_R3_byEP_CMT
+  deprecated: 'true'
+  key: REP_R3_byEP_CMT
+  label_en: EP Committee report on 3rd reading
+  label_it: Relazione della commissione parlamentare in terza lettura
+  url: http://publications.europa.eu/resource/authority/event/REP_R3_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REP_RES_byEP_CMT
+  deprecated: 'true'
+  key: REP_RES_byEP_CMT
+  label_en: "EP Committee report \u2014 resolution"
+  label_it: "Relazione della commissione parlamentare \u2013 Risoluzione"
+  url: http://publications.europa.eu/resource/authority/event/REP_RES_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REP_RSI_byEP_CMT
+  deprecated: 'true'
+  key: REP_RSI_byEP_CMT
+  label_en: EP Committee report on single reading
+  label_it: Relazione della commissione parlamentare in lettura unica
+  url: http://publications.europa.eu/resource/authority/event/REP_RSI_byEP_CMT
+  valid_from: '1967-07-01'
+  valid_until: '2018-10-16'
+- country_code: REQ_INI_PROCONCERT_byEP
+  deprecated: 'false'
+  key: REQ_INI_PROCONCERT_byEP
+  label_en: Request by EP to initiate concertation procedure
+  label_it: Richiesta del Parlamento europeo di aprire una procedura di concertazione
+  url: http://publications.europa.eu/resource/authority/event/REQ_INI_PROCONCERT_byEP
+  valid_from: '1967-07-01'
+- country_code: RES_byCONSIL
+  deprecated: 'false'
+  key: RES_byCONSIL
+  label_en: Council resolution
+  label_it: Risoluzione del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/RES_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: RES_byCOR
+  deprecated: 'true'
+  key: RES_byCOR
+  label_en: Committee of Regions resolution
+  label_it: Risoluzione del Comitato delle regioni
+  url: http://publications.europa.eu/resource/authority/event/RES_byCOR
+  valid_from: '1993-11-01'
+  valid_until: '2016-08-30'
+- country_code: RES_byEESC
+  deprecated: 'true'
+  key: RES_byEESC
+  label_en: European Economic and Social Committee resolution
+  label_it: Risoluzione del Comitato economico e sociale europeo
+  url: http://publications.europa.eu/resource/authority/event/RES_byEESC
+  valid_from: '2002-07-01'
+  valid_until: '2016-08-30'
+- country_code: RES_byEP
+  deprecated: 'false'
+  key: RES_byEP
+  label_en: EP resolution
+  label_it: Risoluzione del PE
+  url: http://publications.europa.eu/resource/authority/event/RES_byEP
+  valid_from: '1967-07-01'
+- country_code: RES_byESC
+  deprecated: 'true'
+  key: RES_byESC
+  label_en: Economic and Social Committee resolution
+  label_it: Risoluzione del Comitato economico e sociale
+  url: http://publications.europa.eu/resource/authority/event/RES_byESC
+  valid_from: '1967-07-01'
+  valid_until: '2002-06-30'
+- country_code: RJ_R2_POS_CONSIL_byEP
+  deprecated: 'false'
+  key: RJ_R2_POS_CONSIL_byEP
+  label_en: "EP rejection at 2nd reading of the Council\u2019s position"
+  label_it: Rigetto della posizione del Consiglio da parte del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/RJ_R2_POS_CONSIL_byEP
+  valid_from: '2009-12-01'
+- country_code: RJ_byCONSIL
+  deprecated: 'false'
+  key: RJ_byCONSIL
+  label_en: Rejection by Council
+  label_it: Rigetto da parte del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/RJ_byCONSIL
+  valid_from: '1967-07-01'
+- country_code: RJ_byEP
+  deprecated: 'false'
+  key: RJ_byEP
+  label_en: Rejected by EP
+  label_it: Rigetto da parte del PE
+  url: http://publications.europa.eu/resource/authority/event/RJ_byEP
+  valid_from: '1967-07-01'
+- country_code: RPL_IMP_byCOM
+  deprecated: 'false'
+  key: RPL_IMP_byCOM
+  label_en: Implicit replacement
+  label_it: Sostituzione implicita
+  url: http://publications.europa.eu/resource/authority/event/RPL_IMP_byCOM
+  valid_from: '1967-07-01'
+- country_code: RPL_PAR_byCOM
+  deprecated: 'false'
+  key: RPL_PAR_byCOM
+  label_en: Partial replacement
+  label_it: Sostituzione parziale
+  url: http://publications.europa.eu/resource/authority/event/RPL_PAR_byCOM
+  valid_from: '1967-07-01'
+- country_code: RPL_byCOM
+  deprecated: 'false'
+  key: RPL_byCOM
+  label_en: Replacement
+  label_it: Sostituzione
+  url: http://publications.europa.eu/resource/authority/event/RPL_byCOM
+  valid_from: '1967-07-01'
+- country_code: SIGN_BUD_byEP
+  deprecated: 'false'
+  key: SIGN_BUD_byEP
+  label_en: Signature of budget by EP
+  label_it: Sottoscrizione del bilancio da parte del PE
+  url: http://publications.europa.eu/resource/authority/event/SIGN_BUD_byEP
+  valid_from: '1967-07-01'
+- country_code: SIGN_INT_AGR
+  deprecated: 'false'
+  key: SIGN_INT_AGR
+  label_en: Signature of an international agreement
+  label_it: Firma di un accordo internazionale
+  url: http://publications.europa.eu/resource/authority/event/SIGN_INT_AGR
+  valid_from: '1952-07-23'
+- country_code: SIGN_PAR_byEP_CONSIL
+  deprecated: 'false'
+  key: SIGN_PAR_byEP_CONSIL
+  label_en: Partial signature by EP and Council
+  label_it: Sottoscrizione parziale da parte di PE e Consiglio
+  url: http://publications.europa.eu/resource/authority/event/SIGN_PAR_byEP_CONSIL
+  valid_from: '1967-07-01'
+- country_code: SIGN_byEP_CONSIL
+  deprecated: 'false'
+  key: SIGN_byEP_CONSIL
+  label_en: Signature by the President of the EP and by the President of the Council
+  label_it: Sottoscrizione del presidente del PE e del presidente del Consiglio
+  url: http://publications.europa.eu/resource/authority/event/SIGN_byEP_CONSIL
+  valid_from: '1967-07-01'
+- country_code: START_byEP
+  deprecated: 'true'
+  key: START_byEP
+  label_en: 'EP: official start of referral or autorisation'
+  url: http://publications.europa.eu/resource/authority/event/START_byEP
+  valid_from: '1967-07-01'
+  valid_until: '2012-06-13'
+- country_code: SUPP_byCOM
+  deprecated: 'false'
+  key: SUPP_byCOM
+  label_en: Supplement
+  label_it: Complemento
+  url: http://publications.europa.eu/resource/authority/event/SUPP_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_EP_CC_POSR1_byCOM
+  deprecated: 'false'
+  key: TRS_EP_CC_POSR1_byCOM
+  label_en: "Transmission to Parliament of Commission communication on Council\u2019\
+    s position at 1st reading"
+  label_it: Trasmissione al Parlamento della comunicazione della Commissione sulla
+    posizione del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/TRS_EP_CC_POSR1_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_EP_DCLCOMPOS_byCOM
+  deprecated: 'false'
+  key: TRS_EP_DCLCOMPOS_byCOM
+  label_en: Transmission to EP of declaration on common position
+  label_it: Trasmissione al PE della dichiarazione su posizione comune
+  url: http://publications.europa.eu/resource/authority/event/TRS_EP_DCLCOMPOS_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_EP_OPIAME_R2_byCOM
+  deprecated: 'false'
+  key: TRS_EP_OPIAME_R2_byCOM
+  label_en: Transmission to EP of Commission opinion on EP amendments on 2nd reading
+  label_it: Trasmissione al PE del parere della Commissione sugli emendamenti del
+    PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/TRS_EP_OPIAME_R2_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_EP_PROPAME_byCOM
+  deprecated: 'false'
+  key: TRS_EP_PROPAME_byCOM
+  label_en: Transmission to EP of amended proposal
+  label_it: Trasmissione al PE della proposta modificata
+  url: http://publications.europa.eu/resource/authority/event/TRS_EP_PROPAME_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_EP_PROREEX_byCOM
+  deprecated: 'false'
+  key: TRS_EP_PROREEX_byCOM
+  label_en: Transmission to EP of re-examined proposal
+  label_it: Trasmissione al PE della proposta riesaminata
+  url: http://publications.europa.eu/resource/authority/event/TRS_EP_PROREEX_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_EP_byCOM
+  deprecated: 'false'
+  key: TRS_EP_byCOM
+  label_en: Transmission to Parliament
+  label_it: Trasmissione al PE
+  url: http://publications.europa.eu/resource/authority/event/TRS_EP_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_OMB_byCOM
+  deprecated: 'false'
+  key: TRS_OMB_byCOM
+  label_en: Transmission to European Ombudsman
+  label_it: Trasmissione al Mediatore europeo
+  url: http://publications.europa.eu/resource/authority/event/TRS_OMB_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toCONSIL_CC_R1_byCOM
+  deprecated: 'false'
+  key: TRS_toCONSIL_CC_R1_byCOM
+  label_en: "Transmission to Council of Commission communication on Council\u2019\
+    s position at 1st reading"
+  label_it: Trasmissione al Consiglio della comunicazione della Commissione sulla
+    posizione del Consiglio in prima lettura
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_CC_R1_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toCONSIL_COMPOS_byCOM
+  deprecated: 'false'
+  key: TRS_toCONSIL_COMPOS_byCOM
+  label_en: Transmission to Council of declaration on common position
+  label_it: Trasmissione al Consiglio della dichiarazione su posizione comune
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_COMPOS_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toCONSIL_OP_R2_byCOM
+  deprecated: 'false'
+  key: TRS_toCONSIL_OP_R2_byCOM
+  label_en: Transmission to Council of Commission opinion on EP amendments on 2nd
+    reading
+  label_it: Trasmissione al Consiglio del parere della Commissione su emendamenti
+    del PE in seconda lettura
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_OP_R2_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toCONSIL_PROPAME_byCOM
+  deprecated: 'false'
+  key: TRS_toCONSIL_PROPAME_byCOM
+  label_en: Transmission of the amended proposal to the Council
+  label_it: Trasmissione al Consiglio della proposta modificata
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_PROPAME_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toCONSIL_PROREEX_byCOM
+  deprecated: 'false'
+  key: TRS_toCONSIL_PROREEX_byCOM
+  label_en: Transmission of the re-examined proposal to the Council
+  label_it: Trasmissione al Consiglio della proposta riesaminata
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_PROREEX_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toCONSIL__byCOM
+  deprecated: 'true'
+  key: TRS_toCONSIL__byCOM
+  label_en: Transmission to the European Council
+  label_it: Trasmissione al Consiglio europeo
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL__byCOM
+  valid_from: '1967-06-30'
+  valid_until: '1967-07-01'
+- country_code: TRS_toCONSIL_byCOM
+  deprecated: 'false'
+  key: TRS_toCONSIL_byCOM
+  label_en: Transmission to Council
+  label_it: Trasmissione al Consiglio
+  url: http://publications.europa.eu/resource/authority/event/TRS_toCONSIL_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toEP_CONSIL_PROPAME_byCOM
+  deprecated: 'false'
+  key: TRS_toEP_CONSIL_PROPAME_byCOM
+  label_en: Transmission of amended proposal to the European Parliament and to the
+    Council
+  label_it: Trasmissione della proposta modificata al Parlamento europeo e al Consiglio
+  url: http://publications.europa.eu/resource/authority/event/TRS_toEP_CONSIL_PROPAME_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toEP_CONSIL_PROP_byCOM
+  deprecated: 'false'
+  key: TRS_toEP_CONSIL_PROP_byCOM
+  label_en: Transmission of proposal to the European Parliament and to the Council
+  label_it: Trasmissione della proposta al Parlamento europeo e al Consiglio
+  url: http://publications.europa.eu/resource/authority/event/TRS_toEP_CONSIL_PROP_byCOM
+  valid_from: '1967-07-01'
+- country_code: TRS_toEURCOU_byCOM
+  deprecated: 'false'
+  key: TRS_toEURCOU_byCOM
+  label_en: Transmission to the European Council
+  label_it: Trasmissione al Consiglio europeo
+  url: http://publications.europa.eu/resource/authority/event/TRS_toEURCOU_byCOM
+  valid_from: '1967-07-01'
+- country_code: WDW_LIS_byCOM
+  deprecated: 'false'
+  key: WDW_LIS_byCOM
+  label_en: Withdrawal by the Commission following entry into force of the Lisbon
+    Treaty
+  label_it: Ritiro da parte della Commissione in seguito all'entrata in vigore del
+    trattato di Lisbona
+  url: http://publications.europa.eu/resource/authority/event/WDW_LIS_byCOM
+  valid_from: '1967-07-01'
+- country_code: WDW_PAR_byCOM
+  deprecated: 'false'
+  key: WDW_PAR_byCOM
+  label_en: Partial withdrawal by Commission
+  label_it: Ritiro parziale da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/WDW_PAR_byCOM
+  valid_from: '1967-07-01'
+- country_code: WDW_byCOM
+  deprecated: 'false'
+  key: WDW_byCOM
+  label_en: Withdrawal by Commission
+  label_it: Ritiro da parte della Commissione
+  url: http://publications.europa.eu/resource/authority/event/WDW_byCOM
+  valid_from: '1967-07-01'

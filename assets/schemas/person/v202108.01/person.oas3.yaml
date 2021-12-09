@@ -1,0 +1,101 @@
+#
+# This schema is in OpenAPI 3.0 format
+#   and can be referred via #/components/schemas/Person
+#
+openapi: 3.0.3
+info:
+  title: The Person schema
+  version: 202108.01.00
+  x-summary: A minimal Person schema compliant with CPV ontology.
+  license:
+    name: BSD3
+    url: https://opensource.org/licenses/BSD-3-Clause
+  termsOfService: https://opensource.org/licenses/BSD-3-Clause
+  contact:
+    name: Roberto Polli
+    email: robipolli@gmail.com
+    url: http://spcdata.digitpa.gov.it/Amministrazione/agid
+  description: |-
+    This Person schema is derived from the [CPV/Person](https://w3id.org/italia/onto/CPV/Person) ontology.
+
+    This description field can be rendered in markdown or in text-only in catalogues
+    and other interfaces.
+paths: {}
+servers: []
+tags: []
+components:
+  schemas:
+    TaxCode:
+      type: string
+      x-refersTo: https://w3id.org/italia/onto/CPV/taxCode
+      description: Il codice fiscale.
+      example: RSSMRA75L01H501A
+      maxLength: 16
+      minLength: 11
+    Parent:
+      x-jsonld-context:
+        "@vocab": "https://w3id.org/italia/onto/CPV/"
+        parent_id: taxCode
+      type: string
+      x-refersTo: https://w3id.org/italia/onto/CPV/Person
+      description: |-
+        Uno schema semplificato per associare una sola chiave
+        che identifica un genitore.
+      additionalProperties: false
+      required:
+        - parent_id
+      properties:
+        parent_id:
+          $ref: "#/components/schemas/TaxCode"
+    Person:
+      type: object
+      x-refersTo: https://w3id.org/italia/onto/CPV/Person
+      # This custom property defines the associated json-ld
+      #   context that can be used to semantically describe
+      #   the instances.
+      x-jsonld-context:
+        "@vocab": "https://w3id.org/italia/onto/CPV/"
+        tax_code: taxCode
+        date_of_birth: dateOfBirth
+        given_name: givenName
+        family_name: familyName
+        children:
+          "@id": hasChildren
+        parents:
+          "@id": hasParents
+      additionalProperties: false
+      description: |-
+          Questo schema rappresenta una persona fisica.
+      required:
+      - given_name
+      - family_name
+      - tax_code
+      properties:
+        tax_code:
+          $ref: "#/components/schemas/TaxCode"
+        date_of_birth:
+          x-refersTo: https://w3id.org/italia/onto/CPV/dateOfBirth
+          format: date
+          type: string
+        family_name:
+          x-refersTo: https://w3id.org/italia/onto/CPV/familyName
+          maxLength: 255
+          type: string
+        given_name:
+          x-refersTo: https://w3id.org/italia/onto/CPV/givenName
+          maxLength: 255
+          type: string
+        children:
+          x-refersTo: https://w3id.org/italia/onto/CPV/hasChildren
+          type: array
+          items:
+            $ref: "#/components/schemas/Person"
+          minItems: 0
+          maxItems: 50
+        parents:
+          x-refersTo: https://w3id.org/italia/onto/CPV/hasParents
+          type: array
+          items:
+            $ref: "#/components/schemas/Parent"
+          maxItems: 2
+          minItems: 0

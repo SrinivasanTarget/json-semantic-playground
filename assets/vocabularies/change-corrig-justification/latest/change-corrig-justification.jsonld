@@ -1,0 +1,1824 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/update-add",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "update-add"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "update-add"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "update-add"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "update-add"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Актуализирана или допълнителна информация."
+      },
+      {
+        "@language": "cs",
+        "@value": "Aktualizované nebo dodatečné informace."
+      },
+      {
+        "@language": "da",
+        "@value": "Ajourførte supplerende oplysninger."
+      },
+      {
+        "@language": "de",
+        "@value": "Aktualisierte oder zusätzliche Informationen."
+      },
+      {
+        "@language": "el",
+        "@value": "Επικαιροποιημένες ή συμπληρωματικές πληροφορίες."
+      },
+      {
+        "@language": "en",
+        "@value": "Updated or additional information."
+      },
+      {
+        "@language": "es",
+        "@value": "Información actualizada o adicional."
+      },
+      {
+        "@language": "et",
+        "@value": "Ajakohastatud või täiendav teave."
+      },
+      {
+        "@language": "fi",
+        "@value": "Ajantasaiset tai täydentävät tiedot."
+      },
+      {
+        "@language": "fr",
+        "@value": "Mise à jour ou ajout d’informations."
+      },
+      {
+        "@language": "ga",
+        "@value": "Faisnéis nuashonraithe nó bhreise."
+      },
+      {
+        "@language": "hr",
+        "@value": "Ažurirane ili dodatne informacije."
+      },
+      {
+        "@language": "hu",
+        "@value": "Frissített vagy további információ."
+      },
+      {
+        "@language": "it",
+        "@value": "Informazioni supplementari o aggiornate."
+      },
+      {
+        "@language": "lt",
+        "@value": "Atnaujinta arba papildoma informacija."
+      },
+      {
+        "@language": "lv",
+        "@value": "Informācijas atjaunināšana vai papildu informācijas sniegšana."
+      },
+      {
+        "@language": "mt",
+        "@value": "Informazzjoni aġġornata jew addizzjonali."
+      },
+      {
+        "@language": "nl",
+        "@value": "Bijgewerkte of aanvullende informatie."
+      },
+      {
+        "@language": "pl",
+        "@value": "Aktualizacja lub uzupełnienie informacji."
+      },
+      {
+        "@language": "pt",
+        "@value": "Informações atualizadas ou adicionais."
+      },
+      {
+        "@language": "ro",
+        "@value": "Informații actualizate sau suplimentare."
+      },
+      {
+        "@language": "sk",
+        "@value": "Aktualizované alebo doplňujúce informácie."
+      },
+      {
+        "@language": "sl",
+        "@value": "Posodobitev podatkov ali dodatni podatki."
+      },
+      {
+        "@language": "sv",
+        "@value": "Uppdaterad eller kompletterande information."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Актуализирана информация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Informace aktualizovány"
+      },
+      {
+        "@language": "da",
+        "@value": "Ajourførte oplysninger"
+      },
+      {
+        "@language": "de",
+        "@value": "Aktualisierte Informationen"
+      },
+      {
+        "@language": "el",
+        "@value": "Ενημερωμένες πληροφορίες"
+      },
+      {
+        "@language": "en",
+        "@value": "Information updated"
+      },
+      {
+        "@language": "es",
+        "@value": "Información actualizada"
+      },
+      {
+        "@language": "et",
+        "@value": "Teave ajakohastatud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ajantasaiset tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Mise à jour d’informations"
+      },
+      {
+        "@language": "ga",
+        "@value": "Faisnéis nuashonraithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ažurirane informacije"
+      },
+      {
+        "@language": "hu",
+        "@value": "Frissített információ"
+      },
+      {
+        "@language": "it",
+        "@value": "Aggiornamento informazioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atnaujinta informacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Informācija atjaunināta"
+      },
+      {
+        "@language": "mt",
+        "@value": "Informazzjoni aġġornata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Informatie bijgewerkt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Aktualizacja informacji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Informações atualizadas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Informații actualizate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Aktualizované informácie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Posodobitev informacij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Information uppdaterad"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/cancel-intent",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cancel-intent"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cancel-intent"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cancel-intent"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cancel-intent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Купувачът възнамерява да отмени поръчката."
+      },
+      {
+        "@language": "cs",
+        "@value": "Kupující zamýšlí zadávací řízení zrušit."
+      },
+      {
+        "@language": "da",
+        "@value": "Køber har til hensigt at annullere udbuddet."
+      },
+      {
+        "@language": "de",
+        "@value": "Der Beschaffer beabsichtigt, die Auftragsvergabe zu annullieren."
+      },
+      {
+        "@language": "el",
+        "@value": "Ο αγοραστής προτίθεται να ακυρώσει τη σύμβαση."
+      },
+      {
+        "@language": "en",
+        "@value": "The buyer intends to cancel the procurement."
+      },
+      {
+        "@language": "es",
+        "@value": "El comprador tiene la intención de cancelar la contratación."
+      },
+      {
+        "@language": "et",
+        "@value": "Hankija kavatseb hanke tühistada."
+      },
+      {
+        "@language": "fi",
+        "@value": "Ostaja aikoo peruuttaa hankinnan."
+      },
+      {
+        "@language": "fr",
+        "@value": "L’acheteur a l’intention d’annuler le marché."
+      },
+      {
+        "@language": "ga",
+        "@value": "Tá sé beartaithe ag an gceannaitheoir an soláthar a chur ar ceal."
+      },
+      {
+        "@language": "hr",
+        "@value": "Kupac namjerava poništiti postupak javne nabave."
+      },
+      {
+        "@language": "hu",
+        "@value": "A vevő törölni kívánja a közbeszerzést."
+      },
+      {
+        "@language": "it",
+        "@value": "Il committente intende annullare l'appalto."
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirkėjas ketina nutraukti pirkimo procedūrą."
+      },
+      {
+        "@language": "lv",
+        "@value": "Pircējs plāno atcelt iepirkumu."
+      },
+      {
+        "@language": "mt",
+        "@value": "Ix-xerrej biħsiebu jikkanċella l-akkwist."
+      },
+      {
+        "@language": "nl",
+        "@value": "De koper is voornemens de opdracht te annuleren."
+      },
+      {
+        "@language": "pl",
+        "@value": "Nabywca zamierza unieważnić postępowanie."
+      },
+      {
+        "@language": "pt",
+        "@value": "O adquirente tenciona cancelar o contrato."
+      },
+      {
+        "@language": "ro",
+        "@value": "Cumpărătorul intenționează să anuleze achiziția."
+      },
+      {
+        "@language": "sk",
+        "@value": "Kupujúci má v úmysle toto obstarávanie zrušiť."
+      },
+      {
+        "@language": "sl",
+        "@value": "Kupec namerava preklicati javno naročilo."
+      },
+      {
+        "@language": "sv",
+        "@value": "Upphandlaren har för avsikt att ställa in upphandlingen."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Намерение за отмяна"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zamýšlené zrušení"
+      },
+      {
+        "@language": "da",
+        "@value": "Hensigt om annullering"
+      },
+      {
+        "@language": "de",
+        "@value": "Annullierung beabsichtigt"
+      },
+      {
+        "@language": "el",
+        "@value": "Πρόθεση ακύρωσης"
+      },
+      {
+        "@language": "en",
+        "@value": "Cancellation intention"
+      },
+      {
+        "@language": "es",
+        "@value": "Intención de cancelación"
+      },
+      {
+        "@language": "et",
+        "@value": "Tühistamiskatse"
+      },
+      {
+        "@language": "fi",
+        "@value": "Peruutusaikomus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Intention d’annuler"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cur ar ceal beartaithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Planirano poništenje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Törlési szándék"
+      },
+      {
+        "@language": "it",
+        "@value": "Previsto annullamento"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ketinimas atšaukti pirkimą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atcelšanas nodoms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Intenzjoni tal-kanċellazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Annulering voorgenomen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zamiar unieważnienia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Intenção de cancelamento"
+      },
+      {
+        "@language": "ro",
+        "@value": "Intenție de anulare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Úmysel zrušiť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Nameravan preklic"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avsikt att ställa in"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/info-release",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "info-release"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "info-release"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "info-release"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "info-release"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публикуване на информация, което първоначално е било отложено по причини, свързани с принудителни мерки, търговски интереси на икономически оператор, лоялна конкуренция или друг обществен интерес."
+      },
+      {
+        "@language": "cs",
+        "@value": "Uveřejnění informací, které bylo dříve odloženo z důvodů vymahatelnosti práva, obchodních zájmů hospodářského subjektu, poctivé hospodářské soutěže nebo jiného veřejného zájmu."
+      },
+      {
+        "@language": "da",
+        "@value": "Offentliggørelse af oplysninger, som oprindeligt blev udsat af hensyn til retshåndhævelsen, en økonomisk aktørs forretningsmæssige interesser, fair konkurrence eller andre almene hensyn."
+      },
+      {
+        "@language": "de",
+        "@value": "Veröffentlichung von Informationen, die ursprünglich aus Gründen der Strafverfolgung, der geschäftlichen Interessen eines Wirtschaftsteilnehmers, des lauteren Wettbewerbs oder des sonstigen öffentlichen Interesses verschoben worden war."
+      },
+      {
+        "@language": "el",
+        "@value": "Δημοσίευση πληροφοριών που είχε αρχικά αναβληθεί για λόγους επιβολής του νόμου, εμπορικού συμφέροντος οικονομικού φορέα, θεμιτού ανταγωνισμού ή άλλου δημόσιου συμφέροντος."
+      },
+      {
+        "@language": "en",
+        "@value": "Publication of information which was originally postponed for reasons of law enforcement, commercial interests of an economic operator, fair competition or other public interest."
+      },
+      {
+        "@language": "es",
+        "@value": "Publicación de información que se pospuso inicialmente por motivos de aplicación de la legislación, intereses comerciales de un operador económico, competencia leal u otro interés público."
+      },
+      {
+        "@language": "et",
+        "@value": "Algselt õiguskaitse, ettevõtja ärihuvide, ausa konkurentsi või muu avaliku huvi tõttu avaldamata jäänud teabe avaldamine."
+      },
+      {
+        "@language": "fi",
+        "@value": "Alun perin lainvalvonnan, talouden toimijan kaupallisten etujen, tasapuolisen kilpailun tai muun yleisen edun vuoksi julkaisematta jätettyjen tietojen julkaiseminen."
+      },
+      {
+        "@language": "fr",
+        "@value": "Publication d’informations dont la publication avait été initialement reportée pour des raisons d’application de la législation, d’intérêts commerciaux d’un opérateur économique, de concurrence loyale ou d’autres raisons d’intérêt public."
+      },
+      {
+        "@language": "ga",
+        "@value": "Foilsiú faisnéise a cuireadh ar athló ar dtús ar chúiseanna a bhaineann le forfheidhmiú an dlí, leasanna tráchtála oibreora eacnamaíoch, iomaíocht chóir nó leas poiblí eile."
+      },
+      {
+        "@language": "hr",
+        "@value": "Objava informacija koja je prvotno odgođena zbog izvršavanja zakonodavstva, komercijalnih interesa gospodarskog subjekta, poštenog tržišnog natjecanja ili nekog drugog javnog interesa."
+      },
+      {
+        "@language": "hu",
+        "@value": "Az eredetileg bűnüldözési célokból, a gazdasági szereplő kereskedelmi érdekei, a tisztességes verseny vagy egyéb közérdek miatt későbbre halasztott információ közzététele."
+      },
+      {
+        "@language": "it",
+        "@value": "Pubblicazione di informazioni, originariamente rinviata per ostacoli all'applicazione della legge, interessi commerciali di un operatore economico, considerazioni di concorrenza leale o altro motivo di interesse pubblico."
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbiama informacija, kurios skelbimas buvo atidėtas dėl su teisėsauga, ekonominės veiklos vykdytojo komerciniais interesais, sąžininga konkurencija ar kitu viešuoju interesu susijusių priežasčių."
+      },
+      {
+        "@language": "lv",
+        "@value": "Tādas informācijas publicēšana, kura sākotnēji netika publicēta tiesībaizsardzības, ekonomikas dalībnieka komercinterešu, godīgas konkurences vai citu sabiedrības interešu dēļ."
+      },
+      {
+        "@language": "mt",
+        "@value": "Pubblikazzjoni ta’ informazzjoni li oriġinarjament kienet ġiet posposta għal raġunijiet ta’ infurzar tal-liġi, interessi kummerċjali ta’ operatur ekonomiku, kompetizzjoni ġusta jew interess pubbliku Ieħor."
+      },
+      {
+        "@language": "nl",
+        "@value": "Bekendmaking van informatie die oorspronkelijk was uitgesteld om redenen van rechtshandhaving, commerciële belangen van een ondernemer, eerlijke mededinging of een ander openbaar belang."
+      },
+      {
+        "@language": "pl",
+        "@value": "Publikacja informacji, która została pierwotnie odroczona ze względu na kwestie egzekwowania prawa, interesów handlowych podmiotu gospodarczego, uczciwej konkurencji lub innego interesu publicznego."
+      },
+      {
+        "@language": "pt",
+        "@value": "Publicação de informações que foi inicialmente adiada por razões relacionadas com a aplicação da lei, interesses comerciais de um operador económico, concorrência leal ou outro interesse público."
+      },
+      {
+        "@language": "ro",
+        "@value": "Publicarea unor informații care au fost inițial amânate din motive legate de asigurarea respectării legii, de interesele comerciale ale unui operator economic, de concurența loială sau de alte interese publice."
+      },
+      {
+        "@language": "sk",
+        "@value": "Uverejnenie informácií, ktoré bolo pôvodne odložené z dôvodu presadzovania práva, obchodných záujmov hospodárskeho subjektu, spravodlivej súťaže alebo iného verejného záujmu."
+      },
+      {
+        "@language": "sl",
+        "@value": "Objava informacij, ki je bila prvotno odložena zaradi preprečevanja, odkrivanja in preiskovanja kaznivih dejanj, poslovnih interesov gospodarskega subjekta, poštene konkurence ali drugega javnega interesa."
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentliggörande av information som ursprungligen senarelagts av skäl som rör brottsbekämpning, en ekonomisk aktörs kommersiella intressen, rättvis konkurrens eller annat av allmänt intresse."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Наличие на информация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dostupnost informací"
+      },
+      {
+        "@language": "da",
+        "@value": "Oplysningernes tilgængelighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Verfügbarkeit von Informationen"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαθεσιμότητα πληροφοριών"
+      },
+      {
+        "@language": "en",
+        "@value": "Availability information"
+      },
+      {
+        "@language": "es",
+        "@value": "Disponibilidad de información"
+      },
+      {
+        "@language": "et",
+        "@value": "Teabe kättesaadavus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tietojen saatavuus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Disponibilité d’informations"
+      },
+      {
+        "@language": "ga",
+        "@value": "Infhaighteacht faisnéise"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dostupnost informacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Az információ elérhetősége"
+      },
+      {
+        "@language": "it",
+        "@value": "Disponibilità di informazioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Informacijos paskelbimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Informācijas pieejamība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Disponibbiltà tal-informazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Beschikbaarheid van informatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dostępność informacji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Disponibilidade de informações"
+      },
+      {
+        "@language": "ro",
+        "@value": "Disponibilitatea informațiilor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dostupnosť informácií"
+      },
+      {
+        "@language": "sl",
+        "@value": "Razpoložljivost informacij"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillgång till information"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Change corrig justification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "change-corrig-justification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20200923-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Change corrig justification"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20200923-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Change corrig justification"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/cor-pub",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cor-pub"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cor-pub"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cor-pub"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cor-pub"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Поправка на една или повече грешки, допуснати първоначално от издателя."
+      },
+      {
+        "@language": "cs",
+        "@value": "Oprava jedné či více chyb, které učinil vydavatel."
+      },
+      {
+        "@language": "da",
+        "@value": "Berigtigelse af én eller flere fejl, der oprindeligt blev lavet af udgiver."
+      },
+      {
+        "@language": "de",
+        "@value": "Korrektur eines Fehlers oder mehrerer Fehler bei der Veröffentlichung."
+      },
+      {
+        "@language": "el",
+        "@value": "Διόρθωση ενός ή περισσοτέρων σφαλμάτων που είχαν γίνει αρχικά από τον υπεύθυνο δημοσίευσης."
+      },
+      {
+        "@language": "en",
+        "@value": "Correction of one or more mistakes originally made by the publisher."
+      },
+      {
+        "@language": "es",
+        "@value": "Corrección de uno o varios errores inicialmente cometidos por el encargado de la publicación."
+      },
+      {
+        "@language": "et",
+        "@value": "Avaldaja algselt tehtud ühe või mitme vea parandamine."
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkaisijan alun perin tekemän yhden tai useamman virheen korjaaminen."
+      },
+      {
+        "@language": "fr",
+        "@value": "Correction d’une ou de plusieurs erreurs commises à l’origine par l’éditeur."
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartú botúin amháin nó níos mó a rinne an foilsitheoir féin."
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispravak jedne ili više pogrešaka izdavača."
+      },
+      {
+        "@language": "hu",
+        "@value": "A közzétevő által eredetileg elkövetett egy vagy több hiba kijavítása."
+      },
+      {
+        "@language": "it",
+        "@value": "Rettifica di uno o più errori commessi originariamente dall'editore."
+      },
+      {
+        "@language": "lt",
+        "@value": "Vienos ar daugiau klaidų, kurias pirmiau padarė leidėjas, taisymas."
+      },
+      {
+        "@language": "lv",
+        "@value": "Publicētāja sākotnēji pieļautas kļūdas vai kļūdu labošana."
+      },
+      {
+        "@language": "mt",
+        "@value": "Korrezzjoni ta’ żball wieħed jew iktar li sar(u) oriġinarjament mill-pubblikatur."
+      },
+      {
+        "@language": "nl",
+        "@value": "Correctie van een of meer oorspronkelijk door het platform voor bekendmaking gemaakte fouten."
+      },
+      {
+        "@language": "pl",
+        "@value": "Korekta pomyłki lub pomyłek, które pierwotnie popełnił publikujący."
+      },
+      {
+        "@language": "pt",
+        "@value": "Correção de um ou mais erros cometidos inicialmente pelo editor."
+      },
+      {
+        "@language": "ro",
+        "@value": "Corectarea uneia sau a mai multor erori făcute inițial de către editor."
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprava jednej alebo viacerých chýb, ktoré pôvodne urobil vydavateľ."
+      },
+      {
+        "@language": "sl",
+        "@value": "Popravljanje napak, ki jih je prvotno naredil objavitelj."
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättelse av ett eller flera misstag som utgivaren ursprungligen gjorde."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Поправка на грешки, допуснати от издателя"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oprava chyb vydavatele"
+      },
+      {
+        "@language": "da",
+        "@value": "Berigtigelse – udgiver"
+      },
+      {
+        "@language": "de",
+        "@value": "Korrektur – Veröffentlichung"
+      },
+      {
+        "@language": "el",
+        "@value": "Διόρθωση λαθών εκδότη"
+      },
+      {
+        "@language": "en",
+        "@value": "Publisher correction"
+      },
+      {
+        "@language": "es",
+        "@value": "Corrección encargado publicación"
+      },
+      {
+        "@language": "et",
+        "@value": "Avaldaja vea parandamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkaisijan virheen korjaaminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Correction par l’éditeur"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartúchán - foilsitheoir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispravak pogreške izdavača"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közzétevői hiba javítása"
+      },
+      {
+        "@language": "it",
+        "@value": "Rettifica errore editore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbėjo klaidų ištaisymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publicētāja kļūdas izlabošana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korrezzjoni tal-pubblikatur"
+      },
+      {
+        "@language": "nl",
+        "@value": "Correctie platform voor bekendmaking"
+      },
+      {
+        "@language": "pl",
+        "@value": "Korekta publikującego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Correção pelo editor"
+      },
+      {
+        "@language": "ro",
+        "@value": "Corectare editor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprava chyby vydavateľa"
+      },
+      {
+        "@language": "sl",
+        "@value": "Popravek objavitelja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättelse av utgivare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/cor-esen",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cor-esen"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cor-esen"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cor-esen"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cor-esen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Поправка на една или повече грешки, допуснати първоначално от платформата eSender."
+      },
+      {
+        "@language": "cs",
+        "@value": "Oprava jedné či více chyb, které učinil eSender."
+      },
+      {
+        "@language": "da",
+        "@value": "Berigtigelse af én eller flere fejl, der oprindeligt blev lavet af eSender."
+      },
+      {
+        "@language": "de",
+        "@value": "Korrektur eines Fehlers oder mehrerer Fehler im eSender-System."
+      },
+      {
+        "@language": "el",
+        "@value": "Διόρθωση ενός ή περισσοτέρων σφαλμάτων που είχαν γίνει αρχικά από το σύστημα eSender."
+      },
+      {
+        "@language": "en",
+        "@value": "Correction of one or more mistakes originally made by the eSender."
+      },
+      {
+        "@language": "es",
+        "@value": "Corrección de uno o varios errores inicialmente cometidos por el eSender."
+      },
+      {
+        "@language": "et",
+        "@value": "Süsteemi eSender algselt tehtud ühe või mitme vea parandamine."
+      },
+      {
+        "@language": "fi",
+        "@value": "eSender-lähestyspalvelun alun perin tekemän yhden tai useamman virheen korjaaminen."
+      },
+      {
+        "@language": "fr",
+        "@value": "Correction d’une ou de plusieurs erreurs commises à l’origine par l’eSender."
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartú botúin amháin nó níos mó a rinne an eSender féin."
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispravak jedne ili više pogrešaka u okviru sustava eSender (ePošiljatelj)."
+      },
+      {
+        "@language": "hu",
+        "@value": "Az eSender által eredetileg elkövetett egy vagy több hiba kijavítása."
+      },
+      {
+        "@language": "it",
+        "@value": "Rettifica di uno o più errori commessi originariamente dall'eSender."
+      },
+      {
+        "@language": "lt",
+        "@value": "Vienos ar daugiau klaidų, kurias pirmiau padarė elektroninių formų siuntėjas, taisymas."
+      },
+      {
+        "@language": "lv",
+        "@value": "E-sūtītāja sākotnēji pieļautas kļūdas vai kļūdu labošana."
+      },
+      {
+        "@language": "mt",
+        "@value": "Korrezzjoni ta’ żball wieħed jew iktar li sar(u) oriġinarjament mill-mezz li bih jintbagħtu l-avviżi b’mod elettroniku."
+      },
+      {
+        "@language": "nl",
+        "@value": "Correctie van een of meer oorspronkelijk door het eSender-platform gemaakte fouten."
+      },
+      {
+        "@language": "pl",
+        "@value": "Korekta pomyłki lub pomyłek, które pierwotnie popełnił eSender."
+      },
+      {
+        "@language": "pt",
+        "@value": "Correção de um ou mais erros cometidos inicialmente pelo eSender."
+      },
+      {
+        "@language": "ro",
+        "@value": "Corectarea uneia sau a mai multor erori făcute inițial de către eSender."
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprava jednej alebo viacerých chýb, ktoré pôvodne urobil eSender."
+      },
+      {
+        "@language": "sl",
+        "@value": "Popravljanje napak, ki jih je prvotno naredil sistem eSender."
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättelse av ett eller flera misstag som eSender ursprungligen gjorde."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Поправка на грешки, допуснати от платформата eSender"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oprava chyb eSendera"
+      },
+      {
+        "@language": "da",
+        "@value": "Berigtigelse – eSender"
+      },
+      {
+        "@language": "de",
+        "@value": "Korrektur – eSender"
+      },
+      {
+        "@language": "el",
+        "@value": "Διόρθωση λαθών του συστήματος eSender"
+      },
+      {
+        "@language": "en",
+        "@value": "eSender correction"
+      },
+      {
+        "@language": "es",
+        "@value": "Corrección eSender"
+      },
+      {
+        "@language": "et",
+        "@value": "Süsteemi eSender vea parandamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "eSender-virheen korjaaminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Correction par l’eSender"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartúchán - eSender"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispravak pogreške sustava eSender"
+      },
+      {
+        "@language": "hu",
+        "@value": "eSender hiba javítása"
+      },
+      {
+        "@language": "it",
+        "@value": "Rettifica errore eSender"
+      },
+      {
+        "@language": "lt",
+        "@value": "E. formų siuntėjo klaidų ištaisymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "E-sūtītāja kļūdas izlabošana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korrezzjoni tal-mezz li bih jintbagħtu l-avviżi b’mod elettroniku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Correctie eSender"
+      },
+      {
+        "@language": "pl",
+        "@value": "Korekta eSendera"
+      },
+      {
+        "@language": "pt",
+        "@value": "Correção pelo eSender"
+      },
+      {
+        "@language": "ro",
+        "@value": "Corectare eSender"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprava chyby eSendera"
+      },
+      {
+        "@language": "sl",
+        "@value": "Popravek sistema eSender"
+      },
+      {
+        "@language": "sv",
+        "@value": "eSender-rättelse"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/cancel",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cancel"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cancel"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cancel"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cancel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обявлението (или обособена позиция, или част от него) е отменено."
+      },
+      {
+        "@language": "cs",
+        "@value": "Oznámení (nebo jeho konkrétní část) je zrušeno."
+      },
+      {
+        "@language": "da",
+        "@value": "Meddelelsen (eller den specifikke delkontrakt eller del heraf) er blevet annulleret."
+      },
+      {
+        "@language": "de",
+        "@value": "Die Bekanntmachung (bzw. spezifisches Los oder spezifischer Abschnitt) wird annulliert."
+      },
+      {
+        "@language": "el",
+        "@value": "Η σύμβαση (ή το συγκεκριμένο τμήμα ή μέρος της) ματαιώνεται."
+      },
+      {
+        "@language": "en",
+        "@value": "The notice (or its specific lot or part) is cancelled."
+      },
+      {
+        "@language": "es",
+        "@value": "El anuncio (o un lote o una parte determinados de él) ha sido cancelado."
+      },
+      {
+        "@language": "et",
+        "@value": "Hanketeade (või selle konkreetne osa) on tühistatud."
+      },
+      {
+        "@language": "fi",
+        "@value": "Ilmoitus (tai sen erä tai osa) peruutetaan."
+      },
+      {
+        "@language": "fr",
+        "@value": "L’avis (ou un lot ou une partie spécifique) est annulé."
+      },
+      {
+        "@language": "ga",
+        "@value": "Tá an fógra (nó luchtóg shonrach nó cuid shonrach de) curtha ar ceal."
+      },
+      {
+        "@language": "hr",
+        "@value": "Obavijest (ili njezina određena grupa ili dio) je otkazana."
+      },
+      {
+        "@language": "hu",
+        "@value": "A hirdetményt (vagy annak adott tételét vagy részét) törölték."
+      },
+      {
+        "@language": "it",
+        "@value": "Il bando (o un suo lotto specifico o una sua parte specifica) è annullato."
+      },
+      {
+        "@language": "lt",
+        "@value": "Skelbimas (jo dalis arba jame skelbiamo pirkimo dalis) atšaukiamas."
+      },
+      {
+        "@language": "lv",
+        "@value": "Paziņojums (vai tajā norādītā konkrētā daļa vai sadaļa) ir atcelts."
+      },
+      {
+        "@language": "mt",
+        "@value": "L-avviż (jew il-lott speċifiku jew il-parti speċifika tiegħu) ġie kkanċellat."
+      },
+      {
+        "@language": "nl",
+        "@value": "De aankondiging (of het specifieke perceel of onderdeel ervan) wordt geannuleerd."
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogłoszenie (lub określona część zamówienia lub część ogłoszenia) zostaje anulowane(-a)."
+      },
+      {
+        "@language": "pt",
+        "@value": "O anúncio (ou um lote ou parte específico do mesmo) é cancelado."
+      },
+      {
+        "@language": "ro",
+        "@value": "Anunțul [sau lotul ori partea sa specifică] este anulat."
+      },
+      {
+        "@language": "sk",
+        "@value": "Obstarávanie (alebo jeho konkrétna časť) sa ruší."
+      },
+      {
+        "@language": "sl",
+        "@value": "Obvestilo (ali njegov poseben sklop ali del) je preklicano."
+      },
+      {
+        "@language": "sv",
+        "@value": "Meddelandet (eller dess särskilda delupphandlingsområde eller del av det) dras in."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отмяна"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zrušení"
+      },
+      {
+        "@language": "da",
+        "@value": "Annullering"
+      },
+      {
+        "@language": "de",
+        "@value": "Annullierung"
+      },
+      {
+        "@language": "el",
+        "@value": "Ακύρωση"
+      },
+      {
+        "@language": "en",
+        "@value": "Cancellation"
+      },
+      {
+        "@language": "es",
+        "@value": "Cancelación"
+      },
+      {
+        "@language": "et",
+        "@value": "Tühistamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Peruutus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Annulation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cur ar ceal"
+      },
+      {
+        "@language": "hr",
+        "@value": "Poništenje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Törlés"
+      },
+      {
+        "@language": "it",
+        "@value": "Annullamento"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atšaukimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atcelšana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kanċellazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Geannuleerd"
+      },
+      {
+        "@language": "pl",
+        "@value": "Anulowanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Cancelamento"
+      },
+      {
+        "@language": "ro",
+        "@value": "Anulare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zrušenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Preklic"
+      },
+      {
+        "@language": "sv",
+        "@value": "Inställt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification/cor-buy",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cor-buy"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cor-buy"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cor-buy"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cor-buy"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Поправка на една или повече грешки, допуснати първоначално от купувача."
+      },
+      {
+        "@language": "cs",
+        "@value": "Oprava jedné či více chyb, které učinil kupující."
+      },
+      {
+        "@language": "da",
+        "@value": "Berigtigelse af én eller flere fejl, der oprindeligt blev lavet af køber."
+      },
+      {
+        "@language": "de",
+        "@value": "Korrektur eines Fehlers oder mehrerer Fehler seitens des Beschaffers."
+      },
+      {
+        "@language": "el",
+        "@value": "Διόρθωση ενός ή περισσοτέρων σφαλμάτων που είχαν γίνει αρχικά από τον αγοραστή."
+      },
+      {
+        "@language": "en",
+        "@value": "Correction of one or more mistakes originally made by the buyer."
+      },
+      {
+        "@language": "es",
+        "@value": "Corrección de uno o varios errores inicialmente cometidos por el comprador."
+      },
+      {
+        "@language": "et",
+        "@value": "Hankija algselt tehtud ühe või mitme vea parandamine."
+      },
+      {
+        "@language": "fi",
+        "@value": "Ostajan alun perin tekemän yhden tai useamman virheen korjaaminen."
+      },
+      {
+        "@language": "fr",
+        "@value": "Correction d’une ou de plusieurs erreurs commises à l’origine par l’acheteur."
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartú botúin amháin nó níos mó a rinne an ceannaitheoir féin."
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispravak jedne ili više pogrešaka kupca."
+      },
+      {
+        "@language": "hu",
+        "@value": "A vevő által eredetileg elkövetett egy vagy több hiba kijavítása."
+      },
+      {
+        "@language": "it",
+        "@value": "Rettifica di uno o più errori commessi originariamente dal committente."
+      },
+      {
+        "@language": "lt",
+        "@value": "Vienos ar daugiau klaidų, kurias pirmiau padarė pirkėjas, taisymas."
+      },
+      {
+        "@language": "lv",
+        "@value": "Pircēja sākotnēji pieļautas kļūdas vai kļūdu labošana."
+      },
+      {
+        "@language": "mt",
+        "@value": "Korrezzjoni ta’ żball wieħed jew iktar li sar(u) oriġinarjament mix-xerrej."
+      },
+      {
+        "@language": "nl",
+        "@value": "Correctie van een of meer oorspronkelijk door de koper gemaakte fouten."
+      },
+      {
+        "@language": "pl",
+        "@value": "Korekta pomyłki lub pomyłek, które pierwotnie popełnił nabywca."
+      },
+      {
+        "@language": "pt",
+        "@value": "Correção de um ou mais erros cometidos inicialmente pelo adquirente."
+      },
+      {
+        "@language": "ro",
+        "@value": "Corectarea uneia sau a mai multor erori făcute inițial de către cumpărător."
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprava jednej alebo viacerých chýb, ktoré pôvodne urobil kupujúci."
+      },
+      {
+        "@language": "sl",
+        "@value": "Popravljanje napak, ki jih je prvotno naredil kupec."
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättelse av ett eller flera misstag som upphandlaren ursprungligen gjorde."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/change-corrig-justification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Поправка на грешки, допуснати от купувача"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oprava chyb kupujícího"
+      },
+      {
+        "@language": "da",
+        "@value": "Berigtigelse – køber"
+      },
+      {
+        "@language": "de",
+        "@value": "Korrektur – Beschaffer"
+      },
+      {
+        "@language": "el",
+        "@value": "Διόρθωση λαθών αγοραστή"
+      },
+      {
+        "@language": "en",
+        "@value": "Buyer correction"
+      },
+      {
+        "@language": "es",
+        "@value": "Corrección comprador"
+      },
+      {
+        "@language": "et",
+        "@value": "Hankija vea parandamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ostajan virheen korjaaminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Correction par l’acheteur"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartúchán - ceannaitheoir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ispravak pogreške kupca"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlatkérő szervezet általi hiba javítása"
+      },
+      {
+        "@language": "it",
+        "@value": "Rettifica errore committente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirkėjo klaidų ištaisymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pircēja kļūdas izlabošana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korrezzjoni tax-xerrej"
+      },
+      {
+        "@language": "nl",
+        "@value": "Correctie koper"
+      },
+      {
+        "@language": "pl",
+        "@value": "Korekta nabywcy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Correção pelo adquirente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Corectare cumpărător"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprava chyby kupujúceho"
+      },
+      {
+        "@language": "sl",
+        "@value": "Popravek kupca"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättelse av upphandlare"
+      }
+    ]
+  }
+]

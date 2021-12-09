@@ -1,0 +1,314 @@
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wedstrijden en prijsuitreikingen"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expositions"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://publications.europa.eu/resource/authority/op-code> "POLITICAL_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concours et c\u00E9r\u00E9monies de remise de prix"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://purl.org/dc/elements/1.1/identifier> "PUBLIC_DEBATE" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampanja-avajaiset"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://publications.europa.eu/ontology/authority/op-code> "CONFERENCE_SUMMIT" .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odborn\u00E1 p\u0159\u00EDprava a semin\u00E1\u0159e"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://www.w3.org/2000/01/rdf-schema#label> "Public event type"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://publications.europa.eu/ontology/authority/authority-code> "CONFERENCE_SUMMIT" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utst\u00E4llningar"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Campagnestartevenementen"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Razstave"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#definition> "Training and workshops include public events such as training, summer schools, webinars, workshops and seminars."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seolta\u00ED feachtas"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kurser og workshopper"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kamp\u00E1nyind\u00EDt\u00F3 rendezv\u00E9nyek"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taispe\u00E1ntais"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conferin\u021Be \u0219i reuniuni la nivel \u00EEnalt"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041A\u043E\u043D\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u0438 \u0438 \u0441\u0440\u0435\u0449\u0438 \u043D\u0430 \u0432\u0438\u0441\u043E\u043A\u043E \u0440\u0430\u0432\u043D\u0438\u0449\u0435"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partnerski sastanci"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politiskas san\u0101ksmes"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://publications.europa.eu/ontology/authority/start.use> "2020-11-01" .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://publications.europa.eu/ontology/authority/table.id> "public-event-type" .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jornadas informativas"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exhibitions"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://purl.org/dc/elements/1.1/identifier> "POLITICAL_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Training and workshops"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferencijos ir auk\u0161\u010Diausiojo lygio susitikimai"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03BA\u03C0\u03B1\u03B9\u03B4\u03B5\u03C5\u03C4\u03B9\u03BA\u03AC \u03C3\u03B5\u03BC\u03B9\u03BD\u03AC\u03C1\u03B9\u03B1 \u03BA\u03B1\u03B9 \u03B5\u03C1\u03B3\u03B1\u03C3\u03C4\u03AE\u03C1\u03B9\u03B1"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natjecanja i sve\u010Danosti dodjele nagrada"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://publications.europa.eu/resource/authority/op-code> "CONFERENCE_SUMMIT" .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atkl\u0101tas debates"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://publications.europa.eu/ontology/authority/authority-code> "TRAINING_WORKSHOP" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0442\u0430\u0440\u0442\u0438\u0440\u0430\u043D\u0435 \u043D\u0430 \u043A\u0430\u043C\u043F\u0430\u043D\u0438\u0438"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conferencias y cumbres"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lansarea unei campanii"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041A\u043E\u043D\u043A\u0443\u0440\u0441\u0438 \u0438 \u0446\u0435\u0440\u0435\u043C\u043E\u043D\u0438\u0438 \u043F\u043E \u043D\u0430\u0433\u0440\u0430\u0436\u0434\u0430\u0432\u0430\u043D\u0435"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://publications.europa.eu/ontology/authority/authority-code> "CAMP_LAUNCH" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partneri\u0173 susitikimai"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampaania ava\u00FCritused"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03B1\u03C3\u03BA\u03AD\u03C8\u03B5\u03B9\u03C2 \u03BA\u03B1\u03B9 \u03C3\u03CD\u03BD\u03BF\u03B4\u03BF\u03B9 \u03BA\u03BF\u03C1\u03C5\u03C6\u03AE\u03C2"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Versenyek \u00E9s d\u00EDj\u00E1tad\u00F3 \u00FCnneps\u00E9gek"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verejn\u00E9 diskusie"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comhdh\u00E1lacha agus cruinnithe mullaigh"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konkursai ir apdovanojim\u0173 i\u0161kilm\u0117s"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferencje i szczyty"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izst\u0101des"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Journ\u00E9es d\u2019information"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giornate d'informazione"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cruinnithe comhph\u00E1irt\u00EDochta"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://publications.europa.eu/ontology/authority/op-code> "PUBLIC_DEBATE" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politische Veranstaltungen"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#definition> "Competitions and award ceremonies include public events such as award ceremonies, competitions and contests."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://purl.org/dc/elements/1.1/identifier> "CONFERENCE_SUMMIT" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#definition> "Conferences and summits include public events such as conferences, summits, congresses and colloquiums."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inauguracje kampanii"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wystawy"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tnedija ta\u2019 kampanja"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parodos"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wettbewerbe und Preisverleihungen"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://publications.europa.eu/ontology/authority/op-code> "CAMP_LAUNCH" .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formazione e seminari"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Info days"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferencie a samity"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohtumised partneritega"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ki\u00E1ll\u00EDt\u00E1sok"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://publications.europa.eu/ontology/authority/op-code> "COMPETITION_AWARD_CEREMONY" .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentliga debatter"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veranstaltungen mit Partnern"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exposi\u00E7\u00F5es"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politi\u010Dni sestanki"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dibattiti pubblici"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0418\u0437\u043B\u043E\u0436\u0435\u043D\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lancio di una campagna"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informativni dnevi"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://publications.europa.eu/resource/authority/op-code> "PUBLIC_DEBATE" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esposizioni"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oili\u00FAint agus ceardlanna"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00E9pz\u00E9sek \u00E9s m\u0171helytal\u00E1lkoz\u00F3k"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampagnestart"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zile de informare"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferencer og topm\u00F8der"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#definition> "Info days include public events such as open days, information days, information meetings and networking events."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javne debate"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://publications.europa.eu/ontology/authority/op-code> "TRAINING_WORKSHOP" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuni\u00F5es pol\u00EDticas"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00FDstavy"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#definition> "Political meetings include political events involving the public."@en .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20210317-0" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampa\u0148 sa za\u010D\u00EDna"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infop\u00E4iv\u00E4t"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Debaty publiczne"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u0443\u0431\u043B\u0438\u0447\u043D\u0438 \u0434\u0435\u0431\u0430\u0442\u0438"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ve\u0159ejn\u00E9 diskuse"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tentoonstellingen"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pokretanje kampanje"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Debates p\u00FAblicos"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vie\u0161i debatai"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Julkiset keskustelutilaisuudet"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03BF\u03BB\u03B9\u03C4\u03B9\u03BA\u03AD\u03C2 \u03B5\u03BA\u03B4\u03B7\u03BB\u03CE\u03C3\u03B5\u03B9\u03C2"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concursos y ceremonias de entrega de premios"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informationsdagar"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://publications.europa.eu/ontology/authority/op-code> "EXHIBITION" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03BA\u03B8\u03AD\u03C3\u03B5\u03B9\u03C2"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lan\u00E7amento da campanha"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9bats publics"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formaci\u00F3n y talleres"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Com\u00F3rtais agus searmanais bhronnta"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://publications.europa.eu/ontology/authority/op-code> "PARTNER_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u044F \u0438 \u0441\u0435\u043C\u0438\u043D\u0430\u0440\u0438"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E1j\u00E9koztat\u00F3 napok"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konference a summity"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampa\u0146as uzs\u0101k\u0161ana"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9unions de partenaires"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferenssit ja huippukokoukset"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politiniai susitikimai"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dezbateri publice"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schulungen und Workshops"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politiske m\u00F8der"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuniones pol\u00EDticas"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kurser och seminarier"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#definition> "Partner meetings include public events such as expert meetings, general meetings and stakeholder meetings."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Competitions and award ceremonies"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poliitilised kohtumised"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://publications.europa.eu/resource/authority/op-code> "COMPETITION_AWARD_CEREMONY" .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://purl.org/dc/elements/1.1/identifier> "TRAINING_WORKSHOP" .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infodienas"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koulutus ja ty\u00F6pajat"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://publications.europa.eu/ontology/authority/op-code> "INFO_DAY" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laqg\u0127at tal-imsie\u0127ba"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dni informacyjne"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferenzi u summits"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://publications.europa.eu/ontology/authority/authority-code> "COMPETITION_AWARD_CEREMONY" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://purl.org/dc/elements/1.1/identifier> "CAMP_LAUNCH" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Detek kampanje"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Info-Tage"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partnerski sestanki"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concursos e cerim\u00F3nias de entrega de pr\u00E9mios"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laethanta eolais"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public event type"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conferenties en topontmoetingen"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://purl.org/dc/elements/1.1/identifier> "COMPETITION_AWARD_CEREMONY" .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://publications.europa.eu/resource/authority/op-code> "TRAINING_WORKSHOP" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partneru san\u0101ksmes"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferenci\u00E1k \u00E9s cs\u00FAcstal\u00E1lkoz\u00F3k"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u0440\u0435\u0449\u0438 \u0441 \u043F\u0430\u0440\u0442\u043D\u044C\u043E\u0440\u0438"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u0101c\u012Bbas un semin\u0101ri"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://publications.europa.eu/resource/authority/op-code> "CAMP_LAUNCH" .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concursuri \u0219i ceremonii de decernare a premiilor"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opleidingen en workshops"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exposiciones"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spotkania partnerskie"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informa\u010Dn\u00ED dny"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nyilv\u00E1nos vit\u00E1k"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forma\u00E7\u00E3o e semin\u00E1rios"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Szkolenia i warsztaty"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://publications.europa.eu/resource/authority/op-code> "INFO_DAY" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferenser och toppm\u00F6ten"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partneri tal\u00E1lkoz\u00F3k"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konkurrencer og prisuddelinger"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konkursy i ceremonie wr\u0119czenia nagr\u00F3d"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infodage"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampanjlanseringar"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://publications.europa.eu/ontology/authority/authority-code> "INFO_DAY" .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dibattiti pubbli\u010Bi"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03B1\u03B3\u03C9\u03BD\u03B9\u03C3\u03BC\u03BF\u03AF \u03BA\u03B1\u03B9 \u03C4\u03B5\u03BB\u03B5\u03C4\u03AD\u03C2 \u03B1\u03C0\u03BF\u03BD\u03BF\u03BC\u03AE\u03C2 \u03B2\u03C1\u03B1\u03B2\u03B5\u03AF\u03C9\u03BD"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informa\u010Dn\u00E9 dni"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuniones de socios"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politick\u00E9 stretnutia"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cursuri de formare \u0219i seminare de lucru"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://publications.europa.eu/resource/authority/op-code> "EXHIBITION" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stretnutia partnersk\u00FDch subjektov"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nate\u010Daji in podelitve nagrad"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lanzamiento de la campa\u00F1a"@es .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00D6ffentliche Veranstaltungen"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jiem ta\u2019 informazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poliittiset kokoukset"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://publications.europa.eu/resource/authority/op-code> "PARTNER_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://publications.europa.eu/ontology/authority/authority-code> "EXHIBITION" .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concorsi e cerimonie di premiazione"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konverentsid ja tippkohtumised"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riunioni politiche"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mokymas ir praktiniai seminarai"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wirjiet"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Political meetings"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://publications.europa.eu/ontology/authority/authority-code> "PARTNER_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partner meetings"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://purl.org/dc/elements/1.1/identifier> "EXHIBITION" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampagnendeb\u00FCts"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferenzen und Gipfeltreffen"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politiska m\u00F6ten"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://purl.org/dc/elements/1.1/identifier> "PARTNER_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politikai \u00FCl\u00E9sek"@hu .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Campaign launches"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politieke vergaderingen"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B7\u03BC\u03CC\u03C3\u03B9\u03B5\u03C2 \u03C3\u03C5\u03B6\u03B7\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0438 \u0434\u043D\u0438"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Javne razprave"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://www.w3.org/2002/07/owl#versionInfo> "20210317-0" .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampanijos prad\u017Eios renginiai"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avalikud arutelud"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u00FDstavy"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konkursid ja auhinnatseremooniad"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kompetizzjonijiet u \u010Berimonji ta\u2019 premjazzjoni"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offentlige debatter"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Debates p\u00FAblicos"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conferenze e vertici"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Te\u010Dajevi i radionice"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kumppanikokoukset"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuniuni politice"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#definition> "Public debates include public events such as public debates, dialogues, forums and public meetings."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sout\u011B\u017Ee a slavnostn\u00ED p\u0159ed\u00E1n\u00ED cen"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://purl.org/dc/elements/1.1/identifier> "INFO_DAY" .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informacin\u0117s dienos"@lt .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konference in sre\u010Danja na vrhu"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teabep\u00E4evad"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expozi\u021Bii"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuni\u00F5es de parceiros"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E4vlingar och prisutdelningar"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Public event type"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cruinnithe polaiti\u00FAla"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "R\u00E9unions politiques"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://publications.europa.eu/ontology/authority/authority-code> "PUBLIC_DEBATE" .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0441\u0440\u0435\u0449\u0438"@bg .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jornadas de informa\u00E7\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conferences and summits"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konkursi un apbalvo\u0161anas ceremonijas"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kilpailut ja palkintoseremoniat"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Udstillinger"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#definition> "Exhibitions include public events such as expos, exhibitions and fairs."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zah\u00E1jen\u00ED kampan\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politick\u00E1 setk\u00E1n\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00F6ten med samarbetspartner"@sv .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vergaderingen met partners"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politi\u010Dki sastanci"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00EDosp\u00F3ireachta\u00ED poibl\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Formations et ateliers"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ausstellungen"@de .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/public-event-type> .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partnerm\u00F8der"@da .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Openbare debatten"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reuniuni ale partenerilor"@ro .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Confer\u00EAncias e cimeiras"@pt .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://publications.europa.eu/ontology/authority/op-code> "POLITICAL_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public debates"@en .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Setk\u00E1n\u00ED partnersk\u00FDch subjekt\u016F"@cs .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00E4itused"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferencije i sastanci na vrhu"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://publications.europa.eu/ontology/authority/authority-code> "POLITICAL_MEETING" .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conf\u00E9rences et sommets"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koolitused ja seminarid"@et .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lancements de campagnes"@fr .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spotkania polityczne"@pl .
+<http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FA\u0165a\u017Ee a sl\u00E1vnostn\u00E9 odovzd\u00E1vanie cien"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ta\u0127ri\u0121 u workshops"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferences un samiti"@lv .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://publications.europa.eu/ontology/authority/start.use> "1958-01-01" .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dani informiranja"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infodagen"@nl .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00E4yttelyt"@fi .
+<http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0397\u03BC\u03B5\u03C1\u03AF\u03B4\u03B5\u03C2 \u03B5\u03BD\u03B7\u03BC\u03AD\u03C1\u03C9\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odborn\u00E1 pr\u00EDprava a semin\u00E1re"@sk .
+<http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Izlo\u017Ebe"@hr .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A3\u03C5\u03BD\u03B1\u03BD\u03C4\u03AE\u03C3\u03B5\u03B9\u03C2 \u03B5\u03C4\u03B1\u03AF\u03C1\u03C9\u03BD"@el .
+<http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Riunioni dei partner"@it .
+<http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Usposabljanja in delavnice"@sl .
+<http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laqg\u0127at politi\u010Bi"@mt .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#definition> "Campaign launches include events with the objective of highlighting the launch of public awareness campaigns, policies and other types of initiatives."@en .
+<http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH> <http://www.w3.org/2004/02/skos/core#prefLabel> "	\u0388\u03BD\u03B1\u03C1\u03BE\u03B7 \u03B5\u03BA\u03C3\u03C4\u03C1\u03B1\u03C4\u03B5\u03B9\u03CE\u03BD"@el .
+

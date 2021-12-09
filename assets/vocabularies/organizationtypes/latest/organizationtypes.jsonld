@@ -1,0 +1,4002 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DEP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Департамент"
+      },
+      {
+        "@language": "cs",
+        "@value": "Odbor"
+      },
+      {
+        "@language": "da",
+        "@value": "Afdeling"
+      },
+      {
+        "@language": "de",
+        "@value": "Abteilung"
+      },
+      {
+        "@language": "el",
+        "@value": "Τμήμα"
+      },
+      {
+        "@language": "en",
+        "@value": "Department"
+      },
+      {
+        "@language": "es",
+        "@value": "Departamento"
+      },
+      {
+        "@language": "et",
+        "@value": "Osakond"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Département"
+      },
+      {
+        "@language": "ga",
+        "@value": "Roinn"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odjel"
+      },
+      {
+        "@language": "hu",
+        "@value": "Osztály"
+      },
+      {
+        "@language": "it",
+        "@value": "Dipartimento"
+      },
+      {
+        "@language": "lt",
+        "@value": "Departamentas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Departaments"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dipartiment"
+      },
+      {
+        "@language": "nl",
+        "@value": "Afdeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Departament"
+      },
+      {
+        "@language": "pt",
+        "@value": "Departamento"
+      },
+      {
+        "@language": "ro",
+        "@value": "Departamentul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oddelenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oddelek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avdelning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-12-06"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_EURATOM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Агенция или орган на Евратом"
+      },
+      {
+        "@language": "cs",
+        "@value": "Orgán nebo agentura Euratomu"
+      },
+      {
+        "@language": "da",
+        "@value": "Euratomagentur eller -organ"
+      },
+      {
+        "@language": "de",
+        "@value": "Euratom-Agentur oder -Einrichtung"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός ή όργανο της Ευρατόμ"
+      },
+      {
+        "@language": "en",
+        "@value": "Euratom agency or body"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia u organismo de Euratom"
+      },
+      {
+        "@language": "et",
+        "@value": "Euratomi amet või asutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euratomin virasto tai elin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence ou organe d’Euratom"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht nó comhlacht de chuid Euratom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Agencija ili tijelo Euratoma"
+      },
+      {
+        "@language": "hu",
+        "@value": "Euratom-ügynökség vagy -szerv"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia o organo Euratom"
+      },
+      {
+        "@language": "lt",
+        "@value": "Euratomo agentūra ar organas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Euratom aģentūra vai struktūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija jew Korp tal-Euratom"
+      },
+      {
+        "@language": "nl",
+        "@value": "Euratom-agentschap of -orgaan"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja lub organ Euratomu"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência ou órgão Euratom"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenția sau organismul a Euratom"
+      },
+      {
+        "@language": "sk",
+        "@value": "Agentúra alebo orgán Euratomu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Agencija ali organ Euratom"
+      },
+      {
+        "@language": "sv",
+        "@value": "Euratoms byrå eller organ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/REPRES",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REPRES"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Представителство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zastoupení"
+      },
+      {
+        "@language": "da",
+        "@value": "Repræsentationen"
+      },
+      {
+        "@language": "de",
+        "@value": "Representation"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκπροσώπηση"
+      },
+      {
+        "@language": "en",
+        "@value": "Representation"
+      },
+      {
+        "@language": "es",
+        "@value": "Representación"
+      },
+      {
+        "@language": "et",
+        "@value": "Esindus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Edustusto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Représentation"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Ionadaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zastupništvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Képviselet"
+      },
+      {
+        "@language": "it",
+        "@value": "Rappresentanza"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atstovybė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pārstāvniecība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ir-Rappreżentazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vertegenwoordiging"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przedstawicielstwo"
+      },
+      {
+        "@language": "pt",
+        "@value": "Representações"
+      },
+      {
+        "@language": "ro",
+        "@value": "Reprezentanță"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zastúpenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Predstavništvo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Representationen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1960-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Делегация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Delegace"
+      },
+      {
+        "@language": "da",
+        "@value": "Delegationen"
+      },
+      {
+        "@language": "de",
+        "@value": "Delegation"
+      },
+      {
+        "@language": "el",
+        "@value": "Αντιπροσωπεία"
+      },
+      {
+        "@language": "en",
+        "@value": "Delegation"
+      },
+      {
+        "@language": "es",
+        "@value": "Delegación"
+      },
+      {
+        "@language": "et",
+        "@value": "Delegatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Edustusto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Délégation"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Toscaireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izaslanstvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Küldöttség"
+      },
+      {
+        "@language": "it",
+        "@value": "Delegazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Delegacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Delegācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Id-Delegazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Delegatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Delegacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Delegação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Delegație"
+      },
+      {
+        "@language": "sk",
+        "@value": "Delegácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Delegacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Delegationen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/COMPANY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COMPANY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COMPANY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1900-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COMPANY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COMPANY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Дружество"
+      },
+      {
+        "@language": "cs",
+        "@value": "Společnost"
+      },
+      {
+        "@language": "da",
+        "@value": "Selskab"
+      },
+      {
+        "@language": "de",
+        "@value": "Gesellschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Εταιρεία"
+      },
+      {
+        "@language": "en",
+        "@value": "Company"
+      },
+      {
+        "@language": "es",
+        "@value": "Sociedad"
+      },
+      {
+        "@language": "et",
+        "@value": "Äriühing"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhtiö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Société"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cuideachta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Društvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Társaság"
+      },
+      {
+        "@language": "it",
+        "@value": "Società"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendrovė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sabiedrība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kumpanija"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vennootschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Spółka"
+      },
+      {
+        "@language": "pt",
+        "@value": "Sociedade"
+      },
+      {
+        "@language": "ro",
+        "@value": "Societate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spoločnosť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Družba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Bolag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2002-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_CFSP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Агенция по външна политика и обща сигурност"
+      },
+      {
+        "@language": "cs",
+        "@value": "Agentura společné zahraniční a bezpečnostní politiky"
+      },
+      {
+        "@language": "da",
+        "@value": "Agentur i tilknytning til den fælles udenrigs- og sikkerhedspolitik"
+      },
+      {
+        "@language": "de",
+        "@value": "Agentur für die Gemeinsame Außen- und Sicherheitspolitik"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός της κοινής εξωτερικής πολιτικής και πολιτικής ασφάλειας"
+      },
+      {
+        "@language": "en",
+        "@value": "Common foreign and security policy agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia de política exterior y de seguridad común"
+      },
+      {
+        "@language": "et",
+        "@value": "Ühise välis- ja julgeolekupoliitika agentuur"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteiseen ulko- ja turvallisuuspolitiikkaan liittyvä virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence de la politique étrangère et de sécurité commune"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht um chomhbheartas seachtrach agus slándála"
+      },
+      {
+        "@language": "hr",
+        "@value": "Agencija za zajedničku vanjsku i sigurnosnu politiku"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közös kül- és biztonságpolitikai ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia per la politica estera e di sicurezza comune"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendra užsienio ir saugumo politikos agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kopējās ārpolitikas un drošības politikas aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija tal-politika barranija u tas-sigurtà komuni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Agentschap voor gemeenschappelijk buitenlands en veiligheidsbeleid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja w ramach wspólnej polityki zagranicznej i bezpieczeństwa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência da Política Externa e de Segurança Comum"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenţia de politică externă şi de securitate comună"
+      },
+      {
+        "@language": "sk",
+        "@value": "Agentúra pre spoločnú zahraničnú a bezpečnostnú politiku"
+      },
+      {
+        "@language": "sl",
+        "@value": "Agencija za skupno zunanjo in varnostno politiko"
+      },
+      {
+        "@language": "sv",
+        "@value": "Byrån för gemensam utrikes- och säkerhetspolitik"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/SERV",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SERV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SERV"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-04-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SERV"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SERV"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Служба"
+      },
+      {
+        "@language": "cs",
+        "@value": "Služba"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjeneste"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienst"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσία"
+      },
+      {
+        "@language": "en",
+        "@value": "Service"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicio"
+      },
+      {
+        "@language": "et",
+        "@value": "Talitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service"
+      },
+      {
+        "@language": "ga",
+        "@value": "An tSeirbhís"
+      },
+      {
+        "@language": "hr",
+        "@value": "Služba"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szolgálat"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarnyba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dienests"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizz"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dienst"
+      },
+      {
+        "@language": "pl",
+        "@value": "Służba"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviço"
+      },
+      {
+        "@language": "ro",
+        "@value": "Serviciu"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služba"
+      },
+      {
+        "@language": "sl",
+        "@value": "Služba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänsten"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1975-02-10"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#narrower": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM"
+      },
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Агенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Agentura"
+      },
+      {
+        "@language": "da",
+        "@value": "Agenturet"
+      },
+      {
+        "@language": "de",
+        "@value": "Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia"
+      },
+      {
+        "@language": "et",
+        "@value": "Amet"
+      },
+      {
+        "@language": "fi",
+        "@value": "Virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Agencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija"
+      },
+      {
+        "@language": "nl",
+        "@value": "Agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Agentúra"
+      },
+      {
+        "@language": "sl",
+        "@value": "Agencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Byrå"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/SECTOR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SECTOR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SECTOR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SECTOR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SECTOR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Сектор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Úsek"
+      },
+      {
+        "@language": "da",
+        "@value": "Sektion"
+      },
+      {
+        "@language": "de",
+        "@value": "Abteilung"
+      },
+      {
+        "@language": "el",
+        "@value": "Τμήμα"
+      },
+      {
+        "@language": "en",
+        "@value": "Sector"
+      },
+      {
+        "@language": "es",
+        "@value": "Sector"
+      },
+      {
+        "@language": "et",
+        "@value": "Sektor"
+      },
+      {
+        "@language": "fi",
+        "@value": "Jaos"
+      },
+      {
+        "@language": "fr",
+        "@value": "Secteur"
+      },
+      {
+        "@language": "ga",
+        "@value": "Earnáil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sektor"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részleg"
+      },
+      {
+        "@language": "it",
+        "@value": "Settore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sektorius"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sektors"
+      },
+      {
+        "@language": "mt",
+        "@value": "Settur"
+      },
+      {
+        "@language": "nl",
+        "@value": "Sector"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sektor"
+      },
+      {
+        "@language": "pt",
+        "@value": "Setor"
+      },
+      {
+        "@language": "ro",
+        "@value": "Sector"
+      },
+      {
+        "@language": "sk",
+        "@value": "Úsek"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sektor"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sektor"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIR_ATT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR_ATT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR_ATT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR_ATT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR_ATT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "fr",
+        "@value": "Rattachée à une direction"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyłączona do dyrekcji"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Прикрепена към дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přičleněno k ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilknyttet et direktorat"
+      },
+      {
+        "@language": "de",
+        "@value": "Einer Direktion angeschlossen"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπαγόμενο σε Διεύθυνση"
+      },
+      {
+        "@language": "en",
+        "@value": "Attached to a Directorate"
+      },
+      {
+        "@language": "es",
+        "@value": "Dependiente de una Dirección"
+      },
+      {
+        "@language": "et",
+        "@value": "Direktoraadi alluvuses"
+      },
+      {
+        "@language": "fi",
+        "@value": "Linjan alaisena toimiva"
+      },
+      {
+        "@language": "fr",
+        "@value": "Rattaché à une direction"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceangailte le Stiúrthóireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pridružen Upravi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Igazgatósághoz kapcsolódó szervezeti egység"
+      },
+      {
+        "@language": "it",
+        "@value": "Che dipende da una direzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priskirta direktoratui"
+      },
+      {
+        "@language": "lv",
+        "@value": "Piesaistīts direktorātam"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konness ma’ Direttorat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verbonden aan een directoraat"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyłączony do dyrekcji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Na dependência de uma Direção"
+      },
+      {
+        "@language": "ro",
+        "@value": "Pe lângă o Direcție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pripojené k riaditeľstvu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Neposredno povezan z direktoratom"
+      },
+      {
+        "@language": "sv",
+        "@value": "Knuten till ett direktorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INSTIT_ATT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INSTIT_ATT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INSTIT_ATT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INSTIT_ATT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "fr",
+        "@value": "Rattachée à l’institution"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyłączona do instytucji"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Прикрепена към институцията"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přičleněno k orgánu"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilknyttet institutionen"
+      },
+      {
+        "@language": "de",
+        "@value": "Der Institution angeschlossen"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπαγόμενο στο θεσμικό όργανο"
+      },
+      {
+        "@language": "en",
+        "@value": "Attached to the institution"
+      },
+      {
+        "@language": "es",
+        "@value": "Dependiente de la institución"
+      },
+      {
+        "@language": "et",
+        "@value": "Institutsiooni alluvuses"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toimielimen alaisena toimiva"
+      },
+      {
+        "@language": "fr",
+        "@value": "Rattaché à l’institution"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceangailte leis an institiúid"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pridružen instituciji"
+      },
+      {
+        "@language": "hu",
+        "@value": "Intézményhez kapcsolódó szervezeti egység"
+      },
+      {
+        "@language": "it",
+        "@value": "Che dipende dall'istituzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priskirta institucijai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Piesaistīts iestādei"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konness mal-istituzzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verbonden aan de instelling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyłączony do instytucji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Na dependência da instituição"
+      },
+      {
+        "@language": "ro",
+        "@value": "Pe lângă instituție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pripojené k inštitúcii"
+      },
+      {
+        "@language": "sl",
+        "@value": "Neposredno povezan z institucijo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Knuten till institutionen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR_GEN_DPT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR_GEN_DPT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR_GEN_DPT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR_GEN_DPT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Dienst der stellvertretenden Generaldirektorin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service de la directrice générale adjointe"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Служба на заместник генерален директор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Útvar zástupce generálního ředitele"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjeneste tilknyttet vicegeneraldirektøren"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienst des stellvertretenden Generaldirektors"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσία του Αναπληρωτή Γενικού Διευθυντή"
+      },
+      {
+        "@language": "en",
+        "@value": "Service of deputy director-general"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicio del director general adjunto"
+      },
+      {
+        "@language": "et",
+        "@value": "Peadirektori asetäitja talitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Varapääjohtajan alainen yksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service du directeur général adjoint"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhís an Leas-Ardstiúrthóra"
+      },
+      {
+        "@language": "hr",
+        "@value": "Služba zamjenika glavnog direktora"
+      },
+      {
+        "@language": "hu",
+        "@value": "A főigazgató-helyettes munkáját segítő szolgálat"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizio del direttore generale aggiunto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Generalinio direktoriaus pavaduotojo tarnyba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dienests, kas pakļauts ģenerāldirektora vietniekam"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizz ta’ deputat direttur ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dienst van een adjunct-directeur-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Biuro zastępcy dyrektora generalnego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços do Diretor-Geral adjunto"
+      },
+      {
+        "@language": "ro",
+        "@value": "Serviciu pe lângă Directorul general adjunct"
+      },
+      {
+        "@language": "sk",
+        "@value": "Útvar zástupcu generálneho riaditeľa"
+      },
+      {
+        "@language": "sl",
+        "@value": "Služba namestnika generalnega direktorja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänst knuten till biträdande generaldirektör"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_EXE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_EXE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2003-12-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_EXE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_EXE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изпълнителна агенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Výkonná agentura"
+      },
+      {
+        "@language": "da",
+        "@value": "Forvaltningsorganet"
+      },
+      {
+        "@language": "de",
+        "@value": "Exekutivagentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκτελεστικός Οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Executive Agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia ejecutiva"
+      },
+      {
+        "@language": "et",
+        "@value": "Rakendusamet"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toimeenpanovirasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence exécutive"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Ghníomhaireacht Feidhmiúcháin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izvršna agencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Végrehajtó ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia esecutiva"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vykdomoji įstaiga"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izpildaģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Aġenzija Eżekuttiva"
+      },
+      {
+        "@language": "nl",
+        "@value": "Uitvoerend Agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja Wykonawcza"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência Executiva"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenție Executivă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Výkonná agentúra"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izvajalska agencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Genomförandeorganet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIR_MAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR_MAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR_MAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR_MAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR_MAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Управляваща дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Výkonné ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Forvaltningsdirektorat"
+      },
+      {
+        "@language": "de",
+        "@value": "EAD-Direktion"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεύθυνση Διαχείρισης"
+      },
+      {
+        "@language": "en",
+        "@value": "Managing directorate"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección ejecutiva"
+      },
+      {
+        "@language": "et",
+        "@value": "Haldav direktoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hallinto-osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction générale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Stiúrthóireacht a bhainistiú"
+      },
+      {
+        "@language": "hr",
+        "@value": "Rukovodeća uprava"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ügyvezető igazgatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione gestionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valdymo direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pārvaldes direktorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat Maniġerjali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Beherend directoraat"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja zarządzająca"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção de Gestão"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcția executivă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Generálne riaditeľstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Upravni direktorat"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förvaltande direktorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1975-02-10"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGENCY_DEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#broader": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type/AGENCY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Децентрализирана агенция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Decentralizovaná agentura"
+      },
+      {
+        "@language": "da",
+        "@value": "Decentralt agentur"
+      },
+      {
+        "@language": "de",
+        "@value": "Dezentrale Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Αποκεντρωμένος οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Decentralised agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Agencia descentralizada"
+      },
+      {
+        "@language": "et",
+        "@value": "Detsentraliseeritud asutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hajautettu virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agence décentralisée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gníomhaireacht dhíláraithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Decentralizirana agencija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Decentralizált ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Agenzia decentrata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Decentralizuota agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Decentralizēta aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Aġenzija deċentralizzata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gedecentraliseerd agentschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Agencja zdecentralizowana"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agência descentralizada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agenție descentralizată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Decentralizovaná agentúra"
+      },
+      {
+        "@language": "sl",
+        "@value": "Decentralizirana agencija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Decentraliserad byrå"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIR_GEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR_GEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Генерална дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Generální ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Generaldirektorat"
+      },
+      {
+        "@language": "de",
+        "@value": "Generaldirektion"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενική Διεύθυνση"
+      },
+      {
+        "@language": "en",
+        "@value": "Directorate-General"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección general"
+      },
+      {
+        "@language": "et",
+        "@value": "Peadirektoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Pääosasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction générale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ard-Stiúrthóireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Glavna uprava"
+      },
+      {
+        "@language": "hu",
+        "@value": "Főigazgatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione generale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Generalinis direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ģenerāldirektorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat Ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Directoraat-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja generalna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção-Geral"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcție generală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Generálne riaditeľstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Generalni direktorat"
+      },
+      {
+        "@language": "sv",
+        "@value": "Generaldirektorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIVISION",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIVISION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIVISION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIVISION"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIVISION"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отдел"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oddělení"
+      },
+      {
+        "@language": "da",
+        "@value": "Afdeling"
+      },
+      {
+        "@language": "de",
+        "@value": "Abteilung"
+      },
+      {
+        "@language": "el",
+        "@value": "Τμήμα"
+      },
+      {
+        "@language": "en",
+        "@value": "Division"
+      },
+      {
+        "@language": "es",
+        "@value": "División"
+      },
+      {
+        "@language": "et",
+        "@value": "Osakond"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Division"
+      },
+      {
+        "@language": "ga",
+        "@value": "Rannóg"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odsjek"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részleg"
+      },
+      {
+        "@language": "it",
+        "@value": "Divisione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skyrius"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nodaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Diviżjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Afdeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dział"
+      },
+      {
+        "@language": "pt",
+        "@value": "Divisão"
+      },
+      {
+        "@language": "ro",
+        "@value": "Divizia"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oddelenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oddelek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avdelning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SEC_GEN_DPT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SEC_GEN_DPT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SEC_GEN_DPT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SEC_GEN_DPT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "Dienst der stellvertretenden Generalsekretärin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service de la secrétaire générale adjointe"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Служба на заместник генерален секретар"
+      },
+      {
+        "@language": "cs",
+        "@value": "Útvar zástupce generálního tajemníka"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjeneste tilknyttet vicegeneralsekretæren"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienst des stellvertretenden Generalsekretärs"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσία του Αναπληρωτή Γενικού Γραμματέα"
+      },
+      {
+        "@language": "en",
+        "@value": "Service of deputy secretary general"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicio del secretario general adjunto"
+      },
+      {
+        "@language": "et",
+        "@value": "Asepeasekretäri talitus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Apulaispääsihteerin alainen yksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service du secrétaire général adjoint"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhís an Leas-Ardrúnaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Služba zamjenika glavnog tajnika"
+      },
+      {
+        "@language": "hu",
+        "@value": "A főtitkárhelyettes munkáját segítő szolgálat"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizio del Segretario generale aggiunto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Generalinio sekretoriaus pavaduotojo tarnyba"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dienests, kas pakļauts ģenerālsekretāra vietniekam"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizz ta’ deputat segretarju ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dienst van een adjunct-secretaris-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Biuro zastępcy sekretarza generalnego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços do Secretário-Geral adjunto"
+      },
+      {
+        "@language": "ro",
+        "@value": "Serviciu pe lângă Secretarul general adjunct"
+      },
+      {
+        "@language": "sk",
+        "@value": "Útvar zástupcu generálneho tajomníka"
+      },
+      {
+        "@language": "sl",
+        "@value": "Služba namestnika generalnega sekretarja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänst knuten till biträdande generalsekreterare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/UNIT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "UNIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "UNIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "UNIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "UNIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отдел"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oddělení"
+      },
+      {
+        "@language": "da",
+        "@value": "Kontor"
+      },
+      {
+        "@language": "de",
+        "@value": "Referat"
+      },
+      {
+        "@language": "el",
+        "@value": "Μονάδα"
+      },
+      {
+        "@language": "en",
+        "@value": "Unit"
+      },
+      {
+        "@language": "es",
+        "@value": "Unidad"
+      },
+      {
+        "@language": "et",
+        "@value": "Üksus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Unité"
+      },
+      {
+        "@language": "ga",
+        "@value": "Aonad"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odjel"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egység"
+      },
+      {
+        "@language": "it",
+        "@value": "Unità"
+      },
+      {
+        "@language": "lt",
+        "@value": "Skyrius"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nodaļa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Unità"
+      },
+      {
+        "@language": "nl",
+        "@value": "Eenheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dział"
+      },
+      {
+        "@language": "pt",
+        "@value": "Unidade"
+      },
+      {
+        "@language": "ro",
+        "@value": "Unitate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oddelenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Enota"
+      },
+      {
+        "@language": "sv",
+        "@value": "Enhet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Direktorat"
+      },
+      {
+        "@language": "de",
+        "@value": "Direktion"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεύθυνση"
+      },
+      {
+        "@language": "en",
+        "@value": "Directorate"
+      },
+      {
+        "@language": "es",
+        "@value": "Dirección"
+      },
+      {
+        "@language": "et",
+        "@value": "Direktoraat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Osasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Direction"
+      },
+      {
+        "@language": "ga",
+        "@value": "Stiúrthóireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Uprava"
+      },
+      {
+        "@language": "hu",
+        "@value": "Igazgatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Direzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Direktoratas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Direktorāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Direttorat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Directoraat"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dyrekcja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Direção"
+      },
+      {
+        "@language": "ro",
+        "@value": "Direcție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Riaditeľstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Direktorat"
+      },
+      {
+        "@language": "sv",
+        "@value": "Direktorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/TSK_FRC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TSK_FRC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TSK_FRC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1998-01-21"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TSK_FRC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TSK_FRC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Оперативна група"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pracovní skupina"
+      },
+      {
+        "@language": "da",
+        "@value": "Taskforce"
+      },
+      {
+        "@language": "de",
+        "@value": "Taskforce"
+      },
+      {
+        "@language": "el",
+        "@value": "Ειδική ομάδα"
+      },
+      {
+        "@language": "en",
+        "@value": "Task Force"
+      },
+      {
+        "@language": "es",
+        "@value": "Grupo de trabajo"
+      },
+      {
+        "@language": "et",
+        "@value": "Rakkerühm"
+      },
+      {
+        "@language": "fi",
+        "@value": "Työryhmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Groupe d’experts"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tascfhórsa"
+      },
+      {
+        "@language": "hr",
+        "@value": "Radna skupina"
+      },
+      {
+        "@language": "hu",
+        "@value": "Munkacsoport"
+      },
+      {
+        "@language": "it",
+        "@value": "Task force"
+      },
+      {
+        "@language": "lt",
+        "@value": "Darbo grupė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Darba grupa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Task Force"
+      },
+      {
+        "@language": "nl",
+        "@value": "Taskforce"
+      },
+      {
+        "@language": "pl",
+        "@value": "Grupa zadaniowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Grupo de Trabalho"
+      },
+      {
+        "@language": "ro",
+        "@value": "Grup operativ"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pracovná skupina"
+      },
+      {
+        "@language": "sl",
+        "@value": "Projektna skupina"
+      },
+      {
+        "@language": "sv",
+        "@value": "Arbetsgrupp"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/OFFICE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OFFICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OFFICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OFFICE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OFFICE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Служба"
+      },
+      {
+        "@language": "cs",
+        "@value": "Úřad"
+      },
+      {
+        "@language": "da",
+        "@value": "Kontoret"
+      },
+      {
+        "@language": "de",
+        "@value": "Amt"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσία"
+      },
+      {
+        "@language": "en",
+        "@value": "Office"
+      },
+      {
+        "@language": "es",
+        "@value": "Oficina"
+      },
+      {
+        "@language": "et",
+        "@value": "Amet"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toimisto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Office"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Oifig"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ured"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hivatal"
+      },
+      {
+        "@language": "it",
+        "@value": "Ufficio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Biuras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Birojs"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Uffiċċju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bureau"
+      },
+      {
+        "@language": "pl",
+        "@value": "Urząd"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviço"
+      },
+      {
+        "@language": "ro",
+        "@value": "Oficiu"
+      },
+      {
+        "@language": "sk",
+        "@value": "Úrad"
+      },
+      {
+        "@language": "sl",
+        "@value": "Urad"
+      },
+      {
+        "@language": "sv",
+        "@value": "Byrån"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/SEC_GEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SEC_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SEC_GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SEC_GEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SEC_GEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Генерален секретариат"
+      },
+      {
+        "@language": "cs",
+        "@value": "Generální sekretariát"
+      },
+      {
+        "@language": "da",
+        "@value": "Generalsekretariatet"
+      },
+      {
+        "@language": "de",
+        "@value": "Generalsekretariat"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενική Γραμματεία"
+      },
+      {
+        "@language": "en",
+        "@value": "General Secretariat"
+      },
+      {
+        "@language": "es",
+        "@value": "Secretaría general"
+      },
+      {
+        "@language": "et",
+        "@value": "Peasekretariaat"
+      },
+      {
+        "@language": "fi",
+        "@value": "Pääsihteeristö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Secrétariat général"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ardrúnaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Glavno tajništvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Főtitkárság"
+      },
+      {
+        "@language": "it",
+        "@value": "Segretariato generale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Generalinis sekretoriatas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ģenerālsekretariāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Segretarjat Ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Secretariaat-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sekretariat generalny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Secretariado-Geral"
+      },
+      {
+        "@language": "ro",
+        "@value": "Secretariat general"
+      },
+      {
+        "@language": "sk",
+        "@value": "Generálny sekretariát"
+      },
+      {
+        "@language": "sl",
+        "@value": "Generalni sekretariat"
+      },
+      {
+        "@language": "sv",
+        "@value": "Generalsekretariat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/INSTIT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INSTIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INSTIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INSTIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INSTIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Иституция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Orgán"
+      },
+      {
+        "@language": "da",
+        "@value": "Institution"
+      },
+      {
+        "@language": "de",
+        "@value": "Organ"
+      },
+      {
+        "@language": "el",
+        "@value": "Όργανο"
+      },
+      {
+        "@language": "en",
+        "@value": "Institution"
+      },
+      {
+        "@language": "es",
+        "@value": "Institución"
+      },
+      {
+        "@language": "et",
+        "@value": "Institutioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toimielin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Institution"
+      },
+      {
+        "@language": "ga",
+        "@value": "Institiúid"
+      },
+      {
+        "@language": "hr",
+        "@value": "Institucija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Intézmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Istituzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Institucija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Istituzzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Instelling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Instituição"
+      },
+      {
+        "@language": "ro",
+        "@value": "Instituție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Inštitúcia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Institucija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Institution"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DIR_GEN_ATT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DIR_GEN_ATT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DIR_GEN_ATT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DIR_GEN_ATT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "fr",
+        "@value": "Rattachée à une direction générale"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyłączona do dyrekcji generalnej"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Прикрепена към генерална дирекция"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přičleněno ke generálnímu ředitelství"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilknyttet et generaldirektorat"
+      },
+      {
+        "@language": "de",
+        "@value": "Einer Generaldirektion angeschlossen"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπαγόμενο σε Γενική Διεύθυνση"
+      },
+      {
+        "@language": "en",
+        "@value": "Attached to a Directorate-General"
+      },
+      {
+        "@language": "es",
+        "@value": "Dependiente de una Dirección General"
+      },
+      {
+        "@language": "et",
+        "@value": "Peadirektoraadi alluvuses"
+      },
+      {
+        "@language": "fi",
+        "@value": "Pääosaston alaisena toimiva"
+      },
+      {
+        "@language": "fr",
+        "@value": "Rattaché à une direction générale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceangailte le hArd-Stiúrthóireacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pridružen Glavnoj upravi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Főigazgatósághoz kapcsolódó szervezeti egység"
+      },
+      {
+        "@language": "it",
+        "@value": "Che dipende da una direzione generale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priskirta generaliniam direktoratui"
+      },
+      {
+        "@language": "lv",
+        "@value": "Piesaistīts ģenerāldirektorātam"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konness ma’ Direttorat-Ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verbonden aan een directoraat-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyłączony do dyrekcji generalnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Na dependência de uma Direção-Geral"
+      },
+      {
+        "@language": "ro",
+        "@value": "Pe lângă o Direcție Generală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pripojené ku generálnemu riaditeľstvu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Neposredno povezan z generalnim direktoratom"
+      },
+      {
+        "@language": "sv",
+        "@value": "Knuten till ett generaldirektorat"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/TEAM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TEAM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TEAM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-09-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TEAM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TEAM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Екип"
+      },
+      {
+        "@language": "cs",
+        "@value": "Tým"
+      },
+      {
+        "@language": "da",
+        "@value": "Hold"
+      },
+      {
+        "@language": "de",
+        "@value": "Team"
+      },
+      {
+        "@language": "el",
+        "@value": "Ομάδα"
+      },
+      {
+        "@language": "en",
+        "@value": "Team"
+      },
+      {
+        "@language": "es",
+        "@value": "Equipo"
+      },
+      {
+        "@language": "et",
+        "@value": "Meeskond"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ryhmä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Équipe"
+      },
+      {
+        "@language": "ga",
+        "@value": "Foireann"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tim"
+      },
+      {
+        "@language": "hu",
+        "@value": "Csoport"
+      },
+      {
+        "@language": "it",
+        "@value": "Equipe"
+      },
+      {
+        "@language": "lt",
+        "@value": "Grupė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Grupa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tim"
+      },
+      {
+        "@language": "nl",
+        "@value": "Team"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zespół"
+      },
+      {
+        "@language": "pt",
+        "@value": "Equipa"
+      },
+      {
+        "@language": "ro",
+        "@value": "Echipă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Skupina"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ekipa"
+      },
+      {
+        "@language": "sv",
+        "@value": "Grupp"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/CAB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CAB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CAB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1957-03-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CAB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CAB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Кабинет"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "da",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "de",
+        "@value": "Kabinett"
+      },
+      {
+        "@language": "el",
+        "@value": "Γραφείο"
+      },
+      {
+        "@language": "en",
+        "@value": "Cabinet"
+      },
+      {
+        "@language": "es",
+        "@value": "Gabinete"
+      },
+      {
+        "@language": "et",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kabinetti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cabinet"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cabinet"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "it",
+        "@value": "Gabinetto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kabinetas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kabinets"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kabinett"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "pl",
+        "@value": "Gabinet"
+      },
+      {
+        "@language": "pt",
+        "@value": "Gabinete"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cabinet"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "sl",
+        "@value": "Kabinet"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kabinett"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organization type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "organization-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Organization type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organization type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organization-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  }
+]

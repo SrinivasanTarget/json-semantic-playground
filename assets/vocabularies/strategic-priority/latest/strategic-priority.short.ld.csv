@@ -1,0 +1,15 @@
+# Serializing assets/vocabularies/strategic-priority/latest/strategic-priority.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/strategic-priority
+# title: Strategic priority
+# version: 20210929-0
+# description: Strategic priority
+key,url,deprecated,valid_until,valid_from,country_code,label_en,label_it
+05c79cb9ee,http://publications.europa.eu/resource/authority/strategic-priority/05c79cb9ee,false,2024-11-30,2019-12-01,05c79cb9ee,A new push for European democracy,Un nuovo slancio per la democrazia europea
+33a612644a,http://publications.europa.eu/resource/authority/strategic-priority/33a612644a,false,2024-11-30,2019-12-01,33a612644a,An economy that works for people,Un'economia al servizio delle persone
+3c3c547b96,http://publications.europa.eu/resource/authority/strategic-priority/3c3c547b96,false,2024-11-30,2019-12-01,3c3c547b96,A European Green Deal,Green Deal europeo
+3da7cd2056,http://publications.europa.eu/resource/authority/strategic-priority/3da7cd2056,false,2024-11-30,2019-12-01,3da7cd2056,A stronger Europe in the world,Un'Europa più forte nel mondo
+6002f017ad,http://publications.europa.eu/resource/authority/strategic-priority/6002f017ad,false,2024-11-30,2019-12-01,6002f017ad,A Europe fit for the digital age,Un'Europa pronta per l'era digitale
+OP_DATPRO,http://publications.europa.eu/resource/authority/strategic-priority/OP_DATPRO,false,,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+ad7bdb3bbd,http://publications.europa.eu/resource/authority/strategic-priority/ad7bdb3bbd,false,2024-11-30,2019-12-01,ad7bdb3bbd,Promoting our European way of life,Promozione del nostro stile di vita europeo
+c_d20941d9,http://publications.europa.eu/resource/authority/strategic-priority/c_d20941d9,false,2024-11-30,2019-12-01,c_d20941d9,Commission priorities for 2019–2024,Le priorità della Commissione per il 2019-2024

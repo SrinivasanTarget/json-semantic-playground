@@ -1,0 +1,215 @@
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b1 .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0424\u0430\u043A\u0441"@bg .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:ncfe1952d710e4d2293788c519d5970e9b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@hu .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefone"@pt .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@ro .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@da .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@ro .
+<http://publications.europa.eu/resource/authority/address-type> <http://publications.europa.eu/ontology/authority/table.id> "address-type" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Durchwahl"@de .
+<http://publications.europa.eu/resource/authority/address-type> <http://www.w3.org/2000/01/rdf-schema#label> "Address type"@en .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adresse postale"@fr .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+_:ncfe1952d710e4d2293788c519d5970e9b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:ncfe1952d710e4d2293788c519d5970e9b1 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://publications.europa.eu/ontology/authority/op-code> "EMAIL" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Puhelin"@fi .
+_:ncfe1952d710e4d2293788c519d5970e9b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://publications.europa.eu/ontology/authority/op-code> "TEL" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefoon"@nl .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://purl.org/dc/elements/1.1/identifier> "TEL_SWI" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omstillingsbord"@da .
+_:ncfe1952d710e4d2293788c519d5970e9b5 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b4 .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://purl.org/dc/elements/1.1/identifier> "MAIN" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@sv .
+_:ncfe1952d710e4d2293788c519d5970e9b5 <http://publications.europa.eu/ontology/authority/legacy-code> "TEL" .
+<http://publications.europa.eu/resource/authority/address-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20180620-0" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faks"@et .
+_:ncfe1952d710e4d2293788c519d5970e9b1 <http://publications.europa.eu/ontology/authority/legacy-code> "OFFICEADDRESS" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://publications.europa.eu/resource/authority/op-code> "TEL_EXT" .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Birojs"@lv .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://publications.europa.eu/resource/authority/op-code> "ADR_POSTAL" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03C6\u03B1\u03BE"@el .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Correio eletr\u00F3nico"@pt .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@mt .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://publications.europa.eu/ontology/authority/authority-code> "TEL_EXT" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Switchboard"@en .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@et .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://publications.europa.eu/ontology/authority/authority-code> "ADR_POSTAL" .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adresse"@fr .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Postal address"@en .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@en .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "B\u00FCroanschrift"@de .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+_:ncfe1952d710e4d2293788c519d5970e9b7 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type> <http://www.w3.org/2002/07/owl#versionInfo> "20180620-0" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://purl.org/dc/elements/1.1/identifier> "ADR_POSTAL" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tel\u00E9fono"@es .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telephone"@en .
+_:ncfe1952d710e4d2293788c519d5970e9b6 <http://publications.europa.eu/ontology/authority/legacy-code> "POSTE" .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://publications.europa.eu/ontology/authority/op-code> "OFFICE_NO" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standard"@fr .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://publications.europa.eu/ontology/authority/authority-code> "OFFICE_NO" .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bureau"@fr .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+_:ncfe1952d710e4d2293788c519d5970e9b4 <http://publications.europa.eu/ontology/authority/legacy-code> "OFFICE" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://publications.europa.eu/ontology/authority/op-code> "ADR_OFFICE" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iek\u0161\u0113jais numurs"@lv .
+<http://publications.europa.eu/resource/authority/address-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Address type"@en .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u0101lrunis"@lv .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@de .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@cs .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://publications.europa.eu/ontology/authority/op-code> "TEL_EXT" .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Office"@en .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centralita"@es .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@cs .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u00E9ro de poste"@fr .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fakss"@lv .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schakelbord"@nl .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b7 .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faks"@hr .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@it .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://www.w3.org/2004/02/skos/core#prefLabel> "B\u00FCro"@de .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pasta adrese"@lv .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://publications.europa.eu/ontology/authority/op-code> "TEL_SWI" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefono"@lt .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0442\u0435\u043B\u0435\u0444\u043E\u043D"@bg .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://publications.europa.eu/resource/authority/op-code> "OFFICE_NO" .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biroja adrese"@lv .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faksi"@fi .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://publications.europa.eu/ontology/authority/op-code> "MAIN" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://publications.europa.eu/resource/authority/op-code> "EMAIL" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://publications.europa.eu/resource/authority/op-code> "TEL" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@sl .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faks"@pl .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@da .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@hr .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://publications.europa.eu/ontology/authority/op-code> "FAX" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Faks"@mt .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@hu .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://purl.org/dc/elements/1.1/identifier> "TEL_EXT" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+_:ncfe1952d710e4d2293788c519d5970e9b2 <http://publications.europa.eu/ontology/authority/legacy-code> "POSTALADDRESS" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://publications.europa.eu/ontology/authority/authority-code> "EMAIL" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://publications.europa.eu/ontology/authority/authority-code> "FAX" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standard"@it .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@fr .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@es .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doorverbinding"@nl .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zentrale"@de .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Courrier \u00E9lectronique"@fr .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anschrift"@de .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://publications.europa.eu/ontology/authority/authority-code> "TEL" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://purl.org/dc/elements/1.1/identifier> "EMAIL" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://publications.europa.eu/resource/authority/op-code> "TEL_SWI" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefono"@it .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Main address"@en .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://purl.org/dc/elements/1.1/identifier> "OFFICE_NO" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@pl .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://publications.europa.eu/ontology/authority/op-code> "ADR_POSTAL" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://purl.org/dc/elements/1.1/identifier> "TEL" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@de .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Correo electr\u00F3nico"@es .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://publications.europa.eu/ontology/authority/authority-code> "TEL_SWI" .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Centr\u0101lais t\u0101lrunis"@lv .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://publications.europa.eu/resource/authority/op-code> "FAX" .
+_:ncfe1952d710e4d2293788c519d5970e9b3 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@sk .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://publications.europa.eu/ontology/authority/authority-code> "MAIN" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00E9l\u00E9phone"@fr .
+_:ncfe1952d710e4d2293788c519d5970e9b6 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fakso"@lt .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@ga .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b6 .
+_:ncfe1952d710e4d2293788c519d5970e9b3 <http://publications.europa.eu/ontology/authority/legacy-code> "FAX" .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telefon"@sv .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+_:ncfe1952d710e4d2293788c519d5970e9b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:ncfe1952d710e4d2293788c519d5970e9b4 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+_:ncfe1952d710e4d2293788c519d5970e9b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://publications.europa.eu/resource/authority/op-code> "ADR_OFFICE" .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@nl .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b5 .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03C4\u03B7\u03BB\u03B5\u03C6\u03CE\u03BD\u03BF\u03C5"@el .
+_:ncfe1952d710e4d2293788c519d5970e9b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@pt .
+<http://publications.europa.eu/resource/authority/address-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Address type"@en .
+<http://publications.europa.eu/resource/authority/address-type/OFFICE_NO> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Office address"@en .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b2 .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://publications.europa.eu/ontology/authority/authority-code> "ADR_OFFICE" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:ncfe1952d710e4d2293788c519d5970e9b3 .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/address-type/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+_:ncfe1952d710e4d2293788c519d5970e9b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telef\u00F3n"@sk .
+<http://publications.europa.eu/resource/authority/address-type/TEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guth\u00E1n"@ga .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://publications.europa.eu/resource/authority/op-code> "MAIN" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://purl.org/dc/elements/1.1/identifier> "FAX" .
+<http://publications.europa.eu/resource/authority/address-type/MAIN> <http://publications.europa.eu/ontology/authority/start.use> "2018-05-30" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_SWI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+<http://publications.europa.eu/resource/authority/address-type/EMAIL> <http://www.w3.org/2004/02/skos/core#prefLabel> "E-mail"@en .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Extension"@en .
+_:ncfe1952d710e4d2293788c519d5970e9b7 <http://publications.europa.eu/ontology/authority/legacy-code> "CENTRAL" .
+<http://publications.europa.eu/resource/authority/address-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/address-type> .
+_:ncfe1952d710e4d2293788c519d5970e9b2 <http://purl.org/dc/elements/1.1/source> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/address-type/FAX> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fax"@sl .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://purl.org/dc/elements/1.1/identifier> "ADR_OFFICE" .
+<http://publications.europa.eu/resource/authority/address-type/TEL_EXT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+

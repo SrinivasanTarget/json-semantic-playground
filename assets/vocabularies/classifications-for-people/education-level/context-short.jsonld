@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "title": "Country",
+    "version": "...",
+    "label": "short",
+    "description": "A framing context for a short version\nof the table.",
+    "index": "key",
+    "inScheme": "http://publications.europa.eu/resource/authority/country",
+    "_context": {
+      "@embed": "@once",
+      "@type": [
+        "skos:ConceptScheme"
+      ],
+      "@context": {
+        "@vocab": "http://www.w3.org/2004/02/skos/core#",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "adms": "http://www.w3.org/ns/adms#",
+        "dcatapit": "http://dati.gov.it/onto/dcatapit#",
+        "dct": "http://purl.org/dc/terms/",
+        "title": {
+          "@id": "dct:title",
+          "@language": "en"
+        },
+        "description": {
+          "@id": "dct:description",
+          "@language": "en"
+        },
+        "version": {
+          "@id": "dct:modified",
+          "@type": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "url": "@id",
+        "hasTopConcept": null
+      }
+    },
+    "schemas": {
+      "EducationLevelShort": {
+        "type": "object",
+        "required": [
+          "key",
+          "label_en",
+          "label_it"
+        ],
+        "properties": {
+          "key": {
+            "type": "string",
+            "pattern": "[A-Z0-9]{3}"
+          },
+          "description_en": {
+            "type": "string"
+          },
+          "description_it": {
+            "type": "string"
+          },
+          "label_en": {
+            "type": "string"
+          },
+          "label_it": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "@embed": "@always",
+  "@type": [
+    "skos:Concept"
+  ],
+  "@context": {
+    "@vocab": "https://w3id.org/italia/onto/CPV/",
+    "dct": "http://purl.org/dc/terms/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "key": {
+      "@id": "dct:identifier"
+    },
+    "url": "@id",
+    "description_en": {
+      "@id": "educationLevelDesc",
+      "@language": "en"
+    },
+    "description_it": {
+      "@id": "educationLevelDesc",
+      "@language": "it"
+    },
+    "label_en": {
+      "@id": "skos:prefLabel",
+      "@language": "en"
+    },
+    "label_it": {
+      "@id": "skos:prefLabel",
+      "@language": "it"
+    }
+  }
+}

@@ -1,0 +1,175 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/notice-type/OP_DATPRO
+- country_code: brin-ecs
+  deprecated: 'false'
+  key: brin-ecs
+  label_en: European Company / European Cooperative Society notice
+  url: http://publications.europa.eu/resource/authority/notice-type/brin-ecs
+  valid_from: '2021-09-29'
+- country_code: brin-eeig
+  deprecated: 'false'
+  key: brin-eeig
+  label_en: European Economic Interest Grouping notice
+  url: http://publications.europa.eu/resource/authority/notice-type/brin-eeig
+  valid_from: '2021-09-29'
+- country_code: can-desg
+  deprecated: 'false'
+  key: can-desg
+  label_en: Design contest result notice
+  label_it: Comunicazione dei risultati di un concorso di progettazione
+  url: http://publications.europa.eu/resource/authority/notice-type/can-desg
+  valid_from: '2019-09-18'
+- country_code: can-modif
+  deprecated: 'false'
+  key: can-modif
+  label_en: Contract modification notice
+  label_it: Avviso di modifica di un appalto
+  url: http://publications.europa.eu/resource/authority/notice-type/can-modif
+  valid_from: '2019-09-18'
+- country_code: can-social
+  deprecated: 'false'
+  key: can-social
+  label_en: "Contract or concession award notice \u2013 light regime"
+  label_it: "Avviso di aggiudicazione di un appalto o di una concessione \u2013 regime\
+    \ alleggerito"
+  url: http://publications.europa.eu/resource/authority/notice-type/can-social
+  valid_from: '2019-09-18'
+- country_code: can-standard
+  deprecated: 'false'
+  key: can-standard
+  label_en: "Contract or concession award notice \u2013 standard regime"
+  label_it: "Avviso di aggiudicazione di un appalto o di una concessione \u2013 regime\
+    \ ordinario"
+  url: http://publications.europa.eu/resource/authority/notice-type/can-standard
+  valid_from: '2019-09-18'
+- country_code: can-tran
+  deprecated: 'false'
+  key: can-tran
+  label_en: Contract award notice for public passenger transport services
+  url: http://publications.europa.eu/resource/authority/notice-type/can-tran
+  valid_from: '2021-09-29'
+- country_code: cn-desg
+  deprecated: 'false'
+  key: cn-desg
+  label_en: Design contest notice
+  label_it: Avviso o bando di concorso di progettazione
+  url: http://publications.europa.eu/resource/authority/notice-type/cn-desg
+  valid_from: '2019-09-18'
+- country_code: cn-social
+  deprecated: 'false'
+  key: cn-social
+  label_en: "Contract notice \u2013 light regime"
+  label_it: "Bando di gara \u2013 regime alleggerito"
+  url: http://publications.europa.eu/resource/authority/notice-type/cn-social
+  valid_from: '2019-09-18'
+- country_code: cn-standard
+  deprecated: 'false'
+  key: cn-standard
+  label_en: "Contract or concession notice \u2013 standard regime"
+  label_it: "Bando di gara o di concessione \u2013 regime ordinario"
+  url: http://publications.europa.eu/resource/authority/notice-type/cn-standard
+  valid_from: '2019-09-18'
+- country_code: corr
+  deprecated: 'false'
+  key: corr
+  label_en: Change notice
+  label_it: Avviso di rettifica
+  url: http://publications.europa.eu/resource/authority/notice-type/corr
+  valid_from: '2019-09-18'
+- country_code: pin-buyer
+  deprecated: 'false'
+  key: pin-buyer
+  label_en: Notice of the publication of a prior information notice or a periodic
+    information notice on a buyer profile
+  label_it: Avviso di pubblicazione di un avviso di preinformazione o di un avviso
+    periodico indicativo relativo al profilo di committente
+  url: http://publications.europa.eu/resource/authority/notice-type/pin-buyer
+  valid_from: '2019-09-18'
+- country_code: pin-cfc-social
+  deprecated: 'false'
+  key: pin-cfc-social
+  label_en: "Prior information notice or a periodic indicative notice used as a call\
+    \ for competition \u2013 light regime"
+  label_it: "Avviso di preinformazione o avviso periodico indicativo utilizzato come\
+    \ avviso di indizione di gara \u2013 regime alleggerito"
+  url: http://publications.europa.eu/resource/authority/notice-type/pin-cfc-social
+  valid_from: '2019-09-18'
+- country_code: pin-cfc-standard
+  deprecated: 'false'
+  key: pin-cfc-standard
+  label_en: "Prior information notice or a periodic indicative notice used as a call\
+    \ for competition \u2013 standard regime"
+  label_it: "Avviso di preinformazione o avviso periodico indicativo utilizzato come\
+    \ avviso di indizione di gara \u2013 regime ordinario"
+  url: http://publications.europa.eu/resource/authority/notice-type/pin-cfc-standard
+  valid_from: '2019-09-18'
+- country_code: pin-only
+  deprecated: 'false'
+  key: pin-only
+  label_en: Prior information notice or a periodic indicative notice used only for
+    information
+  label_it: Avviso di preinformazione o avviso periodico indicativo a fini unicamente
+    informativi
+  url: http://publications.europa.eu/resource/authority/notice-type/pin-only
+  valid_from: '2019-09-18'
+- country_code: pin-rtl
+  deprecated: 'false'
+  key: pin-rtl
+  label_en: Prior information notice or a periodic indicative notice used to shorten
+    time limits for receipt of tenders
+  label_it: Avviso di preinformazione o avviso periodico indicativo utilizzato per
+    abbreviare i termini per la ricezione delle offerte
+  url: http://publications.europa.eu/resource/authority/notice-type/pin-rtl
+  valid_from: '2019-09-18'
+- country_code: pin-tran
+  deprecated: 'false'
+  key: pin-tran
+  label_en: Prior information notice for public passenger transport services
+  url: http://publications.europa.eu/resource/authority/notice-type/pin-tran
+  valid_from: '2021-09-29'
+- country_code: qu-sy
+  deprecated: 'false'
+  key: qu-sy
+  label_en: Notice on the existence of a qualification system
+  label_it: Avviso sull'esistenza di un sistema di qualificazione
+  url: http://publications.europa.eu/resource/authority/notice-type/qu-sy
+  valid_from: '2019-09-18'
+- country_code: subco
+  deprecated: 'false'
+  key: subco
+  label_en: Subcontracting notice
+  label_it: Avviso di subappalto
+  url: http://publications.europa.eu/resource/authority/notice-type/subco
+  valid_from: '2019-09-18'
+- country_code: veat
+  deprecated: 'false'
+  key: veat
+  label_en: Voluntary ex-ante transparency notice
+  label_it: Avviso volontario per la trasparenza ex ante
+  url: http://publications.europa.eu/resource/authority/notice-type/veat
+  valid_from: '2019-09-18'

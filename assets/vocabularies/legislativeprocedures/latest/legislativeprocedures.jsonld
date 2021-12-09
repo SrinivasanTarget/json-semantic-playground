@@ -1,0 +1,3183 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/AVC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AVC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AVC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db6"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db7"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1987-07-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AVC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AVC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "9 domaines diffférents étaient soumis à la procédure de l'avis conforme introduite par l'acte Unique européen. Il ne peut donc pas exister une seule référence Celex. CF tableau APP/AVC ; 12007E0218_6"
+      },
+      {
+        "@language": "fr",
+        "@value": "julia: Introduction de la procédure de l'avis conforme dans l'Acte unique européen {11986U008 modifiant 11957E237 sur les accords d'adhésion , 11986U009 modifiant 11957E238-P2 sur les accords d'association"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The assent procedure, which was introduced by the Single European Act, gives Parliament the possibility of expressing its approval or disapproval of certain Council instruments. There are certain matters on which the Council cannot legislate unless Parliament gives its consent by an absolute majority of its members. The assent procedure, which represents as it were a right of veto for Parliament, was originally intended to apply only to the conclusion of association agreements and the examination of applications to join the European Community."
+      },
+      {
+        "@language": "fr",
+        "@value": "La procédure de l’avis conforme a été introduite par l’Acte unique européen et donne au Parlement la possibilité d’exprimer son accord ou son désaccord sur l’approbation de certains actes du Conseil. Le Conseil ne peut pas légiférer dans certaines matières si le Parlement, à la majorité absolue de ses membres, ne donne pas son accord. La procédure de l’avis conforme, qui représente quasiment un droit de veto du Parlement, était prévue à l’origine seulement pour la conclusion des accords d’association et pour l’examen des demandes d’adhésion à la Communauté européenne."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Процедура на одобрение (AVC)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Postup souhlasu EP (AVC)"
+      },
+      {
+        "@language": "da",
+        "@value": "Procedure med EP’s samstemmende udtalelse (AVC)"
+      },
+      {
+        "@language": "de",
+        "@value": "Zustimmungsverfahren (AVC)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικασία σύμφωνης γνώμης (AVC)"
+      },
+      {
+        "@language": "en",
+        "@value": "Assent procedure (AVC)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento de dictamen conforme (AVC)"
+      },
+      {
+        "@language": "et",
+        "@value": "Nõusolekumenetlus (AVC)"
+      },
+      {
+        "@language": "fi",
+        "@value": "EP:n hyväksyntämenettely (AVC)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure d’avis conforme du PE (AVC)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta an aontaithe (AVC)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak pristanka (AVC)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hozzájárulási eljárás (AVC)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di parere conforme (AVC)"
+      },
+      {
+        "@language": "lt",
+        "@value": "EP pritarimo procedūra (AVC)"
+      },
+      {
+        "@language": "lv",
+        "@value": "EP piekrišanas procedūra (AVC)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura ta' kunsens (AVC)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Instemmingsprocedure van het EP (AVC)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura zgody (AVC)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento de parecer favorável PE (AVC)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedura avizului conform (AVC)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Postup súhlasu EP (AVC)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Postopek privolitve EP (AVC)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samtyckesförfarandet (AVC)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(AVC;1020)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/PRT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db26"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db27"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "en",
+        "@value": "11992M/APS/04-P2 , 11992M/APS/02-P2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Социален протокол (PRT)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sociální protokol (PRT)"
+      },
+      {
+        "@language": "da",
+        "@value": "Protokol om social- og arbejdsmarkedspolitikken (PRT)"
+      },
+      {
+        "@language": "de",
+        "@value": "Protokoll über die Sozialpolitik (PRT)"
+      },
+      {
+        "@language": "el",
+        "@value": "Κοινωνικό πρωτόκολλο (PRT)"
+      },
+      {
+        "@language": "en",
+        "@value": "Social protocol (PRT)"
+      },
+      {
+        "@language": "es",
+        "@value": "Protocolo social (PRT)"
+      },
+      {
+        "@language": "et",
+        "@value": "Sotsiaalprotokoll (PRT)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Pöytäkirja sosiaalipolitiikasta (PRT)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Protocole social (PRT)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Prótacal sóisialta (PRT)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Socijalni protokol (PRT)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jegyzőkönyv a szociálpolitikáról (PRT)"
+      },
+      {
+        "@language": "it",
+        "@value": "Protocollo sulla politica sociale (PRT)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Socialinis protokolas (PRT)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sociālais protokols (PRT)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Protokoll soċjali (PRT)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Sociaal protocol (PRT)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Protokół socjalny (PRT)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Protocolo social (PRT)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Protocol social (PRT)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sociálny protokol (PRT)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Socialni protokol (PRT)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Protokoll om socialpolitik (PRT)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db26",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PRT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db27",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(PRT;1025)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/COD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db17"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db18"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "en",
+        "@value": "11992E189B , 11997E251 , 12002E251 , 12006E251 , 11957E0251"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The codecision procedure was first introduced with the Maastricht Treaty in 1992. Its purpose was the joint adoption of legislation on an equal footing by the European Parliament and the Council. In 1999, the Treaty of Amsterdam greatly extended the use case of this procedure into new policy areas. With the Treaty of Lisbon in 2009, the procedure was renamed the Ordinary Legislative Procedure, becoming the main decision making procedure covering the vast majority of areas of today’s Union’s action. "
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Процедура за съвместно вземане на решение (COD)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Postup spolurozhodování (COD)"
+      },
+      {
+        "@language": "da",
+        "@value": "Fælles beslutningsprocedure (COD)"
+      },
+      {
+        "@language": "de",
+        "@value": "Mitentscheidungsverfahren (COD)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικασία συναπόφασης (COD)"
+      },
+      {
+        "@language": "en",
+        "@value": "Co-decision procedure (COD)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento de codecisión (COD)"
+      },
+      {
+        "@language": "et",
+        "@value": "Kaasotsustamismenetlus (COD)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteispäätösmenettely (COD)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure de codécision (COD)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta na comhchinnteoireachta (COD)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak suodlučivanja (COD)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Együttdöntési eljárás (COD)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di codecisione (COD)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendro sprendimo procedūra (COD)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Koplēmuma procedūra (COD)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura ta' Deċiżjoni konġunta (COD)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Medebeslissingsprocedure (COD)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura współdecyzji (COD)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento de co-decisão (COD)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură de codecizie (COD)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Postup spolurozhodovania (COD)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Postopek soodločanja (COD)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Medbeslutandeförfarandet (COD)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db17",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COD_OLD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db18",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(COD_OLD;1011)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/SYN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SYN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SYN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db31"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db32"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db33"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1987-07-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SYN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SYN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "Cf. Tableau excel SYN , 11957E0189_C"
+      },
+      {
+        "@language": "fr",
+        "@value": "julia: Pas de n° Celex unique. mk: No replacement, no successor?"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The cooperation procedure (formally known as the Article 252 procedure) was one of the legislative procedures of the European Communities, used mostly in the field of economic and monetary policy. Although the opinion of the European Parliament weighed heavily, it could not block the legislative process. The procedure was finally repealed by the Treaty of Lisbon in 2009."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Процедура на сътрудничество (SYN)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Postup spolupráce (SYN)"
+      },
+      {
+        "@language": "da",
+        "@value": "Samarbejdsprocedure (SYN)"
+      },
+      {
+        "@language": "de",
+        "@value": "Verfahren der Zusammenarbeit (SYN)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικασία συνεργασίας (SYN)"
+      },
+      {
+        "@language": "en",
+        "@value": "Cooperation procedure (SYN)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento de cooperación (SYN)"
+      },
+      {
+        "@language": "et",
+        "@value": "Koostöömenetlus (SYN)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteistoimintamenettely (SYN)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure de coopération (SYN)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta comhair (SYN)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak suradnje (SYN)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Együttműködési eljárás (SYN)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di cooperazione (SYN)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendradarbiavimo procedūra (SYN)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sadarbības procedūra (SYN)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura ta' kooperazzjoni (SYN)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Samenwerkingsprocedure (SYN)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura współpracy (SYN)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento de cooperação (SYN)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură de cooperare (SYN)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Postup spolupráce (SYN)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Postopek sodelovanja (SYN)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samarbetsförfarandet (SYN)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db31",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SYN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db32",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(SYN;1005)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db33",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SYN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/CNS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db14"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db15"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "La procédure de consultation était à l'origine la seule possibilité dont disposait le PE dans l'élaboration des actes normatifs de la Communauté. Elle était donc mentionnée dans les articles qui la prévoyaient. Il n'y avait pas d'article générique unique. { 12006M , 12002M , 11997M , 1992M , 12006E , 12002E , 1997E , 11992E , 11957E }"
+      },
+      {
+        "@language": "fr",
+        "@value": "julia:s'agit il de l'initiative prévue à l'art.289P4 ou bien de celle prévue à l'art. 225 qui consiste plus pour le PE à suggérer à la Comm° une proposition d'acte législatif ?"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Процедура на консултация (CNS)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Postup konzultace (CNS)"
+      },
+      {
+        "@language": "da",
+        "@value": "Høringsprocedure (CNS)"
+      },
+      {
+        "@language": "de",
+        "@value": "Konsultationsverfahren (CNS)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικασία διαβούλευσης (CNS)"
+      },
+      {
+        "@language": "en",
+        "@value": "Consultation procedure (CNS)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento de consulta (CNS)"
+      },
+      {
+        "@language": "et",
+        "@value": "Nõuandemenetlus (CNS)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kuulemismenettely (CNS)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure de consultation (CNS)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta comhairliúcháin (CNS)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak savjetovanja (CNS)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Konzultációs eljárás (CNS)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di consultazione (CNS)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konsultavimosi procedūra (CNS)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apspriešanās procedūra (CNS)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura ta' konsultazzjoni (CNS)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Raadplegingsprocedure (CNS)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura konsultacji (CNS)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Procedimento de consulta (CNS)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură de consultare (CNS)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Postup konzultácie (CNS)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Postopek posvetovanja (CNS)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samrådsförfarandet (CNS)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CNS_OLD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(CNS_OLD;1016)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db16",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/APP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db3"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db4"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "16 domaines différents sont soumis a cette procédure depuis l'entrée en vigueur du trait de lisbonne. Il ne peut donc pas exister une seule référence Celex. Cf tableau APP /AVC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "In certain legislative areas, the European Parliament is requested to give its consent, as a special legislative procedure under Article 289(2) of the Treaty on the Functioning of the European Union (TFEU). The consent procedure gives Parliament the right of veto. Parliament's role is thus to approve or reject the legislative proposal without further amendments and the Council cannot overrule Parliament's opinion. Consent is also required as a non-legislative procedure when the Council is adopting certain international agreements."
+      },
+      {
+        "@language": "fr",
+        "@value": "En vertu de l’article 289 du traité sur le fonctionnement de l’Union européenne (TFUE), la consultation est une procédure législative spéciale, dans le cadre de laquelle le Parlement donne son avis sur les propositions législatives avant que le Conseil ne les adopte."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Специална законодателна процедура – одобряване от ЕП (APP)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zvláštní legislativní postup – souhlas EP (APP)"
+      },
+      {
+        "@language": "da",
+        "@value": "Særlig lovgivningsprocedure – godkendelse fra Europa-Parlamentet (APP)"
+      },
+      {
+        "@language": "de",
+        "@value": "Besonderes Rechtsetzungsverfahren — Zustimmung des Parlaments (APP)"
+      },
+      {
+        "@language": "el",
+        "@value": "Ειδική νομοθετική διαδικασία – έγκριση από το ΕΚ (APP)"
+      },
+      {
+        "@language": "en",
+        "@value": "Special legislative procedure — EP consent required (APP)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento legislativo especial — Aprobación del PE (APP)"
+      },
+      {
+        "@language": "et",
+        "@value": "Seadusandlik erimenetlus – Euroopa Parlamendi nõusolek vajalik (APP)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Erityinen lainsäätämisjärjestys – Euroopan parlamentin hyväksyntä (APP)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure législative spéciale — approbation du PE (APP)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta reachtach speisialta – toiliú PE de dhíth (APP)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Poseban zakonodavni postupak – obvezna suglasnost EP-a (APP)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Különleges jogalkotási eljárás – az Európai Parlament jóváhagyásával (APP)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura legislativa speciale — Approvazione del PE (APP)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Speciali teisėkūros procedūra – EP pritarimas (APP)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Īpašā likumdošanas procedūra — EP piekrišana (APP)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura leġiżlattiva speċjali – approvazzjoni tal-PE (APP)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bijzondere wetgevingsprocedure — goedkeuring van het EP (APP)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Szczególna procedura prawodawcza – zgoda PE (APP)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo legislativo especial – aprovação do PE (APP)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură legislativă specială – aprobarea PE (APP)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mimoriadny legislatívny postup – súhlas EP (APP)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Posebni zakonodajni postopek – odobritev EP (APP)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Särskilt lagstiftningsförfarande – godkännande av parlamentet (APP)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(APP;1030)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "APP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/OLP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OLP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OLP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db23"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db24"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db25"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OLP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OLP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "Le traité de Lisbonne a généralisé la procédure de codécision de très nombreaux domaines Cf tableau COD. Seul le mécanisme de la procédure est décrit à l'art. 294. 12010E294 , 12008E294 , 12007E0294"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The ordinary legislative procedure consists in the joint adoption by the European Parliament and the Council of a regulation, directive or decision in general on a proposal from the Commission. It is defined in Article 294 of the Treaty on the Functioning of the European Union as the most common EU law making procedure. It gives the European Parliament the power to adopt EU laws jointly with the Council of the European Union. With the Lisbon Treaty, the European Parliament has become a co-legislator on an equal footing with the Council, except in the cases provided for in the Treaties where consultation or consent procedures apply."
+      },
+      {
+        "@language": "fr",
+        "@value": "La procédure législative ordinaire consiste en l’adoption conjointe par le Parlement européen et le Conseil d’un règlement, d’une directive ou d’une décision en général sur une proposition de la Commission. Elle est définie par l’article 294 du traité sur le fonctionnement de l’Union européenne comme la procédure législative de l’Union européenne (UE) la plus courante. Elle donne au Parlement européen le pouvoir d’arrêter des actes conjointement avec le Conseil de l’Union européenne. Avec l’entrée en vigueur du traité de Lisbonne, le Parlement européen est devenu colégislateur, à égalité avec le Conseil, sauf dans les cas, prévus par les traités, où les procédures de consultation et d’approbation s’appliquent."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Обикновена законодателна процедура (COD)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Řádný legislativní postup (COD)"
+      },
+      {
+        "@language": "da",
+        "@value": "Almindelig lovgivningsprocedure (COD)"
+      },
+      {
+        "@language": "de",
+        "@value": "Ordentliches Gesetzgebungsverfahren (COD)"
+      },
+      {
+        "@language": "el",
+        "@value": "Συνήθης νομοθετική διαδικασία (COD)"
+      },
+      {
+        "@language": "en",
+        "@value": "Ordinary legislative procedure (COD)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento legislativo ordinario (COD)"
+      },
+      {
+        "@language": "et",
+        "@value": "Seadusandlik tavamenetlus (COD)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tavallinen lainsäätämisjärjestys (COD)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure législative ordinaire (COD)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gnáthnós imeachta reachtach (COD)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Redovni zakonodavni postupak (COD)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Rendes jogalkotási eljárás (COD)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura legislativa ordinaria (COD)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Įprasta teisėkūros procedūra (COD)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Parastā likumdošanas procedūra (COD)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura leġiżlattiva ordinarja (COD)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gewone wetgevingsprocedure (COD)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zwykła procedura prawodawcza (COD)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo legislativo ordinário (COD)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură legislativă ordinară (COD)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Riadny legislatívny postup (COD)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Redni zakonodajni postopek (COD)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ordinarie lagstiftningsförfarande (COD)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db23",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db24",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(COD;1010)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db25",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interinstitutional procedure"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "procedure"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Interinstitutional procedure"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Interinstitutional procedure"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/ACC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ACC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ACC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db1"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ACC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ACC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "en",
+        "@value": "1957E228 , 1992E228 , 1997E300 , 12002E300 , 12006E300 , 12008E218 , 12010E218"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Споразумение (ACC)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dohoda (ACC)"
+      },
+      {
+        "@language": "da",
+        "@value": "Enighed (ACC)"
+      },
+      {
+        "@language": "de",
+        "@value": "Abkommen (ACC)"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμφωνία (ACC)"
+      },
+      {
+        "@language": "en",
+        "@value": "Agreement (ACC)"
+      },
+      {
+        "@language": "es",
+        "@value": "Acuerdo (ACC)"
+      },
+      {
+        "@language": "et",
+        "@value": "Kokkulepe (ACC)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sopimus (ACC)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Accord (ACC)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhaontú (ACC)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sporazum (ACC)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Megállapodás (ACC)"
+      },
+      {
+        "@language": "it",
+        "@value": "Accordo (ACC)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Susitarimas (ACC)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nolīgums (ACC)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ftehim (ACC)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Akkoord (ACC)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zgoda (ACC)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Acordo (ACC)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Acord (ACC)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dohoda (ACC)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sporazum (ACC)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samtycke (ACC)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(ACC;10000)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ACC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/SLP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SLP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SLP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db28"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db29"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SLP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SLP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "29 domaines, dénombrés à ce jour, sont soumis à la procédure de consultation telle qu'issue deu traité de Lisbonne. Il n'existe pas de référence Celex unique. Cf tableau CNS"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cf tableau"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Under Article 289 of the Treaty on the Functioning of the European Union (TFEU), consultation is a special legislative procedure, whereby Parliament is asked for its opinion on proposed legislation before the Council adopts it."
+      },
+      {
+        "@language": "fr",
+        "@value": "En vertu de l’article 289 du traité sur le fonctionnement de l’Union européenne (TFUE), la consultation est une procédure législative spéciale, dans le cadre de laquelle le Parlement donne son avis sur les propositions législatives avant que le Conseil ne les adopte."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Специална законодателна процедура – консултация с ЕП (CNS)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zvláštní legislativní postup – konzultace s EP (CNS)"
+      },
+      {
+        "@language": "da",
+        "@value": "Særlig lovgivningsprocedure – høring af Europa-Parlamentet (CNS)"
+      },
+      {
+        "@language": "de",
+        "@value": "Besonderes Rechtsetzungsverfahren – Konsultation des Parlaments (CNS)"
+      },
+      {
+        "@language": "el",
+        "@value": "Ειδική νομοθετική διαδικασία – διαβούλευση με το ΕΚ (CNS)"
+      },
+      {
+        "@language": "en",
+        "@value": "Special legislative procedure — EP consulted (CNS)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento legislativo especial — Consulta al PE (CNS)"
+      },
+      {
+        "@language": "et",
+        "@value": "Seadusandlik erimenetlus – konsulteeritakse Euroopa Parlamendiga (CNS)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Erityinen lainsäätämisjärjestys – Euroopan parlamentin kuuleminen (CNS)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure législative spéciale — consultation du PE (CNS)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta reachtach speisialta – chuathas i gcomhairle le PE (CNS)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Poseban zakonodavni postupak – nakon savjetovanja s EP-om (CNS)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Különleges jogalkotási eljárás – konzultáció az Európai Parlamenttel (CNS)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura legislativa speciale — Consultazione del PE (CNS)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Speciali teisėkūros procedūra – konsultacija su EP (CNS)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Īpašā likumdošanas procedūra — apspriešanās ar EP (CNS)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura leġiżlattiva speċjali — konsultazzjoni tal-PE (CNS)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bijzondere wetgevingsprocedure — raadpleging van het EP (CNS)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Szczególna procedura prawodawcza – konsultacja z PE (CNS)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo legislativo especial – consulta do PE (CNS)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură legislativă specială – consultarea PE (CNS)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mimoriadny legislatívny postup – porada s EP (CNS)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Posebni zakonodajni postopek – posvetovanje z EP (CNS)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Särskilt lagstiftningsförfarande – samråd med parlamentet (CNS)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db28",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db29",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CNS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db30",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(CNS;1015)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/CNB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CNB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CNB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db10"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CNB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CNB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "en",
+        "@value": "Doc. identifier is \"CON\""
+      },
+      {
+        "@language": "fr",
+        "@value": "*politique économique et monétaire : 12010E126 , 12008E126 , 12006E104,12002E104, 11997E104 , 11992E104C , 12010E127, 12008E127, 12006E105, 12002E105, 11997E105, 11992E105 * accords internationaux :12010E219 {ex-art 111P1à 3et5 TCE} ET 12010E138 {ex-art111P4TCE}, 12008E219 {idem}, 12006E111, 12002E111, 11997E111, 11992E109 12007E0115"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Консултация с Европейската централна банка (CNB)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Konzultace Evropské centrální banky (CNB)"
+      },
+      {
+        "@language": "da",
+        "@value": "Høring af Den Europæiske Centralbank (CNB)"
+      },
+      {
+        "@language": "de",
+        "@value": "Anhörung Europäische Zentralbank (CNB)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαβούλευση της Ευρωπαϊκής Κεντρικής Τράπεζας (CNB)"
+      },
+      {
+        "@language": "en",
+        "@value": "Consultation of the European Central Bank (CNB)"
+      },
+      {
+        "@language": "es",
+        "@value": "Consulta del Banco Central Europeo (CNB)"
+      },
+      {
+        "@language": "et",
+        "@value": "Konsulteerimine Euroopa Keskpangaga (CNB)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan keskuspankin kuuleminen (CNB)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Consultation de la Banque centrale européenne (CNB)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhairliúchán an Bhainc Cheannais Eorpaigh (CNB)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Savjetovanje s Europskom središnjom bankom (CNB)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Konzultáció az Európai Központi Bankkal (CNB)"
+      },
+      {
+        "@language": "it",
+        "@value": "Consultazione della Banca centrale europea (CNB)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konsultavimasis su Europos centriniu banku (CNB)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apspriešanās ar Eiropas Centrālo banku (CNB)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konsultazzjoni tal-Bank Ċentrali Ewropew (CNB)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Raadpleging van de Europese Centrale Bank (CNB)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Konsultacja Europejskiego Banku Centralnego (CNB)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Consulta do Banco Central Europeu (CNB)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Consultarea Băncii Centrale Europene (CNB)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Konzultácia s Európskou centrálnou bankou (CNB)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Posvetovanje z Evropsko centralno banko (CNB)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samråd med Europeiska centralbanken (CNB)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CNB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(CNB;100000)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/BUD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BUD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BUD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BUD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BUD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The general principles of the Union's annual budget are set in Article 310 of the Treaty on the Functioning of the European Union. This provision also mentioned the decision-making process to be followed for drafting and adopting the EU’s annual budget (formerly the European Economic Community): ‘The Union’s annual budget shall be established by the European Parliament and the Council in accordance with Article 314.’ This latter article provides that in this context the European Parliament and the Council act in accordance with a special legislative procedure and the various stages of this procedure are described in the rest of the text (from the submission of the draft budget by the Commission to the definitive adoption of the Budget)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#historyNote": [
+      {
+        "@language": "en",
+        "@value": "On 14 August 2020, (BUD) was added to the end of the label in order to align the label of this concept with other labels in this scheme."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Бюджетна процедура (BUD)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Rozpočtový proces (BUD)"
+      },
+      {
+        "@language": "da",
+        "@value": "Budgetbehandling (BUD)"
+      },
+      {
+        "@language": "de",
+        "@value": "Verfahren zur Feststellung des Haushaltsplans (BUD)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικασία του προϋπολογισμού (BUD)"
+      },
+      {
+        "@language": "en",
+        "@value": "Budgetary procedure (BUD)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento presupuestario (BUD)"
+      },
+      {
+        "@language": "et",
+        "@value": "Eelarvemenetlus (BUD)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Talousarviomenettely (BUD)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure budgétaire (BUD)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta buiséadach (BUD)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Proračunski postupak (BUD)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Költségvetési eljárás (BUD)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di bilancio (BUD)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Biudžeto procedūra (BUD)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Budžeta procedūra (BUD)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura baġitarja (BUD)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Procedure tot vaststelling van de begroting (BUD)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura budżetowa (BUD)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo orçamental (BUD)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură bugetară (BUD)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rozpočtový postup (BUD)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Proračunski postopek (BUD)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Budgetförfarande (BUD)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "BUD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/CNC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CNC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CNC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db12"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db13"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CNC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CNC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "fr",
+        "@value": "12006E279 , 12002E279 , 1997E279 , 1992E209 11992E0187"
+      },
+      {
+        "@language": "fr",
+        "@value": "depuis TFUE consultation CNC intégrée dans COD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Until the entry into force of the Treaty of Lisbon, the procedure of consultation of the Court of Auditors was used for a few specific legal acts related to the financial regulations applicable to the European Development Fund (EDF)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Консултация със Сметната палата (CNC)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Konzultace Účetního dvora (CNC)"
+      },
+      {
+        "@language": "da",
+        "@value": "Høring af Revisionsretten (CNC)"
+      },
+      {
+        "@language": "de",
+        "@value": "Anhörung des Rechnungshofes (CNC)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαβούλευση του Ελεγκτικού Συνεδρίου (CNC)"
+      },
+      {
+        "@language": "en",
+        "@value": "Consultation of the Court of Auditors (CNC)"
+      },
+      {
+        "@language": "es",
+        "@value": "Consulta del Tribunal de Cuentas (CNC)"
+      },
+      {
+        "@language": "et",
+        "@value": "Konsulteerimine kontrollikojaga (CNC)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tilintarkastustuomioistuimen kuuleminen (CNC)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Consultation de la Cour des Comptes (CNC)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Dul i gcomhairle leis an gCúirt Iniúchóirí (CNC)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Savjetovanje s Revizorskim sudom (CNC)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Konzultáció a Számvevőszékkel (CNC)"
+      },
+      {
+        "@language": "it",
+        "@value": "Consultazione della Corte dei conti (CNC)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konsultavimasis su Audito Rūmais (CNC)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apspriešanās ar Revīzijas palātu (CNC)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konsultazzjoni tal-Qorti tal-Awdituri (CNC)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Raadpleging Rekenkamer (CNC)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Konsultacja Trybunału Obrachunkowego (CNC)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Consulta do Tribunal de Contas (CNC)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Consultarea Curţii de Conturi (CNC)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Konzultácia s Dvorom audítorov (CNC)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Posvetovanje z Računskim sodiščem (CNC)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Samråd med revisionsrätten (CNC)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(CNC;100060)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CNC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/NLE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NLE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NLE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db20"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db21"
+      },
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db22"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NLE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NLE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#changeNote": [
+      {
+        "@language": "en",
+        "@value": "12010E290 12010E291 , 12010E290 , 12008E291"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Незаконодателна процедура (NLE)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Nelegislativní postup (NLE)"
+      },
+      {
+        "@language": "da",
+        "@value": "Ikkelovgivningsprocedure (NLE)"
+      },
+      {
+        "@language": "de",
+        "@value": "Rechtsetzungsverfahren ohne Gesetzescharakter (NLE)"
+      },
+      {
+        "@language": "el",
+        "@value": "Μη νομοθετική διαδικασία (NLE)"
+      },
+      {
+        "@language": "en",
+        "@value": "Non-legislative procedure (NLE)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento no legislativo (NLE)"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu kui seadusandlik menetlus (NLE)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muu kuin lainsäädäntömenettely (NLE)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure non législative (NLE)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta neamhreachtach (NLE)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nezakonodavni postupak (NLE)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nem jogalkotási eljárás (NLE)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura non legislativa (NLE)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ne teisėkūros procedūra (NLE)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ar likumdošanu nesaistīta procedūra (NLE)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura mhux leġiżlattiva (NLE)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Niet-wetgevingsprocedure (NLE)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura o charakterze nieprawodawczym (NLE)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo não legislativo (NLE)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedură nelegislativă (NLE)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nelegislatívny postup (NLE)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Nezakonodajni postopek (NLE)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Icke-lagstiftningsförfarande (NLE)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db20",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "NLE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db21",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "(NLE;1035)"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PreLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db22",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_609"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "NLE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "ATTO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure/DEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n1b98dd14462343099c5554e33b079d3db19"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Article 319 of the Treaty on the Functioning of the European Union establishes that the European Parliament, acting on a recommendation of the Council, decides on whether to grant discharge to the European Commission as regards the implementation of the annual budget of the European Union."
+      },
+      {
+        "@language": "fr",
+        "@value": "L’article 319 du Traité sur le fonctionnement de l’Union européenne dispose que le Parlement européen, sur recommandation du Conseil, décide s’il y a lieu de donner décharge à la Commission européenne pour l’exécution du budget annuel de l’Union européenne."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#historyNote": [
+      {
+        "@language": "en",
+        "@value": "On 14 August 2020, (DEC) was added to the end of the label in order to align the label of this concept with other labels in this scheme."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Процедура по освобождаване от отговорност във връзка с изпълнението на бюджета (DEC)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Postup pro udělování absolutoria (DEC)"
+      },
+      {
+        "@language": "da",
+        "@value": "Budgetdechargeprocedure (DEC)"
+      },
+      {
+        "@language": "de",
+        "@value": "Entlastungsverfahren (DEC)"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικασία απαλλαγής για τον προϋπολογισμό (DEC)"
+      },
+      {
+        "@language": "en",
+        "@value": "Budgetary discharge procedure (DEC)"
+      },
+      {
+        "@language": "es",
+        "@value": "Procedimiento de aprobación de la gestión presupuestaria (DEC)"
+      },
+      {
+        "@language": "et",
+        "@value": "Eelarve täitmisele heakskiidu andmise menetlus (DEC)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Talousarviota koskeva vastuusvapausmenettely (DEC)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Procédure de décharge budgétaire (DEC)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta um urscaoileadh buiséadach (DEC)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak davanja razrješnice (DEC)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Költségvetési mentesítési eljárás (DEC)"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di discarico del bilancio (DEC)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Biudžeto įvykdymo patvirtinimo procedūra (DEC)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Budžeta izpildes apstiprinājuma procedūra (DEC)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura ta' kwittanza baġitarja (DEC)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Procedure tot kwijting van de begroting (DEC)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura udzielania absolutorium z wykonania budżetu (DEC)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo de quitação orçamental (DEC)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Procedura de descărcare de gestiune (DEC)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Postup udelenia rozpočtového absolutória (DEC)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Postopek proračunske razrešnice (DEC)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Beviljande av ansvarsfrihet för budgeten (DEC)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1b98dd14462343099c5554e33b079d3db19",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legislativeprocedures/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure"
+      }
+    ]
+  }
+]

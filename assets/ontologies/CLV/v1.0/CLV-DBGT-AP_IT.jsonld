@@ -1,0 +1,159 @@
+[
+  {
+    "@id": "https://w3id.org/italia/onto/CLV-DBGT",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Ontology"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@language": "en",
+        "@value": "Institute of Cognitive Sciences and Technologies of the Italian Research Council (CNR) - Semantic Technology Laboratory (STLab)"
+      },
+      {
+        "@language": "en",
+        "@value": "Agency for Digital Italy - AgID"
+      },
+      {
+        "@language": "en",
+        "@value": "Italian Digital Transformation Team"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/issued": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-08-25"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/modified": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2018-08-25"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@language": "en",
+        "@value": "These are the alignments to Italian GeoTopographic Database"
+      },
+      {
+        "@value": "Questi sono gli allineamenti dell'ontologia sugli indirizzi/luoghi Core Location Vocabulary - Italian Application Profile  (CLV-AP_IT) alle specifiche del database geotopografico."
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#imports": [
+      {
+        "@id": "https://w3id.org/italia/onto/CLV"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionIRI": [
+      {
+        "@id": "https://w3id.org/italia/onto/CLV-DBGT/0.1"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@language": "it",
+        "@value": "Versione 0.1 - creazione allineamento alle specifiche del database geotopografico"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CLV/CivicNumbering",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "@id": "https://w3id.org/italia/onto/CLV/"
+      }
+    ],
+    "https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment": [
+      {
+        "@value": "030102"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CLV/StreetToponym",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "@id": "https://w3id.org/italia/onto/CLV/"
+      }
+    ],
+    "https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment": [
+      {
+        "@value": "030101"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CLV/Address",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "@id": "https://w3id.org/italia/onto/CLV/"
+      }
+    ],
+    "https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment": [
+      {
+        "@value": "030104"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CLV/InternalAccess",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Class"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+      {
+        "@id": "https://w3id.org/italia/onto/CLV/"
+      }
+    ],
+    "https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment": [
+      {
+        "@value": "030105"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CLV-DBGT/DBGTAlignment",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#AnnotationProperty"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@language": "en",
+        "@value": "This property is used to align elements of the Core Location Vocabulary - Italian Application Profile to the Italian Geotopographic database"
+      },
+      {
+        "@language": "it",
+        "@value": "Questa proprietà è utilizzata per allineare alcuni elementi dell'ontologia dei luoghi/indirizzi alle specifiche italiane del Database Geotopografico DBGT"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#domain": [
+      {
+        "@id": "http://www.w3.org/2002/07/owl#Thing"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Alignment to Italian Geotopographic database"
+      },
+      {
+        "@language": "it",
+        "@value": "Allineamento alle specifiche italiane DBGT"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#range": [
+      {
+        "@id": "http://www.w3.org/2000/01/rdf-schema#Literal"
+      }
+    ]
+  }
+]

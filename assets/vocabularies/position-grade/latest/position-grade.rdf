@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR3">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR3</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR3</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR3</atold:op-code>
+    <dc:identifier>CONTR3</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent III</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual III</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC1</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC1</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC1</atold:op-code>
+    <dc:identifier>SC1</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary 1</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG037"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC 1</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD5">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD5</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD5</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD5</atold:op-code>
+    <dc:identifier>AD5</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 5</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 5</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST6">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST6</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST6</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST6</atold:op-code>
+    <dc:identifier>AST6</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 6</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 6</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4_14">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4_14</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4_14</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4_14</atold:op-code>
+    <dc:identifier>CONTR4_14</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV/14</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG033"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV-14</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR3_11">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR3_11</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR3_11</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR3_11</atold:op-code>
+    <dc:identifier>CONTR3_11</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent III/11</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG032"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual III-11</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR3_10">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR3_10</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR3_10</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR3_10</atold:op-code>
+    <dc:identifier>CONTR3_10</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent III/10</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG032"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual III-10</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR1_2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR1_2</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR1_2</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR1_2</atold:op-code>
+    <dc:identifier>CONTR1_2</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent I/2</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG030"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual I-2</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD</atold:op-code>
+    <dc:identifier>AD</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST4">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST4</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST4</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST4</atold:op-code>
+    <dc:identifier>AST4</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 4</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 4</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST1</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST1</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST1</atold:op-code>
+    <dc:identifier>AST1</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 1</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 1</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4_17">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4_17</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4_17</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4_17</atold:op-code>
+    <dc:identifier>CONTR4_17</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV/17</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG033"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV-17</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4_16">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4_16</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4_16</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4_16</atold:op-code>
+    <dc:identifier>CONTR4_16</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV/16</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG033"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV-16</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/NAT_EXP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>NAT_EXP</at:authority-code>
+    <at:deprecated>true</at:deprecated>
+    <at:end.use>1958-01-01</at:end.use>
+    <at:op-code>NAT_EXP</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>NAT_EXP</atold:op-code>
+    <dc:identifier>NAT_EXP</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Seconded national expert</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC4">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC4</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC4</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC4</atold:op-code>
+    <dc:identifier>SC4</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary 4</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG037"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC 4</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD12">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD12</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD12</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD12</atold:op-code>
+    <dc:identifier>AD12</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 12</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 12</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR1_3">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR1_3</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR1_3</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR1_3</atold:op-code>
+    <dc:identifier>CONTR1_3</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent I/3</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG030"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual I-3</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC2</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC2</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC2</atold:op-code>
+    <dc:identifier>SC2</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary 2</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG037"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC 2</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR3_8">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR3_8</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR3_8</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR3_8</atold:op-code>
+    <dc:identifier>CONTR3_8</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent III/8</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG032"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual III-8</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR3_12">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR3_12</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR3_12</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR3_12</atold:op-code>
+    <dc:identifier>CONTR3_12</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent III/12</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG032"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual III-12</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD13">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD13</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD13</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD13</atold:op-code>
+    <dc:identifier>AD13</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 13</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 13</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4_15">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4_15</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4_15</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4_15</atold:op-code>
+    <dc:identifier>CONTR4_15</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV/15</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG033"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV-15</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST10">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST10</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST10</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST10</atold:op-code>
+    <dc:identifier>AST10</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 10</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 10</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR2_6">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR2_6</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR2_6</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR2_6</atold:op-code>
+    <dc:identifier>CONTR2_6</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent II/6</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG031"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual II-6</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4_18">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4_18</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4_18</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4_18</atold:op-code>
+    <dc:identifier>CONTR4_18</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV/18</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG033"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV-18</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD15">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD15</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD15</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD15</atold:op-code>
+    <dc:identifier>AD15</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 15</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 15</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST5">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST5</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST5</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST5</atold:op-code>
+    <dc:identifier>AST5</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 5</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 5</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST2</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST2</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST2</atold:op-code>
+    <dc:identifier>AST2</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 2</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 2</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR2">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR2</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR2</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR2</atold:op-code>
+    <dc:identifier>CONTR2</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent II</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual II</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR1_1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR1_1</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR1_1</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR1_1</atold:op-code>
+    <dc:identifier>CONTR1_1</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent I/1</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG030"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual I-1</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST8">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST8</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST8</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST8</atold:op-code>
+    <dc:identifier>AST8</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 8</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 8</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC6">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC6</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC6</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC6</atold:op-code>
+    <dc:identifier>SC6</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary 6</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG037"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC 6</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST</atold:op-code>
+    <dc:identifier>AST</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD9">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD9</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD9</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD9</atold:op-code>
+    <dc:identifier>AD9</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 9</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 9</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR3_9">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR3_9</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR3_9</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR3_9</atold:op-code>
+    <dc:identifier>CONTR3_9</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent III/9</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG032"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual III-9</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4_13">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4_13</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4_13</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4_13</atold:op-code>
+    <dc:identifier>CONTR4_13</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV/13</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG033"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV-13</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD6">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD6</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD6</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD6</atold:op-code>
+    <dc:identifier>AD6</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 6</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 6</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST9">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST9</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST9</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST9</atold:op-code>
+    <dc:identifier>AST9</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 9</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 9</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD7">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD7</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD7</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD7</atold:op-code>
+    <dc:identifier>AD7</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 7</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 7</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR2_7">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR2_7</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR2_7</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR2_7</atold:op-code>
+    <dc:identifier>CONTR2_7</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent II/7</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG031"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual II-7</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD8">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD8</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD8</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD8</atold:op-code>
+    <dc:identifier>AD8</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 8</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 8</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD10">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD10</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD10</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD10</atold:op-code>
+    <dc:identifier>AD10</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 10</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 10</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC</atold:op-code>
+    <dc:identifier>SC</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR2_4">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR2_4</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR2_4</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR2_4</atold:op-code>
+    <dc:identifier>CONTR2_4</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent II/4</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG031"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual II-4</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST11">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST11</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST11</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST11</atold:op-code>
+    <dc:identifier>AST11</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 11</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 11</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR1">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR1</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR1</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR1</atold:op-code>
+    <dc:identifier>CONTR1</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent I</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual I</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Position grade</rdfs:label>
+    <at:prefLabel xml:lang="en">Position grade</at:prefLabel>
+    <at:table.id>position-grade</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Position grade</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR4">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR4</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR4</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR4</atold:op-code>
+    <dc:identifier>CONTR4</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent IV</skos:altLabel>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual IV</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD16">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD16</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD16</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD16</atold:op-code>
+    <dc:identifier>AD16</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 16</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 16</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST3">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST3</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST3</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST3</atold:op-code>
+    <dc:identifier>AST3</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 3</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 3</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AST7">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AST7</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AST7</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AST7</atold:op-code>
+    <dc:identifier>AST7</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant 7</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG036"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST 7</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD11">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD11</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD11</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD11</atold:op-code>
+    <dc:identifier>AD11</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 11</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 11</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC5">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC5</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC5</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC5</atold:op-code>
+    <dc:identifier>SC5</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary 5</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG037"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC 5</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/AD14">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AD14</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AD14</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>AD14</atold:op-code>
+    <dc:identifier>AD14</dc:identifier>
+    <skos:altLabel xml:lang="en">Administrator 14</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG035"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AD 14</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/CONTR2_5">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONTR2_5</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONTR2_5</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONTR2_5</atold:op-code>
+    <dc:identifier>CONTR2_5</dc:identifier>
+    <skos:altLabel xml:lang="en">Contractual agent II/5</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG031"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">Contractual II-5</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/position-grade/SC3">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SC3</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SC3</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>SC3</atold:op-code>
+    <dc:identifier>SC3</dc:identifier>
+    <skos:altLabel xml:lang="en">Assistant secretary 3</skos:altLabel>
+    <skos:broader rdf:resource="http://publications.europa.eu/resource/authority/position-grade/PSTG037"/>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/position-grade"/>
+    <skos:prefLabel xml:lang="en">AST/SC 3</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

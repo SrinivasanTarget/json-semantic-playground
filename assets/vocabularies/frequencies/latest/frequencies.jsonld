@@ -1,0 +1,5902 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/WEEKLY_3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WEEKLY_3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WEEKLY_3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b19"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WEEKLY_3"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WEEKLY_3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "el",
+        "@value": "τριεβδομαδιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "τριεβδομαδιαίο"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/threeTimesAWeek"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "три пъти на седмица"
+      },
+      {
+        "@language": "cs",
+        "@value": "třikrát týdně"
+      },
+      {
+        "@language": "da",
+        "@value": "tre gange ugentligt"
+      },
+      {
+        "@language": "de",
+        "@value": "dreimal in Woche"
+      },
+      {
+        "@language": "el",
+        "@value": "τριεβδομαδιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "three times a week"
+      },
+      {
+        "@language": "es",
+        "@value": "tres veces por semana"
+      },
+      {
+        "@language": "et",
+        "@value": "kolm korda nädalas"
+      },
+      {
+        "@language": "fi",
+        "@value": "kolme kertaa viikossa"
+      },
+      {
+        "@language": "fr",
+        "@value": "trois fois par semaine"
+      },
+      {
+        "@language": "ga",
+        "@value": "trí uair in aghaidh na seachtaine"
+      },
+      {
+        "@language": "hr",
+        "@value": "triput tjedno"
+      },
+      {
+        "@language": "hu",
+        "@value": "hetente háromszori"
+      },
+      {
+        "@language": "it",
+        "@value": "tre volte a settimana"
+      },
+      {
+        "@language": "lt",
+        "@value": "tris kartus per savaitę"
+      },
+      {
+        "@language": "lv",
+        "@value": "trīsreiz nedēļā"
+      },
+      {
+        "@language": "mt",
+        "@value": "tliet darbiet fil-ġimgħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "drie keer per week"
+      },
+      {
+        "@language": "no",
+        "@value": "tre ganger i uken"
+      },
+      {
+        "@language": "pl",
+        "@value": "trzy razy w tygodniu"
+      },
+      {
+        "@language": "pt",
+        "@value": "três vezes por semana"
+      },
+      {
+        "@language": "ro",
+        "@value": "de trei ori pe săptămână"
+      },
+      {
+        "@language": "sk",
+        "@value": "trikrát týždenne"
+      },
+      {
+        "@language": "sl",
+        "@value": "trikrat tedensko"
+      },
+      {
+        "@language": "sv",
+        "@value": "tre gånger per vecka"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b19",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "I"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/CONT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "постоянна"
+      },
+      {
+        "@language": "bg",
+        "@value": "постоянно"
+      },
+      {
+        "@language": "cs",
+        "@value": "průběžná"
+      },
+      {
+        "@language": "cs",
+        "@value": "průběžné"
+      },
+      {
+        "@language": "da",
+        "@value": "kontinuerlig"
+      },
+      {
+        "@language": "de",
+        "@value": "kontinuierliche"
+      },
+      {
+        "@language": "de",
+        "@value": "kontinuierliches"
+      },
+      {
+        "@language": "el",
+        "@value": "συνεχές"
+      },
+      {
+        "@language": "es",
+        "@value": "continua"
+      },
+      {
+        "@language": "fr",
+        "@value": "continuelle"
+      },
+      {
+        "@language": "hr",
+        "@value": "stalna"
+      },
+      {
+        "@language": "hr",
+        "@value": "stalno"
+      },
+      {
+        "@language": "it",
+        "@value": "continua"
+      },
+      {
+        "@language": "pl",
+        "@value": "ciągła"
+      },
+      {
+        "@language": "pl",
+        "@value": "ciągłe"
+      },
+      {
+        "@language": "pt",
+        "@value": "contínua"
+      },
+      {
+        "@language": "sk",
+        "@value": "priebežná"
+      },
+      {
+        "@language": "sk",
+        "@value": "priebežné"
+      },
+      {
+        "@language": "sl",
+        "@value": "nenehna"
+      },
+      {
+        "@language": "sl",
+        "@value": "nenehno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/continuous"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "постоянен"
+      },
+      {
+        "@language": "cs",
+        "@value": "průběžný"
+      },
+      {
+        "@language": "da",
+        "@value": "kontinuerligt"
+      },
+      {
+        "@language": "de",
+        "@value": "kontinuierlich"
+      },
+      {
+        "@language": "el",
+        "@value": "συνεχής"
+      },
+      {
+        "@language": "en",
+        "@value": "continuous"
+      },
+      {
+        "@language": "es",
+        "@value": "continuo"
+      },
+      {
+        "@language": "et",
+        "@value": "pidev"
+      },
+      {
+        "@language": "fi",
+        "@value": "jatkuva"
+      },
+      {
+        "@language": "fr",
+        "@value": "continuel"
+      },
+      {
+        "@language": "ga",
+        "@value": "leanúnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "stalan"
+      },
+      {
+        "@language": "hu",
+        "@value": "folyamatos"
+      },
+      {
+        "@language": "it",
+        "@value": "continuo"
+      },
+      {
+        "@language": "lt",
+        "@value": "nenutrūkstamas"
+      },
+      {
+        "@language": "lv",
+        "@value": "pastāvīgi"
+      },
+      {
+        "@language": "mt",
+        "@value": "kontinwu"
+      },
+      {
+        "@language": "nl",
+        "@value": "voortdurend"
+      },
+      {
+        "@language": "no",
+        "@value": "kontinuerlig"
+      },
+      {
+        "@language": "pl",
+        "@value": "ciągły"
+      },
+      {
+        "@language": "pt",
+        "@value": "contínuo"
+      },
+      {
+        "@language": "ro",
+        "@value": "continuu"
+      },
+      {
+        "@language": "sk",
+        "@value": "priebežný"
+      },
+      {
+        "@language": "sl",
+        "@value": "nenehen"
+      },
+      {
+        "@language": "sv",
+        "@value": "kontinuerlig"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b15"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "UNKNOWN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "непозната"
+      },
+      {
+        "@language": "bg",
+        "@value": "непознато"
+      },
+      {
+        "@language": "cs",
+        "@value": "neznámá"
+      },
+      {
+        "@language": "cs",
+        "@value": "neznámé"
+      },
+      {
+        "@language": "de",
+        "@value": "unbekannte"
+      },
+      {
+        "@language": "de",
+        "@value": "unbekanntes"
+      },
+      {
+        "@language": "el",
+        "@value": "άγνωστη"
+      },
+      {
+        "@language": "es",
+        "@value": "desconocida"
+      },
+      {
+        "@language": "fr",
+        "@value": "inconnue"
+      },
+      {
+        "@language": "hr",
+        "@value": "nepoznata"
+      },
+      {
+        "@language": "it",
+        "@value": "sconosciuta"
+      },
+      {
+        "@language": "lt",
+        "@value": "nežinoma"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieznana"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieznane"
+      },
+      {
+        "@language": "pt",
+        "@value": "desconhecida"
+      },
+      {
+        "@language": "ro",
+        "@value": "necunoscută"
+      },
+      {
+        "@language": "sk",
+        "@value": "neznáma"
+      },
+      {
+        "@language": "sk",
+        "@value": "neznáme"
+      },
+      {
+        "@language": "sl",
+        "@value": "nepoznana"
+      },
+      {
+        "@language": "sl",
+        "@value": "nepoznano"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "непознат"
+      },
+      {
+        "@language": "cs",
+        "@value": "neznámý"
+      },
+      {
+        "@language": "da",
+        "@value": "ubekendt"
+      },
+      {
+        "@language": "de",
+        "@value": "unbekannt"
+      },
+      {
+        "@language": "el",
+        "@value": "άγνωστος"
+      },
+      {
+        "@language": "en",
+        "@value": "unknown"
+      },
+      {
+        "@language": "es",
+        "@value": "desconocido"
+      },
+      {
+        "@language": "et",
+        "@value": "tundmatu"
+      },
+      {
+        "@language": "fi",
+        "@value": "tuntematon"
+      },
+      {
+        "@language": "fr",
+        "@value": "inconnu"
+      },
+      {
+        "@language": "ga",
+        "@value": "anaithnid"
+      },
+      {
+        "@language": "hr",
+        "@value": "nepoznat"
+      },
+      {
+        "@language": "hu",
+        "@value": "ismeretlen"
+      },
+      {
+        "@language": "it",
+        "@value": "sconosciuto"
+      },
+      {
+        "@language": "lt",
+        "@value": "nežinomas"
+      },
+      {
+        "@language": "lv",
+        "@value": "nav zināms"
+      },
+      {
+        "@language": "mt",
+        "@value": "mhux magħruf"
+      },
+      {
+        "@language": "nl",
+        "@value": "onbekend"
+      },
+      {
+        "@language": "no",
+        "@value": "ukjent"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieznany"
+      },
+      {
+        "@language": "pt",
+        "@value": "desconhecido"
+      },
+      {
+        "@language": "ro",
+        "@value": "necunoscut"
+      },
+      {
+        "@language": "sk",
+        "@value": "neznámy"
+      },
+      {
+        "@language": "sl",
+        "@value": "nepoznan"
+      },
+      {
+        "@language": "sv",
+        "@value": "obekant"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "U"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/DAILY_2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DAILY_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DAILY_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DAILY_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DAILY_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "два пъти на ден"
+      },
+      {
+        "@language": "cs",
+        "@value": "dvakrát denně"
+      },
+      {
+        "@language": "da",
+        "@value": "to gange om dagen"
+      },
+      {
+        "@language": "de",
+        "@value": "zweimal täglich"
+      },
+      {
+        "@language": "el",
+        "@value": "δύο φορές την ημέρα"
+      },
+      {
+        "@language": "en",
+        "@value": "twice a day"
+      },
+      {
+        "@language": "es",
+        "@value": "dos veces al día"
+      },
+      {
+        "@language": "et",
+        "@value": "kaks korda päevas"
+      },
+      {
+        "@language": "fi",
+        "@value": "kahdesti päivässä"
+      },
+      {
+        "@language": "fr",
+        "@value": "deux fois par jour"
+      },
+      {
+        "@language": "ga",
+        "@value": "dhá uair sa lá"
+      },
+      {
+        "@language": "hr",
+        "@value": "dvaput dnevno"
+      },
+      {
+        "@language": "hu",
+        "@value": "naponta kétszeri"
+      },
+      {
+        "@language": "it",
+        "@value": "due volte al giorno"
+      },
+      {
+        "@language": "lt",
+        "@value": "dukart per dieną"
+      },
+      {
+        "@language": "lv",
+        "@value": "divreiz dienā"
+      },
+      {
+        "@language": "mt",
+        "@value": "darbtejn kuljum"
+      },
+      {
+        "@language": "nl",
+        "@value": "tweemaal per dag"
+      },
+      {
+        "@language": "no",
+        "@value": "to ganger per dag"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwa razy dziennie"
+      },
+      {
+        "@language": "pt",
+        "@value": "duas vezes por dia"
+      },
+      {
+        "@language": "ro",
+        "@value": "de două ori pe zi"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvakrát denne"
+      },
+      {
+        "@language": "sl",
+        "@value": "dvakrat dnevno"
+      },
+      {
+        "@language": "sv",
+        "@value": "två gånger per dag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/BIMONTHLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BIMONTHLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BIMONTHLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BIMONTHLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BIMONTHLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "zweimonatliche"
+      },
+      {
+        "@language": "de",
+        "@value": "zweimonatliches"
+      },
+      {
+        "@language": "el",
+        "@value": "διμηνιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "διμηνιαίο"
+      },
+      {
+        "@language": "fr",
+        "@value": "bimestrielle"
+      },
+      {
+        "@language": "ro",
+        "@value": "bilunară"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojmesačná"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojmesačné"
+      },
+      {
+        "@language": "sl",
+        "@value": "dvomesečna"
+      },
+      {
+        "@language": "sl",
+        "@value": "dvomesečno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/bimonthly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "двухмесечен"
+      },
+      {
+        "@language": "cs",
+        "@value": "dvouměsíční"
+      },
+      {
+        "@language": "da",
+        "@value": "hver anden måned"
+      },
+      {
+        "@language": "de",
+        "@value": "zweimonatlich"
+      },
+      {
+        "@language": "el",
+        "@value": "διμηνιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "bimonthly"
+      },
+      {
+        "@language": "es",
+        "@value": "bimestral"
+      },
+      {
+        "@language": "et",
+        "@value": "kord kahe kuu jooksul"
+      },
+      {
+        "@language": "fi",
+        "@value": "kahdesti kuussa"
+      },
+      {
+        "@language": "fr",
+        "@value": "bimestriel"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach dhá mhí"
+      },
+      {
+        "@language": "hr",
+        "@value": "dvomjesečno"
+      },
+      {
+        "@language": "hu",
+        "@value": "kéthavonkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "bimestrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas du mėnesius"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi divos mēnešos"
+      },
+      {
+        "@language": "mt",
+        "@value": "bimensili"
+      },
+      {
+        "@language": "nl",
+        "@value": "tweemaandelijks"
+      },
+      {
+        "@language": "no",
+        "@value": "annenhver måned"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwumiesięcznik"
+      },
+      {
+        "@language": "pt",
+        "@value": "quinzenal"
+      },
+      {
+        "@language": "ro",
+        "@value": "bilunar"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojmesačný"
+      },
+      {
+        "@language": "sl",
+        "@value": "dvomesečen"
+      },
+      {
+        "@language": "sv",
+        "@value": "varannan månad"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "BIM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/QUADRENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "QUADRENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "QUADRENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "QUADRENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "QUADRENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "čtyřletá"
+      },
+      {
+        "@language": "cs",
+        "@value": "čtyřleté"
+      },
+      {
+        "@language": "de",
+        "@value": "vierjährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "vierjährliches"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на четири години"
+      },
+      {
+        "@language": "cs",
+        "@value": "čtyřletý"
+      },
+      {
+        "@language": "da",
+        "@value": "hvert fjerde år"
+      },
+      {
+        "@language": "de",
+        "@value": "vierjährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά τετραετία"
+      },
+      {
+        "@language": "en",
+        "@value": "quadrennial"
+      },
+      {
+        "@language": "es",
+        "@value": "cada cuatro años"
+      },
+      {
+        "@language": "et",
+        "@value": "iga nelja aasta järel"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka neljäs vuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "tous les quatre ans"
+      },
+      {
+        "@language": "ga",
+        "@value": "uair sna ceithre bliana"
+      },
+      {
+        "@language": "hr",
+        "@value": "svake četiri godine"
+      },
+      {
+        "@language": "hu",
+        "@value": "négyévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "ogni quattro anni"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas ketverius metus"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi četros gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "kwadriennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de vier jaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "co cztery lata"
+      },
+      {
+        "@language": "pt",
+        "@value": "quadrienal"
+      },
+      {
+        "@language": "ro",
+        "@value": "o dată la patru ani"
+      },
+      {
+        "@language": "sk",
+        "@value": "každé štyri roky"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsaka štiri leta"
+      },
+      {
+        "@language": "sv",
+        "@value": "vart fjärde år"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "IRREG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "IRREG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "IRREG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "IRREG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "неправилна"
+      },
+      {
+        "@language": "bg",
+        "@value": "неправилно"
+      },
+      {
+        "@language": "cs",
+        "@value": "nepravidelná"
+      },
+      {
+        "@language": "cs",
+        "@value": "nepravidelné"
+      },
+      {
+        "@language": "da",
+        "@value": "uregelmæssig"
+      },
+      {
+        "@language": "de",
+        "@value": "unregelmäßige"
+      },
+      {
+        "@language": "de",
+        "@value": "unregelmäßiges"
+      },
+      {
+        "@language": "el",
+        "@value": "μη τακτική"
+      },
+      {
+        "@language": "el",
+        "@value": "μη τακτικό"
+      },
+      {
+        "@language": "fr",
+        "@value": "irrégulière"
+      },
+      {
+        "@language": "hr",
+        "@value": "neredovita"
+      },
+      {
+        "@language": "lt",
+        "@value": "nereguliari"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieregularna"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieregularne"
+      },
+      {
+        "@language": "ro",
+        "@value": "neregulată"
+      },
+      {
+        "@language": "sk",
+        "@value": "nepravidelná"
+      },
+      {
+        "@language": "sk",
+        "@value": "nepravidelné"
+      },
+      {
+        "@language": "sl",
+        "@value": "nepravilna"
+      },
+      {
+        "@language": "sl",
+        "@value": "nepravilno"
+      },
+      {
+        "@language": "sv",
+        "@value": "oregelbunden"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/irregular"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "неправилен"
+      },
+      {
+        "@language": "cs",
+        "@value": "nepravidelný"
+      },
+      {
+        "@language": "da",
+        "@value": "uregelmæssigt"
+      },
+      {
+        "@language": "de",
+        "@value": "unregelmäßig"
+      },
+      {
+        "@language": "el",
+        "@value": "μη τακτικός"
+      },
+      {
+        "@language": "en",
+        "@value": "irregular"
+      },
+      {
+        "@language": "es",
+        "@value": "irregular"
+      },
+      {
+        "@language": "et",
+        "@value": "ebakorrapärane"
+      },
+      {
+        "@language": "fi",
+        "@value": "epäsäännöllinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "irrégulier"
+      },
+      {
+        "@language": "ga",
+        "@value": "neamhrialta"
+      },
+      {
+        "@language": "hr",
+        "@value": "neredovit"
+      },
+      {
+        "@language": "hu",
+        "@value": "rendszertelen"
+      },
+      {
+        "@language": "it",
+        "@value": "irregolare"
+      },
+      {
+        "@language": "lt",
+        "@value": "nereguliarus"
+      },
+      {
+        "@language": "lv",
+        "@value": "neregulāri"
+      },
+      {
+        "@language": "mt",
+        "@value": "irregolari"
+      },
+      {
+        "@language": "nl",
+        "@value": "onregelmatig"
+      },
+      {
+        "@language": "no",
+        "@value": "uregelmessig"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieregularny"
+      },
+      {
+        "@language": "pt",
+        "@value": "irregular"
+      },
+      {
+        "@language": "ro",
+        "@value": "neregulat"
+      },
+      {
+        "@language": "sk",
+        "@value": "nepravidelný"
+      },
+      {
+        "@language": "sl",
+        "@value": "nepravilen"
+      },
+      {
+        "@language": "sv",
+        "@value": "oregelbundet"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IRR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/TRIENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TRIENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TRIENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b14"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TRIENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TRIENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "tříletá"
+      },
+      {
+        "@language": "cs",
+        "@value": "tříleté"
+      },
+      {
+        "@language": "da",
+        "@value": "treårlig"
+      },
+      {
+        "@language": "de",
+        "@value": "dreijährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "dreijährliches"
+      },
+      {
+        "@language": "fr",
+        "@value": "triennale"
+      },
+      {
+        "@language": "pl",
+        "@value": "trzyletnia"
+      },
+      {
+        "@language": "pl",
+        "@value": "trzyletnie"
+      },
+      {
+        "@language": "ro",
+        "@value": "trienală"
+      },
+      {
+        "@language": "sk",
+        "@value": "trojročná"
+      },
+      {
+        "@language": "sk",
+        "@value": "trojročné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/triennial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тригодишен"
+      },
+      {
+        "@language": "cs",
+        "@value": "tříletý"
+      },
+      {
+        "@language": "da",
+        "@value": "treårligt"
+      },
+      {
+        "@language": "de",
+        "@value": "dreijährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "τριετής"
+      },
+      {
+        "@language": "en",
+        "@value": "triennial"
+      },
+      {
+        "@language": "es",
+        "@value": "trienal"
+      },
+      {
+        "@language": "et",
+        "@value": "iga kolme aasta järel"
+      },
+      {
+        "@language": "fi",
+        "@value": "kolmivuotinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "triennal"
+      },
+      {
+        "@language": "ga",
+        "@value": "tríbhliantúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "trijenale"
+      },
+      {
+        "@language": "hu",
+        "@value": "háromévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "triennale"
+      },
+      {
+        "@language": "lt",
+        "@value": "trimetis"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi trīs gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "triennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "driejaarlijks"
+      },
+      {
+        "@language": "no",
+        "@value": "hvert tredje år"
+      },
+      {
+        "@language": "pl",
+        "@value": "trzyletni"
+      },
+      {
+        "@language": "pt",
+        "@value": "trienal"
+      },
+      {
+        "@language": "ro",
+        "@value": "trienal"
+      },
+      {
+        "@language": "sk",
+        "@value": "trojročný"
+      },
+      {
+        "@language": "sl",
+        "@value": "trienale"
+      },
+      {
+        "@language": "sv",
+        "@value": "vart tredje år"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/NEVER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NEVER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NEVER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NEVER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NEVER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "никога"
+      },
+      {
+        "@language": "cs",
+        "@value": "nikdy"
+      },
+      {
+        "@language": "da",
+        "@value": "aldrig"
+      },
+      {
+        "@language": "de",
+        "@value": "niemals"
+      },
+      {
+        "@language": "el",
+        "@value": "ποτέ"
+      },
+      {
+        "@language": "en",
+        "@value": "never"
+      },
+      {
+        "@language": "es",
+        "@value": "nunca"
+      },
+      {
+        "@language": "et",
+        "@value": "mitte kunagi"
+      },
+      {
+        "@language": "fi",
+        "@value": "ei koskaan"
+      },
+      {
+        "@language": "fr",
+        "@value": "jamais"
+      },
+      {
+        "@language": "ga",
+        "@value": "riamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "nikada"
+      },
+      {
+        "@language": "hu",
+        "@value": "soha"
+      },
+      {
+        "@language": "it",
+        "@value": "mai"
+      },
+      {
+        "@language": "lt",
+        "@value": "niekada"
+      },
+      {
+        "@language": "lv",
+        "@value": "nekad"
+      },
+      {
+        "@language": "mt",
+        "@value": "qatt"
+      },
+      {
+        "@language": "nl",
+        "@value": "nooit"
+      },
+      {
+        "@language": "no",
+        "@value": "aldri"
+      },
+      {
+        "@language": "pl",
+        "@value": "nigdy"
+      },
+      {
+        "@language": "pt",
+        "@value": "nunca"
+      },
+      {
+        "@language": "ro",
+        "@value": "niciodată"
+      },
+      {
+        "@language": "sk",
+        "@value": "nikdy"
+      },
+      {
+        "@language": "sl",
+        "@value": "nikoli"
+      },
+      {
+        "@language": "sv",
+        "@value": "aldrig"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/HOURLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HOURLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HOURLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HOURLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HOURLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "stündliche"
+      },
+      {
+        "@language": "de",
+        "@value": "stündliches"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на всеки час"
+      },
+      {
+        "@language": "cs",
+        "@value": "každou hodinu"
+      },
+      {
+        "@language": "da",
+        "@value": "hver time"
+      },
+      {
+        "@language": "de",
+        "@value": "stündlich"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά ώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "hourly"
+      },
+      {
+        "@language": "es",
+        "@value": "cada hora"
+      },
+      {
+        "@language": "et",
+        "@value": "kord tunnis"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka tunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "toutes les heures"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach uair an chloig"
+      },
+      {
+        "@language": "hr",
+        "@value": "svaki sat"
+      },
+      {
+        "@language": "hu",
+        "@value": "óránkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "ogni ora"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas valandą"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi stundā"
+      },
+      {
+        "@language": "mt",
+        "@value": "kull siegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "om het uur"
+      },
+      {
+        "@language": "pl",
+        "@value": "co godzinę"
+      },
+      {
+        "@language": "pt",
+        "@value": "hora a hora"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare oră"
+      },
+      {
+        "@language": "sk",
+        "@value": "každú hodinu"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsako uro"
+      },
+      {
+        "@language": "sv",
+        "@value": "en gång i timmen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/TRIDECENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TRIDECENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TRIDECENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TRIDECENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TRIDECENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на тридесет години"
+      },
+      {
+        "@language": "cs",
+        "@value": "každých 30 let"
+      },
+      {
+        "@language": "da",
+        "@value": "hvert tredivte år"
+      },
+      {
+        "@language": "de",
+        "@value": "alle dreißig Jahre"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά τριάντα έτη"
+      },
+      {
+        "@language": "en",
+        "@value": "tridecennial"
+      },
+      {
+        "@language": "es",
+        "@value": "cada treinta años"
+      },
+      {
+        "@language": "et",
+        "@value": "iga 30 aasta tagant"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka kolmaskymmenes vuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "tous les trente ans"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach tríocha bliain"
+      },
+      {
+        "@language": "hr",
+        "@value": "svakih trideset godina"
+      },
+      {
+        "@language": "hu",
+        "@value": "harmincévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "tridecennale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas trisdešimt metų"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi 30 gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "trideċennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de dertig jaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "co trzydzieści lat"
+      },
+      {
+        "@language": "pt",
+        "@value": "de trinta em trinta anos"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare treizeci de ani"
+      },
+      {
+        "@language": "sk",
+        "@value": "každých tridsať rokov"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsakih trideset let"
+      },
+      {
+        "@language": "sv",
+        "@value": "vart 30:e år"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/BIENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BIENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BIENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BIENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BIENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "dvouletá"
+      },
+      {
+        "@language": "cs",
+        "@value": "dvouleté"
+      },
+      {
+        "@language": "da",
+        "@value": "toårig"
+      },
+      {
+        "@language": "de",
+        "@value": "zweijährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "zweijährliches"
+      },
+      {
+        "@language": "fr",
+        "@value": "biennale"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwuletnia"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwuletnie"
+      },
+      {
+        "@language": "ro",
+        "@value": "bienală"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojročná"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojročné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/biennial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "двегодишен"
+      },
+      {
+        "@language": "cs",
+        "@value": "dvouletý"
+      },
+      {
+        "@language": "da",
+        "@value": "toårigt"
+      },
+      {
+        "@language": "de",
+        "@value": "zweijährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "διετής"
+      },
+      {
+        "@language": "en",
+        "@value": "biennial"
+      },
+      {
+        "@language": "es",
+        "@value": "bienal"
+      },
+      {
+        "@language": "et",
+        "@value": "iga kahe aasta järel"
+      },
+      {
+        "@language": "fi",
+        "@value": "kaksivuotinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "biennal"
+      },
+      {
+        "@language": "ga",
+        "@value": "dhébhliantúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "bijenale"
+      },
+      {
+        "@language": "hu",
+        "@value": "kétévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "biennale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas dvejus metus"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi divos gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "biennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "tweejaarlijks"
+      },
+      {
+        "@language": "no",
+        "@value": "annethvert år"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwuletni"
+      },
+      {
+        "@language": "pt",
+        "@value": "bienal"
+      },
+      {
+        "@language": "ro",
+        "@value": "bienal"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojročný"
+      },
+      {
+        "@language": "sl",
+        "@value": "bienale"
+      },
+      {
+        "@language": "sv",
+        "@value": "vartannat år"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DAILY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DAILY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DAILY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DAILY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "ежедневна"
+      },
+      {
+        "@language": "bg",
+        "@value": "ежедневно"
+      },
+      {
+        "@language": "da",
+        "@value": "daglig"
+      },
+      {
+        "@language": "de",
+        "@value": "tägliche"
+      },
+      {
+        "@language": "de",
+        "@value": "tägliches"
+      },
+      {
+        "@language": "el",
+        "@value": "ημερήσια"
+      },
+      {
+        "@language": "el",
+        "@value": "ημερήσιο"
+      },
+      {
+        "@language": "es",
+        "@value": "diaria"
+      },
+      {
+        "@language": "fr",
+        "@value": "quotidienne"
+      },
+      {
+        "@language": "it",
+        "@value": "quotidiana"
+      },
+      {
+        "@language": "lt",
+        "@value": "kasdieninė"
+      },
+      {
+        "@language": "pt",
+        "@value": "diária"
+      },
+      {
+        "@language": "ro",
+        "@value": "zilnică"
+      },
+      {
+        "@language": "sk",
+        "@value": "denná"
+      },
+      {
+        "@language": "sk",
+        "@value": "denné"
+      },
+      {
+        "@language": "sl",
+        "@value": "dnevna"
+      },
+      {
+        "@language": "sl",
+        "@value": "dnevno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/daily"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ежедневен"
+      },
+      {
+        "@language": "cs",
+        "@value": "denní"
+      },
+      {
+        "@language": "da",
+        "@value": "dagligt"
+      },
+      {
+        "@language": "de",
+        "@value": "täglich"
+      },
+      {
+        "@language": "el",
+        "@value": "ημερήσιος"
+      },
+      {
+        "@language": "en",
+        "@value": "daily"
+      },
+      {
+        "@language": "es",
+        "@value": "diario"
+      },
+      {
+        "@language": "et",
+        "@value": "päevane"
+      },
+      {
+        "@language": "fi",
+        "@value": "päivittäin"
+      },
+      {
+        "@language": "fr",
+        "@value": "quotidien"
+      },
+      {
+        "@language": "ga",
+        "@value": "laethúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "dnevni"
+      },
+      {
+        "@language": "hu",
+        "@value": "naponkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "quotidiano"
+      },
+      {
+        "@language": "lt",
+        "@value": "kasdieninis"
+      },
+      {
+        "@language": "lv",
+        "@value": "katru dienu"
+      },
+      {
+        "@language": "mt",
+        "@value": "kuljum"
+      },
+      {
+        "@language": "nl",
+        "@value": "dagelijks"
+      },
+      {
+        "@language": "no",
+        "@value": "daglig"
+      },
+      {
+        "@language": "pl",
+        "@value": "dziennik"
+      },
+      {
+        "@language": "pt",
+        "@value": "diário"
+      },
+      {
+        "@language": "ro",
+        "@value": "zilnic"
+      },
+      {
+        "@language": "sk",
+        "@value": "denný"
+      },
+      {
+        "@language": "sl",
+        "@value": "dnevni"
+      },
+      {
+        "@language": "sv",
+        "@value": "dagligen"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Q"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/BIHOURLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BIHOURLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BIHOURLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BIHOURLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BIHOURLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на два часа"
+      },
+      {
+        "@language": "cs",
+        "@value": "každé 2 hodiny"
+      },
+      {
+        "@language": "da",
+        "@value": "hver anden time"
+      },
+      {
+        "@language": "de",
+        "@value": "alle zwei Stunden"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά δύο ώρες"
+      },
+      {
+        "@language": "en",
+        "@value": "bihourly"
+      },
+      {
+        "@language": "es",
+        "@value": "cada dos horas"
+      },
+      {
+        "@language": "et",
+        "@value": "iga kahe tunni tagant"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka toinen tunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "toutes les deux heures"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach dhá uair an chloig"
+      },
+      {
+        "@language": "hr",
+        "@value": "svaka dva sata"
+      },
+      {
+        "@language": "hu",
+        "@value": "kétóránkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "ogni due ore"
+      },
+      {
+        "@language": "lt",
+        "@value": "dvi valandas"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi divās stundās"
+      },
+      {
+        "@language": "mt",
+        "@value": "kull sagħtejn"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de twee uur"
+      },
+      {
+        "@language": "pl",
+        "@value": "co dwie godziny"
+      },
+      {
+        "@language": "pt",
+        "@value": "de duas em duas horas"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare două ore"
+      },
+      {
+        "@language": "sk",
+        "@value": "každé dve hodiny"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsaki dve uri"
+      },
+      {
+        "@language": "sv",
+        "@value": "varannan timme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL_2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ANNUAL_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ANNUAL_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ANNUAL_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ANNUAL_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "da",
+        "@value": "halvårlig"
+      },
+      {
+        "@language": "de",
+        "@value": "halbjährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "halbjährliches"
+      },
+      {
+        "@language": "el",
+        "@value": "εξαμηνιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "εξαμηνιαίο"
+      },
+      {
+        "@language": "fr",
+        "@value": "semestrielle"
+      },
+      {
+        "@language": "pl",
+        "@value": "półroczna"
+      },
+      {
+        "@language": "pl",
+        "@value": "półroczne"
+      },
+      {
+        "@language": "ro",
+        "@value": "semestrială"
+      },
+      {
+        "@language": "sk",
+        "@value": "polročná"
+      },
+      {
+        "@language": "sk",
+        "@value": "polročné"
+      },
+      {
+        "@language": "sl",
+        "@value": "polletna"
+      },
+      {
+        "@language": "sl",
+        "@value": "polletno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/semiannual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "два пъти на година"
+      },
+      {
+        "@language": "cs",
+        "@value": "pololetní"
+      },
+      {
+        "@language": "da",
+        "@value": "halvårligt"
+      },
+      {
+        "@language": "de",
+        "@value": "halbjährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "εξαμηνιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "semiannual"
+      },
+      {
+        "@language": "es",
+        "@value": "semestral"
+      },
+      {
+        "@language": "et",
+        "@value": "pooleaastane"
+      },
+      {
+        "@language": "fi",
+        "@value": "puolivuotinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "semestriel"
+      },
+      {
+        "@language": "ga",
+        "@value": "leathbhliantúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "polugodišnje"
+      },
+      {
+        "@language": "hu",
+        "@value": "félévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "semestrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas pusę metų"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi pusgadā"
+      },
+      {
+        "@language": "mt",
+        "@value": "kull sitt xhur"
+      },
+      {
+        "@language": "nl",
+        "@value": "halfjaarlijks"
+      },
+      {
+        "@language": "no",
+        "@value": "halvårlig"
+      },
+      {
+        "@language": "pl",
+        "@value": "półroczny"
+      },
+      {
+        "@language": "pt",
+        "@value": "semianual"
+      },
+      {
+        "@language": "ro",
+        "@value": "semestrial"
+      },
+      {
+        "@language": "sk",
+        "@value": "polročný"
+      },
+      {
+        "@language": "sl",
+        "@value": "polletni"
+      },
+      {
+        "@language": "sv",
+        "@value": "halvårs"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "S"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ANNUAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ANNUAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ANNUAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ANNUAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "годишна"
+      },
+      {
+        "@language": "bg",
+        "@value": "годишно"
+      },
+      {
+        "@language": "da",
+        "@value": "årlig"
+      },
+      {
+        "@language": "de",
+        "@value": "jährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "jährliches"
+      },
+      {
+        "@language": "el",
+        "@value": "ετήσια"
+      },
+      {
+        "@language": "el",
+        "@value": "ετήσιο"
+      },
+      {
+        "@language": "fr",
+        "@value": "annuelle"
+      },
+      {
+        "@language": "pl",
+        "@value": "roczna"
+      },
+      {
+        "@language": "pl",
+        "@value": "roczne"
+      },
+      {
+        "@language": "ro",
+        "@value": "anuală"
+      },
+      {
+        "@language": "sk",
+        "@value": "ročná"
+      },
+      {
+        "@language": "sk",
+        "@value": "ročné"
+      },
+      {
+        "@language": "sl",
+        "@value": "letna"
+      },
+      {
+        "@language": "sl",
+        "@value": "letno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/annual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "годишен"
+      },
+      {
+        "@language": "cs",
+        "@value": "roční"
+      },
+      {
+        "@language": "da",
+        "@value": "årligt"
+      },
+      {
+        "@language": "de",
+        "@value": "jährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "ετήσιος"
+      },
+      {
+        "@language": "en",
+        "@value": "annual"
+      },
+      {
+        "@language": "es",
+        "@value": "anual"
+      },
+      {
+        "@language": "et",
+        "@value": "aastane"
+      },
+      {
+        "@language": "fi",
+        "@value": "vuotuinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "annuel"
+      },
+      {
+        "@language": "ga",
+        "@value": "bliantúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "godišnje"
+      },
+      {
+        "@language": "hu",
+        "@value": "évenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "annuale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kasmetinis"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi gadā"
+      },
+      {
+        "@language": "mt",
+        "@value": "annwali"
+      },
+      {
+        "@language": "nl",
+        "@value": "jaarlijks"
+      },
+      {
+        "@language": "no",
+        "@value": "årlig"
+      },
+      {
+        "@language": "pl",
+        "@value": "roczny"
+      },
+      {
+        "@language": "pt",
+        "@value": "anual"
+      },
+      {
+        "@language": "ro",
+        "@value": "anual"
+      },
+      {
+        "@language": "sk",
+        "@value": "ročný"
+      },
+      {
+        "@language": "sl",
+        "@value": "letni"
+      },
+      {
+        "@language": "sv",
+        "@value": "årlig"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "UPDATE_CONT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "UPDATE_CONT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b16"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "UPDATE_CONT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "UPDATE_CONT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "průběžně aktualizovaná"
+      },
+      {
+        "@language": "cs",
+        "@value": "průběžně aktualizované"
+      },
+      {
+        "@language": "es",
+        "@value": "continuamente actualizada"
+      },
+      {
+        "@language": "pl",
+        "@value": "stale aktualizowana"
+      },
+      {
+        "@language": "pl",
+        "@value": "stale aktualizowane"
+      },
+      {
+        "@language": "pt",
+        "@value": "continuamente atualizada"
+      },
+      {
+        "@language": "sk",
+        "@value": "priebežne aktualizovaná"
+      },
+      {
+        "@language": "sk",
+        "@value": "priebežne aktualizované"
+      },
+      {
+        "@language": "sl",
+        "@value": "nenehno posodobljena"
+      },
+      {
+        "@language": "sl",
+        "@value": "nenehno posodobljeno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "постоянно се актуализира"
+      },
+      {
+        "@language": "cs",
+        "@value": "průběžně aktualizovaný"
+      },
+      {
+        "@language": "da",
+        "@value": "opdateres løbende"
+      },
+      {
+        "@language": "de",
+        "@value": "ständige Aktualisierung"
+      },
+      {
+        "@language": "el",
+        "@value": "ενημερώνεται συνεχώς"
+      },
+      {
+        "@language": "en",
+        "@value": "continuously updated"
+      },
+      {
+        "@language": "es",
+        "@value": "continuamente actualizado"
+      },
+      {
+        "@language": "et",
+        "@value": "ajakohastatakse pidevalt"
+      },
+      {
+        "@language": "fi",
+        "@value": "päivitetään jatkuvasti"
+      },
+      {
+        "@language": "fr",
+        "@value": "mise à jour continuelle"
+      },
+      {
+        "@language": "ga",
+        "@value": "á leasú chun dáta go leanúnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "stalno ažuriraju"
+      },
+      {
+        "@language": "hu",
+        "@value": "folyamatosan frissített"
+      },
+      {
+        "@language": "it",
+        "@value": "in continuo aggiornamento"
+      },
+      {
+        "@language": "lt",
+        "@value": "nuolat atnaujinama"
+      },
+      {
+        "@language": "lv",
+        "@value": "pastāvīgi tiek atjaunots"
+      },
+      {
+        "@language": "mt",
+        "@value": "kontinwament aġġornata"
+      },
+      {
+        "@language": "nl",
+        "@value": "voortdurend geactualiseerd"
+      },
+      {
+        "@language": "no",
+        "@value": "kontinuerlig oppdatert"
+      },
+      {
+        "@language": "pl",
+        "@value": "stale aktualizowany"
+      },
+      {
+        "@language": "pt",
+        "@value": "continuamente atualizado"
+      },
+      {
+        "@language": "ro",
+        "@value": "actualizare continuă"
+      },
+      {
+        "@language": "sk",
+        "@value": "priebežne aktualizovaný"
+      },
+      {
+        "@language": "sl",
+        "@value": "nenehno posodobljen"
+      },
+      {
+        "@language": "sv",
+        "@value": "uppdateras kontinuerligt"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b16",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "K"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/MONTHLY_2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MONTHLY_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MONTHLY_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b10"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MONTHLY_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MONTHLY_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "el",
+        "@value": "δεκαπενθήμερη"
+      },
+      {
+        "@language": "el",
+        "@value": "δεκαπενθήμερο"
+      },
+      {
+        "@language": "fr",
+        "@value": "bimensuelle"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/semimonthly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на половин месец"
+      },
+      {
+        "@language": "cs",
+        "@value": "dvakrát za měsíc"
+      },
+      {
+        "@language": "da",
+        "@value": "to gange månedligt"
+      },
+      {
+        "@language": "de",
+        "@value": "zweimal im Monat"
+      },
+      {
+        "@language": "el",
+        "@value": "δεκαπενθήμερος"
+      },
+      {
+        "@language": "en",
+        "@value": "semimonthly"
+      },
+      {
+        "@language": "es",
+        "@value": "bimensual"
+      },
+      {
+        "@language": "et",
+        "@value": "kaks korda kuus"
+      },
+      {
+        "@language": "fi",
+        "@value": "kaksi kertaa kuukaudessa"
+      },
+      {
+        "@language": "fr",
+        "@value": "bimensuel"
+      },
+      {
+        "@language": "ga",
+        "@value": "leath-míosúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "dvaput mjesečno"
+      },
+      {
+        "@language": "hu",
+        "@value": "félhavonkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "bimensile"
+      },
+      {
+        "@language": "lt",
+        "@value": "dukart per mėnesį"
+      },
+      {
+        "@language": "lv",
+        "@value": "divreiz mēnesī"
+      },
+      {
+        "@language": "mt",
+        "@value": "darbtejn fix-xahar"
+      },
+      {
+        "@language": "nl",
+        "@value": "twee keer per maand"
+      },
+      {
+        "@language": "no",
+        "@value": "to ganger i måneden"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwukrotnie w miesiącu"
+      },
+      {
+        "@language": "pt",
+        "@value": "duas vezes por mês"
+      },
+      {
+        "@language": "ro",
+        "@value": "se două ori pe lună"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvakrát mesačne"
+      },
+      {
+        "@language": "sl",
+        "@value": "dvakrat na mesec"
+      },
+      {
+        "@language": "sv",
+        "@value": "två gånger per månad"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "E"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/QUARTERLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "QUARTERLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "QUARTERLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b13"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "QUARTERLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "QUARTERLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "vierteljährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "vierteljährliches"
+      },
+      {
+        "@language": "el",
+        "@value": "τριμηνιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "τριμηνιαίο"
+      },
+      {
+        "@language": "fr",
+        "@value": "trimestrielle"
+      },
+      {
+        "@language": "ro",
+        "@value": "trimestrială"
+      },
+      {
+        "@language": "sk",
+        "@value": "štvrťročná"
+      },
+      {
+        "@language": "sk",
+        "@value": "štvrťročné"
+      },
+      {
+        "@language": "sl",
+        "@value": "četrtletna"
+      },
+      {
+        "@language": "sl",
+        "@value": "četrtletno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/quarterly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тримесечен"
+      },
+      {
+        "@language": "cs",
+        "@value": "čtvrtletní"
+      },
+      {
+        "@language": "da",
+        "@value": "kvartalsvis"
+      },
+      {
+        "@language": "de",
+        "@value": "vierteljährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "τριμηνιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "quarterly"
+      },
+      {
+        "@language": "es",
+        "@value": "trimestral"
+      },
+      {
+        "@language": "et",
+        "@value": "kvartaalne"
+      },
+      {
+        "@language": "fi",
+        "@value": "vuosineljänsittäin"
+      },
+      {
+        "@language": "fr",
+        "@value": "trimestriel"
+      },
+      {
+        "@language": "ga",
+        "@value": "ráitheachán"
+      },
+      {
+        "@language": "hr",
+        "@value": "tromjesečno"
+      },
+      {
+        "@language": "hu",
+        "@value": "negyedévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "trimestrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas ketvirtį"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi trīs mēnešos"
+      },
+      {
+        "@language": "mt",
+        "@value": "kull tliet xhur"
+      },
+      {
+        "@language": "nl",
+        "@value": "driemaandelijks"
+      },
+      {
+        "@language": "no",
+        "@value": "kvartalsvis"
+      },
+      {
+        "@language": "pl",
+        "@value": "kwartalnik"
+      },
+      {
+        "@language": "pt",
+        "@value": "trimestral"
+      },
+      {
+        "@language": "ro",
+        "@value": "trimestrial"
+      },
+      {
+        "@language": "sk",
+        "@value": "štvrťročný"
+      },
+      {
+        "@language": "sl",
+        "@value": "četrtletni"
+      },
+      {
+        "@language": "sv",
+        "@value": "kvartalsvis"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "T"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Frequency"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "frequency"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20190619-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Frequency"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20190619-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Frequency"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/DECENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DECENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DECENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DECENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DECENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на десет години"
+      },
+      {
+        "@language": "cs",
+        "@value": "každých 10 let"
+      },
+      {
+        "@language": "da",
+        "@value": "hvert tiende år"
+      },
+      {
+        "@language": "de",
+        "@value": "alle zehn Jahre"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά δέκα έτη"
+      },
+      {
+        "@language": "en",
+        "@value": "decennial"
+      },
+      {
+        "@language": "es",
+        "@value": "cada diez años"
+      },
+      {
+        "@language": "et",
+        "@value": "iga 10 aasta tagant"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka kymmenes vuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "tous les dix ans"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach deich mbliana"
+      },
+      {
+        "@language": "hr",
+        "@value": "svakih deset godina"
+      },
+      {
+        "@language": "hu",
+        "@value": "tízévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "decennale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas dešimt metų"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi 10 gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "deċennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de tien jaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "co dziesięć lat"
+      },
+      {
+        "@language": "pt",
+        "@value": "de dez em dez anos"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare zece ani"
+      },
+      {
+        "@language": "sk",
+        "@value": "každých desať rokov"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsakih deset let"
+      },
+      {
+        "@language": "sv",
+        "@value": "vart 10:e år"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/WEEKLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WEEKLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WEEKLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b17"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WEEKLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WEEKLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "седмична"
+      },
+      {
+        "@language": "bg",
+        "@value": "седмично"
+      },
+      {
+        "@language": "da",
+        "@value": "ugentlig"
+      },
+      {
+        "@language": "de",
+        "@value": "wöchentliche"
+      },
+      {
+        "@language": "de",
+        "@value": "wöchentliches"
+      },
+      {
+        "@language": "el",
+        "@value": "εβδομαδιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "εβδομαδιαίο"
+      },
+      {
+        "@language": "pt",
+        "@value": "hebdomadária"
+      },
+      {
+        "@language": "ro",
+        "@value": "săptămânală"
+      },
+      {
+        "@language": "sk",
+        "@value": "týždenná"
+      },
+      {
+        "@language": "sk",
+        "@value": "týždenné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/weekly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "седмичен"
+      },
+      {
+        "@language": "cs",
+        "@value": "týdenní"
+      },
+      {
+        "@language": "da",
+        "@value": "ugentligt"
+      },
+      {
+        "@language": "de",
+        "@value": "wöchentlich"
+      },
+      {
+        "@language": "el",
+        "@value": "εβδομαδιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "weekly"
+      },
+      {
+        "@language": "es",
+        "@value": "semanal"
+      },
+      {
+        "@language": "et",
+        "@value": "nädalane"
+      },
+      {
+        "@language": "fi",
+        "@value": "viikoittainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "hebdomadaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "in aghaidh na seachtaine"
+      },
+      {
+        "@language": "hr",
+        "@value": "tjedni"
+      },
+      {
+        "@language": "hu",
+        "@value": "hetenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "settimanale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas savaitę"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi nedēļā"
+      },
+      {
+        "@language": "mt",
+        "@value": "kull ġimgħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "wekelijks"
+      },
+      {
+        "@language": "no",
+        "@value": "ukentlig"
+      },
+      {
+        "@language": "pl",
+        "@value": "tygodnik"
+      },
+      {
+        "@language": "pt",
+        "@value": "hebdomadário"
+      },
+      {
+        "@language": "ro",
+        "@value": "săptămânal"
+      },
+      {
+        "@language": "sk",
+        "@value": "týždenný"
+      },
+      {
+        "@language": "sl",
+        "@value": "tedensko"
+      },
+      {
+        "@language": "sv",
+        "@value": "veckovis"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b17",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "H"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MONTHLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MONTHLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MONTHLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MONTHLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "da",
+        "@value": "månedlig"
+      },
+      {
+        "@language": "de",
+        "@value": "monatliche"
+      },
+      {
+        "@language": "de",
+        "@value": "monatliches"
+      },
+      {
+        "@language": "el",
+        "@value": "μηνιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "μηνιαίο"
+      },
+      {
+        "@language": "fr",
+        "@value": "mensuelle"
+      },
+      {
+        "@language": "ro",
+        "@value": "lunară"
+      },
+      {
+        "@language": "sk",
+        "@value": "mesačná"
+      },
+      {
+        "@language": "sk",
+        "@value": "mesačné"
+      },
+      {
+        "@language": "sl",
+        "@value": "mesečna"
+      },
+      {
+        "@language": "sl",
+        "@value": "mesečno"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/monthly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "месечен"
+      },
+      {
+        "@language": "cs",
+        "@value": "měsíční"
+      },
+      {
+        "@language": "da",
+        "@value": "månedligt"
+      },
+      {
+        "@language": "de",
+        "@value": "monatlich"
+      },
+      {
+        "@language": "el",
+        "@value": "μηνιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "monthly"
+      },
+      {
+        "@language": "es",
+        "@value": "mensual"
+      },
+      {
+        "@language": "et",
+        "@value": "igakuine"
+      },
+      {
+        "@language": "fi",
+        "@value": "kuukausittainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "mensuel"
+      },
+      {
+        "@language": "ga",
+        "@value": "míosúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "mjesečno"
+      },
+      {
+        "@language": "hu",
+        "@value": "havonkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "mensile"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas mėnesį"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi mēnesī"
+      },
+      {
+        "@language": "mt",
+        "@value": "mensili"
+      },
+      {
+        "@language": "nl",
+        "@value": "maandelijks"
+      },
+      {
+        "@language": "no",
+        "@value": "månedlig"
+      },
+      {
+        "@language": "pl",
+        "@value": "miesięcznik"
+      },
+      {
+        "@language": "pt",
+        "@value": "mensal"
+      },
+      {
+        "@language": "ro",
+        "@value": "lunar"
+      },
+      {
+        "@language": "sk",
+        "@value": "mesačný"
+      },
+      {
+        "@language": "sl",
+        "@value": "mesečen"
+      },
+      {
+        "@language": "sv",
+        "@value": "månatligen"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "M"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/WEEKLY_2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WEEKLY_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WEEKLY_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b18"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WEEKLY_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WEEKLY_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "el",
+        "@value": "διεβδομαδιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "διεβδομαδιαίο"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/semiweekly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "дваж на седмица"
+      },
+      {
+        "@language": "cs",
+        "@value": "dvakrát týdně"
+      },
+      {
+        "@language": "da",
+        "@value": "to gange ugentligt"
+      },
+      {
+        "@language": "de",
+        "@value": "zweimal in Woche"
+      },
+      {
+        "@language": "el",
+        "@value": "διεβδομαδιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "semiweekly"
+      },
+      {
+        "@language": "es",
+        "@value": "bisemanal"
+      },
+      {
+        "@language": "et",
+        "@value": "kaks korda nädalas"
+      },
+      {
+        "@language": "fi",
+        "@value": "kaksi kertaa viikossa"
+      },
+      {
+        "@language": "fr",
+        "@value": "bihebdomadaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "dhá uair in aghaidh na seachtaine"
+      },
+      {
+        "@language": "hr",
+        "@value": "dvaput tjedno"
+      },
+      {
+        "@language": "hu",
+        "@value": "hetente kétszeri"
+      },
+      {
+        "@language": "it",
+        "@value": "bisettimanale"
+      },
+      {
+        "@language": "lt",
+        "@value": "dukart per savaitę"
+      },
+      {
+        "@language": "lv",
+        "@value": "divreiz nedēļā"
+      },
+      {
+        "@language": "mt",
+        "@value": "darbtejn fil-ġimgħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "twee keer per week"
+      },
+      {
+        "@language": "no",
+        "@value": "to ganger i uken"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwa razy w tygodniu"
+      },
+      {
+        "@language": "pt",
+        "@value": "duas vezes por semana"
+      },
+      {
+        "@language": "ro",
+        "@value": "de două ori pe săptămână"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvakrát týždenne"
+      },
+      {
+        "@language": "sl",
+        "@value": "dvakrat tedensko"
+      },
+      {
+        "@language": "sv",
+        "@value": "två gånge per vecka"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b18",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "C"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/BIDECENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BIDECENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BIDECENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BIDECENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BIDECENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на двадесет години"
+      },
+      {
+        "@language": "cs",
+        "@value": "každých 20 let"
+      },
+      {
+        "@language": "da",
+        "@value": "hvert tyvende år"
+      },
+      {
+        "@language": "de",
+        "@value": "alle zwanzig Jahre"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά είκοσι έτη"
+      },
+      {
+        "@language": "en",
+        "@value": "bidecennial"
+      },
+      {
+        "@language": "es",
+        "@value": "cada veinte años"
+      },
+      {
+        "@language": "et",
+        "@value": "iga 20 aasta tagant"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka kahdeskymmenes vuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "tous les vingt ans"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach fiche bliain"
+      },
+      {
+        "@language": "hr",
+        "@value": "svakih dvadeset godina"
+      },
+      {
+        "@language": "hu",
+        "@value": "húszévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "bidecennale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas dvidešimt metų"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi 20 gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "bideċennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de twintig jaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "co dwadzieścia lat"
+      },
+      {
+        "@language": "pt",
+        "@value": "de vinte em vinte anos"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare douăzeci de ani"
+      },
+      {
+        "@language": "sk",
+        "@value": "každých dvadsať rokov"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsakih dvajset let"
+      },
+      {
+        "@language": "sv",
+        "@value": "vart 20:e år"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/BIWEEKLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BIWEEKLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BIWEEKLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BIWEEKLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BIWEEKLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "de",
+        "@value": "zweiwöchentliche"
+      },
+      {
+        "@language": "de",
+        "@value": "zweiwöchentliches"
+      },
+      {
+        "@language": "el",
+        "@value": "δισεβδομαδιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "δισεβδομαδιαίο"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojtýždenná"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojtýždenné"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/biweekly"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на две седмици"
+      },
+      {
+        "@language": "cs",
+        "@value": "čtrnáctidenní"
+      },
+      {
+        "@language": "da",
+        "@value": "hver fjortende dag"
+      },
+      {
+        "@language": "de",
+        "@value": "zweiwöchentlich"
+      },
+      {
+        "@language": "el",
+        "@value": "δισεβδομαδιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "biweekly"
+      },
+      {
+        "@language": "es",
+        "@value": "quincenal"
+      },
+      {
+        "@language": "et",
+        "@value": "kahenädalane"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka toinen viikko"
+      },
+      {
+        "@language": "fr",
+        "@value": "tous les quinze jours"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach coicís"
+      },
+      {
+        "@language": "hr",
+        "@value": "polumjesečno"
+      },
+      {
+        "@language": "hu",
+        "@value": "kéthetenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "quindicinale"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas dvi savaites"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi divās nedēļās"
+      },
+      {
+        "@language": "mt",
+        "@value": "ta’ kull ħmistax"
+      },
+      {
+        "@language": "nl",
+        "@value": "veertiendaags"
+      },
+      {
+        "@language": "no",
+        "@value": "hver fjortende dag"
+      },
+      {
+        "@language": "pl",
+        "@value": "dwutygodnik"
+      },
+      {
+        "@language": "pt",
+        "@value": "quinzenal"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare două săptămâni"
+      },
+      {
+        "@language": "sk",
+        "@value": "dvojtýždenný"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsakih štirinajst dni"
+      },
+      {
+        "@language": "sv",
+        "@value": "var fjortonde dag"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SEMIM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/QUINQUENNIAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "QUINQUENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "QUINQUENNIAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "QUINQUENNIAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "QUINQUENNIAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "cs",
+        "@value": "pětiletá"
+      },
+      {
+        "@language": "cs",
+        "@value": "pětileté"
+      },
+      {
+        "@language": "de",
+        "@value": "fünfjährliche"
+      },
+      {
+        "@language": "de",
+        "@value": "fünfjährliches"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на пет години"
+      },
+      {
+        "@language": "cs",
+        "@value": "pětiletý"
+      },
+      {
+        "@language": "da",
+        "@value": "hvert femte år"
+      },
+      {
+        "@language": "de",
+        "@value": "fünfjährlich"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά πενταετία"
+      },
+      {
+        "@language": "en",
+        "@value": "quinquennial"
+      },
+      {
+        "@language": "es",
+        "@value": "cada cinco años"
+      },
+      {
+        "@language": "et",
+        "@value": "iga viie aasta järel"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka viides vuosi"
+      },
+      {
+        "@language": "fr",
+        "@value": "tous les cinq ans"
+      },
+      {
+        "@language": "ga",
+        "@value": "uair sna cúig bliana"
+      },
+      {
+        "@language": "hr",
+        "@value": "svakih pet godina"
+      },
+      {
+        "@language": "hu",
+        "@value": "ötévenkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "ogni cinque anni"
+      },
+      {
+        "@language": "lt",
+        "@value": "kas penkerius metus"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi piecos gados"
+      },
+      {
+        "@language": "mt",
+        "@value": "kwinkwennali"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de vijf jaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "co pięć lat"
+      },
+      {
+        "@language": "pt",
+        "@value": "quinquenal"
+      },
+      {
+        "@language": "ro",
+        "@value": "o dată la cinci ani"
+      },
+      {
+        "@language": "sk",
+        "@value": "každých päť rokov"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsakih pet let"
+      },
+      {
+        "@language": "sv",
+        "@value": "vart femte år"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/OTHER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b12"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "друга"
+      },
+      {
+        "@language": "bg",
+        "@value": "друго"
+      },
+      {
+        "@language": "da",
+        "@value": "anden"
+      },
+      {
+        "@language": "de",
+        "@value": "andere"
+      },
+      {
+        "@language": "de",
+        "@value": "anderes"
+      },
+      {
+        "@language": "es",
+        "@value": "otra"
+      },
+      {
+        "@language": "lt",
+        "@value": "kita"
+      },
+      {
+        "@language": "pt",
+        "@value": "outra"
+      },
+      {
+        "@language": "sl",
+        "@value": "ostala"
+      },
+      {
+        "@language": "sl",
+        "@value": "ostalo"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "друг"
+      },
+      {
+        "@language": "cs",
+        "@value": "ostatní"
+      },
+      {
+        "@language": "da",
+        "@value": "andet"
+      },
+      {
+        "@language": "de",
+        "@value": "anderer"
+      },
+      {
+        "@language": "el",
+        "@value": "άλλο"
+      },
+      {
+        "@language": "en",
+        "@value": "other"
+      },
+      {
+        "@language": "es",
+        "@value": "otro"
+      },
+      {
+        "@language": "et",
+        "@value": "muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "muut"
+      },
+      {
+        "@language": "fr",
+        "@value": "autre"
+      },
+      {
+        "@language": "ga",
+        "@value": "eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "drugi"
+      },
+      {
+        "@language": "hu",
+        "@value": "egyéb"
+      },
+      {
+        "@language": "it",
+        "@value": "altro"
+      },
+      {
+        "@language": "lt",
+        "@value": "kitas"
+      },
+      {
+        "@language": "lv",
+        "@value": "citi"
+      },
+      {
+        "@language": "mt",
+        "@value": "oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "overige"
+      },
+      {
+        "@language": "no",
+        "@value": "annet"
+      },
+      {
+        "@language": "pl",
+        "@value": "inne"
+      },
+      {
+        "@language": "pt",
+        "@value": "outro"
+      },
+      {
+        "@language": "ro",
+        "@value": "altele"
+      },
+      {
+        "@language": "sk",
+        "@value": "ostatné"
+      },
+      {
+        "@language": "sl",
+        "@value": "ostali"
+      },
+      {
+        "@language": "sv",
+        "@value": "andra"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Z"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/TRIHOURLY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TRIHOURLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TRIHOURLY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TRIHOURLY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TRIHOURLY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "на три часа"
+      },
+      {
+        "@language": "cs",
+        "@value": "každé 3 hodiny"
+      },
+      {
+        "@language": "da",
+        "@value": "hver tredje time"
+      },
+      {
+        "@language": "de",
+        "@value": "alle drei Stunden"
+      },
+      {
+        "@language": "el",
+        "@value": "ανά τρεις ώρες"
+      },
+      {
+        "@language": "en",
+        "@value": "trihourly"
+      },
+      {
+        "@language": "es",
+        "@value": "cada tres horas"
+      },
+      {
+        "@language": "et",
+        "@value": "iga kolme tunni tagant"
+      },
+      {
+        "@language": "fi",
+        "@value": "joka kolmas tunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "toutes les trois heures"
+      },
+      {
+        "@language": "ga",
+        "@value": "gach trí uair an chloig"
+      },
+      {
+        "@language": "hr",
+        "@value": "svaka tri sata"
+      },
+      {
+        "@language": "hu",
+        "@value": "háromóránkénti"
+      },
+      {
+        "@language": "it",
+        "@value": "ogni tre ore"
+      },
+      {
+        "@language": "lt",
+        "@value": "tris valandas"
+      },
+      {
+        "@language": "lv",
+        "@value": "reizi trīs stundās"
+      },
+      {
+        "@language": "mt",
+        "@value": "kull tliet sigħat"
+      },
+      {
+        "@language": "nl",
+        "@value": "om de drie uur"
+      },
+      {
+        "@language": "pl",
+        "@value": "co trzy godziny"
+      },
+      {
+        "@language": "pt",
+        "@value": "de três em três horas"
+      },
+      {
+        "@language": "ro",
+        "@value": "la fiecare trei ore"
+      },
+      {
+        "@language": "sk",
+        "@value": "každé tri hodiny"
+      },
+      {
+        "@language": "sl",
+        "@value": "vsake tri ure"
+      },
+      {
+        "@language": "sv",
+        "@value": "var tredje timme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/MONTHLY_3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MONTHLY_3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MONTHLY_3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MONTHLY_3"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MONTHLY_3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/threeTimesAMonth"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "три пъти месечно"
+      },
+      {
+        "@language": "cs",
+        "@value": "třikrát za měsíc"
+      },
+      {
+        "@language": "da",
+        "@value": "tre gange månedligt"
+      },
+      {
+        "@language": "de",
+        "@value": "dreimal im Monat"
+      },
+      {
+        "@language": "el",
+        "@value": "τρεις φορές τον μήνα"
+      },
+      {
+        "@language": "en",
+        "@value": "three times a month"
+      },
+      {
+        "@language": "es",
+        "@value": "tres veces por mes"
+      },
+      {
+        "@language": "et",
+        "@value": "kolm korda kuus"
+      },
+      {
+        "@language": "fi",
+        "@value": "kolme kertaa kuukaudessa"
+      },
+      {
+        "@language": "fr",
+        "@value": "trois fois par mois"
+      },
+      {
+        "@language": "ga",
+        "@value": "trí uair sa mhí"
+      },
+      {
+        "@language": "hr",
+        "@value": "triput mjesečno"
+      },
+      {
+        "@language": "hu",
+        "@value": "havonta háromszori"
+      },
+      {
+        "@language": "it",
+        "@value": "tre volte al mese"
+      },
+      {
+        "@language": "lt",
+        "@value": "tris kartus per mėnesį"
+      },
+      {
+        "@language": "lv",
+        "@value": "trīsreiz mēnesī"
+      },
+      {
+        "@language": "mt",
+        "@value": "tliet darbiet fix-xahar"
+      },
+      {
+        "@language": "nl",
+        "@value": "drie keer per maand"
+      },
+      {
+        "@language": "no",
+        "@value": "tre ganger i måneden"
+      },
+      {
+        "@language": "pl",
+        "@value": "trzy razy w miesiącu"
+      },
+      {
+        "@language": "pt",
+        "@value": "três vezes por mês"
+      },
+      {
+        "@language": "ro",
+        "@value": "de trei ori pe lună"
+      },
+      {
+        "@language": "sk",
+        "@value": "trikrát mesačne"
+      },
+      {
+        "@language": "sl",
+        "@value": "trikrat na mesec"
+      },
+      {
+        "@language": "sv",
+        "@value": "tre gånger per månad"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "J"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/frequency/ANNUAL_3",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ANNUAL_3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ANNUAL_3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-25"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ANNUAL_3"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ANNUAL_3"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "el",
+        "@value": "τετραμηνιαία"
+      },
+      {
+        "@language": "el",
+        "@value": "τετραμηνιαίο"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://purl.org/cld/freq/threeTimesAYear"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/frequency"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "три пъти на година"
+      },
+      {
+        "@language": "cs",
+        "@value": "třikrát do roka"
+      },
+      {
+        "@language": "da",
+        "@value": "tre gange årligt"
+      },
+      {
+        "@language": "de",
+        "@value": "dreimal im Jahr"
+      },
+      {
+        "@language": "el",
+        "@value": "τετραμηνιαίος"
+      },
+      {
+        "@language": "en",
+        "@value": "three times a year"
+      },
+      {
+        "@language": "es",
+        "@value": "cuatrimestral"
+      },
+      {
+        "@language": "et",
+        "@value": "kolm korda aastas"
+      },
+      {
+        "@language": "fi",
+        "@value": "kolme kertaa vuodessa"
+      },
+      {
+        "@language": "fr",
+        "@value": "trois fois par an"
+      },
+      {
+        "@language": "ga",
+        "@value": "trí uair sa bhliain"
+      },
+      {
+        "@language": "hr",
+        "@value": "triput godišnje"
+      },
+      {
+        "@language": "hu",
+        "@value": "évente háromszori"
+      },
+      {
+        "@language": "it",
+        "@value": "tre volte all'anno"
+      },
+      {
+        "@language": "lt",
+        "@value": "tris kartus per metus"
+      },
+      {
+        "@language": "lv",
+        "@value": "trīsreiz gadā"
+      },
+      {
+        "@language": "mt",
+        "@value": "tliet darbiet fis-sena"
+      },
+      {
+        "@language": "nl",
+        "@value": "drie keer per jaar"
+      },
+      {
+        "@language": "no",
+        "@value": "tre ganger per år"
+      },
+      {
+        "@language": "pl",
+        "@value": "trzy razy w roku"
+      },
+      {
+        "@language": "pt",
+        "@value": "três vezes por ano"
+      },
+      {
+        "@language": "ro",
+        "@value": "de trei ori pe an"
+      },
+      {
+        "@language": "sk",
+        "@value": "trikrát do roka"
+      },
+      {
+        "@language": "sl",
+        "@value": "trikrat na leto"
+      },
+      {
+        "@language": "sv",
+        "@value": "tre gånger per år"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb6ddcb8dc79f4f58ac1fa308f6479dd6b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_FREQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "F"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  }
+]

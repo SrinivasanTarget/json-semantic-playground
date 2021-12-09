@@ -1,0 +1,2128 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ENVI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ENVI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ENVI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ENVI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Околна среда"
+      },
+      {
+        "@language": "cs",
+        "@value": "Životní prostředí"
+      },
+      {
+        "@language": "da",
+        "@value": "Miljø"
+      },
+      {
+        "@language": "de",
+        "@value": "Umwelt"
+      },
+      {
+        "@language": "el",
+        "@value": "Περιβάλλον"
+      },
+      {
+        "@language": "en",
+        "@value": "Environment"
+      },
+      {
+        "@language": "es",
+        "@value": "Medio ambiente"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskkond"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ympäristö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Environnement"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhshaol"
+      },
+      {
+        "@language": "hr",
+        "@value": "Okoliš"
+      },
+      {
+        "@language": "hu",
+        "@value": "Környezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Ambiente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Aplinka"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vide"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ambjent"
+      },
+      {
+        "@language": "nb",
+        "@value": "Miljø"
+      },
+      {
+        "@language": "nl",
+        "@value": "Milieu"
+      },
+      {
+        "@language": "nn",
+        "@value": "Miljø"
+      },
+      {
+        "@language": "no",
+        "@value": "Miljø"
+      },
+      {
+        "@language": "pl",
+        "@value": "Środowisko"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ambiente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Mediu"
+      },
+      {
+        "@language": "sk",
+        "@value": "Životné prostredie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Okolje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Miljö"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GOVE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GOVE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GOVE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GOVE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Правителство и публичен сектор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vláda a veřejný sektor"
+      },
+      {
+        "@language": "da",
+        "@value": "Regeringen og den offentlige sektor"
+      },
+      {
+        "@language": "de",
+        "@value": "Regierung und öffentlicher Sektor"
+      },
+      {
+        "@language": "el",
+        "@value": "Κυβέρνηση και δημόσιος τομέας"
+      },
+      {
+        "@language": "en",
+        "@value": "Government and public sector"
+      },
+      {
+        "@language": "es",
+        "@value": "Gobierno y sector público"
+      },
+      {
+        "@language": "et",
+        "@value": "Valitsus ja avalik sektor"
+      },
+      {
+        "@language": "fi",
+        "@value": "Valtioneuvosto ja julkinen sektori"
+      },
+      {
+        "@language": "fr",
+        "@value": "Gouvernement et secteur public"
+      },
+      {
+        "@language": "ga",
+        "@value": "Rialtas agus earnáil phoiblí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vlada i javni sektor"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kormányzat és közszféra"
+      },
+      {
+        "@language": "it",
+        "@value": "Governo e settore pubblico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vyriausybė ir viešasis sektorius"
+      },
+      {
+        "@language": "lv",
+        "@value": "Valdība un sabiedriskais sektors"
+      },
+      {
+        "@language": "mt",
+        "@value": "Gvern u settur pubbliku"
+      },
+      {
+        "@language": "nb",
+        "@value": "Forvaltning og offentlig sektor"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overheid en publieke sector"
+      },
+      {
+        "@language": "nn",
+        "@value": "Forvaltning og offentleg sektor"
+      },
+      {
+        "@language": "no",
+        "@value": "Forvaltning og offentlig sektor"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rząd i sektor publiczny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Governo e setor público"
+      },
+      {
+        "@language": "ro",
+        "@value": "Guvern şi sector public"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vláda a verejný sektor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vlada in javni sektor"
+      },
+      {
+        "@language": "sv",
+        "@value": "Regeringen och den offentliga sektorn"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/SOCI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SOCI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SOCI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SOCI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SOCI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Население и общество"
+      },
+      {
+        "@language": "cs",
+        "@value": "Populace a společnost"
+      },
+      {
+        "@language": "da",
+        "@value": "Befolkning og samfund"
+      },
+      {
+        "@language": "de",
+        "@value": "Bevölkerung und Gesellschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Πληθυσμός και κοινωνία"
+      },
+      {
+        "@language": "en",
+        "@value": "Population and society"
+      },
+      {
+        "@language": "es",
+        "@value": "Población y sociedad"
+      },
+      {
+        "@language": "et",
+        "@value": "Elanikkond ja ühiskond"
+      },
+      {
+        "@language": "fi",
+        "@value": "Väestö ja yhteiskunta"
+      },
+      {
+        "@language": "fr",
+        "@value": "Population et société"
+      },
+      {
+        "@language": "ga",
+        "@value": "Daonra agus sochaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Stanovništvo i društvo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Népesség és társadalom"
+      },
+      {
+        "@language": "it",
+        "@value": "Popolazione e società"
+      },
+      {
+        "@language": "lt",
+        "@value": "Gyventojų skaičius ir visuomenė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iedzīvotāji un sabiedrība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Popolazzjoni u soċjetà"
+      },
+      {
+        "@language": "nb",
+        "@value": "Befolkning og samfunn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bevolking en samenleving"
+      },
+      {
+        "@language": "nn",
+        "@value": "Befolkning og samfunn"
+      },
+      {
+        "@language": "no",
+        "@value": "Befolkning og samfunn"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ludność i społeczeństwo"
+      },
+      {
+        "@language": "pt",
+        "@value": "População e sociedade"
+      },
+      {
+        "@language": "ro",
+        "@value": "Populaţie şi societate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Obyvateľstvo a spoločnosť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Prebivalstvo in družba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Befolkning och samhälle"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AGRI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AGRI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AGRI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AGRI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Селско стопанство, рибарство, горско стопанство и храни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zemědělství, rybolov, lesnictví a výživa"
+      },
+      {
+        "@language": "da",
+        "@value": "Landbrug, fiskeri, skovbrug og fødevarer"
+      },
+      {
+        "@language": "de",
+        "@value": "Landwirtschaft, Fischerei, Forstwirtschaft und Nahrungsmittel"
+      },
+      {
+        "@language": "el",
+        "@value": "Γεωργία, αλιεία, δασοκομία και τρόφιμα"
+      },
+      {
+        "@language": "en",
+        "@value": "Agriculture, fisheries, forestry and food"
+      },
+      {
+        "@language": "es",
+        "@value": "Agricultura, pesca, silvicultura y alimentación"
+      },
+      {
+        "@language": "et",
+        "@value": "Põllumajandus, kalandus, metsandus ja toiduained"
+      },
+      {
+        "@language": "fi",
+        "@value": "Maatalous, kalastus, metsätalous ja elintarvikkeet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Agriculture, pêche, sylviculture et alimentation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Talmhaíocht, iascach, foraoiseacht agus bia"
+      },
+      {
+        "@language": "hr",
+        "@value": "Poljoprivreda, ribarstvo, šumarstvo i hrana"
+      },
+      {
+        "@language": "hu",
+        "@value": "Mezőgazdaság, halászat, erdészet és élelmiszer"
+      },
+      {
+        "@language": "it",
+        "@value": "Agricoltura, pesca, silvicoltura e prodotti alimentari"
+      },
+      {
+        "@language": "lt",
+        "@value": "Žemės ūkis, žuvininkystė, miškininkystė ir maistas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lauksaimniecība, zivsaimniecība, mežsaimniecība un pārtika"
+      },
+      {
+        "@language": "mt",
+        "@value": "Agrikoltura, sajd, forestrija u ikel"
+      },
+      {
+        "@language": "nb",
+        "@value": "Jordbruk, fiskeri, skogbruk og mat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Landbouw, visserij, bosbouw en voeding"
+      },
+      {
+        "@language": "nn",
+        "@value": "Jordbruk, fiskeri, skogbruk og mat"
+      },
+      {
+        "@language": "no",
+        "@value": "Jordbruk, fiskeri, skogbruk og mat"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rolnictwo, rybołówstwo, leśnictwo i żywność"
+      },
+      {
+        "@language": "pt",
+        "@value": "Agricultura, pesca, silvicultura e alimentação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Agricultură, pescuit, silvicultură şi hrană"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poľnohospodárstvo, rybné hospodárstvo, lesníctvo a potravinárstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Kmetijstvo, ribištvo, gozdarstvo in prehrana"
+      },
+      {
+        "@language": "sv",
+        "@value": "Jordbruk, fiske, skogsbruk och livsmedel"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/REGI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REGI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REGI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REGI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REGI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Региони и градове"
+      },
+      {
+        "@language": "cs",
+        "@value": "Regiony a města"
+      },
+      {
+        "@language": "da",
+        "@value": "Regioner og byer"
+      },
+      {
+        "@language": "de",
+        "@value": "Regionen und Städte"
+      },
+      {
+        "@language": "el",
+        "@value": "Περιφέρειες και πόλεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Regions and cities"
+      },
+      {
+        "@language": "es",
+        "@value": "Regiones y ciudades"
+      },
+      {
+        "@language": "et",
+        "@value": "Piirkonnad ja linnad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alueet ja kaupungit"
+      },
+      {
+        "@language": "fr",
+        "@value": "Régions et villes"
+      },
+      {
+        "@language": "ga",
+        "@value": "Réigiúin agus cathracha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Regije i gradovi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Régiók és városok"
+      },
+      {
+        "@language": "it",
+        "@value": "Regioni e città"
+      },
+      {
+        "@language": "lt",
+        "@value": "Regionai ir miestai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Reģioni un pilsētas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Reġjuni u bliet"
+      },
+      {
+        "@language": "nb",
+        "@value": "Regioner og byer"
+      },
+      {
+        "@language": "nl",
+        "@value": "Regio's en steden"
+      },
+      {
+        "@language": "nn",
+        "@value": "Regionar og byar"
+      },
+      {
+        "@language": "no",
+        "@value": "Regioner og byer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Regiony i miasta"
+      },
+      {
+        "@language": "pt",
+        "@value": "Regiões e cidades"
+      },
+      {
+        "@language": "ro",
+        "@value": "Regiuni şi orașe"
+      },
+      {
+        "@language": "sk",
+        "@value": "Regióny a mestá"
+      },
+      {
+        "@language": "sl",
+        "@value": "Regije in mesta"
+      },
+      {
+        "@language": "sv",
+        "@value": "Regioner och städer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/INTR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INTR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INTR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Международни въпроси"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mezinárodní otázky"
+      },
+      {
+        "@language": "da",
+        "@value": "Internationale spørgsmål"
+      },
+      {
+        "@language": "de",
+        "@value": "Internationale Themen"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεθνή θέματα"
+      },
+      {
+        "@language": "en",
+        "@value": "International issues"
+      },
+      {
+        "@language": "es",
+        "@value": "Asuntos internacionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Rahvusvahelised küsimused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kansainväliset kysymykset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Questions internationales"
+      },
+      {
+        "@language": "ga",
+        "@value": "Saincheisteanna idirnáisiúnta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Međunarodni pitanja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nemzetközi ügyek"
+      },
+      {
+        "@language": "it",
+        "@value": "Tematiche internazionali"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarptautiniai klausimai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Starptautiski jautājumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kwistjonijiet internazzjonali"
+      },
+      {
+        "@language": "nb",
+        "@value": "Internasjonale temaer"
+      },
+      {
+        "@language": "nl",
+        "@value": "Internationale vraagstukken"
+      },
+      {
+        "@language": "nn",
+        "@value": "Internasjonale tema"
+      },
+      {
+        "@language": "no",
+        "@value": "Internasjonale temaer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kwestie międzynarodowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Questões internacionais"
+      },
+      {
+        "@language": "ro",
+        "@value": "Chestiuni internaționale"
+      },
+      {
+        "@language": "sk",
+        "@value": "Medzinárodné otázky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mednarodna vprašanja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Internationella frågor"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TRAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TRAN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TRAN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TRAN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Транспорт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Doprava"
+      },
+      {
+        "@language": "da",
+        "@value": "Transport"
+      },
+      {
+        "@language": "de",
+        "@value": "Verkehr"
+      },
+      {
+        "@language": "el",
+        "@value": "Μεταφορές"
+      },
+      {
+        "@language": "en",
+        "@value": "Transport"
+      },
+      {
+        "@language": "es",
+        "@value": "Transporte"
+      },
+      {
+        "@language": "et",
+        "@value": "Transport"
+      },
+      {
+        "@language": "fi",
+        "@value": "Liikenne"
+      },
+      {
+        "@language": "fr",
+        "@value": "Transports"
+      },
+      {
+        "@language": "ga",
+        "@value": "Iompar"
+      },
+      {
+        "@language": "hr",
+        "@value": "Promet"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közlekedés"
+      },
+      {
+        "@language": "it",
+        "@value": "Trasporti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Transportas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Transports"
+      },
+      {
+        "@language": "mt",
+        "@value": "Trasport"
+      },
+      {
+        "@language": "nb",
+        "@value": "Transport"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vervoer"
+      },
+      {
+        "@language": "nn",
+        "@value": "Transport"
+      },
+      {
+        "@language": "no",
+        "@value": "Transport"
+      },
+      {
+        "@language": "pl",
+        "@value": "Transport"
+      },
+      {
+        "@language": "pt",
+        "@value": "Transportes"
+      },
+      {
+        "@language": "ro",
+        "@value": "Transport"
+      },
+      {
+        "@language": "sk",
+        "@value": "Doprava"
+      },
+      {
+        "@language": "sl",
+        "@value": "Transport"
+      },
+      {
+        "@language": "sv",
+        "@value": "Transport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/TECH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TECH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TECH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TECH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TECH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Наука и tехнологии"
+      },
+      {
+        "@language": "cs",
+        "@value": "Věda a technika"
+      },
+      {
+        "@language": "da",
+        "@value": "Videnskab og teknologi"
+      },
+      {
+        "@language": "de",
+        "@value": "Wissenschaft und Technologie"
+      },
+      {
+        "@language": "el",
+        "@value": "Επιστήμη και τεχνολογία"
+      },
+      {
+        "@language": "en",
+        "@value": "Science and technology"
+      },
+      {
+        "@language": "es",
+        "@value": "Ciencia y tecnología"
+      },
+      {
+        "@language": "et",
+        "@value": "Teadus ja tehnoloogia"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tiede ja teknologia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Science et technologie"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eolaíocht agus teicneolaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Znanost i tehnologija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tudomány és technológia"
+      },
+      {
+        "@language": "it",
+        "@value": "Scienza e tecnologia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mokslas ir technologijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Zinātne un tehnoloģija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xjenza u teknoloġija"
+      },
+      {
+        "@language": "nb",
+        "@value": "Vitenskap og teknologi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Wetenschap en technologie"
+      },
+      {
+        "@language": "nn",
+        "@value": "Vitskap og teknologi"
+      },
+      {
+        "@language": "no",
+        "@value": "Vitenskap og teknologi"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nauka i technologia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ciência e tecnologia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ştiinţă şi tehnologie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Veda a technika"
+      },
+      {
+        "@language": "sl",
+        "@value": "Znanost in tehnologija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Vetenskap och teknik"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HEAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HEAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HEAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HEAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Здраве"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zdraví"
+      },
+      {
+        "@language": "da",
+        "@value": "Sundhed"
+      },
+      {
+        "@language": "de",
+        "@value": "Gesundheit"
+      },
+      {
+        "@language": "el",
+        "@value": "Υγεία"
+      },
+      {
+        "@language": "en",
+        "@value": "Health"
+      },
+      {
+        "@language": "es",
+        "@value": "Salud"
+      },
+      {
+        "@language": "et",
+        "@value": "Tervis"
+      },
+      {
+        "@language": "fi",
+        "@value": "Terveys"
+      },
+      {
+        "@language": "fr",
+        "@value": "Santé"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sláinte"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zdravlje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egészségügy"
+      },
+      {
+        "@language": "it",
+        "@value": "Salute"
+      },
+      {
+        "@language": "lt",
+        "@value": "Sveikata"
+      },
+      {
+        "@language": "lv",
+        "@value": "Veselība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Saħħa"
+      },
+      {
+        "@language": "nb",
+        "@value": "Helse"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gezondheid"
+      },
+      {
+        "@language": "nn",
+        "@value": "Helse"
+      },
+      {
+        "@language": "no",
+        "@value": "Helse"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zdrowie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Saúde"
+      },
+      {
+        "@language": "ro",
+        "@value": "Sănătate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zdravotníctvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zdravje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Hälsa"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/JUST",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JUST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JUST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JUST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JUST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Правосъдие, съдебна система и обществена безопасност"
+      },
+      {
+        "@language": "cs",
+        "@value": "Spravedlnost, právní systém a veřejná bezpečnost"
+      },
+      {
+        "@language": "da",
+        "@value": "Retfærdighed, retssystem og offentlig sikkerhed"
+      },
+      {
+        "@language": "de",
+        "@value": "Justiz, Rechtssystem und öffentliche Sicherheit"
+      },
+      {
+        "@language": "el",
+        "@value": "Δικαιoσύνη, νομικό σύστημα και δημόσια ασφάλεια"
+      },
+      {
+        "@language": "en",
+        "@value": "Justice, legal system and public safety"
+      },
+      {
+        "@language": "es",
+        "@value": "Justicia, sistema judicial y seguridad pública"
+      },
+      {
+        "@language": "et",
+        "@value": "Õigusemõistmine, õigussüsteem ja avalik turvalisus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Oikeus, oikeusjärjestelmä ja yleinen turvallisuus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Justice, système juridique et sécurité publique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartas, córas dlí agus sábháilteacht an phobail"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pravosuđe, pravni sustav i javna sigurnost"
+      },
+      {
+        "@language": "hu",
+        "@value": "Igazságügy, jogrendszer és közbiztonság"
+      },
+      {
+        "@language": "it",
+        "@value": "Giustizia, sistema giuridico e sicurezza pubblica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Teisingumas, teisės sistema ir visuomenės sauga"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tieslietas, tiesību sistēma un sabiedrības drošība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġustizzja, sistema legali u sigurtà pubblika"
+      },
+      {
+        "@language": "nb",
+        "@value": "Justis, rettssystem og allmenn sikkerhet"
+      },
+      {
+        "@language": "nl",
+        "@value": "Justitie, rechtsstelsel en openbare veiligheid"
+      },
+      {
+        "@language": "nn",
+        "@value": "Justis, rettssystem og allmenn tryggleik"
+      },
+      {
+        "@language": "no",
+        "@value": "Justis, rettssystem og allmenn sikkerhet"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sprawiedliwość, ustrój sądów i bezpieczeństwo publiczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Justiça, sistema judiciário e segurança pública"
+      },
+      {
+        "@language": "ro",
+        "@value": "Justiție, sistem juridic și siguranță publică"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spravodlivosť, právny systém a verejná bezpečnosť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pravosodje, pravni sistem in javna varnost"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättvisa, rättsliga system och allmän säkerhet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ECON"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ECON"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ECON"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ECON"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Икономика и финанси"
+      },
+      {
+        "@language": "cs",
+        "@value": "Hospodářství a finance"
+      },
+      {
+        "@language": "da",
+        "@value": "Økonomi og finanser"
+      },
+      {
+        "@language": "de",
+        "@value": "Wirtschaft und Finanzen"
+      },
+      {
+        "@language": "el",
+        "@value": "Οικονομία και χρηματοοικονομικά θέματα"
+      },
+      {
+        "@language": "en",
+        "@value": "Economy and finance"
+      },
+      {
+        "@language": "es",
+        "@value": "Economía y finanzas"
+      },
+      {
+        "@language": "et",
+        "@value": "Majandus ja rahandus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Talous ja raha-asiat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Économie et finances"
+      },
+      {
+        "@language": "ga",
+        "@value": "Geilleagar agus airgeadas"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ekonomija i financije"
+      },
+      {
+        "@language": "hu",
+        "@value": "Gazdaság és pénzügy"
+      },
+      {
+        "@language": "it",
+        "@value": "Economia e finanze"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ekonomika ir finansai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ekonomika un finanses"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ekonomija u finanzi"
+      },
+      {
+        "@language": "nb",
+        "@value": "Økonomi og finans"
+      },
+      {
+        "@language": "nl",
+        "@value": "Economie en financiën"
+      },
+      {
+        "@language": "nn",
+        "@value": "Økonomi og finans"
+      },
+      {
+        "@language": "no",
+        "@value": "Økonomi og finans"
+      },
+      {
+        "@language": "pl",
+        "@value": "Gospodarka i finanse"
+      },
+      {
+        "@language": "pt",
+        "@value": "Economia e finanças"
+      },
+      {
+        "@language": "ro",
+        "@value": "Economie şi finanţe"
+      },
+      {
+        "@language": "sk",
+        "@value": "Hospodárstvo a financie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Gospodarstvo in finance"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ekonomi och finans"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/ENER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ENER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ENER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ENER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ENER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Енергетика"
+      },
+      {
+        "@language": "cs",
+        "@value": "Energie"
+      },
+      {
+        "@language": "da",
+        "@value": "Energi"
+      },
+      {
+        "@language": "de",
+        "@value": "Energie"
+      },
+      {
+        "@language": "el",
+        "@value": "Ενέργεια"
+      },
+      {
+        "@language": "en",
+        "@value": "Energy"
+      },
+      {
+        "@language": "es",
+        "@value": "Energía"
+      },
+      {
+        "@language": "et",
+        "@value": "Energeetika"
+      },
+      {
+        "@language": "fi",
+        "@value": "Energia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Énergie"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fuinneamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Energetika"
+      },
+      {
+        "@language": "hu",
+        "@value": "Energia"
+      },
+      {
+        "@language": "it",
+        "@value": "Energia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Energetika"
+      },
+      {
+        "@language": "lv",
+        "@value": "Enerģētika"
+      },
+      {
+        "@language": "mt",
+        "@value": "Enerġija"
+      },
+      {
+        "@language": "nb",
+        "@value": "Energi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Energie"
+      },
+      {
+        "@language": "nn",
+        "@value": "Energi"
+      },
+      {
+        "@language": "no",
+        "@value": "Energi"
+      },
+      {
+        "@language": "pl",
+        "@value": "Energia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Energia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Energie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Energetika"
+      },
+      {
+        "@language": "sl",
+        "@value": "Energetika"
+      },
+      {
+        "@language": "sv",
+        "@value": "Energi"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EDUC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EDUC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-10-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EDUC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EDUC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Образование, култура и спорт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vzdělávání, kultura a sport"
+      },
+      {
+        "@language": "da",
+        "@value": "Uddannelse, kultur og sport"
+      },
+      {
+        "@language": "de",
+        "@value": "Bildung, Kultur und Sport"
+      },
+      {
+        "@language": "el",
+        "@value": "Παιδεία, πολιτιστικά θέματα και αθλητισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "Education, culture and sport"
+      },
+      {
+        "@language": "es",
+        "@value": "Educación, cultura y deportes"
+      },
+      {
+        "@language": "et",
+        "@value": "Haridus, kultuur ja sport"
+      },
+      {
+        "@language": "fi",
+        "@value": "Koulutus, kulttuuri ja urheilu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Éducation, culture et sport"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oideachas, cultúr agus spórt"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obrazovanje, kultura i sport"
+      },
+      {
+        "@language": "hu",
+        "@value": "Oktatás, kultúra és sport"
+      },
+      {
+        "@language": "it",
+        "@value": "Istruzione, cultura e sport"
+      },
+      {
+        "@language": "lt",
+        "@value": "Švietimas, kultūra ir sportas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izglītība, kultūra un sports"
+      },
+      {
+        "@language": "mt",
+        "@value": "Edukazzjoni, kultura u sport"
+      },
+      {
+        "@language": "nb",
+        "@value": "Utdanning, kultur og sport"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onderwijs, cultuur en sport"
+      },
+      {
+        "@language": "nn",
+        "@value": "Utdanning, kultur og sport"
+      },
+      {
+        "@language": "no",
+        "@value": "Utdanning, kultur og sport"
+      },
+      {
+        "@language": "pl",
+        "@value": "Edukacja, kultura i sport"
+      },
+      {
+        "@language": "pt",
+        "@value": "Educação, cultura e desporto"
+      },
+      {
+        "@language": "ro",
+        "@value": "Educaţie, cultură şi sport"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vzdelávanie, kultúra a šport"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izobraževanje, kultura in šport"
+      },
+      {
+        "@language": "sv",
+        "@value": "Utbildning, kultur och sport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/data-theme",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data theme"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "data-theme"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20200923-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Data theme"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20200923-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Data theme"
+      }
+    ]
+  }
+]

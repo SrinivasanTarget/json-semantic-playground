@@ -1,0 +1,41 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CARDINAL
+  deprecated: 'false'
+  key: CARDINAL
+  label_en: cardinal
+  label_it: cardinale
+  url: http://publications.europa.eu/resource/authority/number-type/CARDINAL
+  valid_from: '2014-11-26'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/number-type/OP_DATPRO
+- country_code: ORDINAL
+  deprecated: 'false'
+  key: ORDINAL
+  label_en: ordinal
+  label_it: ordinale
+  url: http://publications.europa.eu/resource/authority/number-type/ORDINAL
+  valid_from: '2014-11-26'

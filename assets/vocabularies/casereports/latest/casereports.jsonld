@@ -1,0 +1,633 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-report",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Case report"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "case-report"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Case report"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Case report"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-report/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_1",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REPORT_CASE_1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REPORT_CASE_1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n83ea24967e72466da0ae4714329e878db1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REPORT_CASE_1"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REPORT_CASE_1"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Общ сборник – Съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sbírka rozhodnutí – Soudní dvůr"
+      },
+      {
+        "@language": "da",
+        "@value": "Den Almindelige Samling – Domstolen"
+      },
+      {
+        "@language": "de",
+        "@value": "Allgemeine Sammlung – Gerichtshof"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενική Συλλογή – Δικαστήριο"
+      },
+      {
+        "@language": "en",
+        "@value": "General Reports – Court of Justice"
+      },
+      {
+        "@language": "es",
+        "@value": "Recopilación general – Tribunal de Justicia"
+      },
+      {
+        "@language": "et",
+        "@value": "Üldine kohtulahendite kogumik – Euroopa Kohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Oikeustapauskokoelma – Unionin tuomioistuin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Recueil général – Cour de justice"
+      },
+      {
+        "@language": "hr",
+        "@value": "Opći zbornik – Sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Határozatok Tára általános rész – Bíróság"
+      },
+      {
+        "@language": "it",
+        "@value": "Raccolta generale – Corte di giustizia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendrasis Rinkinys – Teisingumo Teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vispārējais Krājums – Tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġabra ġenerali – Il-Qorti tal-Ġustizzja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Algemene Jurisprudentie – Hof van Justitie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogólny Zbiór Orzeczeń – Trybunał Sprawiedliwości"
+      },
+      {
+        "@language": "pt",
+        "@value": "Coletânea geral – Tribunal de Justiça"
+      },
+      {
+        "@language": "ro",
+        "@value": "Repertoriul general – Curtea de Justiție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Všeobecná zbierka – Súdny dvor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Splošna zbirka odločb – Sodišče"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättsfallssamlingens allmänna del – Domstolen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n83ea24967e72466da0ae4714329e878db1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RG1"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_STAFF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REPORT_CASE_STAFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REPORT_CASE_STAFF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n83ea24967e72466da0ae4714329e878db3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2005-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REPORT_CASE_STAFF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REPORT_CASE_STAFF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Сборник на публичната служба"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sbírka rozhodnutí – Veřejná služba"
+      },
+      {
+        "@language": "da",
+        "@value": "Samling af Afgørelser i Personalesager"
+      },
+      {
+        "@language": "de",
+        "@value": "Sammlung Öffentlicher Dienst"
+      },
+      {
+        "@language": "el",
+        "@value": "Συλλογή Υπαλληλικών Υποθέσεων"
+      },
+      {
+        "@language": "en",
+        "@value": "Reports of Staff Cases"
+      },
+      {
+        "@language": "es",
+        "@value": "Recopilación de la Función Pública"
+      },
+      {
+        "@language": "et",
+        "@value": "Avaliku teenistuse kohtulahendite kogumik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Henkilöstöasioiden oikeustapauskokoelma"
+      },
+      {
+        "@language": "fr",
+        "@value": "Recueil de la fonction publique"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zbornik službeničkih predmeta"
+      },
+      {
+        "@language": "hu",
+        "@value": "Határozatok Tára közszolgálati rész"
+      },
+      {
+        "@language": "it",
+        "@value": "Raccolta della funzione pubblica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Viešosios tarnybos rinkinys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Judikatūras krājums – Civildienesta lietas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġabra tas-servizz pubbliku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Jurisprudentie ambtenarenzaken"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zbiór Orzeczeń – Służba Publiczna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Coletânea da Função pública"
+      },
+      {
+        "@language": "ro",
+        "@value": "Repertoriul funcției publice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zbierka verejnej služby"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zbirka odločb za javne uslužbence"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättsfallssamlingens personaldel"
+      }
+    ]
+  },
+  {
+    "@id": "_:n83ea24967e72466da0ae4714329e878db3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_2",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "REPORT_CASE_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "REPORT_CASE_2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n83ea24967e72466da0ae4714329e878db2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2015-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "REPORT_CASE_2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "REPORT_CASE_2"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-report"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Общ сборник – Общ съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sbírka rozhodnutí – Tribunál"
+      },
+      {
+        "@language": "da",
+        "@value": "Den Almindelige Samling – Retten"
+      },
+      {
+        "@language": "de",
+        "@value": "Allgemeine Sammlung – Gericht"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενική Συλλογή – Γενικό Δικαστήριο"
+      },
+      {
+        "@language": "en",
+        "@value": "General Report – General Court"
+      },
+      {
+        "@language": "es",
+        "@value": "Recopilación general – Tribunal General"
+      },
+      {
+        "@language": "et",
+        "@value": "Üldine kohtulahendite kogumik – Üldkohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Oikeustapauskokoelma – Unionin yleinen tuomioistuin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Recueil général – Tribunal"
+      },
+      {
+        "@language": "hr",
+        "@value": "Opći zbornik – Opći sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Határozatok Tára általános rész – Törvényszék"
+      },
+      {
+        "@language": "it",
+        "@value": "Raccolta generale – Tribunale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendrasis Rinkinys – Bendrasis Teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vispārīgais Krājums – Vispārējā tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġabra ġenerali – Il-Qorti Ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Algemene Jurisprudentie – Gerecht"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ogólny Zbiór Orzeczeń – Sąd"
+      },
+      {
+        "@language": "pt",
+        "@value": "Coletânea geral – Tribunal Geral"
+      },
+      {
+        "@language": "ro",
+        "@value": "Repertoriul general – Tribunalul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Všeobecná zbierka – Všeobecný súd"
+      },
+      {
+        "@language": "sl",
+        "@value": "Splošna zbirka odločb – Splošno sodišče"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättsfallssamlingens allmänna del – Tribunalen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n83ea24967e72466da0ae4714329e878db2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RG2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CJ"
+      }
+    ]
+  }
+]

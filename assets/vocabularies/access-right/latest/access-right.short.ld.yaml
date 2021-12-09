@@ -1,0 +1,57 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CONFIDENTIAL
+  deprecated: 'false'
+  key: CONFIDENTIAL
+  label_en: confidential
+  url: http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL
+  valid_from: '2021-03-17'
+- country_code: NON_PUBLIC
+  deprecated: 'false'
+  key: NON_PUBLIC
+  label_en: non-public
+  url: http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC
+  valid_from: '2013-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/access-right/OP_DATPRO
+- country_code: PUBLIC
+  deprecated: 'false'
+  key: PUBLIC
+  label_en: public
+  url: http://publications.europa.eu/resource/authority/access-right/PUBLIC
+  valid_from: '2013-01-01'
+- country_code: RESTRICTED
+  deprecated: 'false'
+  key: RESTRICTED
+  label_en: restricted
+  url: http://publications.europa.eu/resource/authority/access-right/RESTRICTED
+  valid_from: '2013-01-01'
+- country_code: SENSITIVE
+  deprecated: 'false'
+  key: SENSITIVE
+  label_en: sensitive
+  url: http://publications.europa.eu/resource/authority/access-right/SENSITIVE
+  valid_from: '2020-03-18'

@@ -1,0 +1,1416 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-tend",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "comp-tend"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "comp-tend"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "comp-tend"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "comp-tend"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Конкурентна тръжна"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soutěžní nabídkové řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Konkurrencepræget udbud"
+      },
+      {
+        "@language": "de",
+        "@value": "Wettbewerbliches Ausschreibungverfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανταγωνιστική διαγωνισμού"
+      },
+      {
+        "@language": "en",
+        "@value": "Competitive tendering"
+      },
+      {
+        "@language": "es",
+        "@value": "Licitación pública"
+      },
+      {
+        "@language": "et",
+        "@value": "Konkurentsipõhine pakkumismenetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjouskilpailu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Appel d’offres compétitive"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tairiscint iomaíoch"
+      },
+      {
+        "@language": "hr",
+        "@value": "Konkurentni nadmetanja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Versenypályázati eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Procedura di gara"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konkurencinė konkurso"
+      },
+      {
+        "@language": "lv",
+        "@value": "Konkursa procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sejħa għall-offerti kompetittiva"
+      },
+      {
+        "@language": "nl",
+        "@value": "Mededingingsprocedure"
+      },
+      {
+        "@language": "pl",
+        "@value": "Procedura przetargowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Concurso competitivo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Licitaţie competitivă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Postup verejného obstarávania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Konkurenčni razpisni"
+      },
+      {
+        "@language": "sv",
+        "@value": "Konkurrenskraftigt upphandling"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/restricted",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "restricted"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "restricted"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "restricted"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "restricted"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Ограничена"
+      },
+      {
+        "@language": "cs",
+        "@value": "Užší"
+      },
+      {
+        "@language": "da",
+        "@value": "Begrænset"
+      },
+      {
+        "@language": "de",
+        "@value": "Nichtoffenes Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Κλειστή"
+      },
+      {
+        "@language": "en",
+        "@value": "Restricted"
+      },
+      {
+        "@language": "es",
+        "@value": "Restringido"
+      },
+      {
+        "@language": "et",
+        "@value": "Piiratud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Rajoitettu"
+      },
+      {
+        "@language": "fr",
+        "@value": "Restreinte"
+      },
+      {
+        "@language": "ga",
+        "@value": "Teoranta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ograničen"
+      },
+      {
+        "@language": "hu",
+        "@value": "Zárt"
+      },
+      {
+        "@language": "it",
+        "@value": "Ristretta"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ribotas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Slēgta"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ristretta"
+      },
+      {
+        "@language": "nl",
+        "@value": "Niet-openbaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ograniczona"
+      },
+      {
+        "@language": "pt",
+        "@value": "Limitado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Restrânsă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Užšia súťaž"
+      },
+      {
+        "@language": "sl",
+        "@value": "Omejeni postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Selektivt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-mult",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "oth-mult"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "oth-mult"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "oth-mult"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "oth-mult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Друга многоетапна процедура"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiné vícefázové řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Anden procedure, der afvikles i flere faser"
+      },
+      {
+        "@language": "de",
+        "@value": "Sonstiges zweistufiges Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλη διαδικασία πολλών σταδίων"
+      },
+      {
+        "@language": "en",
+        "@value": "Other multiple stage procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "Otro procedimiento de múltiples etapas"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu mitmeetapiline menetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muu monivaiheinen menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre procédure en plusieurs étapes"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta ilchéime eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ostali postupci u više faza"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb többszakaszos eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Altra procedura a più fasi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kita kelių etapų procedūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Cita daudzpakāpju procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura oħra b’diversi stadji"
+      },
+      {
+        "@language": "nl",
+        "@value": "Andere procedure in meerdere fasen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inna procedura wieloetapowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outro processo em múltiplas fases"
+      },
+      {
+        "@language": "ro",
+        "@value": "Altă procedură cu mai multe etape"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iný viacfázový postup"
+      },
+      {
+        "@language": "sl",
+        "@value": "Drugi večstopenjski postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annat förfarande i flera steg"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-dial",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "comp-dial"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "comp-dial"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "comp-dial"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "comp-dial"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Състезателен диалог"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soutěžní dialog"
+      },
+      {
+        "@language": "da",
+        "@value": "Konkurrencepræget dialog"
+      },
+      {
+        "@language": "de",
+        "@value": "Wettbewerblicher Dialog"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανταγωνιστικός διάλογος"
+      },
+      {
+        "@language": "en",
+        "@value": "Competitive dialogue"
+      },
+      {
+        "@language": "es",
+        "@value": "Diálogo competitivo"
+      },
+      {
+        "@language": "et",
+        "@value": "Võistlev dialoog"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kilpailullinen neuvottelumenettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Dialogue compétitif"
+      },
+      {
+        "@language": "ga",
+        "@value": "Idirphlé iomaíoch"
+      },
+      {
+        "@language": "hr",
+        "@value": "Natjecateljski dijalog"
+      },
+      {
+        "@language": "hu",
+        "@value": "Versenypárbeszéd"
+      },
+      {
+        "@language": "it",
+        "@value": "Dialogo competitivo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Konkurencinis dialogas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Konkursa dialogs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Djalogu kompetittiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "Concurrentiegerichte dialoog"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dialog konkurencyjny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Diálogo concorrencial"
+      },
+      {
+        "@language": "ro",
+        "@value": "Dialog competitiv"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súťažný dialóg"
+      },
+      {
+        "@language": "sl",
+        "@value": "Konkurenčni dialog"
+      },
+      {
+        "@language": "sv",
+        "@value": "Konkurrenspräglad dialog"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/innovation",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "innovation"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "innovation"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "innovation"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "innovation"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Партньорство за иновации"
+      },
+      {
+        "@language": "cs",
+        "@value": "Inovační partnerství"
+      },
+      {
+        "@language": "da",
+        "@value": "Innovationspartnerskab"
+      },
+      {
+        "@language": "de",
+        "@value": "Innovationspartnerschaften"
+      },
+      {
+        "@language": "el",
+        "@value": "Σύμπραξη καινοτομίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Innovation partnership"
+      },
+      {
+        "@language": "es",
+        "@value": "Asociación para la innovación"
+      },
+      {
+        "@language": "et",
+        "@value": "Innovatsioonipartnerlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Innovaatiokumppanuus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Partenariat d’innovation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhpháirtíocht nuálaíochta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Partnerstvo za inovacije"
+      },
+      {
+        "@language": "hu",
+        "@value": "Innovációs partnerség"
+      },
+      {
+        "@language": "it",
+        "@value": "Partenariato per l'innovazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Inovacijų partnerystė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Inovācijas partnerība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sħubija għall-innovazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Innovatiepartnerschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Partnerstwo innowacyjne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Parcerias para a inovação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Parteneriat pentru inovare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Inovatívne partnerstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Partnerstvo za inovacije"
+      },
+      {
+        "@language": "sv",
+        "@value": "Innovationspartnerskap"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Procurement procedure type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "procurement-procedure-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Procurement procedure type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Procurement procedure type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-single",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "oth-single"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "oth-single"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "oth-single"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "oth-single"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Друга едноетапна процедура"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiné jednofázové řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Anden procedure, der afvikles i to faser"
+      },
+      {
+        "@language": "de",
+        "@value": "Sonstiges einstufiges Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλη διαδικασία ενός σταδίου"
+      },
+      {
+        "@language": "en",
+        "@value": "Other single stage procedure"
+      },
+      {
+        "@language": "es",
+        "@value": "Otro procedimiento de una sola etapa"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu üheetapiline menetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muu yksivaiheinen menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre procédure en une seule étape"
+      },
+      {
+        "@language": "ga",
+        "@value": "Nós imeachta aonchéime eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ostali postupci od jedne faze"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb egyszakaszos eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Altra procedura a fase unica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kita vieno etapo procedūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "Cita vienpakāpes procedūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Proċedura oħra bi stadju wieħed"
+      },
+      {
+        "@language": "nl",
+        "@value": "Andere procedure in één fase"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inna procedura jednoetapowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outro processo de fase única"
+      },
+      {
+        "@language": "ro",
+        "@value": "Altă procedură cu o singură etapă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iný jednofázový postup"
+      },
+      {
+        "@language": "sl",
+        "@value": "Drugi enostopenjski postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annat förfarande i ett steg"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/open",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "open"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "open"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "open"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "open"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Открита"
+      },
+      {
+        "@language": "cs",
+        "@value": "Otevřené"
+      },
+      {
+        "@language": "da",
+        "@value": "Åben"
+      },
+      {
+        "@language": "de",
+        "@value": "Offenes Verfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανοικτή"
+      },
+      {
+        "@language": "en",
+        "@value": "Open"
+      },
+      {
+        "@language": "es",
+        "@value": "Abierto"
+      },
+      {
+        "@language": "et",
+        "@value": "Avatud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Avoin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ouverte"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oscailte"
+      },
+      {
+        "@language": "hr",
+        "@value": "Otvoren"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nyitott"
+      },
+      {
+        "@language": "it",
+        "@value": "Aperta"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atviras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atklāta"
+      },
+      {
+        "@language": "mt",
+        "@value": "Miftuħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Openbaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "Otwarta"
+      },
+      {
+        "@language": "pt",
+        "@value": "Aberto"
+      },
+      {
+        "@language": "ro",
+        "@value": "Deschisă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejná súťaž"
+      },
+      {
+        "@language": "sl",
+        "@value": "Odprti postopek"
+      },
+      {
+        "@language": "sv",
+        "@value": "Öppet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-w-call",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "neg-w-call"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "neg-w-call"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "neg-w-call"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "neg-w-call"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Договаряне с предварително публикуване на покана за участие в състезателна процедура / състезателна с договаряне"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jednací řízení s uveřejněním / jednací řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Udbud med forhandling/indkaldelse af tilbud med forudgående offentliggørelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Verhandlungsverfahren mit vorheriger Veröffentlichung eines Aufrufs zum Wettbewerb/Verhandlungsverfahren"
+      },
+      {
+        "@language": "el",
+        "@value": "Με διαπραγμάτευση με προηγούμενη δημοσίευση προκήρυξης διαγωνισμού/ανταγωνιστική διαδικασία με διαπραγμάτευση"
+      },
+      {
+        "@language": "en",
+        "@value": "Negotiated with prior publication of a call for competition / competitive with negotiation"
+      },
+      {
+        "@language": "es",
+        "@value": "Negociado con publicación previa de un anuncio de licitación / licitación con negociación"
+      },
+      {
+        "@language": "et",
+        "@value": "Väljakuulutamisega läbirääkimistega hankemenetlus / konkurentsipõhine läbirääkimistega hankemenetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjouskilpailukutsun julkaisemisen jälkeinen neuvottelumenettely / tarjousperusteinen neuvottelumenettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "Négociée avec publication préalable d’un appel à la concurrence / concurrentielle avec négociation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Idirbheartaíocht lena mbaineann foilsiú roimh ré glao ar iomaíocht / iomaíocht lena mbaineann idirbheartaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pregovarački s prethodnom objavom poziva na nadmetanje / natjecateljski uz pregovore"
+      },
+      {
+        "@language": "hu",
+        "@value": "Eljárást megindító felhívás előzetes közzétételével járó tárgyalásos / tárgyalásos"
+      },
+      {
+        "@language": "it",
+        "@value": "Negoziata con previa indizione di gara / competitiva con negoziazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Derybos su išankstiniu kvietimu dalyvauti konkurse ir (arba) konkursas su derybomis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sarunu procedūra ar iepirkuma iepriekšēju izsludināšanu/konkursa procedūra ar sarunām"
+      },
+      {
+        "@language": "mt",
+        "@value": "Innegozjata bil-pubblikazzjoni minn qabel ta’ sejħa għall-kompetizzjoni/għall-kompetizzjoni bin-negozjar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onderhandelingsprocedure met voorafgaande oproep tot mededinging / mededingingsprocedure met onderhandeling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Negocjacyjna z uprzednią publikacją zaproszenia do ubiegania się o zamówienie / konkurencyjna z negocjacjami"
+      },
+      {
+        "@language": "pt",
+        "@value": "Por negociação com publicação prévia de um convite à apresentação de propostas/concurso com negociação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Negociată cu publicarea prealabilă a unei proceduri concurențiale de ofertare / competitivă cu negociere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rokovacie konanie so zverejnením výzvy na súťaž/súťažné obstarávanie s rokovacím konaním"
+      },
+      {
+        "@language": "sl",
+        "@value": "S pogajanji, s predhodno objavo javnega razpisa / konkurenčni postopek s pogajanji"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förhandlat förfarande med föregående meddelande om upphandling/under konkurrens"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-wo-call",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "neg-wo-call"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "neg-wo-call"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "neg-wo-call"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "neg-wo-call"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procurement-procedure-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Договаряне без предварително обявление"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jednací řízení bez uveřejnění"
+      },
+      {
+        "@language": "da",
+        "@value": "Udbud med forhandling uden forudgående offentliggørelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Verhandlungsverfahren ohne Aufruf zum Wettbewerb"
+      },
+      {
+        "@language": "el",
+        "@value": "Με διαπραγμάτευση χωρίς προηγούμενη δημοσίευση προκήρυξης διαγωνισμού"
+      },
+      {
+        "@language": "en",
+        "@value": "Negotiated without prior call for competition"
+      },
+      {
+        "@language": "es",
+        "@value": "Negociado sin convocatoria de licitación previa"
+      },
+      {
+        "@language": "et",
+        "@value": "Väljakuulutamiseta läbirääkimistega hankemenetlus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Neuvottelumenettely ilman edeltävää tarjouskilpailukutsua"
+      },
+      {
+        "@language": "fr",
+        "@value": "Négociée sans mise en concurrence préalable"
+      },
+      {
+        "@language": "ga",
+        "@value": "Idirbheartaíocht lena mbaineann glao roimh ré ar iomaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pregovarački bez prethodnog poziva na nadmetanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Felhívás nélküli tárgyalásos eljárás"
+      },
+      {
+        "@language": "it",
+        "@value": "Negoziata senza previa indizione di gara"
+      },
+      {
+        "@language": "lt",
+        "@value": "Derybos be išankstinio skelbimo apie pirkimą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sarunu procedūra bez iepirkuma iepriekšējas izsludināšanas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Innegozjata mingħajr sejħa minn qabel għall-kompetizzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onderhandelingsprocedure zonder voorafgaande oproep tot mededinging"
+      },
+      {
+        "@language": "pl",
+        "@value": "Negocjacyjna bez uprzedniej publikacji zaproszenia do ubiegania się o zamówienie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Por negociação sem abertura prévia de concurso"
+      },
+      {
+        "@language": "ro",
+        "@value": "Negociată fără publicarea unei proceduri concurențiale de ofertare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Rokovacie konanie bez zverejnenia výzvy na súťaž"
+      },
+      {
+        "@language": "sl",
+        "@value": "S pogajanji, brez predhodnega javnega razpisa"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förhandlat förfarande utan föregående meddelande om upphandling"
+      }
+    ]
+  }
+]

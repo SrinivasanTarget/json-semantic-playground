@@ -1,0 +1,85 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CAMP_LAUNCH
+  deprecated: 'false'
+  key: CAMP_LAUNCH
+  label_en: Campaign launches
+  label_it: Lancio di una campagna
+  url: http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH
+  valid_from: '2020-11-01'
+- country_code: COMPETITION_AWARD_CEREMONY
+  deprecated: 'false'
+  key: COMPETITION_AWARD_CEREMONY
+  label_en: Competitions and award ceremonies
+  label_it: Concorsi e cerimonie di premiazione
+  url: http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY
+  valid_from: '1958-01-01'
+- country_code: CONFERENCE_SUMMIT
+  deprecated: 'false'
+  key: CONFERENCE_SUMMIT
+  label_en: Conferences and summits
+  label_it: Conferenze e vertici
+  url: http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT
+  valid_from: '1958-01-01'
+- country_code: EXHIBITION
+  deprecated: 'false'
+  key: EXHIBITION
+  label_en: Exhibitions
+  label_it: Esposizioni
+  url: http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION
+  valid_from: '1958-01-01'
+- country_code: INFO_DAY
+  deprecated: 'false'
+  key: INFO_DAY
+  label_en: Info days
+  label_it: Giornate d'informazione
+  url: http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY
+  valid_from: '1958-01-01'
+- country_code: PARTNER_MEETING
+  deprecated: 'false'
+  key: PARTNER_MEETING
+  label_en: Partner meetings
+  label_it: Riunioni dei partner
+  url: http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING
+  valid_from: '1958-01-01'
+- country_code: POLITICAL_MEETING
+  deprecated: 'false'
+  key: POLITICAL_MEETING
+  label_en: Political meetings
+  label_it: Riunioni politiche
+  url: http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING
+  valid_from: '1958-01-01'
+- country_code: PUBLIC_DEBATE
+  deprecated: 'false'
+  key: PUBLIC_DEBATE
+  label_en: Public debates
+  label_it: Dibattiti pubblici
+  url: http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE
+  valid_from: '1958-01-01'
+- country_code: TRAINING_WORKSHOP
+  deprecated: 'false'
+  key: TRAINING_WORKSHOP
+  label_en: Training and workshops
+  label_it: Formazione e seminari
+  url: http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP
+  valid_from: '1958-01-01'

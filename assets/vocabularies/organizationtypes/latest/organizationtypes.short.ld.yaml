@@ -1,0 +1,216 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: AGENCY
+  deprecated: 'false'
+  key: AGENCY
+  label_en: Agency
+  label_it: Agenzia
+  url: http://publications.europa.eu/resource/authority/organization-type/AGENCY
+  valid_from: '1975-02-10'
+- country_code: AGENCY_CFSP
+  deprecated: 'false'
+  key: AGENCY_CFSP
+  label_en: Common foreign and security policy agency
+  label_it: Agenzia per la politica estera e di sicurezza comune
+  url: http://publications.europa.eu/resource/authority/organization-type/AGENCY_CFSP
+  valid_from: '2002-01-01'
+- country_code: AGENCY_DEC
+  deprecated: 'false'
+  key: AGENCY_DEC
+  label_en: Decentralised agency
+  label_it: Agenzia decentrata
+  url: http://publications.europa.eu/resource/authority/organization-type/AGENCY_DEC
+  valid_from: '1975-02-10'
+- country_code: AGENCY_EURATOM
+  deprecated: 'false'
+  key: AGENCY_EURATOM
+  label_en: Euratom agency or body
+  label_it: Agenzia o organo Euratom
+  url: http://publications.europa.eu/resource/authority/organization-type/AGENCY_EURATOM
+  valid_from: '1958-12-06'
+- country_code: AGENCY_EXE
+  deprecated: 'false'
+  key: AGENCY_EXE
+  label_en: Executive Agency
+  label_it: Agenzia esecutiva
+  url: http://publications.europa.eu/resource/authority/organization-type/AGENCY_EXE
+  valid_from: '2003-12-23'
+- country_code: CAB
+  deprecated: 'false'
+  key: CAB
+  label_en: Cabinet
+  label_it: Gabinetto
+  url: http://publications.europa.eu/resource/authority/organization-type/CAB
+  valid_from: '1957-03-25'
+- country_code: COMPANY
+  deprecated: 'false'
+  key: COMPANY
+  label_en: Company
+  label_it: "Societ\xE0"
+  url: http://publications.europa.eu/resource/authority/organization-type/COMPANY
+  valid_from: '1900-01-01'
+- country_code: DEL
+  deprecated: 'false'
+  key: DEL
+  label_en: Delegation
+  label_it: Delegazione
+  url: http://publications.europa.eu/resource/authority/organization-type/DEL
+  valid_from: '1960-01-01'
+- country_code: DEP
+  deprecated: 'false'
+  key: DEP
+  label_en: Department
+  label_it: Dipartimento
+  url: http://publications.europa.eu/resource/authority/organization-type/DEP
+  valid_from: '1952-07-23'
+- country_code: DIR
+  deprecated: 'false'
+  key: DIR
+  label_en: Directorate
+  label_it: Direzione
+  url: http://publications.europa.eu/resource/authority/organization-type/DIR
+  valid_from: '1952-09-09'
+- country_code: DIR_ATT
+  deprecated: 'false'
+  key: DIR_ATT
+  label_en: Attached to a Directorate
+  label_it: Che dipende da una direzione
+  url: http://publications.europa.eu/resource/authority/organization-type/DIR_ATT
+  valid_from: '1952-09-09'
+- country_code: DIR_GEN
+  deprecated: 'false'
+  key: DIR_GEN
+  label_en: Directorate-General
+  label_it: Direzione generale
+  url: http://publications.europa.eu/resource/authority/organization-type/DIR_GEN
+  valid_from: '1952-09-09'
+- country_code: DIR_GEN_ATT
+  deprecated: 'false'
+  key: DIR_GEN_ATT
+  label_en: Attached to a Directorate-General
+  label_it: Che dipende da una direzione generale
+  url: http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_ATT
+  valid_from: '1952-09-09'
+- country_code: DIR_GEN_DPT
+  deprecated: 'false'
+  key: DIR_GEN_DPT
+  label_en: Service of deputy director-general
+  label_it: Servizio del direttore generale aggiunto
+  url: http://publications.europa.eu/resource/authority/organization-type/DIR_GEN_DPT
+  valid_from: '1952-09-09'
+- country_code: DIR_MAN
+  deprecated: 'false'
+  key: DIR_MAN
+  label_en: Managing directorate
+  label_it: Direzione gestionale
+  url: http://publications.europa.eu/resource/authority/organization-type/DIR_MAN
+  valid_from: '1952-09-09'
+- country_code: DIVISION
+  deprecated: 'false'
+  key: DIVISION
+  label_en: Division
+  label_it: Divisione
+  url: http://publications.europa.eu/resource/authority/organization-type/DIVISION
+  valid_from: '1958-01-01'
+- country_code: INSTIT
+  deprecated: 'false'
+  key: INSTIT
+  label_en: Institution
+  label_it: Istituzione
+  url: http://publications.europa.eu/resource/authority/organization-type/INSTIT
+  valid_from: '1952-07-23'
+- country_code: INSTIT_ATT
+  deprecated: 'false'
+  key: INSTIT_ATT
+  label_en: Attached to the institution
+  label_it: Che dipende dall'istituzione
+  url: http://publications.europa.eu/resource/authority/organization-type/INSTIT_ATT
+  valid_from: '1952-07-23'
+- country_code: OFFICE
+  deprecated: 'false'
+  key: OFFICE
+  label_en: Office
+  label_it: Ufficio
+  url: http://publications.europa.eu/resource/authority/organization-type/OFFICE
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/organization-type/OP_DATPRO
+- country_code: REPRES
+  deprecated: 'false'
+  key: REPRES
+  label_en: Representation
+  label_it: Rappresentanza
+  url: http://publications.europa.eu/resource/authority/organization-type/REPRES
+  valid_from: '1958-01-01'
+- country_code: SECTOR
+  deprecated: 'false'
+  key: SECTOR
+  label_en: Sector
+  label_it: Settore
+  url: http://publications.europa.eu/resource/authority/organization-type/SECTOR
+  valid_from: '1952-09-09'
+- country_code: SEC_GEN
+  deprecated: 'false'
+  key: SEC_GEN
+  label_en: General Secretariat
+  label_it: Segretariato generale
+  url: http://publications.europa.eu/resource/authority/organization-type/SEC_GEN
+  valid_from: '1952-09-09'
+- country_code: SEC_GEN_DPT
+  deprecated: 'false'
+  key: SEC_GEN_DPT
+  label_en: Service of deputy secretary general
+  label_it: Servizio del Segretario generale aggiunto
+  url: http://publications.europa.eu/resource/authority/organization-type/SEC_GEN_DPT
+  valid_from: '1952-09-09'
+- country_code: SERV
+  deprecated: 'false'
+  key: SERV
+  label_en: Service
+  label_it: Servizio
+  url: http://publications.europa.eu/resource/authority/organization-type/SERV
+  valid_from: '1951-04-18'
+- country_code: TEAM
+  deprecated: 'false'
+  key: TEAM
+  label_en: Team
+  label_it: Equipe
+  url: http://publications.europa.eu/resource/authority/organization-type/TEAM
+  valid_from: '1952-09-09'
+- country_code: TSK_FRC
+  deprecated: 'false'
+  key: TSK_FRC
+  label_en: Task Force
+  label_it: Task force
+  url: http://publications.europa.eu/resource/authority/organization-type/TSK_FRC
+  valid_from: '1998-01-21'
+- country_code: UNIT
+  deprecated: 'false'
+  key: UNIT
+  label_en: Unit
+  label_it: "Unit\xE0"
+  url: http://publications.europa.eu/resource/authority/organization-type/UNIT
+  valid_from: '1952-09-09'

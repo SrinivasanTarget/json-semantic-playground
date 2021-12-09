@@ -1,0 +1,44 @@
+# Serializing assets/vocabularies/timeperiods/latest/timeperiods.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/timeperiod
+# title: Time period
+# version: 20190918-0
+# description: Time period
+key,url,deprecated,valid_from,country_code,label_en,label_it
+APR,http://publications.europa.eu/resource/authority/timeperiod/APR,false,1952-07-25,APR,April,Aprile
+AUG,http://publications.europa.eu/resource/authority/timeperiod/AUG,false,1952-07-25,AUG,August,Agosto
+AUTUMN,http://publications.europa.eu/resource/authority/timeperiod/AUTUMN,false,1952-07-25,AUTUMN,Autumn,Autunno
+CALENDAR_DAY,http://publications.europa.eu/resource/authority/timeperiod/CALENDAR_DAY,false,1952-07-25,CALENDAR_DAY,Calendar day,Giorno del calendario
+DAY,http://publications.europa.eu/resource/authority/timeperiod/DAY,false,1952-07-25,DAY,Day,Giorno
+DEC,http://publications.europa.eu/resource/authority/timeperiod/DEC,false,1952-07-25,DEC,December,Dicembre
+FEB,http://publications.europa.eu/resource/authority/timeperiod/FEB,false,1952-07-25,FEB,February,Febbraio
+FRI,http://publications.europa.eu/resource/authority/timeperiod/FRI,false,1952-07-25,FRI,Friday,Venerdì
+HOUR,http://publications.europa.eu/resource/authority/timeperiod/HOUR,false,1952-07-25,HOUR,Hour,Ora
+JAN,http://publications.europa.eu/resource/authority/timeperiod/JAN,false,1952-07-25,JAN,January,Gennaio
+JUL,http://publications.europa.eu/resource/authority/timeperiod/JUL,false,1952-07-25,JUL,July,Luglio
+JUN,http://publications.europa.eu/resource/authority/timeperiod/JUN,false,1952-07-25,JUN,June,Giugno
+MAR,http://publications.europa.eu/resource/authority/timeperiod/MAR,false,1952-07-25,MAR,March,Marzo
+MAY,http://publications.europa.eu/resource/authority/timeperiod/MAY,false,1952-07-25,MAY,May,Maggio
+MIN,http://publications.europa.eu/resource/authority/timeperiod/MIN,false,1952-07-25,MIN,Minute,Minuto
+MON,http://publications.europa.eu/resource/authority/timeperiod/MON,false,1952-07-25,MON,Monday,Lunedì
+MONTH,http://publications.europa.eu/resource/authority/timeperiod/MONTH,false,1952-07-25,MONTH,Month,Mese
+NOV,http://publications.europa.eu/resource/authority/timeperiod/NOV,false,1952-07-25,NOV,November,Novembre
+OCT,http://publications.europa.eu/resource/authority/timeperiod/OCT,false,1952-07-25,OCT,October,Ottobre
+OP_DATPRO,http://publications.europa.eu/resource/authority/timeperiod/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+QUARTER,http://publications.europa.eu/resource/authority/timeperiod/QUARTER,false,1952-07-25,QUARTER,Quarter,Trimestre
+SAT,http://publications.europa.eu/resource/authority/timeperiod/SAT,false,1952-07-25,SAT,Saturday,Sabato
+SEC,http://publications.europa.eu/resource/authority/timeperiod/SEC,false,1952-07-25,SEC,Second,Secondo
+SEP,http://publications.europa.eu/resource/authority/timeperiod/SEP,false,1952-07-25,SEP,September,Settembre
+SPRING,http://publications.europa.eu/resource/authority/timeperiod/SPRING,false,1952-07-25,SPRING,Spring,Primavera
+SUMMER,http://publications.europa.eu/resource/authority/timeperiod/SUMMER,false,1952-07-25,SUMMER,Summer,Estate
+SUN,http://publications.europa.eu/resource/authority/timeperiod/SUN,false,1952-07-25,SUN,Sunday,Domenica
+THU,http://publications.europa.eu/resource/authority/timeperiod/THU,false,1952-07-25,THU,Thursday,Giovedì
+TUE,http://publications.europa.eu/resource/authority/timeperiod/TUE,false,1952-07-25,TUE,Tuesday,Martedì
+UNKNOWN,http://publications.europa.eu/resource/authority/timeperiod/UNKNOWN,false,1952-07-25,UNKNOWN,Unknown,Sconosciuto
+UNLIMITED,http://publications.europa.eu/resource/authority/timeperiod/UNLIMITED,false,1952-07-25,UNLIMITED,Unlimited,Illimitato
+WED,http://publications.europa.eu/resource/authority/timeperiod/WED,false,1952-07-25,WED,Wednesday,Mercoledì
+WEEK,http://publications.europa.eu/resource/authority/timeperiod/WEEK,false,1952-07-25,WEEK,Week,Settimana
+WINTER,http://publications.europa.eu/resource/authority/timeperiod/WINTER,false,1952-07-25,WINTER,Winter,Inverno
+WORKING_DAY,http://publications.europa.eu/resource/authority/timeperiod/WORKING_DAY,false,1952-07-25,WORKING_DAY,Working day,Giorno lavorativo
+YEAR,http://publications.europa.eu/resource/authority/timeperiod/YEAR,false,1952-07-25,YEAR,Year,Anno
+YEAR_HALF,http://publications.europa.eu/resource/authority/timeperiod/YEAR_HALF,false,1952-07-25,YEAR_HALF,Half year,Semestre

@@ -1,0 +1,6976 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KWT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KWT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KWT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KWT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KWT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "киловат"
+      },
+      {
+        "@language": "cs",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "da",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "de",
+        "@value": "Kilowatt"
+      },
+      {
+        "@language": "el",
+        "@value": "κιλοβάτ"
+      },
+      {
+        "@language": "en",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "es",
+        "@value": "kilovatio"
+      },
+      {
+        "@language": "et",
+        "@value": "kilovatt"
+      },
+      {
+        "@language": "fi",
+        "@value": "kilowatti"
+      },
+      {
+        "@language": "fr",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "ga",
+        "@value": "cileavata"
+      },
+      {
+        "@language": "hr",
+        "@value": "kilovat"
+      },
+      {
+        "@language": "hu",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "it",
+        "@value": "chilowatt"
+      },
+      {
+        "@language": "lt",
+        "@value": "kilovatas"
+      },
+      {
+        "@language": "lv",
+        "@value": "kilovati"
+      },
+      {
+        "@language": "mt",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "nl",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "pl",
+        "@value": "kilowat"
+      },
+      {
+        "@language": "pt",
+        "@value": "quilowatt"
+      },
+      {
+        "@language": "ro",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "sk",
+        "@value": "kilowatt"
+      },
+      {
+        "@language": "sl",
+        "@value": "kilovat"
+      },
+      {
+        "@language": "sv",
+        "@value": "kilowatt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/AMP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AMP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AMP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ампер"
+      },
+      {
+        "@language": "cs",
+        "@value": "ampér"
+      },
+      {
+        "@language": "da",
+        "@value": "ampere"
+      },
+      {
+        "@language": "de",
+        "@value": "Ampere"
+      },
+      {
+        "@language": "el",
+        "@value": "αμπέρ"
+      },
+      {
+        "@language": "en",
+        "@value": "ampere"
+      },
+      {
+        "@language": "es",
+        "@value": "amperio"
+      },
+      {
+        "@language": "et",
+        "@value": "amper"
+      },
+      {
+        "@language": "fi",
+        "@value": "ampeeri"
+      },
+      {
+        "@language": "fr",
+        "@value": "ampère"
+      },
+      {
+        "@language": "ga",
+        "@value": "aimpéar"
+      },
+      {
+        "@language": "hr",
+        "@value": "amper"
+      },
+      {
+        "@language": "hu",
+        "@value": "amper"
+      },
+      {
+        "@language": "it",
+        "@value": "ampère"
+      },
+      {
+        "@language": "lt",
+        "@value": "amperas"
+      },
+      {
+        "@language": "lv",
+        "@value": "ampēri"
+      },
+      {
+        "@language": "mt",
+        "@value": "ampere"
+      },
+      {
+        "@language": "nl",
+        "@value": "ampère"
+      },
+      {
+        "@language": "pl",
+        "@value": "amper"
+      },
+      {
+        "@language": "pt",
+        "@value": "ampere"
+      },
+      {
+        "@language": "ro",
+        "@value": "amper"
+      },
+      {
+        "@language": "sk",
+        "@value": "ampér"
+      },
+      {
+        "@language": "sl",
+        "@value": "amper"
+      },
+      {
+        "@language": "sv",
+        "@value": "ampere"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/HAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "хектар"
+      },
+      {
+        "@language": "cs",
+        "@value": "hektar"
+      },
+      {
+        "@language": "da",
+        "@value": "hektar"
+      },
+      {
+        "@language": "de",
+        "@value": "Hektar"
+      },
+      {
+        "@language": "el",
+        "@value": "εκτάριο"
+      },
+      {
+        "@language": "en",
+        "@value": "hectare"
+      },
+      {
+        "@language": "es",
+        "@value": "hectárea"
+      },
+      {
+        "@language": "et",
+        "@value": "hektar"
+      },
+      {
+        "@language": "fi",
+        "@value": "hehtaari"
+      },
+      {
+        "@language": "fr",
+        "@value": "hectare"
+      },
+      {
+        "@language": "ga",
+        "@value": "heicteár"
+      },
+      {
+        "@language": "hr",
+        "@value": "hektar"
+      },
+      {
+        "@language": "hu",
+        "@value": "hektár"
+      },
+      {
+        "@language": "it",
+        "@value": "ettaro"
+      },
+      {
+        "@language": "lt",
+        "@value": "hektaras"
+      },
+      {
+        "@language": "lv",
+        "@value": "hektāri"
+      },
+      {
+        "@language": "mt",
+        "@value": "ettaru"
+      },
+      {
+        "@language": "nl",
+        "@value": "hectare"
+      },
+      {
+        "@language": "pl",
+        "@value": "hektar"
+      },
+      {
+        "@language": "pt",
+        "@value": "hectare"
+      },
+      {
+        "@language": "ro",
+        "@value": "hectar"
+      },
+      {
+        "@language": "sk",
+        "@value": "hektár"
+      },
+      {
+        "@language": "sl",
+        "@value": "hektar"
+      },
+      {
+        "@language": "sv",
+        "@value": "hektar"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/3C",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "3C"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "3C"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "3C"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "3C"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "човекомесец"
+      },
+      {
+        "@language": "cs",
+        "@value": "člověkoměsíc"
+      },
+      {
+        "@language": "da",
+        "@value": "mandmåned"
+      },
+      {
+        "@language": "de",
+        "@value": "Mannmonat"
+      },
+      {
+        "@language": "el",
+        "@value": "ανθρωπομήνας"
+      },
+      {
+        "@language": "en",
+        "@value": "manmonth"
+      },
+      {
+        "@language": "es",
+        "@value": "hombre-mes"
+      },
+      {
+        "@language": "et",
+        "@value": "inimkuu"
+      },
+      {
+        "@language": "fi",
+        "@value": "henkilötyökuukausi"
+      },
+      {
+        "@language": "fr",
+        "@value": "mois-homme"
+      },
+      {
+        "@language": "ga",
+        "@value": "daonmhí"
+      },
+      {
+        "@language": "hr",
+        "@value": "čovjek-mjesec"
+      },
+      {
+        "@language": "hu",
+        "@value": "emberhónap"
+      },
+      {
+        "@language": "it",
+        "@value": "uomo-mese"
+      },
+      {
+        "@language": "lt",
+        "@value": "asmens darbo mė́nuo"
+      },
+      {
+        "@language": "lv",
+        "@value": "cilvēkmēneši"
+      },
+      {
+        "@language": "mt",
+        "@value": "xhur ta’ xogħol"
+      },
+      {
+        "@language": "nl",
+        "@value": "manmaand"
+      },
+      {
+        "@language": "pl",
+        "@value": "osobomiesiąc"
+      },
+      {
+        "@language": "pt",
+        "@value": "homem-mês"
+      },
+      {
+        "@language": "ro",
+        "@value": "luni-om"
+      },
+      {
+        "@language": "sk",
+        "@value": "človekomesiac"
+      },
+      {
+        "@language": "sl",
+        "@value": "človek-mesec"
+      },
+      {
+        "@language": "sv",
+        "@value": "manmånad"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/TKM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TKM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TKM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TKM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TKM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тон-километър"
+      },
+      {
+        "@language": "cs",
+        "@value": "tunokilometr"
+      },
+      {
+        "@language": "da",
+        "@value": "tonkilometer"
+      },
+      {
+        "@language": "de",
+        "@value": "Tonnenkilometer"
+      },
+      {
+        "@language": "el",
+        "@value": "τoνοχιλιόμετρο"
+      },
+      {
+        "@language": "en",
+        "@value": "tonne-kilometre"
+      },
+      {
+        "@language": "es",
+        "@value": "tonelada-kilómetro"
+      },
+      {
+        "@language": "et",
+        "@value": "tonnkilomeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "tonnikilometri"
+      },
+      {
+        "@language": "fr",
+        "@value": "tonne-kilomètre"
+      },
+      {
+        "@language": "ga",
+        "@value": "tona-chiliméadar"
+      },
+      {
+        "@language": "hr",
+        "@value": "tonski kilometar"
+      },
+      {
+        "@language": "hu",
+        "@value": "tonnakilométer"
+      },
+      {
+        "@language": "it",
+        "@value": "tonnellata-chilometro"
+      },
+      {
+        "@language": "lt",
+        "@value": "tonkilometris"
+      },
+      {
+        "@language": "lv",
+        "@value": "tonnkilometri"
+      },
+      {
+        "@language": "mt",
+        "@value": "tunnellata-kilometru"
+      },
+      {
+        "@language": "nl",
+        "@value": "tonkilometer"
+      },
+      {
+        "@language": "pl",
+        "@value": "tonokilometr"
+      },
+      {
+        "@language": "pt",
+        "@value": "tonelada-quilómetro"
+      },
+      {
+        "@language": "ro",
+        "@value": "tonă-kilometru"
+      },
+      {
+        "@language": "sk",
+        "@value": "tonokilometer"
+      },
+      {
+        "@language": "sl",
+        "@value": "tonski kilometer"
+      },
+      {
+        "@language": "sv",
+        "@value": "tonkilometer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/TOE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TOE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TOE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TOE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TOE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тон нефтен еквивалент"
+      },
+      {
+        "@language": "cs",
+        "@value": "tuna ropného ekvivalentu"
+      },
+      {
+        "@language": "da",
+        "@value": "ton mineralolieækvivalent"
+      },
+      {
+        "@language": "de",
+        "@value": "Tonne Rohöleinheiten"
+      },
+      {
+        "@language": "el",
+        "@value": "τόνος ισοδύναμου πετρελαίου"
+      },
+      {
+        "@language": "en",
+        "@value": "tonne of oil equivalent"
+      },
+      {
+        "@language": "es",
+        "@value": "tonelada equivalente de petróleo"
+      },
+      {
+        "@language": "et",
+        "@value": "naftaekvivalenttonn"
+      },
+      {
+        "@language": "fi",
+        "@value": "öljyekvivalenttitonni"
+      },
+      {
+        "@language": "fr",
+        "@value": "tonne d’équivalent pétrole"
+      },
+      {
+        "@language": "ga",
+        "@value": "coibhéis tona ola"
+      },
+      {
+        "@language": "hr",
+        "@value": "ekvivalent tone nafte"
+      },
+      {
+        "@language": "hu",
+        "@value": "tonnában számított olajegyenérték"
+      },
+      {
+        "@language": "it",
+        "@value": "tonnellata equivalente petrolio"
+      },
+      {
+        "@language": "lt",
+        "@value": "tona naftos ekvivalento"
+      },
+      {
+        "@language": "lv",
+        "@value": "naftas ekvivalenta tonnas"
+      },
+      {
+        "@language": "mt",
+        "@value": "tunnellata tal-ekwivalenti taż-żejt"
+      },
+      {
+        "@language": "nl",
+        "@value": "eenheid ton olie-equivalent"
+      },
+      {
+        "@language": "pl",
+        "@value": "tona oleju ekwiwalentnego"
+      },
+      {
+        "@language": "pt",
+        "@value": "tonelada de equivalente de petróleo"
+      },
+      {
+        "@language": "ro",
+        "@value": "tonă echivalent petrol"
+      },
+      {
+        "@language": "sk",
+        "@value": "tona ropného ekvivalentu"
+      },
+      {
+        "@language": "sl",
+        "@value": "tona ekvivalenta nafte"
+      },
+      {
+        "@language": "sv",
+        "@value": "ton oljeekvivalenter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/C34",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "C34"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "C34"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "C34"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "C34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "мол"
+      },
+      {
+        "@language": "cs",
+        "@value": "mol"
+      },
+      {
+        "@language": "da",
+        "@value": "mol"
+      },
+      {
+        "@language": "de",
+        "@value": "Mol"
+      },
+      {
+        "@language": "el",
+        "@value": "μολ"
+      },
+      {
+        "@language": "en",
+        "@value": "mole"
+      },
+      {
+        "@language": "es",
+        "@value": "mol"
+      },
+      {
+        "@language": "et",
+        "@value": "mool"
+      },
+      {
+        "@language": "fi",
+        "@value": "mooli"
+      },
+      {
+        "@language": "fr",
+        "@value": "mole"
+      },
+      {
+        "@language": "ga",
+        "@value": "mól"
+      },
+      {
+        "@language": "hr",
+        "@value": "mol"
+      },
+      {
+        "@language": "hu",
+        "@value": "mól"
+      },
+      {
+        "@language": "it",
+        "@value": "mole"
+      },
+      {
+        "@language": "lt",
+        "@value": "molis"
+      },
+      {
+        "@language": "lv",
+        "@value": "moli"
+      },
+      {
+        "@language": "mt",
+        "@value": "mol"
+      },
+      {
+        "@language": "nl",
+        "@value": "mol"
+      },
+      {
+        "@language": "pl",
+        "@value": "mol"
+      },
+      {
+        "@language": "pt",
+        "@value": "mole"
+      },
+      {
+        "@language": "ro",
+        "@value": "mol"
+      },
+      {
+        "@language": "sk",
+        "@value": "mol"
+      },
+      {
+        "@language": "sl",
+        "@value": "mol"
+      },
+      {
+        "@language": "sv",
+        "@value": "mol"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/HTZ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HTZ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HTZ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HTZ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HTZ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "херц"
+      },
+      {
+        "@language": "cs",
+        "@value": "hertz"
+      },
+      {
+        "@language": "da",
+        "@value": "hertz"
+      },
+      {
+        "@language": "de",
+        "@value": "Hertz"
+      },
+      {
+        "@language": "el",
+        "@value": "χερτζ"
+      },
+      {
+        "@language": "en",
+        "@value": "hertz"
+      },
+      {
+        "@language": "es",
+        "@value": "hertzio"
+      },
+      {
+        "@language": "et",
+        "@value": "herts"
+      },
+      {
+        "@language": "fi",
+        "@value": "hertsi"
+      },
+      {
+        "@language": "fr",
+        "@value": "hertz"
+      },
+      {
+        "@language": "ga",
+        "@value": "hertz"
+      },
+      {
+        "@language": "hr",
+        "@value": "herc"
+      },
+      {
+        "@language": "hu",
+        "@value": "hertz"
+      },
+      {
+        "@language": "it",
+        "@value": "hertz"
+      },
+      {
+        "@language": "lt",
+        "@value": "hercas"
+      },
+      {
+        "@language": "lv",
+        "@value": "herci"
+      },
+      {
+        "@language": "mt",
+        "@value": "hertz"
+      },
+      {
+        "@language": "nl",
+        "@value": "hertz"
+      },
+      {
+        "@language": "pl",
+        "@value": "herc"
+      },
+      {
+        "@language": "pt",
+        "@value": "hertz"
+      },
+      {
+        "@language": "ro",
+        "@value": "hertz"
+      },
+      {
+        "@language": "sk",
+        "@value": "hertz"
+      },
+      {
+        "@language": "sl",
+        "@value": "hertz"
+      },
+      {
+        "@language": "sv",
+        "@value": "hertz"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/CMQ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CMQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CMQ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CMQ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CMQ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "кубичен сантиметър"
+      },
+      {
+        "@language": "cs",
+        "@value": "centimetr krychlový"
+      },
+      {
+        "@language": "da",
+        "@value": "kubikcentimeter"
+      },
+      {
+        "@language": "de",
+        "@value": "Kubikzentimeter"
+      },
+      {
+        "@language": "el",
+        "@value": "κυβικό εκατοστό"
+      },
+      {
+        "@language": "en",
+        "@value": "cubic centimetre"
+      },
+      {
+        "@language": "es",
+        "@value": "centímetro cúbico"
+      },
+      {
+        "@language": "et",
+        "@value": "kuupsentimeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "kuutiosenttimetri"
+      },
+      {
+        "@language": "fr",
+        "@value": "centimètre cube"
+      },
+      {
+        "@language": "ga",
+        "@value": "ceintiméadar ciúbach"
+      },
+      {
+        "@language": "hr",
+        "@value": "kubični centimetar"
+      },
+      {
+        "@language": "hu",
+        "@value": "köbcentiméter"
+      },
+      {
+        "@language": "it",
+        "@value": "centimetro cubo"
+      },
+      {
+        "@language": "lt",
+        "@value": "kubinis centimetras"
+      },
+      {
+        "@language": "lv",
+        "@value": "kubikcentimetri"
+      },
+      {
+        "@language": "mt",
+        "@value": "ċentimetru kubu"
+      },
+      {
+        "@language": "nl",
+        "@value": "kubieke centimeter"
+      },
+      {
+        "@language": "pl",
+        "@value": "centymetr sześcienny"
+      },
+      {
+        "@language": "pt",
+        "@value": "centímetro cúbico"
+      },
+      {
+        "@language": "ro",
+        "@value": "centimetru cub"
+      },
+      {
+        "@language": "sk",
+        "@value": "centimeter kubický"
+      },
+      {
+        "@language": "sl",
+        "@value": "kubični centimeter"
+      },
+      {
+        "@language": "sv",
+        "@value": "kubikcentimeter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/2N",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "2N"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "2N"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "2N"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "2N"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "децибел"
+      },
+      {
+        "@language": "cs",
+        "@value": "decibel"
+      },
+      {
+        "@language": "da",
+        "@value": "decibel"
+      },
+      {
+        "@language": "de",
+        "@value": "Dezibel"
+      },
+      {
+        "@language": "el",
+        "@value": "ντεσιμπέλ"
+      },
+      {
+        "@language": "en",
+        "@value": "decibel"
+      },
+      {
+        "@language": "es",
+        "@value": "decibelio"
+      },
+      {
+        "@language": "et",
+        "@value": "detsibell"
+      },
+      {
+        "@language": "fi",
+        "@value": "desibeli"
+      },
+      {
+        "@language": "fr",
+        "@value": "décibel"
+      },
+      {
+        "@language": "ga",
+        "@value": "deicibeil"
+      },
+      {
+        "@language": "hr",
+        "@value": "decibel"
+      },
+      {
+        "@language": "hu",
+        "@value": "decibel"
+      },
+      {
+        "@language": "it",
+        "@value": "decibel"
+      },
+      {
+        "@language": "lt",
+        "@value": "decibelas"
+      },
+      {
+        "@language": "lv",
+        "@value": "decibeli"
+      },
+      {
+        "@language": "mt",
+        "@value": "decibel"
+      },
+      {
+        "@language": "nl",
+        "@value": "decibel"
+      },
+      {
+        "@language": "pl",
+        "@value": "decybel"
+      },
+      {
+        "@language": "pt",
+        "@value": "decibel"
+      },
+      {
+        "@language": "ro",
+        "@value": "decibel"
+      },
+      {
+        "@language": "sk",
+        "@value": "decibel"
+      },
+      {
+        "@language": "sl",
+        "@value": "decibel"
+      },
+      {
+        "@language": "sv",
+        "@value": "decibel"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/PAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "паскал"
+      },
+      {
+        "@language": "cs",
+        "@value": "pascal"
+      },
+      {
+        "@language": "da",
+        "@value": "Pascal"
+      },
+      {
+        "@language": "de",
+        "@value": "Pascal"
+      },
+      {
+        "@language": "el",
+        "@value": "πασκάλ"
+      },
+      {
+        "@language": "en",
+        "@value": "pascal"
+      },
+      {
+        "@language": "es",
+        "@value": "pascal"
+      },
+      {
+        "@language": "et",
+        "@value": "paskal"
+      },
+      {
+        "@language": "fi",
+        "@value": "pascal"
+      },
+      {
+        "@language": "fr",
+        "@value": "pascal"
+      },
+      {
+        "@language": "ga",
+        "@value": "pascal"
+      },
+      {
+        "@language": "hr",
+        "@value": "paskal"
+      },
+      {
+        "@language": "hu",
+        "@value": "pascal"
+      },
+      {
+        "@language": "it",
+        "@value": "pascal"
+      },
+      {
+        "@language": "lt",
+        "@value": "paskalis"
+      },
+      {
+        "@language": "lv",
+        "@value": "paskāli"
+      },
+      {
+        "@language": "mt",
+        "@value": "pascal"
+      },
+      {
+        "@language": "nl",
+        "@value": "pascal"
+      },
+      {
+        "@language": "pl",
+        "@value": "paskal"
+      },
+      {
+        "@language": "pt",
+        "@value": "pascal"
+      },
+      {
+        "@language": "ro",
+        "@value": "pascal"
+      },
+      {
+        "@language": "sk",
+        "@value": "pascal"
+      },
+      {
+        "@language": "sl",
+        "@value": "pascal"
+      },
+      {
+        "@language": "sv",
+        "@value": "pascal"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KGM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KGM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KGM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KGM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KGM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "килограм"
+      },
+      {
+        "@language": "cs",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "da",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "de",
+        "@value": "Kilogramm"
+      },
+      {
+        "@language": "el",
+        "@value": "χιλιόγραμμο"
+      },
+      {
+        "@language": "en",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "es",
+        "@value": "kilogramo"
+      },
+      {
+        "@language": "et",
+        "@value": "kilogramm"
+      },
+      {
+        "@language": "fi",
+        "@value": "kilogramma"
+      },
+      {
+        "@language": "fr",
+        "@value": "kilogramme"
+      },
+      {
+        "@language": "ga",
+        "@value": "cileagram"
+      },
+      {
+        "@language": "hr",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "hu",
+        "@value": "kilogramm"
+      },
+      {
+        "@language": "it",
+        "@value": "chilogrammo"
+      },
+      {
+        "@language": "lt",
+        "@value": "kilogramas"
+      },
+      {
+        "@language": "lv",
+        "@value": "kilogrami"
+      },
+      {
+        "@language": "mt",
+        "@value": "kilogramm"
+      },
+      {
+        "@language": "nl",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "pl",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "pt",
+        "@value": "quilograma"
+      },
+      {
+        "@language": "ro",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "sk",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "sl",
+        "@value": "kilogram"
+      },
+      {
+        "@language": "sv",
+        "@value": "kilogram"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/CMT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CMT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CMT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CMT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "сантиметър"
+      },
+      {
+        "@language": "cs",
+        "@value": "centimetr"
+      },
+      {
+        "@language": "da",
+        "@value": "centimeter"
+      },
+      {
+        "@language": "de",
+        "@value": "Zentimeter"
+      },
+      {
+        "@language": "el",
+        "@value": "εκατοστόμετρο"
+      },
+      {
+        "@language": "en",
+        "@value": "centimetre"
+      },
+      {
+        "@language": "es",
+        "@value": "centímetro"
+      },
+      {
+        "@language": "et",
+        "@value": "sentimeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "senttimetri"
+      },
+      {
+        "@language": "fr",
+        "@value": "centimètre"
+      },
+      {
+        "@language": "ga",
+        "@value": "ceintiméadar"
+      },
+      {
+        "@language": "hr",
+        "@value": "centimetar"
+      },
+      {
+        "@language": "hu",
+        "@value": "centiméter"
+      },
+      {
+        "@language": "it",
+        "@value": "centimetro"
+      },
+      {
+        "@language": "lt",
+        "@value": "centimetras"
+      },
+      {
+        "@language": "lv",
+        "@value": "centimetri"
+      },
+      {
+        "@language": "mt",
+        "@value": "ċentimetru"
+      },
+      {
+        "@language": "nl",
+        "@value": "centimeter"
+      },
+      {
+        "@language": "pl",
+        "@value": "centymetr"
+      },
+      {
+        "@language": "pt",
+        "@value": "centímetro"
+      },
+      {
+        "@language": "ro",
+        "@value": "centimetru"
+      },
+      {
+        "@language": "sk",
+        "@value": "centimeter"
+      },
+      {
+        "@language": "sl",
+        "@value": "centimeter"
+      },
+      {
+        "@language": "sv",
+        "@value": "centimeter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MTS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MTS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MTS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MTS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MTS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "метър в секунда"
+      },
+      {
+        "@language": "cs",
+        "@value": "metr za sekundu"
+      },
+      {
+        "@language": "da",
+        "@value": "meter pr. sekund"
+      },
+      {
+        "@language": "de",
+        "@value": "Meter pro Sekunde"
+      },
+      {
+        "@language": "el",
+        "@value": "μέτρο ανά δευτερόλεπτο"
+      },
+      {
+        "@language": "en",
+        "@value": "metre per second"
+      },
+      {
+        "@language": "es",
+        "@value": "metro por segundo"
+      },
+      {
+        "@language": "et",
+        "@value": "meeter sekundis"
+      },
+      {
+        "@language": "fi",
+        "@value": "metri sekunnissa"
+      },
+      {
+        "@language": "fr",
+        "@value": "mètre par seconde"
+      },
+      {
+        "@language": "ga",
+        "@value": "méadar sa soicind"
+      },
+      {
+        "@language": "hr",
+        "@value": "metar u sekundi"
+      },
+      {
+        "@language": "hu",
+        "@value": "méter/szekundum"
+      },
+      {
+        "@language": "it",
+        "@value": "metro al secondo"
+      },
+      {
+        "@language": "lt",
+        "@value": "metras per sekundę"
+      },
+      {
+        "@language": "lv",
+        "@value": "metri sekundē"
+      },
+      {
+        "@language": "mt",
+        "@value": "metru fis-sekonda"
+      },
+      {
+        "@language": "nl",
+        "@value": "meter per seconde"
+      },
+      {
+        "@language": "pl",
+        "@value": "metr na sekundę"
+      },
+      {
+        "@language": "pt",
+        "@value": "metro por segundo"
+      },
+      {
+        "@language": "ro",
+        "@value": "metru pe secundă"
+      },
+      {
+        "@language": "sk",
+        "@value": "meter za sekundu"
+      },
+      {
+        "@language": "sl",
+        "@value": "meter na sekundo"
+      },
+      {
+        "@language": "sv",
+        "@value": "meter per sekund"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/AD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "байт"
+      },
+      {
+        "@language": "cs",
+        "@value": "bajt"
+      },
+      {
+        "@language": "da",
+        "@value": "byte"
+      },
+      {
+        "@language": "de",
+        "@value": "Byte"
+      },
+      {
+        "@language": "el",
+        "@value": "μπάιτ"
+      },
+      {
+        "@language": "en",
+        "@value": "byte"
+      },
+      {
+        "@language": "es",
+        "@value": "byte"
+      },
+      {
+        "@language": "et",
+        "@value": "bait"
+      },
+      {
+        "@language": "fi",
+        "@value": "tavu"
+      },
+      {
+        "@language": "fr",
+        "@value": "byte"
+      },
+      {
+        "@language": "ga",
+        "@value": "beart"
+      },
+      {
+        "@language": "hr",
+        "@value": "bajt"
+      },
+      {
+        "@language": "hu",
+        "@value": "byte"
+      },
+      {
+        "@language": "it",
+        "@value": "byte"
+      },
+      {
+        "@language": "lt",
+        "@value": "baitas"
+      },
+      {
+        "@language": "lv",
+        "@value": "baiti"
+      },
+      {
+        "@language": "mt",
+        "@value": "byte"
+      },
+      {
+        "@language": "nl",
+        "@value": "byte"
+      },
+      {
+        "@language": "pl",
+        "@value": "bajt"
+      },
+      {
+        "@language": "pt",
+        "@value": "byte"
+      },
+      {
+        "@language": "ro",
+        "@value": "byte"
+      },
+      {
+        "@language": "sk",
+        "@value": "bajt"
+      },
+      {
+        "@language": "sl",
+        "@value": "bajt"
+      },
+      {
+        "@language": "sv",
+        "@value": "byte"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MMT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MMT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MMT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MMT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MMT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "милиметър"
+      },
+      {
+        "@language": "cs",
+        "@value": "milimetr"
+      },
+      {
+        "@language": "da",
+        "@value": "millimeter"
+      },
+      {
+        "@language": "de",
+        "@value": "Millimeter"
+      },
+      {
+        "@language": "el",
+        "@value": "χιλιοστόμετρο"
+      },
+      {
+        "@language": "en",
+        "@value": "millimetre"
+      },
+      {
+        "@language": "es",
+        "@value": "milímetro"
+      },
+      {
+        "@language": "et",
+        "@value": "millimeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "millimetri"
+      },
+      {
+        "@language": "fr",
+        "@value": "millimètre"
+      },
+      {
+        "@language": "ga",
+        "@value": "milliméadar"
+      },
+      {
+        "@language": "hr",
+        "@value": "milimetar"
+      },
+      {
+        "@language": "hu",
+        "@value": "milliméter"
+      },
+      {
+        "@language": "it",
+        "@value": "millimetro"
+      },
+      {
+        "@language": "lt",
+        "@value": "milimetras"
+      },
+      {
+        "@language": "lv",
+        "@value": "milimetri"
+      },
+      {
+        "@language": "mt",
+        "@value": "millimetru"
+      },
+      {
+        "@language": "nl",
+        "@value": "millimeter"
+      },
+      {
+        "@language": "pl",
+        "@value": "milimetr"
+      },
+      {
+        "@language": "pt",
+        "@value": "milímetro"
+      },
+      {
+        "@language": "ro",
+        "@value": "milimetru"
+      },
+      {
+        "@language": "sk",
+        "@value": "milimeter"
+      },
+      {
+        "@language": "sl",
+        "@value": "milimeter"
+      },
+      {
+        "@language": "sv",
+        "@value": "millimeter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/LTR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LTR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "литър"
+      },
+      {
+        "@language": "cs",
+        "@value": "litr"
+      },
+      {
+        "@language": "da",
+        "@value": "liter"
+      },
+      {
+        "@language": "de",
+        "@value": "Liter"
+      },
+      {
+        "@language": "el",
+        "@value": "λίτρο"
+      },
+      {
+        "@language": "en",
+        "@value": "litre"
+      },
+      {
+        "@language": "es",
+        "@value": "litro"
+      },
+      {
+        "@language": "et",
+        "@value": "liiter"
+      },
+      {
+        "@language": "fi",
+        "@value": "litra"
+      },
+      {
+        "@language": "fr",
+        "@value": "litre"
+      },
+      {
+        "@language": "ga",
+        "@value": "lítear"
+      },
+      {
+        "@language": "hr",
+        "@value": "litra"
+      },
+      {
+        "@language": "hu",
+        "@value": "liter"
+      },
+      {
+        "@language": "it",
+        "@value": "litro"
+      },
+      {
+        "@language": "lt",
+        "@value": "litras"
+      },
+      {
+        "@language": "lv",
+        "@value": "litri"
+      },
+      {
+        "@language": "mt",
+        "@value": "litru"
+      },
+      {
+        "@language": "nl",
+        "@value": "liter"
+      },
+      {
+        "@language": "pl",
+        "@value": "litr"
+      },
+      {
+        "@language": "pt",
+        "@value": "litro"
+      },
+      {
+        "@language": "ro",
+        "@value": "litru"
+      },
+      {
+        "@language": "sk",
+        "@value": "liter"
+      },
+      {
+        "@language": "sl",
+        "@value": "liter"
+      },
+      {
+        "@language": "sv",
+        "@value": "liter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/VLT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "VLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "VLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "VLT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "VLT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "волт"
+      },
+      {
+        "@language": "cs",
+        "@value": "volt"
+      },
+      {
+        "@language": "da",
+        "@value": "volt"
+      },
+      {
+        "@language": "de",
+        "@value": "Volt"
+      },
+      {
+        "@language": "el",
+        "@value": "βολτ"
+      },
+      {
+        "@language": "en",
+        "@value": "volt"
+      },
+      {
+        "@language": "es",
+        "@value": "voltio"
+      },
+      {
+        "@language": "et",
+        "@value": "volt"
+      },
+      {
+        "@language": "fi",
+        "@value": "voltti"
+      },
+      {
+        "@language": "fr",
+        "@value": "volt"
+      },
+      {
+        "@language": "ga",
+        "@value": "volta"
+      },
+      {
+        "@language": "hr",
+        "@value": "volt"
+      },
+      {
+        "@language": "hu",
+        "@value": "volt"
+      },
+      {
+        "@language": "it",
+        "@value": "volt"
+      },
+      {
+        "@language": "lt",
+        "@value": "voltas"
+      },
+      {
+        "@language": "lv",
+        "@value": "volti"
+      },
+      {
+        "@language": "mt",
+        "@value": "volt"
+      },
+      {
+        "@language": "nl",
+        "@value": "volt"
+      },
+      {
+        "@language": "pl",
+        "@value": "wolt"
+      },
+      {
+        "@language": "pt",
+        "@value": "volt"
+      },
+      {
+        "@language": "ro",
+        "@value": "volt"
+      },
+      {
+        "@language": "sk",
+        "@value": "volt"
+      },
+      {
+        "@language": "sl",
+        "@value": "volt"
+      },
+      {
+        "@language": "sv",
+        "@value": "volt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MIN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "минута"
+      },
+      {
+        "@language": "cs",
+        "@value": "minuta"
+      },
+      {
+        "@language": "da",
+        "@value": "minut"
+      },
+      {
+        "@language": "de",
+        "@value": "Minute"
+      },
+      {
+        "@language": "el",
+        "@value": "λεπτό"
+      },
+      {
+        "@language": "en",
+        "@value": "minute"
+      },
+      {
+        "@language": "es",
+        "@value": "minuto"
+      },
+      {
+        "@language": "et",
+        "@value": "minut"
+      },
+      {
+        "@language": "fi",
+        "@value": "minuutti"
+      },
+      {
+        "@language": "fr",
+        "@value": "minute"
+      },
+      {
+        "@language": "ga",
+        "@value": "nóiméad"
+      },
+      {
+        "@language": "hr",
+        "@value": "minuta"
+      },
+      {
+        "@language": "hu",
+        "@value": "perc"
+      },
+      {
+        "@language": "it",
+        "@value": "minuto"
+      },
+      {
+        "@language": "lt",
+        "@value": "minutė"
+      },
+      {
+        "@language": "lv",
+        "@value": "minūtes"
+      },
+      {
+        "@language": "mt",
+        "@value": "minuta"
+      },
+      {
+        "@language": "nl",
+        "@value": "minuut"
+      },
+      {
+        "@language": "pl",
+        "@value": "minuta"
+      },
+      {
+        "@language": "pt",
+        "@value": "minuto"
+      },
+      {
+        "@language": "ro",
+        "@value": "minut"
+      },
+      {
+        "@language": "sk",
+        "@value": "minúta"
+      },
+      {
+        "@language": "sl",
+        "@value": "minuta"
+      },
+      {
+        "@language": "sv",
+        "@value": "minut"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/GTE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GTE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GTE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GTE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GTE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "брутна товароносимост"
+      },
+      {
+        "@language": "cs",
+        "@value": "hrubá prostornost"
+      },
+      {
+        "@language": "da",
+        "@value": "bruttotonnage"
+      },
+      {
+        "@language": "de",
+        "@value": "Bruttoraumzahl"
+      },
+      {
+        "@language": "el",
+        "@value": "ολική χωρητικότητα"
+      },
+      {
+        "@language": "en",
+        "@value": "gross tonnage"
+      },
+      {
+        "@language": "es",
+        "@value": "arqueo bruto"
+      },
+      {
+        "@language": "et",
+        "@value": "kogumahutavus"
+      },
+      {
+        "@language": "fi",
+        "@value": "bruttovetoisuus"
+      },
+      {
+        "@language": "fr",
+        "@value": "jauge brute"
+      },
+      {
+        "@language": "ga",
+        "@value": "olltonnáiste"
+      },
+      {
+        "@language": "hr",
+        "@value": "bruto tonaža"
+      },
+      {
+        "@language": "hu",
+        "@value": "bruttó űrtartalom"
+      },
+      {
+        "@language": "it",
+        "@value": "stazza lorda"
+      },
+      {
+        "@language": "lt",
+        "@value": "bendroji talpa"
+      },
+      {
+        "@language": "lv",
+        "@value": "bruto tilpība"
+      },
+      {
+        "@language": "mt",
+        "@value": "tunnellaġġ gross"
+      },
+      {
+        "@language": "nl",
+        "@value": "brutotonnage"
+      },
+      {
+        "@language": "pl",
+        "@value": "pojemność brutto"
+      },
+      {
+        "@language": "pt",
+        "@value": "arqueação bruta"
+      },
+      {
+        "@language": "ro",
+        "@value": "tonaj brut"
+      },
+      {
+        "@language": "sk",
+        "@value": "hrubá tonáž"
+      },
+      {
+        "@language": "sl",
+        "@value": "bruto tonaža"
+      },
+      {
+        "@language": "sv",
+        "@value": "bruttodräktighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KTM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KTM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KTM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KTM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KTM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "километър"
+      },
+      {
+        "@language": "cs",
+        "@value": "kilometr"
+      },
+      {
+        "@language": "da",
+        "@value": "kilometer"
+      },
+      {
+        "@language": "de",
+        "@value": "Kilometer"
+      },
+      {
+        "@language": "el",
+        "@value": "χιλιόμετρο"
+      },
+      {
+        "@language": "en",
+        "@value": "kilometre"
+      },
+      {
+        "@language": "es",
+        "@value": "kilómetro"
+      },
+      {
+        "@language": "et",
+        "@value": "kilomeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "kilometri"
+      },
+      {
+        "@language": "fr",
+        "@value": "kilomètre"
+      },
+      {
+        "@language": "ga",
+        "@value": "ciliméadar"
+      },
+      {
+        "@language": "hr",
+        "@value": "kilometar"
+      },
+      {
+        "@language": "hu",
+        "@value": "kilométer"
+      },
+      {
+        "@language": "it",
+        "@value": "chilometro"
+      },
+      {
+        "@language": "lt",
+        "@value": "kilometras"
+      },
+      {
+        "@language": "lv",
+        "@value": "kilometri"
+      },
+      {
+        "@language": "mt",
+        "@value": "kilometru"
+      },
+      {
+        "@language": "nl",
+        "@value": "kilometer"
+      },
+      {
+        "@language": "pl",
+        "@value": "kilometr"
+      },
+      {
+        "@language": "pt",
+        "@value": "quilómetro"
+      },
+      {
+        "@language": "ro",
+        "@value": "kilometru"
+      },
+      {
+        "@language": "sk",
+        "@value": "kilometer"
+      },
+      {
+        "@language": "sl",
+        "@value": "kilometer"
+      },
+      {
+        "@language": "sv",
+        "@value": "kilometer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/CDL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CDL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CDL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CDL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CDL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "кандела"
+      },
+      {
+        "@language": "cs",
+        "@value": "kandela"
+      },
+      {
+        "@language": "da",
+        "@value": "candela"
+      },
+      {
+        "@language": "de",
+        "@value": "Candela"
+      },
+      {
+        "@language": "el",
+        "@value": "καντέλα"
+      },
+      {
+        "@language": "en",
+        "@value": "candela"
+      },
+      {
+        "@language": "es",
+        "@value": "candela"
+      },
+      {
+        "@language": "et",
+        "@value": "kandela"
+      },
+      {
+        "@language": "fi",
+        "@value": "kandela"
+      },
+      {
+        "@language": "fr",
+        "@value": "candela"
+      },
+      {
+        "@language": "ga",
+        "@value": "caindéile"
+      },
+      {
+        "@language": "hr",
+        "@value": "kandela"
+      },
+      {
+        "@language": "hu",
+        "@value": "kandela"
+      },
+      {
+        "@language": "it",
+        "@value": "candela"
+      },
+      {
+        "@language": "lt",
+        "@value": "kandela"
+      },
+      {
+        "@language": "lv",
+        "@value": "kandelas"
+      },
+      {
+        "@language": "mt",
+        "@value": "candela"
+      },
+      {
+        "@language": "nl",
+        "@value": "candela"
+      },
+      {
+        "@language": "pl",
+        "@value": "kandela"
+      },
+      {
+        "@language": "pt",
+        "@value": "candela"
+      },
+      {
+        "@language": "ro",
+        "@value": "candela"
+      },
+      {
+        "@language": "sk",
+        "@value": "kandela"
+      },
+      {
+        "@language": "sl",
+        "@value": "kandela"
+      },
+      {
+        "@language": "sv",
+        "@value": "candela"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/HUR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HUR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HUR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HUR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HUR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "час"
+      },
+      {
+        "@language": "cs",
+        "@value": "hodina"
+      },
+      {
+        "@language": "da",
+        "@value": "time"
+      },
+      {
+        "@language": "de",
+        "@value": "Stunde"
+      },
+      {
+        "@language": "el",
+        "@value": "ώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "hour"
+      },
+      {
+        "@language": "es",
+        "@value": "hora"
+      },
+      {
+        "@language": "et",
+        "@value": "tund"
+      },
+      {
+        "@language": "fi",
+        "@value": "tunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "heure"
+      },
+      {
+        "@language": "ga",
+        "@value": "uair"
+      },
+      {
+        "@language": "hr",
+        "@value": "sat"
+      },
+      {
+        "@language": "hu",
+        "@value": "óra"
+      },
+      {
+        "@language": "it",
+        "@value": "ora"
+      },
+      {
+        "@language": "lt",
+        "@value": "valanda"
+      },
+      {
+        "@language": "lv",
+        "@value": "stundas"
+      },
+      {
+        "@language": "mt",
+        "@value": "siegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "uur"
+      },
+      {
+        "@language": "pl",
+        "@value": "godzina"
+      },
+      {
+        "@language": "pt",
+        "@value": "hora"
+      },
+      {
+        "@language": "ro",
+        "@value": "oră"
+      },
+      {
+        "@language": "sk",
+        "@value": "hodina"
+      },
+      {
+        "@language": "sl",
+        "@value": "ura"
+      },
+      {
+        "@language": "sv",
+        "@value": "timme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/TNE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TNE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TNE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TNE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TNE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тон"
+      },
+      {
+        "@language": "cs",
+        "@value": "tuna"
+      },
+      {
+        "@language": "da",
+        "@value": "ton"
+      },
+      {
+        "@language": "de",
+        "@value": "Tonne"
+      },
+      {
+        "@language": "el",
+        "@value": "τόνος"
+      },
+      {
+        "@language": "en",
+        "@value": "tonne"
+      },
+      {
+        "@language": "es",
+        "@value": "tonelada"
+      },
+      {
+        "@language": "et",
+        "@value": "tonn"
+      },
+      {
+        "@language": "fi",
+        "@value": "tonni"
+      },
+      {
+        "@language": "fr",
+        "@value": "tonne"
+      },
+      {
+        "@language": "ga",
+        "@value": "tona"
+      },
+      {
+        "@language": "hr",
+        "@value": "tona"
+      },
+      {
+        "@language": "hu",
+        "@value": "tonna"
+      },
+      {
+        "@language": "it",
+        "@value": "tonnellata"
+      },
+      {
+        "@language": "lt",
+        "@value": "tona"
+      },
+      {
+        "@language": "lv",
+        "@value": "tonnas"
+      },
+      {
+        "@language": "mt",
+        "@value": "tunnellata metrika"
+      },
+      {
+        "@language": "nl",
+        "@value": "ton"
+      },
+      {
+        "@language": "pl",
+        "@value": "tona"
+      },
+      {
+        "@language": "pt",
+        "@value": "tonelada"
+      },
+      {
+        "@language": "ro",
+        "@value": "tonă"
+      },
+      {
+        "@language": "sk",
+        "@value": "tona"
+      },
+      {
+        "@language": "sl",
+        "@value": "tona"
+      },
+      {
+        "@language": "sv",
+        "@value": "ton"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KWH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KWH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KWH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KWH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KWH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "киловатчас"
+      },
+      {
+        "@language": "cs",
+        "@value": "kilowatthodina"
+      },
+      {
+        "@language": "da",
+        "@value": "kilowatt-time"
+      },
+      {
+        "@language": "de",
+        "@value": "Kilowattstunde"
+      },
+      {
+        "@language": "el",
+        "@value": "κιλοβατώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "kilowatt-hour"
+      },
+      {
+        "@language": "es",
+        "@value": "kilovatio-hora"
+      },
+      {
+        "@language": "et",
+        "@value": "kilovatt-tund"
+      },
+      {
+        "@language": "fi",
+        "@value": "kilowattitunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "kilowattheure"
+      },
+      {
+        "@language": "ga",
+        "@value": "cileavatuair"
+      },
+      {
+        "@language": "hr",
+        "@value": "kilovatsat"
+      },
+      {
+        "@language": "hu",
+        "@value": "kilowattóra"
+      },
+      {
+        "@language": "it",
+        "@value": "chilowattora"
+      },
+      {
+        "@language": "lt",
+        "@value": "kilovatvalandė"
+      },
+      {
+        "@language": "lv",
+        "@value": "kilovatstundas"
+      },
+      {
+        "@language": "mt",
+        "@value": "kilowatt is-siegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "kilowattuur"
+      },
+      {
+        "@language": "pl",
+        "@value": "kilowatogodzina"
+      },
+      {
+        "@language": "pt",
+        "@value": "quilowatt-hora"
+      },
+      {
+        "@language": "ro",
+        "@value": "kilowatt-oră"
+      },
+      {
+        "@language": "sk",
+        "@value": "kilowatthodina"
+      },
+      {
+        "@language": "sl",
+        "@value": "kilovatna ura"
+      },
+      {
+        "@language": "sv",
+        "@value": "kilowattimme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/C45",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "C45"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "C45"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "C45"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "C45"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "нанометър"
+      },
+      {
+        "@language": "cs",
+        "@value": "nanometr"
+      },
+      {
+        "@language": "da",
+        "@value": "nanometer"
+      },
+      {
+        "@language": "de",
+        "@value": "Nanometer"
+      },
+      {
+        "@language": "el",
+        "@value": "νανόμετρο"
+      },
+      {
+        "@language": "en",
+        "@value": "nanometre"
+      },
+      {
+        "@language": "es",
+        "@value": "nanómetro"
+      },
+      {
+        "@language": "et",
+        "@value": "nanomeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "nanometri"
+      },
+      {
+        "@language": "fr",
+        "@value": "nanomètre"
+      },
+      {
+        "@language": "ga",
+        "@value": "nanaiméadar"
+      },
+      {
+        "@language": "hr",
+        "@value": "nanometar"
+      },
+      {
+        "@language": "hu",
+        "@value": "nanométer"
+      },
+      {
+        "@language": "it",
+        "@value": "nanometro"
+      },
+      {
+        "@language": "lt",
+        "@value": "nanometras"
+      },
+      {
+        "@language": "lv",
+        "@value": "nanometri"
+      },
+      {
+        "@language": "mt",
+        "@value": "nanometru"
+      },
+      {
+        "@language": "nl",
+        "@value": "nanometer"
+      },
+      {
+        "@language": "pl",
+        "@value": "nanometr"
+      },
+      {
+        "@language": "pt",
+        "@value": "nanometro"
+      },
+      {
+        "@language": "ro",
+        "@value": "nanometru"
+      },
+      {
+        "@language": "sk",
+        "@value": "nanometer"
+      },
+      {
+        "@language": "sl",
+        "@value": "nanometer"
+      },
+      {
+        "@language": "sv",
+        "@value": "nanometer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/JOU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JOU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JOU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JOU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JOU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "джаул"
+      },
+      {
+        "@language": "cs",
+        "@value": "joule"
+      },
+      {
+        "@language": "da",
+        "@value": "joule"
+      },
+      {
+        "@language": "de",
+        "@value": "Joule"
+      },
+      {
+        "@language": "el",
+        "@value": "τζάουλ"
+      },
+      {
+        "@language": "en",
+        "@value": "joule"
+      },
+      {
+        "@language": "es",
+        "@value": "julio"
+      },
+      {
+        "@language": "et",
+        "@value": "džaul"
+      },
+      {
+        "@language": "fi",
+        "@value": "joule"
+      },
+      {
+        "@language": "fr",
+        "@value": "joule"
+      },
+      {
+        "@language": "ga",
+        "@value": "giúl"
+      },
+      {
+        "@language": "hr",
+        "@value": "džul"
+      },
+      {
+        "@language": "hu",
+        "@value": "joule"
+      },
+      {
+        "@language": "it",
+        "@value": "joule"
+      },
+      {
+        "@language": "lt",
+        "@value": "džaulis"
+      },
+      {
+        "@language": "lv",
+        "@value": "džouli"
+      },
+      {
+        "@language": "mt",
+        "@value": "joule"
+      },
+      {
+        "@language": "nl",
+        "@value": "joule"
+      },
+      {
+        "@language": "pl",
+        "@value": "dżul"
+      },
+      {
+        "@language": "pt",
+        "@value": "joule"
+      },
+      {
+        "@language": "ro",
+        "@value": "joule"
+      },
+      {
+        "@language": "sk",
+        "@value": "joule"
+      },
+      {
+        "@language": "sl",
+        "@value": "joule"
+      },
+      {
+        "@language": "sv",
+        "@value": "joule"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/NEW",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NEW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NEW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NEW"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NEW"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "нютон"
+      },
+      {
+        "@language": "cs",
+        "@value": "newton"
+      },
+      {
+        "@language": "da",
+        "@value": "newton"
+      },
+      {
+        "@language": "de",
+        "@value": "Newton"
+      },
+      {
+        "@language": "el",
+        "@value": "νιούτον"
+      },
+      {
+        "@language": "en",
+        "@value": "newton"
+      },
+      {
+        "@language": "es",
+        "@value": "newton"
+      },
+      {
+        "@language": "et",
+        "@value": "njuuton"
+      },
+      {
+        "@language": "fi",
+        "@value": "newton"
+      },
+      {
+        "@language": "fr",
+        "@value": "newton"
+      },
+      {
+        "@language": "ga",
+        "@value": "niútan"
+      },
+      {
+        "@language": "hr",
+        "@value": "njutn"
+      },
+      {
+        "@language": "hu",
+        "@value": "newton"
+      },
+      {
+        "@language": "it",
+        "@value": "newton"
+      },
+      {
+        "@language": "lt",
+        "@value": "niutonas"
+      },
+      {
+        "@language": "lv",
+        "@value": "ņūtoni"
+      },
+      {
+        "@language": "mt",
+        "@value": "newton"
+      },
+      {
+        "@language": "nl",
+        "@value": "newton"
+      },
+      {
+        "@language": "pl",
+        "@value": "niuton"
+      },
+      {
+        "@language": "pt",
+        "@value": "newton"
+      },
+      {
+        "@language": "ro",
+        "@value": "newton"
+      },
+      {
+        "@language": "sk",
+        "@value": "newton"
+      },
+      {
+        "@language": "sl",
+        "@value": "newton"
+      },
+      {
+        "@language": "sv",
+        "@value": "newton"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MTR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MTR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MTR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "метър"
+      },
+      {
+        "@language": "cs",
+        "@value": "metr"
+      },
+      {
+        "@language": "da",
+        "@value": "meter"
+      },
+      {
+        "@language": "de",
+        "@value": "Meter"
+      },
+      {
+        "@language": "el",
+        "@value": "μέτρο"
+      },
+      {
+        "@language": "en",
+        "@value": "metre"
+      },
+      {
+        "@language": "es",
+        "@value": "metro"
+      },
+      {
+        "@language": "et",
+        "@value": "meeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "metri"
+      },
+      {
+        "@language": "fr",
+        "@value": "mètre"
+      },
+      {
+        "@language": "ga",
+        "@value": "méadar"
+      },
+      {
+        "@language": "hr",
+        "@value": "metar"
+      },
+      {
+        "@language": "hu",
+        "@value": "méter"
+      },
+      {
+        "@language": "it",
+        "@value": "metro"
+      },
+      {
+        "@language": "lt",
+        "@value": "metras"
+      },
+      {
+        "@language": "lv",
+        "@value": "metri"
+      },
+      {
+        "@language": "mt",
+        "@value": "metru"
+      },
+      {
+        "@language": "nl",
+        "@value": "meter"
+      },
+      {
+        "@language": "pl",
+        "@value": "metr"
+      },
+      {
+        "@language": "pt",
+        "@value": "metro"
+      },
+      {
+        "@language": "ro",
+        "@value": "metru"
+      },
+      {
+        "@language": "sk",
+        "@value": "meter"
+      },
+      {
+        "@language": "sl",
+        "@value": "meter"
+      },
+      {
+        "@language": "sv",
+        "@value": "meter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/SEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "секунда"
+      },
+      {
+        "@language": "cs",
+        "@value": "sekunda"
+      },
+      {
+        "@language": "da",
+        "@value": "sekund"
+      },
+      {
+        "@language": "de",
+        "@value": "Sekunde"
+      },
+      {
+        "@language": "el",
+        "@value": "δευτερόλεπτο"
+      },
+      {
+        "@language": "en",
+        "@value": "second"
+      },
+      {
+        "@language": "es",
+        "@value": "segundo"
+      },
+      {
+        "@language": "et",
+        "@value": "sekund"
+      },
+      {
+        "@language": "fi",
+        "@value": "sekunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "seconde"
+      },
+      {
+        "@language": "ga",
+        "@value": "soicind"
+      },
+      {
+        "@language": "hr",
+        "@value": "sekunda"
+      },
+      {
+        "@language": "hu",
+        "@value": "másodperc"
+      },
+      {
+        "@language": "it",
+        "@value": "secondo"
+      },
+      {
+        "@language": "lt",
+        "@value": "sekundė"
+      },
+      {
+        "@language": "lv",
+        "@value": "sekundes"
+      },
+      {
+        "@language": "mt",
+        "@value": "sekonda"
+      },
+      {
+        "@language": "nl",
+        "@value": "seconde"
+      },
+      {
+        "@language": "pl",
+        "@value": "sekunda"
+      },
+      {
+        "@language": "pt",
+        "@value": "segundo"
+      },
+      {
+        "@language": "ro",
+        "@value": "secundă"
+      },
+      {
+        "@language": "sk",
+        "@value": "sekunda"
+      },
+      {
+        "@language": "sl",
+        "@value": "sekunda"
+      },
+      {
+        "@language": "sv",
+        "@value": "sekund"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MTK",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MTK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MTK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MTK"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MTK"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "квадратен метър"
+      },
+      {
+        "@language": "cs",
+        "@value": "metr čtvereční"
+      },
+      {
+        "@language": "da",
+        "@value": "kvadratmeter"
+      },
+      {
+        "@language": "de",
+        "@value": "Quadratmeter"
+      },
+      {
+        "@language": "el",
+        "@value": "τετραγωνικό μέτρο"
+      },
+      {
+        "@language": "en",
+        "@value": "square metre"
+      },
+      {
+        "@language": "es",
+        "@value": "metro cuadrado"
+      },
+      {
+        "@language": "et",
+        "@value": "ruutmeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "neliömetri"
+      },
+      {
+        "@language": "fr",
+        "@value": "mètre carré"
+      },
+      {
+        "@language": "ga",
+        "@value": "méadar cearnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "kvadratni metar"
+      },
+      {
+        "@language": "hu",
+        "@value": "négyzetméter"
+      },
+      {
+        "@language": "it",
+        "@value": "metro quadrato"
+      },
+      {
+        "@language": "lt",
+        "@value": "kvadratinis metras"
+      },
+      {
+        "@language": "lv",
+        "@value": "kvadrātmetri"
+      },
+      {
+        "@language": "mt",
+        "@value": "metru kwadru"
+      },
+      {
+        "@language": "nl",
+        "@value": "vierkante meter"
+      },
+      {
+        "@language": "pl",
+        "@value": "metr kwadratowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "metro quadrado"
+      },
+      {
+        "@language": "ro",
+        "@value": "metru pătrat"
+      },
+      {
+        "@language": "sk",
+        "@value": "meter štvorcový"
+      },
+      {
+        "@language": "sl",
+        "@value": "kvadratni meter"
+      },
+      {
+        "@language": "sv",
+        "@value": "kvadratmeter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "градус Келвин"
+      },
+      {
+        "@language": "cs",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "da",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "de",
+        "@value": "Kelvin"
+      },
+      {
+        "@language": "el",
+        "@value": "κέλβιν"
+      },
+      {
+        "@language": "en",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "es",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "et",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "fi",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "fr",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "ga",
+        "@value": "ceilvin"
+      },
+      {
+        "@language": "hr",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "hu",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "it",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "lt",
+        "@value": "kelvinas"
+      },
+      {
+        "@language": "lv",
+        "@value": "kelvini"
+      },
+      {
+        "@language": "mt",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "nl",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "pl",
+        "@value": "kelwin"
+      },
+      {
+        "@language": "pt",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "ro",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "sk",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "sl",
+        "@value": "kelvin"
+      },
+      {
+        "@language": "sv",
+        "@value": "kelvin"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/GWH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GWH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GWH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GWH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GWH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "гигаватчас"
+      },
+      {
+        "@language": "cs",
+        "@value": "gigawatthodina"
+      },
+      {
+        "@language": "da",
+        "@value": "gigawatt-time"
+      },
+      {
+        "@language": "de",
+        "@value": "Gigawattstunde"
+      },
+      {
+        "@language": "el",
+        "@value": "γιγαβατώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "gigawatt-hour"
+      },
+      {
+        "@language": "es",
+        "@value": "gigavatio-hora"
+      },
+      {
+        "@language": "et",
+        "@value": "gigavatt-tund"
+      },
+      {
+        "@language": "fi",
+        "@value": "gigawattitunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "gigawattheure"
+      },
+      {
+        "@language": "ga",
+        "@value": "gigeavatuair"
+      },
+      {
+        "@language": "hr",
+        "@value": "gigavatsat"
+      },
+      {
+        "@language": "hu",
+        "@value": "gigawattóra"
+      },
+      {
+        "@language": "it",
+        "@value": "gigawattora"
+      },
+      {
+        "@language": "lt",
+        "@value": "gigavatvalandė"
+      },
+      {
+        "@language": "lv",
+        "@value": "gigavatstundas"
+      },
+      {
+        "@language": "mt",
+        "@value": "gigawatt is-siegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "gigawattuur"
+      },
+      {
+        "@language": "pl",
+        "@value": "gigawatogodzina"
+      },
+      {
+        "@language": "pt",
+        "@value": "gigawatt‑hora"
+      },
+      {
+        "@language": "ro",
+        "@value": "gigawatt‑oră"
+      },
+      {
+        "@language": "sk",
+        "@value": "gigawatthodina"
+      },
+      {
+        "@language": "sl",
+        "@value": "gigavatna ura"
+      },
+      {
+        "@language": "sv",
+        "@value": "gigawattimme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/BIT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BIT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BIT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BIT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "бит"
+      },
+      {
+        "@language": "cs",
+        "@value": "bit"
+      },
+      {
+        "@language": "da",
+        "@value": "bit"
+      },
+      {
+        "@language": "de",
+        "@value": "Bit"
+      },
+      {
+        "@language": "el",
+        "@value": "μπιτ"
+      },
+      {
+        "@language": "en",
+        "@value": "bit"
+      },
+      {
+        "@language": "es",
+        "@value": "bit"
+      },
+      {
+        "@language": "et",
+        "@value": "bitt"
+      },
+      {
+        "@language": "fi",
+        "@value": "bitti"
+      },
+      {
+        "@language": "fr",
+        "@value": "bit"
+      },
+      {
+        "@language": "ga",
+        "@value": "giotán"
+      },
+      {
+        "@language": "hr",
+        "@value": "bit"
+      },
+      {
+        "@language": "hu",
+        "@value": "bit"
+      },
+      {
+        "@language": "it",
+        "@value": "bit"
+      },
+      {
+        "@language": "lt",
+        "@value": "bitas"
+      },
+      {
+        "@language": "lv",
+        "@value": "biti"
+      },
+      {
+        "@language": "mt",
+        "@value": "bit"
+      },
+      {
+        "@language": "nl",
+        "@value": "bit"
+      },
+      {
+        "@language": "pl",
+        "@value": "bit"
+      },
+      {
+        "@language": "pt",
+        "@value": "bit"
+      },
+      {
+        "@language": "ro",
+        "@value": "bit"
+      },
+      {
+        "@language": "sk",
+        "@value": "bit"
+      },
+      {
+        "@language": "sl",
+        "@value": "bit"
+      },
+      {
+        "@language": "sv",
+        "@value": "bit"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Measurement unit"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "measurement-unit"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Measurement unit"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Measurement unit"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/CMK",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CMK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CMK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CMK"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CMK"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "квадратен сантиметър"
+      },
+      {
+        "@language": "cs",
+        "@value": "centimetr čtvereční"
+      },
+      {
+        "@language": "da",
+        "@value": "kvadratcentimeter"
+      },
+      {
+        "@language": "de",
+        "@value": "Quadratzentimeter"
+      },
+      {
+        "@language": "el",
+        "@value": "τετραγωνικό εκατοστό"
+      },
+      {
+        "@language": "en",
+        "@value": "square centimetre"
+      },
+      {
+        "@language": "es",
+        "@value": "centímetro cuadrado"
+      },
+      {
+        "@language": "et",
+        "@value": "ruutsentimeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "neliösenttimetri"
+      },
+      {
+        "@language": "fr",
+        "@value": "centimètre carré"
+      },
+      {
+        "@language": "ga",
+        "@value": "ceintiméadar cearnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "kvadratni centimetar"
+      },
+      {
+        "@language": "hu",
+        "@value": "négyzetcentiméter"
+      },
+      {
+        "@language": "it",
+        "@value": "centimetro quadrato"
+      },
+      {
+        "@language": "lt",
+        "@value": "kvadratinis centimetras"
+      },
+      {
+        "@language": "lv",
+        "@value": "kvadrātcentimetri"
+      },
+      {
+        "@language": "mt",
+        "@value": "ċentimetru kwadru"
+      },
+      {
+        "@language": "nl",
+        "@value": "vierkante centimeter"
+      },
+      {
+        "@language": "pl",
+        "@value": "centymetr kwadratowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "centímetro quadrado"
+      },
+      {
+        "@language": "ro",
+        "@value": "centimetru pătrat"
+      },
+      {
+        "@language": "sk",
+        "@value": "centimeter štvorcový"
+      },
+      {
+        "@language": "sl",
+        "@value": "kvadratni centimeter"
+      },
+      {
+        "@language": "sv",
+        "@value": "kvadratcentimeter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KMH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KMH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KMH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KMH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KMH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "километър в час"
+      },
+      {
+        "@language": "cs",
+        "@value": "kilometr za hodinu"
+      },
+      {
+        "@language": "da",
+        "@value": "kilometer pr. time"
+      },
+      {
+        "@language": "de",
+        "@value": "Kilometer pro Stunde"
+      },
+      {
+        "@language": "el",
+        "@value": "χιλιόμετρο ανά ώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "kilometre per hour"
+      },
+      {
+        "@language": "es",
+        "@value": "kilómetro por hora"
+      },
+      {
+        "@language": "et",
+        "@value": "kilomeeter tunnis"
+      },
+      {
+        "@language": "fi",
+        "@value": "kilometri tunnissa"
+      },
+      {
+        "@language": "fr",
+        "@value": "kilomètre par heure"
+      },
+      {
+        "@language": "ga",
+        "@value": "ciliméadar san uair"
+      },
+      {
+        "@language": "hr",
+        "@value": "kilometar na sat"
+      },
+      {
+        "@language": "hu",
+        "@value": "kilométer/óra"
+      },
+      {
+        "@language": "it",
+        "@value": "chilometro orario"
+      },
+      {
+        "@language": "lt",
+        "@value": "kilometras per valandą"
+      },
+      {
+        "@language": "lv",
+        "@value": "kilometri stundā"
+      },
+      {
+        "@language": "mt",
+        "@value": "kilometru fis-siegħa"
+      },
+      {
+        "@language": "nl",
+        "@value": "kilometer per uur"
+      },
+      {
+        "@language": "pl",
+        "@value": "kilometr na godzinę"
+      },
+      {
+        "@language": "pt",
+        "@value": "quilómetro por hora"
+      },
+      {
+        "@language": "ro",
+        "@value": "kilometru pe oră"
+      },
+      {
+        "@language": "sk",
+        "@value": "kilometer za hodinu"
+      },
+      {
+        "@language": "sl",
+        "@value": "kilometer na uro"
+      },
+      {
+        "@language": "sv",
+        "@value": "kilometer per timme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/D30",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "D30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "D30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "D30"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "D30"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "тераджаул"
+      },
+      {
+        "@language": "cs",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "da",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "de",
+        "@value": "Terajoule"
+      },
+      {
+        "@language": "el",
+        "@value": "τερατζάουλ"
+      },
+      {
+        "@language": "en",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "es",
+        "@value": "terajulio"
+      },
+      {
+        "@language": "et",
+        "@value": "teradžaul"
+      },
+      {
+        "@language": "fi",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "fr",
+        "@value": "térajoule"
+      },
+      {
+        "@language": "ga",
+        "@value": "teirigiúl"
+      },
+      {
+        "@language": "hr",
+        "@value": "teradžul"
+      },
+      {
+        "@language": "hu",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "it",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "lt",
+        "@value": "teradžaulis"
+      },
+      {
+        "@language": "lv",
+        "@value": "teradžouli"
+      },
+      {
+        "@language": "mt",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "nl",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "pl",
+        "@value": "teradżul"
+      },
+      {
+        "@language": "pt",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "ro",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "sk",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "sl",
+        "@value": "terajoule"
+      },
+      {
+        "@language": "sv",
+        "@value": "terajoule"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/HLT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HLT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HLT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "хектолитър"
+      },
+      {
+        "@language": "cs",
+        "@value": "hektolitr"
+      },
+      {
+        "@language": "da",
+        "@value": "hektoliter"
+      },
+      {
+        "@language": "de",
+        "@value": "Hektoliter"
+      },
+      {
+        "@language": "el",
+        "@value": "εκατόλιτρο"
+      },
+      {
+        "@language": "en",
+        "@value": "hectolitre"
+      },
+      {
+        "@language": "es",
+        "@value": "hectolitro"
+      },
+      {
+        "@language": "et",
+        "@value": "hektoliiter"
+      },
+      {
+        "@language": "fi",
+        "@value": "hehtolitra"
+      },
+      {
+        "@language": "fr",
+        "@value": "hectolitre"
+      },
+      {
+        "@language": "ga",
+        "@value": "heictilítear"
+      },
+      {
+        "@language": "hr",
+        "@value": "hektolitar"
+      },
+      {
+        "@language": "hu",
+        "@value": "hektoliter"
+      },
+      {
+        "@language": "it",
+        "@value": "ettolitro"
+      },
+      {
+        "@language": "lt",
+        "@value": "hektolitras"
+      },
+      {
+        "@language": "lv",
+        "@value": "hektolitri"
+      },
+      {
+        "@language": "mt",
+        "@value": "ettolitru"
+      },
+      {
+        "@language": "nl",
+        "@value": "hectoliter"
+      },
+      {
+        "@language": "pl",
+        "@value": "hektolitr"
+      },
+      {
+        "@language": "pt",
+        "@value": "hectolitro"
+      },
+      {
+        "@language": "ro",
+        "@value": "hectolitru"
+      },
+      {
+        "@language": "sk",
+        "@value": "hektoliter"
+      },
+      {
+        "@language": "sl",
+        "@value": "hektoliter"
+      },
+      {
+        "@language": "sv",
+        "@value": "hektoliter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/CEL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CEL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CEL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "градус по Целзий"
+      },
+      {
+        "@language": "cs",
+        "@value": "stupeň Celsia"
+      },
+      {
+        "@language": "da",
+        "@value": "grad celsius"
+      },
+      {
+        "@language": "de",
+        "@value": "Grad Celsius"
+      },
+      {
+        "@language": "el",
+        "@value": "βαθμός Κελσίου"
+      },
+      {
+        "@language": "en",
+        "@value": "degree Celsius"
+      },
+      {
+        "@language": "es",
+        "@value": "grado Celsius"
+      },
+      {
+        "@language": "et",
+        "@value": "Celsiuse kraad"
+      },
+      {
+        "@language": "fi",
+        "@value": "celsiusaste"
+      },
+      {
+        "@language": "fr",
+        "@value": "degré Celsius"
+      },
+      {
+        "@language": "ga",
+        "@value": "céim Celsius"
+      },
+      {
+        "@language": "hr",
+        "@value": "Celzijev stupanj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Celsius-fok"
+      },
+      {
+        "@language": "it",
+        "@value": "grado centigrado"
+      },
+      {
+        "@language": "lt",
+        "@value": "Celsijaus laipsnis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Celsija grādi"
+      },
+      {
+        "@language": "mt",
+        "@value": "grad Celsius"
+      },
+      {
+        "@language": "nl",
+        "@value": "graad Celsius"
+      },
+      {
+        "@language": "pl",
+        "@value": "stopień Celsjusza"
+      },
+      {
+        "@language": "pt",
+        "@value": "graus centígrados"
+      },
+      {
+        "@language": "ro",
+        "@value": "grad Celsius"
+      },
+      {
+        "@language": "sk",
+        "@value": "stupeň Celzia"
+      },
+      {
+        "@language": "sl",
+        "@value": "stopinja Celzija"
+      },
+      {
+        "@language": "sv",
+        "@value": "grad Celsius"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/LH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "работен час"
+      },
+      {
+        "@language": "cs",
+        "@value": "pracovní hodina"
+      },
+      {
+        "@language": "da",
+        "@value": "arbejdstime"
+      },
+      {
+        "@language": "de",
+        "@value": "Arbeitsstunde"
+      },
+      {
+        "@language": "el",
+        "@value": "εργατοώρα"
+      },
+      {
+        "@language": "en",
+        "@value": "labour hour"
+      },
+      {
+        "@language": "es",
+        "@value": "hora de trabajo"
+      },
+      {
+        "@language": "et",
+        "@value": "töötund"
+      },
+      {
+        "@language": "fi",
+        "@value": "työtunti"
+      },
+      {
+        "@language": "fr",
+        "@value": "heure de travail"
+      },
+      {
+        "@language": "ga",
+        "@value": "uair an tsaothair"
+      },
+      {
+        "@language": "hr",
+        "@value": "radni sat"
+      },
+      {
+        "@language": "hu",
+        "@value": "munkaóra"
+      },
+      {
+        "@language": "it",
+        "@value": "ora lavorativa"
+      },
+      {
+        "@language": "lt",
+        "@value": "dirbta valanda"
+      },
+      {
+        "@language": "lv",
+        "@value": "darba stundas"
+      },
+      {
+        "@language": "mt",
+        "@value": "sigħat ta’ xogħol"
+      },
+      {
+        "@language": "nl",
+        "@value": "arbeidsuur"
+      },
+      {
+        "@language": "pl",
+        "@value": "godzina pracy"
+      },
+      {
+        "@language": "pt",
+        "@value": "hora de trabalho"
+      },
+      {
+        "@language": "ro",
+        "@value": "oră de muncă"
+      },
+      {
+        "@language": "sk",
+        "@value": "hodina práce"
+      },
+      {
+        "@language": "sl",
+        "@value": "delovna ura"
+      },
+      {
+        "@language": "sv",
+        "@value": "arbetstimme"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/GRM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GRM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GRM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GRM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GRM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "грам"
+      },
+      {
+        "@language": "cs",
+        "@value": "gram"
+      },
+      {
+        "@language": "da",
+        "@value": "gram"
+      },
+      {
+        "@language": "de",
+        "@value": "Gramm"
+      },
+      {
+        "@language": "el",
+        "@value": "γραμμάριο"
+      },
+      {
+        "@language": "en",
+        "@value": "gram"
+      },
+      {
+        "@language": "es",
+        "@value": "gramo"
+      },
+      {
+        "@language": "et",
+        "@value": "gramm"
+      },
+      {
+        "@language": "fi",
+        "@value": "gramma"
+      },
+      {
+        "@language": "fr",
+        "@value": "gramme"
+      },
+      {
+        "@language": "ga",
+        "@value": "gram"
+      },
+      {
+        "@language": "hr",
+        "@value": "gram"
+      },
+      {
+        "@language": "hu",
+        "@value": "gramm"
+      },
+      {
+        "@language": "it",
+        "@value": "grammo"
+      },
+      {
+        "@language": "lt",
+        "@value": "gramas"
+      },
+      {
+        "@language": "lv",
+        "@value": "grami"
+      },
+      {
+        "@language": "mt",
+        "@value": "gramm"
+      },
+      {
+        "@language": "nl",
+        "@value": "gram"
+      },
+      {
+        "@language": "pl",
+        "@value": "gram"
+      },
+      {
+        "@language": "pt",
+        "@value": "grama"
+      },
+      {
+        "@language": "ro",
+        "@value": "gram"
+      },
+      {
+        "@language": "sk",
+        "@value": "gram"
+      },
+      {
+        "@language": "sl",
+        "@value": "gram"
+      },
+      {
+        "@language": "sv",
+        "@value": "gram"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MAW",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MAW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MAW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MAW"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MAW"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "мегават"
+      },
+      {
+        "@language": "cs",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "da",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "de",
+        "@value": "Megawatt"
+      },
+      {
+        "@language": "el",
+        "@value": "μεγαβάτ"
+      },
+      {
+        "@language": "en",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "es",
+        "@value": "megavatio"
+      },
+      {
+        "@language": "et",
+        "@value": "megavatt"
+      },
+      {
+        "@language": "fi",
+        "@value": "megawatti"
+      },
+      {
+        "@language": "fr",
+        "@value": "mégawatt"
+      },
+      {
+        "@language": "ga",
+        "@value": "meigeavata"
+      },
+      {
+        "@language": "hr",
+        "@value": "megavat"
+      },
+      {
+        "@language": "hu",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "it",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "lt",
+        "@value": "megavatas"
+      },
+      {
+        "@language": "lv",
+        "@value": "megavati"
+      },
+      {
+        "@language": "mt",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "nl",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "pl",
+        "@value": "megawat"
+      },
+      {
+        "@language": "pt",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "ro",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "sk",
+        "@value": "megawatt"
+      },
+      {
+        "@language": "sl",
+        "@value": "megavat"
+      },
+      {
+        "@language": "sv",
+        "@value": "megawatt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/BAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "бар"
+      },
+      {
+        "@language": "cs",
+        "@value": "bar"
+      },
+      {
+        "@language": "da",
+        "@value": "bar"
+      },
+      {
+        "@language": "de",
+        "@value": "Bar"
+      },
+      {
+        "@language": "el",
+        "@value": "μπαρ"
+      },
+      {
+        "@language": "en",
+        "@value": "bar"
+      },
+      {
+        "@language": "es",
+        "@value": "bar"
+      },
+      {
+        "@language": "et",
+        "@value": "baar"
+      },
+      {
+        "@language": "fi",
+        "@value": "baari"
+      },
+      {
+        "@language": "fr",
+        "@value": "bar"
+      },
+      {
+        "@language": "ga",
+        "@value": "bar"
+      },
+      {
+        "@language": "hr",
+        "@value": "bar"
+      },
+      {
+        "@language": "hu",
+        "@value": "bar"
+      },
+      {
+        "@language": "it",
+        "@value": "bar"
+      },
+      {
+        "@language": "lt",
+        "@value": "baras"
+      },
+      {
+        "@language": "lv",
+        "@value": "bāri"
+      },
+      {
+        "@language": "mt",
+        "@value": "bar"
+      },
+      {
+        "@language": "nl",
+        "@value": "bar"
+      },
+      {
+        "@language": "pl",
+        "@value": "bar"
+      },
+      {
+        "@language": "pt",
+        "@value": "bar"
+      },
+      {
+        "@language": "ro",
+        "@value": "bar"
+      },
+      {
+        "@language": "sk",
+        "@value": "bar"
+      },
+      {
+        "@language": "sl",
+        "@value": "bar"
+      },
+      {
+        "@language": "sv",
+        "@value": "bar"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/BQL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BQL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BQL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BQL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BQL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "бекерел"
+      },
+      {
+        "@language": "cs",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "da",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "de",
+        "@value": "Becquerel"
+      },
+      {
+        "@language": "el",
+        "@value": "μπεκερέλ"
+      },
+      {
+        "@language": "en",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "es",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "et",
+        "@value": "bekrell"
+      },
+      {
+        "@language": "fi",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "fr",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "ga",
+        "@value": "beicireil"
+      },
+      {
+        "@language": "hr",
+        "@value": "bekerel"
+      },
+      {
+        "@language": "hu",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "it",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "lt",
+        "@value": "bekerelis"
+      },
+      {
+        "@language": "lv",
+        "@value": "bekereli"
+      },
+      {
+        "@language": "mt",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "nl",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "pl",
+        "@value": "bekerel"
+      },
+      {
+        "@language": "pt",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "ro",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "sk",
+        "@value": "becquerel"
+      },
+      {
+        "@language": "sl",
+        "@value": "bekerel"
+      },
+      {
+        "@language": "sv",
+        "@value": "becquerel"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MLT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MLT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MLT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "милилитър"
+      },
+      {
+        "@language": "cs",
+        "@value": "mililitr"
+      },
+      {
+        "@language": "da",
+        "@value": "milliliter"
+      },
+      {
+        "@language": "de",
+        "@value": "Milliliter"
+      },
+      {
+        "@language": "el",
+        "@value": "χιλιοστόλιτρο"
+      },
+      {
+        "@language": "en",
+        "@value": "millilitre"
+      },
+      {
+        "@language": "es",
+        "@value": "mililitro"
+      },
+      {
+        "@language": "et",
+        "@value": "milliliiter"
+      },
+      {
+        "@language": "fi",
+        "@value": "millilitra"
+      },
+      {
+        "@language": "fr",
+        "@value": "millilitre"
+      },
+      {
+        "@language": "ga",
+        "@value": "millilítear"
+      },
+      {
+        "@language": "hr",
+        "@value": "mililitar"
+      },
+      {
+        "@language": "hu",
+        "@value": "milliliter"
+      },
+      {
+        "@language": "it",
+        "@value": "millilitro"
+      },
+      {
+        "@language": "lt",
+        "@value": "mililitras"
+      },
+      {
+        "@language": "lv",
+        "@value": "mililitri"
+      },
+      {
+        "@language": "mt",
+        "@value": "millilitru"
+      },
+      {
+        "@language": "nl",
+        "@value": "milliliter"
+      },
+      {
+        "@language": "pl",
+        "@value": "mililitr"
+      },
+      {
+        "@language": "pt",
+        "@value": "mililitro"
+      },
+      {
+        "@language": "ro",
+        "@value": "mililitru"
+      },
+      {
+        "@language": "sk",
+        "@value": "mililiter"
+      },
+      {
+        "@language": "sl",
+        "@value": "mililiter"
+      },
+      {
+        "@language": "sv",
+        "@value": "milliliter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/KMK",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "KMK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "KMK"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "KMK"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "KMK"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "квадратен километър"
+      },
+      {
+        "@language": "cs",
+        "@value": "kilometr čtvereční"
+      },
+      {
+        "@language": "da",
+        "@value": "kvadratkilometer"
+      },
+      {
+        "@language": "de",
+        "@value": "Quadratkilometer"
+      },
+      {
+        "@language": "el",
+        "@value": "τετραγωνικό χιλιόμετρο"
+      },
+      {
+        "@language": "en",
+        "@value": "square kilometre"
+      },
+      {
+        "@language": "es",
+        "@value": "kilómetro cuadrado"
+      },
+      {
+        "@language": "et",
+        "@value": "ruutkilomeeter"
+      },
+      {
+        "@language": "fi",
+        "@value": "neliökilometri"
+      },
+      {
+        "@language": "fr",
+        "@value": "kilomètre carré"
+      },
+      {
+        "@language": "ga",
+        "@value": "ciliméadar cearnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "kvadratni kilometar"
+      },
+      {
+        "@language": "hu",
+        "@value": "négyzetkilométer"
+      },
+      {
+        "@language": "it",
+        "@value": "chilometro quadrato"
+      },
+      {
+        "@language": "lt",
+        "@value": "kvadratinis kilometras"
+      },
+      {
+        "@language": "lv",
+        "@value": "kvadrātkilometri"
+      },
+      {
+        "@language": "mt",
+        "@value": "kilometru kwadru"
+      },
+      {
+        "@language": "nl",
+        "@value": "vierkante kilometer"
+      },
+      {
+        "@language": "pl",
+        "@value": "kilometr kwadratowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "quilómetro quadrado"
+      },
+      {
+        "@language": "ro",
+        "@value": "kilometru pătrat"
+      },
+      {
+        "@language": "sk",
+        "@value": "kilometer štvorcový"
+      },
+      {
+        "@language": "sl",
+        "@value": "kvadratni kilometer"
+      },
+      {
+        "@language": "sv",
+        "@value": "kvadratkilometer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/E34",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "E34"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "E34"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "E34"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "E34"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "гигабайт"
+      },
+      {
+        "@language": "cs",
+        "@value": "gigabajt"
+      },
+      {
+        "@language": "da",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "de",
+        "@value": "Gigabyte"
+      },
+      {
+        "@language": "el",
+        "@value": "γιγαμπάιτ"
+      },
+      {
+        "@language": "en",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "es",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "et",
+        "@value": "gigabait"
+      },
+      {
+        "@language": "fi",
+        "@value": "gigatavu"
+      },
+      {
+        "@language": "fr",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "ga",
+        "@value": "gigibheart"
+      },
+      {
+        "@language": "hr",
+        "@value": "gigabajt"
+      },
+      {
+        "@language": "hu",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "it",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "lt",
+        "@value": "gigabaitas"
+      },
+      {
+        "@language": "lv",
+        "@value": "gigabaiti"
+      },
+      {
+        "@language": "mt",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "nl",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "pl",
+        "@value": "gigabajt"
+      },
+      {
+        "@language": "pt",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "ro",
+        "@value": "gigabyte"
+      },
+      {
+        "@language": "sk",
+        "@value": "gigabajt"
+      },
+      {
+        "@language": "sl",
+        "@value": "gigabajt"
+      },
+      {
+        "@language": "sv",
+        "@value": "gigabyte"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/MGM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MGM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MGM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MGM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MGM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "милиграм"
+      },
+      {
+        "@language": "cs",
+        "@value": "miligram"
+      },
+      {
+        "@language": "da",
+        "@value": "milligram"
+      },
+      {
+        "@language": "de",
+        "@value": "Milligramm"
+      },
+      {
+        "@language": "el",
+        "@value": "χιλιοστόγραμμο"
+      },
+      {
+        "@language": "en",
+        "@value": "milligram"
+      },
+      {
+        "@language": "es",
+        "@value": "miligramo"
+      },
+      {
+        "@language": "et",
+        "@value": "milligramm"
+      },
+      {
+        "@language": "fi",
+        "@value": "milligramma"
+      },
+      {
+        "@language": "fr",
+        "@value": "milligramme"
+      },
+      {
+        "@language": "ga",
+        "@value": "milleagram"
+      },
+      {
+        "@language": "hr",
+        "@value": "miligram"
+      },
+      {
+        "@language": "hu",
+        "@value": "milligramm"
+      },
+      {
+        "@language": "it",
+        "@value": "milligrammo"
+      },
+      {
+        "@language": "lt",
+        "@value": "miligramas"
+      },
+      {
+        "@language": "lv",
+        "@value": "miligrami"
+      },
+      {
+        "@language": "mt",
+        "@value": "milligramm"
+      },
+      {
+        "@language": "nl",
+        "@value": "milligram"
+      },
+      {
+        "@language": "pl",
+        "@value": "miligram"
+      },
+      {
+        "@language": "pt",
+        "@value": "miligrama"
+      },
+      {
+        "@language": "ro",
+        "@value": "miligram"
+      },
+      {
+        "@language": "sk",
+        "@value": "miligram"
+      },
+      {
+        "@language": "sl",
+        "@value": "miligram"
+      },
+      {
+        "@language": "sv",
+        "@value": "milligram"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/measurement-unit/WTT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WTT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WTT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WTT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WTT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/measurement-unit"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ват"
+      },
+      {
+        "@language": "cs",
+        "@value": "watt"
+      },
+      {
+        "@language": "da",
+        "@value": "watt"
+      },
+      {
+        "@language": "de",
+        "@value": "Watt"
+      },
+      {
+        "@language": "el",
+        "@value": "βατ"
+      },
+      {
+        "@language": "en",
+        "@value": "watt"
+      },
+      {
+        "@language": "es",
+        "@value": "vatio"
+      },
+      {
+        "@language": "et",
+        "@value": "vatt"
+      },
+      {
+        "@language": "fi",
+        "@value": "watti"
+      },
+      {
+        "@language": "fr",
+        "@value": "watt"
+      },
+      {
+        "@language": "ga",
+        "@value": "vata"
+      },
+      {
+        "@language": "hr",
+        "@value": "vat"
+      },
+      {
+        "@language": "hu",
+        "@value": "watt"
+      },
+      {
+        "@language": "it",
+        "@value": "watt"
+      },
+      {
+        "@language": "lt",
+        "@value": "vatas"
+      },
+      {
+        "@language": "lv",
+        "@value": "vati"
+      },
+      {
+        "@language": "mt",
+        "@value": "watt"
+      },
+      {
+        "@language": "nl",
+        "@value": "watt"
+      },
+      {
+        "@language": "pl",
+        "@value": "wat"
+      },
+      {
+        "@language": "pt",
+        "@value": "watt"
+      },
+      {
+        "@language": "ro",
+        "@value": "watt"
+      },
+      {
+        "@language": "sk",
+        "@value": "watt"
+      },
+      {
+        "@language": "sl",
+        "@value": "vat"
+      },
+      {
+        "@language": "sv",
+        "@value": "watt"
+      }
+    ]
+  }
+]

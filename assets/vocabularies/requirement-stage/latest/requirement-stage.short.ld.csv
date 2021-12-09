@@ -1,0 +1,12 @@
+# Serializing assets/vocabularies/requirement-stage/latest/requirement-stage.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/requirement-stage
+# title: Requirement stage
+# version: 20210929-0
+# description: Requirement stage
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/requirement-stage/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+not-requ,http://publications.europa.eu/resource/authority/requirement-stage/not-requ,not-requ,Not required,Indicazione non necessaria,false,2020-06-24
+nyk,http://publications.europa.eu/resource/authority/requirement-stage/nyk,nyk,Not yet known,Dato non ancora noto,false,2020-06-24
+par-requ,http://publications.europa.eu/resource/authority/requirement-stage/par-requ,par-requ,Request to participate requirement,Indicazione obbligatoria nella domanda di partecipazione,false,2020-06-24
+t-requ,http://publications.europa.eu/resource/authority/requirement-stage/t-requ,t-requ,Tender requirement,Indicazione obbligatoria nell'offerta,false,2020-06-24

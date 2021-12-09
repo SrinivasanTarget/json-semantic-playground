@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/metro-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>metro-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>metro-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>metro-s</atold:op-code>
+    <dc:identifier>metro-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по превоз с метро</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Dopravní služby metra</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser vedrørende trafikbetjening med metro</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">U-Bahnverkehr</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες μεταφορών με μετρό</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Metro transport services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte en metro</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Metrootranspordi teenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Metroliikenteen palvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport par métro</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair meitreo</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge prijevoza podzemnom željeznicom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Metróval végzett szállítási szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto mediante metropolitana</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Metro transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Metro transporta pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport bil-metro</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake metrovervoer</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu metrem</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte por metro</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport cu metroul</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby metro dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve prevoza s podzemno železnico</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende tunnelbanetransport</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/coach-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>coach-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>coach-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>coach-s</atold:op-code>
+    <dc:identifier>coach-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по туристически превози (на дълги разстояния)</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Služby autobusové dopravy (dálkové)</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser vedrørende trafikbetjening med rutebil (langdistance)</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Reisebusverkehr (Fernverkehr)</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες μεταφορών με πούλμαν (μεγάλες αποστάσεις)</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Coach transport services (long-distance)</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte en autocar (larga distancia)</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kaugbussitranspordi teenused (pikad vahemaad)</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Linja-autoliikenteen palvelut (kaukoliikenne)</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport par autocar (longue distance)</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair cóiste (fadraoin)</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Autobusni prijevoz (međugradski)</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Távolsági busszal végzett szállítási szolgáltatások (távolsági)</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto mediante autobus (lunga distanza)</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Miesto ir tolimojo susisiekimo autobusų transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Autobusu transporta pakalpojumi (tālsatiksmes)</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport bil-kowċ (fuq distanza twila)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake touringcarvervoer (lange afstand)</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu autokarowego (długodystansowe)</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte por autocarro de turismo (longa distância)</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport cu autocarul (pe distanţă lungă)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby autokarovej dopravy (diaľková)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve avtobusnega prevoza (dolge proge)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende personvagnstransport (långdistans)</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/rail-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>rail-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>rail-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>rail-s</atold:op-code>
+    <dc:identifier>rail-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги на железопътния транспорт</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Služby železniční dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Jernbanetransport</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Eisenbahnverkehr</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες σιδηροδρομικών μεταφορών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Rail transport services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte por ferrocarril</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Raudteetransporditeenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Rautatiekuljetuspalvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transports ferroviaires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompar ar iarnród</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge željezničkog prijevoza</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Vasúti szállítási szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto per ferrovia</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Geležinkelio transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Dzelzceļa transporta pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi ta’ trasport ferrovjarju</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Spoorwegvervoerdiensten</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu kolejowego</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte ferroviário</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport feroviar</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby železničnej dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve železniškega prevoza</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Järnvägstransport</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/lrail-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>lrail-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>lrail-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>lrail-s</atold:op-code>
+    <dc:identifier>lrail-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по превози по теснолинейни железопътни линии</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Dopravní služby nadzemní dráhy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser vedrørende trafikbetjening med letbane</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Stadt- und Regionalbahnsysteme</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες μεταφορών με ελαφρύ σιδηρόδρομο</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Light rail transport services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte en ferrocarril ligero</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kergraudteeranspordi teenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kevyen raideliikenteen palvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport par système de rail léger</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair iarnród éadrom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge prijevoza gradskom željeznicom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Helyiérdekű vasúttal végzett szállítási szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto mediante metropolitana leggera</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Lengvojo geležinkelio transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Vieglā dzelzceļa transporta pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport bil-ferrovija ħafifa</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake lightrailvervoer</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu koleją lekką</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte por caminho-de-ferro ligeiro</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport cu metroul uşor</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby ľahkej koľajovej dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve prevoza z lahko železnico</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende transport snabbspårvägstransport</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/tram-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>tram-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>tram-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>tram-s</atold:op-code>
+    <dc:identifier>tram-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по превоз с трамвай</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Tramvajové dopravní služby</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser vedrørende trafikbetjening med sporvogn</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Straßenbahnverkehr</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες μεταφορών με τραμ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Tram transport services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte en tranvía</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Trammitranspordi teenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Raitiotieliikenteen palvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport par tramway</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair tramanna</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge tramvajskog prijevoza</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Villamossal végzett szállítási szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto mediante tram</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Tramvajų transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Tramvaju transporta pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport bit-tramm</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake tramvervoer</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu tramwajowego</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte por eléctrico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport cu tramvaiul</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby električkovej dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve prevoza s tramvaji</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende spårvagnstransport</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/trolley-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>trolley-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>trolley-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>trolley-s</atold:op-code>
+    <dc:identifier>trolley-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по превоз с тролейбус</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Trolejbusové dopravní služby</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser vedrørende trafikbetjening med trolleybus</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Oberleitungsbusverkehr</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες μεταφορών με λεωφορεία τρόλεϊ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Trolleybus transport services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte en trolebús</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Trollitranspordi teenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Johdinautoliikenteen palvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport par trolleybus</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair busanna tralaí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge prijevoza trolejbusom</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Trolibusszal végzett szállítási szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto mediante filobus</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Troleibusų transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Trolejbusu transporta pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport bix-xarabank li taħdem bl-elettriku</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake trolleybusvervoer</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu trolejbusowego</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte por troleicarro</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport cu troleibuzul</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby trolejbusovej dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve prevoza s trolejbusi</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende trådbusstransport</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/bus-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>bus-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>bus-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>bus-s</atold:op-code>
+    <dc:identifier>bus-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по превоз с автобус (градски/регионален)</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Služby autobusové dopravy (městské/regionální)</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser vedrørende trafikbetjening med bus (i byområder/på regionalplan)</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Busverkehr (innerstädtisch/regional)</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες μεταφορών με λεωφορεία (αστικά/περιφερειακά)</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Bus transport services (urban/regional)</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte en autobús (urbano/regional)</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Bussitranspordi teenused (linnas / piirkondlik)</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Linja-autoliikenteen palvelut (kaupunkiliikenne/alueliikenne)</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport par autobus (urbain/régional)</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair bus (uirbeacha/réigiúnacha)</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Autobusni prijevoz (gradski/regionalni)</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Busszal végzett szállítási szolgáltatások (városi/regionális)</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto mediante autobus (urbano/regionale)</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Autobusų transporto paslaugos (miestų / regionų)</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Autobusu transporta pakalpojumi (pilsētas/reģionālie)</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport bix-xarabank (urbani/reġjonali)</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake busvervoer (stedelijk/regionaal)</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu autobusowego (miejskie/regionalne)</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte por autocarro (urbano/regional)</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport cu autobuzul (urban/regional)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby autobusovej dopravy (mestská/regionálna)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve avtobusnega prevoza (mestnega/regionalnega)</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende busstransport (stadsbuss/regionalbuss)</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/port-s">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>port-s</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>port-s</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>port-s</atold:op-code>
+    <dc:identifier>port-s</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Услуги по превоз по вътрешни водни пътища и морски пътища</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Dopravní služby na námořních a vnitrozemských vodních cestách</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Tjenesteydelser i forbindelse med transport ad indre vandveje og søtransport</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Binnenschifffahrtswege und Seeverkehr</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Υπηρεσίες εσωτερικών πλωτών και θαλάσσιων μεταφορών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Inland waterway and maritime transport services</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Servicios de transporte marítimo y por vías navegables interiores</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Sise- ja mereveeteede transpordi teenused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Sisävesi- ja meriliikenteen palvelut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Services de transport maritime et par voie navigable</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seirbhísí iompair uiscebhealaí intíre agus muirí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Usluge pomorskog prijevoza i prijevoza unutarnjim plovnim putevima</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Belvízi és tengeri szállítási szolgáltatások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Servizi di trasporto marittimo e per via navigabile</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Vidaus vandenų ir jūrų transporto paslaugos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Iekšējo ūdensceļu un jūras transporta pakalpojumi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Servizzi tat-trasport fuq passaġġ tal-ilma intern u marittimi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Diensten inzake vervoer over zee en binnenwateren</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Usługi transportu wodnego śródlądowego oraz morskiego</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Serviços de transporte marítimo e por via navegável interior</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Servicii de transport maritim şi pe căi navigabile interioare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Služby vnútrozemskej a námornej vodnej dopravy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Storitve prevoza po celinskih vodnih poteh in morju</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tjänster avseende sjötransport och transport på inre vattenvägar</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service/other">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>other</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>other</at:op-code>
+    <at:start.use>2021-06-16</at:start.use>
+    <atold:op-code>other</atold:op-code>
+    <dc:identifier>other</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/transport-service"/>
+    <skos:prefLabel xml:lang="bg">Други</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Jiný</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Anden</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Sonstiges</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Άλλη</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Otros</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Muut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Autre</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Eile</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Ostalo</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Egyéb</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Altri</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Kito</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Cits</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Oħrajn</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Andere</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Inne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Outros</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Alte</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Iné</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Drugo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Annat</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/transport-service">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Transport service</rdfs:label>
+    <at:prefLabel xml:lang="en">Transport service</at:prefLabel>
+    <at:table.id>transport-service</at:table.id>
+    <at:table.version.number>20210929-0</at:table.version.number>
+    <owl:versionInfo>20210929-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Transport service</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

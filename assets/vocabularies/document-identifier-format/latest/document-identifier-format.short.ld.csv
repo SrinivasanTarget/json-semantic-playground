@@ -1,0 +1,11 @@
+# Serializing assets/vocabularies/document-identifier-format/latest/document-identifier-format.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/document-identifier-format
+# title: Document identifier format
+# version: 20210929-0
+# description: Document identifier format
+key,url,deprecated,valid_from,country_code,label_en,label_it
+COM_NUMBER,http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER,false,2021-05-11,COM_NUMBER,COM number,Numero COM
+CSL_NUMBER,http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER,false,2021-05-11,CSL_NUMBER,CSL number,Numero CSL
+OP_DATPRO,http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO,false,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+SESSION_NUMBER,http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER,false,2021-05-11,SESSION_NUMBER,Session number,Numero sessione

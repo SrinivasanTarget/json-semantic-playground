@@ -1,0 +1,1416 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/lrail-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "lrail-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "lrail-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "lrail-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "lrail-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по превози по теснолинейни железопътни линии"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dopravní služby nadzemní dráhy"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser vedrørende trafikbetjening med letbane"
+      },
+      {
+        "@language": "de",
+        "@value": "Stadt- und Regionalbahnsysteme"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες μεταφορών με ελαφρύ σιδηρόδρομο"
+      },
+      {
+        "@language": "en",
+        "@value": "Light rail transport services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte en ferrocarril ligero"
+      },
+      {
+        "@language": "et",
+        "@value": "Kergraudteeranspordi teenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kevyen raideliikenteen palvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport par système de rail léger"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair iarnród éadrom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge prijevoza gradskom željeznicom"
+      },
+      {
+        "@language": "hu",
+        "@value": "Helyiérdekű vasúttal végzett szállítási szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto mediante metropolitana leggera"
+      },
+      {
+        "@language": "lt",
+        "@value": "Lengvojo geležinkelio transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vieglā dzelzceļa transporta pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport bil-ferrovija ħafifa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake lightrailvervoer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu koleją lekką"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte por caminho-de-ferro ligeiro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport cu metroul uşor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby ľahkej koľajovej dopravy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve prevoza z lahko železnico"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende transport snabbspårvägstransport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/rail-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "rail-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "rail-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "rail-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "rail-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги на железопътния транспорт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Služby železniční dopravy"
+      },
+      {
+        "@language": "da",
+        "@value": "Jernbanetransport"
+      },
+      {
+        "@language": "de",
+        "@value": "Eisenbahnverkehr"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες σιδηροδρομικών μεταφορών"
+      },
+      {
+        "@language": "en",
+        "@value": "Rail transport services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte por ferrocarril"
+      },
+      {
+        "@language": "et",
+        "@value": "Raudteetransporditeenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Rautatiekuljetuspalvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transports ferroviaires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompar ar iarnród"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge željezničkog prijevoza"
+      },
+      {
+        "@language": "hu",
+        "@value": "Vasúti szállítási szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto per ferrovia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Geležinkelio transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dzelzceļa transporta pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi ta’ trasport ferrovjarju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Spoorwegvervoerdiensten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu kolejowego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte ferroviário"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport feroviar"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby železničnej dopravy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve železniškega prevoza"
+      },
+      {
+        "@language": "sv",
+        "@value": "Järnvägstransport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transport service"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "transport-service"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Transport service"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Transport service"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/trolley-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "trolley-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "trolley-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "trolley-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "trolley-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по превоз с тролейбус"
+      },
+      {
+        "@language": "cs",
+        "@value": "Trolejbusové dopravní služby"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser vedrørende trafikbetjening med trolleybus"
+      },
+      {
+        "@language": "de",
+        "@value": "Oberleitungsbusverkehr"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες μεταφορών με λεωφορεία τρόλεϊ"
+      },
+      {
+        "@language": "en",
+        "@value": "Trolleybus transport services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte en trolebús"
+      },
+      {
+        "@language": "et",
+        "@value": "Trollitranspordi teenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Johdinautoliikenteen palvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport par trolleybus"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair busanna tralaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge prijevoza trolejbusom"
+      },
+      {
+        "@language": "hu",
+        "@value": "Trolibusszal végzett szállítási szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto mediante filobus"
+      },
+      {
+        "@language": "lt",
+        "@value": "Troleibusų transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Trolejbusu transporta pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport bix-xarabank li taħdem bl-elettriku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake trolleybusvervoer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu trolejbusowego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte por troleicarro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport cu troleibuzul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby trolejbusovej dopravy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve prevoza s trolejbusi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende trådbusstransport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/tram-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "tram-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "tram-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "tram-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "tram-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по превоз с трамвай"
+      },
+      {
+        "@language": "cs",
+        "@value": "Tramvajové dopravní služby"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser vedrørende trafikbetjening med sporvogn"
+      },
+      {
+        "@language": "de",
+        "@value": "Straßenbahnverkehr"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες μεταφορών με τραμ"
+      },
+      {
+        "@language": "en",
+        "@value": "Tram transport services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte en tranvía"
+      },
+      {
+        "@language": "et",
+        "@value": "Trammitranspordi teenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Raitiotieliikenteen palvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport par tramway"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair tramanna"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge tramvajskog prijevoza"
+      },
+      {
+        "@language": "hu",
+        "@value": "Villamossal végzett szállítási szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto mediante tram"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tramvajų transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tramvaju transporta pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport bit-tramm"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake tramvervoer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu tramwajowego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte por eléctrico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport cu tramvaiul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby električkovej dopravy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve prevoza s tramvaji"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende spårvagnstransport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/coach-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "coach-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "coach-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "coach-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "coach-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по туристически превози (на дълги разстояния)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Služby autobusové dopravy (dálkové)"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser vedrørende trafikbetjening med rutebil (langdistance)"
+      },
+      {
+        "@language": "de",
+        "@value": "Reisebusverkehr (Fernverkehr)"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες μεταφορών με πούλμαν (μεγάλες αποστάσεις)"
+      },
+      {
+        "@language": "en",
+        "@value": "Coach transport services (long-distance)"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte en autocar (larga distancia)"
+      },
+      {
+        "@language": "et",
+        "@value": "Kaugbussitranspordi teenused (pikad vahemaad)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Linja-autoliikenteen palvelut (kaukoliikenne)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport par autocar (longue distance)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair cóiste (fadraoin)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Autobusni prijevoz (međugradski)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Távolsági busszal végzett szállítási szolgáltatások (távolsági)"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto mediante autobus (lunga distanza)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Miesto ir tolimojo susisiekimo autobusų transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Autobusu transporta pakalpojumi (tālsatiksmes)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport bil-kowċ (fuq distanza twila)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake touringcarvervoer (lange afstand)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu autokarowego (długodystansowe)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte por autocarro de turismo (longa distância)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport cu autocarul (pe distanţă lungă)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby autokarovej dopravy (diaľková)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve avtobusnega prevoza (dolge proge)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende personvagnstransport (långdistans)"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/bus-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "bus-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "bus-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "bus-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "bus-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по превоз с автобус (градски/регионален)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Služby autobusové dopravy (městské/regionální)"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser vedrørende trafikbetjening med bus (i byområder/på regionalplan)"
+      },
+      {
+        "@language": "de",
+        "@value": "Busverkehr (innerstädtisch/regional)"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες μεταφορών με λεωφορεία (αστικά/περιφερειακά)"
+      },
+      {
+        "@language": "en",
+        "@value": "Bus transport services (urban/regional)"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte en autobús (urbano/regional)"
+      },
+      {
+        "@language": "et",
+        "@value": "Bussitranspordi teenused (linnas / piirkondlik)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Linja-autoliikenteen palvelut (kaupunkiliikenne/alueliikenne)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport par autobus (urbain/régional)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair bus (uirbeacha/réigiúnacha)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Autobusni prijevoz (gradski/regionalni)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Busszal végzett szállítási szolgáltatások (városi/regionális)"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto mediante autobus (urbano/regionale)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Autobusų transporto paslaugos (miestų / regionų)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Autobusu transporta pakalpojumi (pilsētas/reģionālie)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport bix-xarabank (urbani/reġjonali)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake busvervoer (stedelijk/regionaal)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu autobusowego (miejskie/regionalne)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte por autocarro (urbano/regional)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport cu autobuzul (urban/regional)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby autobusovej dopravy (mestská/regionálna)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve avtobusnega prevoza (mestnega/regionalnega)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende busstransport (stadsbuss/regionalbuss)"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/port-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "port-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "port-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "port-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "port-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по превоз по вътрешни водни пътища и морски пътища"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dopravní služby na námořních a vnitrozemských vodních cestách"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser i forbindelse med transport ad indre vandveje og søtransport"
+      },
+      {
+        "@language": "de",
+        "@value": "Binnenschifffahrtswege und Seeverkehr"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες εσωτερικών πλωτών και θαλάσσιων μεταφορών"
+      },
+      {
+        "@language": "en",
+        "@value": "Inland waterway and maritime transport services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte marítimo y por vías navegables interiores"
+      },
+      {
+        "@language": "et",
+        "@value": "Sise- ja mereveeteede transpordi teenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sisävesi- ja meriliikenteen palvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport maritime et par voie navigable"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair uiscebhealaí intíre agus muirí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge pomorskog prijevoza i prijevoza unutarnjim plovnim putevima"
+      },
+      {
+        "@language": "hu",
+        "@value": "Belvízi és tengeri szállítási szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto marittimo e per via navigabile"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vidaus vandenų ir jūrų transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iekšējo ūdensceļu un jūras transporta pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport fuq passaġġ tal-ilma intern u marittimi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake vervoer over zee en binnenwateren"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu wodnego śródlądowego oraz morskiego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte marítimo e por via navegável interior"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport maritim şi pe căi navigabile interioare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby vnútrozemskej a námornej vodnej dopravy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve prevoza po celinskih vodnih poteh in morju"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende sjötransport och transport på inre vattenvägar"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/metro-s",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "metro-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "metro-s"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "metro-s"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "metro-s"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги по превоз с метро"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dopravní služby metra"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser vedrørende trafikbetjening med metro"
+      },
+      {
+        "@language": "de",
+        "@value": "U-Bahnverkehr"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες μεταφορών με μετρό"
+      },
+      {
+        "@language": "en",
+        "@value": "Metro transport services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios de transporte en metro"
+      },
+      {
+        "@language": "et",
+        "@value": "Metrootranspordi teenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Metroliikenteen palvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services de transport par métro"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí iompair meitreo"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge prijevoza podzemnom željeznicom"
+      },
+      {
+        "@language": "hu",
+        "@value": "Metróval végzett szállítási szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi di trasporto mediante metropolitana"
+      },
+      {
+        "@language": "lt",
+        "@value": "Metro transporto paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Metro transporta pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi tat-trasport bil-metro"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten inzake metrovervoer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi transportu metrem"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços de transporte por metro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii de transport cu metroul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby metro dopravy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve prevoza s podzemno železnico"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster avseende tunnelbanetransport"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/transport-service/other",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/transport-service"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Други"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiný"
+      },
+      {
+        "@language": "da",
+        "@value": "Anden"
+      },
+      {
+        "@language": "de",
+        "@value": "Sonstiges"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλη"
+      },
+      {
+        "@language": "en",
+        "@value": "Other"
+      },
+      {
+        "@language": "es",
+        "@value": "Otros"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ostalo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb"
+      },
+      {
+        "@language": "it",
+        "@value": "Altri"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kito"
+      },
+      {
+        "@language": "lv",
+        "@value": "Cits"
+      },
+      {
+        "@language": "mt",
+        "@value": "Oħrajn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Andere"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outros"
+      },
+      {
+        "@language": "ro",
+        "@value": "Alte"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iné"
+      },
+      {
+        "@language": "sl",
+        "@value": "Drugo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annat"
+      }
+    ]
+  }
+]

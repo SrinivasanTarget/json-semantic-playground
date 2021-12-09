@@ -1,0 +1,129 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: BOOKMARK
+  deprecated: 'false'
+  key: BOOKMARK
+  label_en: Bookmark
+  url: http://publications.europa.eu/resource/authority/product-form/BOOKMARK
+  valid_from: '1951-01-01'
+- country_code: CDROM
+  deprecated: 'false'
+  key: CDROM
+  label_en: CD-ROM
+  url: http://publications.europa.eu/resource/authority/product-form/CDROM
+  valid_from: '1951-01-01'
+- country_code: DVDROM
+  deprecated: 'false'
+  key: DVDROM
+  label_en: DVD-ROM
+  url: http://publications.europa.eu/resource/authority/product-form/DVDROM
+  valid_from: '1951-01-01'
+- country_code: FOLDER
+  deprecated: 'false'
+  key: FOLDER
+  label_en: Folder
+  url: http://publications.europa.eu/resource/authority/product-form/FOLDER
+  valid_from: '1951-01-01'
+- country_code: LEAFLET
+  deprecated: 'false'
+  key: LEAFLET
+  label_en: Leaflet
+  url: http://publications.europa.eu/resource/authority/product-form/LEAFLET
+  valid_from: '1951-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/product-form/OP_DATPRO
+- country_code: POSTCARD
+  deprecated: 'false'
+  key: POSTCARD
+  label_en: Postcard
+  url: http://publications.europa.eu/resource/authority/product-form/POSTCARD
+  valid_from: '1951-01-01'
+- country_code: POSTER
+  deprecated: 'false'
+  key: POSTER
+  label_en: Poster
+  url: http://publications.europa.eu/resource/authority/product-form/POSTER
+  valid_from: '1951-01-01'
+- country_code: POSTER_PROM
+  deprecated: 'false'
+  key: POSTER_PROM
+  label_en: Poster, promotional
+  url: http://publications.europa.eu/resource/authority/product-form/POSTER_PROM
+  valid_from: '1951-01-01'
+- country_code: PRINT
+  deprecated: 'false'
+  key: PRINT
+  label_en: Print
+  url: http://publications.europa.eu/resource/authority/product-form/PRINT
+  valid_from: '1951-01-01'
+- country_code: PRINT_HRDCV
+  deprecated: 'false'
+  key: PRINT_HRDCV
+  label_en: Print (hardcover)
+  url: http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV
+  valid_from: '1951-01-01'
+- country_code: PRINT_LOSL
+  deprecated: 'false'
+  key: PRINT_LOSL
+  label_en: Print (looseleaf)
+  url: http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL
+  valid_from: '1951-01-01'
+- country_code: PRINT_RGBD
+  deprecated: 'false'
+  key: PRINT_RGBD
+  label_en: Print (ringbinder)
+  url: http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD
+  valid_from: '1951-01-01'
+- country_code: PRINT_SFTCV
+  deprecated: 'false'
+  key: PRINT_SFTCV
+  label_en: Print (softcover)
+  url: http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV
+  valid_from: '1951-01-01'
+- country_code: PRINT_STPL
+  deprecated: 'false'
+  key: PRINT_STPL
+  label_en: Print (stapled)
+  url: http://publications.europa.eu/resource/authority/product-form/PRINT_STPL
+  valid_from: '1951-01-01'
+- country_code: SHEET_MAP
+  deprecated: 'false'
+  key: SHEET_MAP
+  label_en: Sheet map
+  url: http://publications.europa.eu/resource/authority/product-form/SHEET_MAP
+  valid_from: '1951-01-01'
+- country_code: USB_FD
+  deprecated: 'false'
+  key: USB_FD
+  label_en: USB flash drive
+  url: http://publications.europa.eu/resource/authority/product-form/USB_FD
+  valid_from: '1951-01-01'
+- country_code: VIDEO_VHS
+  deprecated: 'false'
+  key: VIDEO_VHS
+  label_en: VHS Video
+  url: http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS
+  valid_from: '1951-01-01'

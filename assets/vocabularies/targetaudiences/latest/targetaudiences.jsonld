@@ -1,0 +1,1891 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/GEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "GEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb6"
+      },
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "GEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "GEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Non-specialists in the field of a given publication."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Широка общественост"
+      },
+      {
+        "@language": "cs",
+        "@value": "Široká veřejnost"
+      },
+      {
+        "@language": "da",
+        "@value": "Den brede offentlighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Öffentlichkeit"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρύ κοινό"
+      },
+      {
+        "@language": "en",
+        "@value": "General public"
+      },
+      {
+        "@language": "es",
+        "@value": "Público en general"
+      },
+      {
+        "@language": "et",
+        "@value": "Üldsus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Suuri yleisö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Grand public"
+      },
+      {
+        "@language": "ga",
+        "@value": "An pobal i gcoitinne"
+      },
+      {
+        "@language": "hr",
+        "@value": "Javnost"
+      },
+      {
+        "@language": "hu",
+        "@value": "Általános"
+      },
+      {
+        "@language": "it",
+        "@value": "Grande pubblico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Plačioji visuomenė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Plaša sabiedrība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Pubbliku inġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Iedereen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tematyka ogólna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Grande público"
+      },
+      {
+        "@language": "ro",
+        "@value": "Publicul larg"
+      },
+      {
+        "@language": "sk",
+        "@value": "Široká verejnosť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Splošna javnost"
+      },
+      {
+        "@language": "sv",
+        "@value": "Allmänheten"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "200"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "General public"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EUBOOKSHOP"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/MIN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MIN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Малцинства"
+      },
+      {
+        "@language": "cs",
+        "@value": "Menšiny"
+      },
+      {
+        "@language": "da",
+        "@value": "Minoriteter"
+      },
+      {
+        "@language": "de",
+        "@value": "Minderheiten"
+      },
+      {
+        "@language": "el",
+        "@value": "Μειονότητες"
+      },
+      {
+        "@language": "en",
+        "@value": "Minorities"
+      },
+      {
+        "@language": "es",
+        "@value": "Minorías"
+      },
+      {
+        "@language": "et",
+        "@value": "Vähemused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vähemmistöt"
+      },
+      {
+        "@language": "fr",
+        "@value": "Minorités"
+      },
+      {
+        "@language": "ga",
+        "@value": "Mionlaigh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Manjine"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kisebbségek"
+      },
+      {
+        "@language": "it",
+        "@value": "Minoranze"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mažumos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Minoritātes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Minoritajiet"
+      },
+      {
+        "@language": "nl",
+        "@value": "Minderheden"
+      },
+      {
+        "@language": "pl",
+        "@value": "Mniejszości"
+      },
+      {
+        "@language": "pt",
+        "@value": "Minorias"
+      },
+      {
+        "@language": "ro",
+        "@value": "Minorități"
+      },
+      {
+        "@language": "sk",
+        "@value": "Menšiny"
+      },
+      {
+        "@language": "sl",
+        "@value": "Manjšine"
+      },
+      {
+        "@language": "sv",
+        "@value": "Minoriteter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "205"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/CHL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CHL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CHL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2017-10-04"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CHL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CHL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Children up to 11 years old – the age group typically corresponding to the pre-school and primary school pupils."
+      },
+      {
+        "@language": "fr",
+        "@value": "Enfants jusqu’à 11 ans. Cette tranche d’âge correspond généralement aux enfants d’âge préscolaire et aux élèves de l’enseignement primaire."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Деца"
+      },
+      {
+        "@language": "cs",
+        "@value": "Děti"
+      },
+      {
+        "@language": "da",
+        "@value": "Børn"
+      },
+      {
+        "@language": "de",
+        "@value": "Kinder"
+      },
+      {
+        "@language": "el",
+        "@value": "Παιδιά"
+      },
+      {
+        "@language": "en",
+        "@value": "Children"
+      },
+      {
+        "@language": "es",
+        "@value": "Niños"
+      },
+      {
+        "@language": "et",
+        "@value": "Lapsed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lapset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Enfants"
+      },
+      {
+        "@language": "ga",
+        "@value": "Leanaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Djeca"
+      },
+      {
+        "@language": "hu",
+        "@value": "Gyermekek"
+      },
+      {
+        "@language": "it",
+        "@value": "Bambini"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vaikai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Bērni"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tfal"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kinderen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dzieci"
+      },
+      {
+        "@language": "pt",
+        "@value": "Crianças"
+      },
+      {
+        "@language": "ro",
+        "@value": "Copii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Deti"
+      },
+      {
+        "@language": "sl",
+        "@value": "Otroci"
+      },
+      {
+        "@language": "sv",
+        "@value": "Barn"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "210"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/YOP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "YOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "YOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb14"
+      },
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb15"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "YOP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "YOP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Young people from 12 to 24 years old – the age group typically corresponding to the secondary and higher education students."
+      },
+      {
+        "@language": "fr",
+        "@value": "Jeunes de 12 à 18 ans. Cette tranche d’âge correspond généralement aux élèves de l’enseignement secondaire."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Младежи"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mladí lidé"
+      },
+      {
+        "@language": "da",
+        "@value": "Unge"
+      },
+      {
+        "@language": "de",
+        "@value": "Junge Menschen"
+      },
+      {
+        "@language": "el",
+        "@value": "Νέοι"
+      },
+      {
+        "@language": "en",
+        "@value": "Young people"
+      },
+      {
+        "@language": "es",
+        "@value": "Jóvenes"
+      },
+      {
+        "@language": "et",
+        "@value": "Noored"
+      },
+      {
+        "@language": "fi",
+        "@value": "Nuoret"
+      },
+      {
+        "@language": "fr",
+        "@value": "Jeunes"
+      },
+      {
+        "@language": "ga",
+        "@value": "Daoine óga"
+      },
+      {
+        "@language": "hr",
+        "@value": "Mladi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ifjúsági"
+      },
+      {
+        "@language": "it",
+        "@value": "Giovani"
+      },
+      {
+        "@language": "lt",
+        "@value": "Jaunimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jaunieši"
+      },
+      {
+        "@language": "mt",
+        "@value": "Żgħażagħ"
+      },
+      {
+        "@language": "nl",
+        "@value": "Jongeren"
+      },
+      {
+        "@language": "pl",
+        "@value": "Młodzież"
+      },
+      {
+        "@language": "pt",
+        "@value": "Jovens"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tineri"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mladí ľudia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mladi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ungdomar"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Young people"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EUBOOKSHOP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "201"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/CON",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CON"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CON"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb2"
+      },
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CON"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CON"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Потребители"
+      },
+      {
+        "@language": "cs",
+        "@value": "Spotřebitelé"
+      },
+      {
+        "@language": "da",
+        "@value": "Forbrugere"
+      },
+      {
+        "@language": "de",
+        "@value": "Verbraucher"
+      },
+      {
+        "@language": "el",
+        "@value": "Καταναλωτές"
+      },
+      {
+        "@language": "en",
+        "@value": "Consumers"
+      },
+      {
+        "@language": "es",
+        "@value": "Consumidores"
+      },
+      {
+        "@language": "et",
+        "@value": "Tarbijad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kuluttajat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Consommateurs"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tomhaltóirí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Potrošači"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fogyasztók"
+      },
+      {
+        "@language": "it",
+        "@value": "Consumatori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vartotojai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Patērētāji"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konsumaturi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Consumenten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Konsumenci"
+      },
+      {
+        "@language": "pt",
+        "@value": "Consumidores"
+      },
+      {
+        "@language": "ro",
+        "@value": "Consumatori"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spotrebitelia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Potrošniki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Konsumenter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Consumers"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EUBOOKSHOP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "206"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/SCI",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SCI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SCI"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb10"
+      },
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SCI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SCI"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Persons with interest in technical scientific publications."
+      },
+      {
+        "@language": "fr",
+        "@value": "Personnes ayant un intérêt pour les publications techniques scientifiques."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Научна"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vědecké"
+      },
+      {
+        "@language": "da",
+        "@value": "Videnskab"
+      },
+      {
+        "@language": "de",
+        "@value": "Wissenschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Επιστημονικές"
+      },
+      {
+        "@language": "en",
+        "@value": "Scientific"
+      },
+      {
+        "@language": "es",
+        "@value": "Científico"
+      },
+      {
+        "@language": "et",
+        "@value": "Teadus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tiede"
+      },
+      {
+        "@language": "fr",
+        "@value": "Scientifique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eolaíocht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Znanstveno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tudományos"
+      },
+      {
+        "@language": "it",
+        "@value": "Scientifici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mokslas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Zinātnisks"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xjentifiċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Wetenschappelijk"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nauka"
+      },
+      {
+        "@language": "pt",
+        "@value": "Científico"
+      },
+      {
+        "@language": "ro",
+        "@value": "Științific"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vedecké"
+      },
+      {
+        "@language": "sl",
+        "@value": "Znanost"
+      },
+      {
+        "@language": "sv",
+        "@value": "Vetenskap"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Scientific"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EUBOOKSHOP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "704"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/EDU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EDU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EDU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb4"
+      },
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EDU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EDU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Educators and teachers."
+      },
+      {
+        "@language": "fr",
+        "@value": "Éducateurs et enseignants."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Образование"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vzdělání"
+      },
+      {
+        "@language": "da",
+        "@value": "Uddannelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Bildung"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκπαίδευση"
+      },
+      {
+        "@language": "en",
+        "@value": "Education"
+      },
+      {
+        "@language": "es",
+        "@value": "Educación"
+      },
+      {
+        "@language": "et",
+        "@value": "Haridus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Koulutus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Éducation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oideachas"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obrazovanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Oktató"
+      },
+      {
+        "@language": "it",
+        "@value": "Istruzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Švietimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izglītība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Edukazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onderwijs"
+      },
+      {
+        "@language": "pl",
+        "@value": "Edukacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Educação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Educație"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vzdelávanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izobraževanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Utbildning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Education"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EUBOOKSHOP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "600"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Target audience"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "target-audience"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Target audience"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Target audience"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/LEG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Specialised public that needs to access legal information to learn about or apply law, for example: jurists, lawyers, legislators."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Правна"
+      },
+      {
+        "@language": "cs",
+        "@value": "Legislativní"
+      },
+      {
+        "@language": "da",
+        "@value": "Lovgivning"
+      },
+      {
+        "@language": "de",
+        "@value": "Recht"
+      },
+      {
+        "@language": "el",
+        "@value": "Νομικές"
+      },
+      {
+        "@language": "en",
+        "@value": "Legislative"
+      },
+      {
+        "@language": "es",
+        "@value": "Legislativo"
+      },
+      {
+        "@language": "et",
+        "@value": "Juriidika"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lainsäädäntö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Législatif"
+      },
+      {
+        "@language": "ga",
+        "@value": "Reachtach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zakonodavno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jogi"
+      },
+      {
+        "@language": "it",
+        "@value": "Legislativi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Teisė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Leģislatīvs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Leġiżlattivi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Wetgeving"
+      },
+      {
+        "@language": "pl",
+        "@value": "Prawo"
+      },
+      {
+        "@language": "pt",
+        "@value": "Legislativo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Legislativ"
+      },
+      {
+        "@language": "sk",
+        "@value": "Legislatíva"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zakonodaja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Lagstiftning"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "705"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/target-audience/SPE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SPE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SPE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb12"
+      },
+      {
+        "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb13"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1999-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SPE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SPE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Persons with interest in technical non-scientific publications."
+      },
+      {
+        "@language": "fr",
+        "@value": "Personnes ayant un intérêt pour les publications techniques non scientifiques."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Специализирана"
+      },
+      {
+        "@language": "cs",
+        "@value": "Specializované"
+      },
+      {
+        "@language": "da",
+        "@value": "Fagområde"
+      },
+      {
+        "@language": "de",
+        "@value": "Spezialisiert"
+      },
+      {
+        "@language": "el",
+        "@value": "Εξειδικευμένες"
+      },
+      {
+        "@language": "en",
+        "@value": "Specialised"
+      },
+      {
+        "@language": "es",
+        "@value": "Especializado"
+      },
+      {
+        "@language": "et",
+        "@value": "Erialakirjandus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Erikoisalat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Spécialisé"
+      },
+      {
+        "@language": "ga",
+        "@value": "Speisialaithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Specijalizirano"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tematikus"
+      },
+      {
+        "@language": "it",
+        "@value": "Specialistici"
+      },
+      {
+        "@language": "lt",
+        "@value": "Specializuota"
+      },
+      {
+        "@language": "lv",
+        "@value": "Specializēts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Speċjalizzati"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gespecialiseerd"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tematyka specjalistyczna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Especializado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Specializat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Špecializované"
+      },
+      {
+        "@language": "sl",
+        "@value": "Specializacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Fackområden"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/target-audience"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "Specialised/Technical"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EUBOOKSHOP"
+      }
+    ]
+  },
+  {
+    "@id": "_:n0b5d48f381e741ed9c859f41f3c8f3fcb13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "PUB_TARGET"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "702"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "PUB"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2250 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/ted-esen",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ted-esen"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ted-esen"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ted-esen"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ted-esen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Електронен подател в платформата eSender към Електронния ежедневник за поръчките (TED)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Elektronický odesílatel TED"
+      },
+      {
+        "@language": "da",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "de",
+        "@value": "TED-eSender"
+      },
+      {
+        "@language": "el",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "en",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "es",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "et",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "fi",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "fr",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "ga",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "hr",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "hu",
+        "@value": "TED eKüldő"
+      },
+      {
+        "@language": "it",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "lt",
+        "@value": "TED e. formų siuntėjas"
+      },
+      {
+        "@language": "lv",
+        "@value": "TED rīks eSender"
+      },
+      {
+        "@language": "mt",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "nl",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "pl",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "pt",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "ro",
+        "@value": "Sistemul TED eSender"
+      },
+      {
+        "@language": "sk",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "sl",
+        "@value": "TED eSender"
+      },
+      {
+        "@language": "sv",
+        "@value": "TED eSender"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/tenderer",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "tenderer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "tenderer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-03-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "tenderer"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "tenderer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Оферент"
+      },
+      {
+        "@language": "cs",
+        "@value": "Uchazeč"
+      },
+      {
+        "@language": "da",
+        "@value": "Tilbudsgiver"
+      },
+      {
+        "@language": "de",
+        "@value": "Bieter"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσφέρων"
+      },
+      {
+        "@language": "en",
+        "@value": "Tenderer"
+      },
+      {
+        "@language": "es",
+        "@value": "Licitador"
+      },
+      {
+        "@language": "et",
+        "@value": "Pakkuja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tarjoaja"
+      },
+      {
+        "@language": "fr",
+        "@value": "Soumissionnaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tairgeoir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ponuditelj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlattevő"
+      },
+      {
+        "@language": "it",
+        "@value": "Offerente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dalyvis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pretendents"
+      },
+      {
+        "@language": "mt",
+        "@value": "Offerent"
+      },
+      {
+        "@language": "nl",
+        "@value": "Inschrijver"
+      },
+      {
+        "@language": "pl",
+        "@value": "Oferent"
+      },
+      {
+        "@language": "pt",
+        "@value": "Proponente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Ofertant"
+      },
+      {
+        "@language": "sk",
+        "@value": "Uchádzač"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ponudnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "Anbudsgivare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/reviewer",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "reviewer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "reviewer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "reviewer"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "reviewer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Oрганизация, отговаряща за преразглеждането (обжалването)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace příslušná pro přezkum"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation med ansvar for klager"
+      },
+      {
+        "@language": "de",
+        "@value": "Überprüfungsstelle"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός προσφυγής"
+      },
+      {
+        "@language": "en",
+        "@value": "Review organisation"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización de encargada de los procedimientos de recurso"
+      },
+      {
+        "@language": "et",
+        "@value": "Läbivaatav organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muutoksenhakuelin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation chargée des procédures de recours"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht athbhreithniúcháin"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija za preispitivanje (pravnu zaštitu)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Felülvizsgálati szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione competente per i ricorsi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Peržiūros organizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pārskatīšanas organizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni tar-rieżami"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie voor beroepsprocedures"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organ odwoławczy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Instância de recurso"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația responsabilă cu căile de atac"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia pre preskúmanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija za revizijo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Prövningsorganisation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organisation role"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "organisation-role"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210616-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Organisation role"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210616-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Organisation role"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/info-envir",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "info-envir"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "info-envir"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "info-envir"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "info-envir"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която предоставя информация за общата нормативна уредба за опазването на околната среда, приложима на мястото, където ще се изпълнява поръчката"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující informace o obecném právním rámci pro ochranu životního prostředí, který se použije v místě, kde má být zakázka plněna"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår miljøbeskyttelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden umweltrechtlichen Rahmen bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για την προστασία του περιβάλλοντος το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing information concerning the general regulatory framework for environmental protection applicable in the place where the contract is to be performed"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona información sobre el marco normativo general por lo que se refiere a la protección del medio ambiente aplicable en el lugar en que deba ejecutarse el contrato"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis annab teavet keskkonnakaitset käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista ympäristönsuojelua koskevista yleisistä säännöksistä tietoja antava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de protection de l’environnement, est applicable au lieu où la prestation doit être réalisée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta do chosaint an chomhshaoil is infheidhme san áit ina bhfuil an conradh le cur i gcrích"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja pruža informacije o općem regulatornom okviru u vezi sa zaštitom okoliša primjenjivom u mjestu u kojem se ugovor treba izvršiti"
+      },
+      {
+        "@language": "hu",
+        "@value": "A szerződés teljesítésének helye szerinti országban alkalmazandó általános környezetvédelmi szabályozási kerettel kapcsolatban tájékoztatást nyújtó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di protezione dell'ambiente nel luogo in cui l'appalto deve essere eseguito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją aplinkosaugos reglamentavimo sistemą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas sniedz informāciju par vides aizsardzības jomas vispārējo tiesisko regulējumu, kas piemērojams līguma izpildes vietā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għall-protezzjoni ambjentali applikabbli fil-post fejn irid jitwettaq il-kuntratt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake milieubescherming"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie ochrony środowiska, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece informações sobre o quadro normativo geral em matéria de proteção do ambiente que vigora no local de realização da prestação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care furnizează informații referitoare la cadrul legislativ general privind protecția mediului aplicabil în locul în care urmează să fie executat contractul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre ochranu životného prostredia uplatňovaného v mieste plnenia zákazky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki daje informacije o splošnem regulativnem okviru glede varstva okolja, ki se uporablja v kraju izvajanja naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tillhandahåller information om det allmänna regelverk för miljöskydd som ska tillämpas på den plats där kontraktet ska genomföras"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/serv-prov",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "serv-prov"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "serv-prov"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "serv-prov"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "serv-prov"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Доставчик на услуги в областта на обществените поръчки"
+      },
+      {
+        "@language": "cs",
+        "@value": "Poskytovatel služeb v oblasti zadávání zakázek"
+      },
+      {
+        "@language": "da",
+        "@value": "Indkøbsleverandør"
+      },
+      {
+        "@language": "de",
+        "@value": "Beschaffungsdienstleister"
+      },
+      {
+        "@language": "el",
+        "@value": "Πάροχος υπηρεσιών προμηθειών"
+      },
+      {
+        "@language": "en",
+        "@value": "Procurement service provider"
+      },
+      {
+        "@language": "es",
+        "@value": "Proveedor de servicios de contratación pública"
+      },
+      {
+        "@language": "et",
+        "@value": "Tugiteenuse osutaja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintapalvelujen tarjoaja"
+      },
+      {
+        "@language": "fr",
+        "@value": "Prestataire de services de passation de marché"
+      },
+      {
+        "@language": "ga",
+        "@value": "Soláthraí seirbhísí an tsoláthair"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pružatelj usluga javne nabave"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közbeszerzési szolgáltató"
+      },
+      {
+        "@language": "it",
+        "@value": "Prestatore di servizi in materia di appalti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirkimo paslaugų teikėjas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iepirkuma pakalpojumu sniedzējs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Fornitur ta’ servizzi tal-akkwist"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aanbieder van aanbestedingsdiensten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podmiot świadczący usługi w zakresie zamówień"
+      },
+      {
+        "@language": "pt",
+        "@value": "Prestador de serviços no domínio da contratação pública"
+      },
+      {
+        "@language": "ro",
+        "@value": "Furnizor de servicii de achiziție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Poskytovateľ obstarávacích služieb"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izvajalec storitev javnega naročanja"
+      },
+      {
+        "@language": "sv",
+        "@value": "Upphandlingstjänsteleverantör"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/subcont",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "subcont"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "subcont"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "subcont"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "subcont"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Подизпълнител"
+      },
+      {
+        "@language": "cs",
+        "@value": "Subdodavatel"
+      },
+      {
+        "@language": "da",
+        "@value": "Underleverandør"
+      },
+      {
+        "@language": "de",
+        "@value": "Unterauftragnehmer"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπεργολάβος"
+      },
+      {
+        "@language": "en",
+        "@value": "Subcontractor"
+      },
+      {
+        "@language": "es",
+        "@value": "Subcontratista"
+      },
+      {
+        "@language": "et",
+        "@value": "Alltöövõtja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alihankkija"
+      },
+      {
+        "@language": "fr",
+        "@value": "Sous-traitant"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fochonraitheoir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Podugovaratelj (podizvođač radova)"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alvállalkozó"
+      },
+      {
+        "@language": "it",
+        "@value": "Subappaltatore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Subrangovas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apakšuzņēmējs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sottokuntrattur"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onderaannemer"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podwykonawca"
+      },
+      {
+        "@language": "pt",
+        "@value": "Subcontratante"
+      },
+      {
+        "@language": "ro",
+        "@value": "Subcontractant"
+      },
+      {
+        "@language": "sk",
+        "@value": "Subdodávateľ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Podizvajalec"
+      },
+      {
+        "@language": "sv",
+        "@value": "Underentreprenör"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/cpb-acq",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cpb-acq"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cpb-acq"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cpb-acq"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cpb-acq"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Централен орган за покупки, придобиващ доставки и/или услуги, предназначени за други купувачи"
+      },
+      {
+        "@language": "cs",
+        "@value": "Centrální zadavatel pořizující dodávky a/nebo služby určené pro jiné kupující"
+      },
+      {
+        "@language": "da",
+        "@value": "Indkøbscentral, der rekvirerer vareleverancer og/eller tjenesteydelser for andre købere"
+      },
+      {
+        "@language": "de",
+        "@value": "Zentrale Beschaffungsstelle, die für andere Beschaffer bestimmte Lieferungen und/oder Dienstleistungen erwirbt"
+      },
+      {
+        "@language": "el",
+        "@value": "Κεντρική αρχή προμηθειών η οποία αγοράζει αγαθά και/ή υπηρεσίες που προορίζονται για άλλους αγοραστές"
+      },
+      {
+        "@language": "en",
+        "@value": "Central purchasing body acquiring supplies and/or services intended for other buyers"
+      },
+      {
+        "@language": "es",
+        "@value": "Organismo comprador central que adquiere suministros o servicios destinados a otros compradores"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskne hankija, kes hangib teiste hankijate jaoks ette nähtud asju ja/või teenuseid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muille ostajille tarkoitettuja tavaroita ja/tai palveluja hankkiva yhteishankintayksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Centrale d’achat qui acquiert des fournitures et/ou des services destinés à d’autres acheteurs"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht lárnach ceannaigh a fhaigheann soláthairtí agus/nó seirbhísí ar son ceannaitheoirí eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Središnje tijelo za nabavu koje nabavlja robu i/ili usluge namijenjene drugim kupcima"
+      },
+      {
+        "@language": "hu",
+        "@value": "Más vevőknek szánt árukat és/vagy szolgáltatásokat beszerző központi beszerző szerv"
+      },
+      {
+        "@language": "it",
+        "@value": "Centrale di committenza per l'acquisizione di forniture e/o servizi destinati ad altri committenti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Centrinė perkančioji organizacija, įsigyjanti kitiems pirkėjams skirtas prekes ir (arba) paslaugas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Centralizēto iepirkumu struktūra, kas iegādājas citiem pircējiem paredzētas preces un/vai pakalpojumus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp ċentrali għall-akkwisti li jakkwista provvisti u/jew servizzi maħsuba għal xerrejja oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankoopcentrale die voor andere kopers bestemde goederen en/of diensten koopt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Centralna jednostka zakupująca nabywająca dostawy i/lub usługi przeznaczone dla innych nabywców"
+      },
+      {
+        "@language": "pt",
+        "@value": "Central de compras que adquire fornecimentos e/ou serviços destinados a outros adquirentes"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organism central de achiziție care achiziționează bunuri și/sau servicii destinate altor cumpărători"
+      },
+      {
+        "@language": "sk",
+        "@value": "Centrálna obstarávacia organizácia, ktorá obstaráva dodávky tovaru a/alebo služby určené pre iných kupujúcich"
+      },
+      {
+        "@language": "sl",
+        "@value": "Osrednji nabavni organ, ki nabavlja blago in/ali storitve za druge kupce"
+      },
+      {
+        "@language": "sv",
+        "@value": "Inköpscentral som förvärvar varor och/eller tjänster som är avsedda för andra upphandlare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/info-tax",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "info-tax"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "info-tax"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "info-tax"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "info-tax"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която предоставя информация за общата нормативна уредба за данъците, приложима на мястото, където ще се изпълнява поръчката"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující informace o obecném právním rámci pro daně, který se použije v místě, kde má být zakázka plněna"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår skatter"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden steuerrechtlichen Rahmen bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για τους φόρους το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing information concerning the general regulatory framework for taxes applicable in the place where the contract is to be performed"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona información sobre el marco normativo general por lo que se refiere a la fiscalidad aplicable en el lugar en que deba ejecutarse el contrato"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis annab teavet makse käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista verotusta koskevista yleisistä säännöksistä tietoja antava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de fiscalité, est applicable au lieu où la prestation doit être réalisée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta do na cánacha is infheidhme san áit ina bhfuil an conradh le cur i gcrích"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja pruža informacije o općem regulatornom okviru u vezi s porezima primjenjivom u mjestu u kojem se ugovor treba izvršiti"
+      },
+      {
+        "@language": "hu",
+        "@value": "A szerződés teljesítésének helye szerinti országban alkalmazandó adók általános szabályozási keretével kapcsolatban tájékoztatást nyújtó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di fiscalità nel luogo in cui l'appalto deve essere eseguito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją mokesčių reglamentavimo sistemą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas sniedz informāciju par vispārējo tiesisko regulējumu attiecībā uz nodokļiem, kas piemērojami līguma izpildes vietā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għat-taxxi applikabbli fil-post fejn irid jitwettaq il-kuntratt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake belasting"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie podatków, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece informações sobre o quadro normativo geral em matéria de fiscalidade que vigora no local de realização da prestação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care furnizează informații referitoare la cadrul legislativ general privind impozitarea aplicabil în locul în care urmează să fie executat contractul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre dane uplatňovaného v mieste plnenia zákazky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki daje informacije o splošnem regulativnem okviru glede davkov, ki se uporablja v kraju izvajanja naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tillhandahåller information om det allmänna regelverk för skatter som ska tillämpas på den plats där kontraktet ska genomföras"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/mediator",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "mediator"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "mediator"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "mediator"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "mediator"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Медиаторска организация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace příslušná pro mediační řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation med ansvar for mægling"
+      },
+      {
+        "@language": "de",
+        "@value": "Schlichtungsstelle"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός διαμεσολάβησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Mediation organisation"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización de mediación"
+      },
+      {
+        "@language": "et",
+        "@value": "Vahendusorganisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Välityselin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation chargée des procédures de médiation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht idirghabhála"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija za postupke mirenja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közvetítő szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione di mediazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarpininkavimo organizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Starpniecības jeb mediācijas organizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni tal-medjazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Bemiddelingsorganisatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organ mediacyjny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização de mediação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație de mediere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sprostredkovateľská organizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija za mediacijo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Medlingsorganisation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/ben-own",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ben-own"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ben-own"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ben-own"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ben-own"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Действителен собственик"
+      },
+      {
+        "@language": "cs",
+        "@value": "Skutečný majitel"
+      },
+      {
+        "@language": "da",
+        "@value": "Begunstiget ejer"
+      },
+      {
+        "@language": "de",
+        "@value": "Wirtschaftlicher Eigentümer"
+      },
+      {
+        "@language": "el",
+        "@value": "Πραγματικός δικαιούχος"
+      },
+      {
+        "@language": "en",
+        "@value": "Beneficial owner"
+      },
+      {
+        "@language": "es",
+        "@value": "Propietario beneficiario"
+      },
+      {
+        "@language": "et",
+        "@value": "Tegelik tulusaaja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Taloudellinen omistaja"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bénéficiaire effectif"
+      },
+      {
+        "@language": "ga",
+        "@value": "Úinéir tairbhiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Stvarni vlasnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kedvezményezett"
+      },
+      {
+        "@language": "it",
+        "@value": "Titolare effettivo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tikrasis savininkas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Faktiskais īpašnieks"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sid benefiċjarju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Uiteindelijke begunstigde"
+      },
+      {
+        "@language": "pl",
+        "@value": "Faktyczny właściciel"
+      },
+      {
+        "@language": "pt",
+        "@value": "Beneficiário efetivo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Beneficiar efectiv"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oprávnený vlastník"
+      },
+      {
+        "@language": "sl",
+        "@value": "Dejanski lastnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "Verklig ägare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/buyer",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "buyer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "buyer"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "buyer"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "buyer"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Купувач"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kupující"
+      },
+      {
+        "@language": "da",
+        "@value": "Køber"
+      },
+      {
+        "@language": "de",
+        "@value": "Beschaffer"
+      },
+      {
+        "@language": "el",
+        "@value": "Αγοραστής"
+      },
+      {
+        "@language": "en",
+        "@value": "Buyer"
+      },
+      {
+        "@language": "es",
+        "@value": "Comprador"
+      },
+      {
+        "@language": "et",
+        "@value": "Hankija"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ostaja"
+      },
+      {
+        "@language": "fr",
+        "@value": "Acheteur"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceannaitheoir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kupac"
+      },
+      {
+        "@language": "hu",
+        "@value": "Vevő"
+      },
+      {
+        "@language": "it",
+        "@value": "Committente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirkėjas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pircējs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xerrej"
+      },
+      {
+        "@language": "nl",
+        "@value": "Koper"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nabywca"
+      },
+      {
+        "@language": "pt",
+        "@value": "Adquirente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cumpărător"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kupujúci"
+      },
+      {
+        "@language": "sl",
+        "@value": "Kupec"
+      },
+      {
+        "@language": "sv",
+        "@value": "Upphandlare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/info-emp",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "info-emp"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "info-emp"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "info-emp"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "info-emp"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която предоставя информация за общата нормативна уредба за защитата на заетостта и условията на труд, приложима на мястото, където ще се изпълнява поръчката"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace poskytující informace o obecném právním rámci pro ochranu zaměstnanců a pracovní podmínky, který se použije v místě, kde má být zakázka plněna"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der leverer oplysninger om den generelle lovgivningsramme på det sted, hvor kontrakten skal udføres, hvad angår sikkerhed på arbejdspladsen og arbejdsvilkår"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die Informationen über den allgemeinen, am Ort der Ausführung des Auftrags geltenden Rechtsrahmen für Arbeitsschutz und Arbeitsbedingungen bereitstellt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που παρέχει πληροφορίες σχετικά με το γενικό κανονιστικό πλαίσιο για την προστασία της απασχόλησης και τους όρους εργασίας το οποίο ισχύει στον τόπο εκτέλεσης της σύμβασης"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation providing information concerning the general regulatory framework for employment protection and working conditions applicable in the place where the contract is to be performed"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que proporciona información sobre el marco normativo general en materia de protección de los trabajadores y las condiciones de trabajo aplicable en el lugar en que deba ejecutarse el contrato"
+      },
+      {
+        "@language": "et",
+        "@value": "Organisatsioon, mis annab teavet tööhõivekaitset ja töötingimusi käsitleva üldise õigusliku raamistiku kohta, mida kohaldatakse lepingu täitmise kohas"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sopimuksen suoritus- tai toteuttamispaikassa sovellettavista työsuojelua ja työehtoja koskevista yleisistä säännöksistä tietoja antava organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui fournit des informations sur le cadre réglementaire général qui, en matière de protection du travail et de conditions de travail, est applicable au lieu où la prestation doit être réalisée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht a sholáthraíonn faisnéis faoin gcreat rialála ginearálta don chosaint fostaíochta agus do dhálaí oibre is infheidhme san áit ina bhfuil an conradh le cur i gcrích"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja pruža informacije o općem regulatornom okviru u vezi sa zaštitom radnog mjesta i radnih uvjeta primjenjivom u mjestu u kojem se ugovor treba izvršiti"
+      },
+      {
+        "@language": "hu",
+        "@value": "A szerződés teljesítésének helye szerinti országban alkalmazandó általános munkavédelmi és foglalkoztatási feltételekkel kapcsolatos szabályozási kerettel kapcsolatban tájékoztatást nyújtó szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione presso la quale possono essere richieste informazioni sul quadro normativo generale vigente in materia di tutela dei lavoratori e condizioni di lavoro nel luogo in cui l'appalto deve essere eseguito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, teikianti informaciją apie tos vietos, kurioje bus vykdoma sutartis, bendrąją užimtumo apsaugos ir darbo sąlygų reglamentavimo sistemą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas sniedz informāciju par darba aizsardzības un darba apstākļu vispārējo tiesisko regulējumu, kas piemērojams līguma izpildes vietā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tipprovdi informazzjoni dwar il-qafas regolatorju ġenerali għall-protezzjoni tal-impjiegi u għall-kundizzjonijiet tax-xogħol applikabbli fil-post fejn irid jitwettaq il-kuntratt"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die informatie verstrekt over de voorschriften die op de plaats van de verrichtingen gelden inzake de bescherming van de werknemers en arbeidsvoorwaarden"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca informacji na temat ogólnych ram regulujących kwestie ochrony zatrudnienia i warunków pracy, mających zastosowanie w miejscu, w którym zamówienie ma być realizowane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que fornece informações sobre o quadro normativo geral em matéria de proteção do trabalho e de condições de trabalho aplicável no local em que o contrato vai ser executado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația care furnizează informații referitoare la cadrul legislativ general privind protecția muncii aplicabil în locul în care urmează să fie executat contractul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia poskytujúca informácie týkajúce sa všeobecného regulačného rámca pre ochranu zamestnanosti a pracovné podmienky uplatňovaného v mieste plnenia zákazky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija, ki daje informacije o splošnem regulativnem okviru glede zaščite delovnega mesta in pogojev za delo, ki se uporablja v kraju izvajanja naročila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tillhandahåller information om det allmänna regelverk för anställningsskydd och arbetsvillkor som ska tillämpas på den plats där kontraktet ska genomföras"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/cpb-awa",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cpb-awa"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cpb-awa"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cpb-awa"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cpb-awa"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Централен орган за покупки, възлагащ обществени поръчки или сключващ рамкови споразумения за строителство, доставки или услуги, предназначени за други купувачи"
+      },
+      {
+        "@language": "cs",
+        "@value": "Centrální zadavatel zadávající veřejné zakázky nebo uzavírající rámcové dohody na stavební práce, dodávky nebo služby určené pro jiné kupující"
+      },
+      {
+        "@language": "da",
+        "@value": "Indkøbscentral, der tildeler offentlige kontrakter eller indgår rammeaftaler om bygge- og anlægsarbejder, vareindkøb eller tjenesteydelser for andre købere"
+      },
+      {
+        "@language": "de",
+        "@value": "Zentrale Beschaffungsstelle, die öffentliche Aufträge oder Rahmenvereinbarungen im Zusammenhang mit für andere Beschaffer bestimmten Bauleistungen, Lieferungen oder Dienstleistungen vergibt/abschließt"
+      },
+      {
+        "@language": "el",
+        "@value": "Κεντρική αρχή προμηθειών η οποία αναθέτει δημόσιες συμβάσεις ή συνάπτει συμφωνίες-πλαίσια για έργα, προμήθειες ή υπηρεσίες που προορίζονται για άλλους αγοραστές"
+      },
+      {
+        "@language": "en",
+        "@value": "Central purchasing body awarding public contracts or concluding framework agreements for works, supplies or services intended for other buyers"
+      },
+      {
+        "@language": "es",
+        "@value": "Organismo comprador central que adjudica contratos públicos o celebra acuerdos marco de obras, suministros o servicios destinados a otros compradores"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskne hankija, kes sõlmib teiste hankijate jaoks ette nähtud ehitustööde, asjade või teenuste riigihankelepinguid või raamlepinguid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muille ostajille tarkoitettuja julkisia urakoita sekä tavara- ja palveluhankintoja koskevia sopimuksia tai puitejärjestelyjä tekevä yhteishankintayksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Centrale d’achat qui passe des marchés publics ou conclut des accords-cadres de travaux, de fournitures ou de services destinés à d’autres acheteurs"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht lárnach ceannaigh a dhámhann conarthaí poiblí nó a thugann i gcrích creat-chomhaontuithe maidir le hoibreacha, soláthairtí nó seirbhísí ar son ceannaitheoirí eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Središnje tijelo za nabavu koje dodjeljuje javne ugovore ili sklapa okvirne sporazume za radove, robu ili usluge namijenjene drugim kupcima"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb vevőknek szánt építési beruházásra, árubeszerzésre vagy szolgáltatásra irányuló szerződéseket odaítélő vagy ilyen keretmegállapodásokat kötő központi beszerző szerv"
+      },
+      {
+        "@language": "it",
+        "@value": "Centrale di committenza per l'aggiudicazione di appalti o la conclusione di accordi quadro per lavori, forniture o servizi destinati ad altri committenti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Centrinė perkančioji organizacija, skirianti viešojo pirkimo sutartis arba sudaranti preliminariąsias sutartis dėl kitiems pirkėjams skirtų darbų, prekių ar paslaugų"
+      },
+      {
+        "@language": "lv",
+        "@value": "Centralizēto iepirkumu struktūra, kas piešķir publiskā iepirkuma līgumus vai slēdz pamatnolīgumus par citiem pircējiem paredzētiem būvdarbiem, piegādēm vai pakalpojumiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp ċentrali għall-akkwisti li jagħti l-kuntratti pubbliċi jew li jikkonkludi ftehimiet qafas għal xogħlijiet, provvisti jew servizzi maħsuba għal xerrejja oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aankoopcentrale die overheidsopdrachten gunt of raamovereenkomsten sluit voor werken, leveringen of diensten die voor andere kopers bestemd zijn"
+      },
+      {
+        "@language": "pl",
+        "@value": "Centralna jednostka zakupująca udzielająca zamówień publicznych lub zawierająca umowy ramowe w zakresie robót budowlanych, dostaw lub usług przeznaczonych dla innych nabywców"
+      },
+      {
+        "@language": "pt",
+        "@value": "Central de compras que adjudica contratos públicos ou celebra acordos-quadro para trabalhos de obras, fornecimentos ou serviços destinados a outros adquirentes"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organism central de achiziție care atribuie contracte de achiziții publice sau încheie acorduri-cadru pentru lucrări, bunuri sau servicii destinate altor cumpărători"
+      },
+      {
+        "@language": "sk",
+        "@value": "Centrálna obstarávacia organizácia, ktorá zadáva verejné zákazky alebo uzatvára rámcové dohody na stavebné práce, dodávky tovaru alebo služby určené pre iných kupujúcich"
+      },
+      {
+        "@language": "sl",
+        "@value": "Osrednji nabavni organ, ki oddaja javna naročila ali sklepa okvirne sporazume za gradnje, blago ali storitve za druge kupce"
+      },
+      {
+        "@language": "sv",
+        "@value": "Inköpscentral som tilldelar offentliga kontrakt eller ingår ramavtal om byggentreprenader, varor eller tjänster som är avsedda för andra upphandlare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/winner",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "winner"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "winner"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "winner"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "winner"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Победител"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vítěz"
+      },
+      {
+        "@language": "da",
+        "@value": "Vinder"
+      },
+      {
+        "@language": "de",
+        "@value": "Wettbewerbsgewinner"
+      },
+      {
+        "@language": "el",
+        "@value": "Νικητής"
+      },
+      {
+        "@language": "en",
+        "@value": "Winner"
+      },
+      {
+        "@language": "es",
+        "@value": "Ganador"
+      },
+      {
+        "@language": "et",
+        "@value": "Edukas pakkuja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Voittaja"
+      },
+      {
+        "@language": "fr",
+        "@value": "Lauréat"
+      },
+      {
+        "@language": "ga",
+        "@value": "Buaiteoir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pobjednik natječaja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nyertes"
+      },
+      {
+        "@language": "it",
+        "@value": "Vincitore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laimėtojas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Uzvarētājs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Rebbieħ"
+      },
+      {
+        "@language": "nl",
+        "@value": "Winnaar"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zwycięzca"
+      },
+      {
+        "@language": "pt",
+        "@value": "Vencedor"
+      },
+      {
+        "@language": "ro",
+        "@value": "Câștigător"
+      },
+      {
+        "@language": "sk",
+        "@value": "Víťaz"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zmagovalec"
+      },
+      {
+        "@language": "sv",
+        "@value": "Verklig ägare"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/organisation-role/rev-req",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "rev-req"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "rev-req"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-12-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "rev-req"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "rev-req"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/organisation-role"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация (или лице), искаща преразглеждане (обжалване), която има или е имала интерес по отношение на поръчката и която е понесла или има опасност да понесе щети при предполагаемо нарушение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace (nebo osoba) žádající o přezkum, která má nebo měla na zakázce zájem a které v důsledku domnělého protiprávního jednání vznikla nebo hrozí škoda"
+      },
+      {
+        "@language": "da",
+        "@value": "Klagende organisation (eller person), der har eller har haft interesse i en kontrakt, og som har lidt eller risikerer at lide skade som følge af en påstået overtrædelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Die den Antrag auf Überprüfung stellende Einrichtung (oder Person), die ein Interesse an einem Auftrag hat oder hatte und der durch einen behaupteten Verstoß ein Schaden entstanden ist bzw. zu entstehen droht"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός (ή πρόσωπο) που ασκεί προσφυγή και έχει ή είχε συμφέρον σε μια σύμβαση και που υπέστη ή κινδυνεύει να υποστεί ζημία από κατ’ ισχυρισμόν παράβαση"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation (or person) requesting review that has or has had an interest in a contract and who has been or risks being harmed by an alleged infringement"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización (o persona) que interpone un recurso, que tiene o ha tenido un interés en un contrato y que se ha visto o corre el riesgo de verse perjudicada por una presunta infracción"
+      },
+      {
+        "@language": "et",
+        "@value": "Läbivaatamist taotlev organisatsioon (või isik), kellel on või on olnud huvi lepingu vastu ja kes on väidetava rikkumise tõttu kahju kannatanud või võib kahju kannatada"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muutoksenhakua pyytävä organisaatio (tai henkilö), joka on tai on ollut tavoittelemassa tiettyä sopimusta ja jonka etua väitetty virheellinen menettely on loukannut tai saattaa loukata"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation (ou personne) introduisant une demande de recours qui est ou a été intéressée par un marché et a été ou risque d’être lésée par une violation alléguée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht (nó duine) a iarrann athbhreithniú a bhfuil nó a raibh leas acu i gconradh agus ar ndearnadh díobháil dóibh nó a bhfuil riosca ann go ndéanfaí díobháil dóibh mar gheall ar shárú líomhnaithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija (ili osoba) koja traži pravnu zaštitu (preispitivanje), koja ima ili je imala interes za dobivanje ugovora i koja je pretrpjela ili bi mogla pretrpjeti štetu zbog navodnog kršenja"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jogorvoslatot kérő szervezet (vagy személy), amelynek (akinek) érdeke fűződik vagy fűződött egy szerződéshez, és amelynek (akinek) az állítólagos jogsértés kárt okozhat vagy okozhatott"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione (o persona) che presenta ricorso, che abbia o abbia avuto interesse a ottenere l'aggiudicazione di un appalto e sia stata o rischi di essere lesa a causa di una presunta violazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Peržiūros prašanti organizacija (arba asmuo), turinti ar turėjusi interesą sudaryti sutartį ir dėl įtariamo pažeidimo galėjusi arba galinti patirti žalą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pārskatīšanas pieprasītāja organizācija (vai persona), kura ir vai ir bijusi ieinteresēta kādā līgumā un kurai ir nodarīts vai draud kaitējums aizdomu par pārkāpumu dēļ"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni (jew persuna) li titlob għal rieżami, li jkollha jew kellha interess f’kuntratt, u li ġarrbet jew qed tissogra li ġġarrab danni minħabba ksur allegat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie (of persoon) die beroep instelt en die belang heeft of heeft gehad bij een opdracht en door een beweerde inbreuk is of dreigt te worden geschaad"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja (lub osoba) składająca odwołanie, która ma lub miała interes w uzyskaniu zamówienia i która poniósła szkodę lub może ponieść szkodę w wyniku domniemanego naruszenia"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização (ou pessoa) que interpõe um recurso, que esteja ou tenha estado interessada num contrato e que tenha sido ou possa vir a ser lesada por uma alegada violação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizația (sau persoana) care depune cererea de soluționare a căilor de atac, care are sau a avut un interes în obținerea unui contract și care a fost prejudiciată sau riscă să fie prejudiciată printr-o presupusă încălcare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia (alebo osoba) požadujúca preskúmanie, ktorá má alebo mala záujem o zákazku a ktorá je alebo by mohla byť poškodená údajným porušením právnych predpisov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacija (ali oseba), ki zahteva revizijo in ki ima ali je imela pogodbeni interes ter bi ji domnevna kršitev lahko škodovala"
+      },
+      {
+        "@language": "sv",
+        "@value": "En organisation (eller person) som begär omprövning, har ett intresse i ett avtal och har blivit skadad eller kan skadas av en påstådd överträdelse"
+      }
+    ]
+  }
+]

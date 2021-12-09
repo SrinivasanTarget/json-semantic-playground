@@ -1,0 +1,54 @@
+[
+  {
+    "@id": "http://anpr/PLLRCR",
+    "https://w3id.org/italia/onto/CPV/givenName": [
+      {
+        "@value": "Riccardo"
+      }
+    ],
+    "https://w3id.org/italia/onto/CPV/surname": [
+      {
+        "@value": "Polli"
+      }
+    ]
+  },
+  {
+    "@id": "http://anpr/PLLRRT",
+    "https://w3id.org/italia/onto/CPV/givenName": [
+      {
+        "@value": "Roberto"
+      }
+    ],
+    "https://w3id.org/italia/onto/CPV/hasChildren": [
+      {
+        "@id": "http://anpr/PLLCLL"
+      },
+      {
+        "@id": "http://anpr/PLLRCR"
+      }
+    ],
+    "https://w3id.org/italia/onto/CPV/surname": [
+      {
+        "@value": "Polli"
+      }
+    ],
+    "https://w3id.org/italia/onto/CPV/taxCode": [
+      {
+        "@value": "PLLRRT"
+      }
+    ]
+  },
+  {
+    "@id": "http://anpr/PLLCLL",
+    "https://w3id.org/italia/onto/CPV/familyName": [
+      {
+        "@value": "Polli"
+      }
+    ],
+    "https://w3id.org/italia/onto/CPV/givenName": [
+      {
+        "@value": "Camilla"
+      }
+    ]
+  }
+]

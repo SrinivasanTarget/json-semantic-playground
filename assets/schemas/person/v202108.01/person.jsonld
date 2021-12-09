@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@vocab": "https://w3id.org/italia/onto/CPV/",
+    "tax_code": "taxCode",
+    "given_name": "givenName",
+    "family_name": "familyName",
+    "date_of_birth": "dateOfBirth"
+  },
+  "http://www.w3.org/2002/07/owl#versionIRI": {
+    "@id": "https://w3id.org/italia/schemas/person/202108.01"
+  }
+}

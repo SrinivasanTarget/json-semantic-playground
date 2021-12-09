@@ -1,0 +1,721 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/licence-domain/METADATA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "METADATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "METADATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "METADATA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "METADATA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/licence-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Метаданни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Metadata"
+      },
+      {
+        "@language": "da",
+        "@value": "Metadata"
+      },
+      {
+        "@language": "de",
+        "@value": "Metadaten"
+      },
+      {
+        "@language": "el",
+        "@value": "Μεταδεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Metadata"
+      },
+      {
+        "@language": "es",
+        "@value": "Metadatos"
+      },
+      {
+        "@language": "et",
+        "@value": "Metaandmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Metadata"
+      },
+      {
+        "@language": "fr",
+        "@value": "Métadonnées"
+      },
+      {
+        "@language": "ga",
+        "@value": "Meiteashonraí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Metapodaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Metaadat"
+      },
+      {
+        "@language": "it",
+        "@value": "Metadati"
+      },
+      {
+        "@language": "lt",
+        "@value": "Metaduomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Metadati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Metadata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Metagegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Metadane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Metadados"
+      },
+      {
+        "@language": "ro",
+        "@value": "Metadate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Metaúdaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Metapodatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Metadata"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/licence-domain/DATA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DATA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DATA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DATA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/licence-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Данни"
+      },
+      {
+        "@language": "cs",
+        "@value": "Data"
+      },
+      {
+        "@language": "da",
+        "@value": "Data"
+      },
+      {
+        "@language": "de",
+        "@value": "Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos"
+      },
+      {
+        "@language": "et",
+        "@value": "Andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Data"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Adat"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati"
+      },
+      {
+        "@language": "lt",
+        "@value": "Duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Data"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date"
+      },
+      {
+        "@language": "sk",
+        "@value": "Údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Data"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/licence-domain",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Licence domain"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "licence-domain"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Licence domain"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Licence domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/licence-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/licence-domain/CODE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CODE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CODE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CODE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CODE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/licence-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Код"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kód"
+      },
+      {
+        "@language": "da",
+        "@value": "Kode"
+      },
+      {
+        "@language": "de",
+        "@value": "Code"
+      },
+      {
+        "@language": "el",
+        "@value": "Κωδικός"
+      },
+      {
+        "@language": "en",
+        "@value": "Code"
+      },
+      {
+        "@language": "es",
+        "@value": "Código"
+      },
+      {
+        "@language": "et",
+        "@value": "Kood"
+      },
+      {
+        "@language": "fi",
+        "@value": "Koodi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Code"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cód"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kod"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kód"
+      },
+      {
+        "@language": "it",
+        "@value": "Code"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kodas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kods"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kodiċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Code"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kod"
+      },
+      {
+        "@language": "pt",
+        "@value": "Código"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cod"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kód"
+      },
+      {
+        "@language": "sl",
+        "@value": "Koda"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kod"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "W_LIT_ART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "W_LIT_ART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "W_LIT_ART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "W_LIT_ART"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/licence-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Литературни и/или художествени произведения"
+      },
+      {
+        "@language": "cs",
+        "@value": "Literární a/nebo umělecká díla"
+      },
+      {
+        "@language": "da",
+        "@value": "Litterære værker og/eller kunstværker"
+      },
+      {
+        "@language": "de",
+        "@value": "Literarische und/oder künstlerische Werke"
+      },
+      {
+        "@language": "el",
+        "@value": "Λογοτεχνικά και/ή καλλιτεχνικά έργα"
+      },
+      {
+        "@language": "en",
+        "@value": "Literary and/or artistic works"
+      },
+      {
+        "@language": "es",
+        "@value": "Obras literarias y/o artísticas"
+      },
+      {
+        "@language": "et",
+        "@value": "Kirjandus- ja/või kunstiteosed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kirjalliset ja/tai taiteelliset teokset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Œuvres littéraires et/ou artistiques"
+      },
+      {
+        "@language": "ga",
+        "@value": "Saothair liteartha agus/nó ealaíonta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Književna i/ili umjetnička djela"
+      },
+      {
+        "@language": "hu",
+        "@value": "Irodalmi és/vagy művészeti alkotások"
+      },
+      {
+        "@language": "it",
+        "@value": "Opere letterarie e/o artistiche"
+      },
+      {
+        "@language": "lt",
+        "@value": "Literatūros ir (arba) meno kūriniai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Literāri un/vai mākslas darbi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xogħlijiet letterarji u/jew artistiċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Literaire en/of artistieke werken"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dzieła literackie lub artystyczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Obras literárias e/ou artísticas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Opere literare și/sau artistice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Literárne alebo umelecké diela"
+      },
+      {
+        "@language": "sl",
+        "@value": "Književna in/ali umetniška dela"
+      },
+      {
+        "@language": "sv",
+        "@value": "Litterära och/eller konstnärliga verk"
+      }
+    ]
+  }
+]

@@ -1,0 +1,721 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/requirement-stage",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Requirement stage"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "requirement-stage"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Requirement stage"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Requirement stage"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/requirement-stage/t-requ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "t-requ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "t-requ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-06-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "t-requ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "t-requ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/requirement-stage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изисква се в офертата"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vyžaduje se v nabídce"
+      },
+      {
+        "@language": "da",
+        "@value": "Krav til tilbud"
+      },
+      {
+        "@language": "de",
+        "@value": "Erforderlich für das Angebot"
+      },
+      {
+        "@language": "el",
+        "@value": "Απαίτηση της προσφοράς"
+      },
+      {
+        "@language": "en",
+        "@value": "Tender requirement"
+      },
+      {
+        "@language": "es",
+        "@value": "Requisito en oferta"
+      },
+      {
+        "@language": "et",
+        "@value": "Hanketingimus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vaaditaan tarjouksessa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Exigence dans l’offre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceanglas tairisceana"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obvezno za ponudu"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlatra vonatkozó követelmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Indicazione obbligatoria nell'offerta"
+      },
+      {
+        "@language": "lt",
+        "@value": "Būtina nurodyti pasiūlyme"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iekļaujams piedāvājumā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Rekwiżit tal-offerta"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vereist in inschrijving"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wymagane w ofercie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Requisito na proposta"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cerință referitoare la ofertă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Požiadavka na ponuku"
+      },
+      {
+        "@language": "sl",
+        "@value": "Razpisna zahteva"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ska anges i anbudet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/requirement-stage/not-requ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "not-requ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "not-requ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-06-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "not-requ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "not-requ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/requirement-stage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Не се изисква"
+      },
+      {
+        "@language": "cs",
+        "@value": "Nevyžaduje se"
+      },
+      {
+        "@language": "da",
+        "@value": "Ikke påkrævet"
+      },
+      {
+        "@language": "de",
+        "@value": "Nicht erforderlich"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεν απαιτείται"
+      },
+      {
+        "@language": "en",
+        "@value": "Not required"
+      },
+      {
+        "@language": "es",
+        "@value": "No se requiere"
+      },
+      {
+        "@language": "et",
+        "@value": "Ei ole nõutud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ei tarpeen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Non requises"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ní theastaítear"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nije obvezno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nem kell megadni"
+      },
+      {
+        "@language": "it",
+        "@value": "Indicazione non necessaria"
+      },
+      {
+        "@language": "lt",
+        "@value": "Nebūtina nurodyti"
+      },
+      {
+        "@language": "lv",
+        "@value": "Netiek prasīts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ma hemmx għalfejn tingħata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Niet vereist"
+      },
+      {
+        "@language": "pl",
+        "@value": "Niewymagane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Não é exigida"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nu este obligatorie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nevyžaduje sa"
+      },
+      {
+        "@language": "sl",
+        "@value": "Se ne zahteva"
+      },
+      {
+        "@language": "sv",
+        "@value": "Behöver inte anges"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/requirement-stage/par-requ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "par-requ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "par-requ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-06-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "par-requ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "par-requ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/requirement-stage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изисква се в заявлението за участие"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vyžaduje se v žádosti o účast"
+      },
+      {
+        "@language": "da",
+        "@value": "Krav til ansøgningen om deltagelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Erforderlich für den Teilnahmeantrag"
+      },
+      {
+        "@language": "el",
+        "@value": "Απαίτηση της αίτησης συμμετοχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Request to participate requirement"
+      },
+      {
+        "@language": "es",
+        "@value": "Requisito en solicitud de participación"
+      },
+      {
+        "@language": "et",
+        "@value": "Osalemistaotluse tingimus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vaaditaan osallistumishakemuksessa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Exigence dans le demande de participation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceanglas um iarraidh ar pháirt a ghlacadh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obvezno za zahtjev za sudjelovanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Részvételi jelentkezésre vonatkozó követelmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Indicazione obbligatoria nella domanda di partecipazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Būtina nurodyti dalyvavimo prašyme"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iekļaujams dalības pieteikumā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Rekwiżit tat-talba għall-parteċipazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vereist in verzoek tot deelname"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wymagane we wniosku o dopuszczenie do udziału"
+      },
+      {
+        "@language": "pt",
+        "@value": "Requisito no pedido de participação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cerință referitoare la cererea de participare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Požiadavka na žiadosť o účasť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zahteva za prijavo za sodelovanje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ska anges i ansökan om att få delta"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/requirement-stage/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/requirement-stage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/requirement-stage/nyk",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "nyk"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "nyk"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2020-06-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "nyk"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "nyk"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/requirement-stage"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Все още не е известно"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dosud neznámá"
+      },
+      {
+        "@language": "da",
+        "@value": "Endnu ikke kendt"
+      },
+      {
+        "@language": "de",
+        "@value": "Noch nicht bekannt"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεν έχει ακόμη προσδιοριστεί"
+      },
+      {
+        "@language": "en",
+        "@value": "Not yet known"
+      },
+      {
+        "@language": "es",
+        "@value": "No se sabe aún"
+      },
+      {
+        "@language": "et",
+        "@value": "Ei ole veel teada"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ei vielä tiedossa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Pas encore connues"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ní fios go fóill"
+      },
+      {
+        "@language": "hr",
+        "@value": "Još nije poznato"
+      },
+      {
+        "@language": "hu",
+        "@value": "Még nem ismert"
+      },
+      {
+        "@language": "it",
+        "@value": "Dato non ancora noto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dar nežinoma"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vēl nav zināms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Għadha mhijiex magħrufa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Nog niet bekend"
+      },
+      {
+        "@language": "pl",
+        "@value": "Jeszcze nie wiadomo"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ainda não é conhecida"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nu se cunoaște încă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zatiaľ nie je známa"
+      },
+      {
+        "@language": "sl",
+        "@value": "Še ni znano"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ännu ej fastställt"
+      }
+    ]
+  }
+]

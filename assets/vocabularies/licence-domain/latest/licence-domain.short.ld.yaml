@@ -1,0 +1,55 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CODE
+  deprecated: 'false'
+  key: CODE
+  label_en: Code
+  label_it: Code
+  url: http://publications.europa.eu/resource/authority/licence-domain/CODE
+  valid_from: '1952-07-23'
+- country_code: DATA
+  deprecated: 'false'
+  key: DATA
+  label_en: Data
+  label_it: Dati
+  url: http://publications.europa.eu/resource/authority/licence-domain/DATA
+  valid_from: '1952-07-23'
+- country_code: METADATA
+  deprecated: 'false'
+  key: METADATA
+  label_en: Metadata
+  label_it: Metadati
+  url: http://publications.europa.eu/resource/authority/licence-domain/METADATA
+  valid_from: '1952-07-23'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO
+- country_code: W_LIT_ART
+  deprecated: 'false'
+  key: W_LIT_ART
+  label_en: Literary and/or artistic works
+  label_it: Opere letterarie e/o artistiche
+  url: http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART
+  valid_from: '1952-07-23'

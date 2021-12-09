@@ -1,0 +1,582 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EU budget amount status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "eu-budget-amount-status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "EU budget amount status"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "EU budget amount status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status/ADOPTED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ADOPTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ADOPTED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ADOPTED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ADOPTED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Приет"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přijatý"
+      },
+      {
+        "@language": "da",
+        "@value": "Vedtaget"
+      },
+      {
+        "@language": "de",
+        "@value": "Angenommen"
+      },
+      {
+        "@language": "el",
+        "@value": "Εγκρίθηκε"
+      },
+      {
+        "@language": "en",
+        "@value": "Adopted"
+      },
+      {
+        "@language": "es",
+        "@value": "Adoptado"
+      },
+      {
+        "@language": "et",
+        "@value": "Vastu võetud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hyväksytty"
+      },
+      {
+        "@language": "fr",
+        "@value": "Adopté"
+      },
+      {
+        "@language": "ga",
+        "@value": "Glactha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Doneseno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elfogadva"
+      },
+      {
+        "@language": "it",
+        "@value": "Adottato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Priimta"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pieņemts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Adottat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vastgesteld"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyjęty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Adotado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Adoptat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prijatý"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sprejeto"
+      },
+      {
+        "@language": "sv",
+        "@value": "Antagen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status/AMENDED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AMENDED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AMENDED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AMENDED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AMENDED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изменен"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pozměněný"
+      },
+      {
+        "@language": "da",
+        "@value": "Ændret"
+      },
+      {
+        "@language": "de",
+        "@value": "Geändert"
+      },
+      {
+        "@language": "el",
+        "@value": "Τροποποιήθηκε"
+      },
+      {
+        "@language": "en",
+        "@value": "Amended"
+      },
+      {
+        "@language": "es",
+        "@value": "Modificado"
+      },
+      {
+        "@language": "et",
+        "@value": "Muudetud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lisätalousarvio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Modifié"
+      },
+      {
+        "@language": "ga",
+        "@value": "Leasaithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izmijenjeno"
+      },
+      {
+        "@language": "hu",
+        "@value": "Módosítva"
+      },
+      {
+        "@language": "it",
+        "@value": "Modificato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Iš dalies pakeista"
+      },
+      {
+        "@language": "lv",
+        "@value": "Grozīts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Emendat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gewijzigd"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zmieniony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Alterado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Modificat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zmenený"
+      },
+      {
+        "@language": "sl",
+        "@value": "Spremenjeno"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ändrad"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status/OUTTURN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OUTTURN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OUTTURN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OUTTURN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OUTTURN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/eu-budget-amount-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Резултат от изпълнението на бюджета"
+      },
+      {
+        "@language": "cs",
+        "@value": "Plnění"
+      },
+      {
+        "@language": "da",
+        "@value": "Resultat"
+      },
+      {
+        "@language": "de",
+        "@value": "Ausführung"
+      },
+      {
+        "@language": "el",
+        "@value": "Εκτέλεση"
+      },
+      {
+        "@language": "en",
+        "@value": "Outturn"
+      },
+      {
+        "@language": "es",
+        "@value": "Ejecución"
+      },
+      {
+        "@language": "et",
+        "@value": "Täitmine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Toteutuma"
+      },
+      {
+        "@language": "fr",
+        "@value": "Exécution"
+      },
+      {
+        "@language": "ga",
+        "@value": "Olltoradh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Realizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tény"
+      },
+      {
+        "@language": "it",
+        "@value": "Esecuzione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Biudžeto rezultatas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Budžeta izpildes rezultāts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Eżitu"
+      },
+      {
+        "@language": "nl",
+        "@value": "Uitvoering"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wynik budżetu"
+      },
+      {
+        "@language": "pt",
+        "@value": "Execução"
+      },
+      {
+        "@language": "ro",
+        "@value": "Execuție"
+      },
+      {
+        "@language": "sk",
+        "@value": "Výsledok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Realizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Genomförande"
+      }
+    ]
+  }
+]

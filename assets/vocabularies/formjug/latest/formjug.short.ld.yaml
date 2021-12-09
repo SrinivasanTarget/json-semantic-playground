@@ -1,0 +1,370 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CHAMB_01_C
+  deprecated: 'false'
+  key: CHAMB_01_C
+  label_en: First Chamber
+  label_it: Prima Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_01_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_01_F
+  deprecated: 'false'
+  key: CHAMB_01_F
+  label_en: First Chamber
+  label_it: Prima Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_01_F
+  valid_from: '2004-11-02'
+- country_code: CHAMB_01_T
+  deprecated: 'false'
+  key: CHAMB_01_T
+  label_en: First Chamber
+  label_it: Prima Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_01_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_02_C
+  deprecated: 'false'
+  key: CHAMB_02_C
+  label_en: Second Chamber
+  label_it: Seconda Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_02_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_02_F
+  deprecated: 'false'
+  key: CHAMB_02_F
+  label_en: Second Chamber
+  label_it: Seconda Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_02_F
+  valid_from: '2004-11-02'
+- country_code: CHAMB_02_T
+  deprecated: 'false'
+  key: CHAMB_02_T
+  label_en: Second Chamber
+  label_it: Seconda Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_02_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_03_C
+  deprecated: 'false'
+  key: CHAMB_03_C
+  label_en: Third Chamber
+  label_it: Terza Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_03_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_03_F
+  deprecated: 'false'
+  key: CHAMB_03_F
+  label_en: Third Chamber
+  label_it: Terza Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_03_F
+  valid_from: '2004-11-02'
+- country_code: CHAMB_03_T
+  deprecated: 'false'
+  key: CHAMB_03_T
+  label_en: Third Chamber
+  label_it: Terza Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_03_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_04_C
+  deprecated: 'false'
+  key: CHAMB_04_C
+  label_en: Fourth Chamber
+  label_it: Quarta Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_04_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_04_T
+  deprecated: 'false'
+  key: CHAMB_04_T
+  label_en: Fourth Chamber
+  label_it: Quarta Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_04_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_05_C
+  deprecated: 'false'
+  key: CHAMB_05_C
+  label_en: Fifth Chamber
+  label_it: Quinta Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_05_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_05_T
+  deprecated: 'false'
+  key: CHAMB_05_T
+  label_en: Fifth Chamber
+  label_it: Quinta Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_05_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_06_C
+  deprecated: 'false'
+  key: CHAMB_06_C
+  label_en: Sixth Chamber
+  label_it: Sesta Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_06_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_06_T
+  deprecated: 'false'
+  key: CHAMB_06_T
+  label_en: Sixth Chamber
+  label_it: Sesta Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_06_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_07_C
+  deprecated: 'false'
+  key: CHAMB_07_C
+  label_en: Seventh Chamber
+  label_it: Settima Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_07_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_07_T
+  deprecated: 'false'
+  key: CHAMB_07_T
+  label_en: Seventh Chamber
+  label_it: Settima Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_07_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_08_C
+  deprecated: 'false'
+  key: CHAMB_08_C
+  label_en: Eighth Chamber
+  label_it: Ottava Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_08_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_08_T
+  deprecated: 'false'
+  key: CHAMB_08_T
+  label_en: Eighth Chamber
+  label_it: Ottava Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_08_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_09_C
+  deprecated: 'false'
+  key: CHAMB_09_C
+  label_en: Ninth Chamber
+  label_it: Nona Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_09_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_10_C
+  deprecated: 'false'
+  key: CHAMB_10_C
+  label_en: Tenth Chamber
+  label_it: Decima Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_10_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_APPEAL_T
+  deprecated: 'false'
+  key: CHAMB_APPEAL_T
+  label_en: Appeals Chamber
+  label_it: Sezione delle impugnazioni
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_APPEAL_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_01_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_01_T
+  label_en: First Chamber, Extended Composition
+  label_it: Prima Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_01_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_02_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_02_T
+  label_en: Second Chamber, Extended Composition
+  label_it: Seconda Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_02_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_03_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_03_T
+  label_en: Third Chamber, Extended Composition
+  label_it: Terza Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_03_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_04_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_04_T
+  label_en: Fourth Chamber, Extended Composition
+  label_it: Quarta Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_04_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_05_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_05_T
+  label_en: Fifth Chamber, Extended Composition
+  label_it: Quinta Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_05_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_06_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_06_T
+  label_en: Sixth Chamber, Extended Composition
+  label_it: Sesta Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_06_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_07_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_07_T
+  label_en: Seventh Chamber, Extended Composition
+  label_it: Settima Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_07_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_08_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_08_T
+  label_en: Eighth Chamber, Extended Composition
+  label_it: Ottava Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_08_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_EXTD_09_T
+  deprecated: 'false'
+  key: CHAMB_EXTD_09_T
+  label_en: Ninth Chamber, Extended Composition
+  label_it: Nona Sezione ampliata
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_EXTD_09_T
+  valid_from: '2013-09-16'
+- country_code: CHAMB_GD_C
+  deprecated: 'false'
+  key: CHAMB_GD_C
+  label_en: Grand Chamber
+  label_it: Grande Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_C
+  valid_from: '1952-07-24'
+- country_code: CHAMB_GD_T
+  deprecated: 'false'
+  key: CHAMB_GD_T
+  label_en: Grand Chamber
+  label_it: Grande Sezione
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_GD_T
+  valid_from: '1988-01-01'
+- country_code: CHAMB_REVIEW_C
+  deprecated: 'false'
+  key: CHAMB_REVIEW_C
+  label_en: Special Chamber (review)
+  label_it: Sezione speciale (riesame)
+  url: http://publications.europa.eu/resource/authority/formjug/CHAMB_REVIEW_C
+  valid_from: '1952-07-24'
+- country_code: FULL_COURT_C
+  deprecated: 'false'
+  key: FULL_COURT_C
+  label_en: Full Court
+  label_it: Plenum
+  url: http://publications.europa.eu/resource/authority/formjug/FULL_COURT_C
+  valid_from: '2003-08-01'
+- country_code: FULL_COURT_F
+  deprecated: 'false'
+  key: FULL_COURT_F
+  label_en: Full Court
+  label_it: Seduta plenaria
+  url: http://publications.europa.eu/resource/authority/formjug/FULL_COURT_F
+  valid_from: '2004-11-02'
+- country_code: FULL_COURT_T
+  deprecated: 'false'
+  key: FULL_COURT_T
+  label_en: Full Court
+  label_it: Plenum
+  url: http://publications.europa.eu/resource/authority/formjug/FULL_COURT_T
+  valid_from: '1988-01-01'
+- country_code: JUDGE_HEAR
+  deprecated: 'false'
+  key: JUDGE_HEAR
+  label_en: Judge hearing applications for interim measures
+  label_it: Giudice dei procedimenti sommari
+  url: http://publications.europa.eu/resource/authority/formjug/JUDGE_HEAR
+  valid_from: '1952-07-24'
+- country_code: JUDGE_SINGL
+  deprecated: 'false'
+  key: JUDGE_SINGL
+  label_en: Single Judge
+  label_it: Giudice unico
+  url: http://publications.europa.eu/resource/authority/formjug/JUDGE_SINGL
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/formjug/OP_DATPRO
+- country_code: PLEN_SMALL_05_02_C
+  deprecated: 'false'
+  key: PLEN_SMALL_05_02_C
+  label_en: Small plenary V+II
+  label_it: Piccolo plenum V+II
+  url: http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_02_C
+  valid_from: '1952-07-24'
+- country_code: PLEN_SMALL_05_04_C
+  deprecated: 'false'
+  key: PLEN_SMALL_05_04_C
+  label_en: Small plenary V+IV
+  label_it: Piccolo plenum V+IV
+  url: http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_05_04_C
+  valid_from: '1952-07-24'
+- country_code: PLEN_SMALL_06_01_C
+  deprecated: 'false'
+  key: PLEN_SMALL_06_01_C
+  label_en: Small plenary VI+I
+  label_it: Piccolo plenum VI+I
+  url: http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_01_C
+  valid_from: '1952-07-24'
+- country_code: PLEN_SMALL_06_03_C
+  deprecated: 'false'
+  key: PLEN_SMALL_06_03_C
+  label_en: Small plenary VI+III
+  label_it: Piccolo plenum VI+III
+  url: http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_06_03_C
+  valid_from: '1952-07-24'
+- country_code: PLEN_SMALL_C
+  deprecated: 'false'
+  key: PLEN_SMALL_C
+  label_en: Small plenary
+  label_it: Piccolo plenum
+  url: http://publications.europa.eu/resource/authority/formjug/PLEN_SMALL_C
+  valid_from: '1952-07-24'
+- country_code: PRESID_C
+  deprecated: 'false'
+  key: PRESID_C
+  label_en: President of the Chamber
+  label_it: Presidente di sezione
+  url: http://publications.europa.eu/resource/authority/formjug/PRESID_C
+  valid_from: '1952-07-24'
+- country_code: PRESID_F
+  deprecated: 'false'
+  key: PRESID_F
+  label_en: President of the Chamber
+  label_it: Presidente di sezione
+  url: http://publications.europa.eu/resource/authority/formjug/PRESID_F
+  valid_from: '2004-11-02'
+- country_code: PRESID_T
+  deprecated: 'false'
+  key: PRESID_T
+  label_en: President of the Chamber
+  label_it: Presidente di sezione
+  url: http://publications.europa.eu/resource/authority/formjug/PRESID_T
+  valid_from: '1988-01-01'
+- country_code: PRESID_VICE_C
+  deprecated: 'false'
+  key: PRESID_VICE_C
+  label_en: Vice-President
+  label_it: Vicepresidente
+  url: http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_C
+  valid_from: '1952-07-24'
+- country_code: PRESID_VICE_T
+  deprecated: 'false'
+  key: PRESID_VICE_T
+  label_en: Vice-President
+  label_it: Vicepresidente
+  url: http://publications.europa.eu/resource/authority/formjug/PRESID_VICE_T
+  valid_from: '1988-01-01'

@@ -1,0 +1,2022 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: '010'
+  deprecated: 'false'
+  key: '010'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/010
+- country_code: '020'
+  deprecated: 'false'
+  key: '020'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/020
+- country_code: '030'
+  deprecated: 'false'
+  key: '030'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/030
+- country_code: '040'
+  deprecated: 'false'
+  key: '040'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/040
+- country_code: '050'
+  deprecated: 'false'
+  key: '050'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/050
+- country_code: '060'
+  deprecated: 'false'
+  key: '060'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/060
+- country_code: '070'
+  deprecated: 'false'
+  key: '070'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/070
+- country_code: 080
+  deprecated: 'false'
+  key: 080
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/080
+- country_code: 090
+  deprecated: 'false'
+  key: 090
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/090
+- country_code: '100'
+  deprecated: 'false'
+  key: '100'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/100
+- country_code: '110'
+  deprecated: 'false'
+  key: '110'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/110
+- country_code: '120'
+  deprecated: 'false'
+  key: '120'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/120
+- country_code: '130'
+  deprecated: 'false'
+  key: '130'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/130
+- country_code: '140'
+  deprecated: 'false'
+  key: '140'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/140
+- country_code: '150'
+  deprecated: 'false'
+  key: '150'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/150
+- country_code: '160'
+  deprecated: 'false'
+  key: '160'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/160
+- country_code: '170'
+  deprecated: 'false'
+  key: '170'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/170
+- country_code: '180'
+  deprecated: 'false'
+  key: '180'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/180
+- country_code: '190'
+  deprecated: 'false'
+  key: '190'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/190
+- country_code: 1A0
+  deprecated: 'false'
+  key: 1A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1A0
+- country_code: 1B0
+  deprecated: 'false'
+  key: 1B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1B0
+- country_code: 1C0
+  deprecated: 'false'
+  key: 1C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1C0
+- country_code: 1D0
+  deprecated: 'false'
+  key: 1D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1D0
+- country_code: 1E0
+  deprecated: 'false'
+  key: 1E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1E0
+- country_code: 1F0
+  deprecated: 'false'
+  key: 1F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1F0
+- country_code: 1G0
+  deprecated: 'false'
+  key: 1G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1G0
+- country_code: 1H0
+  deprecated: 'false'
+  key: 1H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1H0
+- country_code: 1J0
+  deprecated: 'false'
+  key: 1J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1J0
+- country_code: 1K0
+  deprecated: 'false'
+  key: 1K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1K0
+- country_code: 1L0
+  deprecated: 'false'
+  key: 1L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1L0
+- country_code: 1M0
+  deprecated: 'false'
+  key: 1M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1M0
+- country_code: 1N0
+  deprecated: 'false'
+  key: 1N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1N0
+- country_code: 1P0
+  deprecated: 'false'
+  key: 1P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1P0
+- country_code: 1Q0
+  deprecated: 'false'
+  key: 1Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1Q0
+- country_code: 1R0
+  deprecated: 'false'
+  key: 1R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1R0
+- country_code: 1S0
+  deprecated: 'false'
+  key: 1S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1S0
+- country_code: 1T0
+  deprecated: 'false'
+  key: 1T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1T0
+- country_code: 1U0
+  deprecated: 'false'
+  key: 1U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1U0
+- country_code: 1V0
+  deprecated: 'false'
+  key: 1V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1V0
+- country_code: 1W0
+  deprecated: 'false'
+  key: 1W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1W0
+- country_code: 1X0
+  deprecated: 'false'
+  key: 1X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1X0
+- country_code: 1Y0
+  deprecated: 'false'
+  key: 1Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1Y0
+- country_code: 1Z0
+  deprecated: 'false'
+  key: 1Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/1Z0
+- country_code: '200'
+  deprecated: 'false'
+  key: '200'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/200
+- country_code: '210'
+  deprecated: 'false'
+  key: '210'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/210
+- country_code: '220'
+  deprecated: 'false'
+  key: '220'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/220
+- country_code: '230'
+  deprecated: 'false'
+  key: '230'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/230
+- country_code: '240'
+  deprecated: 'false'
+  key: '240'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/240
+- country_code: '250'
+  deprecated: 'false'
+  key: '250'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/250
+- country_code: '260'
+  deprecated: 'false'
+  key: '260'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/260
+- country_code: '270'
+  deprecated: 'false'
+  key: '270'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/270
+- country_code: '280'
+  deprecated: 'false'
+  key: '280'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/280
+- country_code: '290'
+  deprecated: 'false'
+  key: '290'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/290
+- country_code: 2A0
+  deprecated: 'false'
+  key: 2A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2A0
+- country_code: 2B0
+  deprecated: 'false'
+  key: 2B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2B0
+- country_code: 2C0
+  deprecated: 'false'
+  key: 2C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2C0
+- country_code: 2D0
+  deprecated: 'false'
+  key: 2D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2D0
+- country_code: 2E0
+  deprecated: 'false'
+  key: 2E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2E0
+- country_code: 2F0
+  deprecated: 'false'
+  key: 2F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2F0
+- country_code: 2G0
+  deprecated: 'false'
+  key: 2G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2G0
+- country_code: 2H0
+  deprecated: 'false'
+  key: 2H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2H0
+- country_code: 2I0
+  deprecated: 'false'
+  key: 2I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2I0
+- country_code: 2J0
+  deprecated: 'false'
+  key: 2J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2J0
+- country_code: 2K0
+  deprecated: 'false'
+  key: 2K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2K0
+- country_code: 2L0
+  deprecated: 'false'
+  key: 2L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2L0
+- country_code: 2M0
+  deprecated: 'false'
+  key: 2M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2M0
+- country_code: 2N0
+  deprecated: 'false'
+  key: 2N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2N0
+- country_code: 2P0
+  deprecated: 'false'
+  key: 2P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2P0
+- country_code: 2Q0
+  deprecated: 'false'
+  key: 2Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2Q0
+- country_code: 2R0
+  deprecated: 'false'
+  key: 2R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2R0
+- country_code: 2S0
+  deprecated: 'false'
+  key: 2S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2S0
+- country_code: 2T0
+  deprecated: 'false'
+  key: 2T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2T0
+- country_code: 2U0
+  deprecated: 'false'
+  key: 2U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2U0
+- country_code: 2V0
+  deprecated: 'false'
+  key: 2V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2V0
+- country_code: 2W0
+  deprecated: 'false'
+  key: 2W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2W0
+- country_code: 2X0
+  deprecated: 'false'
+  key: 2X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2X0
+- country_code: 2Y0
+  deprecated: 'false'
+  key: 2Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2Y0
+- country_code: 2Z0
+  deprecated: 'false'
+  key: 2Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/2Z0
+- country_code: '300'
+  deprecated: 'false'
+  key: '300'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/300
+- country_code: '310'
+  deprecated: 'false'
+  key: '310'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/310
+- country_code: '320'
+  deprecated: 'false'
+  key: '320'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/320
+- country_code: '330'
+  deprecated: 'false'
+  key: '330'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/330
+- country_code: '340'
+  deprecated: 'false'
+  key: '340'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/340
+- country_code: '350'
+  deprecated: 'false'
+  key: '350'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/350
+- country_code: '360'
+  deprecated: 'false'
+  key: '360'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/360
+- country_code: '370'
+  deprecated: 'false'
+  key: '370'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/370
+- country_code: '380'
+  deprecated: 'false'
+  key: '380'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/380
+- country_code: '390'
+  deprecated: 'false'
+  key: '390'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/390
+- country_code: 3A0
+  deprecated: 'false'
+  key: 3A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3A0
+- country_code: 3B0
+  deprecated: 'false'
+  key: 3B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3B0
+- country_code: 3C0
+  deprecated: 'false'
+  key: 3C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3C0
+- country_code: 3D0
+  deprecated: 'false'
+  key: 3D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3D0
+- country_code: 3E0
+  deprecated: 'false'
+  key: 3E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3E0
+- country_code: 3F0
+  deprecated: 'false'
+  key: 3F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3F0
+- country_code: 3G0
+  deprecated: 'false'
+  key: 3G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3G0
+- country_code: 3H0
+  deprecated: 'false'
+  key: 3H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3H0
+- country_code: 3I0
+  deprecated: 'false'
+  key: 3I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3I0
+- country_code: 3J0
+  deprecated: 'false'
+  key: 3J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3J0
+- country_code: 3K0
+  deprecated: 'false'
+  key: 3K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3K0
+- country_code: 3L0
+  deprecated: 'false'
+  key: 3L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3L0
+- country_code: 3M0
+  deprecated: 'false'
+  key: 3M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3M0
+- country_code: 3N0
+  deprecated: 'false'
+  key: 3N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3N0
+- country_code: 3P0
+  deprecated: 'false'
+  key: 3P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3P0
+- country_code: 3Q0
+  deprecated: 'false'
+  key: 3Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3Q0
+- country_code: 3R0
+  deprecated: 'false'
+  key: 3R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3R0
+- country_code: 3S0
+  deprecated: 'false'
+  key: 3S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3S0
+- country_code: 3T0
+  deprecated: 'false'
+  key: 3T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3T0
+- country_code: 3U0
+  deprecated: 'false'
+  key: 3U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3U0
+- country_code: 3V0
+  deprecated: 'false'
+  key: 3V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3V0
+- country_code: 3W0
+  deprecated: 'false'
+  key: 3W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3W0
+- country_code: 3X0
+  deprecated: 'false'
+  key: 3X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3X0
+- country_code: 3Y0
+  deprecated: 'false'
+  key: 3Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3Y0
+- country_code: 3Z0
+  deprecated: 'false'
+  key: 3Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/3Z0
+- country_code: '400'
+  deprecated: 'false'
+  key: '400'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/400
+- country_code: '410'
+  deprecated: 'false'
+  key: '410'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/410
+- country_code: '420'
+  deprecated: 'false'
+  key: '420'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/420
+- country_code: '430'
+  deprecated: 'false'
+  key: '430'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/430
+- country_code: '440'
+  deprecated: 'false'
+  key: '440'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/440
+- country_code: '450'
+  deprecated: 'false'
+  key: '450'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/450
+- country_code: '460'
+  deprecated: 'false'
+  key: '460'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/460
+- country_code: '470'
+  deprecated: 'false'
+  key: '470'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/470
+- country_code: '480'
+  deprecated: 'false'
+  key: '480'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/480
+- country_code: '490'
+  deprecated: 'false'
+  key: '490'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/490
+- country_code: 4A0
+  deprecated: 'false'
+  key: 4A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4A0
+- country_code: 4B0
+  deprecated: 'false'
+  key: 4B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4B0
+- country_code: 4C0
+  deprecated: 'false'
+  key: 4C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4C0
+- country_code: 4D0
+  deprecated: 'false'
+  key: 4D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4D0
+- country_code: 4E0
+  deprecated: 'false'
+  key: 4E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4E0
+- country_code: 4F0
+  deprecated: 'false'
+  key: 4F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4F0
+- country_code: 4G0
+  deprecated: 'false'
+  key: 4G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4G0
+- country_code: 4H0
+  deprecated: 'false'
+  key: 4H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4H0
+- country_code: 4I0
+  deprecated: 'false'
+  key: 4I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4I0
+- country_code: 4J0
+  deprecated: 'false'
+  key: 4J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4J0
+- country_code: 4K0
+  deprecated: 'false'
+  key: 4K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4K0
+- country_code: 4L0
+  deprecated: 'false'
+  key: 4L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4L0
+- country_code: 4M0
+  deprecated: 'false'
+  key: 4M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4M0
+- country_code: 4N0
+  deprecated: 'true'
+  key: 4N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4N0
+- country_code: 4P0
+  deprecated: 'false'
+  key: 4P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4P0
+- country_code: 4Q0
+  deprecated: 'false'
+  key: 4Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4Q0
+- country_code: 4R0
+  deprecated: 'false'
+  key: 4R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4R0
+- country_code: 4S0
+  deprecated: 'false'
+  key: 4S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4S0
+- country_code: 4T0
+  deprecated: 'false'
+  key: 4T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4T0
+- country_code: 4U0
+  deprecated: 'false'
+  key: 4U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4U0
+- country_code: 4V0
+  deprecated: 'false'
+  key: 4V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4V0
+- country_code: 4W0
+  deprecated: 'false'
+  key: 4W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4W0
+- country_code: 4X0
+  deprecated: 'false'
+  key: 4X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4X0
+- country_code: 4Y0
+  deprecated: 'false'
+  key: 4Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4Y0
+- country_code: 4Z0
+  deprecated: 'false'
+  key: 4Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/4Z0
+- country_code: '500'
+  deprecated: 'false'
+  key: '500'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/500
+- country_code: '510'
+  deprecated: 'false'
+  key: '510'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/510
+- country_code: '520'
+  deprecated: 'false'
+  key: '520'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/520
+- country_code: '530'
+  deprecated: 'false'
+  key: '530'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/530
+- country_code: '540'
+  deprecated: 'false'
+  key: '540'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/540
+- country_code: '550'
+  deprecated: 'false'
+  key: '550'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/550
+- country_code: '560'
+  deprecated: 'false'
+  key: '560'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/560
+- country_code: '570'
+  deprecated: 'false'
+  key: '570'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/570
+- country_code: '580'
+  deprecated: 'false'
+  key: '580'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/580
+- country_code: '590'
+  deprecated: 'false'
+  key: '590'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/590
+- country_code: 5A0
+  deprecated: 'false'
+  key: 5A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5A0
+- country_code: 5B0
+  deprecated: 'false'
+  key: 5B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5B0
+- country_code: 5C0
+  deprecated: 'false'
+  key: 5C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5C0
+- country_code: 5D0
+  deprecated: 'false'
+  key: 5D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5D0
+- country_code: 5E0
+  deprecated: 'false'
+  key: 5E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5E0
+- country_code: 5F0
+  deprecated: 'false'
+  key: 5F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5F0
+- country_code: 5G0
+  deprecated: 'false'
+  key: 5G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5G0
+- country_code: 5H0
+  deprecated: 'false'
+  key: 5H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5H0
+- country_code: 5I0
+  deprecated: 'false'
+  key: 5I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5I0
+- country_code: 5J0
+  deprecated: 'false'
+  key: 5J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5J0
+- country_code: 5K0
+  deprecated: 'false'
+  key: 5K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5K0
+- country_code: 5L0
+  deprecated: 'false'
+  key: 5L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5L0
+- country_code: 5M0
+  deprecated: 'false'
+  key: 5M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5M0
+- country_code: 5N0
+  deprecated: 'false'
+  key: 5N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5N0
+- country_code: 5P0
+  deprecated: 'false'
+  key: 5P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5P0
+- country_code: 5Q0
+  deprecated: 'false'
+  key: 5Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5Q0
+- country_code: 5R0
+  deprecated: 'false'
+  key: 5R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5R0
+- country_code: 5S0
+  deprecated: 'false'
+  key: 5S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5S0
+- country_code: 5T0
+  deprecated: 'false'
+  key: 5T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5T0
+- country_code: 5U0
+  deprecated: 'false'
+  key: 5U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5U0
+- country_code: 5V0
+  deprecated: 'false'
+  key: 5V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5V0
+- country_code: 5W0
+  deprecated: 'false'
+  key: 5W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5W0
+- country_code: 5X0
+  deprecated: 'false'
+  key: 5X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5X0
+- country_code: 5Y0
+  deprecated: 'false'
+  key: 5Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5Y0
+- country_code: 5Z0
+  deprecated: 'false'
+  key: 5Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/5Z0
+- country_code: '600'
+  deprecated: 'false'
+  key: '600'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/600
+- country_code: '610'
+  deprecated: 'false'
+  key: '610'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/610
+- country_code: '620'
+  deprecated: 'false'
+  key: '620'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/620
+- country_code: '630'
+  deprecated: 'false'
+  key: '630'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/630
+- country_code: '640'
+  deprecated: 'false'
+  key: '640'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/640
+- country_code: '650'
+  deprecated: 'false'
+  key: '650'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/650
+- country_code: '660'
+  deprecated: 'false'
+  key: '660'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/660
+- country_code: '670'
+  deprecated: 'false'
+  key: '670'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/670
+- country_code: '680'
+  deprecated: 'false'
+  key: '680'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/680
+- country_code: '690'
+  deprecated: 'false'
+  key: '690'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/690
+- country_code: 6A0
+  deprecated: 'false'
+  key: 6A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6A0
+- country_code: 6B0
+  deprecated: 'false'
+  key: 6B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6B0
+- country_code: 6C0
+  deprecated: 'false'
+  key: 6C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6C0
+- country_code: 6D0
+  deprecated: 'false'
+  key: 6D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6D0
+- country_code: 6E0
+  deprecated: 'false'
+  key: 6E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6E0
+- country_code: 6F0
+  deprecated: 'false'
+  key: 6F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6F0
+- country_code: 6G0
+  deprecated: 'false'
+  key: 6G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6G0
+- country_code: 6H0
+  deprecated: 'false'
+  key: 6H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6H0
+- country_code: 6I0
+  deprecated: 'false'
+  key: 6I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6I0
+- country_code: 6J0
+  deprecated: 'false'
+  key: 6J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6J0
+- country_code: 6K0
+  deprecated: 'false'
+  key: 6K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6K0
+- country_code: 6L0
+  deprecated: 'false'
+  key: 6L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6L0
+- country_code: 6M0
+  deprecated: 'false'
+  key: 6M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6M0
+- country_code: 6N0
+  deprecated: 'false'
+  key: 6N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6N0
+- country_code: 6P0
+  deprecated: 'false'
+  key: 6P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6P0
+- country_code: 6Q0
+  deprecated: 'false'
+  key: 6Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6Q0
+- country_code: 6R0
+  deprecated: 'false'
+  key: 6R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6R0
+- country_code: 6S0
+  deprecated: 'false'
+  key: 6S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6S0
+- country_code: 6T0
+  deprecated: 'false'
+  key: 6T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6T0
+- country_code: 6U0
+  deprecated: 'false'
+  key: 6U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6U0
+- country_code: 6V0
+  deprecated: 'false'
+  key: 6V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6V0
+- country_code: 6W0
+  deprecated: 'false'
+  key: 6W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6W0
+- country_code: 6X0
+  deprecated: 'false'
+  key: 6X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6X0
+- country_code: 6Y0
+  deprecated: 'false'
+  key: 6Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6Y0
+- country_code: 6Z0
+  deprecated: 'false'
+  key: 6Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/6Z0
+- country_code: '700'
+  deprecated: 'false'
+  key: '700'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/700
+- country_code: '710'
+  deprecated: 'false'
+  key: '710'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/710
+- country_code: '720'
+  deprecated: 'false'
+  key: '720'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/720
+- country_code: '730'
+  deprecated: 'false'
+  key: '730'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/730
+- country_code: '740'
+  deprecated: 'false'
+  key: '740'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/740
+- country_code: '750'
+  deprecated: 'false'
+  key: '750'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/750
+- country_code: '760'
+  deprecated: 'false'
+  key: '760'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/760
+- country_code: '770'
+  deprecated: 'false'
+  key: '770'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/770
+- country_code: '780'
+  deprecated: 'false'
+  key: '780'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/780
+- country_code: '790'
+  deprecated: 'false'
+  key: '790'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/790
+- country_code: 7A0
+  deprecated: 'false'
+  key: 7A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7A0
+- country_code: 7B0
+  deprecated: 'false'
+  key: 7B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7B0
+- country_code: 7C0
+  deprecated: 'false'
+  key: 7C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7C0
+- country_code: 7D0
+  deprecated: 'false'
+  key: 7D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7D0
+- country_code: 7E0
+  deprecated: 'false'
+  key: 7E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7E0
+- country_code: 7F0
+  deprecated: 'false'
+  key: 7F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7F0
+- country_code: 7G0
+  deprecated: 'false'
+  key: 7G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7G0
+- country_code: 7H0
+  deprecated: 'false'
+  key: 7H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7H0
+- country_code: 7I0
+  deprecated: 'false'
+  key: 7I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7I0
+- country_code: 7J0
+  deprecated: 'false'
+  key: 7J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7J0
+- country_code: 7K0
+  deprecated: 'false'
+  key: 7K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7K0
+- country_code: 7L0
+  deprecated: 'false'
+  key: 7L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7L0
+- country_code: 7M0
+  deprecated: 'false'
+  key: 7M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7M0
+- country_code: 7N0
+  deprecated: 'false'
+  key: 7N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7N0
+- country_code: 7P0
+  deprecated: 'false'
+  key: 7P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7P0
+- country_code: 7Q0
+  deprecated: 'false'
+  key: 7Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7Q0
+- country_code: 7R0
+  deprecated: 'false'
+  key: 7R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7R0
+- country_code: 7S0
+  deprecated: 'false'
+  key: 7S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7S0
+- country_code: 7T0
+  deprecated: 'false'
+  key: 7T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7T0
+- country_code: 7U0
+  deprecated: 'false'
+  key: 7U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7U0
+- country_code: 7V0
+  deprecated: 'false'
+  key: 7V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7V0
+- country_code: 7W0
+  deprecated: 'false'
+  key: 7W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7W0
+- country_code: 7X0
+  deprecated: 'false'
+  key: 7X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7X0
+- country_code: 7Y0
+  deprecated: 'false'
+  key: 7Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7Y0
+- country_code: 7Z0
+  deprecated: 'false'
+  key: 7Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/7Z0
+- country_code: '800'
+  deprecated: 'false'
+  key: '800'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/800
+- country_code: '810'
+  deprecated: 'false'
+  key: '810'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/810
+- country_code: '820'
+  deprecated: 'false'
+  key: '820'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/820
+- country_code: '830'
+  deprecated: 'false'
+  key: '830'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/830
+- country_code: '840'
+  deprecated: 'false'
+  key: '840'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/840
+- country_code: '850'
+  deprecated: 'false'
+  key: '850'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/850
+- country_code: '860'
+  deprecated: 'false'
+  key: '860'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/860
+- country_code: '870'
+  deprecated: 'false'
+  key: '870'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/870
+- country_code: '880'
+  deprecated: 'false'
+  key: '880'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/880
+- country_code: '890'
+  deprecated: 'false'
+  key: '890'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/890
+- country_code: 8A0
+  deprecated: 'false'
+  key: 8A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8A0
+- country_code: 8B0
+  deprecated: 'false'
+  key: 8B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8B0
+- country_code: 8C0
+  deprecated: 'false'
+  key: 8C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8C0
+- country_code: 8D0
+  deprecated: 'false'
+  key: 8D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8D0
+- country_code: 8E0
+  deprecated: 'false'
+  key: 8E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8E0
+- country_code: 8F0
+  deprecated: 'false'
+  key: 8F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8F0
+- country_code: 8G0
+  deprecated: 'false'
+  key: 8G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8G0
+- country_code: 8H0
+  deprecated: 'false'
+  key: 8H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8H0
+- country_code: 8I0
+  deprecated: 'false'
+  key: 8I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8I0
+- country_code: 8J0
+  deprecated: 'false'
+  key: 8J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8J0
+- country_code: 8K0
+  deprecated: 'false'
+  key: 8K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8K0
+- country_code: 8L0
+  deprecated: 'false'
+  key: 8L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8L0
+- country_code: 8M0
+  deprecated: 'false'
+  key: 8M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8M0
+- country_code: 8N0
+  deprecated: 'false'
+  key: 8N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8N0
+- country_code: 8P0
+  deprecated: 'false'
+  key: 8P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8P0
+- country_code: 8Q0
+  deprecated: 'false'
+  key: 8Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8Q0
+- country_code: 8R0
+  deprecated: 'false'
+  key: 8R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8R0
+- country_code: 8S0
+  deprecated: 'false'
+  key: 8S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8S0
+- country_code: 8T0
+  deprecated: 'false'
+  key: 8T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8T0
+- country_code: 8U0
+  deprecated: 'false'
+  key: 8U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8U0
+- country_code: 8V0
+  deprecated: 'false'
+  key: 8V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8V0
+- country_code: 8W0
+  deprecated: 'false'
+  key: 8W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8W0
+- country_code: 8X0
+  deprecated: 'false'
+  key: 8X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8X0
+- country_code: 8Y0
+  deprecated: 'false'
+  key: 8Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8Y0
+- country_code: 8Z0
+  deprecated: 'false'
+  key: 8Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/8Z0
+- country_code: '900'
+  deprecated: 'false'
+  key: '900'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/900
+- country_code: '910'
+  deprecated: 'false'
+  key: '910'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/910
+- country_code: '920'
+  deprecated: 'false'
+  key: '920'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/920
+- country_code: '930'
+  deprecated: 'false'
+  key: '930'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/930
+- country_code: '940'
+  deprecated: 'false'
+  key: '940'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/940
+- country_code: '950'
+  deprecated: 'false'
+  key: '950'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/950
+- country_code: '960'
+  deprecated: 'false'
+  key: '960'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/960
+- country_code: '970'
+  deprecated: 'false'
+  key: '970'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/970
+- country_code: '980'
+  deprecated: 'false'
+  key: '980'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/980
+- country_code: '990'
+  deprecated: 'false'
+  key: '990'
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/990
+- country_code: 9A0
+  deprecated: 'false'
+  key: 9A0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9A0
+- country_code: 9B0
+  deprecated: 'false'
+  key: 9B0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9B0
+- country_code: 9C0
+  deprecated: 'false'
+  key: 9C0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9C0
+- country_code: 9D0
+  deprecated: 'false'
+  key: 9D0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9D0
+- country_code: 9E0
+  deprecated: 'false'
+  key: 9E0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9E0
+- country_code: 9F0
+  deprecated: 'false'
+  key: 9F0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9F0
+- country_code: 9G0
+  deprecated: 'false'
+  key: 9G0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9G0
+- country_code: 9H0
+  deprecated: 'false'
+  key: 9H0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9H0
+- country_code: 9I0
+  deprecated: 'false'
+  key: 9I0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9I0
+- country_code: 9J0
+  deprecated: 'false'
+  key: 9J0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9J0
+- country_code: 9K0
+  deprecated: 'false'
+  key: 9K0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9K0
+- country_code: 9L0
+  deprecated: 'false'
+  key: 9L0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9L0
+- country_code: 9M0
+  deprecated: 'false'
+  key: 9M0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9M0
+- country_code: 9N0
+  deprecated: 'false'
+  key: 9N0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9N0
+- country_code: 9P0
+  deprecated: 'false'
+  key: 9P0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9P0
+- country_code: 9Q0
+  deprecated: 'false'
+  key: 9Q0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9Q0
+- country_code: 9R0
+  deprecated: 'false'
+  key: 9R0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9R0
+- country_code: 9S0
+  deprecated: 'false'
+  key: 9S0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9S0
+- country_code: 9T0
+  deprecated: 'false'
+  key: 9T0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9T0
+- country_code: 9U0
+  deprecated: 'false'
+  key: 9U0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9U0
+- country_code: 9V0
+  deprecated: 'false'
+  key: 9V0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9V0
+- country_code: 9W0
+  deprecated: 'false'
+  key: 9W0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9W0
+- country_code: 9X0
+  deprecated: 'false'
+  key: 9X0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9X0
+- country_code: 9Y0
+  deprecated: 'false'
+  key: 9Y0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9Y0
+- country_code: 9Z0
+  deprecated: 'false'
+  key: 9Z0
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/9Z0
+- country_code: A00
+  deprecated: 'false'
+  key: A00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A00
+- country_code: A10
+  deprecated: 'false'
+  key: A10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A10
+- country_code: A20
+  deprecated: 'false'
+  key: A20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A20
+- country_code: A30
+  deprecated: 'false'
+  key: A30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A30
+- country_code: A40
+  deprecated: 'false'
+  key: A40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A40
+- country_code: A50
+  deprecated: 'false'
+  key: A50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A50
+- country_code: A60
+  deprecated: 'false'
+  key: A60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A60
+- country_code: A70
+  deprecated: 'false'
+  key: A70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A70
+- country_code: A80
+  deprecated: 'false'
+  key: A80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A80
+- country_code: A90
+  deprecated: 'false'
+  key: A90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/A90
+- country_code: B00
+  deprecated: 'false'
+  key: B00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B00
+- country_code: B10
+  deprecated: 'false'
+  key: B10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B10
+- country_code: B20
+  deprecated: 'false'
+  key: B20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B20
+- country_code: B30
+  deprecated: 'false'
+  key: B30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B30
+- country_code: B40
+  deprecated: 'false'
+  key: B40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B40
+- country_code: B50
+  deprecated: 'false'
+  key: B50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B50
+- country_code: B60
+  deprecated: 'false'
+  key: B60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B60
+- country_code: B70
+  deprecated: 'false'
+  key: B70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B70
+- country_code: B80
+  deprecated: 'false'
+  key: B80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B80
+- country_code: B90
+  deprecated: 'false'
+  key: B90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/B90
+- country_code: C00
+  deprecated: 'false'
+  key: C00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C00
+- country_code: C10
+  deprecated: 'false'
+  key: C10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C10
+- country_code: C20
+  deprecated: 'false'
+  key: C20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C20
+- country_code: C30
+  deprecated: 'false'
+  key: C30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C30
+- country_code: C40
+  deprecated: 'false'
+  key: C40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C40
+- country_code: C50
+  deprecated: 'false'
+  key: C50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C50
+- country_code: C60
+  deprecated: 'false'
+  key: C60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C60
+- country_code: C70
+  deprecated: 'false'
+  key: C70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C70
+- country_code: C80
+  deprecated: 'false'
+  key: C80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C80
+- country_code: C90
+  deprecated: 'false'
+  key: C90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/C90
+- country_code: D00
+  deprecated: 'false'
+  key: D00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D00
+- country_code: D10
+  deprecated: 'false'
+  key: D10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D10
+- country_code: D20
+  deprecated: 'false'
+  key: D20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D20
+- country_code: D30
+  deprecated: 'false'
+  key: D30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D30
+- country_code: D40
+  deprecated: 'false'
+  key: D40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D40
+- country_code: D50
+  deprecated: 'false'
+  key: D50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D50
+- country_code: D60
+  deprecated: 'false'
+  key: D60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D60
+- country_code: D70
+  deprecated: 'false'
+  key: D70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D70
+- country_code: D80
+  deprecated: 'false'
+  key: D80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D80
+- country_code: D90
+  deprecated: 'false'
+  key: D90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/D90
+- country_code: E00
+  deprecated: 'false'
+  key: E00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E00
+- country_code: E10
+  deprecated: 'false'
+  key: E10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E10
+- country_code: E20
+  deprecated: 'false'
+  key: E20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E20
+- country_code: E30
+  deprecated: 'false'
+  key: E30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E30
+- country_code: E40
+  deprecated: 'false'
+  key: E40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E40
+- country_code: E50
+  deprecated: 'false'
+  key: E50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E50
+- country_code: E60
+  deprecated: 'false'
+  key: E60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E60
+- country_code: E70
+  deprecated: 'false'
+  key: E70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E70
+- country_code: E80
+  deprecated: 'false'
+  key: E80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E80
+- country_code: E90
+  deprecated: 'false'
+  key: E90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/E90
+- country_code: F00
+  deprecated: 'false'
+  key: F00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F00
+- country_code: F10
+  deprecated: 'false'
+  key: F10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F10
+- country_code: F20
+  deprecated: 'false'
+  key: F20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F20
+- country_code: F30
+  deprecated: 'false'
+  key: F30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F30
+- country_code: F40
+  deprecated: 'false'
+  key: F40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F40
+- country_code: F50
+  deprecated: 'false'
+  key: F50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F50
+- country_code: F60
+  deprecated: 'false'
+  key: F60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F60
+- country_code: F70
+  deprecated: 'false'
+  key: F70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F70
+- country_code: F80
+  deprecated: 'false'
+  key: F80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F80
+- country_code: F90
+  deprecated: 'false'
+  key: F90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/F90
+- country_code: G00
+  deprecated: 'false'
+  key: G00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G00
+- country_code: G10
+  deprecated: 'false'
+  key: G10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G10
+- country_code: G20
+  deprecated: 'false'
+  key: G20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G20
+- country_code: G30
+  deprecated: 'false'
+  key: G30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G30
+- country_code: G40
+  deprecated: 'false'
+  key: G40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G40
+- country_code: G50
+  deprecated: 'false'
+  key: G50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G50
+- country_code: G60
+  deprecated: 'false'
+  key: G60
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G60
+- country_code: G70
+  deprecated: 'false'
+  key: G70
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G70
+- country_code: G80
+  deprecated: 'false'
+  key: G80
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G80
+- country_code: G90
+  deprecated: 'false'
+  key: G90
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/G90
+- country_code: H00
+  deprecated: 'false'
+  key: H00
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/H00
+- country_code: H10
+  deprecated: 'false'
+  key: H10
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/H10
+- country_code: H20
+  deprecated: 'false'
+  key: H20
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/H20
+- country_code: H30
+  deprecated: 'false'
+  key: H30
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/H30
+- country_code: H40
+  deprecated: 'false'
+  key: H40
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/H40
+- country_code: H50
+  deprecated: 'false'
+  key: H50
+  label_en: Multilingual Code
+  url: http://publications.europa.eu/resource/authority/multilingual/H50
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/multilingual/OP_DATPRO

@@ -1,0 +1,72 @@
+[
+  {
+    "@id": "https://w3id.org/italia/onto/CPV/familyName",
+    "http://www.w3.org/2002/07/owl#equivalentProperty": [
+      {
+        "@id": "http://xmlns.com/foaf/0.1/familyName"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CPV-aligns",
+    "@type": [
+      "http://www.w3.org/2002/07/owl#Ontology"
+    ],
+    "http://www.w3.org/2002/07/owl#imports": [
+      {
+        "@id": "https://w3id.org/italia/onto/CPV"
+      },
+      {
+        "@id": "http://www.w3.org/2004/02/skos/core#"
+      },
+      {
+        "@id": "http://xmlns.com/foaf/0.1/"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionIRI": [
+      {
+        "@id": "https://w3id.org/italia/onto/CPV-aligns/0.1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CPV/Person",
+    "http://www.w3.org/2002/07/owl#equivalentClass": [
+      {
+        "@id": "http://xmlns.com/foaf/0.1/Person"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CPV/knows",
+    "http://www.w3.org/2002/07/owl#equivalentProperty": [
+      {
+        "@id": "http://xmlns.com/foaf/0.1/knows"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CPV/name",
+    "http://www.w3.org/2002/07/owl#equivalentProperty": [
+      {
+        "@id": "http://xmlns.com/foaf/0.1/name"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CPV/ParentalRelationshipType",
+    "http://www.w3.org/2002/07/owl#subClassOf": [
+      {
+        "@id": "http://www.w3.org/2004/02/skos/core#Concept"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/italia/onto/CPV/givenName",
+    "http://www.w3.org/2002/07/owl#equivalentProperty": [
+      {
+        "@id": "http://xmlns.com/foaf/0.1/givenName"
+      }
+    ]
+  }
+]

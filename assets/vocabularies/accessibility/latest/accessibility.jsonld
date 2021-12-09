@@ -1,0 +1,582 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/accessibility/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/accessibility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/accessibility/n-inc",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "n-inc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "n-inc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "n-inc"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "n-inc"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/accessibility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Критерии за достъпността за лицата с увреждания не са включени, защото поръчката не е предназначена за използване от физически лица"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kritéria přístupnosti pro osoby s postižením nejsou zahrnuta, neboť zakázka není určena k použití fyzickými osobami"
+      },
+      {
+        "@language": "da",
+        "@value": "Der er ikke anvendt kriterier vedrørende adgangsmuligheder for personer med handicap, fordi udbuddet ikke er beregnet til at blive anvendt af fysiske personer"
+      },
+      {
+        "@language": "de",
+        "@value": "Kriterien für die Zugänglichkeit für Menschen mit Behinderungen wurden nicht berücksichtigt, da die Beschaffung nicht für die Nutzung durch natürliche Personen vorgesehen ist"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεν περιλαμβάνονται κριτήρια προσβασιμότητας για τα άτομα με αναπηρίες επειδή η προμήθεια δεν προορίζεται για χρήση από φυσικά πρόσωπα"
+      },
+      {
+        "@language": "en",
+        "@value": "Accessibility criteria for persons with disabilities are not included because the procurement is not intended for use by natural persons"
+      },
+      {
+        "@language": "es",
+        "@value": "No se incluyen criterios de accesibilidad para las personas con discapacidad porque la contratación no está destinada a ser utilizada por personas físicas"
+      },
+      {
+        "@language": "et",
+        "@value": "Puuetega inimeste juurdepääsukriteeriume pole lisatud, sest hange ei ole mõeldud kasutamiseks füüsilistele isikutele"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vammaisia koskevia esteettömyysvaatimuksia ei ole otettu huomioon, koska hankintaa ei ole tarkoitettu luonnollisten henkilöiden käyttöön"
+      },
+      {
+        "@language": "fr",
+        "@value": "Des critères d’accessibilité pour les personnes handicapées ne sont pas appliqués parce que le marché n’est pas destiné aux personnes physiques"
+      },
+      {
+        "@language": "ga",
+        "@value": "Níl critéir inrochtaineachta do dhaoine faoi mhíchumas ar áireamh mar níl an soláthar beartaithe lena úsáid ag daoine nádúrtha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Uvjeti pristupačnosti za osobe s invaliditetom nisu uzeti u obzir jer javna nabava nije namijenjena fizičkim osobama"
+      },
+      {
+        "@language": "hu",
+        "@value": "A fogyatékossággal élő személyekre vonatkozó, akadálymentesítési kritériumok nincsenek beépítve, mivel a beszerzést nem fogják természetes személyek használni"
+      },
+      {
+        "@language": "it",
+        "@value": "Non sono compresi criteri di accessibilità per le persone con disabilità perché l'oggetto dell'appalto non è destinato all'uso da parte di persone fisiche"
+      },
+      {
+        "@language": "lt",
+        "@value": "Prieinamumo neįgaliesiems kriterijai neįtraukti, nes nenumatyta, kad pirkimo objektas bus naudojamas fizinių asmenų"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kritēriji par pieejamību personām ar invaliditāti nav iekļauti, jo iepirkums nav paredzēts fiziskām personām"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kriterji ta’ aċċessibbiltà għall-persuni b’diżabbiltà ma jkunux inklużi minħabba li l-akkwist ma jkunx maħsub għall-użu minn persuni fiżiċi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Er zijn geen criteria opgenomen inzake de toegankelijkheid voor personen met een handicap, omdat de aanbesteding niet bestemd is voor gebruik door natuurlijke personen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kryteria dostępności dla osób niepełnosprawnych nie zostały uwzględnione, ponieważ przedmiot zamówienia nie jest przeznaczony dla osób fizycznych"
+      },
+      {
+        "@language": "pt",
+        "@value": "Os critérios de acessibilidade para as pessoas com deficiência não estão incluídos porque o contrato não se destina a pessoas singulares"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nu sunt incluse criterii de accesibilitate pentru persoanele cu handicap, deoarece achizițiile nu sunt destinate a fi utilizate de către persoane fizice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kritériá prístupnosti pre osoby so zdravotným postihnutím nie sú zahrnuté, keďže zákazka nie je určená na použitie fyzickými osobami"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pogoji dostopnosti za invalidne osebe niso vključeni, ker predmet javnega naročila ni namenjen temu, da bi ga uporabljale fizične osebe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillgänglighetskriterier för personer med funktionsnedsättning ingår inte eftersom upphandlingen inte är avsedd att användas av fysiska personer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/accessibility",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Accessibility"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "accessibility"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Accessibility"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Accessibility"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/accessibility/inc",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "inc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "inc"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "inc"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "inc"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/accessibility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Включени са критерии за достъпността за лицата с увреждания"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kritéria přístupnosti pro osoby s postižením jsou zahrnuta"
+      },
+      {
+        "@language": "da",
+        "@value": "Der er anvendt kriterier vedrørende adgangsmuligheder for personer med handicap"
+      },
+      {
+        "@language": "de",
+        "@value": "Zugänglichkeitskriterien für Menschen mit Behinderungen wurden berücksichtigt"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμπεριλαμβάνονται κριτήρια προσβασιμότητας για τα άτομα με αναπηρίες"
+      },
+      {
+        "@language": "en",
+        "@value": "Accessibility criteria for persons with disabilities are included"
+      },
+      {
+        "@language": "es",
+        "@value": "Se incluyen criterios de accesibilidad para las personas con discapacidad"
+      },
+      {
+        "@language": "et",
+        "@value": "Lisatud on puuetega inimeste juurdepääsukriteeriumid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vammaisia koskevat esteettömyysvaatimukset on otettu huomioon"
+      },
+      {
+        "@language": "fr",
+        "@value": "Des critères d’accessibilité pour les personnes handicapées sont appliqués"
+      },
+      {
+        "@language": "ga",
+        "@value": "Tá critéir inrochtaineachta do dhaoine faoi mhíchumas ar áireamh"
+      },
+      {
+        "@language": "hr",
+        "@value": "U obzir su uzeti uvjeti pristupačnosti za osobe s invaliditetom"
+      },
+      {
+        "@language": "hu",
+        "@value": "A fogyatékossággal élő személyekre vonatkozó, akadálymentesítési kritériumok be vannak építve"
+      },
+      {
+        "@language": "it",
+        "@value": "Sono compresi criteri di accessibilità per le persone con disabilità"
+      },
+      {
+        "@language": "lt",
+        "@value": "Prieinamumo neįgaliesiems kriterijai įtraukti"
+      },
+      {
+        "@language": "lv",
+        "@value": "Ir iekļauti kritēriji par pieejamību personām ar invaliditāti"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kriterji ta’ aċċessibbiltà għall-persuni b’diżabbiltà huma inklużi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Er zijn criteria opgenomen inzake de toegankelijkheid voor personen met een handicap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kryteria dostępności dla osób niepełnosprawnych zostały uwzględnione"
+      },
+      {
+        "@language": "pt",
+        "@value": "Os critérios de acessibilidade para as pessoas com deficiência estão incluídos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Sunt incluse criterii de accesibilitate pentru persoanele cu handicap"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kritériá prístupnosti pre osoby so zdravotným postihnutím sú zahrnuté"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vključeni so pogoji dostopnosti za invalidne osebe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillgänglighetskriterier för personer med funktionsnedsättning ingår"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/accessibility/n-inc-just",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "n-inc-just"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "n-inc-just"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "n-inc-just"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "n-inc-just"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/accessibility"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Критерии за достъпността за лицата с увреждания не са включени, а обосновката е следната"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kritéria přístupnosti pro osoby s postižením nejsou zahrnuta s následujícím odůvodněním"
+      },
+      {
+        "@language": "da",
+        "@value": "Der er ikke anvendt kriterier vedrørende adgangsmuligheder for personer med handicap med følgende begrundelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Zugänglichkeitskriterien für Menschen mit Behinderungen wurden mit folgender Begründung nicht berücksichtigt"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεν περιλαμβάνονται κριτήρια προσβασιμότητας για τα άτομα με αναπηρίες με την ακόλουθη αιτιολόγηση"
+      },
+      {
+        "@language": "en",
+        "@value": "Accessibility criteria for persons with disabilities are not included with the following justification"
+      },
+      {
+        "@language": "es",
+        "@value": "No se incluyen criterios de accesibilidad para las personas con discapacidad por la siguiente justificación"
+      },
+      {
+        "@language": "et",
+        "@value": "Puuetega inimeste juurdepääsukriteeriume ei ole lisatud järgmise põhjendusega"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vammaisia koskevia esteettömyysvaatimuksia ei ole otettu huomioon seuraavin perustein"
+      },
+      {
+        "@language": "fr",
+        "@value": "Des critères d’accessibilité pour les personnes handicapées ne sont pas appliqués avec la justification suivante"
+      },
+      {
+        "@language": "ga",
+        "@value": "Níl critéir inrochtaineachta do dhaoine faoi mhíchumas ar áireamh ar na cúiseanna seo a leanas"
+      },
+      {
+        "@language": "hr",
+        "@value": "Uvjeti pristupačnosti za osobe s invaliditetom nisu uzeti u obzir zbog sljedećeg obrazloženja"
+      },
+      {
+        "@language": "hu",
+        "@value": "A fogyatékossággal élő személyekre vonatkozó, akadálymentesítési kritériumok nincsenek beépítve az alábbi indoklás szerint"
+      },
+      {
+        "@language": "it",
+        "@value": "Non sono compresi criteri di accessibilità per le persone con disabilità con la giustificazione seguente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Prieinamumo neįgaliesiems kriterijai neįtraukti dėl šių priežasčių"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kritēriji par pieejamību personām ar invaliditāti nav iekļauti ar šādu pamatojumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-kriterji ta’ aċċessibbiltà għall-persuni b’diżabbiltà ma jkunux inklużi bil-ġustifikazzjoni li ġejja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Er zijn geen criteria opgenomen inzake de toegankelijkheid voor personen met een handicap, om de volgende reden"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kryteria dostępności dla osób niepełnosprawnych nie zostały uwzględnione z uwagi na poniższe uzasadnienie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Os critérios de acessibilidade para as pessoas com deficiência não estão incluídos, com a seguinte justificação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nu sunt incluse criterii de accesibilitate pentru persoanele cu handicap, din următorul motiv"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kritériá prístupnosti pre osoby so zdravotným postihnutím nie sú zahrnuté s nasledujúcim odôvodnením"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pogoji dostopnosti za invalidne osebe niso vključeni iz naslednjih razlogov"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillgänglighetskriterier för personer med funktionsnedsättning ingår inte med följande motivering"
+      }
+    ]
+  }
+]

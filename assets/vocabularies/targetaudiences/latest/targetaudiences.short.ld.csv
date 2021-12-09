@@ -1,0 +1,17 @@
+# Serializing assets/vocabularies/targetaudiences/latest/targetaudiences.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/target-audience
+# title: Target audience
+# version: 20210929-0
+# description: Target audience
+key,url,deprecated,valid_from,country_code,label_en,label_it
+CHL,http://publications.europa.eu/resource/authority/target-audience/CHL,false,2017-10-04,CHL,Children,Bambini
+CON,http://publications.europa.eu/resource/authority/target-audience/CON,false,1999-01-01,CON,Consumers,Consumatori
+EDU,http://publications.europa.eu/resource/authority/target-audience/EDU,false,1999-01-01,EDU,Education,Istruzione
+GEN,http://publications.europa.eu/resource/authority/target-audience/GEN,false,1999-01-01,GEN,General public,Grande pubblico
+LEG,http://publications.europa.eu/resource/authority/target-audience/LEG,false,1999-01-01,LEG,Legislative,Legislativi
+MIN,http://publications.europa.eu/resource/authority/target-audience/MIN,false,1999-01-01,MIN,Minorities,Minoranze
+SCI,http://publications.europa.eu/resource/authority/target-audience/SCI,false,1999-01-01,SCI,Scientific,Scientifici
+SPE,http://publications.europa.eu/resource/authority/target-audience/SPE,false,1999-01-01,SPE,Specialised,Specialistici
+YOP,http://publications.europa.eu/resource/authority/target-audience/YOP,false,1999-01-01,YOP,Young people,Giovani
+OP_DATPRO,http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO,false,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

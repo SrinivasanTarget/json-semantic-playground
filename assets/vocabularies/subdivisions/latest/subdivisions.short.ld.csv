@@ -1,0 +1,66 @@
+# Serializing assets/vocabularies/subdivisions/latest/subdivisions.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/subdivision
+# title: Subdivision
+# version: 20201216-0
+# description: Subdivision
+key,url,deprecated,valid_from,country_code,label_en,label_it
+ACT,http://publications.europa.eu/resource/authority/subdivision/ACT,false,1952-12-30,ACT,act,atto
+AGR,http://publications.europa.eu/resource/authority/subdivision/AGR,false,1952-07-24,AGR,agreement,accordo
+ALN,http://publications.europa.eu/resource/authority/subdivision/ALN,false,2015-03-18,ALN,unnumbered paragraph,comma
+ANX,http://publications.europa.eu/resource/authority/subdivision/ANX,false,2015-03-18,ANX,annex,allegato
+APP,http://publications.europa.eu/resource/authority/subdivision/APP,false,2015-03-18,APP,appendix,appendice
+ART,http://publications.europa.eu/resource/authority/subdivision/ART,false,2015-03-18,ART,article,articolo
+CGR,http://publications.europa.eu/resource/authority/subdivision/CGR,false,2004-05-01,CGR,group of corrections,gruppo di correzioni
+CIT,http://publications.europa.eu/resource/authority/subdivision/CIT,false,2015-03-18,CIT,citation,visto
+CLS,http://publications.europa.eu/resource/authority/subdivision/CLS,false,2015-03-18,CLS,clause,clausola
+CNV,http://publications.europa.eu/resource/authority/subdivision/CNV,false,1952-12-30,CNV,convention,convenzione
+COL,http://publications.europa.eu/resource/authority/subdivision/COL,false,1952-12-30,COL,table column,colonna della tabella
+COR,http://publications.europa.eu/resource/authority/subdivision/COR,false,2004-05-01,COR,correction,correzione
+CPT,http://publications.europa.eu/resource/authority/subdivision/CPT,false,2015-03-18,CPT,chapter,capo
+DCL,http://publications.europa.eu/resource/authority/subdivision/DCL,false,1952-12-30,DCL,declaration,dichiarazione
+DES,http://publications.europa.eu/resource/authority/subdivision/DES,false,2004-05-01,DES,description,descrizione
+ENC,http://publications.europa.eu/resource/authority/subdivision/ENC,false,1952-12-30,ENC,enacting terms,articolato
+END,http://publications.europa.eu/resource/authority/subdivision/END,false,1952-12-30,END,endnote,nota
+EXL,http://publications.europa.eu/resource/authority/subdivision/EXL,false,1952-12-30,EXL,exchange of letters,scambio di lettere
+FGR,http://publications.europa.eu/resource/authority/subdivision/FGR,false,1952-12-30,FGR,figure,illustrazione
+FNA,http://publications.europa.eu/resource/authority/subdivision/FNA,false,1952-12-30,FNA,final act,atto finale
+FNP,http://publications.europa.eu/resource/authority/subdivision/FNP,false,1952-12-30,FNP,final part,parte finale
+FTN,http://publications.europa.eu/resource/authority/subdivision/FTN,false,1952-12-30,FTN,footnote,nota a piè di pagina
+IDT,http://publications.europa.eu/resource/authority/subdivision/IDT,false,2015-03-18,IDT,indent,trattino
+IMG,http://publications.europa.eu/resource/authority/subdivision/IMG,false,1952-12-30,IMG,image,immagine
+INP,http://publications.europa.eu/resource/authority/subdivision/INP,false,1952-12-30,INP,introductory part,parte introduttiva
+LGD,http://publications.europa.eu/resource/authority/subdivision/LGD,false,1952-12-30,LGD,legend,legenda
+LLG,http://publications.europa.eu/resource/authority/subdivision/LLG,false,1952-12-30,LLG,line of legend,riga di legenda
+LST,http://publications.europa.eu/resource/authority/subdivision/LST,false,1952-12-30,LST,list,elenco
+LTR,http://publications.europa.eu/resource/authority/subdivision/LTR,false,1952-12-30,LTR,letter,lettera
+MNT,http://publications.europa.eu/resource/authority/subdivision/MNT,false,1952-12-30,MNT,minutes,processo verbale
+NOT,http://publications.europa.eu/resource/authority/subdivision/NOT,false,1952-12-30,NOT,note,nota
+OP_DATPRO,http://publications.europa.eu/resource/authority/subdivision/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+OTH,http://publications.europa.eu/resource/authority/subdivision/OTH,false,1952-07-24,OTH,other,altro
+PAG,http://publications.europa.eu/resource/authority/subdivision/PAG,false,1952-12-30,PAG,page,pagina
+PAR,http://publications.europa.eu/resource/authority/subdivision/PAR,false,2015-03-18,PAR,paragraph,paragrafo
+PBL,http://publications.europa.eu/resource/authority/subdivision/PBL,false,2015-03-18,PBL,preamble,preambolo
+PCD,http://publications.europa.eu/resource/authority/subdivision/PCD,false,1952-12-30,PCD,procedure,procedura
+PNT,http://publications.europa.eu/resource/authority/subdivision/PNT,false,2015-03-18,PNT,point,punto
+PRO,http://publications.europa.eu/resource/authority/subdivision/PRO,false,1952-12-30,PRO,protocol,protocollo
+PRT,http://publications.europa.eu/resource/authority/subdivision/PRT,false,2015-03-18,PRT,part,parte
+PTA,http://publications.europa.eu/resource/authority/subdivision/PTA,false,1952-12-30,PTA,point,lettera
+PTI,http://publications.europa.eu/resource/authority/subdivision/PTI,false,1952-12-30,PTI,point,punto
+RCT,http://publications.europa.eu/resource/authority/subdivision/RCT,false,2015-03-18,RCT,recital,considerando
+ROW,http://publications.europa.eu/resource/authority/subdivision/ROW,false,1952-12-30,ROW,table row,riga della tabella
+RUL,http://publications.europa.eu/resource/authority/subdivision/RUL,false,2015-03-18,RUL,rule,regola
+SBS,http://publications.europa.eu/resource/authority/subdivision/SBS,false,1952-12-30,SBS,subsection,sottosezione
+SCT,http://publications.europa.eu/resource/authority/subdivision/SCT,false,2015-03-18,SCT,section,sezione
+SFR,http://publications.europa.eu/resource/authority/subdivision/SFR,false,1952-12-30,SFR,scientific formula,formula scientifica
+SNT,http://publications.europa.eu/resource/authority/subdivision/SNT,false,1952-12-30,SNT,sentence,frase
+SUB,http://publications.europa.eu/resource/authority/subdivision/SUB,false,1952-12-30,SUB,subparagraph,comma
+TAB,http://publications.europa.eu/resource/authority/subdivision/TAB,false,1952-12-30,TAB,table,tabella
+TBG,http://publications.europa.eu/resource/authority/subdivision/TBG,false,2004-05-01,TBG,group of tables,gruppo di tabelle
+TIS,http://publications.europa.eu/resource/authority/subdivision/TIS,false,1952-12-30,TIS,title (subdivision),titolo (suddivisione)
+TIT,http://publications.europa.eu/resource/authority/subdivision/TIT,false,2015-03-18,TIT,title,titolo
+TOC,http://publications.europa.eu/resource/authority/subdivision/TOC,false,1952-12-30,TOC,table of contents,indice
+TXN,http://publications.europa.eu/resource/authority/subdivision/TXN,false,2004-05-01,TXN,new text,nuovo testo
+TXO,http://publications.europa.eu/resource/authority/subdivision/TXO,false,2004-05-01,TXO,old text,testo precedente
+UNP,http://publications.europa.eu/resource/authority/subdivision/UNP,false,1952-12-30,UNP,unnumbered paragraph,comma
+WRP,http://publications.europa.eu/resource/authority/subdivision/WRP,false,1952-12-30,WRP,closing part,parte conclusiva

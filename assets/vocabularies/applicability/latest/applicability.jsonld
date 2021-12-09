@@ -1,0 +1,588 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/applicability/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/applicability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/applicability/yes",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "yes"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "yes"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "yes"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "yes"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/applicability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Да"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ano"
+      },
+      {
+        "@language": "da",
+        "@value": "Ja"
+      },
+      {
+        "@language": "de",
+        "@value": "Ja"
+      },
+      {
+        "@language": "el",
+        "@value": "Ναι"
+      },
+      {
+        "@language": "en",
+        "@value": "Yes"
+      },
+      {
+        "@language": "es",
+        "@value": "﻿﻿Sí"
+      },
+      {
+        "@language": "et",
+        "@value": "Jah"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kyllä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Oui"
+      },
+      {
+        "@language": "ga",
+        "@value": "Is ea"
+      },
+      {
+        "@language": "hr",
+        "@value": "Da"
+      },
+      {
+        "@language": "hu",
+        "@value": "Igen"
+      },
+      {
+        "@language": "it",
+        "@value": "Sì"
+      },
+      {
+        "@language": "lt",
+        "@value": "Taip"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Iva"
+      },
+      {
+        "@language": "nl",
+        "@value": "Ja"
+      },
+      {
+        "@language": "pl",
+        "@value": "Tak"
+      },
+      {
+        "@language": "pt",
+        "@value": "Sim"
+      },
+      {
+        "@language": "ro",
+        "@value": "Da"
+      },
+      {
+        "@language": "sk",
+        "@value": "Áno"
+      },
+      {
+        "@language": "sl",
+        "@value": "Da"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ja"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/applicability/not-known",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "not-known"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "not-known"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "not-known"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "not-known"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "sv",
+        "@value": "Ännu ej känd"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/applicability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Все още не е известно"
+      },
+      {
+        "@language": "cs",
+        "@value": "Není známo"
+      },
+      {
+        "@language": "da",
+        "@value": "Endnu ikke kendte"
+      },
+      {
+        "@language": "de",
+        "@value": "Noch nicht bekannt"
+      },
+      {
+        "@language": "el",
+        "@value": "Δεν έχει ακόμη προσδιοριστεί"
+      },
+      {
+        "@language": "en",
+        "@value": "Not yet known"
+      },
+      {
+        "@language": "es",
+        "@value": "No se sabe aún"
+      },
+      {
+        "@language": "et",
+        "@value": "Ei ole veel teada"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ei vielä tiedossa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Pas encore connu"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ní fios go fóill"
+      },
+      {
+        "@language": "hr",
+        "@value": "Još nije poznato"
+      },
+      {
+        "@language": "hu",
+        "@value": "Jelenleg ismeretlen"
+      },
+      {
+        "@language": "it",
+        "@value": "Non ancora noto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dar nežinoma"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vēl nav zināms"
+      },
+      {
+        "@language": "mt",
+        "@value": "Għadu mhux magħruf"
+      },
+      {
+        "@language": "nl",
+        "@value": "Nog niet bekend"
+      },
+      {
+        "@language": "pl",
+        "@value": "Jeszcze nie wiadomo"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ainda não conhecido"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nu se știe încă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Použitie zatiaľ nie je známe"
+      },
+      {
+        "@language": "sl",
+        "@value": "Še ni znano"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ännu ej känt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/applicability/no",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "no"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "no"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "no"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "no"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/applicability"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Не"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ne"
+      },
+      {
+        "@language": "da",
+        "@value": "Nej"
+      },
+      {
+        "@language": "de",
+        "@value": "Nein"
+      },
+      {
+        "@language": "el",
+        "@value": "Όχι"
+      },
+      {
+        "@language": "en",
+        "@value": "No"
+      },
+      {
+        "@language": "es",
+        "@value": "No"
+      },
+      {
+        "@language": "et",
+        "@value": "Ei"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ei"
+      },
+      {
+        "@language": "fr",
+        "@value": "Non"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ní hea"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ne"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nem"
+      },
+      {
+        "@language": "it",
+        "@value": "No"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ne"
+      },
+      {
+        "@language": "lv",
+        "@value": "Nē"
+      },
+      {
+        "@language": "mt",
+        "@value": "Le"
+      },
+      {
+        "@language": "nl",
+        "@value": "Neen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Nie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Não"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nu"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ne"
+      },
+      {
+        "@language": "sv",
+        "@value": "Nej"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/applicability",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Applicability"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "applicability"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Applicability"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Applicability"
+      }
+    ]
+  }
+]

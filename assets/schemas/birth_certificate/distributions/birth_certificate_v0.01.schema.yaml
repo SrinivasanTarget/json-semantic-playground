@@ -1,0 +1,262 @@
+---
+"$schema": http://json-schema.org/draft-06/schema#
+"$ref": "#/definitions/Welcome3"
+definitions:
+  Welcome3:
+    type: object
+    additionalProperties: false
+    properties:
+      BirthCertificate:
+        "$ref": "#/definitions/BirthCertificate"
+    required:
+    - BirthCertificate
+    title: Welcome3
+  BirthCertificate:
+    type: object
+    additionalProperties: false
+    properties:
+      identifierBirthCertificate:
+        "$ref": "#/definitions/Identifier"
+      certifies:
+        "$ref": "#/definitions/Certifies"
+      issuingAuthorityBirthCertificate:
+        "$ref": "#/definitions/IssuingAuthorityBirthCertificate"
+      issuingDate:
+        "$ref": "#/definitions/IssuingDate"
+      issuingPlace:
+        "$ref": "#/definitions/IssuingPlace"
+    required:
+    - certifies
+    - identifierBirthCertificate
+    - issuingAuthorityBirthCertificate
+    - issuingDate
+    - issuingPlace
+    title: BirthCertificate
+  Certifies:
+    type: object
+    additionalProperties: false
+    properties:
+      Birth:
+        "$ref": "#/definitions/Birth"
+    required:
+    - Birth
+    title: Certifies
+  Birth:
+    type: object
+    additionalProperties: false
+    properties:
+      child:
+        "$ref": "#/definitions/PersonW"
+      parentOne:
+        "$ref": "#/definitions/PersonW"
+      parentTwo:
+        "$ref": "#/definitions/PersonW"
+    required:
+    - child
+    - parentOne
+    - parentTwo
+    title: Birth
+  PersonW:
+    type: object
+    additionalProperties: false
+    properties:
+      Person:
+        "$ref": "#/definitions/Person"
+    required:
+    - Person
+    title: Child
+  Person:
+    type: object
+    additionalProperties: false
+    properties:
+      identifierPerson:
+        "$ref": "#/definitions/IdentifierP"
+      givenName:
+        type: string
+      familyName:
+        type: string
+      dateOfBirth:
+        "$ref": "#/definitions/IssuingDate"
+      gender:
+        "$ref": "#/definitions/Gender"
+      citizenships:
+        "$ref": "#/definitions/Citizenships"
+      placeOfBirth:
+        "$ref": "#/definitions/IssuingPlace"
+    required:
+    - citizenships
+    - dateOfBirth
+    - familyName
+    - gender
+    - givenName
+    - identifierPerson
+    - placeOfBirth
+    title: Person
+  Citizenships:
+    type: object
+    additionalProperties: false
+    properties:
+      citizenship:
+        "$ref": "#/definitions/Citizenship"
+    required:
+    - citizenship
+    title: Citizenships
+  Citizenship:
+    type: object
+    additionalProperties: false
+    properties:
+      Jurisdiction:
+        "$ref": "#/definitions/Jurisdiction"
+    required:
+    - Jurisdiction
+    title: Citizenship
+  Jurisdiction:
+    type: object
+    additionalProperties: false
+    properties:
+      place:
+        "$ref": "#/definitions/Gender"
+    required:
+    - place
+    title: Jurisdiction
+  Gender:
+    type: object
+    additionalProperties: false
+    properties:
+      _id:
+        type: string
+        format: uri
+        qt-uri-protocols:
+        - http
+    required:
+    - _id
+    title: Gender
+  IssuingDate:
+    type: object
+    additionalProperties: false
+    properties:
+      _type:
+        type: string
+      __text:
+        type: string
+        format: date
+    required:
+    - __text
+    - _type
+    title: IssuingDate
+  IdentifierP:
+    type: object
+    additionalProperties: false
+    properties:
+      Identifiers:
+        "$ref": "#/definitions/Identifier"
+    required:
+    - Identifiers
+    title: IdentifierP
+  Identifier:
+    type: object
+    additionalProperties: false
+    properties:
+      Identifier:
+        "$ref": "#/definitions/IdentifierClass"
+    required:
+    - Identifier
+    title: Identifier
+  IdentifierClass:
+    type: object
+    additionalProperties: false
+    properties:
+      identifierIdentifier:
+        type: string
+      identifierType:
+        type: string
+      issuingAuthorityIdentifier:
+        type: string
+    required:
+    - identifierIdentifier
+    - identifierType
+    - issuingAuthorityIdentifier
+    title: IdentifierClass
+  IssuingPlace:
+    type: object
+    additionalProperties: false
+    properties:
+      Location:
+        "$ref": "#/definitions/Location"
+    required:
+    - Location
+    title: IssuingPlace
+  Location:
+    type: object
+    additionalProperties: false
+    properties:
+      address:
+        "$ref": "#/definitions/Address"
+    required:
+    - address
+    title: Location
+  Address:
+    type: object
+    additionalProperties: false
+    properties:
+      Address:
+        "$ref": "#/definitions/AddressClass"
+    required:
+    - Address
+    title: Address
+  AddressClass:
+    type: object
+    additionalProperties: false
+    properties:
+      adminUnitL1:
+        type: string
+      postName:
+        type: string
+    required:
+    - adminUnitL1
+    - postName
+    title: AddressClass
+  IssuingAuthorityBirthCertificate:
+    type: object
+    additionalProperties: false
+    properties:
+      PublicOrganisation:
+        "$ref": "#/definitions/PublicOrganisation"
+    required:
+    - PublicOrganisation
+    title: IssuingAuthorityBirthCertificate
+  PublicOrganisation:
+    type: object
+    additionalProperties: false
+    properties:
+      prefLabels:
+        "$ref": "#/definitions/PrefLabels"
+      identifierPublicOrganisation:
+        "$ref": "#/definitions/IdentifierP"
+    required:
+    - identifierPublicOrganisation
+    - prefLabels
+    title: PublicOrganisation
+  PrefLabels:
+    type: object
+    additionalProperties: false
+    properties:
+      prefLabel:
+        type: array
+        items:
+          "$ref": "#/definitions/PrefLabel"
+    required:
+    - prefLabel
+    title: PrefLabels
+  PrefLabel:
+    type: object
+    additionalProperties: false
+    properties:
+      _xml:lang:
+        type: string
+      __text:
+        type: string
+    required:
+    - __text
+    - _xml:lang
+    title: PrefLabel

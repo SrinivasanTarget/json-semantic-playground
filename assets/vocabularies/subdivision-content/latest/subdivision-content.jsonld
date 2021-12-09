@@ -1,0 +1,1241 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/CITATION_DASH",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CITATION_DASH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CITATION_DASH"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1994-07-19"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CITATION_DASH"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CITATION_DASH"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "This element marks citations in the preamble of a legislative resolution by the European Parliament starting with a dash."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#example": [
+      {
+        "@language": "en",
+        "@value": "Example document: COV DLV20 1.31 - P9_TA(2020)0184.\nThe European Parliament,\n– having regard to the Council position at first reading (05112/1/2020 – C9-0106/2020)"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Цитиране с тире"
+      },
+      {
+        "@language": "cs",
+        "@value": "Citace s pomlčkou"
+      },
+      {
+        "@language": "da",
+        "@value": "Henvisning med tankestreg"
+      },
+      {
+        "@language": "de",
+        "@value": "Zitat mit Gedankenstrich"
+      },
+      {
+        "@language": "el",
+        "@value": "Αιτιολογική αναφορά με παύλα"
+      },
+      {
+        "@language": "en",
+        "@value": "Citation with dash"
+      },
+      {
+        "@language": "es",
+        "@value": "Cita con guion"
+      },
+      {
+        "@language": "et",
+        "@value": "Tsitaat taandega"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ajatusviivallinen johdanto-osan viite"
+      },
+      {
+        "@language": "fr",
+        "@value": "Citation avec tiret"
+      },
+      {
+        "@language": "ga",
+        "@value": "Aithris le fleasc"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pozivanje s crticom"
+      },
+      {
+        "@language": "hu",
+        "@value": "Gondolatjeles bevezető hivatkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Citazione con trattino"
+      },
+      {
+        "@language": "lt",
+        "@value": "Brūkšniu prasidedanti citata"
+      },
+      {
+        "@language": "lv",
+        "@value": "Citāts ar domuzīmi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ċitazzjoni bid-dash"
+      },
+      {
+        "@language": "nl",
+        "@value": "Citaat met streepje"
+      },
+      {
+        "@language": "pl",
+        "@value": "Umocowanie rozpoczynające się myślnikiem"
+      },
+      {
+        "@language": "pt",
+        "@value": "Citação com travessão"
+      },
+      {
+        "@language": "ro",
+        "@value": "Citare cu liniuță"
+      },
+      {
+        "@language": "sk",
+        "@value": "Citácia so zarážkou"
+      },
+      {
+        "@language": "sl",
+        "@value": "Navedba s pomišljajem"
+      },
+      {
+        "@language": "sv",
+        "@value": "Beaktandeled med tankstreck"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/BLOCK_SFR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BLOCK_SFR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BLOCK_SFR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1966-11-26"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BLOCK_SFR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BLOCK_SFR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Scientific formula block is a scientific formula preceded by a sentence introducing it."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Текстов блок с научна формула"
+      },
+      {
+        "@language": "cs",
+        "@value": "Blok s vědeckým vzorcem"
+      },
+      {
+        "@language": "da",
+        "@value": "Tekstblok med videnskabelig formel"
+      },
+      {
+        "@language": "de",
+        "@value": "Formelblock"
+      },
+      {
+        "@language": "el",
+        "@value": "Ενότητα επιστημονικού τύπου"
+      },
+      {
+        "@language": "en",
+        "@value": "Scientific formula block"
+      },
+      {
+        "@language": "es",
+        "@value": "Fórmula científica (bloque)"
+      },
+      {
+        "@language": "et",
+        "@value": "Teaduslik valem (plokk)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tieteellisen kaavan sisältävä lohko"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bloc de formule scientifique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Bloc na foirmle eolaíche"
+      },
+      {
+        "@language": "hr",
+        "@value": "Blok znanstvene formule"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tudományosképlet-blokk"
+      },
+      {
+        "@language": "it",
+        "@value": "Blocco di formula scientifica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mokslinės formulės blokas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Zinātniskas formulas bloks"
+      },
+      {
+        "@language": "mt",
+        "@value": "Block tal-formula xjentifika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Formuleblok"
+      },
+      {
+        "@language": "pl",
+        "@value": "Blok wzoru naukowego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Bloco de fórmula científica"
+      },
+      {
+        "@language": "ro",
+        "@value": "Bloc de formulă științifică"
+      },
+      {
+        "@language": "sk",
+        "@value": "Blok s vedeckým vzorcom"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sklop znanstvenih formul"
+      },
+      {
+        "@language": "sv",
+        "@value": "Textblock med vetenskaplig formel"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/FTN_CONTENT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FTN_CONTENT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FTN_CONTENT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FTN_CONTENT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FTN_CONTENT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The concept ‘content of footnotes’ is used to identify in AKN4EU the component which groups the content of all the footnotes in a document."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съдържание на бележките под линия"
+      },
+      {
+        "@language": "cs",
+        "@value": "Obsah poznámek pod čarou"
+      },
+      {
+        "@language": "da",
+        "@value": "Fodnoternes indhold"
+      },
+      {
+        "@language": "de",
+        "@value": "Fußnoteninhalt"
+      },
+      {
+        "@language": "el",
+        "@value": "Περιεχόμενο των υποσημειώσεων"
+      },
+      {
+        "@language": "en",
+        "@value": "Content of footnotes"
+      },
+      {
+        "@language": "es",
+        "@value": "Contenido de las notas a pie de página"
+      },
+      {
+        "@language": "et",
+        "@value": "Allmärkuste sisu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alaviitteiden sisältö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Contenu des notes de bas de page"
+      },
+      {
+        "@language": "ga",
+        "@value": "Inneachar na bhfonótaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sadržaj bilježaka"
+      },
+      {
+        "@language": "hu",
+        "@value": "Lábjegyzetek tartalma"
+      },
+      {
+        "@language": "it",
+        "@value": "Contenuto delle note a piè di pagina"
+      },
+      {
+        "@language": "lt",
+        "@value": "Išnašų turinys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Zemsvītras piezīmju saturs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kontenut tan-noti f’qiegħ il-paġna"
+      },
+      {
+        "@language": "nl",
+        "@value": "Inhoud van voetnoten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Treść przypisów"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conteúdo das notas de rodapé"
+      },
+      {
+        "@language": "ro",
+        "@value": "Conținutul notelor de subsol"
+      },
+      {
+        "@language": "sk",
+        "@value": "Obsah poznámok pod čiarou"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vsebina opomb"
+      },
+      {
+        "@language": "sv",
+        "@value": "Fotnotsinnehåll"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/BACKGROUND",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BACKGROUND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BACKGROUND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2008-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BACKGROUND"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BACKGROUND"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The concept “Background” refers to a text division (point or section) in preparatory documents issued during the ordinary legislative procedure. It provides information on the procedure in question. In the Commission preparatory documents, it indicates the dates of the main events in the procedure, as well as the procedure number and the COM number of the proposal."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Контекст"
+      },
+      {
+        "@language": "cs",
+        "@value": "Souvislosti"
+      },
+      {
+        "@language": "da",
+        "@value": "Baggrund"
+      },
+      {
+        "@language": "de",
+        "@value": "Hintergrund"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιστορικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Background"
+      },
+      {
+        "@language": "es",
+        "@value": "Referencias"
+      },
+      {
+        "@language": "et",
+        "@value": "Taustteave"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tausta"
+      },
+      {
+        "@language": "fr",
+        "@value": "Contexte"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cúlra"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kontekst"
+      },
+      {
+        "@language": "hu",
+        "@value": "Háttér"
+      },
+      {
+        "@language": "it",
+        "@value": "Contesto"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pagrindiniai faktai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Konteksts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sfond"
+      },
+      {
+        "@language": "nl",
+        "@value": "Achtergrond"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przebieg procedury"
+      },
+      {
+        "@language": "pt",
+        "@value": "Historial"
+      },
+      {
+        "@language": "ro",
+        "@value": "Context"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súvislosti"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ozadje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Bakgrund"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/BLOCK_TAB",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "BLOCK_TAB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "BLOCK_TAB"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1968-09-28"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "BLOCK_TAB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "BLOCK_TAB"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "Table block is a table together with its linked elements, like heading, legend etc."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Текстов блок с таблица"
+      },
+      {
+        "@language": "cs",
+        "@value": "Blok s tabulkou"
+      },
+      {
+        "@language": "da",
+        "@value": "Tekstblok med tabel"
+      },
+      {
+        "@language": "de",
+        "@value": "Tabellenblock"
+      },
+      {
+        "@language": "el",
+        "@value": "Ενότητα πίνακα"
+      },
+      {
+        "@language": "en",
+        "@value": "Table block"
+      },
+      {
+        "@language": "es",
+        "@value": "Cuadro (bloque)"
+      },
+      {
+        "@language": "et",
+        "@value": "Tabel (plokk)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Taulukkolohko"
+      },
+      {
+        "@language": "fr",
+        "@value": "Bloc de tableau"
+      },
+      {
+        "@language": "ga",
+        "@value": "Blocthábla"
+      },
+      {
+        "@language": "hr",
+        "@value": "Blok tablice"
+      },
+      {
+        "@language": "hu",
+        "@value": "Táblázatblokk"
+      },
+      {
+        "@language": "it",
+        "@value": "Blocco di tabella"
+      },
+      {
+        "@language": "lt",
+        "@value": "Lentelės blokas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tabulas bloks"
+      },
+      {
+        "@language": "mt",
+        "@value": "Block tat-tabella"
+      },
+      {
+        "@language": "nl",
+        "@value": "Tabelblok"
+      },
+      {
+        "@language": "pl",
+        "@value": "Blok tabeli"
+      },
+      {
+        "@language": "pt",
+        "@value": "Bloco de quadro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Bloc de tabel"
+      },
+      {
+        "@language": "sk",
+        "@value": "Blok s tabuľkou"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sklop tabel"
+      },
+      {
+        "@language": "sv",
+        "@value": "Textblock med tabell"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/ART_DEF",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ART_DEF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ART_DEF"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1989-05-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ART_DEF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ART_DEF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The concept “article on definitions” refers to an article which contains definitions of terms used in an act."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Член с определения"
+      },
+      {
+        "@language": "cs",
+        "@value": "Článek s definicemi"
+      },
+      {
+        "@language": "da",
+        "@value": "Artikel med definitioner"
+      },
+      {
+        "@language": "de",
+        "@value": "Artikel mit Begriffsbestimmungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Άρθρο για τους ορισμούς"
+      },
+      {
+        "@language": "en",
+        "@value": "Article on definitions"
+      },
+      {
+        "@language": "es",
+        "@value": "Artículo de definiciones"
+      },
+      {
+        "@language": "et",
+        "@value": "Artikkel mõistete kohta"
+      },
+      {
+        "@language": "fi",
+        "@value": "Määritelmät sisältävä artikla"
+      },
+      {
+        "@language": "fr",
+        "@value": "Article relatif aux définitions"
+      },
+      {
+        "@language": "ga",
+        "@value": "Airteagal maidir le sainmhínithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Članak o definicijama"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fogalommeghatározásokat tartalmazó cikk"
+      },
+      {
+        "@language": "it",
+        "@value": "Articolo di definizioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Apibrėžčių straipsnis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pants, kas satur definīcijas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Artikolu dwar id-definizzjonijiet"
+      },
+      {
+        "@language": "nl",
+        "@value": "Artikel met definities"
+      },
+      {
+        "@language": "pl",
+        "@value": "Artykuł z definicjami"
+      },
+      {
+        "@language": "pt",
+        "@value": "Artigo de definições"
+      },
+      {
+        "@language": "ro",
+        "@value": "Articol cu definiții"
+      },
+      {
+        "@language": "sk",
+        "@value": "Článok s vymedzením pojmov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Člen o opredelitvah"
+      },
+      {
+        "@language": "sv",
+        "@value": "Artikel med definitioner"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subdivision content"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "subdivision-content"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210616-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Subdivision content"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210616-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subdivision content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/subdivision-content/ART_AMEND",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ART_AMEND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ART_AMEND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1972-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ART_AMEND"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ART_AMEND"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The concept “article with amending provisions” refers to an article which contains provisions amending earlier acts."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Член с разпоредби за изменение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Článek s pozměňujícími ustanoveními"
+      },
+      {
+        "@language": "da",
+        "@value": "Artikel med ændringsbestemmelser"
+      },
+      {
+        "@language": "de",
+        "@value": "Artikel mit Änderungsbestimmungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Άρθρο με τροποποιητικές διατάξεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Article with amending provisions"
+      },
+      {
+        "@language": "es",
+        "@value": "Artículo de disposiciones modificativas"
+      },
+      {
+        "@language": "et",
+        "@value": "Muudatussätteid sisaldav artikkel"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muutossäännökset sisältävä artikla"
+      },
+      {
+        "@language": "fr",
+        "@value": "Article contenant des dispositions modificatives"
+      },
+      {
+        "@language": "ga",
+        "@value": "Airteagal a bhfuil forálacha leasuithe ag gabháil leis"
+      },
+      {
+        "@language": "hr",
+        "@value": "Članak s izmjenama odredaba"
+      },
+      {
+        "@language": "hu",
+        "@value": "Módosító rendelkezéseket tartalmazó cikk"
+      },
+      {
+        "@language": "it",
+        "@value": "Articolo con disposizioni modificative"
+      },
+      {
+        "@language": "lt",
+        "@value": "Straipsnis su keitimo nuostatomis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pants, kas satur grozošos noteikumus"
+      },
+      {
+        "@language": "mt",
+        "@value": "Artikolu b’dispożizzjonijiet emendatorji"
+      },
+      {
+        "@language": "nl",
+        "@value": "Artikel met wijzigingsbepalingen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Artykuł z przepisami zmieniającymi"
+      },
+      {
+        "@language": "pt",
+        "@value": "Artigo com disposições modificativas"
+      },
+      {
+        "@language": "ro",
+        "@value": "Articol cu dispoziții de modificare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Článok s pozmeňujúcimi ustanoveniami"
+      },
+      {
+        "@language": "sl",
+        "@value": "Člen z določbami o spremembah"
+      },
+      {
+        "@language": "sv",
+        "@value": "Artikel med ändringsbestämmelser"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/subdivision-content"
+      }
+    ]
+  }
+]

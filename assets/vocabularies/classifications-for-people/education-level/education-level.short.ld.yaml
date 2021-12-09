@@ -1,0 +1,141 @@
+'@context':
+  '@vocab': https://w3id.org/italia/onto/CPV/
+  dct: http://purl.org/dc/terms/
+  description_en:
+    '@id': educationLevelDesc
+    '@language': en
+  description_it:
+    '@id': educationLevelDesc
+    '@language': it
+  key:
+    '@id': dct:identifier
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+'@graph':
+- description_en: Academy Conservatory old programme
+  description_it: Diploma di Accademia di Belle Arti, Danza, Arte Drammatica, ISIA,
+    ecc. Conservatorio (vecchio ordinamento)
+  key: ACO
+  label_en: Academy Conservatory old programme
+  label_it: Diploma di Accademia di Belle Arti, Danza, Arte Drammatica, ISIA, ecc.
+    Conservatorio (vecchio ordinamento)
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/ACO
+- description_en: University diploma
+  description_it: Diploma universitario di due/tre anni, Scuola diretta a fini speciali,
+    altro diploma terziario non universitario
+  key: CDU
+  label_en: University diploma
+  label_it: Diploma universitario di due/tre anni, Scuola diretta a fini speciali,
+    altro diploma terziario non universitario
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/CDU
+- description_en: Fine Arts, Drama, Dance and Music First level academic diploma (Bachelor's
+    degree)
+  description_it: Diploma accademico di Alta Formazione Artistica, Musicale e Coreutica
+    di I livello
+  key: FLA
+  label_en: Fine Arts, Drama, Dance and Music First level academic diploma (Bachelor's
+    degree)
+  label_it: Diploma accademico di Alta Formazione Artistica, Musicale e Coreutica
+    di I livello
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/FLA
+- description_en: Vocational training qualification (three-year courses)/ Professional
+    diploma (fourth year)
+  description_it: Attestato IFP di qualifica professionale triennale (operatore)/Diploma
+    professionale IFP di tecnico (quarto anno) (dal 2005)
+  key: IFP
+  label_en: Vocational training qualification (three-year courses)/ Professional diploma
+    (fourth year)
+  label_it: Attestato IFP di qualifica professionale triennale (operatore)/Diploma
+    professionale IFP di tecnico (quarto anno) (dal 2005)
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/IFP
+- description_en: Certification of higher technical specialisation
+  description_it: Certificato di specializzazione tecnica superiore IFTS (dal 2000)
+  key: IFTS
+  label_en: Certification of higher technical specialisation
+  label_it: Certificato di specializzazione tecnica superiore IFTS (dal 2000)
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/IFTS
+- description_en: Diploma of Higher Technical
+  description_it: Diploma di tecnico superiore ITS (corsi biennali) (dal 2013)
+  key: ITS
+  label_en: Diploma of Higher Technical
+  label_it: Diploma di tecnico superiore ITS (corsi biennali) (dal 2013)
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/ITS
+- description_en: "Bachelor\u2019s degree"
+  description_it: Laurea di primo livello
+  key: L
+  label_en: "Bachelor\u2019s degree"
+  label_it: 'Laurea di primo livello '
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/L
+- description_en: "Master\u2019s degree"
+  description_it: Laurea specialistica/magistrale a ciclo unico o diploma di laurea
+    di 4-6 anni
+  key: LD
+  label_en: "Master\u2019s degree"
+  label_it: Laurea specialistica/magistrale a ciclo unico o diploma di laurea di 4-6
+    anni
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/LD
+- description_en: "Master\u2019s degree"
+  description_it: Laurea specialistica/magistrale biennale
+  key: LS
+  label_en: "Master\u2019s degree"
+  label_it: Laurea specialistica/magistrale biennale
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/LS
+- description_en: Diploma of lower secondary education
+  description_it: Licenza media o avviamento professionale (conseguito non oltre l'anno
+    1965) /Diploma di Istruzione secondaria di I grado
+  key: LSE
+  label_en: Diploma of lower secondary education
+  label_it: Licenza media o avviamento professionale (conseguito non oltre l'anno
+    1965) /Diploma di Istruzione secondaria di I grado
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/LSE
+- description_en: No educational degree
+  description_it: Nessun titolo di studio
+  key: NED
+  label_en: No educational degree
+  label_it: Nessun titolo di studio
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/NED
+- description_en: Final assessment (Primary school)
+  description_it: Licenza elementare/ Attestato di valutazione finale
+  key: PSE
+  label_en: Final assessment (Primary school)
+  label_it: Licenza elementare/ Attestato di valutazione finale
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/PSE
+- description_en: Research Doctorate (PhD)/ Advanced research academic diploma
+  description_it: 'Dottorato di ricerca/Diploma accademico di formazione alla ricerca '
+  key: RDD
+  label_en: Research Doctorate (PhD)/ Advanced research academic diploma
+  label_it: 'Dottorato di ricerca/Diploma accademico di formazione alla ricerca '
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/RDD
+- description_en: Fine Arts, Drama, Dance and Music Second level academic diploma
+    (Master's degree)
+  description_it: Diploma accademico di Alta Formazione Artistica, Musicale e Coreutica
+    di II livello
+  key: SLA
+  label_en: Fine Arts, Drama, Dance and Music Second level academic diploma (Master's
+    degree)
+  label_it: Diploma accademico di Alta Formazione Artistica, Musicale e Coreutica
+    di II livello
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/SLA
+- description_en: Diploma of upper secondary education (4-5 years)
+  description_it: "Diploma di maturit\xE0 / diploma di istruzione secondaria di II\
+    \ grado di 4-5 anni (che permette l\u2019iscrizione all\u2019universit\xE0)"
+  key: USG
+  label_en: Diploma of upper secondary education (4-5 years)
+  label_it: "Diploma di maturit\xE0 / diploma di istruzione secondaria di II grado\
+    \ di 4-5 anni (che permette l\u2019iscrizione all\u2019universit\xE0)"
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/USG
+- description_en: Diploma of upper secondary education (2-3 years)
+  description_it: "Diploma di qualifica professionale di scuola secondaria di II grado\
+    \ di 2-3 anni (che non permette l\u2019iscrizione all\u2019Universit\xE0)"
+  key: USV
+  label_en: Diploma of upper secondary education (2-3 years)
+  label_it: "Diploma di qualifica professionale di scuola secondaria di II grado di\
+    \ 2-3 anni (che non permette l\u2019iscrizione all\u2019Universit\xE0)"
+  url: https://w3id.org/italia/controlled-vocabulary/classifications-for-people/education-level/USV

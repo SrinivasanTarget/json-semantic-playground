@@ -1,0 +1,13 @@
+# Serializing assets/vocabularies/procedure-nature/latest/procedure-nature.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/procedure-nature
+# title: Procedure nature
+# version: 20210317-0
+# description: Procedure nature
+key,url,deprecated,valid_from,country_code,label_en,label_it
+INT,http://publications.europa.eu/resource/authority/procedure-nature/INT,false,1958-01-01,INT,internal,interno
+INTERINST,http://publications.europa.eu/resource/authority/procedure-nature/INTERINST,false,1958-01-01,INTERINST,interinstitutional,interistituzionale
+JURISD,http://publications.europa.eu/resource/authority/procedure-nature/JURISD,false,1958-01-01,JURISD,jurisdictional,giurisdizionale
+LEG,http://publications.europa.eu/resource/authority/procedure-nature/LEG,false,1958-01-01,LEG,legislative,legislativo
+NON_LEG,http://publications.europa.eu/resource/authority/procedure-nature/NON_LEG,false,1958-01-01,NON_LEG,non legislative,non legislativo
+OP_DATPRO,http://publications.europa.eu/resource/authority/procedure-nature/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori

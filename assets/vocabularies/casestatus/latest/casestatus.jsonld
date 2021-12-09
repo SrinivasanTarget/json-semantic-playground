@@ -1,0 +1,613 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-status/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-status",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Case status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "case-status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Case status"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Case status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-status/STAY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "STAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "STAY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n9c534b6466884d9fa104acba86ee99d1b3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "STAY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "STAY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "fr",
+        "@value": "Affaire suspendue"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9c534b6466884d9fa104acba86ee99d1b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SUSP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "LITIGE"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-status/PROGRESS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PROGRESS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PROGRESS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n9c534b6466884d9fa104acba86ee99d1b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PROGRESS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PROGRESS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Висящо дело"
+      },
+      {
+        "@language": "cs",
+        "@value": "Projednávaná věc"
+      },
+      {
+        "@language": "da",
+        "@value": "Verserende sag"
+      },
+      {
+        "@language": "de",
+        "@value": "Laufende Rechtssache"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπόθεση εν εξελίξει"
+      },
+      {
+        "@language": "en",
+        "@value": "Case in progress"
+      },
+      {
+        "@language": "es",
+        "@value": "Asunto pendiente"
+      },
+      {
+        "@language": "et",
+        "@value": "Menetluses olev kohtuasi"
+      },
+      {
+        "@language": "fi",
+        "@value": "Vireillä oleva asia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Affaire en cours"
+      },
+      {
+        "@language": "hr",
+        "@value": "Postupak u tijeku"
+      },
+      {
+        "@language": "hu",
+        "@value": "Folyamatban lévő ügy"
+      },
+      {
+        "@language": "it",
+        "@value": "Causa pendente"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dar neišnagrinėta byla"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lieta iztiesāšanas stadijā"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kawża pendenti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Aanhangige zaak"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sprawa w toku"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo pendente"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cauză pendinte"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prejednávaná vec"
+      },
+      {
+        "@language": "sl",
+        "@value": "Tekoča zadeva"
+      },
+      {
+        "@language": "sv",
+        "@value": "Målet pågår"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9c534b6466884d9fa104acba86ee99d1b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ENC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "LITIGE"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-status/WITHDRAW",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WITHDRAW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WITHDRAW"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n9c534b6466884d9fa104acba86ee99d1b4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WITHDRAW"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WITHDRAW"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "fr",
+        "@value": "Désistement"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9c534b6466884d9fa104acba86ee99d1b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DESIST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "LITIGE"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/case-status/CLOSED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CLOSED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CLOSED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n9c534b6466884d9fa104acba86ee99d1b1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CLOSED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CLOSED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/case-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Приключено дело"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ukončená věc"
+      },
+      {
+        "@language": "da",
+        "@value": "Afsluttet sag"
+      },
+      {
+        "@language": "de",
+        "@value": "Erledigte Rechtssache"
+      },
+      {
+        "@language": "el",
+        "@value": "Περατωθείσα υπόθεση"
+      },
+      {
+        "@language": "en",
+        "@value": "Case closed"
+      },
+      {
+        "@language": "es",
+        "@value": "Asunto concluido"
+      },
+      {
+        "@language": "et",
+        "@value": "Lõpetatud kohtuasi"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ratkaistu asia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Affaire clôturée"
+      },
+      {
+        "@language": "hr",
+        "@value": "Predmet riješen"
+      },
+      {
+        "@language": "hu",
+        "@value": "Befejezett ügy"
+      },
+      {
+        "@language": "it",
+        "@value": "Causa conclusa"
+      },
+      {
+        "@language": "lt",
+        "@value": "Baigta byla"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lieta, kurā ir pabeigta tiesvedība"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kawża magħluqa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Afgesloten zaak"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sprawa zakończona"
+      },
+      {
+        "@language": "pt",
+        "@value": "Processo concluído"
+      },
+      {
+        "@language": "ro",
+        "@value": "Cauză finalizată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Ukončená vec"
+      },
+      {
+        "@language": "sl",
+        "@value": "Končana zadeva"
+      },
+      {
+        "@language": "sv",
+        "@value": "Målet är avslutat"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9c534b6466884d9fa104acba86ee99d1b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CLOT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "LITIGE"
+      }
+    ]
+  }
+]

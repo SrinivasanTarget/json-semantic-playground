@@ -1,0 +1,999 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/AMERICA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AMERICA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AMERICA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AMERICA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AMERICA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Америка"
+      },
+      {
+        "@language": "cs",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "da",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "de",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "el",
+        "@value": "Αμερική"
+      },
+      {
+        "@language": "en",
+        "@value": "America"
+      },
+      {
+        "@language": "es",
+        "@value": "América"
+      },
+      {
+        "@language": "et",
+        "@value": "Ameerika"
+      },
+      {
+        "@language": "fi",
+        "@value": "Amerikka"
+      },
+      {
+        "@language": "fr",
+        "@value": "Amérique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Meiriceá"
+      },
+      {
+        "@language": "hr",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "hu",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "it",
+        "@value": "America"
+      },
+      {
+        "@language": "lt",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "lv",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Amerika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "pl",
+        "@value": "Ameryka"
+      },
+      {
+        "@language": "pt",
+        "@value": "América"
+      },
+      {
+        "@language": "ro",
+        "@value": "America"
+      },
+      {
+        "@language": "sk",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "sl",
+        "@value": "Amerika"
+      },
+      {
+        "@language": "sv",
+        "@value": "Amerika"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/AFRICA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AFRICA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AFRICA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AFRICA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AFRICA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Африка"
+      },
+      {
+        "@language": "cs",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "da",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "de",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "el",
+        "@value": "Αφρική"
+      },
+      {
+        "@language": "en",
+        "@value": "Africa"
+      },
+      {
+        "@language": "es",
+        "@value": "África"
+      },
+      {
+        "@language": "et",
+        "@value": "Aafrika"
+      },
+      {
+        "@language": "fi",
+        "@value": "Afrikka"
+      },
+      {
+        "@language": "fr",
+        "@value": "Afrique"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Afraic"
+      },
+      {
+        "@language": "hr",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "hu",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "it",
+        "@value": "Africa"
+      },
+      {
+        "@language": "lt",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "lv",
+        "@value": "Āfrika"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Afrika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "pl",
+        "@value": "Afryka"
+      },
+      {
+        "@language": "pt",
+        "@value": "África"
+      },
+      {
+        "@language": "ro",
+        "@value": "Africa"
+      },
+      {
+        "@language": "sk",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "sl",
+        "@value": "Afrika"
+      },
+      {
+        "@language": "sv",
+        "@value": "Afrika"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Continent"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "continent"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Continent"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Continent"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/ASIA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ASIA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ASIA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ASIA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ASIA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Азия"
+      },
+      {
+        "@language": "cs",
+        "@value": "Asie"
+      },
+      {
+        "@language": "da",
+        "@value": "Asien"
+      },
+      {
+        "@language": "de",
+        "@value": "Asien"
+      },
+      {
+        "@language": "el",
+        "@value": "Ασία"
+      },
+      {
+        "@language": "en",
+        "@value": "Asia"
+      },
+      {
+        "@language": "es",
+        "@value": "Asia"
+      },
+      {
+        "@language": "et",
+        "@value": "Aasia"
+      },
+      {
+        "@language": "fi",
+        "@value": "Aasia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Asie"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Áise"
+      },
+      {
+        "@language": "hr",
+        "@value": "Azija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ázsia"
+      },
+      {
+        "@language": "it",
+        "@value": "Asia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Azija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Āzija"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Asja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Azië"
+      },
+      {
+        "@language": "pl",
+        "@value": "Azja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ásia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Asia"
+      },
+      {
+        "@language": "sk",
+        "@value": "Ázia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Azija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Asien"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/ANTARCTICA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ANTARCTICA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ANTARCTICA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ANTARCTICA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ANTARCTICA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Антарктида"
+      },
+      {
+        "@language": "cs",
+        "@value": "Antarktida"
+      },
+      {
+        "@language": "da",
+        "@value": "Antarktis"
+      },
+      {
+        "@language": "de",
+        "@value": "Antarktis"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανταρκτική"
+      },
+      {
+        "@language": "en",
+        "@value": "Antarctica"
+      },
+      {
+        "@language": "es",
+        "@value": "Antártida"
+      },
+      {
+        "@language": "et",
+        "@value": "Antarktis"
+      },
+      {
+        "@language": "fi",
+        "@value": "Etelämanner"
+      },
+      {
+        "@language": "fr",
+        "@value": "Antarctique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Antartaice"
+      },
+      {
+        "@language": "hr",
+        "@value": "Antarktika"
+      },
+      {
+        "@language": "hu",
+        "@value": "Antarktisz"
+      },
+      {
+        "@language": "it",
+        "@value": "Antartide"
+      },
+      {
+        "@language": "lt",
+        "@value": "Antarktida"
+      },
+      {
+        "@language": "lv",
+        "@value": "Antarktīda"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Antartika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Antarctica"
+      },
+      {
+        "@language": "pl",
+        "@value": "Antarktyda"
+      },
+      {
+        "@language": "pt",
+        "@value": "Antártida"
+      },
+      {
+        "@language": "ro",
+        "@value": "Antarctica"
+      },
+      {
+        "@language": "sk",
+        "@value": "Antarktída"
+      },
+      {
+        "@language": "sl",
+        "@value": "Antarktika"
+      },
+      {
+        "@language": "sv",
+        "@value": "Antarktis"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/EUROPE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EUROPE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EUROPE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EUROPE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EUROPE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европа"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropa"
+      },
+      {
+        "@language": "da",
+        "@value": "Europa"
+      },
+      {
+        "@language": "de",
+        "@value": "Europa"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρώπη"
+      },
+      {
+        "@language": "en",
+        "@value": "Europe"
+      },
+      {
+        "@language": "es",
+        "@value": "Europa"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa"
+      },
+      {
+        "@language": "fi",
+        "@value": "Eurooppa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Europe"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Eoraip"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europa"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európa"
+      },
+      {
+        "@language": "it",
+        "@value": "Europa"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europa"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropa"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Ewropa"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europa"
+      },
+      {
+        "@language": "pl",
+        "@value": "Europa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Europa"
+      },
+      {
+        "@language": "ro",
+        "@value": "Europa"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európa"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropa"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europa"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/continent/OCEANIA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OCEANIA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OCEANIA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OCEANIA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OCEANIA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/continent"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Океания"
+      },
+      {
+        "@language": "cs",
+        "@value": "Oceánie"
+      },
+      {
+        "@language": "da",
+        "@value": "Oceanien"
+      },
+      {
+        "@language": "de",
+        "@value": "Ozeanien"
+      },
+      {
+        "@language": "el",
+        "@value": "Ωκεανία"
+      },
+      {
+        "@language": "en",
+        "@value": "Oceania"
+      },
+      {
+        "@language": "es",
+        "@value": "Oceanía"
+      },
+      {
+        "@language": "et",
+        "@value": "Okeaania"
+      },
+      {
+        "@language": "fi",
+        "@value": "Oseania"
+      },
+      {
+        "@language": "fr",
+        "@value": "Océanie"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Aigéine"
+      },
+      {
+        "@language": "hr",
+        "@value": "Oceanija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Óceánia"
+      },
+      {
+        "@language": "it",
+        "@value": "Oceania"
+      },
+      {
+        "@language": "lt",
+        "@value": "Okeanija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Okeānija"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Oċeanja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Oceanië"
+      },
+      {
+        "@language": "pl",
+        "@value": "Oceania"
+      },
+      {
+        "@language": "pt",
+        "@value": "Oceânia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Oceania"
+      },
+      {
+        "@language": "sk",
+        "@value": "Oceánia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oceanija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Oceanien"
+      }
+    ]
+  }
+]

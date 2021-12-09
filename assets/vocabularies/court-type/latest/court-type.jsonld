@@ -1,0 +1,1090 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Court type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "court-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Court type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Court type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NAT_COURT_FIRST_INSTANCE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NAT_COURT_FIRST_INSTANCE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NAT_COURT_FIRST_INSTANCE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NAT_COURT_FIRST_INSTANCE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "A court of first instance is a trial court of original or primary jurisdiction. In the EU context, this concept refers in particular to national courts of first instance of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Първоинстанционен съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soud prvního stupně"
+      },
+      {
+        "@language": "da",
+        "@value": "Domstol i første instans"
+      },
+      {
+        "@language": "de",
+        "@value": "Gericht Erster Instanz"
+      },
+      {
+        "@language": "el",
+        "@value": "Πρωτοδικείο"
+      },
+      {
+        "@language": "en",
+        "@value": "Court of first instance"
+      },
+      {
+        "@language": "es",
+        "@value": "Tribunal de Primera Instancia"
+      },
+      {
+        "@language": "et",
+        "@value": "Esimese astme kohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Käräjäoikeus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tribunal de première instance"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Chúirt Chéadchéime"
+      },
+      {
+        "@language": "hr",
+        "@value": "Prvostupanjski sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elsőfokú bíróság"
+      },
+      {
+        "@language": "it",
+        "@value": "Tribunale di primo grado"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pirmosios instancijos teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pirmās instances tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Qorti tal-prim’istanza"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gerecht van eerste aanleg"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sąd pierwszej instancji"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tribunal de primeira instância"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tribunal de primă instanță"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prvostupňový súd"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sodišče prve stopnje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förstainstansdomstol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/EUR_CST",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EUR_CST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2016-08-31"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EUR_CST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2004-11-09"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EUR_CST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EUR_CST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "In 1st September 2016, first instance jurisdiction in European Union civil service cases sitting at the European Union Civil Service Tribunal (‘Civil Service Tribunal’) was transferred to the General Court (OJ L 200, 26.7.2016, p. 137-139). Under Article 270 of the Treaty on the Functioning of the European Union (TFEU), the Civil Service Tribunal had jurisdiction to determine disputes between the EU and its employees. The decisions given by the Tribunal could be subject to an appeal, limited to questions of law, to the General Court. The decisions on appeal by the General Court could in turn be re-examined before the Court of Justice, in exceptional circumstances."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съд на публичната служба"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soud pro veřejnou službu"
+      },
+      {
+        "@language": "da",
+        "@value": "Personaleretten"
+      },
+      {
+        "@language": "de",
+        "@value": "Gericht für den öffentlichen Dienst"
+      },
+      {
+        "@language": "el",
+        "@value": "Δικαστήριο Δημόσιας Διοίκησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Civil Service Tribunal"
+      },
+      {
+        "@language": "es",
+        "@value": "Tribunal de la Función Pública"
+      },
+      {
+        "@language": "et",
+        "@value": "Avaliku Teenistuse Kohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Virkamiestuomioistuin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tribunal de la fonction publique"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Binse um Sheirbhís Shibhialta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Službenički sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közszolgálati Törvényszék"
+      },
+      {
+        "@language": "it",
+        "@value": "Tribunale della funzione pubblica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarnautojų teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Civildienesta tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Tribunal għas-Servizz Pubbliku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gerecht voor ambtenarenzaken"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sąd do spraw Służby Publicznej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tribunal da Função Pública"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tribunalul Funcţiei Publice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súd pre verejnú službu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sodišče za uslužbence"
+      },
+      {
+        "@language": "sv",
+        "@value": "Personaldomstolen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/EUR_CJ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EUR_CJ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EUR_CJ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EUR_CJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EUR_CJ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The Court is responsible for dealing with: references for preliminary rulings from national courts on interpretation of EU law; actions brought by an EU country or the Commission against an EU country for infringing EU law; some actions brought by an EU country for annulment of a measure adopted by an EU institution; actions against an EU institution for failure to act; appeals on points of law against judgments of the General Court, and, since September 1st 2016, appeals against decisions of the General Court in civil service cases (OJ L 200, 26.7.2016, p. 137-139)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soudní dvůr"
+      },
+      {
+        "@language": "da",
+        "@value": "Domstolen"
+      },
+      {
+        "@language": "de",
+        "@value": "Gerichtshof"
+      },
+      {
+        "@language": "el",
+        "@value": "Δικαστήριο"
+      },
+      {
+        "@language": "en",
+        "@value": "Court of Justice"
+      },
+      {
+        "@language": "es",
+        "@value": "Tribunal de Justicia"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Kohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Unionin tuomioistuin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cour de justice"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Chúirt Bhreithiúnais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Bíróság"
+      },
+      {
+        "@language": "it",
+        "@value": "Corte di giustizia"
+      },
+      {
+        "@language": "lt",
+        "@value": "Teisingumo Teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Qorti tal-Ġustizzja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Hof van Justitie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Trybunał Sprawiedliwości"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tribunal de Justiça"
+      },
+      {
+        "@language": "ro",
+        "@value": "Curtea de Justiţie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súdny dvor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sodišče"
+      },
+      {
+        "@language": "sv",
+        "@value": "Domstolen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NAT_COURT_SUPREME"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NAT_COURT_SUPREME"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NAT_COURT_SUPREME"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NAT_COURT_SUPREME"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "A supreme court is the highest court within the hierarchy of courts in many legal jurisdictions. In general, the decisions of a supreme court are not subject to further review by any other court. In the EU context, this concept refers in particular to national supreme courts of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Върховен съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Nejvyšší soud"
+      },
+      {
+        "@language": "da",
+        "@value": "Højesteret"
+      },
+      {
+        "@language": "de",
+        "@value": "Oberster Gerichtshof"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανώτατο Δικαστήριο"
+      },
+      {
+        "@language": "en",
+        "@value": "Supreme court"
+      },
+      {
+        "@language": "es",
+        "@value": "Tribunal Supremo"
+      },
+      {
+        "@language": "et",
+        "@value": "Kõrgeim kohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Korkein oikeus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cour suprême"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Chúirt Uachtarach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vrhovni sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Legfelsőbb bíróság"
+      },
+      {
+        "@language": "it",
+        "@value": "Corte suprema"
+      },
+      {
+        "@language": "lt",
+        "@value": "Aukščiausiasis teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Augstākā tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Qorti suprema"
+      },
+      {
+        "@language": "nl",
+        "@value": "Hooggerechtshof"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sąd najwyższy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tribunal Supremo "
+      },
+      {
+        "@language": "ro",
+        "@value": "Curte supremă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Najvyšší súd"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vrhovno sodišče"
+      },
+      {
+        "@language": "sv",
+        "@value": "Högsta domstolen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/EUR_GC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EUR_GC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EUR_GC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EUR_GC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EUR_GC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "The General Court is responsible for dealing with cases lodged by natural and legal persons against acts by Union institutions and bodies; cases lodged by EU countries against certain decisions of the Commission or the Council; cases relating to the Community trade mark and starting from September 1st 2016, EU civil service cases (OJ L 200, 26.7.2016, p. 137-139)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Общ съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Tribunál"
+      },
+      {
+        "@language": "da",
+        "@value": "Retten"
+      },
+      {
+        "@language": "de",
+        "@value": "Gericht"
+      },
+      {
+        "@language": "el",
+        "@value": "Γενικό Δικαστήριο"
+      },
+      {
+        "@language": "en",
+        "@value": "General Court"
+      },
+      {
+        "@language": "es",
+        "@value": "Tribunal General"
+      },
+      {
+        "@language": "et",
+        "@value": "Üldkohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Unionin yleinen tuomioistuin"
+      },
+      {
+        "@language": "fr",
+        "@value": "Tribunal"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cúirt Ghinearálta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Opći sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Törvényszék"
+      },
+      {
+        "@language": "it",
+        "@value": "Tribunale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendrasis Teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vispārējā tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Qorti Ġenerali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gerecht"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sąd"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tribunal Geral"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tribunalul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Všeobecný súd"
+      },
+      {
+        "@language": "sl",
+        "@value": "Splošno sodišče"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tribunalen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NAT_COURT_APPEAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NAT_COURT_APPEAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NAT_COURT_APPEAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NAT_COURT_APPEAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "A court of appeal is the main appellate court in the judicial system of many legal jurisdictions. In general, they hear appeals against judgements of the tribunals of first instance. In the EU context, this concept refers in particular to national courts of appeal of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Апелативен съд"
+      },
+      {
+        "@language": "cs",
+        "@value": "Odvolací soud"
+      },
+      {
+        "@language": "da",
+        "@value": "Appeldomstol"
+      },
+      {
+        "@language": "de",
+        "@value": "Berufungsgericht"
+      },
+      {
+        "@language": "el",
+        "@value": "Εφετείο"
+      },
+      {
+        "@language": "en",
+        "@value": "Court of appeal"
+      },
+      {
+        "@language": "es",
+        "@value": "Tribunal de Apelación"
+      },
+      {
+        "@language": "et",
+        "@value": "Apellatsioonikohus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hovioikeus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Cour d'appel"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Chúirt Achomhairc"
+      },
+      {
+        "@language": "hr",
+        "@value": "Žalbeni sud"
+      },
+      {
+        "@language": "hu",
+        "@value": "Fellebbviteli bíróság"
+      },
+      {
+        "@language": "it",
+        "@value": "Corte di appello"
+      },
+      {
+        "@language": "lt",
+        "@value": "Apeliacinis teismas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Apelācijas tiesa"
+      },
+      {
+        "@language": "mt",
+        "@value": "Qorti tal-appell"
+      },
+      {
+        "@language": "nl",
+        "@value": "Hof van beroep"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sąd apelacyjny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tribunal de Recurso"
+      },
+      {
+        "@language": "ro",
+        "@value": "Curte de apel"
+      },
+      {
+        "@language": "sk",
+        "@value": "Odvolací súd"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pritožbeno sodišče"
+      },
+      {
+        "@language": "sv",
+        "@value": "Appellationsdomstol"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/court-type"
+      }
+    ]
+  }
+]

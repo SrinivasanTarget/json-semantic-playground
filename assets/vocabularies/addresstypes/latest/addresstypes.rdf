@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/ADR_OFFICE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ADR_OFFICE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ADR_OFFICE</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b1"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>ADR_OFFICE</atold:op-code>
+    <dc:identifier>ADR_OFFICE</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="de">Büroanschrift</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Office address</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Adresse</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Biroja adrese</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/FAX">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>FAX</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>FAX</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b3"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>FAX</atold:op-code>
+    <dc:identifier>FAX</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="bg">Факс</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">φαξ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Faks</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Faksi</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Faks</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Fakso</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Fakss</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Faks</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Faks</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Fax</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Fax</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b2">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>POSTALADDRESS</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/TEL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TEL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TEL</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b5"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>TEL</atold:op-code>
+    <dc:identifier>TEL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="bg">телефон</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">τηλεφώνου</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Telephone</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Teléfono</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Puhelin</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Téléphone</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Guthán</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Telefono</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Telefono</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Tālrunis</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Telefoon</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Telefone</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Telefón</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Telefon</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Telefon</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/OFFICE_NO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>OFFICE_NO</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>OFFICE_NO</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b4"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>OFFICE_NO</atold:op-code>
+    <dc:identifier>OFFICE_NO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="de">Büro</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Office</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Bureau</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Birojs</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Address type</rdfs:label>
+    <at:prefLabel xml:lang="en">Address type</at:prefLabel>
+    <at:table.id>address-type</at:table.id>
+    <at:table.version.number>20180620-0</at:table.version.number>
+    <owl:versionInfo>20180620-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Address type</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/TEL_EXT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TEL_EXT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TEL_EXT</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b6"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>TEL_EXT</atold:op-code>
+    <dc:identifier>TEL_EXT</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="de">Durchwahl</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Extension</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Numéro de poste</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Iekšējais numurs</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Doorverbinding</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/ADR_POSTAL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ADR_POSTAL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ADR_POSTAL</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b2"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>ADR_POSTAL</atold:op-code>
+    <dc:identifier>ADR_POSTAL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="de">Anschrift</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Postal address</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Adresse postale</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Pasta adrese</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b1">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>OFFICEADDRESS</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/EMAIL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EMAIL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EMAIL</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>EMAIL</atold:op-code>
+    <dc:identifier>EMAIL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="en">E-mail</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Correo electrónico</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Courrier électronique</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Correio eletrónico</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b3">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>FAX</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/TEL_SWI">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TEL_SWI</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TEL_SWI</at:op-code>
+    <at:op-mapped-code rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b7"/>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>TEL_SWI</atold:op-code>
+    <dc:identifier>TEL_SWI</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="da">Omstillingsbord</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Zentrale</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Switchboard</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Centralita</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Standard</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Centrālais tālrunis</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Schakelbord</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b5">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>TEL</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/address-type/MAIN">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>MAIN</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>MAIN</at:op-code>
+    <at:start.use>2018-05-30</at:start.use>
+    <atold:op-code>MAIN</atold:op-code>
+    <dc:identifier>MAIN</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/address-type"/>
+    <skos:prefLabel xml:lang="en">Main address</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b7">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>CENTRAL</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b6">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>POSTE</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ncfe1952d710e4d2293788c519d5970e9b4">
+    <rdf:type rdf:resource="http://publications.europa.eu/ontology/authority/MappedCode"/>
+    <at:legacy-code>OFFICE</at:legacy-code>
+    <dc:source>WHOISWHO</dc:source>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,999 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/exc-right",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "exc-right"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "exc-right"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "exc-right"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "exc-right"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Предоставени са изключителни права"
+      },
+      {
+        "@language": "cs",
+        "@value": "Výlučná práva jsou udělena"
+      },
+      {
+        "@language": "da",
+        "@value": "Der ydes enerettigheder"
+      },
+      {
+        "@language": "de",
+        "@value": "Ausschließliche Rechte werden eingeräumt"
+      },
+      {
+        "@language": "el",
+        "@value": "Χορηγούνται αποκλειστικά δικαιώματα"
+      },
+      {
+        "@language": "en",
+        "@value": "Exclusive rights are granted"
+      },
+      {
+        "@language": "es",
+        "@value": "Se otorgan derechos exclusivos"
+      },
+      {
+        "@language": "et",
+        "@value": "Antud on ainuõigused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yksinoikeudet myönnetään"
+      },
+      {
+        "@language": "fr",
+        "@value": "Des droits exclusifs sont octroyés"
+      },
+      {
+        "@language": "ga",
+        "@value": "Deonaítear cearta eisiacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Isključiva prava se dodjeljuju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kizárólagos jogok biztosítottak"
+      },
+      {
+        "@language": "it",
+        "@value": "Sono concessi diritti di esclusiva"
+      },
+      {
+        "@language": "lt",
+        "@value": "Suteiktos išskirtinės teisės"
+      },
+      {
+        "@language": "lv",
+        "@value": "Piešķirtas ekskluzīvas tiesības"
+      },
+      {
+        "@language": "mt",
+        "@value": "Qegħdin jingħataw drittijiet esklussiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "Exclusieve rechten zijn toegekend"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przyznano wyłączne prawa"
+      },
+      {
+        "@language": "pt",
+        "@value": "São atribuídos direitos exclusivos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Drepturile exclusive sunt acordate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Výlučné práva sú udelené"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izključne pravice so dodeljene"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ensamrätt beviljas"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/all-rev-tic",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "all-rev-tic"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "all-rev-tic"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "all-rev-tic"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "all-rev-tic"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Разпределяне на приходи от продажби на билети"
+      },
+      {
+        "@language": "cs",
+        "@value": "Rozdělení výnosů z prodeje jízdenek"
+      },
+      {
+        "@language": "da",
+        "@value": "Fordeling af indtægter fra billetsalg"
+      },
+      {
+        "@language": "de",
+        "@value": "Zuteilung der Erträge aus dem Verkauf von Fahrscheinen"
+      },
+      {
+        "@language": "el",
+        "@value": "Κατανομή των εσόδων από την πώληση εισιτηρίων"
+      },
+      {
+        "@language": "en",
+        "@value": "Allocation of revenues of sales from tickets"
+      },
+      {
+        "@language": "es",
+        "@value": "Distribución de los ingresos derivados de la venta de los títulos de transporte"
+      },
+      {
+        "@language": "et",
+        "@value": "Piletimüügist saadava tulu jaotamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Matkalippujen myynnistä saatavien tulojen jakaminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Affectation des recettes provenant de la vente des titres de transport"
+      },
+      {
+        "@language": "ga",
+        "@value": "Leithdháileadh an ioncaim ó dhíolachán ticéad"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dodjela prihoda od prodaje karata"
+      },
+      {
+        "@language": "hu",
+        "@value": "A jegyértékesítésből származó bevételek megosztása"
+      },
+      {
+        "@language": "it",
+        "@value": "Ripartizione dei ricavi dalla vendita di biglietti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pajamų, gautų pardavus bilietus, paskirstymas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Biļešu pārdošanā iegūto ieņēmumu sadale"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-allokazzjoni tad-dħul mill-bejgħ tal-biljetti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verdeelsleutel voor de ontvangsten uit de verkoop van vervoerbewijzen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podział przychodów ze sprzedaży biletów"
+      },
+      {
+        "@language": "pt",
+        "@value": "Repartição das receitas ligadas à venda de títulos de transporte"
+      },
+      {
+        "@language": "ro",
+        "@value": "Alocarea veniturilor încasate din vânzarea de bilete"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vyčlenenie výnosov z predaja lístkov"
+      },
+      {
+        "@language": "sl",
+        "@value": "Razporeditev prihodkov iz prodaje vozovnic"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tilldelning av inkomster från biljettförsäljning"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contract detail"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "contract-detail"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Contract detail"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contract detail"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/soc-stand",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "soc-stand"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "soc-stand"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "soc-stand"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "soc-stand"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Социални стандарти"
+      },
+      {
+        "@language": "cs",
+        "@value": "Sociální normy"
+      },
+      {
+        "@language": "da",
+        "@value": "Sociale standarder"
+      },
+      {
+        "@language": "de",
+        "@value": "Soziale Standards"
+      },
+      {
+        "@language": "el",
+        "@value": "Κοινωνικά πρότυπα"
+      },
+      {
+        "@language": "en",
+        "@value": "Social standards"
+      },
+      {
+        "@language": "es",
+        "@value": "Normas sociales"
+      },
+      {
+        "@language": "et",
+        "@value": "Sotsiaalsed standardid"
+      },
+      {
+        "@language": "fi",
+        "@value": "Työehtoihin liittyvät vaatimukset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Normes sociales"
+      },
+      {
+        "@language": "ga",
+        "@value": "Caighdeáin shóisialta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Socijalni standardi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szociális normák"
+      },
+      {
+        "@language": "it",
+        "@value": "Standard sociali"
+      },
+      {
+        "@language": "lt",
+        "@value": "Socialiniai standartai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sociālie standart"
+      },
+      {
+        "@language": "mt",
+        "@value": "Standards soċjali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Sociale normen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Standardy socjalne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Padrões sociais"
+      },
+      {
+        "@language": "ro",
+        "@value": "Standarde sociale"
+      },
+      {
+        "@language": "sk",
+        "@value": "Sociálne normy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Socialni standardi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Sociala normer"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/cost-comp",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cost-comp"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cost-comp"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cost-comp"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cost-comp"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Ценови параметри за компенсационните плащания"
+      },
+      {
+        "@language": "cs",
+        "@value": "Parametry nákladů pro splátky kompenzace"
+      },
+      {
+        "@language": "da",
+        "@value": "Omkostningsparametre for kompensationsbetalinger"
+      },
+      {
+        "@language": "de",
+        "@value": "Kostenparameter für Ausgleichszahlungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Παράμετροι κόστους για πληρωμές αποζημιώσεων"
+      },
+      {
+        "@language": "en",
+        "@value": "Cost parameters for compensation payments"
+      },
+      {
+        "@language": "es",
+        "@value": "Parámetros de coste para el pago de compensaciones"
+      },
+      {
+        "@language": "et",
+        "@value": "Hüvitise maksumuse näitajad"
+      },
+      {
+        "@language": "fi",
+        "@value": "Korvausten kustannusperusteet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Paramètres de coût pour compensations"
+      },
+      {
+        "@language": "ga",
+        "@value": "Paraiméadair costais le haghaidh íocaíochtaí cúitimh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Troškovni parametri za plaćanja naknade"
+      },
+      {
+        "@language": "hu",
+        "@value": "Az ellentételezés költségparaméterei"
+      },
+      {
+        "@language": "it",
+        "@value": "Parametri di costo per le compensazioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kompensacinėms išmokoms taikomi išlaidų parametrai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izmaksu parametri attiecībā uz kompensāciju maksājumiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-parametri tal-ispejjeż biex isiru l-ħlasijiet ta’ kumpens"
+      },
+      {
+        "@language": "nl",
+        "@value": "Parameters voor kosten voor compensaties"
+      },
+      {
+        "@language": "pl",
+        "@value": "Parametry kosztów w celu obliczenia rekompensaty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Parâmetros de custo para compensações"
+      },
+      {
+        "@language": "ro",
+        "@value": "Parametri de cost pentru plata compensaţiilor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nákladové parametre pre platby úhrady"
+      },
+      {
+        "@language": "sl",
+        "@value": "Stroškovni parametri za nadomestila"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kostnadsparametrar för betalningar av kompensation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/publ-ser-obl",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "publ-ser-obl"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "publ-ser-obl"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "publ-ser-obl"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "publ-ser-obl"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Задължения, свързани с общесвената услуга"
+      },
+      {
+        "@language": "cs",
+        "@value": "Závazky veřejné služby"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentlige serviceforpligtelser"
+      },
+      {
+        "@language": "de",
+        "@value": "Gemeinwirtschaftliche Verpflichtungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Υποχρεώσεις παροχής δημόσιας υπηρεσίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Public service obligations"
+      },
+      {
+        "@language": "es",
+        "@value": "Obligaciones de servicio público"
+      },
+      {
+        "@language": "et",
+        "@value": "Avaliku teenindamise kohustused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkisia palveluja koskevat velvoitteet"
+      },
+      {
+        "@language": "fr",
+        "@value": "Obligations de service public"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oibleagáidí Seirbhíse Poiblí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obveze javnih usluga"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közszolgáltatási kötelezettségek"
+      },
+      {
+        "@language": "it",
+        "@value": "Obblighi di servizio pubblico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Įsipareigojimai teikti viešąsias paslaugas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sabiedrisko pakalpojumu sniegšanas saistības"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Obbligi ta’ Servizz Pubbliku"
+      },
+      {
+        "@language": "nl",
+        "@value": "Openbaredienstverplichtingen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zobowiązania do świadczenia usług publicznych"
+      },
+      {
+        "@language": "pt",
+        "@value": "Obrigações de Serviço Público"
+      },
+      {
+        "@language": "ro",
+        "@value": "Obligaţii de serviciu public"
+      },
+      {
+        "@language": "sk",
+        "@value": "Záväzky vyplývajúce zo služieb vo verejnom záujme"
+      },
+      {
+        "@language": "sl",
+        "@value": "Obveznosti javne službe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Skyldigheter avseende offentliga tjänster"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-detail/other",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-06-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "other"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-detail"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Други"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jiný"
+      },
+      {
+        "@language": "da",
+        "@value": "Andre"
+      },
+      {
+        "@language": "de",
+        "@value": "Sonstiges"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλη"
+      },
+      {
+        "@language": "en",
+        "@value": "Other"
+      },
+      {
+        "@language": "es",
+        "@value": "Otras"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autres"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ostali"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb"
+      },
+      {
+        "@language": "it",
+        "@value": "Altre"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kitos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Citi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Oħrajn"
+      },
+      {
+        "@language": "nl",
+        "@value": "Andere"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outras"
+      },
+      {
+        "@language": "ro",
+        "@value": "Alte"
+      },
+      {
+        "@language": "sk",
+        "@value": "Iná"
+      },
+      {
+        "@language": "sl",
+        "@value": "Drugo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Annat"
+      }
+    ]
+  }
+]

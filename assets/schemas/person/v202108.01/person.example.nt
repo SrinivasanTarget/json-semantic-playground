@@ -1,0 +1,10 @@
+<http://anpr/PLLCLL> <https://w3id.org/italia/onto/CPV/givenName> "Camilla" .
+<http://anpr/PLLRRT> <https://w3id.org/italia/onto/CPV/hasChildren> <http://anpr/PLLCLL> .
+<http://anpr/PLLRRT> <https://w3id.org/italia/onto/CPV/taxCode> "PLLRRT" .
+<http://anpr/PLLRRT> <https://w3id.org/italia/onto/CPV/givenName> "Roberto" .
+<http://anpr/PLLRCR> <https://w3id.org/italia/onto/CPV/givenName> "Riccardo" .
+<http://anpr/PLLRRT> <https://w3id.org/italia/onto/CPV/surname> "Polli" .
+<http://anpr/PLLRCR> <https://w3id.org/italia/onto/CPV/surname> "Polli" .
+<http://anpr/PLLCLL> <https://w3id.org/italia/onto/CPV/familyName> "Polli" .
+<http://anpr/PLLRRT> <https://w3id.org/italia/onto/CPV/hasChildren> <http://anpr/PLLRCR> .
+

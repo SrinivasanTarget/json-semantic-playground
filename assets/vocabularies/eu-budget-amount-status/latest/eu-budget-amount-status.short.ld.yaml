@@ -1,0 +1,48 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADOPTED
+  deprecated: 'false'
+  key: ADOPTED
+  label_en: Adopted
+  label_it: Adottato
+  url: http://publications.europa.eu/resource/authority/eu-budget-amount-status/ADOPTED
+  valid_from: '1958-01-01'
+- country_code: AMENDED
+  deprecated: 'false'
+  key: AMENDED
+  label_en: Amended
+  label_it: Modificato
+  url: http://publications.europa.eu/resource/authority/eu-budget-amount-status/AMENDED
+  valid_from: '1958-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/eu-budget-amount-status/OP_DATPRO
+- country_code: OUTTURN
+  deprecated: 'false'
+  key: OUTTURN
+  label_en: Outturn
+  label_it: Esecuzione
+  url: http://publications.europa.eu/resource/authority/eu-budget-amount-status/OUTTURN
+  valid_from: '1958-01-01'

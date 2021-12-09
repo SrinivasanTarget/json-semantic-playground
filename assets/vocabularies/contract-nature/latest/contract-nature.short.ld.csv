@@ -1,0 +1,12 @@
+# Serializing assets/vocabularies/contract-nature/latest/contract-nature.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/contract-nature
+# title: Contract nature
+# version: 20210317-0
+# description: Contract nature
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/contract-nature/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+combined,http://publications.europa.eu/resource/authority/contract-nature/combined,combined,Combined,Appalti misti,false,2021-03-17
+services,http://publications.europa.eu/resource/authority/contract-nature/services,services,Services,Servizi,false,2019-09-18
+supplies,http://publications.europa.eu/resource/authority/contract-nature/supplies,supplies,Supplies,Forniture,false,2019-09-18
+works,http://publications.europa.eu/resource/authority/contract-nature/works,works,Works,Lavori,false,2019-09-18

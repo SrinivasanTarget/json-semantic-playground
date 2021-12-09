@@ -1,0 +1,98 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADMIR_VICE
+  deprecated: 'false'
+  key: ADMIR_VICE
+  label_en: RAdm
+  url: http://publications.europa.eu/resource/authority/honorific/ADMIR_VICE
+  valid_from: '2009-12-01'
+- country_code: CAPT_FLT
+  deprecated: 'false'
+  key: CAPT_FLT
+  label_en: Capt
+  url: http://publications.europa.eu/resource/authority/honorific/CAPT_FLT
+  valid_from: '2009-12-01'
+- country_code: CDRE
+  deprecated: 'false'
+  key: CDRE
+  label_en: Cdre
+  url: http://publications.europa.eu/resource/authority/honorific/CDRE
+  valid_from: '2009-12-01'
+- country_code: COL
+  deprecated: 'false'
+  key: COL
+  label_en: Col.
+  label_it: Col.
+  url: http://publications.europa.eu/resource/authority/honorific/COL
+  valid_from: '2009-12-01'
+- country_code: DR
+  deprecated: 'false'
+  key: DR
+  label_en: Dr
+  label_it: Dott.
+  url: http://publications.europa.eu/resource/authority/honorific/DR
+  valid_from: '2009-12-01'
+- country_code: HEMR
+  deprecated: 'false'
+  key: HEMR
+  label_en: HE Mr
+  url: http://publications.europa.eu/resource/authority/honorific/HEMR
+  valid_from: '2009-12-01'
+- country_code: HEMS
+  deprecated: 'false'
+  key: HEMS
+  label_en: HE Ms
+  label_it: S.E.
+  url: http://publications.europa.eu/resource/authority/honorific/HEMS
+  valid_from: '2009-12-01'
+- country_code: LTCOL
+  deprecated: 'false'
+  key: LTCOL
+  label_en: Lt Col
+  url: http://publications.europa.eu/resource/authority/honorific/LTCOL
+  valid_from: '2009-12-01'
+- country_code: LTGEN
+  deprecated: 'false'
+  key: LTGEN
+  label_en: Lt. Gen.
+  url: http://publications.europa.eu/resource/authority/honorific/LTGEN
+  valid_from: '2009-12-01'
+- country_code: MR
+  deprecated: 'false'
+  key: MR
+  label_en: Mr
+  label_it: Sig.
+  url: http://publications.europa.eu/resource/authority/honorific/MR
+  valid_from: '2009-12-01'
+- country_code: MS
+  deprecated: 'false'
+  key: MS
+  label_en: Ms
+  label_it: Sig.ra
+  url: http://publications.europa.eu/resource/authority/honorific/MS
+  valid_from: '2009-12-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/honorific/OP_DATPRO

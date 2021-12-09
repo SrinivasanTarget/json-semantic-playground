@@ -1,0 +1,20 @@
+# Serializing assets/vocabularies/procresult/latest/procresult.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/procresult
+# title: Legal proceeding result
+# version: 20160921-0
+# description: Legal proceeding result
+key,url,deprecated,valid_from,country_code,label_en,label_it
+ADJ,http://publications.europa.eu/resource/authority/procresult/ADJ,false,1952-07-24,ADJ,Adjourned,Aggiornato
+APPL_GRANT,http://publications.europa.eu/resource/authority/procresult/APPL_GRANT,false,1952-07-24,APPL_GRANT,Application granted,Accoglimento
+CONFORM_NON_TREATY,http://publications.europa.eu/resource/authority/procresult/CONFORM_NON_TREATY,false,1952-07-24,CONFORM_NON_TREATY,Non-conformity with the Treaty (opinions or rulings),Non conformità con il Trattato (pareri o deliberazioni)
+CONFORM_TREATY,http://publications.europa.eu/resource/authority/procresult/CONFORM_TREATY,false,1952-07-24,CONFORM_TREATY,Conformity with the Treaty (opinions or rulings),Conformità con il Trattato (pareri o deliberazioni)
+DISM_GROUNDS_INADM,http://publications.europa.eu/resource/authority/procresult/DISM_GROUNDS_INADM,false,1952-07-24,DISM_GROUNDS_INADM,Dismissal on grounds of inadmissibility,Rigetto per irricevibilità
+DISM_SUBST_GROUNDS,http://publications.europa.eu/resource/authority/procresult/DISM_SUBST_GROUNDS,false,1952-07-24,DISM_SUBST_GROUNDS,Dismissal on substantive grounds,Rigetto nel merito
+JUDG_INTLC,http://publications.europa.eu/resource/authority/procresult/JUDG_INTLC,false,1952-07-24,JUDG_INTLC,Interlocutory judgment,Sentenza interlocutoria
+JUDG_NOT_PROCEED,http://publications.europa.eu/resource/authority/procresult/JUDG_NOT_PROCEED,false,1952-07-24,JUDG_NOT_PROCEED,Case not proceeding to judgment,Non luogo a provvedere
+OP_DATPRO,http://publications.europa.eu/resource/authority/procresult/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+RAD,http://publications.europa.eu/resource/authority/procresult/RAD,false,1952-07-24,RAD,Removal from the register,Cancellazione dal ruolo
+STL_AMI_HEAR,http://publications.europa.eu/resource/authority/procresult/STL_AMI_HEAR,false,1952-07-24,STL_AMI_HEAR,Amicable settlement made at a hearing,Composizione amichevole raggiunta nel corso di un'udienza
+STL_AMI_INFHEAR,http://publications.europa.eu/resource/authority/procresult/STL_AMI_INFHEAR,false,1952-07-24,STL_AMI_INFHEAR,Amicable settlement made at an informal meeting,Composizione amichevole raggiunta nel corso di una riunione informale
+STL_AMI_PARTIES,http://publications.europa.eu/resource/authority/procresult/STL_AMI_PARTIES,false,1952-07-24,STL_AMI_PARTIES,Amicable settlement made between the parties,Composizione amichevole raggiunta tra le parti

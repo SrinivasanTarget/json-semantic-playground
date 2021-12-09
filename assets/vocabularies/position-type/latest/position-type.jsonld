@@ -1,0 +1,1017 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/OTHER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "друго"
+      },
+      {
+        "@language": "cs",
+        "@value": "jiný"
+      },
+      {
+        "@language": "da",
+        "@value": "anden"
+      },
+      {
+        "@language": "de",
+        "@value": "andere"
+      },
+      {
+        "@language": "el",
+        "@value": "άλλο"
+      },
+      {
+        "@language": "en",
+        "@value": "other"
+      },
+      {
+        "@language": "es",
+        "@value": "otro"
+      },
+      {
+        "@language": "et",
+        "@value": "muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "muu"
+      },
+      {
+        "@language": "fr",
+        "@value": "autre"
+      },
+      {
+        "@language": "ga",
+        "@value": "eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "drugo"
+      },
+      {
+        "@language": "hu",
+        "@value": "egyéb"
+      },
+      {
+        "@language": "it",
+        "@value": "altro"
+      },
+      {
+        "@language": "lt",
+        "@value": "kitas"
+      },
+      {
+        "@language": "lv",
+        "@value": "cits"
+      },
+      {
+        "@language": "mt",
+        "@value": "ieħor"
+      },
+      {
+        "@language": "nl",
+        "@value": "ander"
+      },
+      {
+        "@language": "pl",
+        "@value": "inny"
+      },
+      {
+        "@language": "pt",
+        "@value": "outro"
+      },
+      {
+        "@language": "ro",
+        "@value": "altele"
+      },
+      {
+        "@language": "sk",
+        "@value": "iný"
+      },
+      {
+        "@language": "sl",
+        "@value": "drugo"
+      },
+      {
+        "@language": "sv",
+        "@value": "annan"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/CONTR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONTR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONTR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONTR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "договорно нает"
+      },
+      {
+        "@language": "cs",
+        "@value": "smluvní"
+      },
+      {
+        "@language": "da",
+        "@value": "kontraktlig"
+      },
+      {
+        "@language": "de",
+        "@value": "vertragsbedienstet"
+      },
+      {
+        "@language": "el",
+        "@value": "συμβατική"
+      },
+      {
+        "@language": "en",
+        "@value": "contractual"
+      },
+      {
+        "@language": "es",
+        "@value": "contractual"
+      },
+      {
+        "@language": "et",
+        "@value": "lepinguline"
+      },
+      {
+        "@language": "fi",
+        "@value": "sopimussuhteinen"
+      },
+      {
+        "@language": "fr",
+        "@value": "contractuel"
+      },
+      {
+        "@language": "ga",
+        "@value": "conarthach"
+      },
+      {
+        "@language": "hr",
+        "@value": "ugovorno osoblje"
+      },
+      {
+        "@language": "hu",
+        "@value": "szerződéses"
+      },
+      {
+        "@language": "it",
+        "@value": "contrattuale"
+      },
+      {
+        "@language": "lt",
+        "@value": "sutartininkas"
+      },
+      {
+        "@language": "lv",
+        "@value": "līgumdarbinieks"
+      },
+      {
+        "@language": "mt",
+        "@value": "kuntrattwali"
+      },
+      {
+        "@language": "nl",
+        "@value": "arbeidscontractant"
+      },
+      {
+        "@language": "pl",
+        "@value": "kontraktowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "contratual"
+      },
+      {
+        "@language": "ro",
+        "@value": "contractual"
+      },
+      {
+        "@language": "sk",
+        "@value": "zmluvný"
+      },
+      {
+        "@language": "sl",
+        "@value": "pogodbeni uslužbenci"
+      },
+      {
+        "@language": "sv",
+        "@value": "kontraktsanställd"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/TRAINEE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TRAINEE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TRAINEE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TRAINEE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TRAINEE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "lt",
+        "@value": "stažuotoja"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "стажант"
+      },
+      {
+        "@language": "cs",
+        "@value": "stážista"
+      },
+      {
+        "@language": "da",
+        "@value": "praktikant"
+      },
+      {
+        "@language": "de",
+        "@value": "Praktikant"
+      },
+      {
+        "@language": "el",
+        "@value": "ασκούμενος"
+      },
+      {
+        "@language": "en",
+        "@value": "trainee"
+      },
+      {
+        "@language": "es",
+        "@value": "becario"
+      },
+      {
+        "@language": "et",
+        "@value": "praktikant"
+      },
+      {
+        "@language": "fi",
+        "@value": "harjoittelija"
+      },
+      {
+        "@language": "fr",
+        "@value": "stagiaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "oiliúnaí"
+      },
+      {
+        "@language": "hr",
+        "@value": "pripravnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "gyakornok"
+      },
+      {
+        "@language": "it",
+        "@value": "tirocinante"
+      },
+      {
+        "@language": "lt",
+        "@value": "stažuotojas"
+      },
+      {
+        "@language": "lv",
+        "@value": "stažieris"
+      },
+      {
+        "@language": "mt",
+        "@value": "trainee"
+      },
+      {
+        "@language": "nl",
+        "@value": "stagiair"
+      },
+      {
+        "@language": "pl",
+        "@value": "stażysta"
+      },
+      {
+        "@language": "pt",
+        "@value": "estagiário"
+      },
+      {
+        "@language": "ro",
+        "@value": "stagiar"
+      },
+      {
+        "@language": "sk",
+        "@value": "stážista"
+      },
+      {
+        "@language": "sl",
+        "@value": "pripravnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "praktikant"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/TEMP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "TEMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "TEMP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "TEMP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "TEMP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "pt",
+        "@value": "temporária"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "срочна"
+      },
+      {
+        "@language": "cs",
+        "@value": "dočasné"
+      },
+      {
+        "@language": "da",
+        "@value": "midlertidig"
+      },
+      {
+        "@language": "de",
+        "@value": "bedienstet auf Zeit"
+      },
+      {
+        "@language": "el",
+        "@value": "προσωρινή"
+      },
+      {
+        "@language": "en",
+        "@value": "temporary"
+      },
+      {
+        "@language": "es",
+        "@value": "temporal"
+      },
+      {
+        "@language": "et",
+        "@value": "ajutine"
+      },
+      {
+        "@language": "fi",
+        "@value": "väliaikainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "temporaire"
+      },
+      {
+        "@language": "ga",
+        "@value": "sealadach"
+      },
+      {
+        "@language": "hr",
+        "@value": "privremeno osoblje"
+      },
+      {
+        "@language": "hu",
+        "@value": "ideiglenes"
+      },
+      {
+        "@language": "it",
+        "@value": "temporaneo"
+      },
+      {
+        "@language": "lt",
+        "@value": "laikinas"
+      },
+      {
+        "@language": "lv",
+        "@value": "pagaidu"
+      },
+      {
+        "@language": "mt",
+        "@value": "temporanju"
+      },
+      {
+        "@language": "nl",
+        "@value": "in tijdelijke dienst"
+      },
+      {
+        "@language": "pl",
+        "@value": "zatrudniony na czas określony"
+      },
+      {
+        "@language": "pt",
+        "@value": "temporário"
+      },
+      {
+        "@language": "ro",
+        "@value": "temporar"
+      },
+      {
+        "@language": "sk",
+        "@value": "dočasný"
+      },
+      {
+        "@language": "sl",
+        "@value": "začasno osebje"
+      },
+      {
+        "@language": "sv",
+        "@value": "tillfällig"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/SNE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SNE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SNE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SNE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SNE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "lt",
+        "@value": "deleguotoji nacionalinė ekspertė"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "командирован национален експерт"
+      },
+      {
+        "@language": "cs",
+        "@value": "vyslaný národní odborník"
+      },
+      {
+        "@language": "da",
+        "@value": "udstationeret national ekspert"
+      },
+      {
+        "@language": "de",
+        "@value": "abgeordneter nationaler Experte"
+      },
+      {
+        "@language": "el",
+        "@value": "αποσπασμένος εθνικός εμπειρογνώμονας"
+      },
+      {
+        "@language": "en",
+        "@value": "seconded national expert"
+      },
+      {
+        "@language": "es",
+        "@value": "experto nacional en comisión de servicio"
+      },
+      {
+        "@language": "et",
+        "@value": "lähetatud riiklik ekspert"
+      },
+      {
+        "@language": "fi",
+        "@value": "kansallinen asiantuntija"
+      },
+      {
+        "@language": "fr",
+        "@value": "expert national détaché"
+      },
+      {
+        "@language": "ga",
+        "@value": "saineolaí náisiúnta ar Iasacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "upućeni nacionalni stručnjak"
+      },
+      {
+        "@language": "hu",
+        "@value": "kirendelt nemzeti szakértő"
+      },
+      {
+        "@language": "it",
+        "@value": "esperto nazionale distaccato"
+      },
+      {
+        "@language": "lt",
+        "@value": "deleguotasis nacionalinis ekspertas"
+      },
+      {
+        "@language": "lv",
+        "@value": "valsts norīkotais eksperts"
+      },
+      {
+        "@language": "mt",
+        "@value": "espert nazzjonali sekondat"
+      },
+      {
+        "@language": "nl",
+        "@value": "gedetacheerd nationaal deskundige"
+      },
+      {
+        "@language": "pl",
+        "@value": "oddelegowany ekspert krajowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "perito nacional destacado"
+      },
+      {
+        "@language": "ro",
+        "@value": "expert național detașat"
+      },
+      {
+        "@language": "sk",
+        "@value": "vyslaný národný expert"
+      },
+      {
+        "@language": "sl",
+        "@value": "napoteni nacionalni strokovnjak"
+      },
+      {
+        "@language": "sv",
+        "@value": "utstationerad nationell expert"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Position type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "position-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Position type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210929-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Position type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/position-type/PERM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "PERM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "PERM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "PERM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "PERM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/position-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "постоянна"
+      },
+      {
+        "@language": "cs",
+        "@value": "stálé"
+      },
+      {
+        "@language": "da",
+        "@value": "fast"
+      },
+      {
+        "@language": "de",
+        "@value": "beamtet"
+      },
+      {
+        "@language": "el",
+        "@value": "αορίστου χρόνου"
+      },
+      {
+        "@language": "en",
+        "@value": "permanent"
+      },
+      {
+        "@language": "es",
+        "@value": "permanente"
+      },
+      {
+        "@language": "et",
+        "@value": "alaline"
+      },
+      {
+        "@language": "fi",
+        "@value": "vakinainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "permanent"
+      },
+      {
+        "@language": "ga",
+        "@value": "buan"
+      },
+      {
+        "@language": "hr",
+        "@value": "stalno osoblje"
+      },
+      {
+        "@language": "hu",
+        "@value": "állandó"
+      },
+      {
+        "@language": "it",
+        "@value": "permanente"
+      },
+      {
+        "@language": "lt",
+        "@value": "nuolatinis"
+      },
+      {
+        "@language": "lv",
+        "@value": "pastāvīgs"
+      },
+      {
+        "@language": "mt",
+        "@value": "permanenti"
+      },
+      {
+        "@language": "nl",
+        "@value": "in vaste dienst"
+      },
+      {
+        "@language": "pl",
+        "@value": "stały"
+      },
+      {
+        "@language": "pt",
+        "@value": "permanente"
+      },
+      {
+        "@language": "ro",
+        "@value": "permanent"
+      },
+      {
+        "@language": "sk",
+        "@value": "stály"
+      },
+      {
+        "@language": "sl",
+        "@value": "stalno osebje"
+      },
+      {
+        "@language": "sv",
+        "@value": "fast"
+      }
+    ]
+  }
+]

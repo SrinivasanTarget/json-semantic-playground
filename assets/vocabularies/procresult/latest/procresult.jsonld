@@ -1,0 +1,5667 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/ADJ",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ADJ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ADJ"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b1"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b2"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b3"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b4"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b5"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b6"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b7"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b8"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b9"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b10"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b11"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b12"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b13"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b14"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b15"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b16"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b17"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b18"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b19"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b20"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b21"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b22"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ADJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ADJ"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отлагане"
+      },
+      {
+        "@language": "cs",
+        "@value": "Odročený"
+      },
+      {
+        "@language": "da",
+        "@value": "Udsat"
+      },
+      {
+        "@language": "de",
+        "@value": "Vertagung"
+      },
+      {
+        "@language": "el",
+        "@value": "Αναβολή"
+      },
+      {
+        "@language": "en",
+        "@value": "Adjourned"
+      },
+      {
+        "@language": "es",
+        "@value": "Aplazado"
+      },
+      {
+        "@language": "et",
+        "@value": "Istung on edasi lükatud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Istuntoa on siirretty"
+      },
+      {
+        "@language": "fr",
+        "@value": "Ajourné"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ar atráth"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odgoda"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elnapolt"
+      },
+      {
+        "@language": "it",
+        "@value": "Aggiornato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atidėjimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atlikts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Differit"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verdaagd"
+      },
+      {
+        "@language": "pl",
+        "@value": "Odroczony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Adiado"
+      },
+      {
+        "@language": "ro",
+        "@value": "Amânare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Odročený"
+      },
+      {
+        "@language": "sl",
+        "@value": "Preložen(a)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Senareläggning"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b12",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b13",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b14",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b15",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b16",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b17",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PREJ=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b18",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b19",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b20",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b21",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COMP=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b22",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=AJ"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/DISM_SUBST_GROUNDS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DISM_SUBST_GROUNDS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DISM_SUBST_GROUNDS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b70"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b71"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b72"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b73"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b74"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b75"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b76"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b77"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b78"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b79"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b80"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b81"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b82"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b83"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b84"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b85"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b86"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b87"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b88"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b89"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DISM_SUBST_GROUNDS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DISM_SUBST_GROUNDS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отхвърляне на иска/жалбата по същество"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zamítnutí ve věci samé"
+      },
+      {
+        "@language": "da",
+        "@value": "Frifindelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Zurückweisung als unbegründet"
+      },
+      {
+        "@language": "el",
+        "@value": "Απόρριψη επί της ουσίας"
+      },
+      {
+        "@language": "en",
+        "@value": "Dismissal on substantive grounds"
+      },
+      {
+        "@language": "es",
+        "@value": "Desestimación"
+      },
+      {
+        "@language": "et",
+        "@value": "Sisuline rahuldamata jätmine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hylkääminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Rejet sur le fond"
+      },
+      {
+        "@language": "ga",
+        "@value": "Forais shubstainteacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odbijanje zbog neosnovanosti"
+      },
+      {
+        "@language": "hu",
+        "@value": "Érdemben történő elutasítás"
+      },
+      {
+        "@language": "it",
+        "@value": "Rigetto nel merito"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atmetimas dėl esmės"
+      },
+      {
+        "@language": "lv",
+        "@value": "Noraidījums pēc būtības"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ċaħda fuq il-mertu"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verwerping ten gronde"
+      },
+      {
+        "@language": "pl",
+        "@value": "Oddalenie co do istoty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Improcedência"
+      },
+      {
+        "@language": "ro",
+        "@value": "Respingere pe fond"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zamietnutie vo veci samej"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zavrnitev po temelju"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ogillande i sak"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b70",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b71",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b72",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b73",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "EXEC=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b74",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b75",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b76",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b77",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b78",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b79",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b80",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b81",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b82",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COMP=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b83",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b84",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b85",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b86",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b87",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b88",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b89",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=RF"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Legal proceeding result"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "procresult"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Legal proceeding result"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Legal proceeding result"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/JUDG_INTLC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JUDG_INTLC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JUDG_INTLC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b90"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b91"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b92"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b93"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b94"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b95"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b96"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b97"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b98"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b99"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b100"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b101"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b102"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b103"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b104"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b105"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b106"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b107"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b108"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b109"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b110"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b111"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JUDG_INTLC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JUDG_INTLC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Междинно решение"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mezitímní rozsudek"
+      },
+      {
+        "@language": "da",
+        "@value": "Mellemdom"
+      },
+      {
+        "@language": "de",
+        "@value": "Zwischenurteil"
+      },
+      {
+        "@language": "el",
+        "@value": "Παρεμπίπτουσα απόφαση"
+      },
+      {
+        "@language": "en",
+        "@value": "Interlocutory judgment"
+      },
+      {
+        "@language": "es",
+        "@value": "Sentencia interlocutoria"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgne otsus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Välituomio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Arrêt interlocutoire"
+      },
+      {
+        "@language": "ga",
+        "@value": "Breithiúnas idirbhreitheach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremena presuda"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közbenső ítélet"
+      },
+      {
+        "@language": "it",
+        "@value": "Sentenza interlocutoria"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarpinis sprendimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Starpspriedums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sentenza interlokutorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Interlocutoir arrest"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wyrok wstępny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Acórdão interlocutório"
+      },
+      {
+        "@language": "ro",
+        "@value": "Încheiere interlocutorie"
+      },
+      {
+        "@language": "sk",
+        "@value": "Medzitýmny rozsudok"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vmesna sodba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Mellandom"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b90",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b91",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b92",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b93",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b94",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PREJ=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b95",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b96",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b97",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b98",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b99",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b100",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b101",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b102",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b103",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b104",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b105",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COMP=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b106",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b107",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b108",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b109",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b110",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b111",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=IL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/RAD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "RAD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "RAD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b136"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b137"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b138"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b139"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b140"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b141"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b142"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b143"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b144"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b145"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b146"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b147"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b148"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b149"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b150"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b151"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b152"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b153"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b154"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b155"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b156"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b157"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b158"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b159"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "RAD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "RAD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Заличаване"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vyškrtnutí věci z rejstříku"
+      },
+      {
+        "@language": "da",
+        "@value": "Slettelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Streichung"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαγραφή"
+      },
+      {
+        "@language": "en",
+        "@value": "Removal from the register"
+      },
+      {
+        "@language": "es",
+        "@value": "Archivo"
+      },
+      {
+        "@language": "et",
+        "@value": "Registrist kustutamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Asian poistaminen rekisteristä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Radiation"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cás a bhaint den chlár"
+      },
+      {
+        "@language": "hr",
+        "@value": "Brisanje iz upisnika"
+      },
+      {
+        "@language": "hu",
+        "@value": "Törlés"
+      },
+      {
+        "@language": "it",
+        "@value": "Cancellazione dal ruolo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Išbraukimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lietas izslēgšana no reģistra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Tħassir tal-kawża"
+      },
+      {
+        "@language": "nl",
+        "@value": "Doorhaling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wykreślenie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Cancelamento"
+      },
+      {
+        "@language": "ro",
+        "@value": "Radiere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Výmaz"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izbris"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avskrivning"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b136",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b137",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b138",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b139",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b140",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b141",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b142",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b143",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b144",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b145",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b146",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b147",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b148",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b149",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PREF=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b150",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PREJ=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b151",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b152",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b153",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b154",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "EXEC=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b155",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b156",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b157",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b158",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COMP=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b159",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=RD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/STL_AMI_PARTIES",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "STL_AMI_PARTIES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "STL_AMI_PARTIES"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "STL_AMI_PARTIES"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "STL_AMI_PARTIES"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Уреждане на спора по взаимно съгласие на страните"
+      },
+      {
+        "@language": "cs",
+        "@value": "Smírné urovnání mezi účastníky řízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Forlig mellem parterne"
+      },
+      {
+        "@language": "de",
+        "@value": "Gütliche Beilegung durch die Parteien"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμβιβασμός που συμφωνήθηκε μεταξύ των διαδίκων"
+      },
+      {
+        "@language": "en",
+        "@value": "Amicable settlement made between the parties"
+      },
+      {
+        "@language": "es",
+        "@value": "Solución amistosa acordada por las partes"
+      },
+      {
+        "@language": "et",
+        "@value": "Pooltevaheline kompromiss"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sovintoratkaisu, johon on päästy asianosaisten välillä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Règlement à l'amiable intervenu entre les parties"
+      },
+      {
+        "@language": "ga",
+        "@value": "Reiteach cairdiúil a bhaint amach idir na páirtithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sklapanje nagodbe među strankama"
+      },
+      {
+        "@language": "hu",
+        "@value": "A felek között létrejött egyezség"
+      },
+      {
+        "@language": "it",
+        "@value": "Composizione amichevole raggiunta tra le parti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Draugiškas ginčo sprendimas tarp šalių"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lietas dalībnieku panākts izlīgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ftehim bonarju milħuq bejn il-partijiet"
+      },
+      {
+        "@language": "nl",
+        "@value": "Minnelijke regeling totstandgekomen tussen de partijen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zawarcie ugody przez strony"
+      },
+      {
+        "@language": "pt",
+        "@value": "Resolução amigável obtida entre as partes"
+      },
+      {
+        "@language": "ro",
+        "@value": "Soluționare amiabilă intervenită între părți"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zmier uzavretý medzi účastníkmi konania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mirna rešitev spora med strankama/i"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förlikning som träffats mellan parterna"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/STL_AMI_HEAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "STL_AMI_HEAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "STL_AMI_HEAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "STL_AMI_HEAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "STL_AMI_HEAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Уреждане на спора по взаимно съгласие в хода на съдебното заседание"
+      },
+      {
+        "@language": "cs",
+        "@value": "Smírné urovnání, k němuž došlo na jednání"
+      },
+      {
+        "@language": "da",
+        "@value": "Forlig i et retsmøde"
+      },
+      {
+        "@language": "de",
+        "@value": "Gütliche Beilegung in einer Sitzung"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμβιβασμός που επήλθε σε συνεδρίαση"
+      },
+      {
+        "@language": "en",
+        "@value": "Amicable settlement made at a hearing"
+      },
+      {
+        "@language": "es",
+        "@value": "Solución amistosa acordada en una vista"
+      },
+      {
+        "@language": "et",
+        "@value": "Kompromiss, milleni jõuti kohtuistungil"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sovintoratkaisu, johon on päästy istunnossa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Règlement à l'amiable intervenu lors d'une audience"
+      },
+      {
+        "@language": "ga",
+        "@value": "Réiteach cairdiúil a bhaint amach ag éisteacht"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sklapanje nagodbe na raspravi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Tárgyaláson létrejött egyezség"
+      },
+      {
+        "@language": "it",
+        "@value": "Composizione amichevole raggiunta nel corso di un'udienza"
+      },
+      {
+        "@language": "lt",
+        "@value": "Posėdyje pasiektas draugiškas ginčo sprendimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tiesas sēdē panākts izlīgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ftehim bonarju milħuq matul seduta"
+      },
+      {
+        "@language": "nl",
+        "@value": "Minnelijke regeling totstandgekomen tijdens een terechtzitting"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zawarcie ugody podczas rozprawy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Resolução amigável obtida numa audiência"
+      },
+      {
+        "@language": "ro",
+        "@value": "Soluționare amiabilă intervenită cu ocazia unei ședințe"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zmier uzavretý na pojednávaní"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mirna rešitev spora na obravnavi"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förlikning som träffats vid en förhandling"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/CONFORM_TREATY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONFORM_TREATY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONFORM_TREATY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b45"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b46"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONFORM_TREATY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONFORM_TREATY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Съответствие с Договора (становища или решения)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soulad se Smlouvou (posudek nebo usnesení)"
+      },
+      {
+        "@language": "da",
+        "@value": "Forenelighed med traktaten (udtalelse eller afgørelse)"
+      },
+      {
+        "@language": "de",
+        "@value": "Vereinbarkeit mit dem Vertrag (Gutachten oder Beschlüsse)"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμφωνία προς τη Συνθήκης (γνωμοδοτήσεις ή αποφάσεις-délibérations)"
+      },
+      {
+        "@language": "en",
+        "@value": "Conformity with the Treaty (opinions or rulings)"
+      },
+      {
+        "@language": "es",
+        "@value": "Conformidad con el Tratado (dictámenes o acuerdos)"
+      },
+      {
+        "@language": "et",
+        "@value": "Asutamislepingule vastavus (arvamused või otsused)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Perustamissopimuksen mukaisuus (lausunnot tai päätökset)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Conformité avec le Traité (avis ou délibérations)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhréireacht leis an gConradh (tuairimí nó pléití)"
+      },
+      {
+        "@language": "hr",
+        "@value": "U skladu s Ugovorom (mišljenja ili odluke)"
+      },
+      {
+        "@language": "hu",
+        "@value": "A Szerződésnek való megfelelés (vélemények vagy határozatok)"
+      },
+      {
+        "@language": "it",
+        "@value": "Conformità con il Trattato (pareri o deliberazioni)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atitiktis Sutarčiai (nuomonės arba nutarimai)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Atbilstība Līgumam (atzinumi vai nolēmumi)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Konformità mat-Trattat (opinjoni jew deliberazzjonijiet)"
+      },
+      {
+        "@language": "nl",
+        "@value": "In overeenstemming met het Verdrag (adviezen of beraadslagingen)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zgodność z traktatem (opinie lub obrady)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Conformidade com o Tratado (pareceres ou deliberações)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Conformitate cu tratatul (avize sau hotărâri)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Súlad so Zmluvou (stanovisko alebo porady)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Skladnost s Pogodbo (mnenje ali posvetovanja)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förenlighet med fördraget (yttranden eller avgöranden)"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b45",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=DC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b46",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=DC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/CONFORM_NON_TREATY",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONFORM_NON_TREATY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONFORM_NON_TREATY"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b43"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b44"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONFORM_NON_TREATY"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONFORM_NON_TREATY"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Несъотвествие с Договора (становища или решения)"
+      },
+      {
+        "@language": "cs",
+        "@value": "Nesoulad se smlouvou (posudek nebo usnesení)"
+      },
+      {
+        "@language": "da",
+        "@value": "Manglende overensstemmelse med traktaten (udtalelse eller afgørelse)"
+      },
+      {
+        "@language": "de",
+        "@value": "Unvereinbarkeit mit dem Vertrag (Gutachten oder Beschlüsse)"
+      },
+      {
+        "@language": "el",
+        "@value": "Μη συμφωνία προς τη Συνθήκη (γνωμοδοτήσεις ή αποφάσεις-délibérations)"
+      },
+      {
+        "@language": "en",
+        "@value": "Non-conformity with the Treaty (opinions or rulings)"
+      },
+      {
+        "@language": "es",
+        "@value": "No conformidad con el Tratado (dictámenes o acuerdos)"
+      },
+      {
+        "@language": "et",
+        "@value": "Asutamislepingule mittevastavus (arvamused või otsused)"
+      },
+      {
+        "@language": "fi",
+        "@value": "Perustamissopimuksen vastaisuus (lausunnot tai päätökset)"
+      },
+      {
+        "@language": "fr",
+        "@value": "Non-conformité avec le Traité (avis ou délibérations)"
+      },
+      {
+        "@language": "ga",
+        "@value": "Neamhchomhréireacht leis an gConradh (tuairimí nó pléití)"
+      },
+      {
+        "@language": "hr",
+        "@value": "Nije u skladu s Ugovorom (mišljenja ili odluke)"
+      },
+      {
+        "@language": "hu",
+        "@value": "A Szerződésnek való megfelelés hiánya (vélemények vagy határozatok)"
+      },
+      {
+        "@language": "it",
+        "@value": "Non conformità con il Trattato (pareri o deliberazioni)"
+      },
+      {
+        "@language": "lt",
+        "@value": "Neatitiktis Sutarčiai (nuomonės ar nutarimai)"
+      },
+      {
+        "@language": "lv",
+        "@value": "Neatbilstība Līgumam (atzinumi vai nolēmumi)"
+      },
+      {
+        "@language": "mt",
+        "@value": "Nuqqas ta’ konformità mat-Trattat (opinjoni jew deliberazzjonijiet)"
+      },
+      {
+        "@language": "nl",
+        "@value": "Niet in overeenstemming met het Verdrag (adviezen of beraadslagingen)"
+      },
+      {
+        "@language": "pl",
+        "@value": "Brak zgodności z traktatem (opinie lub obrady)"
+      },
+      {
+        "@language": "pt",
+        "@value": "Não conformidade com o Tratado (pareceres ou deliberações)"
+      },
+      {
+        "@language": "ro",
+        "@value": "Neconformitate cu tratatul (avize sau hotărâri)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Nesúlad so Zmluvou (stanovisko alebo porady)"
+      },
+      {
+        "@language": "sl",
+        "@value": "Neskladnost s Pogodbo (mnenje ali posvetovanja)"
+      },
+      {
+        "@language": "sv",
+        "@value": "Oförenlighet med fördraget (yttranden eller avgöranden)"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b43",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=NC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b44",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=NC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/APPL_GRANT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "APPL_GRANT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "APPL_GRANT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b23"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b24"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b25"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b26"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b27"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b28"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b29"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b30"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b31"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b32"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b33"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b34"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b35"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b36"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b37"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b38"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b39"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b40"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b41"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b42"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "APPL_GRANT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "APPL_GRANT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Уважаване"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pořízení"
+      },
+      {
+        "@language": "da",
+        "@value": "Opnåelse/indhentelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Stattgabe"
+      },
+      {
+        "@language": "el",
+        "@value": "Αποδοχή του αιτήματος"
+      },
+      {
+        "@language": "en",
+        "@value": "Application granted"
+      },
+      {
+        "@language": "es",
+        "@value": "Obtención"
+      },
+      {
+        "@language": "et",
+        "@value": "Rahuldamine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Myöntäminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Obtention"
+      },
+      {
+        "@language": "ga",
+        "@value": "Iarratas deonaithe"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zahtjev usvojen"
+      },
+      {
+        "@language": "hu",
+        "@value": "Helyt adás"
+      },
+      {
+        "@language": "it",
+        "@value": "Accoglimento"
+      },
+      {
+        "@language": "lt",
+        "@value": "Reikalavimų patenkinimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Iegūšana"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ilqugħ"
+      },
+      {
+        "@language": "nl",
+        "@value": "Toewijzing"
+      },
+      {
+        "@language": "pl",
+        "@value": "Uzyskanie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Obtenção"
+      },
+      {
+        "@language": "ro",
+        "@value": "Admitere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Získanie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pridobitev"
+      },
+      {
+        "@language": "sv",
+        "@value": "Bifall"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b23",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b24",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b25",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b26",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REEX=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b27",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b28",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "EXEC=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b29",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b30",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b31",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b32",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b33",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b34",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b35",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b36",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b37",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b38",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b39",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b40",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b41",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b42",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=OB"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/STL_AMI_INFHEAR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "STL_AMI_INFHEAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "STL_AMI_INFHEAR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "STL_AMI_INFHEAR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "STL_AMI_INFHEAR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Уреждане на спора по взаимно съгласие на неформална среща"
+      },
+      {
+        "@language": "cs",
+        "@value": "Smírné urovnání, k němuž došlo na neformální schůzce"
+      },
+      {
+        "@language": "da",
+        "@value": "Forlig i et uformelt møde"
+      },
+      {
+        "@language": "de",
+        "@value": "Gütliche Beilegung in einer informellen Sitzung"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμβιβασμός που επήλθε στο πλαίσιο ανεπίσημης συνάντησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Amicable settlement made at an informal meeting"
+      },
+      {
+        "@language": "es",
+        "@value": "Solución amistosa acordada en una reunión informal"
+      },
+      {
+        "@language": "et",
+        "@value": "Kompromiss, milleni jõuti mitteametlikul koosolekul"
+      },
+      {
+        "@language": "fi",
+        "@value": "Sovintoratkaisu, johon on päästy epävirallisessa kokouksessa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Règlement à l'amiable intervenu lors d'une réunion informelle"
+      },
+      {
+        "@language": "ga",
+        "@value": "Réiteach cairdiúil a bhaint amach ag cruinniú neamhfhoirmiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sklapanje nagodbe na neformalnom sastanku"
+      },
+      {
+        "@language": "hu",
+        "@value": "Informális találkozón létrejött egyezség"
+      },
+      {
+        "@language": "it",
+        "@value": "Composizione amichevole raggiunta nel corso di una riunione informale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Neformaliame susitikime pasiektas draugiškas ginčo sprendimas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Neformālā sanāksmē panākts izlīgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ftehim bonarju milħuq matul laqgħa informali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Minnelijke regeling totstandgekomen tijdens een informele vergadering"
+      },
+      {
+        "@language": "pl",
+        "@value": "Zawarcie ugody podczas nieformalnego spotkania"
+      },
+      {
+        "@language": "pt",
+        "@value": "Resolução amigável acordada numa reunião informal"
+      },
+      {
+        "@language": "ro",
+        "@value": "Soluționare amiabilă intervenită cu ocazia unei întâlniri neoficiale"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zmier uzavretý na neformálnom stretnutí"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mirna rešitev spora na neuradnem sestanku"
+      },
+      {
+        "@language": "sv",
+        "@value": "Förlikning som träffats vid ett informellt möte"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/JUDG_NOT_PROCEED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JUDG_NOT_PROCEED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JUDG_NOT_PROCEED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b112"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b113"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b114"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b115"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b116"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b117"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b118"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b119"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b120"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b121"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b122"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b123"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b124"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b125"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b126"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b127"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b128"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b129"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b130"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b131"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b132"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b133"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b134"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b135"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JUDG_NOT_PROCEED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JUDG_NOT_PROCEED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Липса на основание за произнасяне"
+      },
+      {
+        "@language": "cs",
+        "@value": "Nevydání rozhodnutí ve věci samé"
+      },
+      {
+        "@language": "da",
+        "@value": "Ufornødent at træffe afgørelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Erledigung der Hauptsache"
+      },
+      {
+        "@language": "el",
+        "@value": "Κατάργηση δίκης"
+      },
+      {
+        "@language": "en",
+        "@value": "Case not proceeding to judgment"
+      },
+      {
+        "@language": "es",
+        "@value": "Sobreseimiento"
+      },
+      {
+        "@language": "et",
+        "@value": "Otsuse tegemise vajaduse äralangemine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lausunnon antaminen asiassa raukeaa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Non-lieu à statuer"
+      },
+      {
+        "@language": "ga",
+        "@value": "Cás nach dtéann ar aghaidh chun breithiúnais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Obustava postupka"
+      },
+      {
+        "@language": "hu",
+        "@value": "Okafogyottság"
+      },
+      {
+        "@language": "it",
+        "@value": "Non luogo a provvedere"
+      },
+      {
+        "@language": "lt",
+        "@value": "Nereikalingumas priimti sprendimą"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tiesvedības izbeigšana pirms sprieduma taisīšanas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ma hemmx lok li tingħata deċiżjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Afdoening zonder beslissing"
+      },
+      {
+        "@language": "pl",
+        "@value": "Umorzenie postępowania"
+      },
+      {
+        "@language": "pt",
+        "@value": "Não conhecimento do mérito"
+      },
+      {
+        "@language": "ro",
+        "@value": "Nepronunțare asupra fondului"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zastavenie konania"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ustavitev postopka"
+      },
+      {
+        "@language": "sv",
+        "@value": "Anledning saknas att döma i saken"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b112",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b113",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b114",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b115",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b116",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b117",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b118",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b119",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b120",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b121",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b122",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b123",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b124",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COMP=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b125",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REEX=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b126",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b127",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b128",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b129",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b130",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PREJ=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b131",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b132",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "EXEC=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b133",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b134",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b135",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=NL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/DISM_GROUNDS_INADM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DISM_GROUNDS_INADM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DISM_GROUNDS_INADM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b47"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b48"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b49"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b50"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b51"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b52"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b53"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b54"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b55"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b56"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b57"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b58"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b59"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b60"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b61"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b62"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b63"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b64"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b65"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b66"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b67"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b68"
+      },
+      {
+        "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b69"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-24"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DISM_GROUNDS_INADM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DISM_GROUNDS_INADM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Отхвърляне поради недопустимост"
+      },
+      {
+        "@language": "cs",
+        "@value": "Odmítnutí pro nepřípustnost"
+      },
+      {
+        "@language": "da",
+        "@value": "Afvisning"
+      },
+      {
+        "@language": "de",
+        "@value": "Zurückweisung wegen Unzulässigkeit"
+      },
+      {
+        "@language": "el",
+        "@value": "Απόρριψη λόγω απαραδέκτου"
+      },
+      {
+        "@language": "en",
+        "@value": "Dismissal on grounds of inadmissibility"
+      },
+      {
+        "@language": "es",
+        "@value": "Declaración de inadmisibilidad"
+      },
+      {
+        "@language": "et",
+        "@value": "Vastuvõetamatuse tõttu läbivaatamata jätmine"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tutkimatta jättäminen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Rejet pour irrecevabilité"
+      },
+      {
+        "@language": "ga",
+        "@value": "Díbhe ar fhorais shubstainteacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Odbacivanje zbog nedopuštenosti"
+      },
+      {
+        "@language": "hu",
+        "@value": "Elfogadhatatlanság miatti elutasítás"
+      },
+      {
+        "@language": "it",
+        "@value": "Rigetto per irricevibilità"
+      },
+      {
+        "@language": "lt",
+        "@value": "Atmetimas dėl nepriimtinumo"
+      },
+      {
+        "@language": "lv",
+        "@value": "Noraidījums nepieņemamības dēļ"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ċaħda minħabba f'inammissibbiltà"
+      },
+      {
+        "@language": "nl",
+        "@value": "Verwerping wegens niet-ontvankelijkheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Oddalenie z powodu niedopuszczalności"
+      },
+      {
+        "@language": "pt",
+        "@value": "Declaração de inadmissibilidade"
+      },
+      {
+        "@language": "ro",
+        "@value": "Respingere pentru motive de inadmisibilitate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zamietnutie pre neprípustnosť"
+      },
+      {
+        "@language": "sl",
+        "@value": "Zavrnitev zaradi nedopustnosti"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avvisning"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b47",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTV=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b48",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "FONC=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b49",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COMP=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b50",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CARE=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b51",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INST=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b52",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REVI=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b53",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "IMMU=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b54",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "INTE=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b55",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SANC=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b56",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CONS=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b57",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RESP=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b58",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ANNU=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b59",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REFE=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b60",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "ASSI=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b61",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DELI=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b62",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DPEN=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b63",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PREJ=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b64",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "RECT=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b65",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "EXEC=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b66",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "PVOI=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b67",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "AVIS=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b68",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "OPPO=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3fd5f14a8cb94bd4966ccd097a46b928b69",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/affected-table": [
+      {
+        "@value": "FD_100"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "TIER=RI"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "EurLex"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procresult/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procresult"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  }
+]

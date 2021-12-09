@@ -1,0 +1,90 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/transport-service/OP_DATPRO
+- country_code: bus-s
+  deprecated: 'false'
+  key: bus-s
+  label_en: Bus transport services (urban/regional)
+  label_it: Servizi di trasporto mediante autobus (urbano/regionale)
+  url: http://publications.europa.eu/resource/authority/transport-service/bus-s
+  valid_from: '2021-06-16'
+- country_code: coach-s
+  deprecated: 'false'
+  key: coach-s
+  label_en: Coach transport services (long-distance)
+  label_it: Servizi di trasporto mediante autobus (lunga distanza)
+  url: http://publications.europa.eu/resource/authority/transport-service/coach-s
+  valid_from: '2021-06-16'
+- country_code: lrail-s
+  deprecated: 'false'
+  key: lrail-s
+  label_en: Light rail transport services
+  label_it: Servizi di trasporto mediante metropolitana leggera
+  url: http://publications.europa.eu/resource/authority/transport-service/lrail-s
+  valid_from: '2021-06-16'
+- country_code: metro-s
+  deprecated: 'false'
+  key: metro-s
+  label_en: Metro transport services
+  label_it: Servizi di trasporto mediante metropolitana
+  url: http://publications.europa.eu/resource/authority/transport-service/metro-s
+  valid_from: '2021-06-16'
+- country_code: other
+  deprecated: 'false'
+  key: other
+  label_en: Other
+  label_it: Altri
+  url: http://publications.europa.eu/resource/authority/transport-service/other
+  valid_from: '2021-06-16'
+- country_code: port-s
+  deprecated: 'false'
+  key: port-s
+  label_en: Inland waterway and maritime transport services
+  label_it: Servizi di trasporto marittimo e per via navigabile
+  url: http://publications.europa.eu/resource/authority/transport-service/port-s
+  valid_from: '2021-06-16'
+- country_code: rail-s
+  deprecated: 'false'
+  key: rail-s
+  label_en: Rail transport services
+  label_it: Servizi di trasporto per ferrovia
+  url: http://publications.europa.eu/resource/authority/transport-service/rail-s
+  valid_from: '2021-06-16'
+- country_code: tram-s
+  deprecated: 'false'
+  key: tram-s
+  label_en: Tram transport services
+  label_it: Servizi di trasporto mediante tram
+  url: http://publications.europa.eu/resource/authority/transport-service/tram-s
+  valid_from: '2021-06-16'
+- country_code: trolley-s
+  deprecated: 'false'
+  key: trolley-s
+  label_en: Trolleybus transport services
+  label_it: Servizi di trasporto mediante filobus
+  url: http://publications.europa.eu/resource/authority/transport-service/trolley-s
+  valid_from: '2021-06-16'

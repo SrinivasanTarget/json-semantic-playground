@@ -1,0 +1,2299 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: 19THSTREET700
+  deprecated: 'false'
+  key: 19THSTREET700
+  label_en: 19th Street 700
+  url: http://publications.europa.eu/resource/authority/site/19THSTREET700
+  valid_from: '1997-11-10'
+- country_code: 20AVANDREPROTHIN
+  deprecated: 'false'
+  key: 20AVANDREPROTHIN
+  label_en: Europlaza
+  url: http://publications.europa.eu/resource/authority/site/20AVANDREPROTHIN
+  valid_from: '2019-03-30'
+- country_code: 3RDAVENUE666
+  deprecated: 'false'
+  key: 3RDAVENUE666
+  label_en: 3rd avenue 666
+  url: http://publications.europa.eu/resource/authority/site/3RDAVENUE666
+  valid_from: '1958-01-01'
+- country_code: 416HANGANGDAERO
+  deprecated: 'false'
+  key: 416HANGANGDAERO
+  label_en: 416 Hangang-daero
+  url: http://publications.europa.eu/resource/authority/site/416HANGANGDAERO
+  valid_from: '2017-12-01'
+- country_code: 4TAAVE2DACALLE
+  deprecated: 'false'
+  key: 4TAAVE2DACALLE
+  label_en: "4ta Ave \u2013 2da Calle"
+  url: http://publications.europa.eu/resource/authority/site/4TAAVE2DACALLE
+  valid_from: '1958-01-01'
+- country_code: 5TAAVENIDA2007
+  deprecated: 'false'
+  key: 5TAAVENIDA2007
+  label_en: 5ta avenida 2007
+  url: http://publications.europa.eu/resource/authority/site/5TAAVENIDA2007
+  valid_from: '1958-01-01'
+- country_code: 5TAAVENIDA5_55
+  deprecated: 'false'
+  key: 5TAAVENIDA5_55
+  label_en: 5ta avenida 5-55
+  url: http://publications.europa.eu/resource/authority/site/5TAAVENIDA5_55
+  valid_from: '1958-01-01'
+- country_code: A73
+  deprecated: 'true'
+  key: A73
+  url: http://publications.europa.eu/resource/authority/site/A73
+  valid_from: '1958-01-01'
+  valid_until: '2005-01-01'
+- country_code: ABABUSCENT
+  deprecated: 'false'
+  key: ABABUSCENT
+  label_en: ABA Business Centre
+  url: http://publications.europa.eu/resource/authority/site/ABABUSCENT
+  valid_from: '1958-01-01'
+- country_code: ADALSTR6
+  deprecated: 'false'
+  key: ADALSTR6
+  label_en: Adalstraeti 6
+  url: http://publications.europa.eu/resource/authority/site/ADALSTR6
+  valid_from: '1958-01-01'
+- country_code: ADG
+  deprecated: 'false'
+  key: ADG
+  label_en: Alcide De Gasperi building
+  url: http://publications.europa.eu/resource/authority/site/ADG
+  valid_from: '1958-01-01'
+- country_code: ADHAMOV74
+  deprecated: 'false'
+  key: ADHAMOV74
+  label_en: Adhamov 74
+  url: http://publications.europa.eu/resource/authority/site/ADHAMOV74
+  valid_from: '1958-01-01'
+- country_code: ALAMEERAHBASMA
+  deprecated: 'false'
+  key: ALAMEERAHBASMA
+  label_en: Al-Ameerah Basma
+  url: http://publications.europa.eu/resource/authority/site/ALAMEERAHBASMA
+  valid_from: '1958-01-01'
+- country_code: ALVA9
+  deprecated: 'false'
+  key: ALVA9
+  label_en: Alva 9
+  url: http://publications.europa.eu/resource/authority/site/ALVA9
+  valid_from: '1958-01-01'
+- country_code: AMALIAS8
+  deprecated: 'false'
+  key: AMALIAS8
+  label_en: Amalias 8
+  url: http://publications.europa.eu/resource/authority/site/AMALIAS8
+  valid_from: '1958-01-01'
+- country_code: AMERICA404
+  deprecated: 'false'
+  key: AMERICA404
+  label_en: America 404
+  url: http://publications.europa.eu/resource/authority/site/AMERICA404
+  valid_from: '1958-01-01'
+- country_code: AMIRTEMUR107B
+  deprecated: 'false'
+  key: AMIRTEMUR107B
+  label_en: Amir Temur Street 107 B
+  url: http://publications.europa.eu/resource/authority/site/AMIRTEMUR107B
+  valid_from: '1958-01-01'
+- country_code: AN
+  deprecated: 'false'
+  key: AN
+  url: http://publications.europa.eu/resource/authority/site/AN
+  valid_from: '2008-07-14'
+- country_code: AN88
+  deprecated: 'true'
+  key: AN88
+  url: http://publications.europa.eu/resource/authority/site/AN88
+  valid_from: '1958-01-01'
+  valid_until: '2017-03-31'
+- country_code: ANNAKATU18
+  deprecated: 'false'
+  key: ANNAKATU18
+  label_en: Annakatu 18
+  url: http://publications.europa.eu/resource/authority/site/ANNAKATU18
+  valid_from: '1958-01-01'
+- country_code: ANX
+  deprecated: 'true'
+  key: ANX
+  label_en: Annex Building North-East (A-NE)
+  url: http://publications.europa.eu/resource/authority/site/ANX
+  valid_from: '1958-01-01'
+- country_code: ARCBUILDING
+  deprecated: 'false'
+  key: ARCBUILDING
+  label_en: Arc building
+  url: http://publications.europa.eu/resource/authority/site/ARCBUILDING
+  valid_from: '1958-01-01'
+- country_code: AREA18ROUNDABOUT
+  deprecated: 'false'
+  key: AREA18ROUNDABOUT
+  label_en: Area 18 Roundabout
+  url: http://publications.europa.eu/resource/authority/site/AREA18ROUNDABOUT
+  valid_from: '1958-01-01'
+- country_code: ARGENTINIERSTRASSE26
+  deprecated: 'false'
+  key: ARGENTINIERSTRASSE26
+  label_en: Argentinierstrasse26
+  url: http://publications.europa.eu/resource/authority/site/ARGENTINIERSTRASSE26
+  valid_from: '1958-01-01'
+- country_code: ARIA
+  deprecated: 'false'
+  key: ARIA
+  label_en: Ariane building
+  url: http://publications.europa.eu/resource/authority/site/ARIA
+  valid_from: '2015-01-01'
+- country_code: ARKANA18
+  deprecated: 'false'
+  key: ARKANA18
+  label_en: Arkana 18
+  url: http://publications.europa.eu/resource/authority/site/ARKANA18
+  valid_from: '1958-01-01'
+- country_code: ARTIGAS1300
+  deprecated: 'false'
+  key: ARTIGAS1300
+  label_en: Artigas 1300
+  url: http://publications.europa.eu/resource/authority/site/ARTIGAS1300
+  valid_from: '1958-01-01'
+- country_code: ASP
+  deprecated: 'false'
+  key: ASP
+  url: http://publications.europa.eu/resource/authority/site/ASP
+  valid_from: '1958-01-01'
+- country_code: ASPAZIJAS28
+  deprecated: 'false'
+  key: ASPAZIJAS28
+  label_en: Aspazijas 28
+  url: http://publications.europa.eu/resource/authority/site/ASPAZIJAS28
+  valid_from: '1958-01-01'
+- country_code: ATLANTICROAD74
+  deprecated: 'false'
+  key: ATLANTICROAD74
+  label_en: Atlantic Road 74
+  url: http://publications.europa.eu/resource/authority/site/ATLANTICROAD74
+  valid_from: '1958-01-01'
+- country_code: ATR
+  deprecated: 'false'
+  key: ATR
+  url: http://publications.europa.eu/resource/authority/site/ATR
+  valid_from: '1958-01-01'
+- country_code: AUGUSTACESARCA4_6
+  deprecated: 'false'
+  key: AUGUSTACESARCA4_6
+  label_en: Augusta Cesarca 4-6
+  url: http://publications.europa.eu/resource/authority/site/AUGUSTACESARCA4_6
+  valid_from: '1958-01-01'
+- country_code: AUXENCEICKONGA
+  deprecated: 'false'
+  key: AUXENCEICKONGA
+  label_en: Impasse Auxence Ickonga
+  url: http://publications.europa.eu/resource/authority/site/AUXENCEICKONGA
+  valid_from: '1958-01-01'
+- country_code: AVBARTHBOGANDA
+  deprecated: 'false'
+  key: AVBARTHBOGANDA
+  label_en: "Avenue Barth\xE9l\xE9my Boganda"
+  url: http://publications.europa.eu/resource/authority/site/AVBARTHBOGANDA
+  valid_from: '1958-01-01'
+- country_code: AVCLOZEL
+  deprecated: 'false'
+  key: AVCLOZEL
+  label_en: Av. Clozel
+  url: http://publications.europa.eu/resource/authority/site/AVCLOZEL
+  valid_from: '1958-01-01'
+- country_code: AVCOSTANERA300
+  deprecated: 'false'
+  key: AVCOSTANERA300
+  label_en: Avenida Costanera 300
+  url: http://publications.europa.eu/resource/authority/site/AVCOSTANERA300
+  valid_from: '1958-01-01'
+- country_code: AVENUEDUMOUNIO
+  deprecated: 'false'
+  key: AVENUEDUMOUNIO
+  label_en: Avenue du Mounio
+  url: http://publications.europa.eu/resource/authority/site/AVENUEDUMOUNIO
+  valid_from: '1958-01-01'
+- country_code: AVEUROPA4
+  deprecated: 'false'
+  key: AVEUROPA4
+  label_en: Avenida de Europa 4
+  url: http://publications.europa.eu/resource/authority/site/AVEUROPA4
+  valid_from: '1958-01-01'
+- country_code: AVKWAMENKRUMAH
+  deprecated: 'false'
+  key: AVKWAMENKRUMAH
+  label_en: Avenue Kwame N'Krumah
+  url: http://publications.europa.eu/resource/authority/site/AVKWAMENKRUMAH
+  valid_from: '1958-01-01'
+- country_code: AVLINCOLN1063
+  deprecated: 'false'
+  key: AVLINCOLN1063
+  label_en: Av. Abraham Lincoln 1063
+  url: http://publications.europa.eu/resource/authority/site/AVLINCOLN1063
+  valid_from: '1958-01-01'
+- country_code: AVMENDANA
+  deprecated: 'false'
+  key: AVMENDANA
+  label_en: Mendana Avenue
+  url: http://publications.europa.eu/resource/authority/site/AVMENDANA
+  valid_from: '1958-01-01'
+- country_code: AVORELLANAE11_160
+  deprecated: 'false'
+  key: AVORELLANAE11_160
+  label_en: Av. Orellana E11-160
+  url: http://publications.europa.eu/resource/authority/site/AVORELLANAE11_160
+  valid_from: '1958-01-01'
+- country_code: AVORINOCO
+  deprecated: 'false'
+  key: AVORINOCO
+  label_en: Avenida Orinoco
+  url: http://publications.europa.eu/resource/authority/site/AVORINOCO
+  valid_from: '1958-01-01'
+- country_code: AVRICARDOLYON222
+  deprecated: 'false'
+  key: AVRICARDOLYON222
+  label_en: Av. Ricardo Lyon 222
+  url: http://publications.europa.eu/resource/authority/site/AVRICARDOLYON222
+  valid_from: '1958-01-01'
+- country_code: AVROTARYINTER
+  deprecated: 'false'
+  key: AVROTARYINTER
+  label_en: Avenida Rotary International
+  url: http://publications.europa.eu/resource/authority/site/AVROTARYINTER
+  valid_from: '1958-01-01'
+- country_code: AVSUFFREN100
+  deprecated: 'false'
+  key: AVSUFFREN100
+  label_en: Av Suffren 100
+  url: http://publications.europa.eu/resource/authority/site/AVSUFFREN100
+  valid_from: '1958-01-01'
+- country_code: AVTERRASSONFOUGERES
+  deprecated: 'false'
+  key: AVTERRASSONFOUGERES
+  label_en: "Avenue Terrasson de Foug\xE8res"
+  url: http://publications.europa.eu/resource/authority/site/AVTERRASSONFOUGERES
+  valid_from: '1958-01-01'
+- country_code: AYACUCHO1537
+  deprecated: 'false'
+  key: AYACUCHO1537
+  label_en: Ayacucho 1537
+  url: http://publications.europa.eu/resource/authority/site/AYACUCHO1537
+  valid_from: '1958-01-01'
+- country_code: AYALA6819
+  deprecated: 'false'
+  key: AYALA6819
+  label_en: Ayala 6819
+  url: http://publications.europa.eu/resource/authority/site/AYALA6819
+  valid_from: '1958-01-01'
+- country_code: B100
+  deprecated: 'false'
+  key: B100
+  url: http://publications.europa.eu/resource/authority/site/B100
+  valid_from: '1958-01-01'
+- country_code: B135
+  deprecated: 'true'
+  key: B135
+  label_en: European Court of Auditors
+  label_it: Corte dei conti europea
+  url: http://publications.europa.eu/resource/authority/site/B135
+  valid_from: '1958-01-01'
+- country_code: B232
+  deprecated: 'false'
+  key: B232
+  url: http://publications.europa.eu/resource/authority/site/B232
+  valid_from: '1958-01-01'
+- country_code: B28
+  deprecated: 'false'
+  key: B28
+  url: http://publications.europa.eu/resource/authority/site/B28
+  valid_from: '1958-01-01'
+- country_code: B68
+  deprecated: 'false'
+  key: B68
+  label_en: CoR/EESC
+  label_it: CdR/CESE
+  url: http://publications.europa.eu/resource/authority/site/B68
+  valid_from: '1958-01-01'
+- country_code: BAIRRODAPENHA
+  deprecated: 'false'
+  key: BAIRRODAPENHA
+  label_en: Bairro da Penha
+  url: http://publications.europa.eu/resource/authority/site/BAIRRODAPENHA
+  valid_from: '1958-01-01'
+- country_code: BARBUSSE2
+  deprecated: 'false'
+  key: BARBUSSE2
+  label_en: Barbusse 2
+  url: http://publications.europa.eu/resource/authority/site/BARBUSSE2
+  valid_from: '1958-01-01'
+- country_code: BATIMJARDIN
+  deprecated: 'false'
+  key: BATIMJARDIN
+  label_en: Jardin building
+  url: http://publications.europa.eu/resource/authority/site/BATIMJARDIN
+  valid_from: '1958-01-01'
+- country_code: BAUDDHALOKA389
+  deprecated: 'false'
+  key: BAUDDHALOKA389
+  label_en: Bauddhaloka 389
+  url: http://publications.europa.eu/resource/authority/site/BAUDDHALOKA389
+  valid_from: '1958-01-01'
+- country_code: BECH
+  deprecated: 'false'
+  key: BECH
+  label_en: Bech building
+  url: http://publications.europa.eu/resource/authority/site/BECH
+  valid_from: '1958-01-01'
+- country_code: BEI
+  deprecated: 'false'
+  key: BEI
+  label_en: European Investment Bank
+  label_it: Banca europea per gli investimenti
+  url: http://publications.europa.eu/resource/authority/site/BEI
+  valid_from: '1958-01-01'
+- country_code: BELAUNDE332
+  deprecated: 'false'
+  key: BELAUNDE332
+  label_en: Belaunde 332
+  url: http://publications.europa.eu/resource/authority/site/BELAUNDE332
+  valid_from: '1958-01-01'
+- country_code: BERCY201_203
+  deprecated: 'false'
+  key: BERCY201_203
+  label_en: Bercy 201-203
+  url: http://publications.europa.eu/resource/authority/site/BERCY201_203
+  valid_from: '2019-11-22'
+- country_code: BERL
+  deprecated: 'false'
+  key: BERL
+  url: http://publications.europa.eu/resource/authority/site/BERL
+  valid_from: '1958-01-01'
+- country_code: BMT
+  deprecated: 'false'
+  key: BMT
+  label_en: Belmont Court
+  url: http://publications.europa.eu/resource/authority/site/BMT
+  valid_from: '2016-11-01'
+- country_code: BORNO19
+  deprecated: 'false'
+  key: BORNO19
+  label_en: Borno 19
+  url: http://publications.europa.eu/resource/authority/site/BORNO19
+  valid_from: '1958-01-01'
+- country_code: BOULEVARD30JUIN
+  deprecated: 'false'
+  key: BOULEVARD30JUIN
+  label_en: Boulevard 30 juin
+  url: http://publications.europa.eu/resource/authority/site/BOULEVARD30JUIN
+  valid_from: '1958-01-01'
+- country_code: BOUR
+  deprecated: 'false'
+  key: BOUR
+  url: http://publications.europa.eu/resource/authority/site/BOUR
+  valid_from: '1958-01-01'
+- country_code: BOUR2
+  deprecated: 'false'
+  key: BOUR2
+  url: http://publications.europa.eu/resource/authority/site/BOUR2
+  valid_from: '1958-01-01'
+- country_code: BQL
+  deprecated: 'false'
+  key: BQL
+  label_en: European Parliament Office in Belgium
+  label_it: Ufficio del Parlamento europeo in Belgio
+  url: http://publications.europa.eu/resource/authority/site/BQL
+  valid_from: '1958-01-01'
+- country_code: BRE2
+  deprecated: 'false'
+  key: BRE2
+  url: http://publications.europa.eu/resource/authority/site/BRE2
+  valid_from: '1958-01-01'
+- country_code: BREY
+  deprecated: 'false'
+  key: BREY
+  url: http://publications.europa.eu/resource/authority/site/BREY
+  valid_from: '1958-01-01'
+- country_code: BSPHAUS
+  deprecated: 'false'
+  key: BSPHAUS
+  label_en: BSP Haus
+  url: http://publications.europa.eu/resource/authority/site/BSPHAUS
+  valid_from: '1958-01-01'
+- country_code: BU1
+  deprecated: 'false'
+  key: BU1
+  url: http://publications.europa.eu/resource/authority/site/BU1
+  valid_from: '1958-01-01'
+- country_code: BU24
+  deprecated: 'false'
+  key: BU24
+  url: http://publications.europa.eu/resource/authority/site/BU24
+  valid_from: '1958-01-01'
+- country_code: BU25
+  deprecated: 'false'
+  key: BU25
+  url: http://publications.europa.eu/resource/authority/site/BU25
+  valid_from: '1958-01-01'
+- country_code: BU29
+  deprecated: 'false'
+  key: BU29
+  url: http://publications.europa.eu/resource/authority/site/BU29
+  valid_from: '1958-01-01'
+- country_code: BU31
+  deprecated: 'false'
+  key: BU31
+  url: http://publications.europa.eu/resource/authority/site/BU31
+  valid_from: '1958-01-01'
+- country_code: BU33
+  deprecated: 'false'
+  key: BU33
+  url: http://publications.europa.eu/resource/authority/site/BU33
+  valid_from: '1958-01-01'
+- country_code: BU5
+  deprecated: 'false'
+  key: BU5
+  url: http://publications.europa.eu/resource/authority/site/BU5
+  valid_from: '1958-01-01'
+- country_code: BU9
+  deprecated: 'false'
+  key: BU9
+  url: http://publications.europa.eu/resource/authority/site/BU9
+  valid_from: '1958-01-01'
+- country_code: BUILD_C
+  deprecated: 'false'
+  key: BUILD_C
+  label_en: C Building
+  url: http://publications.europa.eu/resource/authority/site/BUILD_C
+  valid_from: '1994-02-12'
+- country_code: BUILD_T
+  deprecated: 'false'
+  key: BUILD_T
+  label_en: T building
+  url: http://publications.europa.eu/resource/authority/site/BUILD_T
+  valid_from: '1999-01-01'
+- country_code: BUNDESGASSE18
+  deprecated: 'false'
+  key: BUNDESGASSE18
+  label_en: Bundesgasse 18
+  url: http://publications.europa.eu/resource/authority/site/BUNDESGASSE18
+  valid_from: '1958-01-01'
+- country_code: BVS
+  deprecated: 'false'
+  key: BVS
+  url: http://publications.europa.eu/resource/authority/site/BVS
+  valid_from: '1958-01-01'
+- country_code: C107
+  deprecated: 'false'
+  key: C107
+  url: http://publications.europa.eu/resource/authority/site/C107
+  valid_from: '1958-01-01'
+- country_code: C115
+  deprecated: 'false'
+  key: C115
+  url: http://publications.europa.eu/resource/authority/site/C115
+  valid_from: '2011-10-14'
+- country_code: C150
+  deprecated: 'false'
+  key: C150
+  url: http://publications.europa.eu/resource/authority/site/C150
+  valid_from: '1958-01-01'
+- country_code: C158
+  deprecated: 'false'
+  key: C158
+  url: http://publications.europa.eu/resource/authority/site/C158
+  valid_from: '1986-01-01'
+- country_code: C25
+  deprecated: 'false'
+  key: C25
+  url: http://publications.europa.eu/resource/authority/site/C25
+  valid_from: '1958-01-01'
+- country_code: CALLE116
+  deprecated: 'false'
+  key: CALLE116
+  label_en: Calle 116
+  url: http://publications.europa.eu/resource/authority/site/CALLE116
+  valid_from: '1958-01-01'
+- country_code: CALLE53MARBELLA
+  deprecated: 'false'
+  key: CALLE53MARBELLA
+  label_en: Calle 53 Marbella
+  url: http://publications.europa.eu/resource/authority/site/CALLE53MARBELLA
+  valid_from: '1958-01-01'
+- country_code: CANTONMENTS81
+  deprecated: 'false'
+  key: CANTONMENTS81
+  label_en: Cantonments 81
+  url: http://publications.europa.eu/resource/authority/site/CANTONMENTS81
+  valid_from: '1958-01-01'
+- country_code: CAPEVERDEROAD
+  deprecated: 'false'
+  key: CAPEVERDEROAD
+  label_en: Cape-Verde Road
+  url: http://publications.europa.eu/resource/authority/site/CAPEVERDEROAD
+  valid_from: '1958-01-01'
+- country_code: CARLOMAGNO1A
+  deprecated: 'false'
+  key: CARLOMAGNO1A
+  label_en: Carlo Magno 1A
+  url: http://publications.europa.eu/resource/authority/site/CARLOMAGNO1A
+  valid_from: '1958-01-01'
+- country_code: CASPIAN2
+  deprecated: 'false'
+  key: CASPIAN2
+  label_en: Caspian 2
+  url: http://publications.europa.eu/resource/authority/site/CASPIAN2
+  valid_from: '1958-01-01'
+- country_code: CASTELLANA46
+  deprecated: 'false'
+  key: CASTELLANA46
+  label_en: Castellana 46
+  url: http://publications.europa.eu/resource/authority/site/CASTELLANA46
+  valid_from: '1958-01-01'
+- country_code: CCAB
+  deprecated: 'false'
+  key: CCAB
+  label_en: Albert Borschette Centre
+  url: http://publications.europa.eu/resource/authority/site/CCAB
+  valid_from: '1958-01-01'
+- country_code: CCO
+  deprecated: 'true'
+  key: CCO
+  label_en: "Conference Centre \u2014 Kirchberg"
+  url: http://publications.europa.eu/resource/authority/site/CCO
+  valid_from: '1958-01-01'
+- country_code: CDMA
+  deprecated: 'false'
+  key: CDMA
+  url: http://publications.europa.eu/resource/authority/site/CDMA
+  valid_from: '1958-01-01'
+- country_code: CHAHARISEDARAT
+  deprecated: 'false'
+  key: CHAHARISEDARAT
+  label_en: Chahari Sedarat
+  url: http://publications.europa.eu/resource/authority/site/CHAHARISEDARAT
+  valid_from: '1958-01-01'
+- country_code: CHAR
+  deprecated: 'false'
+  key: CHAR
+  url: http://publications.europa.eu/resource/authority/site/CHAR
+  valid_from: '1958-01-01'
+- country_code: CHURCHILL30
+  deprecated: 'true'
+  key: CHURCHILL30
+  label_en: Churchill 30
+  url: http://publications.europa.eu/resource/authority/site/CHURCHILL30
+  valid_from: '1958-01-01'
+  valid_until: '2019-03-10'
+- country_code: CITEOUA
+  deprecated: 'false'
+  key: CITEOUA
+  label_en: "Cit\xE9 OUA"
+  url: http://publications.europa.eu/resource/authority/site/CITEOUA
+  valid_from: '1958-01-01'
+- country_code: CJ_PALAIS
+  deprecated: 'false'
+  key: CJ_PALAIS
+  url: http://publications.europa.eu/resource/authority/site/CJ_PALAIS
+  valid_from: '2008-12-04'
+- country_code: CJ_TOA
+  deprecated: 'false'
+  key: CJ_TOA
+  label_en: Tower A
+  url: http://publications.europa.eu/resource/authority/site/CJ_TOA
+  valid_from: '2008-07-15'
+- country_code: CJ_TOB
+  deprecated: 'false'
+  key: CJ_TOB
+  label_en: Tower B
+  url: http://publications.europa.eu/resource/authority/site/CJ_TOB
+  valid_from: '2008-11-01'
+- country_code: CLOV
+  deprecated: 'false'
+  key: CLOV
+  url: http://publications.europa.eu/resource/authority/site/CLOV
+  valid_from: '1958-01-01'
+- country_code: COLE
+  deprecated: 'false'
+  key: COLE
+  url: http://publications.europa.eu/resource/authority/site/COLE
+  valid_from: '1958-01-01'
+- country_code: COLEAHLANSEBOUNDJI
+  deprecated: 'false'
+  key: COLEAHLANSEBOUNDJI
+  label_en: "Col\xE9ah Lans\xE9boundji"
+  url: http://publications.europa.eu/resource/authority/site/COLEAHLANSEBOUNDJI
+  valid_from: '1958-01-01'
+- country_code: CONSTITUTION167
+  deprecated: 'false'
+  key: CONSTITUTION167
+  label_en: Constitution 167
+  url: http://publications.europa.eu/resource/authority/site/CONSTITUTION167
+  valid_from: '1958-01-01'
+- country_code: COVE
+  deprecated: 'false'
+  key: COVE
+  url: http://publications.europa.eu/resource/authority/site/COVE
+  valid_from: '1958-01-01'
+- country_code: COVE2
+  deprecated: 'false'
+  key: COVE2
+  url: http://publications.europa.eu/resource/authority/site/COVE2
+  valid_from: '1958-01-01'
+- country_code: CPE1
+  deprecated: 'false'
+  key: CPE1
+  url: http://publications.europa.eu/resource/authority/site/CPE1
+  valid_from: '1958-01-01'
+- country_code: CPE2
+  deprecated: 'false'
+  key: CPE2
+  url: http://publications.europa.eu/resource/authority/site/CPE2
+  valid_from: '1958-01-01'
+- country_code: CPE3
+  deprecated: 'false'
+  key: CPE3
+  url: http://publications.europa.eu/resource/authority/site/CPE3
+  valid_from: '1958-01-01'
+- country_code: CPE4
+  deprecated: 'true'
+  key: CPE4
+  url: http://publications.europa.eu/resource/authority/site/CPE4
+  valid_from: '1958-01-01'
+  valid_until: '2012-12-31'
+- country_code: CPE5
+  deprecated: 'false'
+  key: CPE5
+  url: http://publications.europa.eu/resource/authority/site/CPE5
+  valid_from: '1958-01-01'
+- country_code: CSM1
+  deprecated: 'false'
+  key: CSM1
+  url: http://publications.europa.eu/resource/authority/site/CSM1
+  valid_from: '1958-01-01'
+- country_code: CSM2
+  deprecated: 'true'
+  key: CSM2
+  url: http://publications.europa.eu/resource/authority/site/CSM2
+  valid_from: '1958-01-01'
+  valid_until: '2016-11-29'
+- country_code: DAIL
+  deprecated: 'false'
+  key: DAIL
+  url: http://publications.europa.eu/resource/authority/site/DAIL
+  valid_from: '1958-01-01'
+- country_code: DAV1
+  deprecated: 'false'
+  key: DAV1
+  url: http://publications.europa.eu/resource/authority/site/DAV1
+  valid_from: '1958-01-01'
+- country_code: DAWSON18
+  deprecated: 'false'
+  key: DAWSON18
+  label_en: Dawson 18
+  url: http://publications.europa.eu/resource/authority/site/DAWSON18
+  valid_from: '1958-01-01'
+- country_code: DM24
+  deprecated: 'false'
+  key: DM24
+  url: http://publications.europa.eu/resource/authority/site/DM24
+  valid_from: '1958-01-01'
+- country_code: DM28
+  deprecated: 'false'
+  key: DM28
+  url: http://publications.europa.eu/resource/authority/site/DM28
+  valid_from: '1958-01-01'
+- country_code: DOMBENOUADAH
+  deprecated: 'false'
+  key: DOMBENOUADAH
+  label_en: Domaine Benouadah
+  url: http://publications.europa.eu/resource/authority/site/DOMBENOUADAH
+  valid_from: '1958-01-01'
+- country_code: DONGZHIMENWAIDAIJIE15
+  deprecated: 'false'
+  key: DONGZHIMENWAIDAIJIE15
+  label_en: Dongzhimenwai Daijie 15
+  url: http://publications.europa.eu/resource/authority/site/DONGZHIMENWAIDAIJIE15
+  valid_from: '1958-01-01'
+- country_code: DRB
+  deprecated: 'false'
+  key: DRB
+  label_en: Drosbach building
+  url: http://publications.europa.eu/resource/authority/site/DRB
+  valid_from: '1958-01-01'
+- country_code: DUBLINROAD74_76
+  deprecated: 'false'
+  key: DUBLINROAD74_76
+  label_en: Dublin Road 74-76
+  url: http://publications.europa.eu/resource/authority/site/DUBLINROAD74_76
+  valid_from: '1958-01-01'
+- country_code: DUNAJSKA20
+  deprecated: 'false'
+  key: DUNAJSKA20
+  label_en: Dunajska 20
+  url: http://publications.europa.eu/resource/authority/site/DUNAJSKA20
+  valid_from: '1958-01-01'
+- country_code: EAS
+  deprecated: 'true'
+  key: EAS
+  url: http://publications.europa.eu/resource/authority/site/EAS
+  valid_from: '1958-01-01'
+  valid_until: '2016-09-30'
+- country_code: EBRC
+  deprecated: 'false'
+  key: EBRC
+  url: http://publications.europa.eu/resource/authority/site/EBRC
+  valid_from: '1958-01-01'
+- country_code: EE1
+  deprecated: 'false'
+  key: EE1
+  label_en: "European School I \u2014 Kirchberg"
+  url: http://publications.europa.eu/resource/authority/site/EE1
+  valid_from: '1958-01-01'
+- country_code: EE2
+  deprecated: 'false'
+  key: EE2
+  label_en: "European School II \u2014 Bertrange"
+  url: http://publications.europa.eu/resource/authority/site/EE2
+  valid_from: '1958-01-01'
+- country_code: EEAS
+  deprecated: 'false'
+  key: EEAS
+  label_en: EEAS Building
+  url: http://publications.europa.eu/resource/authority/site/EEAS
+  valid_from: '2011-10-14'
+- country_code: EISENHOWER73
+  deprecated: 'false'
+  key: EISENHOWER73
+  label_en: Eisenhower 73
+  url: http://publications.europa.eu/resource/authority/site/EISENHOWER73
+  valid_from: '1958-01-01'
+- country_code: EKI
+  deprecated: 'false'
+  key: EKI
+  label_en: EKI
+  url: http://publications.europa.eu/resource/authority/site/EKI
+  valid_from: '2008-06-02'
+- country_code: ENGELS34A
+  deprecated: 'false'
+  key: ENGELS34A
+  label_en: Engels 34 A
+  url: http://publications.europa.eu/resource/authority/site/ENGELS34A
+  valid_from: '1958-01-01'
+- country_code: ERA
+  deprecated: 'false'
+  key: ERA
+  url: http://publications.europa.eu/resource/authority/site/ERA
+  valid_from: '1988-10-05'
+- country_code: ERHARDT27
+  deprecated: 'false'
+  key: ERHARDT27
+  label_en: Erhardt 27
+  url: http://publications.europa.eu/resource/authority/site/ERHARDT27
+  valid_from: '1958-01-01'
+- country_code: ERKINDIK21
+  deprecated: 'false'
+  key: ERKINDIK21
+  label_en: Erkindik 21
+  url: http://publications.europa.eu/resource/authority/site/ERKINDIK21
+  valid_from: '1958-01-01'
+- country_code: ER_RIAD
+  deprecated: 'false'
+  key: ER_RIAD
+  label_en: Boulevard Er-Riad
+  url: http://publications.europa.eu/resource/authority/site/ER_RIAD
+  valid_from: '1958-01-01'
+- country_code: ETHNIKISANTISTASEOS72
+  deprecated: 'false'
+  key: ETHNIKISANTISTASEOS72
+  label_en: Ethnikis Antistaseos 72
+  url: http://publications.europa.eu/resource/authority/site/ETHNIKISANTISTASEOS72
+  valid_from: '2021-07-01'
+- country_code: ETIHADTOWER
+  deprecated: 'false'
+  key: ETIHADTOWER
+  label_en: Etihad Tower
+  url: http://publications.europa.eu/resource/authority/site/ETIHADTOWER
+  valid_from: '1958-01-01'
+- country_code: EUFO1
+  deprecated: 'false'
+  key: EUFO1
+  url: http://publications.europa.eu/resource/authority/site/EUFO1
+  valid_from: '1958-01-01'
+- country_code: EUROPE
+  deprecated: 'false'
+  key: EUROPE
+  label_en: House of Europe (MAEU)
+  url: http://publications.europa.eu/resource/authority/site/EUROPE
+  valid_from: '1958-01-01'
+- country_code: EUROPE123
+  deprecated: 'false'
+  key: EUROPE123
+  label_en: Europe 123
+  url: http://publications.europa.eu/resource/authority/site/EUROPE123
+  valid_from: '1958-01-01'
+- country_code: EYLAU12
+  deprecated: 'false'
+  key: EYLAU12
+  label_en: Eylau 12
+  url: http://publications.europa.eu/resource/authority/site/EYLAU12
+  valid_from: '1958-01-01'
+- country_code: F101
+  deprecated: 'false'
+  key: F101
+  url: http://publications.europa.eu/resource/authority/site/F101
+  valid_from: '1958-01-01'
+- country_code: FEI
+  deprecated: 'true'
+  key: FEI
+  label_en: European Investment Fund
+  label_it: Fondo europeo per gli investimenti
+  url: http://publications.europa.eu/resource/authority/site/FEI
+  valid_from: '1957-12-31'
+  valid_until: '1958-01-01'
+- country_code: FISR
+  deprecated: 'false'
+  key: FISR
+  url: http://publications.europa.eu/resource/authority/site/FISR
+  valid_from: '1958-01-01'
+- country_code: FRIK21
+  deprecated: 'false'
+  key: FRIK21
+  label_en: Frik 21
+  url: http://publications.europa.eu/resource/authority/site/FRIK21
+  valid_from: '1958-01-01'
+- country_code: G1
+  deprecated: 'false'
+  key: G1
+  url: http://publications.europa.eu/resource/authority/site/G1
+  valid_from: '1958-01-01'
+- country_code: G12
+  deprecated: 'false'
+  key: G12
+  url: http://publications.europa.eu/resource/authority/site/G12
+  valid_from: '1958-01-01'
+- country_code: G6
+  deprecated: 'false'
+  key: G6
+  url: http://publications.europa.eu/resource/authority/site/G6
+  valid_from: '1958-01-01'
+- country_code: GAL
+  deprecated: 'false'
+  key: GAL
+  url: http://publications.europa.eu/resource/authority/site/GAL
+  valid_from: '2008-07-14'
+- country_code: GAMHORIA10
+  deprecated: 'false'
+  key: GAMHORIA10
+  label_en: Gamhoria 10
+  url: http://publications.europa.eu/resource/authority/site/GAMHORIA10
+  valid_from: '1958-01-01'
+- country_code: GARCIABARBON4
+  deprecated: 'false'
+  key: GARCIABARBON4
+  label_en: Odriozola building
+  url: http://publications.europa.eu/resource/authority/site/GARCIABARBON4
+  valid_from: '1958-01-01'
+- country_code: GARDENROAD33
+  deprecated: 'false'
+  key: GARDENROAD33
+  label_en: Garden Road 33
+  url: http://publications.europa.eu/resource/authority/site/GARDENROAD33
+  valid_from: '1958-01-01'
+- country_code: GASP
+  deprecated: 'true'
+  key: GASP
+  url: http://publications.europa.eu/resource/authority/site/GASP
+  valid_from: '1958-01-01'
+  valid_until: '2015-05-31'
+- country_code: GEDIMINO16
+  deprecated: 'false'
+  key: GEDIMINO16
+  label_en: Gedimino 16
+  url: http://publications.europa.eu/resource/authority/site/GEDIMINO16
+  valid_from: '1958-01-01'
+- country_code: GEOS
+  deprecated: 'true'
+  key: GEOS
+  url: http://publications.europa.eu/resource/authority/site/GEOS
+  valid_from: '2004-02-01'
+  valid_until: '2014-02-01'
+- country_code: GOL
+  deprecated: 'true'
+  key: GOL
+  url: http://publications.europa.eu/resource/authority/site/GOL
+  valid_from: '1958-01-01'
+  valid_until: '2016-09-30'
+- country_code: GOTHERSGADE115
+  deprecated: 'false'
+  key: GOTHERSGADE115
+  label_en: Gothersgade 115
+  url: http://publications.europa.eu/resource/authority/site/GOTHERSGADE115
+  valid_from: '1958-01-01'
+- country_code: GRACIA90
+  deprecated: 'false'
+  key: GRACIA90
+  label_en: "Gr\xE0c\xEDa 90"
+  url: http://publications.europa.eu/resource/authority/site/GRACIA90
+  valid_from: '1958-01-01'
+- country_code: GRAN
+  deprecated: 'false'
+  key: GRAN
+  label_en: Dunsany, Grange
+  url: http://publications.europa.eu/resource/authority/site/GRAN
+  valid_from: '2002-03-14'
+- country_code: GRANDPRE64
+  deprecated: 'false'
+  key: GRANDPRE64
+  label_en: "Grand-Pr\xE9 64"
+  url: http://publications.europa.eu/resource/authority/site/GRANDPRE64
+  valid_from: '1958-01-01'
+- country_code: GRANDPRE66
+  deprecated: 'false'
+  key: GRANDPRE66
+  label_en: "Grand-Pr\xE9 66"
+  url: http://publications.europa.eu/resource/authority/site/GRANDPRE66
+  valid_from: '1958-01-01'
+- country_code: GRENELLE103
+  deprecated: 'true'
+  key: GRENELLE103
+  label_en: Grenelle 103
+  url: http://publications.europa.eu/resource/authority/site/GRENELLE103
+  valid_from: '1958-01-01'
+  valid_until: '2019-11-21'
+- country_code: GUIM
+  deprecated: 'false'
+  key: GUIM
+  url: http://publications.europa.eu/resource/authority/site/GUIM
+  valid_from: '1958-01-01'
+- country_code: HANNINGTON17_23
+  deprecated: 'false'
+  key: HANNINGTON17_23
+  label_en: Hannington Road 17-23
+  url: http://publications.europa.eu/resource/authority/site/HANNINGTON17_23
+  valid_from: '1958-01-01'
+- country_code: HARBORDRIVE490
+  deprecated: 'false'
+  key: HARBORDRIVE490
+  label_en: Harbor drive 490
+  url: http://publications.europa.eu/resource/authority/site/HARBORDRIVE490
+  valid_from: '1958-01-01'
+- country_code: HASSANII12
+  deprecated: 'false'
+  key: HASSANII12
+  label_en: Hassan II 12
+  url: http://publications.europa.eu/resource/authority/site/HASSANII12
+  valid_from: '1958-01-01'
+- country_code: HASTINGSMAINROAD
+  deprecated: 'false'
+  key: HASTINGSMAINROAD
+  label_en: Hastings Main Road
+  url: http://publications.europa.eu/resource/authority/site/HASTINGSMAINROAD
+  valid_from: '1958-01-01'
+- country_code: HAV
+  deprecated: 'false'
+  key: HAV
+  label_en: "V\xE1clav Havel"
+  url: http://publications.europa.eu/resource/authority/site/HAV
+  valid_from: '2013-01-01'
+- country_code: HEI
+  deprecated: 'false'
+  key: HEI
+  url: http://publications.europa.eu/resource/authority/site/HEI
+  valid_from: '1958-01-01'
+- country_code: HLEDANCENTRE
+  deprecated: 'false'
+  key: HLEDANCENTRE
+  label_en: Hledan Centre
+  url: http://publications.europa.eu/resource/authority/site/HLEDANCENTRE
+  valid_from: '1958-01-01'
+- country_code: HTC
+  deprecated: 'false'
+  key: HTC
+  url: http://publications.europa.eu/resource/authority/site/HTC
+  valid_from: '1958-01-01'
+- country_code: HTWG
+  deprecated: 'false'
+  key: HTWG
+  url: http://publications.europa.eu/resource/authority/site/HTWG
+  valid_from: '1958-01-01'
+- country_code: IAK
+  deprecated: 'false'
+  key: IAK
+  url: http://publications.europa.eu/resource/authority/site/IAK
+  valid_from: '2016-01-01'
+- country_code: INFOPARKE
+  deprecated: 'false'
+  key: INFOPARKE
+  label_en: Infopark Building E
+  url: http://publications.europa.eu/resource/authority/site/INFOPARKE
+  valid_from: '1958-01-01'
+- country_code: IVNOVEMBRE149
+  deprecated: 'false'
+  key: IVNOVEMBRE149
+  label_en: IV Novembre 149
+  url: http://publications.europa.eu/resource/authority/site/IVNOVEMBRE149
+  valid_from: '1958-01-01'
+- country_code: J27
+  deprecated: 'false'
+  key: J27
+  url: http://publications.europa.eu/resource/authority/site/J27
+  valid_from: '1958-01-01'
+- country_code: J30
+  deprecated: 'false'
+  key: J30
+  url: http://publications.europa.eu/resource/authority/site/J30
+  valid_from: '1958-01-01'
+- country_code: J54
+  deprecated: 'false'
+  key: J54
+  url: http://publications.europa.eu/resource/authority/site/J54
+  valid_from: '1958-01-01'
+- country_code: J59
+  deprecated: 'false'
+  key: J59
+  url: http://publications.europa.eu/resource/authority/site/J59
+  valid_from: '1958-01-01'
+- country_code: J70
+  deprecated: 'false'
+  key: J70
+  url: http://publications.europa.eu/resource/authority/site/J70
+  valid_from: '1958-01-01'
+- country_code: J79
+  deprecated: 'false'
+  key: J79
+  url: http://publications.europa.eu/resource/authority/site/J79
+  valid_from: '1958-01-01'
+- country_code: J99
+  deprecated: 'false'
+  key: J99
+  url: http://publications.europa.eu/resource/authority/site/J99
+  valid_from: '1958-01-01'
+- country_code: JALANTUNRAZAK207
+  deprecated: 'false'
+  key: JALANTUNRAZAK207
+  label_en: Jalan Tun Razak 207
+  url: http://publications.europa.eu/resource/authority/site/JALANTUNRAZAK207
+  valid_from: '1958-01-01'
+- country_code: JAN
+  deprecated: 'false'
+  key: JAN
+  url: http://publications.europa.eu/resource/authority/site/JAN
+  valid_from: '1958-01-01'
+- country_code: JANOVSKEHO438
+  deprecated: 'false'
+  key: JANOVSKEHO438
+  label_en: Janovskeho 438
+  url: http://publications.europa.eu/resource/authority/site/JANOVSKEHO438
+  valid_from: '1958-01-01'
+- country_code: JASNA14_16
+  deprecated: 'false'
+  key: JASNA14_16
+  label_en: Jasna 14/16
+  url: http://publications.europa.eu/resource/authority/site/JASNA14_16
+  valid_from: '1958-01-01'
+- country_code: JDE
+  deprecated: 'false'
+  key: JDE
+  url: http://publications.europa.eu/resource/authority/site/JDE
+  valid_from: '1958-01-01'
+- country_code: JFK
+  deprecated: 'true'
+  key: JFK
+  url: http://publications.europa.eu/resource/authority/site/JFK
+  valid_from: '1958-01-01'
+- country_code: JL
+  deprecated: 'false'
+  key: JL
+  url: http://publications.europa.eu/resource/authority/site/JL
+  valid_from: '1958-01-01'
+- country_code: JMO
+  deprecated: 'true'
+  key: JMO
+  label_en: Jean Monnet building
+  url: http://publications.europa.eu/resource/authority/site/JMO
+  valid_from: '1958-01-01'
+  valid_until: '2017-06-30'
+- country_code: JRCGEEL
+  deprecated: 'false'
+  key: JRCGEEL
+  label_en: Geel site
+  url: http://publications.europa.eu/resource/authority/site/JRCGEEL
+  valid_from: '1960-05-01'
+- country_code: JRCISP
+  deprecated: 'false'
+  key: JRCISP
+  label_en: Ispra site
+  url: http://publications.europa.eu/resource/authority/site/JRCISP
+  valid_from: '1959-07-22'
+- country_code: JRCKARLS
+  deprecated: 'false'
+  key: JRCKARLS
+  label_en: Karlsruhe site
+  url: http://publications.europa.eu/resource/authority/site/JRCKARLS
+  valid_from: '1965-04-01'
+- country_code: JRCPETT
+  deprecated: 'false'
+  key: JRCPETT
+  label_en: Petten site
+  url: http://publications.europa.eu/resource/authority/site/JRCPETT
+  valid_from: '1962-11-16'
+- country_code: JRCSEVI
+  deprecated: 'false'
+  key: JRCSEVI
+  label_en: Expo building
+  url: http://publications.europa.eu/resource/authority/site/JRCSEVI
+  valid_from: '2002-01-01'
+- country_code: JULIUSNYERERE
+  deprecated: 'false'
+  key: JULIUSNYERERE
+  label_en: Avenida Julius Nyerere
+  url: http://publications.europa.eu/resource/authority/site/JULIUSNYERERE
+  valid_from: '1958-01-01'
+- country_code: JUNGMANNOVA24
+  deprecated: 'false'
+  key: JUNGMANNOVA24
+  label_en: Jungmannova 24
+  url: http://publications.europa.eu/resource/authority/site/JUNGMANNOVA24
+  valid_from: '1958-01-01'
+- country_code: K1K2K3
+  deprecated: 'false'
+  key: K1K2K3
+  label_en: European Court of Auditors
+  label_it: Corte dei conti europea
+  url: http://publications.europa.eu/resource/authority/site/K1K2K3
+  valid_from: '1985-01-01'
+- country_code: K7
+  deprecated: 'true'
+  key: K7
+  label_en: T building
+  url: http://publications.europa.eu/resource/authority/site/K7
+  valid_from: '1958-01-01'
+- country_code: K8
+  deprecated: 'true'
+  key: K8
+  url: http://publications.europa.eu/resource/authority/site/K8
+  valid_from: '1958-01-01'
+- country_code: K9
+  deprecated: 'true'
+  key: K9
+  label_en: Translation
+  url: http://publications.europa.eu/resource/authority/site/K9
+  valid_from: '1958-01-01'
+- country_code: KAD
+  deprecated: 'false'
+  key: KAD
+  url: http://publications.europa.eu/resource/authority/site/KAD
+  valid_from: '1958-01-01'
+- country_code: KADASHEVSKAYA14
+  deprecated: 'false'
+  key: KADASHEVSKAYA14
+  label_en: Kadashevskaya 14
+  url: http://publications.europa.eu/resource/authority/site/KADASHEVSKAYA14
+  valid_from: '1958-01-01'
+- country_code: KADENAUER3
+  deprecated: 'false'
+  key: KADENAUER3
+  label_en: Konrad Adenauer 3
+  url: http://publications.europa.eu/resource/authority/site/KADENAUER3
+  valid_from: '1958-01-01'
+- country_code: KAISERS29
+  deprecated: 'false'
+  key: KAISERS29
+  label_en: "Kaiserstra\xDFe 29"
+  url: http://publications.europa.eu/resource/authority/site/KAISERS29
+  valid_from: '1997-11-10'
+- country_code: KARADZICA12
+  deprecated: 'false'
+  key: KARADZICA12
+  label_en: Karadzica 12
+  url: http://publications.europa.eu/resource/authority/site/KARADZICA12
+  valid_from: '1958-01-01'
+- country_code: KEBELE10ROOSEVELT
+  deprecated: 'false'
+  key: KEBELE10ROOSEVELT
+  label_en: Kebele 10 Roosevelt
+  url: http://publications.europa.eu/resource/authority/site/KEBELE10ROOSEVELT
+  valid_from: '1958-01-01'
+- country_code: KEELUNG333
+  deprecated: 'false'
+  key: KEELUNG333
+  label_en: Keelung 333
+  url: http://publications.europa.eu/resource/authority/site/KEELUNG333
+  valid_from: '1958-01-01'
+- country_code: KLINGENBERG7A
+  deprecated: 'false'
+  key: KLINGENBERG7A
+  label_en: Klingenberg 7A
+  url: http://publications.europa.eu/resource/authority/site/KLINGENBERG7A
+  valid_from: '1958-01-01'
+- country_code: KOGALNICEANU12
+  deprecated: 'false'
+  key: KOGALNICEANU12
+  label_en: Kogalniceanu 12
+  url: http://publications.europa.eu/resource/authority/site/KOGALNICEANU12
+  valid_from: '1958-01-01'
+- country_code: KONGENSNYTORV6
+  deprecated: 'false'
+  key: KONGENSNYTORV6
+  label_en: Kongens Nytorv 6
+  url: http://publications.europa.eu/resource/authority/site/KONGENSNYTORV6
+  valid_from: '1958-01-01'
+- country_code: KORT
+  deprecated: 'false'
+  key: KORT
+  label_en: Archives
+  url: http://publications.europa.eu/resource/authority/site/KORT
+  valid_from: '1958-01-01'
+- country_code: KOSMONAVTOV62
+  deprecated: 'false'
+  key: KOSMONAVTOV62
+  label_en: Kosmonavtov 62
+  url: http://publications.europa.eu/resource/authority/site/KOSMONAVTOV62
+  valid_from: '1958-01-01'
+- country_code: KOSOVOSTREET1
+  deprecated: 'false'
+  key: KOSOVOSTREET1
+  label_en: Kosovo Street 1
+  url: http://publications.europa.eu/resource/authority/site/KOSOVOSTREET1
+  valid_from: '1958-01-01'
+- country_code: KSTREET2175
+  deprecated: 'false'
+  key: KSTREET2175
+  label_en: K Street 2175
+  url: http://publications.europa.eu/resource/authority/site/KSTREET2175
+  valid_from: '1958-01-01'
+- country_code: L102
+  deprecated: 'false'
+  key: L102
+  url: http://publications.europa.eu/resource/authority/site/L102
+  valid_from: '1958-01-01'
+- country_code: L130
+  deprecated: 'false'
+  key: L130
+  url: http://publications.europa.eu/resource/authority/site/L130
+  valid_from: '1958-01-01'
+- country_code: L145
+  deprecated: 'false'
+  key: L145
+  url: http://publications.europa.eu/resource/authority/site/L145
+  valid_from: '1958-01-01'
+- country_code: L15
+  deprecated: 'false'
+  key: L15
+  url: http://publications.europa.eu/resource/authority/site/L15
+  valid_from: '2013-06-21'
+- country_code: L41
+  deprecated: 'false'
+  key: L41
+  url: http://publications.europa.eu/resource/authority/site/L41
+  valid_from: '1958-01-01'
+- country_code: L56
+  deprecated: 'false'
+  key: L56
+  url: http://publications.europa.eu/resource/authority/site/L56
+  valid_from: '1958-01-01'
+- country_code: L86
+  deprecated: 'false'
+  key: L86
+  url: http://publications.europa.eu/resource/authority/site/L86
+  valid_from: '1958-01-01'
+- country_code: LACBIWA
+  deprecated: 'false'
+  key: LACBIWA
+  label_en: Lac Biwa
+  url: http://publications.europa.eu/resource/authority/site/LACBIWA
+  valid_from: '1958-01-01'
+- country_code: LACC
+  deprecated: 'false'
+  key: LACC
+  label_en: Laccolith building
+  url: http://publications.europa.eu/resource/authority/site/LACC
+  valid_from: '2015-01-01'
+- country_code: LACWINDERMERE
+  deprecated: 'false'
+  key: LACWINDERMERE
+  label_en: Lac Windermere
+  url: http://publications.europa.eu/resource/authority/site/LACWINDERMERE
+  valid_from: '1958-01-01'
+- country_code: LARGOJEANMONNET
+  deprecated: 'false'
+  key: LARGOJEANMONNET
+  label_en: Largo Jean Monnet
+  url: http://publications.europa.eu/resource/authority/site/LARGOJEANMONNET
+  valid_from: '1958-01-01'
+- country_code: LASCAR31
+  deprecated: 'false'
+  key: LASCAR31
+  label_en: Lascar 31
+  url: http://publications.europa.eu/resource/authority/site/LASCAR31
+  valid_from: '1958-01-01'
+- country_code: LEFRANCQ120
+  deprecated: 'false'
+  key: LEFRANCQ120
+  label_en: Lefrancq 120
+  url: http://publications.europa.eu/resource/authority/site/LEFRANCQ120
+  valid_from: '1958-01-01'
+- country_code: LEICESTERPEAK
+  deprecated: 'false'
+  key: LEICESTERPEAK
+  label_en: Leicester Peak, Regent
+  url: http://publications.europa.eu/resource/authority/site/LEICESTERPEAK
+  valid_from: '1958-01-01'
+- country_code: LINDEN78
+  deprecated: 'false'
+  key: LINDEN78
+  label_en: Linden 78
+  url: http://publications.europa.eu/resource/authority/site/LINDEN78
+  valid_from: '1958-01-01'
+- country_code: LKI
+  deprecated: 'false'
+  key: LKI
+  label_en: LKI
+  url: http://publications.europa.eu/resource/authority/site/LKI
+  valid_from: '2016-01-01'
+- country_code: LOSANGELESBV4899
+  deprecated: 'false'
+  key: LOSANGELESBV4899
+  label_en: Los Angeles Boulevard 4899
+  url: http://publications.europa.eu/resource/authority/site/LOSANGELESBV4899
+  valid_from: '1958-01-01'
+- country_code: LOTCOCOTIERS
+  deprecated: 'false'
+  key: LOTCOCOTIERS
+  label_en: Lotissement des Cocotiers
+  url: http://publications.europa.eu/resource/authority/site/LOTCOCOTIERS
+  valid_from: '1958-01-01'
+- country_code: LOVOHAZ35
+  deprecated: 'false'
+  key: LOVOHAZ35
+  label_en: "L\xF6v\u0151h\xE1z 35"
+  url: http://publications.europa.eu/resource/authority/site/LOVOHAZ35
+  valid_from: '1958-01-01'
+- country_code: LOW
+  deprecated: 'false'
+  key: LOW
+  url: http://publications.europa.eu/resource/authority/site/LOW
+  valid_from: '1958-01-01'
+- country_code: LOWERMOUNT12_14
+  deprecated: 'false'
+  key: LOWERMOUNT12_14
+  label_en: Lower Mount 12-14
+  url: http://publications.europa.eu/resource/authority/site/LOWERMOUNT12_14
+  valid_from: '1958-01-01'
+- country_code: LX40
+  deprecated: 'false'
+  key: LX40
+  url: http://publications.europa.eu/resource/authority/site/LX40
+  valid_from: '1958-01-01'
+- country_code: LX46
+  deprecated: 'false'
+  key: LX46
+  url: http://publications.europa.eu/resource/authority/site/LX46
+  valid_from: '1958-01-01'
+- country_code: MADO
+  deprecated: 'false'
+  key: MADO
+  url: http://publications.europa.eu/resource/authority/site/MADO
+  valid_from: '1958-01-01'
+- country_code: MAGENTA59
+  deprecated: 'false'
+  key: MAGENTA59
+  label_en: Magenta 59
+  url: http://publications.europa.eu/resource/authority/site/MAGENTA59
+  valid_from: '1958-01-01'
+- country_code: MALMINKATU16
+  deprecated: 'false'
+  key: MALMINKATU16
+  label_en: Malminkatu 16
+  url: http://publications.europa.eu/resource/authority/site/MALMINKATU16
+  valid_from: '1958-01-01'
+- country_code: MARECHALFOCH3
+  deprecated: 'false'
+  key: MARECHALFOCH3
+  label_en: Marechal Foch 3
+  url: http://publications.europa.eu/resource/authority/site/MARECHALFOCH3
+  valid_from: '1958-01-01'
+- country_code: MARSATEKLAI192
+  deprecated: 'false'
+  key: MARSATEKLAI192
+  label_en: Marsa Teklai 192
+  url: http://publications.europa.eu/resource/authority/site/MARSATEKLAI192
+  valid_from: '1958-01-01'
+- country_code: MEIEROVICA14
+  deprecated: 'false'
+  key: MEIEROVICA14
+  label_en: Meierovica 14
+  url: http://publications.europa.eu/resource/authority/site/MEIEROVICA14
+  valid_from: '1958-01-01'
+- country_code: MER
+  deprecated: 'false'
+  key: MER
+  url: http://publications.europa.eu/resource/authority/site/MER
+  valid_from: '1958-01-01'
+- country_code: MERO
+  deprecated: 'false'
+  key: MERO
+  label_en: Merode
+  url: http://publications.europa.eu/resource/authority/site/MERO
+  valid_from: '2016-11-30'
+- country_code: METCALFE150
+  deprecated: 'false'
+  key: METCALFE150
+  label_en: Metcalfe 150
+  url: http://publications.europa.eu/resource/authority/site/METCALFE150
+  valid_from: '1958-01-01'
+- country_code: MHE
+  deprecated: 'false'
+  key: MHE
+  label_en: House of European History
+  url: http://publications.europa.eu/resource/authority/site/MHE
+  valid_from: '2017-01-01'
+- country_code: MINAMIAZABU
+  deprecated: 'false'
+  key: MINAMIAZABU
+  label_en: Minami-Azabu
+  url: http://publications.europa.eu/resource/authority/site/MINAMIAZABU
+  valid_from: '1958-01-01'
+- country_code: MIRIBILLA
+  deprecated: 'false'
+  key: MIRIBILLA
+  label_en: Miribilla building
+  url: http://publications.europa.eu/resource/authority/site/MIRIBILLA
+  valid_from: '1958-01-01'
+- country_code: MOLL150
+  deprecated: 'false'
+  key: MOLL150
+  label_en: avenue MOLL 150
+  url: http://publications.europa.eu/resource/authority/site/MOLL150
+  valid_from: '1958-01-01'
+- country_code: MON15
+  deprecated: 'false'
+  key: MON15
+  label_en: Montoyer 15
+  url: http://publications.europa.eu/resource/authority/site/MON15
+  valid_from: '2016-10-19'
+- country_code: MON34
+  deprecated: 'false'
+  key: MON34
+  url: http://publications.europa.eu/resource/authority/site/MON34
+  valid_from: '1958-01-01'
+- country_code: MON59
+  deprecated: 'false'
+  key: MON59
+  url: http://publications.europa.eu/resource/authority/site/MON59
+  valid_from: '1958-01-01'
+- country_code: MON63
+  deprecated: 'true'
+  key: MON63
+  url: http://publications.europa.eu/resource/authority/site/MON63
+  valid_from: '1958-01-01'
+  valid_until: '2016-12-31'
+- country_code: MON70
+  deprecated: 'false'
+  key: MON70
+  url: http://publications.europa.eu/resource/authority/site/MON70
+  valid_from: '1958-01-01'
+- country_code: MON75
+  deprecated: 'false'
+  key: MON75
+  url: http://publications.europa.eu/resource/authority/site/MON75
+  valid_from: '1958-01-01'
+- country_code: MTCBLOCKA
+  deprecated: 'false'
+  key: MTCBLOCKA
+  label_en: MTC Block A
+  url: http://publications.europa.eu/resource/authority/site/MTCBLOCKA
+  valid_from: '1958-01-01'
+- country_code: MTS
+  deprecated: 'false'
+  key: MTS
+  label_en: Montoyer-Science
+  url: http://publications.europa.eu/resource/authority/site/MTS
+  valid_from: '2012-01-01'
+- country_code: MUJAHEDHADDAH
+  deprecated: 'false'
+  key: MUJAHEDHADDAH
+  label_en: Mujahed Street Haddah zone
+  url: http://publications.europa.eu/resource/authority/site/MUJAHEDHADDAH
+  valid_from: '1958-01-01'
+- country_code: N105
+  deprecated: 'false'
+  key: N105
+  url: http://publications.europa.eu/resource/authority/site/N105
+  valid_from: '1958-01-01'
+- country_code: NAJEEBALRAYYES3
+  deprecated: 'false'
+  key: NAJEEBALRAYYES3
+  label_en: Najeeb Al-Rayyes3
+  url: http://publications.europa.eu/resource/authority/site/NAJEEBALRAYYES3
+  valid_from: '1958-01-01'
+- country_code: NEWTONSTREET2
+  deprecated: 'false'
+  key: NEWTONSTREET2
+  label_en: Newton Street 2
+  url: http://publications.europa.eu/resource/authority/site/NEWTONSTREET2
+  valid_from: '1958-01-01'
+- country_code: NILECITYTOWERS
+  deprecated: 'false'
+  key: NILECITYTOWERS
+  label_en: Nile City Towers
+  url: http://publications.europa.eu/resource/authority/site/NILECITYTOWERS
+  valid_from: '1958-01-01'
+- country_code: NINOCHKHEIDZE38
+  deprecated: 'false'
+  key: NINOCHKHEIDZE38
+  label_en: Nino Chkheidze 38
+  url: http://publications.europa.eu/resource/authority/site/NINOCHKHEIDZE38
+  valid_from: '1958-01-01'
+- country_code: NIZAMI90A
+  deprecated: 'false'
+  key: NIZAMI90A
+  label_en: Nizami 90A
+  url: http://publications.europa.eu/resource/authority/site/NIZAMI90A
+  valid_from: '1958-01-01'
+- country_code: NORFOLKSTREET1
+  deprecated: 'false'
+  key: NORFOLKSTREET1
+  label_en: Norfolk Street 1
+  url: http://publications.europa.eu/resource/authority/site/NORFOLKSTREET1
+  valid_from: '1958-01-01'
+- country_code: NORTHBRIDGE250
+  deprecated: 'false'
+  key: NORTHBRIDGE250
+  label_en: North Bridge Road 250
+  url: http://publications.europa.eu/resource/authority/site/NORTHBRIDGE250
+  valid_from: '1958-01-01'
+- country_code: OFFCONSTITUTION
+  deprecated: 'false'
+  key: OFFCONSTITUTION
+  label_en: Off Constitution
+  url: http://publications.europa.eu/resource/authority/site/OFFCONSTITUTION
+  valid_from: '1958-01-01'
+- country_code: OFIPLAZADELESTE
+  deprecated: 'false'
+  key: OFIPLAZADELESTE
+  label_en: Ofiplaza del Este
+  url: http://publications.europa.eu/resource/authority/site/OFIPLAZADELESTE
+  valid_from: '1958-01-01'
+- country_code: OLIVIERROAD8
+  deprecated: 'false'
+  key: OLIVIERROAD8
+  label_en: Olivier Road 8
+  url: http://publications.europa.eu/resource/authority/site/OLIVIERROAD8
+  valid_from: '1958-01-01'
+- country_code: ONAMBLELENKOU1068
+  deprecated: 'false'
+  key: ONAMBLELENKOU1068
+  label_en: "Onambl\xE9l\xE9 Nkou 1068"
+  url: http://publications.europa.eu/resource/authority/site/ONAMBLELENKOU1068
+  valid_from: '1958-01-01'
+- country_code: ONECANADASQ
+  deprecated: 'true'
+  key: ONECANADASQ
+  label_en: One Canada Square
+  url: http://publications.europa.eu/resource/authority/site/ONECANADASQ
+  valid_from: '1958-01-01'
+  valid_until: '2019-05-30'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/site/OP_DATPRO
+- country_code: ORANGERIE18
+  deprecated: 'false'
+  key: ORANGERIE18
+  label_en: Orangerie 18
+  url: http://publications.europa.eu/resource/authority/site/ORANGERIE18
+  valid_from: '1958-01-01'
+- country_code: ORBN
+  deprecated: 'false'
+  key: ORBN
+  url: http://publications.europa.eu/resource/authority/site/ORBN
+  valid_from: '1986-07-01'
+- country_code: ORLYPLEIN24
+  deprecated: 'false'
+  key: ORLYPLEIN24
+  label_en: Orlyplein 24
+  url: http://publications.europa.eu/resource/authority/site/ORLYPLEIN24
+  valid_from: '2019-03-11'
+- country_code: OUTCA27
+  deprecated: 'false'
+  key: OUTCA27
+  label_en: "\xD3 utca 27"
+  url: http://publications.europa.eu/resource/authority/site/OUTCA27
+  valid_from: '1958-01-01'
+- country_code: OVER
+  deprecated: 'false'
+  key: OVER
+  url: http://publications.europa.eu/resource/authority/site/OVER
+  valid_from: '1958-01-01'
+- country_code: PALISADY29
+  deprecated: 'false'
+  key: PALISADY29
+  label_en: "Palis\xE1dy 29"
+  url: http://publications.europa.eu/resource/authority/site/PALISADY29
+  valid_from: '1958-01-01'
+- country_code: PALM
+  deprecated: 'false'
+  key: PALM
+  url: http://publications.europa.eu/resource/authority/site/PALM
+  valid_from: '1958-01-01'
+- country_code: PE_TOA
+  deprecated: 'false'
+  key: PE_TOA
+  label_en: Tower A
+  url: http://publications.europa.eu/resource/authority/site/PE_TOA
+  valid_from: '1958-01-01'
+- country_code: PE_TOB
+  deprecated: 'false'
+  key: PE_TOB
+  label_en: Tower B
+  url: http://publications.europa.eu/resource/authority/site/PE_TOB
+  valid_from: '1958-01-01'
+- country_code: PFL
+  deprecated: 'false'
+  key: PFL
+  label_en: Pierre Pflimlin building
+  url: http://publications.europa.eu/resource/authority/site/PFL
+  valid_from: '1958-01-01'
+- country_code: PHS
+  deprecated: 'false'
+  key: PHS
+  url: http://publications.europa.eu/resource/authority/site/PHS
+  valid_from: '1958-01-01'
+- country_code: PKI
+  deprecated: 'false'
+  key: PKI
+  label_en: PKI
+  url: http://publications.europa.eu/resource/authority/site/PKI
+  valid_from: '1980-01-01'
+- country_code: PLACEINDEPENDANCE
+  deprecated: 'false'
+  key: PLACEINDEPENDANCE
+  label_en: "Place de l'Ind\xE9pendance"
+  url: http://publications.europa.eu/resource/authority/site/PLACEINDEPENDANCE
+  valid_from: '1958-01-01'
+- country_code: PLB3
+  deprecated: 'false'
+  key: PLB3
+  url: http://publications.europa.eu/resource/authority/site/PLB3
+  valid_from: '2014-04-28'
+- country_code: POLOT82A
+  deprecated: 'false'
+  key: POLOT82A
+  label_en: Polot 82 A European Compound
+  url: http://publications.europa.eu/resource/authority/site/POLOT82A
+  valid_from: '1958-01-01'
+- country_code: PONIENTEHOLCIM2
+  deprecated: 'false'
+  key: PONIENTEHOLCIM2
+  label_en: Poniente Holcim 2
+  url: http://publications.europa.eu/resource/authority/site/PONIENTEHOLCIM2
+  valid_from: '1958-01-01'
+- country_code: POPOVICA40
+  deprecated: 'false'
+  key: POPOVICA40
+  label_en: "Popovi\u0107a 40"
+  url: http://publications.europa.eu/resource/authority/site/POPOVICA40
+  valid_from: '1958-01-01'
+- country_code: PRE
+  deprecated: 'false'
+  key: PRE
+  url: http://publications.europa.eu/resource/authority/site/PRE
+  valid_from: '1958-01-01'
+- country_code: PREAHNORODOM100A
+  deprecated: 'false'
+  key: PREAHNORODOM100A
+  label_en: Preah Norodom 100A
+  url: http://publications.europa.eu/resource/authority/site/PREAHNORODOM100A
+  valid_from: '1958-01-01'
+- country_code: QUARTIERDUHERON
+  deprecated: 'false'
+  key: QUARTIERDUHERON
+  label_en: "Quartier du H\xE9ron"
+  url: http://publications.europa.eu/resource/authority/site/QUARTIERDUHERON
+  valid_from: '1958-01-01'
+- country_code: QUARTIERFLEUVE
+  deprecated: 'false'
+  key: QUARTIERFLEUVE
+  label_en: Quartier du Fleuve
+  url: http://publications.europa.eu/resource/authority/site/QUARTIERFLEUVE
+  valid_from: '1958-01-01'
+- country_code: QUEENSPARKWEST16
+  deprecated: 'false'
+  key: QUEENSPARKWEST16
+  label_en: Queen's Park West 16
+  url: http://publications.europa.eu/resource/authority/site/QUEENSPARKWEST16
+  valid_from: '1958-01-01'
+- country_code: RAGATIROAD
+  deprecated: 'false'
+  key: RAGATIROAD
+  label_en: Ragati Road
+  url: http://publications.europa.eu/resource/authority/site/RAGATIROAD
+  valid_from: '1958-01-01'
+- country_code: RAKOVSKI124
+  deprecated: 'false'
+  key: RAKOVSKI124
+  label_en: Rakovski 124
+  url: http://publications.europa.eu/resource/authority/site/RAKOVSKI124
+  valid_from: '1958-01-01'
+- country_code: RAVALA4
+  deprecated: 'false'
+  key: RAVALA4
+  label_en: "R\xE4vala 4"
+  url: http://publications.europa.eu/resource/authority/site/RAVALA4
+  valid_from: '1958-01-01'
+- country_code: REDMONDSTRAAT239
+  deprecated: 'false'
+  key: REDMONDSTRAAT239
+  label_en: Redmondstraat 239
+  url: http://publications.europa.eu/resource/authority/site/REDMONDSTRAAT239
+  valid_from: '1958-01-01'
+- country_code: REFORMA1675
+  deprecated: 'false'
+  key: REFORMA1675
+  label_en: Paseo de la Reforma 1675
+  url: http://publications.europa.eu/resource/authority/site/REFORMA1675
+  valid_from: '1958-01-01'
+- country_code: REGERINGS65
+  deprecated: 'false'
+  key: REGERINGS65
+  label_en: Regeringsgatan 65
+  url: http://publications.europa.eu/resource/authority/site/REGERINGS65
+  valid_from: '1958-01-01'
+- country_code: REIKATAYAVALA
+  deprecated: 'false'
+  key: REIKATAYAVALA
+  label_en: Rei Katyavala
+  url: http://publications.europa.eu/resource/authority/site/REIKATAYAVALA
+  valid_from: '1958-01-01'
+- country_code: REM
+  deprecated: 'false'
+  key: REM
+  url: http://publications.europa.eu/resource/authority/site/REM
+  valid_from: '1958-01-01'
+- country_code: RIBEIRA
+  deprecated: 'false'
+  key: RIBEIRA
+  label_en: Ribeira
+  url: http://publications.europa.eu/resource/authority/site/RIBEIRA
+  valid_from: '1958-01-01'
+- country_code: RMD
+  deprecated: 'false'
+  key: RMD
+  url: http://publications.europa.eu/resource/authority/site/RMD
+  valid_from: '1958-01-01'
+- country_code: ROAD84GULSHAN2
+  deprecated: 'false'
+  key: ROAD84GULSHAN2
+  label_en: Road 84 Gulshan 2
+  url: http://publications.europa.eu/resource/authority/site/ROAD84GULSHAN2
+  valid_from: '1958-01-01'
+- country_code: ROBINSON758
+  deprecated: 'false'
+  key: ROBINSON758
+  label_en: Robinson 758
+  url: http://publications.europa.eu/resource/authority/site/ROBINSON758
+  valid_from: '1958-01-01'
+- country_code: RP14
+  deprecated: 'false'
+  key: RP14
+  url: http://publications.europa.eu/resource/authority/site/RP14
+  valid_from: '1958-01-01'
+- country_code: RUAFATUMETA
+  deprecated: 'false'
+  key: RUAFATUMETA
+  label_en: Rua de Fatumeta
+  url: http://publications.europa.eu/resource/authority/site/RUAFATUMETA
+  valid_from: '1958-01-01'
+- country_code: SALAHKHALAF
+  deprecated: 'false'
+  key: SALAHKHALAF
+  label_en: Salah Khalaf
+  url: http://publications.europa.eu/resource/authority/site/SALAHKHALAF
+  valid_from: '1958-01-01'
+- country_code: SC11
+  deprecated: 'false'
+  key: SC11
+  url: http://publications.europa.eu/resource/authority/site/SC11
+  valid_from: '1958-01-01'
+- country_code: SC15
+  deprecated: 'true'
+  key: SC15
+  url: http://publications.europa.eu/resource/authority/site/SC15
+  valid_from: '1958-01-01'
+- country_code: SC27
+  deprecated: 'false'
+  key: SC27
+  url: http://publications.europa.eu/resource/authority/site/SC27
+  valid_from: '1958-01-01'
+- country_code: SC29
+  deprecated: 'false'
+  key: SC29
+  url: http://publications.europa.eu/resource/authority/site/SC29
+  valid_from: '1958-01-01'
+- country_code: SCH
+  deprecated: 'false'
+  key: SCH
+  url: http://publications.europa.eu/resource/authority/site/SCH
+  valid_from: '1958-01-01'
+- country_code: SCHWARZENBERG11
+  deprecated: 'false'
+  key: SCHWARZENBERG11
+  label_en: FRA site
+  url: http://publications.europa.eu/resource/authority/site/SCHWARZENBERG11
+  valid_from: '1958-01-01'
+- country_code: SDM
+  deprecated: 'false'
+  key: SDM
+  url: http://publications.europa.eu/resource/authority/site/SDM
+  valid_from: '1958-01-01'
+- country_code: SDME
+  deprecated: 'false'
+  key: SDME
+  url: http://publications.europa.eu/resource/authority/site/SDME
+  valid_from: '1958-01-01'
+- country_code: SEN
+  deprecated: 'false'
+  key: SEN
+  url: http://publications.europa.eu/resource/authority/site/SEN
+  valid_from: '1958-01-01'
+- country_code: SENDALL11
+  deprecated: 'false'
+  key: SENDALL11
+  label_en: Sendall 11
+  url: http://publications.europa.eu/resource/authority/site/SENDALL11
+  valid_from: '1958-01-01'
+- country_code: SETTHATHIRATHROAD
+  deprecated: 'false'
+  key: SETTHATHIRATHROAD
+  label_en: Setthathirath Road
+  url: http://publications.europa.eu/resource/authority/site/SETTHATHIRATHROAD
+  valid_from: '1958-01-01'
+- country_code: SHANNTINIKETAN5
+  deprecated: 'false'
+  key: SHANNTINIKETAN5
+  label_en: Shantiniketan5
+  url: http://publications.europa.eu/resource/authority/site/SHANNTINIKETAN5
+  valid_from: '1958-01-01'
+- country_code: SHINMOONRO116
+  deprecated: 'true'
+  key: SHINMOONRO116
+  label_en: Shinmoonro 116
+  url: http://publications.europa.eu/resource/authority/site/SHINMOONRO116
+  valid_from: '1958-01-01'
+  valid_until: '2017-11-30'
+- country_code: SHISQI7
+  deprecated: 'false'
+  key: SHISQI7
+  label_en: SHIS QI 7
+  url: http://publications.europa.eu/resource/authority/site/SHISQI7
+  valid_from: '1958-01-01'
+- country_code: SHOHAM5_7
+  deprecated: 'false'
+  key: SHOHAM5_7
+  label_en: Shoham 5-7
+  url: http://publications.europa.eu/resource/authority/site/SHOHAM5_7
+  valid_from: '1958-01-01'
+- country_code: SKENDERIJA3A
+  deprecated: 'false'
+  key: SKENDERIJA3A
+  label_en: Skenderija 3A
+  url: http://publications.europa.eu/resource/authority/site/SKENDERIJA3A
+  valid_from: '1958-01-01'
+- country_code: SMITHSQ32
+  deprecated: 'false'
+  key: SMITHSQ32
+  label_en: Smith Sq 32
+  url: http://publications.europa.eu/resource/authority/site/SMITHSQ32
+  valid_from: '1958-01-01'
+- country_code: SOMHLOLO
+  deprecated: 'false'
+  key: SOMHLOLO
+  label_en: Somhlolo Road
+  url: http://publications.europa.eu/resource/authority/site/SOMHLOLO
+  valid_from: '1958-01-01'
+- country_code: SONNEMANN20
+  deprecated: 'false'
+  key: SONNEMANN20
+  label_en: "Sonnemannstra\xDFe 20"
+  url: http://publications.europa.eu/resource/authority/site/SONNEMANN20
+  valid_from: '1997-11-10'
+- country_code: SPA2
+  deprecated: 'false'
+  key: SPA2
+  url: http://publications.europa.eu/resource/authority/site/SPA2
+  valid_from: '1958-01-01'
+- country_code: SPA3
+  deprecated: 'false'
+  key: SPA3
+  url: http://publications.europa.eu/resource/authority/site/SPA3
+  valid_from: '1958-01-01'
+- country_code: STDENISSTREET
+  deprecated: 'false'
+  key: STDENISSTREET
+  label_en: St. Denis Street
+  url: http://publications.europa.eu/resource/authority/site/STDENISSTREET
+  valid_from: '1958-01-01'
+- country_code: STEP_C
+  deprecated: 'false'
+  key: STEP_C
+  label_en: Science and Technology Park of Crete
+  url: http://publications.europa.eu/resource/authority/site/STEP_C
+  valid_from: '1958-01-01'
+- country_code: STGERMAIN288
+  deprecated: 'false'
+  key: STGERMAIN288
+  label_en: Saint-Germain 288
+  url: http://publications.europa.eu/resource/authority/site/STGERMAIN288
+  valid_from: '1958-01-01'
+- country_code: STORRARDRIVE27
+  deprecated: 'false'
+  key: STORRARDRIVE27
+  label_en: Storrar Drive 27
+  url: http://publications.europa.eu/resource/authority/site/STORRARDRIVE27
+  valid_from: '1958-01-01'
+- country_code: STPAUL254
+  deprecated: 'false'
+  key: STPAUL254
+  label_en: St Paul 254
+  url: http://publications.europa.eu/resource/authority/site/STPAUL254
+  valid_from: '1958-01-01'
+- country_code: STREETNO88
+  deprecated: 'false'
+  key: STREETNO88
+  label_en: Street No 88
+  url: http://publications.europa.eu/resource/authority/site/STREETNO88
+  valid_from: '1958-01-01'
+- country_code: SUDIRMAN32
+  deprecated: 'false'
+  key: SUDIRMAN32
+  label_en: Sudirman 32
+  url: http://publications.europa.eu/resource/authority/site/SUDIRMAN32
+  valid_from: '1958-01-01'
+- country_code: SVKIRILIMETODIJ52B
+  deprecated: 'false'
+  key: SVKIRILIMETODIJ52B
+  label_en: Sv. Kiril i Metodij 52b
+  url: http://publications.europa.eu/resource/authority/site/SVKIRILIMETODIJ52B
+  valid_from: '1958-01-01'
+- country_code: T2
+  deprecated: 'false'
+  key: T2
+  label_en: Temporary Jean Monnet
+  url: http://publications.europa.eu/resource/authority/site/T2
+  valid_from: '2016-05-01'
+- country_code: TAPPOOCITYCOMPLEX
+  deprecated: 'false'
+  key: TAPPOOCITYCOMPLEX
+  label_en: Tappoo City Complex
+  url: http://publications.europa.eu/resource/authority/site/TAPPOOCITYCOMPLEX
+  valid_from: '1958-01-01'
+- country_code: TAUNUSTOR2
+  deprecated: 'false'
+  key: TAUNUSTOR2
+  label_en: Taunustor 2
+  url: http://publications.europa.eu/resource/authority/site/TAUNUSTOR2
+  valid_from: '1997-11-10'
+- country_code: TERESIANO1C
+  deprecated: 'false'
+  key: TERESIANO1C
+  label_en: Teresiano 1 C
+  url: http://publications.europa.eu/resource/authority/site/TERESIANO1C
+  valid_from: '1958-01-01'
+- country_code: TERRACE70
+  deprecated: 'false'
+  key: TERRACE70
+  label_en: The Terrace 70
+  url: http://publications.europa.eu/resource/authority/site/TERRACE70
+  valid_from: '1958-01-01'
+- country_code: TEVRAGHZEINA
+  deprecated: 'false'
+  key: TEVRAGHZEINA
+  label_en: Tevragh Zeina
+  url: http://publications.europa.eu/resource/authority/site/TEVRAGHZEINA
+  valid_from: '1958-01-01'
+- country_code: TFP
+  deprecated: 'true'
+  key: TFP
+  url: http://publications.europa.eu/resource/authority/site/TFP
+  valid_from: '2006-01-01'
+  valid_until: '2013-09-30'
+- country_code: THABETALLOGHAWI
+  deprecated: 'false'
+  key: THABETALLOGHAWI
+  label_en: Thabet Al Loghawi
+  url: http://publications.europa.eu/resource/authority/site/THABETALLOGHAWI
+  valid_from: '1958-01-01'
+- country_code: THM
+  deprecated: 'false'
+  key: THM
+  url: http://publications.europa.eu/resource/authority/site/THM
+  valid_from: '1993-02-12'
+- country_code: THUONGKIET
+  deprecated: 'false'
+  key: THUONGKIET
+  label_en: Thuong Kiet
+  url: http://publications.europa.eu/resource/authority/site/THUONGKIET
+  valid_from: '1958-01-01'
+- country_code: TO56
+  deprecated: 'false'
+  key: TO56
+  label_en: White Atrium Building
+  url: http://publications.europa.eu/resource/authority/site/TO56
+  valid_from: '1958-01-01'
+- country_code: TOMTEBODA11A
+  deprecated: 'false'
+  key: TOMTEBODA11A
+  label_en: Tomteboda 11A
+  url: http://publications.europa.eu/resource/authority/site/TOMTEBODA11A
+  valid_from: '1958-01-01'
+- country_code: TORREJON
+  deprecated: 'false'
+  key: TORREJON
+  label_en: Torrejon Air Base
+  url: http://publications.europa.eu/resource/authority/site/TORREJON
+  valid_from: '1958-01-01'
+- country_code: TORRESDIAGONALB3
+  deprecated: 'false'
+  key: TORRESDIAGONALB3
+  label_en: Torres Diagonal Litoral B3
+  url: http://publications.europa.eu/resource/authority/site/TORRESDIAGONALB3
+  valid_from: '1958-01-01'
+- country_code: TOURZITAL
+  deprecated: 'false'
+  key: TOURZITAL
+  label_en: Zital Tower
+  url: http://publications.europa.eu/resource/authority/site/TOURZITAL
+  valid_from: '1958-01-01'
+- country_code: TR3
+  deprecated: 'false'
+  key: TR3
+  label_en: Trg republike 3
+  url: http://publications.europa.eu/resource/authority/site/TR3
+  valid_from: '1958-01-01'
+- country_code: TRE
+  deprecated: 'false'
+  key: TRE
+  url: http://publications.europa.eu/resource/authority/site/TRE
+  valid_from: '1958-01-01'
+- country_code: TREURENBERG22
+  deprecated: 'false'
+  key: TREURENBERG22
+  label_en: Treurenberg 22
+  url: http://publications.europa.eu/resource/authority/site/TREURENBERG22
+  valid_from: '1958-01-01'
+- country_code: TRI
+  deprecated: 'false'
+  key: TRI
+  url: http://publications.europa.eu/resource/authority/site/TRI
+  valid_from: '1958-01-01'
+- country_code: TUN4JACKSON
+  deprecated: 'false'
+  key: TUN4JACKSON
+  label_en: Tun 4 Jackson
+  url: http://publications.europa.eu/resource/authority/site/TUN4JACKSON
+  valid_from: '1958-01-01'
+- country_code: UGURMUMCU88
+  deprecated: 'false'
+  key: UGURMUMCU88
+  label_en: Ugur Mumcu 88
+  url: http://publications.europa.eu/resource/authority/site/UGURMUMCU88
+  valid_from: '1958-01-01'
+- country_code: UMOJAHOUSE
+  deprecated: 'false'
+  key: UMOJAHOUSE
+  label_en: Umoja House
+  url: http://publications.europa.eu/resource/authority/site/UMOJAHOUSE
+  valid_from: '1958-01-01'
+- country_code: UMUGANDA1807
+  deprecated: 'false'
+  key: UMUGANDA1807
+  label_en: Umuganda 1807
+  url: http://publications.europa.eu/resource/authority/site/UMUGANDA1807
+  valid_from: '1958-01-01'
+- country_code: UNDRIVE100
+  deprecated: 'false'
+  key: UNDRIVE100
+  label_en: U.N. Drive 100
+  url: http://publications.europa.eu/resource/authority/site/UNDRIVE100
+  valid_from: '1958-01-01'
+- country_code: UTTARDHOKASADAK
+  deprecated: 'false'
+  key: UTTARDHOKASADAK
+  label_en: Uttar Dhoka Sadak
+  url: http://publications.europa.eu/resource/authority/site/UTTARDHOKASADAK
+  valid_from: '1958-01-01'
+- country_code: VANBENTHEM1
+  deprecated: 'false'
+  key: VANBENTHEM1
+  label_en: Bob-van-Benthem 1
+  url: http://publications.europa.eu/resource/authority/site/VANBENTHEM1
+  valid_from: '1958-01-01'
+- country_code: VASILISSISSOFIAS2
+  deprecated: 'false'
+  key: VASILISSISSOFIAS2
+  label_en: Vasilissis Sofias 2
+  url: http://publications.europa.eu/resource/authority/site/VASILISSISSOFIAS2
+  valid_from: '1958-01-01'
+- country_code: VIJVERBERG5_6
+  deprecated: 'false'
+  key: VIJVERBERG5_6
+  label_en: Vijverberg 5-6
+  url: http://publications.europa.eu/resource/authority/site/VIJVERBERG5_6
+  valid_from: '1958-01-01'
+- country_code: VILLAGUALINO
+  deprecated: 'false'
+  key: VILLAGUALINO
+  label_en: Villa Gualino
+  url: http://publications.europa.eu/resource/authority/site/VILLAGUALINO
+  valid_from: '1958-01-01'
+- country_code: VM18
+  deprecated: 'false'
+  key: VM18
+  url: http://publications.europa.eu/resource/authority/site/VM18
+  valid_from: '1958-01-01'
+- country_code: VM2
+  deprecated: 'false'
+  key: VM2
+  url: http://publications.europa.eu/resource/authority/site/VM2
+  valid_from: '1958-01-01'
+- country_code: VOLODYMYRSKA101
+  deprecated: 'false'
+  key: VOLODYMYRSKA101
+  label_en: Volodymyrska 101
+  url: http://publications.europa.eu/resource/authority/site/VOLODYMYRSKA101
+  valid_from: '1958-01-01'
+- country_code: VONSUTTNER2_4
+  deprecated: 'false'
+  key: VONSUTTNER2_4
+  label_en: Bertha-von-Suttner 2-4
+  url: http://publications.europa.eu/resource/authority/site/VONSUTTNER2_4
+  valid_from: '1958-01-01'
+- country_code: VYRONOS30
+  deprecated: 'false'
+  key: VYRONOS30
+  label_en: Vyronos 30
+  url: http://publications.europa.eu/resource/authority/site/VYRONOS30
+  valid_from: '1958-01-01'
+- country_code: W910
+  deprecated: 'false'
+  key: W910
+  url: http://publications.europa.eu/resource/authority/site/W910
+  valid_from: '1958-01-01'
+- country_code: WALI
+  deprecated: 'false'
+  key: WALI
+  url: http://publications.europa.eu/resource/authority/site/WALI
+  valid_from: '2006-06-21'
+- country_code: WARSPIRE
+  deprecated: 'false'
+  key: WARSPIRE
+  label_en: Warsau Spire
+  url: http://publications.europa.eu/resource/authority/site/WARSPIRE
+  valid_from: '1958-01-01'
+- country_code: WAY
+  deprecated: 'false'
+  key: WAY
+  url: http://publications.europa.eu/resource/authority/site/WAY
+  valid_from: '1958-01-01'
+- country_code: WETSTRAAT223
+  deprecated: 'false'
+  key: WETSTRAAT223
+  label_en: Wetstraat 223
+  url: http://publications.europa.eu/resource/authority/site/WETSTRAAT223
+  valid_from: '1997-11-10'
+- country_code: WHTO
+  deprecated: 'false'
+  key: WHTO
+  label_en: Westhafen Tower
+  url: http://publications.europa.eu/resource/authority/site/WHTO
+  valid_from: '1958-01-01'
+- country_code: WIB
+  deprecated: 'false'
+  key: WIB
+  url: http://publications.europa.eu/resource/authority/site/WIB
+  valid_from: '1958-01-01'
+- country_code: WIC
+  deprecated: 'false'
+  key: WIC
+  url: http://publications.europa.eu/resource/authority/site/WIC
+  valid_from: '1958-01-01'
+- country_code: WIDOK10
+  deprecated: 'false'
+  key: WIDOK10
+  label_en: Widok 10
+  url: http://publications.europa.eu/resource/authority/site/WIDOK10
+  valid_from: '1958-01-01'
+- country_code: WIE
+  deprecated: 'false'
+  key: WIE
+  url: http://publications.europa.eu/resource/authority/site/WIE
+  valid_from: '1958-01-01'
+- country_code: WILS
+  deprecated: 'false'
+  key: WILS
+  url: http://publications.europa.eu/resource/authority/site/WILS
+  valid_from: '1958-01-01'
+- country_code: WIM
+  deprecated: 'false'
+  key: WIM
+  label_en: Wilfried Martens
+  url: http://publications.europa.eu/resource/authority/site/WIM
+  valid_from: '2018-01-01'
+- country_code: WIND
+  deprecated: 'false'
+  key: WIND
+  label_en: Windhof (Data Centre)
+  url: http://publications.europa.eu/resource/authority/site/WIND
+  valid_from: '2007-12-01'
+- country_code: WIPPLINGER35
+  deprecated: 'false'
+  key: WIPPLINGER35
+  label_en: "Wipplingerstra\xDFe 35"
+  url: http://publications.europa.eu/resource/authority/site/WIPPLINGER35
+  valid_from: '1958-01-01'
+- country_code: WIRELESS63
+  deprecated: 'false'
+  key: WIRELESS63
+  label_en: Wireless Road 63
+  url: http://publications.europa.eu/resource/authority/site/WIRELESS63
+  valid_from: '1958-01-01'
+- country_code: WKI
+  deprecated: 'false'
+  key: WKI
+  label_en: EIB
+  url: http://publications.europa.eu/resource/authority/site/WKI
+  valid_from: '2008-06-02'
+- country_code: WYATTVILLEROAD
+  deprecated: 'false'
+  key: WYATTVILLEROAD
+  label_en: Wyattville Road
+  url: http://publications.europa.eu/resource/authority/site/WYATTVILLEROAD
+  valid_from: '1958-01-01'

@@ -1,0 +1,91 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/OP_DATPRO
+- country_code: comp-dial
+  deprecated: 'false'
+  key: comp-dial
+  label_en: Competitive dialogue
+  label_it: Dialogo competitivo
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-dial
+  valid_from: '2019-09-18'
+- country_code: comp-tend
+  deprecated: 'false'
+  key: comp-tend
+  label_en: Competitive tendering
+  label_it: Procedura di gara
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/comp-tend
+  valid_from: '2021-06-16'
+- country_code: innovation
+  deprecated: 'false'
+  key: innovation
+  label_en: Innovation partnership
+  label_it: Partenariato per l'innovazione
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/innovation
+  valid_from: '2019-09-18'
+- country_code: neg-w-call
+  deprecated: 'false'
+  key: neg-w-call
+  label_en: Negotiated with prior publication of a call for competition / competitive
+    with negotiation
+  label_it: Negoziata con previa indizione di gara / competitiva con negoziazione
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-w-call
+  valid_from: '2019-09-18'
+- country_code: neg-wo-call
+  deprecated: 'false'
+  key: neg-wo-call
+  label_en: Negotiated without prior call for competition
+  label_it: Negoziata senza previa indizione di gara
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/neg-wo-call
+  valid_from: '2019-09-18'
+- country_code: open
+  deprecated: 'false'
+  key: open
+  label_en: Open
+  label_it: Aperta
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/open
+  valid_from: '2019-09-18'
+- country_code: oth-mult
+  deprecated: 'false'
+  key: oth-mult
+  label_en: Other multiple stage procedure
+  label_it: "Altra procedura a pi\xF9 fasi"
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-mult
+  valid_from: '2019-09-18'
+- country_code: oth-single
+  deprecated: 'false'
+  key: oth-single
+  label_en: Other single stage procedure
+  label_it: Altra procedura a fase unica
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/oth-single
+  valid_from: '2019-09-18'
+- country_code: restricted
+  deprecated: 'false'
+  key: restricted
+  label_en: Restricted
+  label_it: Ristretta
+  url: http://publications.europa.eu/resource/authority/procurement-procedure-type/restricted
+  valid_from: '2019-09-18'

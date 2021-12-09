@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/ALPHABETIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ALPHABETIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ALPHABETIC</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>ALPHABETIC</atold:op-code>
+    <dc:identifier>ALPHABETIC</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">Азбучна система</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Abeceda</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Alfabetisk</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Alphabetisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αλφαβητικό</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Alphabetic</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Alfabético</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Häälikkiri</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Aakkosellinen</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Alphabétique</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Aibítreach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Alfabetsko</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Alfabetikus</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Alfabetico</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Abėcėlinė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Alfabētiskā</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Alfabetiku</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Alfabetisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Alfabetyczne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Alfabético</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Alfabetic</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Alfabetické písmo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Abecedno</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Alfabetiskt</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/ABJAD">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ABJAD</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ABJAD</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>ABJAD</atold:op-code>
+    <dc:identifier>ABJAD</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">Абджад</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Abdžád</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αμπτζάντ</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Abyad</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Konsonantkiri</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Priebalsinė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Abdžads</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Abdżad</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Consonântico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Abjad</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Abdžad</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Abdžad</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Abjad</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/LOGOGRAPHIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>LOGOGRAPHIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>LOGOGRAPHIC</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>LOGOGRAPHIC</atold:op-code>
+    <dc:identifier>LOGOGRAPHIC</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">Логографическа система</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Logogram</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Logografisk</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Logografisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Λογογραφικό</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Logographic</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Logográfico</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Logograafiline kiri</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Logografinen</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Logographique</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Logagrafach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Logografsko</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Logografikus</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Logografico</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Logografinė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Logogrāfiskā</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Logografiku</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Logografisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Logograficzne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Logográfico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Logografic</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Logografické písmo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Logografsko</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Logografiskt</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/ABUGIDA">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ABUGIDA</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ABUGIDA</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>ABUGIDA</atold:op-code>
+    <dc:identifier>ABUGIDA</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">Абугида</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Αμπουγκίντα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Konsonant-vokaalne kiri</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Alphasyllabaire</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Abugidsko</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Pusiau skiemeninė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Alfassilábico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Abugida</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Abugida</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/SYLLABIC">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SYLLABIC</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SYLLABIC</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>SYLLABIC</atold:op-code>
+    <dc:identifier>SYLLABIC</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">Сричкова система</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Slabičné písmo</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Syllabisk</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Syllabisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συλλαβικό</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Syllabic</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Silábico</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Silpkiri</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Syllabinen</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Syllabique</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Siollach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Slogovno</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Szillabikus</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Sillabico</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Skiemeninė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Zilbju</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Sillabiku</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Syllabisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Sylabariusz</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Silábico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Silabic</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Slabičné písmo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Zlogovno</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Stavelseskrift</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system/FEATURAL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>FEATURAL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>FEATURAL</at:op-code>
+    <at:start.use>2012-07-05</at:start.use>
+    <atold:op-code>FEATURAL</atold:op-code>
+    <dc:identifier>FEATURAL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/writing-system"/>
+    <skos:prefLabel xml:lang="bg">Признакова система</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Písmo reflektující fonetické rysy jazyka</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Fonologisk</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Alphabetosyllabisch</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Φθογγογραφικό</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Featural</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Rasgal</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Foneetiliste omaduste põhine</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Foneettisiin ominaisuuksiin perustuva</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Featural</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Gnéitheach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Posebno glasovno</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Megjelenítő</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Distintivo</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Fonetinė</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Fonēmiskā</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Distintiv</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Featural</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Funkcyjne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Trácico</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Subfonologic</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Fonetický prepis</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Posebno fonetsko</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Fonematiskt</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/writing-system">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Writing system</rdfs:label>
+    <at:prefLabel xml:lang="en">Writing system</at:prefLabel>
+    <at:table.id>writing-system</at:table.id>
+    <at:table.version.number>20200923-0</at:table.version.number>
+    <owl:versionInfo>20200923-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Writing system</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

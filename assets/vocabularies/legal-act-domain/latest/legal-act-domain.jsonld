@@ -1,0 +1,1941 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/EU",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейски съюз"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropská unie"
+      },
+      {
+        "@language": "da",
+        "@value": "Den Europæiske Union"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Union"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκή Ένωση"
+      },
+      {
+        "@language": "en",
+        "@value": "European Union"
+      },
+      {
+        "@language": "es",
+        "@value": "Unión Europea"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Liit"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan unioni"
+      },
+      {
+        "@language": "fr",
+        "@value": "Union européenne"
+      },
+      {
+        "@language": "ga",
+        "@value": "An tAontas Eorpach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europska unija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Unió"
+      },
+      {
+        "@language": "it",
+        "@value": "Unione europea"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos Sąjunga"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Savienība"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Unjoni Ewropea"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Unie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Unia Europejska"
+      },
+      {
+        "@language": "pt",
+        "@value": "União Europeia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Uniunea Europeană"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európska únia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropska unija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska unionen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain EU refers to the European Union as set out in the Treaty of Lisbon signed in 2009. This treaty is a reform treaty amending the two treaties which form the constitutional basis of the European Union (TEU and TFEU). This domain was introduced on 1 December 2009 and is still current."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU"
+      },
+      {
+        "@language": "de",
+        "@value": "EU"
+      },
+      {
+        "@language": "el",
+        "@value": "ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU"
+      },
+      {
+        "@language": "es",
+        "@value": "UE"
+      },
+      {
+        "@language": "et",
+        "@value": "EL"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU"
+      },
+      {
+        "@language": "fr",
+        "@value": "UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "EU"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU"
+      },
+      {
+        "@language": "it",
+        "@value": "UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES"
+      },
+      {
+        "@language": "mt",
+        "@value": "UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EU"
+      },
+      {
+        "@language": "pl",
+        "@value": "UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/EC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейски общности"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropská společenství"
+      },
+      {
+        "@language": "da",
+        "@value": "De Europæiske Fællesskaber"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Gemeinschaften"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκές Κοινότητες"
+      },
+      {
+        "@language": "en",
+        "@value": "European Communities"
+      },
+      {
+        "@language": "es",
+        "@value": "Comunidades Europeas"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa ühendused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan yhteisöt"
+      },
+      {
+        "@language": "fr",
+        "@value": "Communautés européennes"
+      },
+      {
+        "@language": "ga",
+        "@value": "Na Comhphobail Eorpacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europske zajednice"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Közösségek"
+      },
+      {
+        "@language": "it",
+        "@value": "Comunità europee"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos Bendrijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Kopienas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Komunitajiet Ewropej"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Gemeenschappen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wspólnoty Europejskie"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comunidades Europeias"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comunitățile Europene"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európske spoločenstvá"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropske skupnosti"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska gemenskaperna"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain EC refers to the European Communities as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). This treaty opened a new stage in the European integration with political integration and three pillars consisting of the European Communities, common foreign and security policy and cooperation in the fields of justice and home affairs. This domain was used from 1 November 1993 until 1 December 2009 (date of entry into force of the Treaty of Lisbon) and replaced by EU."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ЕО"
+      },
+      {
+        "@language": "cs",
+        "@value": "ES"
+      },
+      {
+        "@language": "da",
+        "@value": "EF"
+      },
+      {
+        "@language": "de",
+        "@value": "EG"
+      },
+      {
+        "@language": "el",
+        "@value": "EK"
+      },
+      {
+        "@language": "en",
+        "@value": "EC"
+      },
+      {
+        "@language": "es",
+        "@value": "CE"
+      },
+      {
+        "@language": "et",
+        "@value": "EÜ"
+      },
+      {
+        "@language": "fi",
+        "@value": "EY"
+      },
+      {
+        "@language": "fr",
+        "@value": "CE"
+      },
+      {
+        "@language": "ga",
+        "@value": "CE"
+      },
+      {
+        "@language": "hr",
+        "@value": "EZ"
+      },
+      {
+        "@language": "hu",
+        "@value": "EK"
+      },
+      {
+        "@language": "it",
+        "@value": "CE"
+      },
+      {
+        "@language": "lt",
+        "@value": "EB"
+      },
+      {
+        "@language": "lv",
+        "@value": "EK"
+      },
+      {
+        "@language": "mt",
+        "@value": "KE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EG"
+      },
+      {
+        "@language": "pl",
+        "@value": "WE"
+      },
+      {
+        "@language": "pt",
+        "@value": "CE"
+      },
+      {
+        "@language": "ro",
+        "@value": "CE"
+      },
+      {
+        "@language": "sk",
+        "@value": "ES"
+      },
+      {
+        "@language": "sl",
+        "@value": "ES"
+      },
+      {
+        "@language": "sv",
+        "@value": "EG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/JHA",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JHA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2009-11-30"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JHA"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JHA"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JHA"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Правосъдие и вътрешни работи"
+      },
+      {
+        "@language": "cs",
+        "@value": "Spravedlnost a vnitřní záležitosti"
+      },
+      {
+        "@language": "da",
+        "@value": "Retlige og indre anliggender"
+      },
+      {
+        "@language": "de",
+        "@value": "Justiz und Inneres"
+      },
+      {
+        "@language": "el",
+        "@value": "Δικαιοσύνη και εσωτερικές υποθέσεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Justice and home affairs"
+      },
+      {
+        "@language": "es",
+        "@value": "Justicia y asuntos de interior"
+      },
+      {
+        "@language": "et",
+        "@value": "Justiits- ja siseküsimused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteistyö oikeus- ja sisäasioissa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Justice et affaires intérieures"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceartas agus Gnóthaí Baile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pravosuđe i unutarnji poslovi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Bel- és igazságügy"
+      },
+      {
+        "@language": "it",
+        "@value": "Giustizia e affari interni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Teisingumo ir vidaus reikalai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tieslietas un iekšlietas"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ġustizzja u affarijiet interni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Justitie en binnenlandse zaken"
+      },
+      {
+        "@language": "pl",
+        "@value": "Sprawiedliwość i sprawy wewnętrzne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Justiça e assuntos internos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Justiţie şi afaceri interne"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spravodlivosť a domáce veci"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pravosodje in notranje zadeve"
+      },
+      {
+        "@language": "sv",
+        "@value": "Rättsliga och inrikes frågor"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain JHA refers to Justice and home affairs as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). The Justice and Home Affairs Council develops cooperation and common policies on various cross-border issues, with the aim of building an EU-wide area of freedom, security and justice. This domain was used from 1 November 1993 until 1 December 2009 (date of entry into force of the Treaty of Lisbon)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ПВР"
+      },
+      {
+        "@language": "cs",
+        "@value": "SVV"
+      },
+      {
+        "@language": "da",
+        "@value": "RIA"
+      },
+      {
+        "@language": "de",
+        "@value": "JI"
+      },
+      {
+        "@language": "el",
+        "@value": "ΔΕΥ"
+      },
+      {
+        "@language": "en",
+        "@value": "JHA"
+      },
+      {
+        "@language": "es",
+        "@value": "JAI"
+      },
+      {
+        "@language": "et",
+        "@value": "JSK"
+      },
+      {
+        "@language": "fi",
+        "@value": "YOS"
+      },
+      {
+        "@language": "fr",
+        "@value": "JAI"
+      },
+      {
+        "@language": "ga",
+        "@value": "CGB"
+      },
+      {
+        "@language": "hr",
+        "@value": "PUP"
+      },
+      {
+        "@language": "hu",
+        "@value": "IB"
+      },
+      {
+        "@language": "it",
+        "@value": "GAI"
+      },
+      {
+        "@language": "lt",
+        "@value": "TVR"
+      },
+      {
+        "@language": "lv",
+        "@value": "TI"
+      },
+      {
+        "@language": "mt",
+        "@value": "ĠAI"
+      },
+      {
+        "@language": "nl",
+        "@value": "JBZ"
+      },
+      {
+        "@language": "pl",
+        "@value": "WSiSW"
+      },
+      {
+        "@language": "pt",
+        "@value": "JAI"
+      },
+      {
+        "@language": "ro",
+        "@value": "JAI"
+      },
+      {
+        "@language": "sk",
+        "@value": "SVV"
+      },
+      {
+        "@language": "sl",
+        "@value": "PNZ"
+      },
+      {
+        "@language": "sv",
+        "@value": "RIF"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/EEC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "1993-10-31"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EEC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EEC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EEC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Eвропейска икономическа общност"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropské hospodářské společenství"
+      },
+      {
+        "@language": "da",
+        "@value": "Det Europæiske Økonomiske Fællesskab"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Wirtschaftsgemeinschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκή Οικονομική Κοινότητα"
+      },
+      {
+        "@language": "en",
+        "@value": "European Economic Community"
+      },
+      {
+        "@language": "es",
+        "@value": "Comunidad Económica Europea"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Majandusühendus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan talousyhteisö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Communauté économique européenne"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhphobal Eacnamaíochta na hEorpa"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europska ekonomska zajednica"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Gazdasági Közösség"
+      },
+      {
+        "@language": "it",
+        "@value": "Comunità economica europea"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos ekonominė bendrija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Ekonomikas kopiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Komunità Ekonomika Ewropea"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Economische Gemeenschap"
+      },
+      {
+        "@language": "pl",
+        "@value": "Europejska Wspólnota Gospodarcza"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comunidade Económica Europeia"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comunitatea Economică Europeană"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európske hospodárske spoločenstvo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropska gospodarska skupnost"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska ekonomiska gemenskapen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain EEC refers to the European Economic Community as set out in the Treaty establishing the European Economic Community signed in 1957 (Treaty of Rome). The aim of EEC was to achieve integration via trade with a view to economic expansion. This domain was used until 1 November 1993 (date of entry into force of the Treaty of Maastricht) and replaced by EC."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ЕИО"
+      },
+      {
+        "@language": "cs",
+        "@value": "EHS"
+      },
+      {
+        "@language": "da",
+        "@value": "EØF"
+      },
+      {
+        "@language": "de",
+        "@value": "EWG"
+      },
+      {
+        "@language": "el",
+        "@value": "ΕΟΚ"
+      },
+      {
+        "@language": "en",
+        "@value": "EEC"
+      },
+      {
+        "@language": "es",
+        "@value": "CEE"
+      },
+      {
+        "@language": "et",
+        "@value": "EMÜ"
+      },
+      {
+        "@language": "fi",
+        "@value": "ETY"
+      },
+      {
+        "@language": "fr",
+        "@value": "CEE"
+      },
+      {
+        "@language": "ga",
+        "@value": "CEE"
+      },
+      {
+        "@language": "hr",
+        "@value": "EEZ"
+      },
+      {
+        "@language": "hu",
+        "@value": "EGK"
+      },
+      {
+        "@language": "it",
+        "@value": "CEE"
+      },
+      {
+        "@language": "lt",
+        "@value": "EEB"
+      },
+      {
+        "@language": "lv",
+        "@value": "EEK"
+      },
+      {
+        "@language": "mt",
+        "@value": "KEE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EEG"
+      },
+      {
+        "@language": "pl",
+        "@value": "EWG"
+      },
+      {
+        "@language": "pt",
+        "@value": "CEE"
+      },
+      {
+        "@language": "ro",
+        "@value": "CEE"
+      },
+      {
+        "@language": "sk",
+        "@value": "EHS"
+      },
+      {
+        "@language": "sl",
+        "@value": "EGS"
+      },
+      {
+        "@language": "sv",
+        "@value": "EEG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/ECSC",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ECSC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "1993-10-31"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ECSC"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ECSC"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ECSC"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейска общност за въглища и стомана"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropské společenství uhlí a oceli"
+      },
+      {
+        "@language": "da",
+        "@value": "Det Europæiske Kul- og Stålfællesskab"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Gemeinschaft für Kohle und Stahl"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα"
+      },
+      {
+        "@language": "en",
+        "@value": "European Coal and Steel Community"
+      },
+      {
+        "@language": "es",
+        "@value": "Comunidad Europea del Carbón y del Acero"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Söe- ja Teraseühendus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan hiili- ja teräsyhteisö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Communauté européenne du charbon et de l’acier"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Comhphobal Eorpach do Ghual agus Cruach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europska zajednica za ugljen i čelik"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Szén- és Acélközösség"
+      },
+      {
+        "@language": "it",
+        "@value": "Comunità europea del carbone e dell’acciaio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos anglių ir plieno bendrija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Ogļu un tērauda kopiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Komunità Ewropea tal-Faħam u l-Azzar"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Gemeenschap voor Kolen en Staal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Europejska Wspólnota Węgla i Stali"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comunidade Europeia do Carvão e do Aço"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comunitatea Europeană a Cărbunelui şi Oţelului"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európske spoločenstvo uhlia a ocele"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropska skupnost za premog in jeklo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska kol- och stålgemenskapen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain ECSC refers to the European Coal and Steel Community as set out in the Treaty establishing the European Coal and Steel Community signed in 1957. The aim of this treaty was to organise free movement of coal and steel and free access to sources of production. This domain was used until 1 November 1993 (date of entry into force of the Treaty of Maastricht)."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ЕОВС"
+      },
+      {
+        "@language": "cs",
+        "@value": "ESUO"
+      },
+      {
+        "@language": "da",
+        "@value": "EKSF"
+      },
+      {
+        "@language": "de",
+        "@value": "EGKS"
+      },
+      {
+        "@language": "el",
+        "@value": "ΕΚΑΧ"
+      },
+      {
+        "@language": "en",
+        "@value": "ECSC"
+      },
+      {
+        "@language": "es",
+        "@value": "CECA"
+      },
+      {
+        "@language": "et",
+        "@value": "ESTÜ"
+      },
+      {
+        "@language": "fi",
+        "@value": "EHTY"
+      },
+      {
+        "@language": "fr",
+        "@value": "CECA"
+      },
+      {
+        "@language": "ga",
+        "@value": "CEGC"
+      },
+      {
+        "@language": "hr",
+        "@value": "EZUČ"
+      },
+      {
+        "@language": "hu",
+        "@value": "ESZAK"
+      },
+      {
+        "@language": "it",
+        "@value": "CECA"
+      },
+      {
+        "@language": "lt",
+        "@value": "EAPB"
+      },
+      {
+        "@language": "lv",
+        "@value": "EOTK"
+      },
+      {
+        "@language": "mt",
+        "@value": "KEFA"
+      },
+      {
+        "@language": "nl",
+        "@value": "EGKS"
+      },
+      {
+        "@language": "pl",
+        "@value": "EWWiS"
+      },
+      {
+        "@language": "pt",
+        "@value": "CECA"
+      },
+      {
+        "@language": "ro",
+        "@value": "CECO"
+      },
+      {
+        "@language": "sk",
+        "@value": "ESUO"
+      },
+      {
+        "@language": "sl",
+        "@value": "ESPJ"
+      },
+      {
+        "@language": "sv",
+        "@value": "EKSG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/EURATOM",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "EURATOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "EURATOM"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "EURATOM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "EURATOM"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейска общност за атомна енергия"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropské společenství pro atomovou energii"
+      },
+      {
+        "@language": "da",
+        "@value": "Det Europæiske Atomenergifællesskab"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Atomgemeinschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκή Κοινότητα Ατομικής Ενέργειας"
+      },
+      {
+        "@language": "en",
+        "@value": "European Atomic Energy Community"
+      },
+      {
+        "@language": "es",
+        "@value": "Comunidad Europea de la Energía Atómica"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Aatomienergiaühendus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euroopan atomienergiayhteisö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Communauté européenne de l’énergie atomique"
+      },
+      {
+        "@language": "ga",
+        "@value": "An Comhphobal Eorpach do Fhuinneamh Adamhach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europska zajednica za atomsku energiju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai Atomenergia-közösség"
+      },
+      {
+        "@language": "it",
+        "@value": "Comunità europea dell’energia atomica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Europos atominės energijos bendrija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Eiropas Atomenerģijas kopiena"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Komunità Ewropea tal-Enerġija Atomika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese Gemeenschap voor Atoomenergie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Europejska Wspólnota Energii Atomowej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comunidade Europeia da Energia Atómica"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comunitatea Europeană a Energiei Atomice"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európske spoločenstvo pre atómovú energiu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropska skupnost za atomsko energijo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Europeiska atomenergigemenskapen"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain EURATOM refers to the European Atomic Energy Community as set out in the Treaty establishing the European Atomic Energy Community signed in 1957. This treaty was created to coordinate the Member States’ research programmes for the peaceful use of nuclear energy. This domain is still current."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Евратом"
+      },
+      {
+        "@language": "cs",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "da",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "de",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρατόμ"
+      },
+      {
+        "@language": "en",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "es",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "et",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "fi",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "fr",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "ga",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "hr",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "hu",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "it",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "lt",
+        "@value": "Euratomas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "mt",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "nl",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "pl",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "pt",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "ro",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "sk",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "sl",
+        "@value": "Euratom"
+      },
+      {
+        "@language": "sv",
+        "@value": "Euratom"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain/CFSP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CFSP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CFSP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1993-11-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CFSP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CFSP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Oбща външна политика и политика на сигурност"
+      },
+      {
+        "@language": "cs",
+        "@value": "Společná zahraniční a bezpečnostní politika"
+      },
+      {
+        "@language": "da",
+        "@value": "Den fælles udenrigs- og sikkerhedspolitik"
+      },
+      {
+        "@language": "de",
+        "@value": "Gemeinsame Außen- und Sicherheitspolitik"
+      },
+      {
+        "@language": "el",
+        "@value": "Κοινή εξωτερική πολιτική και πολιτική ασφαλείας"
+      },
+      {
+        "@language": "en",
+        "@value": "Common foreign and security policy"
+      },
+      {
+        "@language": "es",
+        "@value": "Política Exterior y de Seguridad Común"
+      },
+      {
+        "@language": "et",
+        "@value": "Ühine välis- ja julgeolekupoliitika"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhteinen ulko- ja turvallisuuspolitiikka"
+      },
+      {
+        "@language": "fr",
+        "@value": "Politique étrangère et de sécurité commune"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhbheartas eachtrach agus slándála"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zajednička vanjska i sigurnosna politika"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közös kül- és biztonságpolitika"
+      },
+      {
+        "@language": "it",
+        "@value": "Politica estera e di sicurezza comune"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendra užsienio ir saugumo politika"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kopējā ārpolitika un drošības politika"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-politika estera u ta’ sigurtà komuni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gemeenschappelijk buitenlands en veiligheidsbeleid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wspólna polityka zagraniczna i bezpieczeństwa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Política externa e de segurança comum"
+      },
+      {
+        "@language": "ro",
+        "@value": "Politica externă și de securitate comună"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spoločná zahraničná a bezpečnostná politika"
+      },
+      {
+        "@language": "sl",
+        "@value": "Skupna zunanja in varnostna politika"
+      },
+      {
+        "@language": "sv",
+        "@value": "Gemensamma utrikes- och säkerhetspolitiken"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@language": "en",
+        "@value": "As one of the three parts in a string identifying a legal act, the domain CFSF refers to Common foreign and security policy as set out in the Treaty on European Union signed in 1992 (Treaty of Maastricht). CFSP entails EU operational action required by the international situation by the EU using national and EU resources in order to attain specific objectives set by the Council. This domain was introduced on 1 November 1993 and is still current."
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "ОВППС"
+      },
+      {
+        "@language": "cs",
+        "@value": "SZBP"
+      },
+      {
+        "@language": "da",
+        "@value": "FUSP"
+      },
+      {
+        "@language": "de",
+        "@value": "GASP"
+      },
+      {
+        "@language": "el",
+        "@value": "ΚΕΠΠΑ"
+      },
+      {
+        "@language": "en",
+        "@value": "CFSP"
+      },
+      {
+        "@language": "es",
+        "@value": "PESC"
+      },
+      {
+        "@language": "et",
+        "@value": "ÜVJP"
+      },
+      {
+        "@language": "fi",
+        "@value": "YUTP"
+      },
+      {
+        "@language": "fr",
+        "@value": "PESC"
+      },
+      {
+        "@language": "ga",
+        "@value": "CBES"
+      },
+      {
+        "@language": "hr",
+        "@value": "ZVSP"
+      },
+      {
+        "@language": "hu",
+        "@value": "KKBP"
+      },
+      {
+        "@language": "it",
+        "@value": "PESC"
+      },
+      {
+        "@language": "lt",
+        "@value": "BUSP"
+      },
+      {
+        "@language": "lv",
+        "@value": "KĀDP"
+      },
+      {
+        "@language": "mt",
+        "@value": "PESK"
+      },
+      {
+        "@language": "nl",
+        "@value": "GBVB"
+      },
+      {
+        "@language": "pl",
+        "@value": "WPZiB"
+      },
+      {
+        "@language": "pt",
+        "@value": "PESC"
+      },
+      {
+        "@language": "ro",
+        "@value": "PESC"
+      },
+      {
+        "@language": "sk",
+        "@value": "SZBP"
+      },
+      {
+        "@language": "sl",
+        "@value": "SZVP"
+      },
+      {
+        "@language": "sv",
+        "@value": "Gusp"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#topConceptOf": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/legal-act-domain"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/legal-act-domain",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Legal act domain"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "legal-act-domain"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Legal act domain"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Legal act domain"
+      }
+    ]
+  }
+]

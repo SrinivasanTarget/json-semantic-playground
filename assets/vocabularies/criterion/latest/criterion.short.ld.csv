@@ -1,0 +1,70 @@
+# Serializing assets/vocabularies/criterion/latest/criterion.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/criterion
+# title: Criterion
+# version: 20210616-0
+# description: Criterion
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/criterion/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+autorisation,http://publications.europa.eu/resource/authority/criterion/autorisation,autorisation,For service contracts: authorisation of particular organisation needed,,false,2021-06-16
+aver-year-to,http://publications.europa.eu/resource/authority/criterion/aver-year-to,aver-year-to,Average yearly turnover,,false,2021-06-16
+bankr-nat,http://publications.europa.eu/resource/authority/criterion/bankr-nat,bankr-nat,Analogous situation like bankruptcy under national law,,false,2021-06-16
+bankruptcy,http://publications.europa.eu/resource/authority/criterion/bankruptcy,bankruptcy,Bankruptcy,,false,2021-06-16
+chain-manage,http://publications.europa.eu/resource/authority/criterion/chain-manage,chain-manage,Supply chain management,,false,2021-06-16
+corruption,http://publications.europa.eu/resource/authority/criterion/corruption,corruption,Corruption,,false,2021-06-16
+cred-arran,http://publications.europa.eu/resource/authority/criterion/cred-arran,cred-arran,Arrangement with creditors,,false,2021-06-16
+crime-org,http://publications.europa.eu/resource/authority/criterion/crime-org,crime-org,Participation in a criminal organisation,,false,2021-06-16
+distorsion,http://publications.europa.eu/resource/authority/criterion/distorsion,distorsion,Agreements with other economic operators aimed at distorting competition,,false,2021-06-16
+envir-certif-indep,http://publications.europa.eu/resource/authority/criterion/envir-certif-indep,envir-certif-indep,Certificates by independent bodies about environmental management systems or standards,,false,2021-06-16
+envir-law,http://publications.europa.eu/resource/authority/criterion/envir-law,envir-law,Breaching of obligations in the fields of environmental law,,false,2021-06-16
+envir-measure,http://publications.europa.eu/resource/authority/criterion/envir-measure,envir-measure,Environmental management measures,,false,2021-06-16
+eo-group,http://publications.europa.eu/resource/authority/criterion/eo-group,eo-group,Economic operator together with others,,false,2021-06-16
+finan-laund,http://publications.europa.eu/resource/authority/criterion/finan-laund,finan-laund,Money laundering or terrorist financing,,false,2021-06-16
+finan-rat,http://publications.europa.eu/resource/authority/criterion/finan-rat,finan-rat,Financial ratio,,false,2021-06-16
+finan-requ,http://publications.europa.eu/resource/authority/criterion/finan-requ,finan-requ,Other economic or financial requirements,,false,2021-06-16
+fraud,http://publications.europa.eu/resource/authority/criterion/fraud,fraud,Fraud,,false,2021-06-16
+gen-year-to,http://publications.europa.eu/resource/authority/criterion/gen-year-to,gen-year-to,General yearly turnover,,false,2021-06-16
+human-traffic,http://publications.europa.eu/resource/authority/criterion/human-traffic,human-traffic,Child labour and other forms of trafficking in human beings,,false,2021-06-16
+indem-insu,http://publications.europa.eu/resource/authority/criterion/indem-insu,indem-insu,Professional risk indemnity insurance,,false,2021-06-16
+insolvency,http://publications.europa.eu/resource/authority/criterion/insolvency,insolvency,Insolvency,,false,2021-06-16
+labour-law,http://publications.europa.eu/resource/authority/criterion/labour-law,labour-law,Breaching of obligations in the fields of labour law,,false,2021-06-16
+liq-admin,http://publications.europa.eu/resource/authority/criterion/liq-admin,liq-admin,Assets being administered by liquidator,,false,2021-06-16
+manage-staff,http://publications.europa.eu/resource/authority/criterion/manage-staff,manage-staff,Number of managerial staff,,false,2021-06-16
+membership,http://publications.europa.eu/resource/authority/criterion/membership,membership,For service contracts: membership of particular organisation needed,,false,2021-06-16
+misinterpr,http://publications.europa.eu/resource/authority/criterion/misinterpr,misinterpr,"Guilty of misinterpretation, withheld information, unable to provide required documents and obtained confidential information of this procedure",,false,2021-06-16
+nati-ground,http://publications.europa.eu/resource/authority/criterion/nati-ground,nati-ground,Purely national exclusion grounds,,false,2021-06-16
+partic-confl,http://publications.europa.eu/resource/authority/criterion/partic-confl,partic-confl,Conflict of interest due to its participation in the procurement procedure,,false,2021-06-16
+prep-confl,http://publications.europa.eu/resource/authority/criterion/prep-confl,prep-confl,Direct or indirect involvement in the preparation of this procurement procedure,,false,2021-06-16
+prof-misconduct,http://publications.europa.eu/resource/authority/criterion/prof-misconduct,prof-misconduct,Guilty of grave professional misconduct,,false,2021-06-16
+prof-regist,http://publications.europa.eu/resource/authority/criterion/prof-regist,prof-regist,Enrolment in a relevant professional register,,false,2021-06-16
+qa-certif-inst,http://publications.europa.eu/resource/authority/criterion/qa-certif-inst,qa-certif-inst,For supply contracts: certificates by quality control institutes,,false,2021-06-16
+qu-certif-indep,http://publications.europa.eu/resource/authority/criterion/qu-certif-indep,qu-certif-indep,Certificates by independent bodies about quality assurance standards,,false,2021-06-16
+qual-cont-tech,http://publications.europa.eu/resource/authority/criterion/qual-cont-tech,qual-cont-tech,Technicians or technical bodies for quality control,,false,2021-06-16
+qual-facil,http://publications.europa.eu/resource/authority/criterion/qual-facil,qual-facil,Technical facilities and measures for ensuring quality,,false,2021-06-16
+qualification,http://publications.europa.eu/resource/authority/criterion/qualification,qualification,Educational and professional qualifications,,false,2021-06-16
+registered,http://publications.europa.eu/resource/authority/criterion/registered,registered,Economic operator registered in a pre qualification system,,false,2021-06-16
+relied,http://publications.europa.eu/resource/authority/criterion/relied,relied,Relied on entities,,false,2021-06-16
+research-fac,http://publications.europa.eu/resource/authority/criterion/research-fac,research-fac,Study and research facilities,,false,2021-06-16
+sanction,http://publications.europa.eu/resource/authority/criterion/sanction,sanction,"Early termination, damages or other comparable sanctions",,false,2021-06-16
+service-perform,http://publications.europa.eu/resource/authority/criterion/service-perform,service-perform,For service contracts: performance of services of the specified type,,false,2021-06-16
+shelt-worksh,http://publications.europa.eu/resource/authority/criterion/shelt-worksh,shelt-worksh,Economic operator is a sheltered workshop,,false,2021-06-16
+sme,http://publications.europa.eu/resource/authority/criterion/sme,sme,"Economic operator micro, small or medium-sized enterprise",,false,2021-06-16
+socsec-law,http://publications.europa.eu/resource/authority/criterion/socsec-law,socsec-law,Breaching of obligations in the fields of social law,,false,2021-06-16
+socsec-pay,http://publications.europa.eu/resource/authority/criterion/socsec-pay,socsec-pay,Payment of social security contributions,,false,2021-06-16
+spec-aver-to,http://publications.europa.eu/resource/authority/criterion/spec-aver-to,spec-aver-to,Specific average turnover,,false,2021-06-16
+spec-req-check,http://publications.europa.eu/resource/authority/criterion/spec-req-check,spec-req-check,Special requierements check,,false,2021-06-16
+spec-year-to,http://publications.europa.eu/resource/authority/criterion/spec-year-to,spec-year-to,Specific yearly turnover,,false,2021-06-16
+staff-red,http://publications.europa.eu/resource/authority/criterion/staff-red,staff-red,Reduction of the number of qualified candidates,,false,2021-06-16
+subco-ent,http://publications.europa.eu/resource/authority/criterion/subco-ent,subco-ent,Subcontracted entities,,false,2021-06-16
+suncont-port,http://publications.europa.eu/resource/authority/criterion/suncont-port,suncont-port,Subcontracting proportion,,false,2021-06-16
+supply-perform,http://publications.europa.eu/resource/authority/criterion/supply-perform,supply-perform,For supply contracts: performance of deliveries of the specified type,,false,2021-06-16
+susp-act,http://publications.europa.eu/resource/authority/criterion/susp-act,susp-act,Business activities are suspended,,false,2021-06-16
+tax-pay,http://publications.europa.eu/resource/authority/criterion/tax-pay,tax-pay,Payment of taxes,,false,2021-06-16
+tech-equip,http://publications.europa.eu/resource/authority/criterion/tech-equip,tech-equip,"Tools, plant or technical equipment",,false,2021-06-16
+terr-offence,http://publications.europa.eu/resource/authority/criterion/terr-offence,terr-offence,Terrorist offences or offences linked to terrorist activities,,false,2021-06-16
+trade-regist,http://publications.europa.eu/resource/authority/criterion/trade-regist,trade-regist,Enrolment in a trade register,,false,2021-06-16
+w-autent,http://publications.europa.eu/resource/authority/criterion/w-autent,w-autent,"For supply contracts: samples, descriptions or photographs with certification of authenticity",,false,2021-06-16
+wo-autent,http://publications.europa.eu/resource/authority/criterion/wo-autent,wo-autent,"For supply contracts: samples, descriptions or photographs without certification of authenticity",,false,2021-06-16
+work-perform,http://publications.europa.eu/resource/authority/criterion/work-perform,work-perform,For works contracts: performance of works of the specified type,,false,2021-06-16
+work-tech,http://publications.europa.eu/resource/authority/criterion/work-tech,work-tech,For works contracts: technicians or technical bodies to carry out the work,,false,2021-06-16
+year-manpower,http://publications.europa.eu/resource/authority/criterion/year-manpower,year-manpower,Average annual manpower,,false,2021-06-16

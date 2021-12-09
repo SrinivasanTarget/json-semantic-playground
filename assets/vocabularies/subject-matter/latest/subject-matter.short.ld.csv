@@ -1,0 +1,329 @@
+# Serializing assets/vocabularies/subject-matter/latest/subject-matter.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/subject-matter
+# title: Subject matter
+# version: 20210116-0
+# description: Subject matter
+key,url,deprecated,valid_from,country_code,label_en,label_it
+ACCD,http://publications.europa.eu/resource/authority/subject-matter/ACCD,false,1952-07-24,ACCD,Access to documents,Accesso ai documenti
+ACCE,http://publications.europa.eu/resource/authority/subject-matter/ACCE,false,1952-07-24,ACCE,Accession to agreement,"Adesione, accordo"
+ACCI,http://publications.europa.eu/resource/authority/subject-matter/ACCI,false,1952-07-24,ACCI,Excise duties,Diritti di accisa
+ACIE,http://publications.europa.eu/resource/authority/subject-matter/ACIE,false,1952-07-24,ACIE,Steel,Acciaio
+ACIN,http://publications.europa.eu/resource/authority/subject-matter/ACIN,false,1952-07-24,ACIN,International agreements,Accordi internazionali
+ACP,http://publications.europa.eu/resource/authority/subject-matter/ACP,false,1952-07-24,ACP,"African, Caribbean and Pacific States (ACP)","Stati africani, dei Caraibi e del Pacifico (ACP)"
+ACSP,http://publications.europa.eu/resource/authority/subject-matter/ACSP,false,1952-07-24,ACSP,Special steels,Acciai speciali
+ACTE,http://publications.europa.eu/resource/authority/subject-matter/ACTE,false,1952-07-24,ACTE,Acts of the institutions,Atti delle istituzioni
+ADAP,http://publications.europa.eu/resource/authority/subject-matter/ADAP,false,1952-07-24,ADAP,Adjustment,Adattamento
+ADH,http://publications.europa.eu/resource/authority/subject-matter/ADH,false,1952-07-24,ADH,Accession,Adesione
+ADMI,http://publications.europa.eu/resource/authority/subject-matter/ADMI,false,1952-07-24,ADMI,Common customs tariff: temporary importation,Tariffa doganale comune: ammissione temporanea
+AELE,http://publications.europa.eu/resource/authority/subject-matter/AELE,false,1952-07-24,AELE,European Free Trade Association (EFTA),Associazione europea di libero scambio (EFTA)
+AGRI,http://publications.europa.eu/resource/authority/subject-matter/AGRI,false,1952-07-24,AGRI,Agriculture and Fisheries,Agricoltura e Pesca
+AIDE,http://publications.europa.eu/resource/authority/subject-matter/AIDE,false,1952-07-24,AIDE,State aids,Aiuti degli Stati
+AL-A,http://publications.europa.eu/resource/authority/subject-matter/AL-A,false,1952-07-24,AL-A,Animal feedingstuffs,Alimenti per animali
+ALCO,http://publications.europa.eu/resource/authority/subject-matter/ALCO,false,1952-07-24,ALCO,Alcohol,Alcole
+ALIM,http://publications.europa.eu/resource/authority/subject-matter/ALIM,false,1952-07-24,ALIM,Food aid,Aiuti alimentari
+ANCO,http://publications.europa.eu/resource/authority/subject-matter/ANCO,false,1952-07-24,ANCO,Non-trade agreement,Accordi non commerciali
+APPR,http://publications.europa.eu/resource/authority/subject-matter/APPR,false,1952-07-24,APPR,Supply agency,Agenzia di approvvigionamento
+ASIL,http://publications.europa.eu/resource/authority/subject-matter/ASIL,false,1952-07-24,ASIL,Asylum policy,Politica in materia di asilo
+ASSI,http://publications.europa.eu/resource/authority/subject-matter/ASSI,false,1952-07-24,ASSI,Assistance,Assistenza
+ASSO,http://publications.europa.eu/resource/authority/subject-matter/ASSO,false,1952-07-24,ASSO,Association Agreement,Accordo di associazione
+AUTH,http://publications.europa.eu/resource/authority/subject-matter/AUTH,false,1952-07-24,AUTH,Authentication,Autenticazione
+BANA,http://publications.europa.eu/resource/authority/subject-matter/BANA,false,1952-07-24,BANA,Bananas,Banane
+BCE,http://publications.europa.eu/resource/authority/subject-matter/BCE,false,1952-07-24,BCE,European Central Bank (ECB),Banca centrale europea (BCE)
+BEI,http://publications.europa.eu/resource/authority/subject-matter/BEI,false,1952-07-24,BEI,European Investment Bank (EIB),Banca europea per gli investimenti (BEI)
+BOV,http://publications.europa.eu/resource/authority/subject-matter/BOV,false,1952-07-24,BOV,Beef and veal,Carni bovine
+BPAI,http://publications.europa.eu/resource/authority/subject-matter/BPAI,false,1952-07-24,BPAI,Balance of payments,Bilancia dei pagamenti
+BREV,http://publications.europa.eu/resource/authority/subject-matter/BREV,false,1952-07-24,BREV,Patents,Brevetti
+BT,http://publications.europa.eu/resource/authority/subject-matter/BT,false,1952-07-24,BT,Tropical timber,Legno tropicale
+BUDG,http://publications.europa.eu/resource/authority/subject-matter/BUDG,false,1952-07-24,BUDG,Budget,Bilancio
+CAC,http://publications.europa.eu/resource/authority/subject-matter/CAC,false,1952-07-24,CAC,Cocoa,Cacao
+CAFE,http://publications.europa.eu/resource/authority/subject-matter/CAFE,false,1952-07-24,CAFE,Coffee,Caffè
+CAO,http://publications.europa.eu/resource/authority/subject-matter/CAO,false,1952-07-24,CAO,Rubber,Gomma naturale
+CDEV,http://publications.europa.eu/resource/authority/subject-matter/CDEV,false,1952-07-24,CDEV,Development cooperation,Cooperazione allo sviluppo
+CECA,http://publications.europa.eu/resource/authority/subject-matter/CECA,false,1952-07-24,CECA,ECSC matters,Materie CECA
+CECC,http://publications.europa.eu/resource/authority/subject-matter/CECC,false,1952-07-24,CECC,Brussels Convention of 27 September 1968,Convenzione di Bruxelles del 27 settembre 1968
+CEDH,http://publications.europa.eu/resource/authority/subject-matter/CEDH,false,1952-07-24,CEDH,European Convention on Human Rights,Convenzione europea dei diritti dell'uomo
+CEEA,http://publications.europa.eu/resource/authority/subject-matter/CEEA,false,1952-07-24,CEEA,Euratom matters,Materie Euratom
+CERE,http://publications.europa.eu/resource/authority/subject-matter/CERE,false,1952-07-24,CERE,Cereals,Cereali
+CHAR,http://publications.europa.eu/resource/authority/subject-matter/CHAR,false,1952-07-24,CHAR,Coal,Carbone
+CHDF,http://publications.europa.eu/resource/authority/subject-matter/CHDF,false,1952-07-24,CHDF,Charter of Fundamental Rights,Carta dei diritti fondamentali
+CIT,http://publications.europa.eu/resource/authority/subject-matter/CIT,false,1952-07-24,CIT,Citizenship of the Union,Cittadinanza dell'Unione
+CLUG,http://publications.europa.eu/resource/authority/subject-matter/CLUG,false,1952-07-24,CLUG,Lugano Convention,Convenzione di Lugano
+COAD,http://publications.europa.eu/resource/authority/subject-matter/COAD,false,1952-07-24,COAD,Administrative cooperation,Cooperazione amministrativa
+COES,http://publications.europa.eu/resource/authority/subject-matter/COES,false,1952-07-24,COES,"Economic, social and territorial cohesion","Coesione economica, sociale e territoriale"
+COHE,http://publications.europa.eu/resource/authority/subject-matter/COHE,false,1952-07-24,COHE,Cohesion Fund,Fondo di coesione
+COJC,http://publications.europa.eu/resource/authority/subject-matter/COJC,false,1952-07-24,COJC,Judicial cooperation in civil matters,Cooperazione giudiziaria in materia civile
+COJP,http://publications.europa.eu/resource/authority/subject-matter/COJP,false,1952-07-24,COJP,Judicial cooperation in criminal matters,Cooperazione giudiziaria in materia penale
+COKE,http://publications.europa.eu/resource/authority/subject-matter/COKE,false,1952-07-24,COKE,Coke,Coke
+COMB,http://publications.europa.eu/resource/authority/subject-matter/COMB,false,1952-07-24,COMB,Fuels,Combustibili
+COMP,http://publications.europa.eu/resource/authority/subject-matter/COMP,false,1952-07-24,COMP,Accession compensatory amounts,Importi compensativi adesione
+COMT,http://publications.europa.eu/resource/authority/subject-matter/COMT,false,1952-07-24,COMT,Brussels Convention of 27 September 1968 - Jurisdiction,Convenzione di Bruxelles del 27 settembre 1968 - Competenza
+CONC,http://publications.europa.eu/resource/authority/subject-matter/CONC,false,1952-07-24,CONC,Competition,Concorrenza
+CONJ,http://publications.europa.eu/resource/authority/subject-matter/CONJ,false,1952-07-24,CONJ,Conjunctural policy,Politica di congiuntura
+CONT,http://publications.europa.eu/resource/authority/subject-matter/CONT,false,1952-07-24,CONT,Quotas - third countries,Contingenti (paesi terzi)
+COOP,http://publications.europa.eu/resource/authority/subject-matter/COOP,false,1952-07-24,COOP,Cooperation,Cooperazione
+COOR,http://publications.europa.eu/resource/authority/subject-matter/COOR,false,1952-07-24,COOR,Coordination of structural instruments,Coordinamento degli strumenti strutturali
+COPE,http://publications.europa.eu/resource/authority/subject-matter/COPE,false,1952-07-24,COPE,European political cooperation,Cooperazione politica europea
+COPO,http://publications.europa.eu/resource/authority/subject-matter/COPO,false,1952-07-24,COPO,Police cooperation,Cooperazione di polizia
+COPT,http://publications.europa.eu/resource/authority/subject-matter/COPT,false,1952-07-24,COPT,"Economic, financial and technical cooperation with third countries","Cooperazione economica, finanziaria e tecnica con i paesi terzi"
+CORE,http://publications.europa.eu/resource/authority/subject-matter/CORE,false,1952-07-24,CORE,Closer cooperation,Cooperazione rafforzata
+COTO,http://publications.europa.eu/resource/authority/subject-matter/COTO,false,1952-07-24,COTO,Cotton,Cotone
+CRBM,http://publications.europa.eu/resource/authority/subject-matter/CRBM,false,1952-07-24,CRBM,Conservation of marine biological resources,Conservazione delle risorse biologiche del mare
+CROM,http://publications.europa.eu/resource/authority/subject-matter/CROM,false,1952-07-24,CROM,Rome Convention of 19 June 1980,Convenzione di Roma del 18 giugno 1980
+CTEM,http://publications.europa.eu/resource/authority/subject-matter/CTEM,false,1952-07-24,CTEM,Quotas between Member States,Contingenti tra Stati membri
+CULT,http://publications.europa.eu/resource/authority/subject-matter/CULT,false,1952-07-24,CULT,Culture,Cultura
+D-AL,http://publications.europa.eu/resource/authority/subject-matter/D-AL,false,1952-07-24,D-AL,Foodstuffs,Alimentari
+DADV,http://publications.europa.eu/resource/authority/subject-matter/DADV,false,1952-07-24,DADV,Copyright and related rights,Diritto d'autore e diritti vicini
+DDES,http://publications.europa.eu/resource/authority/subject-matter/DDES,false,1952-07-24,DDES,Right of entry and residence,Diritto d'ingresso e di soggiorno
+DDLH,http://publications.europa.eu/resource/authority/subject-matter/DDLH,false,1952-07-24,DDLH,Human rights,Diritti dell'uomo
+DECH,http://publications.europa.eu/resource/authority/subject-matter/DECH,false,1952-07-24,DECH,Waste,Rifiuti
+DEMO,http://publications.europa.eu/resource/authority/subject-matter/DEMO,false,1952-07-24,DEMO,Designs,Disegni e modelli
+DFON,http://publications.europa.eu/resource/authority/subject-matter/DFON,false,1952-07-24,DFON,Fundamental rights,Diritti fondamentali
+DGEN,http://publications.europa.eu/resource/authority/subject-matter/DGEN,false,1952-07-24,DGEN,General provisions,Disposizioni generali
+DIFF,http://publications.europa.eu/resource/authority/subject-matter/DIFF,false,1952-07-24,DIFF,Dissemination of information,Diffusione delle conoscenze
+DIPL,http://publications.europa.eu/resource/authority/subject-matter/DIPL,false,1952-07-24,DIPL,External action by the Union,Azione esterna dell'Unione
+DISC,http://publications.europa.eu/resource/authority/subject-matter/DISC,false,1952-07-24,DISC,Anti-discrimination,Non discriminazione
+DOM,http://publications.europa.eu/resource/authority/subject-matter/DOM,false,1952-07-24,DOM,French overseas departments,Dipartimenti francesi d'oltremare
+DOUA,http://publications.europa.eu/resource/authority/subject-matter/DOUA,false,1952-07-24,DOUA,Customs Cooperation,Cooperazione doganale
+DROIT,http://publications.europa.eu/resource/authority/subject-matter/DROIT,false,1952-07-24,DROIT,General principles of Community law,Principi generali di diritto comunitario
+DUMP,http://publications.europa.eu/resource/authority/subject-matter/DUMP,false,1952-07-24,DUMP,Dumping,Dumping
+EAMA,http://publications.europa.eu/resource/authority/subject-matter/EAMA,false,1952-07-24,EAMA,Associated African States and Madagascar,Stati africani e malgasci associati
+ECU,http://publications.europa.eu/resource/authority/subject-matter/ECU,false,1952-07-24,ECU,Conversion rates for the ECU,Corso dei cambi dell'ECU
+EFPJ,http://publications.europa.eu/resource/authority/subject-matter/EFPJ,false,1952-07-24,EFPJ,"Education, vocational training and youth","Istruzione, formazione professionale e gioventù"
+ELSJ,http://publications.europa.eu/resource/authority/subject-matter/ELSJ,false,1952-07-24,ELSJ,"Area of freedom, security and justice","Spazio di libertà, sicurezza e giustizia"
+EMPL,http://publications.europa.eu/resource/authority/subject-matter/EMPL,false,1952-07-24,EMPL,Employment,Occupazione
+EMPR,http://publications.europa.eu/resource/authority/subject-matter/EMPR,false,1952-07-24,EMPR,Loans contracted by the ECSC,Prestiti
+ENCO,http://publications.europa.eu/resource/authority/subject-matter/ENCO,false,1952-07-24,ENCO,Agreements and concentrations,Intese e concentrazioni
+ENER,http://publications.europa.eu/resource/authority/subject-matter/ENER,false,1952-07-24,ENER,Energy,Energia
+ENTC,http://publications.europa.eu/resource/authority/subject-matter/ENTC,false,1952-07-24,ENTC,Joint undertakings,Imprese comuni
+ENTR,http://publications.europa.eu/resource/authority/subject-matter/ENTR,false,1952-07-24,ENTR,"Agreements, decisions and concerted practices",Intese
+ENV,http://publications.europa.eu/resource/authority/subject-matter/ENV,false,1952-07-24,ENV,Environment,Ambiente
+ESPA,http://publications.europa.eu/resource/authority/subject-matter/ESPA,false,1952-07-24,ESPA,Space,Spazio
+ETAB,http://publications.europa.eu/resource/authority/subject-matter/ETAB,false,1952-07-24,ETAB,Right of establishment,Diritto di stabilimento
+ETEC,http://publications.europa.eu/resource/authority/subject-matter/ETEC,false,1952-07-24,ETEC,Technical barriers,Ostacoli tecnici
+EURO,http://publications.europa.eu/resource/authority/subject-matter/EURO,false,1952-07-24,EURO,Euro,Euro
+EXCL,http://publications.europa.eu/resource/authority/subject-matter/EXCL,false,1952-07-24,EXCL,Exclusive agreements,Contratti di esclusiva
+EXEC,http://publications.europa.eu/resource/authority/subject-matter/EXEC,false,1952-07-24,EXEC,Brussels Convention of 27 September 1968 - Enforcement,Convenzione di Bruxelles del 27 settembre 1968 - Esecuzione
+EXT,http://publications.europa.eu/resource/authority/subject-matter/EXT,false,1994-01-01,EXT,External relations,Relazioni esterne
+F-L,http://publications.europa.eu/resource/authority/subject-matter/F-L,false,1952-07-24,F-L,Fruit and vegetables,Ortofrutticoli
+FD,http://publications.europa.eu/resource/authority/subject-matter/FD,false,1952-07-24,FD,Hard fibres,Fibre dure
+FDES,http://publications.europa.eu/resource/authority/subject-matter/FDES,false,1952-07-24,FDES,Dry fodder,Foraggi essiccati
+FEADER,http://publications.europa.eu/resource/authority/subject-matter/FEADER,false,1952-07-24,FEADER,Agricultural structural funds,Fondi strutturali per l'agricoltura
+FEAGA,http://publications.europa.eu/resource/authority/subject-matter/FEAGA,false,1952-07-24,FEAGA,European Agricultural Guarantee Fund,Fondo europeo agricolo di garanzia
+FED,http://publications.europa.eu/resource/authority/subject-matter/FED,false,1952-07-24,FED,European Development Fund (EDF),Fondo europeo di sviluppo (FES)
+FEDE,http://publications.europa.eu/resource/authority/subject-matter/FEDE,false,1952-07-24,FEDE,European Regional Development Fund (ERDF),Fondo europeo di sviluppo regionale (FESR)
+FEOG,http://publications.europa.eu/resource/authority/subject-matter/FEOG,false,1952-07-24,FEOG,European Agricultural Guidance and Guarantee Fund (EAGGF),Fondo europeo agricolo di orientamento e di garanzia (FEAOG)
+FER,http://publications.europa.eu/resource/authority/subject-matter/FER,false,1952-07-24,FER,Iron,Ferro
+FERR,http://publications.europa.eu/resource/authority/subject-matter/FERR,false,1952-07-24,FERR,Scrap,Rottame
+FEVT,http://publications.europa.eu/resource/authority/subject-matter/FEVT,false,1952-07-24,FEVT,Eur Foundation Improvement of Living and Working Conditions,Fondazione europea miglioramento condizioni vita e lavoro
+FIN,http://publications.europa.eu/resource/authority/subject-matter/FIN,false,1952-07-24,FIN,Financial provisions,Disposizioni finanziarie
+FINC,http://publications.europa.eu/resource/authority/subject-matter/FINC,false,1952-07-24,FINC,Financial provisions ECSC,Disposizioni finanziarie CECA
+FISC,http://publications.europa.eu/resource/authority/subject-matter/FISC,false,1952-07-24,FISC,Taxation,Affari fiscali
+FLT,http://publications.europa.eu/resource/authority/subject-matter/FLT,false,1952-07-24,FLT,Processed fruit and vegetables,Ortofrutticoli trasformati
+FONT,http://publications.europa.eu/resource/authority/subject-matter/FONT,false,1952-07-24,FONT,Pig iron,Ghisa
+FRON,http://publications.europa.eu/resource/authority/subject-matter/FRON,false,1952-07-24,FRON,Border checks,Controlli alle frontiere
+FSE,http://publications.europa.eu/resource/authority/subject-matter/FSE,false,1952-07-24,FSE,European Social Fund (ESF),Fondo sociale europeo (FSE)
+GATT,http://publications.europa.eu/resource/authority/subject-matter/GATT,false,1952-07-24,GATT,General Agreement on Tariffs and Trade (GATT),Accordo generale sulle tariffe e il commercio (GATT)
+HARD,http://publications.europa.eu/resource/authority/subject-matter/HARD,false,1952-07-24,HARD,Harmonisation of customs law: customs territory,Armonizzazione del diritto doganale: territorio doganale
+HARE,http://publications.europa.eu/resource/authority/subject-matter/HARE,false,1952-07-24,HARE,"Harmonisation of customs law: warehouses, free zones",Armonizzazione del diritto doganale: depositi zone franche
+HARM,http://publications.europa.eu/resource/authority/subject-matter/HARM,false,1952-07-24,HARM,Harmonisation of laws,Armonizzazione delle legislazioni
+HARO,http://publications.europa.eu/resource/authority/subject-matter/HARO,false,1952-07-24,HARO,Harmonisation of customs law: origin of goods,Armonizzazione del diritto doganale: origine delle merci
+HARP,http://publications.europa.eu/resource/authority/subject-matter/HARP,false,1952-07-24,HARP,Harmonisation of customs law: inward processing,Armonizzazione del diritto doganale: perfezionamento attivo
+HART,http://publications.europa.eu/resource/authority/subject-matter/HART,false,1952-07-24,HART,Harmonisation of customs law: Community transit,Armonizzazione del diritto doganale: transito comunitario
+HARV,http://publications.europa.eu/resource/authority/subject-matter/HARV,false,1952-07-24,HARV,Harmonisation of customs law: value for customs purposes,Armonizzazione del diritto doganale: valore in dogana
+HARX,http://publications.europa.eu/resource/authority/subject-matter/HARX,false,1952-07-24,HARX,Harmonisation of customs law: various,Armonizzazione del diritto doganale: diversi
+HORS,http://publications.europa.eu/resource/authority/subject-matter/HORS,false,1952-07-24,HORS,Non-Annex II EEC Treaty products,Prodotti non compresi nell'allegato II del trattato CEE
+HOUB,http://publications.europa.eu/resource/authority/subject-matter/HOUB,false,1952-07-24,HOUB,Hops,Luppolo
+HOUI,http://publications.europa.eu/resource/authority/subject-matter/HOUI,false,1952-07-24,HOUI,Hard coal,Antracite
+HUMA,http://publications.europa.eu/resource/authority/subject-matter/HUMA,false,1952-07-24,HUMA,Humanitarian aid,Aiuto umanitario
+IDST,http://publications.europa.eu/resource/authority/subject-matter/IDST,false,1952-07-24,IDST,Scientific and technical information and documentation,Informazione e documentazione scientifiche e tecniche
+IME,http://publications.europa.eu/resource/authority/subject-matter/IME,false,1952-07-24,IME,European Monetary Institute,Istituto monetario europeo
+IMMI,http://publications.europa.eu/resource/authority/subject-matter/IMMI,false,1952-07-24,IMMI,Immigration and asylum policy,Politica di migrazione e asilo
+IMPK,http://publications.europa.eu/resource/authority/subject-matter/IMPK,false,1952-07-24,IMPK,Provisions implementing Article 95 - ECSC,Disposizioni a norma dell'art. 95 CECA
+IMPL,http://publications.europa.eu/resource/authority/subject-matter/IMPL,false,1952-07-24,IMPL,Provisions under Article 235 EEC,Disposizioni in applicazione dell'articolo 235 CEE
+INDR,http://publications.europa.eu/resource/authority/subject-matter/INDR,false,1952-07-24,INDR,Indirect taxation,Imposte indirette
+INDU,http://publications.europa.eu/resource/authority/subject-matter/INDU,false,1952-07-24,INDU,Industry,Industria
+INFO,http://publications.europa.eu/resource/authority/subject-matter/INFO,false,1952-07-24,INFO,Information and verification,Informazione e verifiche
+INFQ,http://publications.europa.eu/resource/authority/subject-matter/INFQ,false,1952-07-24,INFQ,Electronic data processing,Informatica
+INST,http://publications.europa.eu/resource/authority/subject-matter/INST,false,1952-07-24,INST,Provisions governing the Institutions,Disposizioni istituzionali
+INTE,http://publications.europa.eu/resource/authority/subject-matter/INTE,false,1952-07-24,INTE,Internal taxation,Imposizioni interne
+INV,http://publications.europa.eu/resource/authority/subject-matter/INV,false,1952-07-24,INV,Investments,Investimenti
+IRDA,http://publications.europa.eu/resource/authority/subject-matter/IRDA,false,1952-07-24,IRDA,Integration of the German Democratic Republic (GDR),Integrazione della Repubblica democratica tedesca (RDT)
+J-AI,http://publications.europa.eu/resource/authority/subject-matter/J-AI,false,1952-07-24,J-AI,Justice and home affairs,Giustizia e affari interni
+L-CH,http://publications.europa.eu/resource/authority/subject-matter/L-CH,false,1952-07-24,L-CH,Flax and hemp,Lino e canapa
+LAIT,http://publications.europa.eu/resource/authority/subject-matter/LAIT,false,1952-07-24,LAIT,Milk products,Prodotti lattiero-caseari
+LCC,http://publications.europa.eu/resource/authority/subject-matter/LCC,false,1952-07-24,LCC,Free movement of capital,Libera circolazione dei capitali
+LCM,http://publications.europa.eu/resource/authority/subject-matter/LCM,false,1952-07-24,LCM,Free movement of goods,Libera circolazione delle merci
+LCP,http://publications.europa.eu/resource/authority/subject-matter/LCP,false,1952-07-24,LCP,Free movement of persons,Libera circolazione delle persone
+LCT,http://publications.europa.eu/resource/authority/subject-matter/LCT,false,1952-07-24,LCT,Free movement of workers,Libera circolazione dei lavoratori
+LES,http://publications.europa.eu/resource/authority/subject-matter/LES,false,1952-07-24,LES,Freedom of establishment,Libertà di stabilimento
+LIEG,http://publications.europa.eu/resource/authority/subject-matter/LIEG,false,1952-07-24,LIEG,Cork,Sughero
+LPRA,http://publications.europa.eu/resource/authority/subject-matter/LPRA,false,1952-07-24,LPRA,Free circulation,Libera pratica
+MARC,http://publications.europa.eu/resource/authority/subject-matter/MARC,false,1952-07-24,MARC,Public procurement in the European Union,Appalti pubblici dell'Unione europea
+MARI,http://publications.europa.eu/resource/authority/subject-matter/MARI,false,1952-07-24,MARI,Internal market - Principles,Mercato interno - Principi
+MARQ,http://publications.europa.eu/resource/authority/subject-matter/MARQ,false,1952-07-24,MARQ,Trade marks,Marchi
+MECA,http://publications.europa.eu/resource/authority/subject-matter/MECA,false,1952-07-24,MECA,"Medium-sized firms, distributive trades and craft industries",Medie imprese commercio e artigianato
+MEEQ,http://publications.europa.eu/resource/authority/subject-matter/MEEQ,false,1952-07-24,MEEQ,Measures having equivalent effect,Misure di effetto equivalente
+MERG,http://publications.europa.eu/resource/authority/subject-matter/MERG,false,1952-07-24,MERG,Concentrations between undertakings,Concentrazioni tra imprese
+MEXT,http://publications.europa.eu/resource/authority/subject-matter/MEXT,false,1952-07-24,MEXT,Products from third countries,Prodotti provenienti da paesi terzi
+MGRA,http://publications.europa.eu/resource/authority/subject-matter/MGRA,false,1952-07-24,MGRA,Oils and fats,Grassi
+MIN,http://publications.europa.eu/resource/authority/subject-matter/MIN,false,1952-07-24,MIN,Ore,Minerale
+MNOP,http://publications.europa.eu/resource/authority/subject-matter/MNOP,false,1952-07-24,MNOP,State monopolies of a commercial character,Monopoli nazionali a carattere commerciale
+MONA,http://publications.europa.eu/resource/authority/subject-matter/MONA,false,1952-07-24,MONA,Monetary measures in the field of agriculture,Misure monetarie in agricoltura
+NAT,http://publications.europa.eu/resource/authority/subject-matter/NAT,false,1952-07-24,NAT,Non-discrimination on grounds of nationality,Divieto di discriminazione fondata sulla cittadinanza
+NUCL,http://publications.europa.eu/resource/authority/subject-matter/NUCL,false,1952-07-24,NUCL,Nuclear common market,Nucleare
+O-V,http://publications.europa.eu/resource/authority/subject-matter/O-V,false,1952-07-24,O-V,Eggs and poultry,Uova e pollame
+OBT,http://publications.europa.eu/resource/authority/subject-matter/OBT,false,1952-07-24,OBT,Plant varieties,Ritrovati vegetali
+OCM,http://publications.europa.eu/resource/authority/subject-matter/OCM,false,1952-07-24,OCM,Common organisation of agricultural markets,Organizzazione comune dei mercati agricoli
+OMC,http://publications.europa.eu/resource/authority/subject-matter/OMC,false,1952-07-24,OMC,World Trade Organization,Organizzazione mondiale del commercio
+OP_DATPRO,http://publications.europa.eu/resource/authority/subject-matter/OP_DATPRO,false,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori
+ORIG,http://publications.europa.eu/resource/authority/subject-matter/ORIG,false,1952-07-24,ORIG,Rules of origin,Norme sull'origine
+OVIN,http://publications.europa.eu/resource/authority/subject-matter/OVIN,false,1952-07-24,OVIN,Sheepmeat and goatmeat,Carni ovine e caprine
+P-F,http://publications.europa.eu/resource/authority/subject-matter/P-F,false,1952-07-24,P-F,Plants and flowers,Piante e floricoltura
+PCIV,http://publications.europa.eu/resource/authority/subject-matter/PCIV,false,1952-07-24,PCIV,Civil protection,Protezione civile
+PCOM,http://publications.europa.eu/resource/authority/subject-matter/PCOM,false,1952-07-24,PCOM,Commercial policy,Politica commerciale
+PDET,http://publications.europa.eu/resource/authority/subject-matter/PDET,false,1952-07-24,PDET,Potatoes,Patate
+PDON,http://publications.europa.eu/resource/authority/subject-matter/PDON,false,1994-01-01,PDON,Data protection,Protezione dei dati
+PECH,http://publications.europa.eu/resource/authority/subject-matter/PECH,false,1952-07-24,PECH,Fisheries policy,Politica della pesca
+PECO,http://publications.europa.eu/resource/authority/subject-matter/PECO,false,1952-07-24,PECO,Economic policy,Politica economica
+PEM,http://publications.europa.eu/resource/authority/subject-matter/PEM,false,1952-07-24,PEM,Economic and monetary policy,Politica economica e monetaria
+PENU,http://publications.europa.eu/resource/authority/subject-matter/PENU,false,1952-07-24,PENU,Shortage,Stato di penuria
+PERE,http://publications.europa.eu/resource/authority/subject-matter/PERE,false,1952-07-24,PERE,Scrap equalisation,Perequazione del rottame
+PESC,http://publications.europa.eu/resource/authority/subject-matter/PESC,false,1952-07-24,PESC,Common foreign and security policy,Politica estera e di sicurezza comune
+PHYT,http://publications.europa.eu/resource/authority/subject-matter/PHYT,false,1952-07-24,PHYT,Plant health legislation,Legislazione fitosanitaria
+PIM,http://publications.europa.eu/resource/authority/subject-matter/PIM,false,1952-07-24,PIM,Integrated Mediterranean programmes (IMP),Programmi integrati mediterranei (PIM)
+PIND,http://publications.europa.eu/resource/authority/subject-matter/PIND,false,1952-07-24,PIND,Industrial policy,Politica industriale
+PME,http://publications.europa.eu/resource/authority/subject-matter/PME,false,1952-07-24,PME,Small and medium-sized enterprises,Piccole e medie imprese
+POIS,http://publications.europa.eu/resource/authority/subject-matter/POIS,false,1952-07-24,POIS,Peas and field beans,"Piselli, fave e favette"
+POLL,http://publications.europa.eu/resource/authority/subject-matter/POLL,false,1952-07-24,POLL,Pollution,Inquinamento
+PORC,http://publications.europa.eu/resource/authority/subject-matter/PORC,false,1952-07-24,PORC,Pigmeat,Carne suina
+POSI,http://publications.europa.eu/resource/authority/subject-matter/POSI,false,1952-07-24,POSI,Dominant position,Posizione dominante
+PRAT,http://publications.europa.eu/resource/authority/subject-matter/PRAT,false,1952-07-24,PRAT,Concerted practices,Pratiche concordate
+PREG,http://publications.europa.eu/resource/authority/subject-matter/PREG,false,1952-07-24,PREG,Regional policy,Politica regionale
+PREL,http://publications.europa.eu/resource/authority/subject-matter/PREL,false,1952-07-24,PREL,Levies and loans,Prelievi e prestiti
+PRET,http://publications.europa.eu/resource/authority/subject-matter/PRET,false,1952-07-24,PRET,Loans and subsidies,Prestiti e sovvenzioni
+PRIN,http://publications.europa.eu/resource/authority/subject-matter/PRIN,false,1952-07-24,PRIN,"Principles, objectives and tasks of the Treaties",Principi obiettivi e missione dei trattati
+PRIV,http://publications.europa.eu/resource/authority/subject-matter/PRIV,false,1952-07-24,PRIV,Privileges and immunities,Privilegi e immunità
+PRIX,http://publications.europa.eu/resource/authority/subject-matter/PRIX,false,1952-07-24,PRIX,Prices,Prezzi
+PROC,http://publications.europa.eu/resource/authority/subject-matter/PROC,false,1952-07-24,PROC,Procedural provisions,Disposizioni procedurali
+PROP,http://publications.europa.eu/resource/authority/subject-matter/PROP,false,1952-07-24,PROP,"Intellectual, industrial and commercial property","Proprietà intellettuale, industriale e commerciale"
+PROT,http://publications.europa.eu/resource/authority/subject-matter/PROT,false,1952-07-24,PROT,Consumer protection,Tutela dei consumatori
+PTOM,http://publications.europa.eu/resource/authority/subject-matter/PTOM,false,1952-07-24,PTOM,Overseas countries and territories,Paesi e territori d'oltremare
+QUOT,http://publications.europa.eu/resource/authority/subject-matter/QUOT,false,1952-07-24,QUOT,Production quotas,Quote di produzione
+RAPL,http://publications.europa.eu/resource/authority/subject-matter/RAPL,false,1952-07-24,RAPL,Approximation of laws,Ravvicinamento delle legislazioni
+RDOU,http://publications.europa.eu/resource/authority/subject-matter/RDOU,false,1952-07-24,RDOU,Customs procedures,Regimi doganali
+RDT,http://publications.europa.eu/resource/authority/subject-matter/RDT,false,1952-07-24,RDT,Research and technological development,Ricerca e sviluppo tecnologico
+REACH,http://publications.europa.eu/resource/authority/subject-matter/REACH,false,1952-07-24,REACH,REACH,REACH
+RECH,http://publications.europa.eu/resource/authority/subject-matter/RECH,false,1952-07-24,RECH,Research and training,Ricerca e insegnamento
+RECO,http://publications.europa.eu/resource/authority/subject-matter/RECO,false,1952-07-24,RECO,Judicial proceedings,Procedura giudiziaria
+RESP,http://publications.europa.eu/resource/authority/subject-matter/RESP,false,1952-07-24,RESP,Non-contractual liability,Responsabilità extracontrattuale
+RIZ,http://publications.europa.eu/resource/authority/subject-matter/RIZ,false,1952-07-24,RIZ,Rice,Riso
+RPRE,http://publications.europa.eu/resource/authority/subject-matter/RPRE,false,1952-07-24,RPRE,Preferential systems,Regimi preferenziali
+RPRO,http://publications.europa.eu/resource/authority/subject-matter/RPRO,false,1952-07-24,RPRO,Own resources,Risorse proprie
+RQME,http://publications.europa.eu/resource/authority/subject-matter/RQME,false,1952-07-24,RQME,Quantitative restrictions and measures of equivalent effect,Restrizioni quantitative e misure di effetto equivalente
+RSTR,http://publications.europa.eu/resource/authority/subject-matter/RSTR,false,1952-07-24,RSTR,Quantitative restrictions,Restrizioni quantitative
+RTR,http://publications.europa.eu/resource/authority/subject-matter/RTR,false,1952-07-24,RTR,Trans-European networks,Reti transeuropee
+RTRA,http://publications.europa.eu/resource/authority/subject-matter/RTRA,false,1952-07-24,RTRA,Community transit systems,Regimi di transito comunitario
+RULESPRO,http://publications.europa.eu/resource/authority/subject-matter/RULESPRO,false,1952-07-24,RULESPRO,Rules of procedure,Regolamento interno
+SANI,http://publications.europa.eu/resource/authority/subject-matter/SANI,false,1952-07-24,SANI,Health and safety,Protezione sanitaria
+SANT,http://publications.europa.eu/resource/authority/subject-matter/SANT,false,1952-07-24,SANT,Public health,Sanità pubblica
+SAUV,http://publications.europa.eu/resource/authority/subject-matter/SAUV,false,1952-07-24,SAUV,Protective measures,Misure di salvaguardia
+SEBC,http://publications.europa.eu/resource/authority/subject-matter/SEBC,false,1952-07-24,SEBC,European system of central banks,Sistema europeo di banche centrali
+SECR,http://publications.europa.eu/resource/authority/subject-matter/SECR,false,1952-07-24,SECR,Security system,Regime di segreto
+SECU,http://publications.europa.eu/resource/authority/subject-matter/SECU,false,1952-07-24,SECU,Safety at work and elsewhere,Sicurezza dei lavoratori e della popolazione
+SEME,http://publications.europa.eu/resource/authority/subject-matter/SEME,false,1952-07-24,SEME,Seeds and seedlings,Sementi e piante
+SERV,http://publications.europa.eu/resource/authority/subject-matter/SERV,false,1952-07-24,SERV,Freedom to provide services,Libera prestazione dei servizi
+SESO,http://publications.europa.eu/resource/authority/subject-matter/SESO,false,1952-07-24,SESO,Social security for migrant workers,Sicurezza sociale dei lavoratori migranti
+SIDE,http://publications.europa.eu/resource/authority/subject-matter/SIDE,false,1952-07-24,SIDE,Steel industry,Siderurgia – acciaio in senso lato
+SILV,http://publications.europa.eu/resource/authority/subject-matter/SILV,false,1952-07-24,SILV,Forestry,Silvicoltura
+SOCI,http://publications.europa.eu/resource/authority/subject-matter/SOCI,false,1952-07-24,SOCI,Social provisions,Disposizioni sociali
+SOLD,http://publications.europa.eu/resource/authority/subject-matter/SOLD,false,1952-07-24,SOLD,Products of Annex II EEC Treaty and Regulation No 827/68,Prodotti allegato II trattato CEE e regolamento (CEE) n. 827/68
+SOLI,http://publications.europa.eu/resource/authority/subject-matter/SOLI,false,1952-07-24,SOLI,Solidarity clause,Clausola di solidarietà
+SOPO,http://publications.europa.eu/resource/authority/subject-matter/SOPO,false,1952-07-24,SOPO,Social Policy,Politica sociale
+SPOR,http://publications.europa.eu/resource/authority/subject-matter/SPOR,false,1952-07-24,SPOR,Sport,Sport
+STAT,http://publications.europa.eu/resource/authority/subject-matter/STAT,false,1952-07-24,STAT,Staff regulations and employment conditions - EC,Statuto dei funzionari e regime altri agenti
+STRA,http://publications.europa.eu/resource/authority/subject-matter/STRA,false,1952-07-24,STRA,Agricultural structures,Strutture agrarie
+SUBV,http://publications.europa.eu/resource/authority/subject-matter/SUBV,false,1952-07-24,SUBV,Subsidies and aids of the High Authority,Sovvenzioni e aiuti dell'alta autorità
+SUCR,http://publications.europa.eu/resource/authority/subject-matter/SUCR,false,1952-07-24,SUCR,Sugar,Zucchero
+TABA,http://publications.europa.eu/resource/authority/subject-matter/TABA,false,1952-07-24,TABA,Tobacco,Tabacco
+TDC,http://publications.europa.eu/resource/authority/subject-matter/TDC,false,1952-07-24,TDC,Common customs tariff,Tariffa doganale comune
+TDCA,http://publications.europa.eu/resource/authority/subject-matter/TDCA,false,1952-07-24,TDCA,Customs duties: speed-up decisions,Dazi doganali: decisioni sull'acceleramento
+TDCC,http://publications.europa.eu/resource/authority/subject-matter/TDCC,false,1952-07-24,TDCC,Customs duties: Community tariff quotas,Dazi doganali: contingenti tariffari comunitari
+TDCD,http://publications.europa.eu/resource/authority/subject-matter/TDCD,false,1952-07-24,TDCD,Customs duties: authorisation to defer application of CCT,Dazi doganali: autorizzazione differire applicazione tdc
+TDCF,http://publications.europa.eu/resource/authority/subject-matter/TDCF,false,1952-07-24,TDCF,CCT: franchise,Tariffa doganale comune: franchigia
+TDCM,http://publications.europa.eu/resource/authority/subject-matter/TDCM,false,1952-07-24,TDCM,CCT: derogations,Tariffa doganale comune: misure derogatorie
+TDCN,http://publications.europa.eu/resource/authority/subject-matter/TDCN,false,1952-07-24,TDCN,Customs duties: national tariff quotas,Dazi doganali: contingenti tariffari nazionali
+TDCS,http://publications.europa.eu/resource/authority/subject-matter/TDCS,false,1952-07-24,TDCS,Customs duties: suspensions,Dazi doganali: sospensioni
+TECN,http://publications.europa.eu/resource/authority/subject-matter/TECN,false,1952-07-24,TECN,Technology,Tecnologie
+TEEQ,http://publications.europa.eu/resource/authority/subject-matter/TEEQ,false,1952-07-24,TEEQ,Charges having an equivalent effect,Imposte di effetto equivalente
+TELE,http://publications.europa.eu/resource/authority/subject-matter/TELE,false,1952-07-24,TELE,Telecommunications,Telecomunicazioni
+TIN,http://publications.europa.eu/resource/authority/subject-matter/TIN,false,1952-07-24,TIN,Tin,Stagno
+TOUR,http://publications.europa.eu/resource/authority/subject-matter/TOUR,false,1952-07-24,TOUR,Tourism,Turismo
+TRAN,http://publications.europa.eu/resource/authority/subject-matter/TRAN,false,1952-07-24,TRAN,Transport,Trasporti
+TUC,http://publications.europa.eu/resource/authority/subject-matter/TUC,false,1952-07-24,TUC,ECSC unified common tariff,Tariffa unificata comune CECA
+TVA,http://publications.europa.eu/resource/authority/subject-matter/TVA,false,1952-07-24,TVA,Value added tax,Imposta sul valore aggiunto
+TXTL,http://publications.europa.eu/resource/authority/subject-matter/TXTL,false,1952-07-24,TXTL,Textiles,Tessili
+UD,http://publications.europa.eu/resource/authority/subject-matter/UD,false,1952-07-24,UD,Customs Union,Unione doganale
+UEM,http://publications.europa.eu/resource/authority/subject-matter/UEM,false,1952-07-24,UEM,Economic and Monetary Union,Unione economica e monetaria
+V-LG,http://publications.europa.eu/resource/authority/subject-matter/V-LG,false,1952-07-24,V-LG,Rabbit meat and farmed game meat,Carni di coniglio e di selvaggina d'allevamento
+VA,http://publications.europa.eu/resource/authority/subject-matter/VA,false,1952-07-24,VA,Value for customs purposes,Valore in dogana
+VETE,http://publications.europa.eu/resource/authority/subject-matter/VETE,false,1952-07-24,VETE,Veterinary legislation,Legislazione veterinaria
+VIN,http://publications.europa.eu/resource/authority/subject-matter/VIN,false,1952-07-24,VIN,Wine,Vino
+VSOI,http://publications.europa.eu/resource/authority/subject-matter/VSOI,false,1952-07-24,VSOI,Silkworms,Bachi da seta
+c_02507fc0,http://publications.europa.eu/resource/authority/subject-matter/c_02507fc0,false,1994-01-01,c_02507fc0,"Monetary, financial institutions and markets statistics","Statistiche monetarie, degli enti creditizi e dei mercati"
+c_04b171e5,http://publications.europa.eu/resource/authority/subject-matter/c_04b171e5,false,1994-01-01,c_04b171e5,Financial accounts,Conti finanziari
+c_05d7dbed,http://publications.europa.eu/resource/authority/subject-matter/c_05d7dbed,false,2013-11-03,c_05d7dbed,Supervisory powers and tasks,Poteri e compiti di vigilanza
+c_06daf249,http://publications.europa.eu/resource/authority/subject-matter/c_06daf249,false,2013-11-03,c_06daf249,Organisational principles,Principi organizzativi
+c_0e6e516f,http://publications.europa.eu/resource/authority/subject-matter/c_0e6e516f,false,1994-01-01,c_0e6e516f,Foreign exchange and Foreign reserves,Cambi e riserve in valuta
+c_12480e7d,http://publications.europa.eu/resource/authority/subject-matter/c_12480e7d,false,1994-01-01,c_12480e7d,Monetary policy instruments,Strumenti di politica monetaria
+c_18755e4d,http://publications.europa.eu/resource/authority/subject-matter/c_18755e4d,false,1994-01-01,c_18755e4d,Exchange rate mechanism (ERM II),Meccanismo di cambio (AEC II)
+c_206cfcfa,http://publications.europa.eu/resource/authority/subject-matter/c_206cfcfa,false,2013-11-03,c_206cfcfa,Cooperation in the field of banking supervision,Cooperazione in materia di vigilanza bancaria
+c_23d62986,http://publications.europa.eu/resource/authority/subject-matter/c_23d62986,false,2013-11-03,c_23d62986,Reporting,Segnalazione
+c_29b3ace8,http://publications.europa.eu/resource/authority/subject-matter/c_29b3ace8,false,1994-01-01,c_29b3ace8,Rules of procedure and other internal arrangements,Regolamento interno e altre disposizioni interne
+c_38e22180,http://publications.europa.eu/resource/authority/subject-matter/c_38e22180,false,1994-01-01,c_38e22180,Monetary income,Reddito monetario
+c_3ad55b09,http://publications.europa.eu/resource/authority/subject-matter/c_3ad55b09,false,1994-01-01,c_3ad55b09,Minimum reserves,Riserve obbligatorie
+c_3e1e305a,http://publications.europa.eu/resource/authority/subject-matter/c_3e1e305a,false,1994-01-01,c_3e1e305a,Financial assistance,Sostegno finanziario
+c_40b2d24f,http://publications.europa.eu/resource/authority/subject-matter/c_40b2d24f,false,1994-01-01,c_40b2d24f,Procurement,Gare d’appalto
+c_491cdcaa,http://publications.europa.eu/resource/authority/subject-matter/c_491cdcaa,false,1994-01-01,c_491cdcaa,Oversight,Sorveglianza
+c_4e12d83d,http://publications.europa.eu/resource/authority/subject-matter/c_4e12d83d,false,2013-11-03,c_4e12d83d,Exchange of information and public access to documents,Scambio di informazioni e accesso del pubblico ai documenti
+c_594e5232,http://publications.europa.eu/resource/authority/subject-matter/c_594e5232,false,1994-01-01,c_594e5232,Temporary framework,Disciplina temporanea
+c_5cd67341,http://publications.europa.eu/resource/authority/subject-matter/c_5cd67341,false,1994-01-01,c_5cd67341,Euro banknotes issuance,Emissione di banconote in euro
+c_625f1587,http://publications.europa.eu/resource/authority/subject-matter/c_625f1587,false,1994-01-01,c_625f1587,Securities holdings statistics,Statistiche sulle disponibilità in titoli
+c_6365150f,http://publications.europa.eu/resource/authority/subject-matter/c_6365150f,false,1994-01-01,c_6365150f,General statistics,Statistiche generali
+c_64a25727,http://publications.europa.eu/resource/authority/subject-matter/c_64a25727,false,1994-01-01,c_64a25727,Accounting and reporting,Rilevazione e rendicontazione contabili
+c_64b94fae,http://publications.europa.eu/resource/authority/subject-matter/c_64b94fae,false,1994-01-01,c_64b94fae,Cash changeover,Sostituzione del contante
+c_68aa4a7e,http://publications.europa.eu/resource/authority/subject-matter/c_68aa4a7e,false,1994-01-01,c_68aa4a7e,Euro banknotes production,Produzione di banconote in euro
+c_69c82520,http://publications.europa.eu/resource/authority/subject-matter/c_69c82520,false,1994-01-01,c_69c82520,Data protection matters,Questioni relative alla protezione dei dati
+c_6c9bbb79,http://publications.europa.eu/resource/authority/subject-matter/c_6c9bbb79,false,1994-01-01,c_6c9bbb79,Capital of the ECB,Capitale della BCE
+c_6f402b92,http://publications.europa.eu/resource/authority/subject-matter/c_6f402b92,false,1994-01-01,c_6f402b92,External relations matters,Questioni relative alle relazioni esterne
+c_714f9151,http://publications.europa.eu/resource/authority/subject-matter/c_714f9151,false,1994-01-01,c_714f9151,Foreign exchange,Cambio
+c_726ab1b3,http://publications.europa.eu/resource/authority/subject-matter/c_726ab1b3,false,1994-01-01,c_726ab1b3,General framework,Disciplina generale
+c_76b44336,http://publications.europa.eu/resource/authority/subject-matter/c_76b44336,false,2013-11-03,c_76b44336,Banking supervision,Vigilanza bancaria
+c_7b45b05f,http://publications.europa.eu/resource/authority/subject-matter/c_7b45b05f,false,1994-01-01,c_7b45b05f,Auditing,Revisione dei conti
+c_7ca072c7,http://publications.europa.eu/resource/authority/subject-matter/c_7ca072c7,false,1994-01-01,c_7ca072c7,Coin issuance,Conio di monete metalliche
+c_8a588fbc,http://publications.europa.eu/resource/authority/subject-matter/c_8a588fbc,false,2013-11-03,c_8a588fbc,Significance assessments,Valutazioni di significatività
+c_8c4a6e26,http://publications.europa.eu/resource/authority/subject-matter/c_8c4a6e26,false,1994-01-01,c_8c4a6e26,Monetary financing prohibition,Divieto di finanziamento monetario
+c_8e12de2a,http://publications.europa.eu/resource/authority/subject-matter/c_8e12de2a,false,1994-01-01,c_8e12de2a,Statistics,Statistiche
+c_962003de,http://publications.europa.eu/resource/authority/subject-matter/c_962003de,false,1994-01-01,c_962003de,Legal framework of the ESCB,Regime giuridico del SEBC
+c_964d98cc,http://publications.europa.eu/resource/authority/subject-matter/c_964d98cc,false,2013-11-03,c_964d98cc,Institutional structure and Governance,Struttura istituzionale e governance
+c_9e589776,http://publications.europa.eu/resource/authority/subject-matter/c_9e589776,false,1994-01-01,c_9e589776,Trans-European Automated Real-time Gross settlement Express Transfer system (TARGET2),Sistema di trasferimento espresso transeuropeo automatizzato di regolamento lordo in tempo reale (TARGET2)
+c_abd72d0f,http://publications.europa.eu/resource/authority/subject-matter/c_abd72d0f,false,1994-01-01,c_abd72d0f,External transactions and positions,Operazioni e posizioni esterne
+c_ac4906db,http://publications.europa.eu/resource/authority/subject-matter/c_ac4906db,false,2013-11-03,c_ac4906db,Supervisory fees,Contributi per le attività di vigilanza
+c_adb3ab0f,http://publications.europa.eu/resource/authority/subject-matter/c_adb3ab0f,false,2013-11-03,c_adb3ab0f,Capital requirements,Requisiti patrimoniali
+c_af796aa3,http://publications.europa.eu/resource/authority/subject-matter/c_af796aa3,false,1994-01-01,c_af796aa3,Eurosystem reserve management services,Servizi dell’Eurosistema di gestione delle riserve
+c_b1a922fd,http://publications.europa.eu/resource/authority/subject-matter/c_b1a922fd,false,1994-01-01,c_b1a922fd,Financial market stability,Stabilità dei mercati finanziari
+c_b21ec68a,http://publications.europa.eu/resource/authority/subject-matter/c_b21ec68a,false,1994-01-01,c_b21ec68a,Transparency,Trasparenza
+c_c3e5c068,http://publications.europa.eu/resource/authority/subject-matter/c_c3e5c068,false,1994-01-01,c_c3e5c068,Monetary policy and Operations,Politica monetaria e operazioni
+c_c47bf652,http://publications.europa.eu/resource/authority/subject-matter/c_c47bf652,false,1994-01-01,c_c47bf652,TARGET2-Securities (T2S),TARGET2-Securities (T2S)
+c_c55af8ef,http://publications.europa.eu/resource/authority/subject-matter/c_c55af8ef,false,1994-01-01,c_c55af8ef,"Banknotes and coins, means of payment and currency matters","Banconote e monete metalliche, mezzi di pagamento e questioni valutarie"
+c_cc640542,http://publications.europa.eu/resource/authority/subject-matter/c_cc640542,false,1994-01-01,c_cc640542,Confidentiality,Riservatezza
+c_cd441130,http://publications.europa.eu/resource/authority/subject-matter/c_cd441130,false,1994-01-01,c_cd441130,Payment and settlement systems,Sistemi di pagamento e di regolamento
+c_cd594a3b,http://publications.europa.eu/resource/authority/subject-matter/c_cd594a3b,false,1994-01-01,c_cd594a3b,Fraud prevention,Prevenzione delle frodi
+c_d7a89aa3,http://publications.europa.eu/resource/authority/subject-matter/c_d7a89aa3,false,2013-11-03,c_d7a89aa3,Microprudential tasks,Compiti microprudenziali
+c_d82c4c81,http://publications.europa.eu/resource/authority/subject-matter/c_d82c4c81,false,1994-01-01,c_d82c4c81,ECB institutional provisions,Disposizioni istituzionali della BCE
+c_db8034fd,http://publications.europa.eu/resource/authority/subject-matter/c_db8034fd,false,2013-11-03,c_db8034fd,Close cooperation,Cooperazione stretta
+c_eb901451,http://publications.europa.eu/resource/authority/subject-matter/c_eb901451,false,1994-01-01,c_eb901451,Foreign reserves,Riserve in valuta
+c_eef03101,http://publications.europa.eu/resource/authority/subject-matter/c_eef03101,false,1994-01-01,c_eef03101,Sanctions,Sanzioni
+c_f3f2224d,http://publications.europa.eu/resource/authority/subject-matter/c_f3f2224d,false,1994-01-01,c_f3f2224d,Conditions of employment,Condizioni di impiego
+c_f6ee40b4,http://publications.europa.eu/resource/authority/subject-matter/c_f6ee40b4,false,1994-01-01,c_f6ee40b4,Protection of the euro,Protezione dell'euro
+c_f7fa4b33,http://publications.europa.eu/resource/authority/subject-matter/c_f7fa4b33,false,1994-01-01,c_f7fa4b33,Euro short term rate,Euro short-term rate

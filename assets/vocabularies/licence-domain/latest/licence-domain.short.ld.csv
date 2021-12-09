@@ -1,0 +1,12 @@
+# Serializing assets/vocabularies/licence-domain/latest/licence-domain.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/licence-domain
+# title: Licence domain
+# version: 20210317-0
+# description: Licence domain
+key,url,deprecated,valid_from,country_code,label_en,label_it
+CODE,http://publications.europa.eu/resource/authority/licence-domain/CODE,false,1952-07-23,CODE,Code,Code
+DATA,http://publications.europa.eu/resource/authority/licence-domain/DATA,false,1952-07-23,DATA,Data,Dati
+METADATA,http://publications.europa.eu/resource/authority/licence-domain/METADATA,false,1952-07-23,METADATA,Metadata,Metadati
+OP_DATPRO,http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+W_LIT_ART,http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART,false,1952-07-23,W_LIT_ART,Literary and/or artistic works,Opere letterarie e/o artistiche

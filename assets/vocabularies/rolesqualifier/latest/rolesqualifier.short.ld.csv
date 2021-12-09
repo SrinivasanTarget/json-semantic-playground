@@ -1,0 +1,152 @@
+# Serializing assets/vocabularies/rolesqualifier/latest/rolesqualifier.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/role-qualifier
+# title: Role qualifier
+# version: 20210929-0
+# description: Role qualifier
+key,url,deprecated,valid_from,country_code,label_en,label_it
+ADMN,http://publications.europa.eu/resource/authority/role-qualifier/ADMN,false,1952-07-24,ADMN,Administrator,Amministratore
+ADVIS,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS,false,1952-07-24,ADVIS,Adviser,Consigliere
+ADVIS_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_CHIEF,false,1952-07-24,ADVIS_CHIEF,Chief Adviser,Consigliere principale
+ADVIS_COMMU,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_COMMU,false,2021-03-17,ADVIS_COMMU,Communication Adviser,Consigliere per la comunicazione
+ADVIS_COMMU_WRITER_SPEECH_PRESID,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_COMMU_WRITER_SPEECH_PRESID,false,2021-09-29,ADVIS_COMMU_WRITER_SPEECH_PRESID,Communication Adviser and Speechwriter for the President,
+ADVIS_HORS_CLASS,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_HORS_CLASS,false,2011-08-31,ADVIS_HORS_CLASS,Hors Classe Adviser,Consigliere fuori classe
+ADVIS_PRIN,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_PRIN,false,2021-03-17,ADVIS_PRIN,Principal Adviser,Consulente principale
+ADVIS_SENIOR,http://publications.europa.eu/resource/authority/role-qualifier/ADVIS_SENIOR,false,2015-06-24,ADVIS_SENIOR,Senior Adviser,Consigliere principale
+AG_LOG,http://publications.europa.eu/resource/authority/role-qualifier/AG_LOG,false,2021-03-17,AG_LOG,Logistic Agent,Agente logistico
+AG_LOG_SUPP,http://publications.europa.eu/resource/authority/role-qualifier/AG_LOG_SUPP,false,2021-03-17,AG_LOG_SUPP,Logistic Support Agent,Agente di supporto logistico
+AMB,http://publications.europa.eu/resource/authority/role-qualifier/AMB,false,1952-07-24,AMB,Ambassador,Ambasciatore
+AMB_FIRST_SECR,http://publications.europa.eu/resource/authority/role-qualifier/AMB_FIRST_SECR,false,1952-07-24,AMB_FIRST_SECR,First Secretary to the Ambassador,Primo segretario d’ambasciata
+ASSIST,http://publications.europa.eu/resource/authority/role-qualifier/ASSIST,false,1952-07-24,ASSIST,Assistant,Assistente
+AST_ADMIN,http://publications.europa.eu/resource/authority/role-qualifier/AST_ADMIN,false,2004-08-12,AST_ADMIN,Administrative Assistant,Assistente amministrativo
+AST_ADMIN_CHIEF_SPOKESPRS,http://publications.europa.eu/resource/authority/role-qualifier/AST_ADMIN_CHIEF_SPOKESPRS,false,2021-03-17,AST_ADMIN_CHIEF_SPOKESPRS,Administrative Assistant to the Chief Spokesperson,Assistente amministrativo del portavoce principale
+AST_INF_COMMU,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU,false,2021-03-17,AST_INF_COMMU,Information and Communication Assistant,Assistente all’informazione e alla comunicazione
+AST_INF_COMMU_HOR_SUPP_EDIT,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_HOR_SUPP_EDIT,false,2021-03-17,AST_INF_COMMU_HOR_SUPP_EDIT,Information and Communication Assistant – Horizontal support and editorial services,Assistente all’informazione e alla comunicazione – Sostegno trasversale e servizi editoriali
+AST_INF_COMMU_MIDDAY,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_MIDDAY,false,2021-03-17,AST_INF_COMMU_MIDDAY,Information and Communication Assistant – Midday planning & coordination,Assistente all’informazione e alla comunicazione – Programmazione e coordinamento di mezzogiorno
+AST_INF_COMMU_PHOTO,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PHOTO,false,2021-03-17,AST_INF_COMMU_PHOTO,Information and Communication Assistant – Photographer,Assistente all’informazione e alla comunicazione – Fotografo
+AST_INF_COMMU_PRESS,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PRESS,false,2014-05-07,AST_INF_COMMU_PRESS,Information and Communication Assistant – Press contact,Assistente all’informazione e alla comunicazione – Contatti per la stampa
+AST_INF_COMMU_PRESS_ACCR,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PRESS_ACCR,false,2021-03-17,AST_INF_COMMU_PRESS_ACCR,Information and Communication Assistant – Press and accreditation,Assistente all’informazione e alla comunicazione – Stampa e accreditamento
+AST_INF_COMMU_PRESS_ROOM,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_PRESS_ROOM,false,2021-03-17,AST_INF_COMMU_PRESS_ROOM,Information and Communication Assistant – Press room management and planning,Assistente all’informazione e alla comunicazione – Gestione e programmazione della sala stampa
+AST_INF_COMMU_TRANSCR,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_TRANSCR,false,2021-03-17,AST_INF_COMMU_TRANSCR,Information and Communication Assistant – Transcript Coordinator,Assistente all’informazione e alla comunicazione – Coordinatore dei verbali
+AST_INF_COMMU_WEB_EDIT,http://publications.europa.eu/resource/authority/role-qualifier/AST_INF_COMMU_WEB_EDIT,false,2021-03-17,AST_INF_COMMU_WEB_EDIT,Information and Communication Assistant – Web and editorial services,Assistente all’informazione e alla comunicazione – Web e servizi editoriali
+AST_POLICY,http://publications.europa.eu/resource/authority/role-qualifier/AST_POLICY,false,2013-02-15,AST_POLICY,Policy Assistant,Assistente alle politiche
+AST_POLICY_SPOKESPRS_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/AST_POLICY_SPOKESPRS_CHIEF,false,2021-03-17,AST_POLICY_SPOKESPRS_CHIEF,Assistant to the European Commission Chief Spokesperson,Assistente del portavoce principale della Commissione europea
+AST_PRESID_ACT,http://publications.europa.eu/resource/authority/role-qualifier/AST_PRESID_ACT,false,2021-03-17,AST_PRESID_ACT,Assistant – Activities of the President,Assistente – Attività del presidente
+AST_SPOKESPRS_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/AST_SPOKESPRS_CHIEF,false,2004-08-12,AST_SPOKESPRS_CHIEF,Assistant to the European Commission Chief Spokesperson,Assistente del portavoce principale della Commissione europea
+AST_TRANSIT,http://publications.europa.eu/resource/authority/role-qualifier/AST_TRANSIT,false,2021-03-17,AST_TRANSIT,Assistant in the Transition Team,Assistente del gruppo di transizione
+AUDT,http://publications.europa.eu/resource/authority/role-qualifier/AUDT,false,1952-07-24,AUDT,Auditor,Revisore
+AUDT_GEN,http://publications.europa.eu/resource/authority/role-qualifier/AUDT_GEN,false,1952-07-24,AUDT_GEN,Auditor General,Revisore generale
+AUDT_INT,http://publications.europa.eu/resource/authority/role-qualifier/AUDT_INT,false,1952-07-24,AUDT_INT,Internal Auditor,Revisore interno
+CHAIR,http://publications.europa.eu/resource/authority/role-qualifier/CHAIR,false,2011-01-01,CHAIR,Chair,Presidente
+CHAIR_REG_SCR_BOARD,http://publications.europa.eu/resource/authority/role-qualifier/CHAIR_REG_SCR_BOARD,false,2021-03-17,CHAIR_REG_SCR_BOARD,Chair of the Regulatory Scrutiny Board,Presidente del comitato per il controllo normativo
+CLERK_MAIL,http://publications.europa.eu/resource/authority/role-qualifier/CLERK_MAIL,false,2021-03-17,CLERK_MAIL,Clerk,Commesso
+COMMISS_DESIG,http://publications.europa.eu/resource/authority/role-qualifier/COMMISS_DESIG,false,2021-03-17,COMMISS_DESIG,Commissioner-designate,Commissario designato
+COMMIS_INTERIM,http://publications.europa.eu/resource/authority/role-qualifier/COMMIS_INTERIM,false,2021-03-17,COMMIS_INTERIM,Interim Commissioner,Commissario ad interim
+COM_MEMB,http://publications.europa.eu/resource/authority/role-qualifier/COM_MEMB,false,2009-12-01,COM_MEMB,Member of the Commission,Membro della Commissione
+CONSULT,http://publications.europa.eu/resource/authority/role-qualifier/CONSULT,false,1952-07-24,CONSULT,Consultant,Consulente
+COORD,http://publications.europa.eu/resource/authority/role-qualifier/COORD,false,1952-07-24,COORD,Coordinator,Coordinatore
+COORD_POLICY,http://publications.europa.eu/resource/authority/role-qualifier/COORD_POLICY,false,2021-03-17,COORD_POLICY,Policy Coordinator,Coordinatore delle politiche
+COO_LOG_SUPP_CABINET,http://publications.europa.eu/resource/authority/role-qualifier/COO_LOG_SUPP_CABINET,false,2021-03-17,COO_LOG_SUPP_CABINET,Logistic Support Coordinator to the Cabinet,Coordinatore del supporto logistico del gabinetto
+COO_LOG_SUPP_TRANSIT,http://publications.europa.eu/resource/authority/role-qualifier/COO_LOG_SUPP_TRANSIT,false,2021-03-17,COO_LOG_SUPP_TRANSIT,Logistic Support Coordinator to the Transition team,Coordinatore del supporto logistico del gruppo di transizione
+COR_MEMB,http://publications.europa.eu/resource/authority/role-qualifier/COR_MEMB,false,2009-12-01,COR_MEMB,Member of the Committee of the Regions,Membro del Comitato delle regioni
+COUNS,http://publications.europa.eu/resource/authority/role-qualifier/COUNS,false,1952-07-24,COUNS,Counselor,Consigliere
+CURIA_JUDG_ADV,http://publications.europa.eu/resource/authority/role-qualifier/CURIA_JUDG_ADV,false,2009-12-01,CURIA_JUDG_ADV,Judge or Advocate at the Court,Giudice o avvocato della Corte
+DIPL,http://publications.europa.eu/resource/authority/role-qualifier/DIPL,false,2009-12-01,DIPL,Diplomat,Diplomatico
+DIR,http://publications.europa.eu/resource/authority/role-qualifier/DIR,false,1952-07-24,DIR,Director,Direttore
+DIR_COORD_ADM,http://publications.europa.eu/resource/authority/role-qualifier/DIR_COORD_ADM,false,2021-03-17,DIR_COORD_ADM,Director of Coordination and Administration,Direttore del coordinamento e dell’amministrazione
+DIR_DEP,http://publications.europa.eu/resource/authority/role-qualifier/DIR_DEP,false,1952-07-24,DIR_DEP,Deputy Director,Vicedirettore
+DIR_GEN,http://publications.europa.eu/resource/authority/role-qualifier/DIR_GEN,false,2004-08-12,DIR_GEN,Director-General,Direttore generale
+DIR_GEN_CHIEF_STAT,http://publications.europa.eu/resource/authority/role-qualifier/DIR_GEN_CHIEF_STAT,false,2021-03-17,DIR_GEN_CHIEF_STAT,Director-General – Chief Statistician of the European Union,Direttore generale e responsabile delle statistiche dell’Unione europea
+DIR_GEN_DEP,http://publications.europa.eu/resource/authority/role-qualifier/DIR_GEN_DEP,false,1952-07-24,DIR_GEN_DEP,Deputy Director-General,Direttore generale aggiunto
+ECA_MEMB,http://publications.europa.eu/resource/authority/role-qualifier/ECA_MEMB,false,2009-12-01,ECA_MEMB,Member of the Court of Auditors,Membro della Corte dei conti
+ECB_PRESID,http://publications.europa.eu/resource/authority/role-qualifier/ECB_PRESID,false,1998-07-01,ECB_PRESID,President of the European Central Bank,Presidente della Banca centrale europea
+EDIT_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/EDIT_CHIEF,false,1952-07-24,EDIT_CHIEF,Editor in Chief,Caporedattore
+EESC_ADVIS,http://publications.europa.eu/resource/authority/role-qualifier/EESC_ADVIS,false,2009-12-01,EESC_ADVIS,European Economic and Social Committee Adviser,Consigliere del CESE
+EESC_PRESID,http://publications.europa.eu/resource/authority/role-qualifier/EESC_PRESID,false,1993-11-01,EESC_PRESID,President of the European Economic and Social Committee,Presidente del Comitato economico e sociale europeo
+EP_MEMB,http://publications.europa.eu/resource/authority/role-qualifier/EP_MEMB,false,2009-12-01,EP_MEMB,Member of the European Parliament,Membro del Parlamento europeo
+EP_MP_SUBST,http://publications.europa.eu/resource/authority/role-qualifier/EP_MP_SUBST,false,1962-03-30,EP_MP_SUBST,Alternate Member of Parliament,Membro supplente del Parlamento
+EP_SPEAKER,http://publications.europa.eu/resource/authority/role-qualifier/EP_SPEAKER,false,1952-07-24,EP_SPEAKER,President of the Parliament,Presidente del Parlamento
+EUINST,http://publications.europa.eu/resource/authority/role-qualifier/EUINST,false,1952-07-24,EUINST,EU institutions and bodies,Istituzioni e gli organismi dell’UE
+EUMS,http://publications.europa.eu/resource/authority/role-qualifier/EUMS,false,1952-07-24,EUMS,EU Member States,Stati membri dell’UE
+EUMS_GOVREP,http://publications.europa.eu/resource/authority/role-qualifier/EUMS_GOVREP,false,2009-12-01,EUMS_GOVREP,Member State Government Representative,Rappresentante del governo di uno Stato membro
+EUROGRO_PRESID,http://publications.europa.eu/resource/authority/role-qualifier/EUROGRO_PRESID,false,1998-06-04,EUROGRO_PRESID,President of the Eurogroup,Presidente dell’Eurogruppo
+EU_LIOF,http://publications.europa.eu/resource/authority/role-qualifier/EU_LIOF,false,2009-12-01,EU_LIOF,EU Liaison Officer,Ufficiale di collegamento dell’UE
+EU_REPR_HEAD,http://publications.europa.eu/resource/authority/role-qualifier/EU_REPR_HEAD,false,2009-12-01,EU_REPR_HEAD,Head of EU Representation,Capo della rappresentanza dell’UE
+EXEC_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/EXEC_CHIEF,false,1952-07-24,EXEC_CHIEF,Chief Executive,Direttore generale
+EXPERT,http://publications.europa.eu/resource/authority/role-qualifier/EXPERT,false,2014-12-01,EXPERT,Expert,Esperto
+EXPERT_NAT,http://publications.europa.eu/resource/authority/role-qualifier/EXPERT_NAT,false,2021-03-17,EXPERT_NAT,National Expert,Esperto nazionale
+GROUP_LEADER,http://publications.europa.eu/resource/authority/role-qualifier/GROUP_LEADER,false,1952-07-24,GROUP_LEADER,Leader of political group,Responsabile di un gruppo politico
+HEAD,http://publications.europa.eu/resource/authority/role-qualifier/HEAD,false,1952-07-24,HEAD,Head,Capo
+HEAD_ADMN,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_ADMN,false,1952-07-24,HEAD_ADMN,Head of Administration,Capo dell’amministrazione
+HEAD_CAB,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_CAB,false,1952-07-24,HEAD_CAB,Head of Cabinet,Capo di gabinetto
+HEAD_CAB_DEP,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_CAB_DEP,false,2021-03-17,HEAD_CAB_DEP,Deputy Head of Cabinet of the President,Vice capo di gabinetto del presidente
+HEAD_COMMU_MEDIA,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_COMMU_MEDIA,false,1952-07-24,HEAD_COMMU_MEDIA,Head of Communication and Media,Capo delle comunicazioni e dei media
+HEAD_DEL,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_DEL,false,1952-07-24,HEAD_DEL,Head of Delegation,Capo delegazione
+HEAD_DIV,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_DIV,false,1952-07-24,HEAD_DIV,Head of Division,Capo divisione
+HEAD_SECTOR,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_SECTOR,false,1952-07-24,HEAD_SECTOR,Head of Sector,Capo settore
+HEAD_SERV,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_SERV,false,1952-07-24,HEAD_SERV,Head of Service,Caposervizio
+HEAD_SERV_DEP,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_SERV_DEP,false,2021-03-17,HEAD_SERV_DEP,Deputy Head of Service,Vice caposervizio
+HEAD_TASK_FORCE,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_TASK_FORCE,false,2005-11-17,HEAD_TASK_FORCE,Head of Task Force,Capo della task force
+HEAD_TASK_FORCE_DEP,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_TASK_FORCE_DEP,false,2017-11-30,HEAD_TASK_FORCE_DEP,Deputy Head of Task Force,Vicecapo della task force
+HEAD_TRANSIT,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_TRANSIT,false,2021-03-17,HEAD_TRANSIT,Head of Transition Team,Capo del gruppo di transizione
+HEAD_UNIT,http://publications.europa.eu/resource/authority/role-qualifier/HEAD_UNIT,false,1952-07-24,HEAD_UNIT,Head of Unit,Capo unità
+HRUFASP,http://publications.europa.eu/resource/authority/role-qualifier/HRUFASP,false,2009-12-01,HRUFASP,High Representative of the Union,Alto rappresentante dell’Unione
+INDIV,http://publications.europa.eu/resource/authority/role-qualifier/INDIV,false,1952-07-24,INDIV,Individual,Persona privata
+INTERNAT_BODIES,http://publications.europa.eu/resource/authority/role-qualifier/INTERNAT_BODIES,false,1952-07-24,INTERNAT_BODIES,International organisations,Organizzazioni internazionali
+JOURNALIST,http://publications.europa.eu/resource/authority/role-qualifier/JOURNALIST,false,1952-07-24,JOURNALIST,Journalist,Giornalista
+MEMBER_TRANSIT,http://publications.europa.eu/resource/authority/role-qualifier/MEMBER_TRANSIT,false,2021-03-17,MEMBER_TRANSIT,Member of the Transition Team,Membro del gruppo di transizione
+MODERATOR,http://publications.europa.eu/resource/authority/role-qualifier/MODERATOR,false,2021-03-17,MODERATOR,Moderator,Moderatore
+NEGO_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/NEGO_CHIEF,false,2016-09-15,NEGO_CHIEF,Chief Negotiator,Capo negoziatore
+NEGO_DEP_CHIEF,http://publications.europa.eu/resource/authority/role-qualifier/NEGO_DEP_CHIEF,false,2004-09-10,NEGO_DEP_CHIEF,Deputy Chief Negotiator,Vicecapo negoziatore
+OFF_DATA_PROT,http://publications.europa.eu/resource/authority/role-qualifier/OFF_DATA_PROT,false,2004-09-10,OFF_DATA_PROT,Data Protection Officer,Responsabile della protezione dei dati
+OFF_DOC_MAN,http://publications.europa.eu/resource/authority/role-qualifier/OFF_DOC_MAN,false,2021-03-17,OFF_DOC_MAN,Document Management Officer,Responsabile della gestione dei documenti
+OFF_DOC_MAN_ARCH,http://publications.europa.eu/resource/authority/role-qualifier/OFF_DOC_MAN_ARCH,false,2021-03-17,OFF_DOC_MAN_ARCH,Document Management Officer – Archives,Responsabile della gestione dei documenti – Archivi
+OFF_INF_COMMU,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU,false,2009-12-01,OFF_INF_COMMU,Information and Communication Officer,Responsabile dell’informazione e della comunicazione
+OFF_INF_COMMU_MULTI,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_MULTI,false,2021-03-17,OFF_INF_COMMU_MULTI,Information and Communication Officer – Multimedia Editor,Responsabile dell’informazione e della comunicazione – Redattore multimediale
+OFF_INF_COMMU_MULTI_REPR,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_MULTI_REPR,false,2021-03-17,OFF_INF_COMMU_MULTI_REPR,Information and Communication Officer – Multimedia Editor and Liaison with the Representations,Responsabile dell’informazione e della comunicazione – Redattore multimediale e collegamento con le rappresentanze
+OFF_INF_COMMU_PLAN_COORD_LIAISON,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_PLAN_COORD_LIAISON,false,2021-03-17,OFF_INF_COMMU_PLAN_COORD_LIAISON,Information and Communication Officer – Planning/coordination and Liaison with the Representations,Assistente all’informazione e alla comunicazione – Programmazione/coordinamento e collegamento con le rappresentanze
+OFF_INF_COMMU_PRESID_MEDIA,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_PRESID_MEDIA,false,2021-09-29,OFF_INF_COMMU_PRESID_MEDIA,Information and Communication Officer – Communication Officer responsible for coordination of the President’s media and social media activities,
+OFF_INF_COMMU_SOCIAL_MEDIA,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_SOCIAL_MEDIA,false,2021-03-17,OFF_INF_COMMU_SOCIAL_MEDIA,Information and Communication Officer – Social media,Responsabile dell’informazione e della comunicazione – Social media
+OFF_INF_COMMU_VIS,http://publications.europa.eu/resource/authority/role-qualifier/OFF_INF_COMMU_VIS,false,2021-03-17,OFF_INF_COMMU_VIS,Information and Communication Officer – Visual communication,Responsabile dell’informazione e della comunicazione – Comunicazione visiva
+OFF_POLICY,http://publications.europa.eu/resource/authority/role-qualifier/OFF_POLICY,false,2021-03-17,OFF_POLICY,Policy Officer,Responsabile delle politiche
+OFF_PRESS_EEAS,http://publications.europa.eu/resource/authority/role-qualifier/OFF_PRESS_EEAS,false,2021-03-17,OFF_PRESS_EEAS,Press and Media Officer for foreign affairs and security policy,Addetto stampa e media per gli affari esteri e la politica di sicurezza
+PANELLIST,http://publications.europa.eu/resource/authority/role-qualifier/PANELLIST,false,2021-03-17,PANELLIST,Panellist,Membro del collegio
+PHOTO,http://publications.europa.eu/resource/authority/role-qualifier/PHOTO,false,2017-01-01,PHOTO,Information and Communication Assistant – Visual communication,Assistente all’informazione e alla comunicazione – Comunicazione visiva
+PRESID_EC,http://publications.europa.eu/resource/authority/role-qualifier/PRESID_EC,false,2021-03-17,PRESID_EC,President of the Commission,Presidente della Commissione
+PRESID_REPUBL,http://publications.europa.eu/resource/authority/role-qualifier/PRESID_REPUBL,false,1952-07-24,PRESID_REPUBL,President of the Republic,Presidente della Repubblica
+PRESID_SUPAUDT,http://publications.europa.eu/resource/authority/role-qualifier/PRESID_SUPAUDT,false,1952-07-24,PRESID_SUPAUDT,President of the Supreme Audit Office,Presidente dell’Istituzione superiore di controllo
+PRESID_VICE,http://publications.europa.eu/resource/authority/role-qualifier/PRESID_VICE,false,2006-10-23,PRESID_VICE,Vice-President of the Commission,Vicepresidente della Commissione
+PRESID_VICE_EXEC,http://publications.europa.eu/resource/authority/role-qualifier/PRESID_VICE_EXEC,false,2021-03-17,PRESID_VICE_EXEC,Executive Vice-President,Vicepresidente esecutivo
+PRESID_VICE_FIRST,http://publications.europa.eu/resource/authority/role-qualifier/PRESID_VICE_FIRST,false,2004-01-01,PRESID_VICE_FIRST,First Vice-President,Primo vicepresidente
+PRESS_OFFICER,http://publications.europa.eu/resource/authority/role-qualifier/PRESS_OFFICER,false,1952-07-24,PRESS_OFFICER,Press Officer,Addetto stampa
+SECR,http://publications.europa.eu/resource/authority/role-qualifier/SECR,false,1952-07-24,SECR,Secretary,Segretario
+SECR_GEN,http://publications.europa.eu/resource/authority/role-qualifier/SECR_GEN,false,2008-03-07,SECR_GEN,Secretary-General,Segretario generale
+SECR_GEN_DEP,http://publications.europa.eu/resource/authority/role-qualifier/SECR_GEN_DEP,false,1952-07-24,SECR_GEN_DEP,Deputy Secretary-General,Vicesegretario generale
+SECR_HEAD_TRANSIT,http://publications.europa.eu/resource/authority/role-qualifier/SECR_HEAD_TRANSIT,false,2021-03-17,SECR_HEAD_TRANSIT,Secretary to the Head of the Transition Team,Segretario del capo del gruppo di transizione
+SECR_PRESID,http://publications.europa.eu/resource/authority/role-qualifier/SECR_PRESID,false,2021-03-17,SECR_PRESID,Secretary to the President,Segretario del presidente
+SECR_PRESID_ELEC,http://publications.europa.eu/resource/authority/role-qualifier/SECR_PRESID_ELEC,false,2021-03-17,SECR_PRESID_ELEC,Secretary to the President-Elect,Segretario del presidente eletto
+SPEAKER,http://publications.europa.eu/resource/authority/role-qualifier/SPEAKER,false,2021-03-17,SPEAKER,Speaker,Oratore
+SPEAKER_KEYNOTE,http://publications.europa.eu/resource/authority/role-qualifier/SPEAKER_KEYNOTE,false,2021-03-17,SPEAKER_KEYNOTE,Keynote Speaker,Oratore principale
+SPOKESPRS,http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS,false,1952-07-24,SPOKESPRS,Spokesperson,Portavoce
+SPOKESPRS_CHIEF_COM,http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_CHIEF_COM,false,2021-03-17,SPOKESPRS_CHIEF_COM,European Commission Chief Spokesperson,Portavoce principale della Commissione europea
+SPOKESPRS_CHIEF_DEP_COM,http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_CHIEF_DEP_COM,false,2014-11-01,SPOKESPRS_CHIEF_DEP_COM,European Commission Deputy Chief Spokesperson,Vice portavoce capo della Commissione europea
+SPOKESPRS_COORD,http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_COORD,false,2014-11-01,SPOKESPRS_COORD,Coordinating Spokesperson,Portavoce di coordinamento
+SPOKESPRS_EEAS,http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_EEAS,false,2021-03-17,SPOKESPRS_EEAS,Spokesperson for foreign affairs and security policy,Portavoce principale per gli affari esteri e la politica di sicurezza
+SPOKESPRS_LEAD_EEAS,http://publications.europa.eu/resource/authority/role-qualifier/SPOKESPRS_LEAD_EEAS,false,2021-03-17,SPOKESPRS_LEAD_EEAS,Lead Spokesperson of the HR/VP – Lead EEAS Spokesperson,Portavoce principale dell’AR/VP – Principale portavoce del SEAE
+STAFF,http://publications.europa.eu/resource/authority/role-qualifier/STAFF,false,2005-01-01,STAFF,Official of the European Union,Funzionario dell'Unione europea
+STAFF_LEADNO_ORG,http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEADNO_ORG,false,2009-12-01,STAFF_LEADNO_ORG,Official (not head of entity) (post in the official organisation chart),Funzionario (non capo dell’entità) (facente parte dell’organigramma ufficiale)
+STAFF_LEADNO_ORGNO,http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEADNO_ORGNO,false,2009-12-01,STAFF_LEADNO_ORGNO,Official (not head of entity) (not post in the official organisation chart),Funzionario (non capo dell’entità) (non facente parte dell’organigramma ufficiale)
+STAFF_LEAD_ORG,http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEAD_ORG,false,2009-12-01,STAFF_LEAD_ORG,Official (head of entity) (post in the official organisation chart),Funzionario (capo dell’entità) (facente parte dell’organigramma ufficiale)
+STAFF_LEAD_ORGNO,http://publications.europa.eu/resource/authority/role-qualifier/STAFF_LEAD_ORGNO,false,2009-12-01,STAFF_LEAD_ORGNO,Official (head of entity) (not post in the official organisation chart),Funzionario (capo dell’entità) (non facente parte dell’organigramma ufficiale)
+SUPP_AG_ADMIN,http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN,false,2021-03-17,SUPP_AG_ADMIN,Administrative Support Agent,Agente di supporto amministrativo
+SUPP_AG_ADMIN_PRESID_ELECT,http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_PRESID_ELECT,false,2021-03-17,SUPP_AG_ADMIN_PRESID_ELECT,Administrative Support Agent to the President-Elect,Agente di supporto amministrativo del presidente eletto
+SUPP_AG_ADMIN_PRESS,http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_PRESS,false,2021-03-17,SUPP_AG_ADMIN_PRESS,Administrative Support Agent – Press Assistance,Agente di supporto amministrativo – Assistente stampa
+SUPP_AG_ADMIN_SPOKESPRS,http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_SPOKESPRS,false,2021-03-17,SUPP_AG_ADMIN_SPOKESPRS,Administrative Support Agent to the Spokesperson,Agente di supporto amministrativo del portavoce
+SUPP_AG_ADMIN_TRANSCR,http://publications.europa.eu/resource/authority/role-qualifier/SUPP_AG_ADMIN_TRANSCR,false,2021-03-17,SUPP_AG_ADMIN_TRANSCR,Administrative Support Agent – Communication Assistance – Transcript,Agente di supporto amministrativo – Assistente alla comunicazione e ai verbali
+TEAM_LEADER,http://publications.europa.eu/resource/authority/role-qualifier/TEAM_LEADER,false,1952-07-24,TEAM_LEADER,Team leader,Team leader
+THIRD_COUNTRY,http://publications.europa.eu/resource/authority/role-qualifier/THIRD_COUNTRY,false,1952-07-24,THIRD_COUNTRY,Third countries,Paesi terzi
+TRAINEE,http://publications.europa.eu/resource/authority/role-qualifier/TRAINEE,false,2021-03-17,TRAINEE,Trainee,Tirocinante
+WEB_EDIT,http://publications.europa.eu/resource/authority/role-qualifier/WEB_EDIT,false,2021-03-17,WEB_EDIT,Webmaster-Editor,Webmaster-Redattore
+WRITER_SPEECH,http://publications.europa.eu/resource/authority/role-qualifier/WRITER_SPEECH,false,2021-03-17,WRITER_SPEECH,Speechwriter,Redattore di discorsi
+WRITER_SPEECH_PRESID,http://publications.europa.eu/resource/authority/role-qualifier/WRITER_SPEECH_PRESID,false,2021-09-29,WRITER_SPEECH_PRESID,Speechwriter for the President,
+OP_DATPRO,http://publications.europa.eu/resource/authority/rolesqualifier/OP_DATPRO,false,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori

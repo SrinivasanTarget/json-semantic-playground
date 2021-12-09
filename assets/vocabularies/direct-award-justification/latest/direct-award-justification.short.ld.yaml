@@ -1,0 +1,384 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/OP_DATPRO
+- country_code: additional
+  deprecated: 'false'
+  key: additional
+  label_en: Need for additional works or services by the original contractor
+  label_it: "Necessit\xE0 di ulteriori lavori o servizi eseguiti dall'appaltatore\
+    \ originale"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/additional
+  valid_from: '2020-06-24'
+- country_code: artistic
+  deprecated: 'false'
+  key: artistic
+  label_en: The contract can be provided only by a particular economic operator because
+    of creation or acquisition of a unique work of art or artistic performance
+  label_it: "L'appalto pu\xF2 essere eseguito solo da un particolare operatore economico\
+    \ in quanto consiste nella creazione o nell'acquisizione di un'opera d'arte o\
+    \ rappresentazione artistica unica"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/artistic
+  valid_from: '2019-09-18'
+- country_code: bargain
+  deprecated: 'false'
+  key: bargain
+  label_en: Bargain purchase taking advantage of a particularly advantageous opportunity
+    available for a very short time at a price considerably lower than market prices
+  label_it: "Acquisti d'opportunit\xE0, approfittando di un'occasione particolarmente\
+    \ vantaggiosa ma di breve durata, a prezzo sensibilmente inferiore ai prezzi normalmente\
+    \ praticati sul mercato"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/bargain
+  valid_from: '2019-09-18'
+- country_code: below-thres
+  deprecated: 'false'
+  key: below-thres
+  label_en: Contracts with estimated value below the procurement thresholds
+  label_it: "Appalti il cui valore stimato \xE8 inferiore alle soglie relative agli\
+    \ appalti"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/below-thres
+  valid_from: '2020-06-24'
+- country_code: below-thres-sme
+  deprecated: 'false'
+  key: below-thres-sme
+  label_en: Small scale contract to a small and medium sized enterprise
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/below-thres-sme
+  valid_from: '2021-06-16'
+- country_code: closure
+  deprecated: 'false'
+  key: closure
+  label_en: Purchase on particularly advantageous terms from an economic operator
+    which is definitely winding up its business activities
+  label_it: "Acquisto a condizioni particolarmente vantaggiose, da un fornitore che\
+    \ cessa definitivamente l'attivit\xE0 commerciale"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/closure
+  valid_from: '2019-09-18'
+- country_code: commodity
+  deprecated: 'false'
+  key: commodity
+  label_en: Procurement of supplies quoted and purchased on a commodity market
+  label_it: Appalto di forniture quotate e acquistate sul mercato delle materie prime
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/commodity
+  valid_from: '2019-09-18'
+- country_code: contest
+  deprecated: 'false'
+  key: contest
+  label_en: Service contract to be awarded to the winner or one of winners under the
+    rules of a design contest
+  label_it: Appalto di servizi che deve essere aggiudicato al vincitore o ad uno dei
+    vincitori secondo le regole di un concorso di progettazione
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/contest
+  valid_from: '2019-09-18'
+- country_code: crisis
+  deprecated: 'false'
+  key: crisis
+  label_en: The periods for the restricted procedure and the negotiated procedure
+    with prior publication of a contract notice are incompatible with the urgency
+    resulting from a crisis
+  label_it: "L'urgenza risultante da situazioni di crisi non \xE8 compatibile con\
+    \ i termini previsti dalla procedura ristretta e dalla procedura negoziata con\
+    \ pubblicazione di un bando di gara"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/crisis
+  valid_from: '2019-09-18'
+- country_code: defse-excl
+  deprecated: 'false'
+  key: defse-excl
+  label_en: Defence-specific and security-specific exclusions
+  label_it: Esclusioni specifiche nei settori della difesa e della sicurezza
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/defse-excl
+  valid_from: '2020-06-24'
+- country_code: dir24-list
+  deprecated: 'false'
+  key: dir24-list
+  label_en: Contracts listed in Directive 2014/24/EU Art. 7, but not falling within
+    the scope of Directive 2014/25/EU
+  label_it: Appalti elencati nella direttiva 2014/24/UE, articolo 7, ma non rientranti
+    nell'ambito della direttiva 2014/25/UE
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/dir24-list
+  valid_from: '2020-06-24'
+- country_code: dir81-annexii
+  deprecated: 'false'
+  key: dir81-annexii
+  label_en: The contract falls within the services listed in Annex II of the Directive
+    2009/81/EC
+  label_it: L'appalto rientra nell'elenco dei servizi di cui all'allegato II della
+    direttiva 2009/81/CE
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/dir81-annexii
+  valid_from: '2019-09-18'
+- country_code: dir81-transport
+  deprecated: 'false'
+  key: dir81-transport
+  label_en: Contract related to the provision of air and maritime transport services
+    for the armed forces of a Member State deployed or to be deployed abroad, under
+    the strict conditions stated in the Directive
+  label_it: Appalti aventi per oggetto servizi di trasporto aereo e marittimo per
+    le forze armate di uno Stato membro di stanza o che devono essere stanziate all'estero,
+    conformemente alle rigorose condizioni fissate dalla direttiva
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/dir81-transport
+  valid_from: '2019-09-18'
+- country_code: ecom-excl
+  deprecated: 'false'
+  key: ecom-excl
+  label_en: Specific exclusion in the field of electronic communications
+  label_it: Esclusione specifica nel settore delle comunicazioni elettroniche
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/ecom-excl
+  valid_from: '2020-06-24'
+- country_code: energy-supply
+  deprecated: 'false'
+  key: energy-supply
+  label_en: Contracts awarded for the supply of energy or of fuels for the production
+    of energy
+  label_it: Appalti aggiudicati per la fornitura di energia o di combustibili destinati
+    alla produzione di energia
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/energy-supply
+  valid_from: '2020-06-24'
+- country_code: exclusive
+  deprecated: 'false'
+  key: exclusive
+  label_en: The contract can be provided only by a particular economic operator because
+    of exclusive rights, including intellectual property rights
+  label_it: "L'appalto pu\xF2 essere eseguito solo da un particolare operatore economico\
+    \ per motivi di tutela di diritti esclusivi, inclusi i diritti di propriet\xE0\
+    \ intellettuale"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/exclusive
+  valid_from: '2019-09-18'
+- country_code: existing
+  deprecated: 'false'
+  key: existing
+  label_en: Partial replacement or extension of existing supplies or installations
+    by the original supplier ordered under the strict conditions stated in the Directive
+  label_it: Rinnovo parziale o ampliamento di forniture o impianti esistenti realizzati
+    dal fornitore originario, commissionati conformemente alle rigorose condizioni
+    fissate dalla direttiva
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/existing
+  valid_from: '2019-09-18'
+- country_code: in-house
+  deprecated: 'false'
+  key: in-house
+  label_en: Public contract between organisations within the public sector ('in-house'),
+    contracts awarded to affiliated undertakings, or contracts awarded to a joint
+    venture or within a joint venture
+  label_it: "Appalto pubblico tra enti nell'ambito del settore pubblico (appalto \xAB\
+    in-house\xBB), appalti aggiudicati a imprese collegate o appalti aggiudicati a\
+    \ una joint-venture o nell'ambito di una joint-venture"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/in-house
+  valid_from: '2020-06-24'
+- country_code: int-oper
+  deprecated: 'false'
+  key: int-oper
+  label_en: Internal operator
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/int-oper
+  valid_from: '2021-06-16'
+- country_code: int-rules
+  deprecated: 'false'
+  key: int-rules
+  label_en: Procedure according to international rules
+  label_it: Procedura organizzata in base a norme internazionali
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/int-rules
+  valid_from: '2020-06-24'
+- country_code: irregular
+  deprecated: 'false'
+  key: irregular
+  label_en: Only irregular or unacceptable tenders were received in response to a
+    previous notice. All and only those tenderers of the previous procedure which
+    have satisfied the selection criteria, have not fulfilled the exclusion grounds
+    and have satisfied formal requirements, were included in the negotiations
+  label_it: In esito a un avviso o bando precedente sono pervenute solo offerte non
+    regolari o inaccettabili. Sono stati ammessi alla procedura negoziata unicamente
+    tutti gli offerenti della procedura precedente che hanno soddisfatto i criteri
+    di selezione, non sono ricaduti in cause di esclusione e hanno soddisfatto i requisiti
+    formali
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/irregular
+  valid_from: '2019-09-18'
+- country_code: liquidator
+  deprecated: 'false'
+  key: liquidator
+  label_en: Purchase on particularly advantageous terms from the liquidator in an
+    insolvency procedure, an arrangement with creditors or a similar procedure under
+    national laws and regulations
+  label_it: Acquisto a condizioni particolarmente vantaggiose, dal curatore o liquidatore
+    di un fallimento, di un concordato giudiziario o di una procedura analoga prevista
+    nelle legislazioni o regolamentazioni nazionali
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/liquidator
+  valid_from: '2019-09-18'
+- country_code: non-buyer-aw
+  deprecated: 'false'
+  key: non-buyer-aw
+  label_en: Contract awarded by parties that are not buyers
+  label_it: Contratti aggiudicati da parti che non sono committenti
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/non-buyer-aw
+  valid_from: '2020-06-24'
+- country_code: non-contr
+  deprecated: 'false'
+  key: non-contr
+  label_en: Certain cases of non-contractual nature
+  label_it: Determinati casi di natura extracontrattuale
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/non-contr
+  valid_from: '2020-06-24'
+- country_code: non-p-int
+  deprecated: 'false'
+  key: non-p-int
+  label_en: Contracts for non-pecuniary interest
+  label_it: Contratti non a titolo oneroso
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/non-p-int
+  valid_from: '2020-06-24'
+- country_code: not-wss
+  deprecated: 'false'
+  key: not-wss
+  label_en: Contracts whose purpose is not the execution of works, the supply of products
+    and the provision of services
+  label_it: Contratti non aventi per oggetto l'esecuzione di lavori, la fornitura
+    di prodotti o la prestazione di servizi
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/not-wss
+  valid_from: '2020-06-24'
+- country_code: other-activity
+  deprecated: 'false'
+  key: other-activity
+  label_en: Contracts awarded for purposes other than the pursuit of a covered activity
+    or for the pursuit of such an activity in a third country
+  label_it: "Appalti aggiudicati per fini diversi dal perseguimento di un'attivit\xE0\
+    \ interessata o per l'esercizio di un'attivit\xE0 in un paese terzo"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/other-activity
+  valid_from: '2020-06-24'
+- country_code: other-exclusive
+  deprecated: 'false'
+  key: other-exclusive
+  label_en: The contract can be provided only by a particular economic operator because
+    of protection of other exclusive rights, including intellectual property rights,
+    other than those defined in Directive 2014/23/EU Art. 5(10)
+  label_it: "L'appalto pu\xF2 essere eseguito solo da un particolare operatore economico\
+    \ per motivi di tutela di altri diritti esclusivi, inclusi i diritti di propriet\xE0\
+    \ intellettuale, diversi da quelli definiti dalla direttiva 2014/23/UE, articolo\
+    \ 5, paragrafo 10"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/other-exclusive
+  valid_from: '2019-09-18'
+- country_code: rail
+  deprecated: 'false'
+  key: rail
+  label_en: Railway transport
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/rail
+  valid_from: '2021-06-16'
+- country_code: rd
+  deprecated: 'false'
+  key: rd
+  label_en: The contract concerns research and development services other than those
+    referred to in Directive 2009/81/EC Art. 13
+  label_it: L'appalto riguarda servizi di ricerca e sviluppo diversi da quelli di
+    cui alla direttiva 2009/81/CE, articolo 13
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/rd
+  valid_from: '2019-09-18'
+- country_code: repetition
+  deprecated: 'false'
+  key: repetition
+  label_en: New works or services, constituting a repetition of existing works or
+    services and ordered in accordance with the strict conditions stated in the Directive
+  label_it: Nuovi lavori o servizi consistenti nella ripetizione di lavori o servizi
+    analoghi, commissionati conformemente alle rigorose condizioni fissate dalla direttiva
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/repetition
+  valid_from: '2019-09-18'
+- country_code: resd
+  deprecated: 'false'
+  key: resd
+  label_en: Purpose of the contract is purely research, experiment, study or development
+    under the conditions stated in the Directive
+  label_it: L'oggetto dell'appalto riguarda unicamente scopi di ricerca, di sperimentazione,
+    di studio o di sviluppo alle condizioni della direttiva
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/resd
+  valid_from: '2019-09-18'
+- country_code: rl-third
+  deprecated: 'false'
+  key: rl-third
+  label_en: Contracts awarded for purposes of resale or lease to third parties
+  label_it: Appalti aggiudicati a scopo di rivendita o di locazione a terzi
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/rl-third
+  valid_from: '2020-06-24'
+- country_code: sc-right
+  deprecated: 'false'
+  key: sc-right
+  label_en: Service contract awarded on the basis of an exclusive right
+  label_it: Appalto di servizio aggiudicato in base a un diritto esclusivo
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/sc-right
+  valid_from: '2020-06-24'
+- country_code: serv-excl
+  deprecated: 'false'
+  key: serv-excl
+  label_en: Specific exclusions for service contracts
+  label_it: Esclusioni specifiche per gli appalti di servizi
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/serv-excl
+  valid_from: '2020-06-24'
+- country_code: spe-arrang
+  deprecated: 'false'
+  key: spe-arrang
+  label_en: Activities directly exposed to competition and contracts subject to special
+    arrangements
+  label_it: "Attivit\xE0 direttamente esposte alla concorrenza e appalti soggetti\
+    \ a disposizioni specifiche"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/spe-arrang
+  valid_from: '2020-06-24'
+- country_code: technical
+  deprecated: 'false'
+  key: technical
+  label_en: The contract can be provided only by a particular economic operator because
+    of an absence of competition for technical reasons
+  label_it: "L'appalto pu\xF2 essere eseguito solo da un particolare operatore economico\
+    \ a causa dell'assenza di concorrenza per motivi tecnici"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/technical
+  valid_from: '2019-09-18'
+- country_code: tra-ser
+  deprecated: 'false'
+  key: tra-ser
+  label_en: Concessions for air transport services based on the granting of an operating
+    licence within the meaning of Regulation (EC) No 1008/2008 or for public passenger
+    transport services within the meaning of Regulation (EC) No 1370/2007
+  label_it: Concessioni di servizi di trasporto aereo sulla base di una licenza di
+    gestione a norma del regolamento (CE) n. 1008/2008 del Parlamento europeo e del
+    Consiglio o concessioni di servizi di trasporto pubblico di passeggeri ai sensi
+    del regolamento (CE) n. 1370/2007
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/tra-ser
+  valid_from: '2020-06-24'
+- country_code: unsuitable
+  deprecated: 'false'
+  key: unsuitable
+  label_en: No suitable tenders, requests to participate, or applications were received
+    in response to a previous notice
+  label_it: "Non \xE8 stata presentata alcuna offerta appropriata, n\xE9 alcuna domanda\
+    \ di partecipazione o candidatura appropriata in esito a un avviso o bando precedente"
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/unsuitable
+  valid_from: '2019-09-18'
+- country_code: urgency
+  deprecated: 'false'
+  key: urgency
+  label_en: Extreme urgency brought about by events unforeseeable for the buyer
+  label_it: Ragioni di estrema urgenza derivanti da eventi imprevedibili dal committente
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/urgency
+  valid_from: '2019-09-18'
+- country_code: water-purch
+  deprecated: 'false'
+  key: water-purch
+  label_en: Contracts awarded for the purchase of water
+  label_it: Appalti aggiudicati per l'acquisto di acqua
+  url: http://publications.europa.eu/resource/authority/direct-award-justification/water-purch
+  valid_from: '2020-06-24'

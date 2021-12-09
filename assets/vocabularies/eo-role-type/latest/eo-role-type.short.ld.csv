@@ -1,0 +1,13 @@
+# Serializing assets/vocabularies/eo-role-type/latest/eo-role-type.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/eo-role-type
+# title: Economic operator role
+# version: 20210616-0
+# description: Economic operator role
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/eo-role-type/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+group-lead,http://publications.europa.eu/resource/authority/eo-role-type/group-lead,group-lead,Group leader,,false,2021-06-16
+group-mem,http://publications.europa.eu/resource/authority/eo-role-type/group-mem,group-mem,Group member,,false,2021-06-16
+oeron,http://publications.europa.eu/resource/authority/eo-role-type/oeron,oeron,Other entity (relied upon),,false,2021-06-16
+sole-tenderer,http://publications.europa.eu/resource/authority/eo-role-type/sole-tenderer,sole-tenderer,Sole tenderer,,false,2021-06-16
+subcont,http://publications.europa.eu/resource/authority/eo-role-type/subcont,subcont,Subcontractor,,false,2021-06-16

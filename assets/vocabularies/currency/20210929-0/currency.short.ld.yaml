@@ -1,0 +1,2052 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADF
+  deprecated: 'true'
+  key: ADF
+  label_en: Andorran franc
+  url: http://publications.europa.eu/resource/authority/currency/ADF
+  valid_from: '1990-01-01'
+  valid_until: '1999-01-01'
+- country_code: ADP
+  deprecated: 'true'
+  key: ADP
+  label_en: Andorran peseta
+  url: http://publications.europa.eu/resource/authority/currency/ADP
+  valid_from: '1990-01-01'
+  valid_until: '1999-01-01'
+- country_code: AED
+  deprecated: 'false'
+  key: AED
+  label_en: UAE dirham
+  label_it: Dirham degli EAU
+  url: http://publications.europa.eu/resource/authority/currency/AED
+  valid_from: '1990-01-01'
+- country_code: AFA
+  deprecated: 'true'
+  key: AFA
+  label_en: Afghani
+  label_it: Afghani
+  url: http://publications.europa.eu/resource/authority/currency/AFA
+  valid_from: '1925-01-01'
+  valid_until: '2002-12-31'
+- country_code: AFN
+  deprecated: 'false'
+  key: AFN
+  label_en: Afghani
+  label_it: Afghani
+  url: http://publications.europa.eu/resource/authority/currency/AFN
+  valid_from: '2003-01-01'
+- country_code: ALK
+  deprecated: 'true'
+  key: ALK
+  label_en: Lek
+  label_it: Lek
+  url: http://publications.europa.eu/resource/authority/currency/ALK
+  valid_from: '1926-01-01'
+  valid_until: '1992-12-31'
+- country_code: ALL
+  deprecated: 'false'
+  key: ALL
+  label_en: Lek
+  label_it: Lek
+  url: http://publications.europa.eu/resource/authority/currency/ALL
+  valid_from: '1993-01-01'
+- country_code: AMD
+  deprecated: 'false'
+  key: AMD
+  label_en: Dram
+  label_it: Dram
+  url: http://publications.europa.eu/resource/authority/currency/AMD
+  valid_from: '1993-11-22'
+- country_code: ANG
+  deprecated: 'false'
+  key: ANG
+  label_en: Netherlands Antillean guilder
+  label_it: Fiorino delle Antille olandesi
+  url: http://publications.europa.eu/resource/authority/currency/ANG
+  valid_from: '1990-01-01'
+- country_code: AOA
+  deprecated: 'false'
+  key: AOA
+  label_en: Kwanza
+  label_it: Kwanza
+  url: http://publications.europa.eu/resource/authority/currency/AOA
+  valid_from: '2000-01-01'
+- country_code: AON
+  deprecated: 'true'
+  key: AON
+  label_en: New Angolan kwanza
+  url: http://publications.europa.eu/resource/authority/currency/AON
+  valid_from: '1990-01-01'
+  valid_until: '1999-12-31'
+- country_code: AOR
+  deprecated: 'true'
+  key: AOR
+  label_en: Angolan kwanza readjustado
+  url: http://publications.europa.eu/resource/authority/currency/AOR
+  valid_from: '1996-01-01'
+  valid_until: '1999-12-31'
+- country_code: ARA
+  deprecated: 'true'
+  key: ARA
+  label_en: Argentine austral
+  url: http://publications.europa.eu/resource/authority/currency/ARA
+  valid_from: '1985-06-15'
+  valid_until: '1991-12-31'
+- country_code: ARL
+  deprecated: 'true'
+  key: ARL
+  label_en: Argentine peso ley
+  url: http://publications.europa.eu/resource/authority/currency/ARL
+  valid_from: '1970-01-01'
+  valid_until: '1983-05-05'
+- country_code: ARM
+  deprecated: 'true'
+  key: ARM
+  label_en: Argentine peso moneda nacional
+  url: http://publications.europa.eu/resource/authority/currency/ARM
+  valid_from: '1952-07-25'
+  valid_until: '1969-12-31'
+- country_code: ARP
+  deprecated: 'true'
+  key: ARP
+  label_en: Argentine peso argentino
+  url: http://publications.europa.eu/resource/authority/currency/ARP
+  valid_from: '1983-05-06'
+  valid_until: '1985-06-14'
+- country_code: ARS
+  deprecated: 'false'
+  key: ARS
+  label_en: Argentine peso
+  label_it: Peso argentino
+  url: http://publications.europa.eu/resource/authority/currency/ARS
+  valid_from: '1992-01-01'
+- country_code: ATS
+  deprecated: 'true'
+  key: ATS
+  label_en: Austrian schilling
+  label_it: Scellino austriaco
+  url: http://publications.europa.eu/resource/authority/currency/ATS
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: AUD
+  deprecated: 'false'
+  key: AUD
+  label_en: Australian dollar
+  label_it: Dollaro australiano
+  url: http://publications.europa.eu/resource/authority/currency/AUD
+  valid_from: '1990-01-01'
+- country_code: AWG
+  deprecated: 'false'
+  key: AWG
+  label_en: Aruban guilder
+  label_it: Fiorino di Aruba
+  url: http://publications.europa.eu/resource/authority/currency/AWG
+  valid_from: '1986-01-01'
+- country_code: AZM
+  deprecated: 'true'
+  key: AZM
+  label_en: Azerbaijani manat
+  label_it: Manat azero
+  url: http://publications.europa.eu/resource/authority/currency/AZM
+  valid_from: '1992-08-15'
+  valid_until: '2005-12-31'
+- country_code: AZN
+  deprecated: 'false'
+  key: AZN
+  label_en: Azerbaijan manat
+  label_it: Manat azero
+  url: http://publications.europa.eu/resource/authority/currency/AZN
+  valid_from: '2006-01-01'
+- country_code: BAM
+  deprecated: 'false'
+  key: BAM
+  label_en: Convertible mark
+  label_it: Marco convertibile
+  url: http://publications.europa.eu/resource/authority/currency/BAM
+  valid_from: '1995-01-01'
+- country_code: BBD
+  deprecated: 'false'
+  key: BBD
+  label_en: Barbados dollar
+  label_it: Dollaro di Barbados
+  url: http://publications.europa.eu/resource/authority/currency/BBD
+  valid_from: '1990-01-01'
+- country_code: BDT
+  deprecated: 'false'
+  key: BDT
+  label_en: Taka
+  label_it: Taka
+  url: http://publications.europa.eu/resource/authority/currency/BDT
+  valid_from: '1990-01-01'
+- country_code: BEF
+  deprecated: 'true'
+  key: BEF
+  label_en: Belgian franc
+  label_it: Franco belga
+  url: http://publications.europa.eu/resource/authority/currency/BEF
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: BGJ
+  deprecated: 'true'
+  key: BGJ
+  label_en: Lev A/52
+  url: http://publications.europa.eu/resource/authority/currency/BGJ
+  valid_from: '1947-01-01'
+  valid_until: '1951-12-31'
+- country_code: BGK
+  deprecated: 'true'
+  key: BGK
+  label_en: Lev A/62
+  url: http://publications.europa.eu/resource/authority/currency/BGK
+  valid_from: '1952-01-01'
+  valid_until: '1961-12-31'
+- country_code: BGL
+  deprecated: 'true'
+  key: BGL
+  label_en: Lev A/99
+  url: http://publications.europa.eu/resource/authority/currency/BGL
+  valid_from: '1962-01-01'
+  valid_until: '1999-07-04'
+- country_code: BGN
+  deprecated: 'false'
+  key: BGN
+  label_en: Lev
+  label_it: Lev
+  url: http://publications.europa.eu/resource/authority/currency/BGN
+  valid_from: '1999-07-05'
+- country_code: BHD
+  deprecated: 'false'
+  key: BHD
+  label_en: Bahraini dinar
+  label_it: Dinaro del Bahrein
+  url: http://publications.europa.eu/resource/authority/currency/BHD
+  valid_from: '1990-01-01'
+- country_code: BIF
+  deprecated: 'false'
+  key: BIF
+  label_en: Burundi franc
+  label_it: Franco del Burundi
+  url: http://publications.europa.eu/resource/authority/currency/BIF
+  valid_from: '1990-01-01'
+- country_code: BMD
+  deprecated: 'false'
+  key: BMD
+  label_en: Bermuda dollar
+  label_it: Dollaro delle Bermuda
+  url: http://publications.europa.eu/resource/authority/currency/BMD
+  valid_from: '1990-01-01'
+- country_code: BND
+  deprecated: 'false'
+  key: BND
+  label_en: Brunei dollar
+  label_it: Dollaro del Brunei
+  url: http://publications.europa.eu/resource/authority/currency/BND
+  valid_from: '1990-01-01'
+- country_code: BOB
+  deprecated: 'false'
+  key: BOB
+  label_en: Boliviano
+  label_it: Boliviano
+  url: http://publications.europa.eu/resource/authority/currency/BOB
+  valid_from: '1987-01-01'
+- country_code: BOP
+  deprecated: 'true'
+  key: BOP
+  label_en: Bolivian peso
+  url: http://publications.europa.eu/resource/authority/currency/BOP
+  valid_from: '1963-01-01'
+  valid_until: '1986-12-31'
+- country_code: BOV
+  deprecated: 'false'
+  key: BOV
+  label_en: Mvdol
+  label_it: Mvdol
+  url: http://publications.europa.eu/resource/authority/currency/BOV
+  valid_from: '1987-01-01'
+- country_code: BRB
+  deprecated: 'true'
+  key: BRB
+  label_en: Cruzeiro novo
+  url: http://publications.europa.eu/resource/authority/currency/BRB
+  valid_from: '1967-01-01'
+  valid_until: '1985-12-31'
+- country_code: BRC
+  deprecated: 'true'
+  key: BRC
+  label_en: Cruzado
+  url: http://publications.europa.eu/resource/authority/currency/BRC
+  valid_from: '1986-01-01'
+  valid_until: '1989-01-14'
+- country_code: BRE
+  deprecated: 'true'
+  key: BRE
+  label_en: Cruzeiro
+  url: http://publications.europa.eu/resource/authority/currency/BRE
+  valid_from: '1990-03-16'
+  valid_until: '1993-07-31'
+- country_code: BRL
+  deprecated: 'false'
+  key: BRL
+  label_en: Real
+  label_it: Real
+  url: http://publications.europa.eu/resource/authority/currency/BRL
+  valid_from: '1994-01-01'
+- country_code: BRN
+  deprecated: 'true'
+  key: BRN
+  label_en: Cruzado novo
+  url: http://publications.europa.eu/resource/authority/currency/BRN
+  valid_from: '1989-01-15'
+  valid_until: '1990-03-15'
+- country_code: BRR
+  deprecated: 'true'
+  key: BRR
+  label_en: Cruzeiro real
+  url: http://publications.europa.eu/resource/authority/currency/BRR
+  valid_from: '1993-08-01'
+  valid_until: '1993-12-31'
+- country_code: BRZ
+  deprecated: 'true'
+  key: BRZ
+  label_en: Cruzeiro
+  url: http://publications.europa.eu/resource/authority/currency/BRZ
+  valid_from: '1952-07-25'
+  valid_until: '1967-12-31'
+- country_code: BSD
+  deprecated: 'false'
+  key: BSD
+  label_en: Bahamian dollar
+  label_it: Dollaro delle Bahamas
+  url: http://publications.europa.eu/resource/authority/currency/BSD
+  valid_from: '1990-01-01'
+- country_code: BTN
+  deprecated: 'false'
+  key: BTN
+  label_en: Ngultrum
+  label_it: Ngultrum
+  url: http://publications.europa.eu/resource/authority/currency/BTN
+  valid_from: '1990-01-01'
+- country_code: BWP
+  deprecated: 'false'
+  key: BWP
+  label_en: Pula
+  label_it: Pula
+  url: http://publications.europa.eu/resource/authority/currency/BWP
+  valid_from: '1990-01-01'
+- country_code: BYN
+  deprecated: 'false'
+  key: BYN
+  label_en: Belarusian rouble
+  label_it: Rublo bielorusso
+  url: http://publications.europa.eu/resource/authority/currency/BYN
+  valid_from: '2016-07-01'
+- country_code: BYR
+  deprecated: 'true'
+  key: BYR
+  label_en: Belarusian rouble
+  label_it: Rublo bielorusso
+  url: http://publications.europa.eu/resource/authority/currency/BYR
+  valid_from: '1992-05-01'
+  valid_until: '2016-12-31'
+- country_code: BZD
+  deprecated: 'false'
+  key: BZD
+  label_en: Belize dollar
+  label_it: Dollaro del Belize
+  url: http://publications.europa.eu/resource/authority/currency/BZD
+  valid_from: '1990-01-01'
+- country_code: CAD
+  deprecated: 'false'
+  key: CAD
+  label_en: Canadian dollar
+  label_it: Dollaro canadese
+  url: http://publications.europa.eu/resource/authority/currency/CAD
+  valid_from: '1950-01-01'
+- country_code: CDF
+  deprecated: 'false'
+  key: CDF
+  label_en: Congolese franc
+  label_it: Franco congolese
+  url: http://publications.europa.eu/resource/authority/currency/CDF
+  valid_from: '1998-01-01'
+- country_code: CHE
+  deprecated: 'false'
+  key: CHE
+  label_en: WIR Euro
+  label_it: WIR Euro
+  url: http://publications.europa.eu/resource/authority/currency/CHE
+  valid_from: '2001-01-01'
+- country_code: CHF
+  deprecated: 'false'
+  key: CHF
+  label_en: Swiss franc
+  label_it: Franco svizzero
+  url: http://publications.europa.eu/resource/authority/currency/CHF
+  valid_from: '1990-01-01'
+- country_code: CHW
+  deprecated: 'false'
+  key: CHW
+  label_en: WIR Franc
+  label_it: WIR Franc
+  url: http://publications.europa.eu/resource/authority/currency/CHW
+  valid_from: '1934-01-01'
+- country_code: CLE
+  deprecated: 'true'
+  key: CLE
+  label_en: Chilean escudo
+  url: http://publications.europa.eu/resource/authority/currency/CLE
+  valid_from: '1960-01-01'
+  valid_until: '1975-09-29'
+- country_code: CLF
+  deprecated: 'false'
+  key: CLF
+  label_en: Unidad de Fomento
+  label_it: Unidad de Fomento
+  url: http://publications.europa.eu/resource/authority/currency/CLF
+  valid_from: '1967-01-20'
+- country_code: CLP
+  deprecated: 'false'
+  key: CLP
+  label_en: Chilean peso
+  label_it: Peso cileno
+  url: http://publications.europa.eu/resource/authority/currency/CLP
+  valid_from: '1975-09-30'
+- country_code: CNY
+  deprecated: 'false'
+  key: CNY
+  label_en: Renminbi-yuan
+  label_it: Renminbi-yuan
+  url: http://publications.europa.eu/resource/authority/currency/CNY
+  valid_from: '1990-01-01'
+- country_code: COP
+  deprecated: 'false'
+  key: COP
+  label_en: Colombian peso
+  label_it: Peso colombiano
+  url: http://publications.europa.eu/resource/authority/currency/COP
+  valid_from: '1990-01-01'
+- country_code: COU
+  deprecated: 'false'
+  key: COU
+  label_en: Unidad de Valor Real
+  label_it: Unidad de Valor Real
+  url: http://publications.europa.eu/resource/authority/currency/COU
+  valid_from: '2000-01-01'
+- country_code: CRC
+  deprecated: 'false'
+  key: CRC
+  label_en: Costa Rican colon
+  label_it: "Col\xF3n costaricano"
+  url: http://publications.europa.eu/resource/authority/currency/CRC
+  valid_from: '1990-01-01'
+- country_code: CSJ
+  deprecated: 'true'
+  key: CSJ
+  label_en: Czechoslovak koruna
+  url: http://publications.europa.eu/resource/authority/currency/CSJ
+  valid_from: '1945-01-01'
+  valid_until: '1953-12-31'
+- country_code: CSK
+  deprecated: 'true'
+  key: CSK
+  label_en: Czechoslovak koruna
+  url: http://publications.europa.eu/resource/authority/currency/CSK
+  valid_from: '1954-01-01'
+  valid_until: '1993-02-07'
+- country_code: CUC
+  deprecated: 'false'
+  key: CUC
+  label_en: Convertible peso
+  label_it: Peso convertibile
+  url: http://publications.europa.eu/resource/authority/currency/CUC
+  valid_from: '1990-01-01'
+- country_code: CUP
+  deprecated: 'false'
+  key: CUP
+  label_en: Cuban peso
+  label_it: Peso cubano
+  url: http://publications.europa.eu/resource/authority/currency/CUP
+  valid_from: '1990-01-01'
+- country_code: CVE
+  deprecated: 'false'
+  key: CVE
+  label_en: Cabo Verde escudo
+  label_it: Escudo capoverdiano
+  url: http://publications.europa.eu/resource/authority/currency/CVE
+  valid_from: '1990-01-01'
+- country_code: CYP
+  deprecated: 'true'
+  key: CYP
+  label_en: Cypriot pound
+  label_it: Lira sterlina cipriota
+  url: http://publications.europa.eu/resource/authority/currency/CYP
+  valid_from: '1952-07-25'
+  valid_until: '2007-12-31'
+- country_code: CZK
+  deprecated: 'false'
+  key: CZK
+  label_en: Czech koruna
+  label_it: Corona ceca
+  url: http://publications.europa.eu/resource/authority/currency/CZK
+  valid_from: '1993-02-08'
+- country_code: DDM
+  deprecated: 'true'
+  key: DDM
+  label_en: East-German Mark
+  url: http://publications.europa.eu/resource/authority/currency/DDM
+  valid_from: '1948-06-21'
+  valid_until: '1990-07-01'
+- country_code: DEM
+  deprecated: 'true'
+  key: DEM
+  label_en: German mark
+  label_it: Marco tedesco
+  url: http://publications.europa.eu/resource/authority/currency/DEM
+  valid_from: '1952-07-25'
+  valid_until: '2001-12-31'
+- country_code: DJF
+  deprecated: 'false'
+  key: DJF
+  label_en: Djibouti franc
+  label_it: Franco di Gibuti
+  url: http://publications.europa.eu/resource/authority/currency/DJF
+  valid_from: '1990-01-01'
+- country_code: DKK
+  deprecated: 'false'
+  key: DKK
+  label_en: Danish krone
+  label_it: Corona danese
+  url: http://publications.europa.eu/resource/authority/currency/DKK
+  valid_from: '1990-01-01'
+- country_code: DOP
+  deprecated: 'false'
+  key: DOP
+  label_en: Dominican peso
+  label_it: Peso dominicano
+  url: http://publications.europa.eu/resource/authority/currency/DOP
+  valid_from: '1990-01-01'
+- country_code: DZD
+  deprecated: 'false'
+  key: DZD
+  label_en: Algerian dinar
+  label_it: Dinar algerino
+  url: http://publications.europa.eu/resource/authority/currency/DZD
+  valid_from: '1990-01-01'
+- country_code: ECS
+  deprecated: 'true'
+  key: ECS
+  label_en: Ecuadorian sucre
+  url: http://publications.europa.eu/resource/authority/currency/ECS
+  valid_from: '1952-07-25'
+  valid_until: '2000-12-31'
+- country_code: EEK
+  deprecated: 'true'
+  key: EEK
+  label_en: Estonian kroon
+  label_it: Corona estone
+  url: http://publications.europa.eu/resource/authority/currency/EEK
+  valid_from: '1992-06-20'
+  valid_until: '2010-12-31'
+- country_code: EGP
+  deprecated: 'false'
+  key: EGP
+  label_en: Egyptian pound
+  label_it: Lira egiziana
+  url: http://publications.europa.eu/resource/authority/currency/EGP
+  valid_from: '1990-01-01'
+- country_code: ERN
+  deprecated: 'false'
+  key: ERN
+  label_en: Nakfa
+  label_it: Nakfa
+  url: http://publications.europa.eu/resource/authority/currency/ERN
+  valid_from: '1997-11-08'
+- country_code: ESP
+  deprecated: 'true'
+  key: ESP
+  label_en: Peseta
+  label_it: Peseta
+  url: http://publications.europa.eu/resource/authority/currency/ESP
+  valid_from: '1952-07-25'
+  valid_until: '1998-12-31'
+- country_code: ETB
+  deprecated: 'false'
+  key: ETB
+  label_en: Birr
+  label_it: Birr
+  url: http://publications.europa.eu/resource/authority/currency/ETB
+  valid_from: '1990-01-01'
+- country_code: EUR
+  deprecated: 'false'
+  key: EUR
+  label_en: Euro
+  label_it: Euro
+  url: http://publications.europa.eu/resource/authority/currency/EUR
+  valid_from: '1999-01-01'
+- country_code: FIM
+  deprecated: 'true'
+  key: FIM
+  label_en: Finnish markka
+  label_it: Marco finlandese
+  url: http://publications.europa.eu/resource/authority/currency/FIM
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: FJD
+  deprecated: 'false'
+  key: FJD
+  label_en: Fiji dollar
+  label_it: Dollaro delle Figi
+  url: http://publications.europa.eu/resource/authority/currency/FJD
+  valid_from: '1990-01-01'
+- country_code: FKP
+  deprecated: 'false'
+  key: FKP
+  label_en: Falkland Islands pound
+  label_it: Sterlina delle Falkland
+  url: http://publications.europa.eu/resource/authority/currency/FKP
+  valid_from: '1990-01-01'
+- country_code: FRF
+  deprecated: 'true'
+  key: FRF
+  label_en: French franc
+  label_it: Franco francese
+  url: http://publications.europa.eu/resource/authority/currency/FRF
+  valid_from: '1960-01-01'
+  valid_until: '1999-01-01'
+- country_code: GBP
+  deprecated: 'false'
+  key: GBP
+  label_en: Pound sterling
+  label_it: Lira sterlina
+  url: http://publications.europa.eu/resource/authority/currency/GBP
+  valid_from: '1990-01-01'
+- country_code: GEL
+  deprecated: 'false'
+  key: GEL
+  label_en: Lari
+  label_it: Lari
+  url: http://publications.europa.eu/resource/authority/currency/GEL
+  valid_from: '1994-04-05'
+- country_code: GHC
+  deprecated: 'true'
+  key: GHC
+  label_en: Cedi
+  label_it: Cedi
+  url: http://publications.europa.eu/resource/authority/currency/GHC
+  valid_from: '1967-01-01'
+  valid_until: '2006-06-30'
+- country_code: GHS
+  deprecated: 'false'
+  key: GHS
+  label_en: Ghana cedi
+  label_it: Cedi ghanese
+  url: http://publications.europa.eu/resource/authority/currency/GHS
+  valid_from: '2007-07-01'
+- country_code: GIP
+  deprecated: 'false'
+  key: GIP
+  label_en: Gibraltar pound
+  label_it: Sterlina di Gibilterra
+  url: http://publications.europa.eu/resource/authority/currency/GIP
+  valid_from: '1990-01-01'
+- country_code: GMD
+  deprecated: 'false'
+  key: GMD
+  label_en: Dalasi
+  label_it: Dalasi
+  url: http://publications.europa.eu/resource/authority/currency/GMD
+  valid_from: '1990-01-01'
+- country_code: GNE
+  deprecated: 'true'
+  key: GNE
+  label_en: Syli
+  url: http://publications.europa.eu/resource/authority/currency/GNE
+  valid_from: '1971-12-01'
+  valid_until: '1985-12-31'
+- country_code: GNF
+  deprecated: 'false'
+  key: GNF
+  label_en: Guinean franc
+  label_it: Franco della Guinea
+  url: http://publications.europa.eu/resource/authority/currency/GNF
+  valid_from: '1986-01-01'
+- country_code: GQE
+  deprecated: 'true'
+  key: GQE
+  label_en: Ekwele
+  url: http://publications.europa.eu/resource/authority/currency/GQE
+  valid_from: '1975-01-01'
+  valid_until: '1985-12-31'
+- country_code: GRD
+  deprecated: 'true'
+  key: GRD
+  label_en: Drachma
+  label_it: Dracma
+  url: http://publications.europa.eu/resource/authority/currency/GRD
+  valid_from: '1964-01-01'
+  valid_until: '2000-12-31'
+- country_code: GTQ
+  deprecated: 'false'
+  key: GTQ
+  label_en: Quetzal
+  label_it: Quetzal
+  url: http://publications.europa.eu/resource/authority/currency/GTQ
+  valid_from: '1990-01-01'
+- country_code: GWP
+  deprecated: 'true'
+  key: GWP
+  label_en: Guinea-Bissau peso
+  url: http://publications.europa.eu/resource/authority/currency/GWP
+  valid_from: '1975-01-01'
+  valid_until: '1997-12-31'
+- country_code: GYD
+  deprecated: 'false'
+  key: GYD
+  label_en: Guyana dollar
+  label_it: Dollaro della Guyana
+  url: http://publications.europa.eu/resource/authority/currency/GYD
+  valid_from: '1990-01-01'
+- country_code: HKD
+  deprecated: 'false'
+  key: HKD
+  label_en: Hong Kong dollar
+  label_it: Dollaro di Hong Kong
+  url: http://publications.europa.eu/resource/authority/currency/HKD
+  valid_from: '1990-01-01'
+- country_code: HNL
+  deprecated: 'false'
+  key: HNL
+  label_en: Lempira
+  label_it: Lempira
+  url: http://publications.europa.eu/resource/authority/currency/HNL
+  valid_from: '1990-01-01'
+- country_code: HRK
+  deprecated: 'false'
+  key: HRK
+  label_en: Kuna
+  label_it: Kuna
+  url: http://publications.europa.eu/resource/authority/currency/HRK
+  valid_from: '1994-05-30'
+- country_code: HTG
+  deprecated: 'false'
+  key: HTG
+  label_en: Gourde
+  label_it: Gourde
+  url: http://publications.europa.eu/resource/authority/currency/HTG
+  valid_from: '1990-01-01'
+- country_code: HUF
+  deprecated: 'false'
+  key: HUF
+  label_en: Forint
+  label_it: Fiorino ungherese
+  url: http://publications.europa.eu/resource/authority/currency/HUF
+  valid_from: '1949-08-18'
+- country_code: IDR
+  deprecated: 'false'
+  key: IDR
+  label_en: Rupiah
+  label_it: Rupia
+  url: http://publications.europa.eu/resource/authority/currency/IDR
+  valid_from: '1990-01-01'
+- country_code: IEP
+  deprecated: 'true'
+  key: IEP
+  label_en: Irish pound
+  label_it: Sterlina irlandese
+  url: http://publications.europa.eu/resource/authority/currency/IEP
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: ILP
+  deprecated: 'true'
+  key: ILP
+  label_en: Israeli lira
+  url: http://publications.europa.eu/resource/authority/currency/ILP
+  valid_from: '1948-01-01'
+  valid_until: '1980-02-23'
+- country_code: ILR
+  deprecated: 'true'
+  key: ILR
+  label_en: Shekel
+  label_it: Shekel
+  url: http://publications.europa.eu/resource/authority/currency/ILR
+  valid_from: '1980-02-24'
+  valid_until: '1985-12-31'
+- country_code: ILS
+  deprecated: 'false'
+  key: ILS
+  label_en: Shekel
+  label_it: Shekel
+  url: http://publications.europa.eu/resource/authority/currency/ILS
+  valid_from: '1986-01-01'
+- country_code: INR
+  deprecated: 'false'
+  key: INR
+  label_en: Indian rupee
+  label_it: Rupia indiana
+  url: http://publications.europa.eu/resource/authority/currency/INR
+  valid_from: '1990-01-01'
+- country_code: IQD
+  deprecated: 'false'
+  key: IQD
+  label_en: Iraqi dinar
+  label_it: Dinaro iracheno
+  url: http://publications.europa.eu/resource/authority/currency/IQD
+  valid_from: '1990-01-01'
+- country_code: IRR
+  deprecated: 'false'
+  key: IRR
+  label_en: Iranian rial
+  label_it: Rial iraniano
+  url: http://publications.europa.eu/resource/authority/currency/IRR
+  valid_from: '1990-01-01'
+- country_code: ISJ
+  deprecated: 'true'
+  key: ISJ
+  label_en: "Icelandic old kr\xF3na"
+  url: http://publications.europa.eu/resource/authority/currency/ISJ
+  valid_from: '1918-01-01'
+  valid_until: '1981-12-31'
+- country_code: ISK
+  deprecated: 'false'
+  key: ISK
+  label_en: "Iceland kr\xF3na"
+  label_it: Corona islandese
+  url: http://publications.europa.eu/resource/authority/currency/ISK
+  valid_from: '1982-01-01'
+- country_code: ITL
+  deprecated: 'true'
+  key: ITL
+  label_en: Italian lira
+  label_it: Lira italiana
+  url: http://publications.europa.eu/resource/authority/currency/ITL
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: JMD
+  deprecated: 'false'
+  key: JMD
+  label_en: Jamaica dollar
+  label_it: Dollaro giamaicano
+  url: http://publications.europa.eu/resource/authority/currency/JMD
+  valid_from: '1990-01-01'
+- country_code: JOD
+  deprecated: 'false'
+  key: JOD
+  label_en: Jordanian dinar
+  label_it: Dinaro giordano
+  url: http://publications.europa.eu/resource/authority/currency/JOD
+  valid_from: '1990-01-01'
+- country_code: JPY
+  deprecated: 'false'
+  key: JPY
+  label_en: Yen
+  label_it: Yen
+  url: http://publications.europa.eu/resource/authority/currency/JPY
+  valid_from: '1990-01-01'
+- country_code: KES
+  deprecated: 'false'
+  key: KES
+  label_en: Kenyan shilling
+  label_it: Scellino del Kenya
+  url: http://publications.europa.eu/resource/authority/currency/KES
+  valid_from: '1990-01-01'
+- country_code: KGS
+  deprecated: 'false'
+  key: KGS
+  label_en: Som
+  label_it: Som
+  url: http://publications.europa.eu/resource/authority/currency/KGS
+  valid_from: '1993-05-10'
+- country_code: KHR
+  deprecated: 'false'
+  key: KHR
+  label_en: Riel
+  label_it: Riel
+  url: http://publications.europa.eu/resource/authority/currency/KHR
+  valid_from: '1990-01-01'
+- country_code: KMF
+  deprecated: 'false'
+  key: KMF
+  label_en: Comorian franc
+  label_it: Franco comoriano
+  url: http://publications.europa.eu/resource/authority/currency/KMF
+  valid_from: '1990-01-01'
+- country_code: KPW
+  deprecated: 'false'
+  key: KPW
+  label_en: North Korean won
+  label_it: Won nordcoreano
+  url: http://publications.europa.eu/resource/authority/currency/KPW
+  valid_from: '1990-01-01'
+- country_code: KRW
+  deprecated: 'false'
+  key: KRW
+  label_en: South Korean won
+  label_it: Won sudcoreano
+  url: http://publications.europa.eu/resource/authority/currency/KRW
+  valid_from: '1990-01-01'
+- country_code: KWD
+  deprecated: 'false'
+  key: KWD
+  label_en: Kuwaiti dinar
+  label_it: Dinaro kuwaitiano
+  url: http://publications.europa.eu/resource/authority/currency/KWD
+  valid_from: '1990-01-01'
+- country_code: KYD
+  deprecated: 'false'
+  key: KYD
+  label_en: Cayman Islands dollar
+  label_it: Dollaro delle isole Cayman
+  url: http://publications.europa.eu/resource/authority/currency/KYD
+  valid_from: '1990-01-01'
+- country_code: KZT
+  deprecated: 'false'
+  key: KZT
+  label_en: Tenge
+  label_it: Tenge
+  url: http://publications.europa.eu/resource/authority/currency/KZT
+  valid_from: '1993-11-15'
+- country_code: LAJ
+  deprecated: 'true'
+  key: LAJ
+  label_en: Kip
+  label_it: Kip
+  url: http://publications.europa.eu/resource/authority/currency/LAJ
+  valid_from: '1976-01-01'
+  valid_until: '1979-12-16'
+- country_code: LAK
+  deprecated: 'false'
+  key: LAK
+  label_en: Kip
+  label_it: Kip
+  url: http://publications.europa.eu/resource/authority/currency/LAK
+  valid_from: '1979-12-17'
+- country_code: LBP
+  deprecated: 'false'
+  key: LBP
+  label_en: Lebanese pound
+  label_it: Lira libanese
+  url: http://publications.europa.eu/resource/authority/currency/LBP
+  valid_from: '1990-01-01'
+- country_code: LKR
+  deprecated: 'false'
+  key: LKR
+  label_en: Sri Lankan rupee
+  label_it: Rupia di Sri Lanka
+  url: http://publications.europa.eu/resource/authority/currency/LKR
+  valid_from: '1990-01-01'
+- country_code: LRD
+  deprecated: 'false'
+  key: LRD
+  label_en: Liberian dollar
+  label_it: Dollaro liberiano
+  url: http://publications.europa.eu/resource/authority/currency/LRD
+  valid_from: '1990-01-01'
+- country_code: LSL
+  deprecated: 'false'
+  key: LSL
+  label_en: Loti
+  label_it: Loti
+  url: http://publications.europa.eu/resource/authority/currency/LSL
+  valid_from: '1990-01-01'
+- country_code: LTL
+  deprecated: 'true'
+  key: LTL
+  label_en: Litas
+  label_it: Litas
+  url: http://publications.europa.eu/resource/authority/currency/LTL
+  valid_from: '1993-06-25'
+  valid_until: '2014-12-31'
+- country_code: LUF
+  deprecated: 'true'
+  key: LUF
+  label_en: Luxembourg franc
+  label_it: Franco lussemburghese
+  url: http://publications.europa.eu/resource/authority/currency/LUF
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: LVL
+  deprecated: 'true'
+  key: LVL
+  label_en: Lats
+  label_it: Lats
+  url: http://publications.europa.eu/resource/authority/currency/LVL
+  valid_from: '1993-01-01'
+  valid_until: '2013-12-31'
+- country_code: LYD
+  deprecated: 'false'
+  key: LYD
+  label_en: Libyan dinar
+  label_it: Dinaro libico
+  url: http://publications.europa.eu/resource/authority/currency/LYD
+  valid_from: '1990-01-01'
+- country_code: MAD
+  deprecated: 'false'
+  key: MAD
+  label_en: Moroccan dirham
+  label_it: Dirham marocchino
+  url: http://publications.europa.eu/resource/authority/currency/MAD
+  valid_from: '1960-01-01'
+- country_code: MCF
+  deprecated: 'true'
+  key: MCF
+  label_en: Monegasque franc
+  url: http://publications.europa.eu/resource/authority/currency/MCF
+  valid_from: '1960-01-01'
+  valid_until: '1999-01-01'
+- country_code: MDL
+  deprecated: 'false'
+  key: MDL
+  label_en: Moldovan leu
+  label_it: Leu moldovo
+  url: http://publications.europa.eu/resource/authority/currency/MDL
+  valid_from: '1993-11-29'
+- country_code: MGA
+  deprecated: 'false'
+  key: MGA
+  label_en: Ariary
+  label_it: Ariary
+  url: http://publications.europa.eu/resource/authority/currency/MGA
+  valid_from: '2005-01-01'
+- country_code: MGF
+  deprecated: 'true'
+  key: MGF
+  label_en: Malagasy franc
+  url: http://publications.europa.eu/resource/authority/currency/MGF
+  valid_from: '1963-07-01'
+  valid_until: '2004-12-31'
+- country_code: MKD
+  deprecated: 'false'
+  key: MKD
+  label_en: Denar
+  label_it: Denar
+  url: http://publications.europa.eu/resource/authority/currency/MKD
+  valid_from: '1994-01-01'
+- country_code: MKN
+  deprecated: 'true'
+  key: MKN
+  label_en: Denar A/93
+  url: http://publications.europa.eu/resource/authority/currency/MKN
+  valid_from: '1990-01-01'
+  valid_until: '1993-12-31'
+- country_code: MLF
+  deprecated: 'true'
+  key: MLF
+  label_en: Mali franc
+  url: http://publications.europa.eu/resource/authority/currency/MLF
+  valid_from: '1962-01-01'
+  valid_until: '1984-11-30'
+- country_code: MMK
+  deprecated: 'false'
+  key: MMK
+  label_en: Kyat
+  label_it: Kyat
+  url: http://publications.europa.eu/resource/authority/currency/MMK
+  valid_from: '1990-01-01'
+- country_code: MNT
+  deprecated: 'false'
+  key: MNT
+  label_en: Tugrik
+  label_it: Tughrik
+  url: http://publications.europa.eu/resource/authority/currency/MNT
+  valid_from: '1990-01-01'
+- country_code: MOP
+  deprecated: 'false'
+  key: MOP
+  label_en: Pataca
+  label_it: Pataca
+  url: http://publications.europa.eu/resource/authority/currency/MOP
+  valid_from: '1952-06-16'
+- country_code: MRO
+  deprecated: 'true'
+  key: MRO
+  label_en: Ouguiya
+  label_it: Ouguiya
+  url: http://publications.europa.eu/resource/authority/currency/MRO
+  valid_from: '1990-01-01'
+  valid_until: '2018-06-30'
+- country_code: MRU
+  deprecated: 'false'
+  key: MRU
+  label_en: Ouguiya
+  label_it: Ouguiya
+  url: http://publications.europa.eu/resource/authority/currency/MRU
+  valid_from: '2018-01-01'
+- country_code: MTL
+  deprecated: 'true'
+  key: MTL
+  label_en: Maltese lira
+  label_it: Lira maltese
+  url: http://publications.europa.eu/resource/authority/currency/MTL
+  valid_from: '1972-01-01'
+  valid_until: '2007-12-31'
+- country_code: MTP
+  deprecated: 'true'
+  key: MTP
+  label_en: Maltese pound
+  url: http://publications.europa.eu/resource/authority/currency/MTP
+  valid_from: '1952-07-25'
+  valid_until: '1971-12-31'
+- country_code: MUR
+  deprecated: 'false'
+  key: MUR
+  label_en: Mauritian rupee
+  label_it: Rupia mauriziana
+  url: http://publications.europa.eu/resource/authority/currency/MUR
+  valid_from: '1990-01-01'
+- country_code: MVQ
+  deprecated: 'true'
+  key: MVQ
+  label_en: Maldive rupee
+  url: http://publications.europa.eu/resource/authority/currency/MVQ
+  valid_from: '1961-02-01'
+  valid_until: '1983-01-21'
+- country_code: MVR
+  deprecated: 'false'
+  key: MVR
+  label_en: Rufiyaa
+  label_it: Rupia maldiviana
+  url: http://publications.europa.eu/resource/authority/currency/MVR
+  valid_from: '1983-01-22'
+- country_code: MWK
+  deprecated: 'false'
+  key: MWK
+  label_en: Malawian kwacha
+  label_it: Kwacha del Malawi
+  url: http://publications.europa.eu/resource/authority/currency/MWK
+  valid_from: '1990-01-01'
+- country_code: MXN
+  deprecated: 'false'
+  key: MXN
+  label_en: Mexican peso
+  label_it: Peso messicano
+  url: http://publications.europa.eu/resource/authority/currency/MXN
+  valid_from: '1994-01-01'
+- country_code: MXP
+  deprecated: 'true'
+  key: MXP
+  label_en: Mexican peso
+  label_it: Peso messicano
+  url: http://publications.europa.eu/resource/authority/currency/MXP
+  valid_from: '1990-01-01'
+  valid_until: '1993-12-31'
+- country_code: MXV
+  deprecated: 'false'
+  key: MXV
+  label_en: Mexican Unidad de Inversion
+  label_it: Unidad de Inversion messicana
+  url: http://publications.europa.eu/resource/authority/currency/MXV
+  valid_from: '1995-01-01'
+- country_code: MYR
+  deprecated: 'false'
+  key: MYR
+  label_en: Ringgit
+  label_it: Ringgit
+  url: http://publications.europa.eu/resource/authority/currency/MYR
+  valid_from: '1990-01-01'
+- country_code: MZM
+  deprecated: 'true'
+  key: MZM
+  label_en: Metical
+  url: http://publications.europa.eu/resource/authority/currency/MZM
+  valid_from: '1980-01-01'
+  valid_until: '2006-06-30'
+- country_code: MZN
+  deprecated: 'false'
+  key: MZN
+  label_en: Metical
+  label_it: Metical
+  url: http://publications.europa.eu/resource/authority/currency/MZN
+  valid_from: '2006-07-01'
+- country_code: NAD
+  deprecated: 'false'
+  key: NAD
+  label_en: Namibian dollar
+  label_it: Dollaro namibiano
+  url: http://publications.europa.eu/resource/authority/currency/NAD
+  valid_from: '1991-04-30'
+- country_code: NFD
+  deprecated: 'true'
+  key: NFD
+  label_en: Newfoundland dollar
+  url: http://publications.europa.eu/resource/authority/currency/NFD
+  valid_from: '1865-01-01'
+  valid_until: '1949-12-31'
+- country_code: NGN
+  deprecated: 'false'
+  key: NGN
+  label_en: Naira
+  label_it: Naira
+  url: http://publications.europa.eu/resource/authority/currency/NGN
+  valid_from: '1990-01-01'
+- country_code: NIO
+  deprecated: 'false'
+  key: NIO
+  label_en: "C\xF3rdoba oro"
+  label_it: "C\xF3rdoba oro"
+  url: http://publications.europa.eu/resource/authority/currency/NIO
+  valid_from: '1990-01-01'
+- country_code: NLG
+  deprecated: 'true'
+  key: NLG
+  label_en: Netherlands guilder
+  label_it: Fiorino olandese
+  url: http://publications.europa.eu/resource/authority/currency/NLG
+  valid_from: '1952-07-25'
+  valid_until: '1998-12-31'
+- country_code: NOK
+  deprecated: 'false'
+  key: NOK
+  label_en: Norwegian krone
+  label_it: Corona norvegese
+  url: http://publications.europa.eu/resource/authority/currency/NOK
+  valid_from: '1990-01-01'
+- country_code: NPR
+  deprecated: 'false'
+  key: NPR
+  label_en: Nepalese rupee
+  label_it: Rupia nepalese
+  url: http://publications.europa.eu/resource/authority/currency/NPR
+  valid_from: '1990-01-01'
+- country_code: NZD
+  deprecated: 'false'
+  key: NZD
+  label_en: New Zealand dollar
+  label_it: Dollaro neozelandese
+  url: http://publications.europa.eu/resource/authority/currency/NZD
+  valid_from: '1990-01-01'
+- country_code: OMR
+  deprecated: 'false'
+  key: OMR
+  label_en: Omani rial
+  label_it: Rial omanita
+  url: http://publications.europa.eu/resource/authority/currency/OMR
+  valid_from: '1990-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/currency/OP_DATPRO
+- country_code: PAB
+  deprecated: 'false'
+  key: PAB
+  label_en: Balboa
+  label_it: Balboa
+  url: http://publications.europa.eu/resource/authority/currency/PAB
+  valid_from: '1990-01-01'
+- country_code: PEH
+  deprecated: 'true'
+  key: PEH
+  label_en: Sol
+  label_it: Sol
+  url: http://publications.europa.eu/resource/authority/currency/PEH
+  valid_from: '1952-07-25'
+  valid_until: '1985-01-31'
+- country_code: PEI
+  deprecated: 'true'
+  key: PEI
+  label_en: Inti
+  url: http://publications.europa.eu/resource/authority/currency/PEI
+  valid_from: '1985-02-01'
+  valid_until: '1991-12-31'
+- country_code: PEN
+  deprecated: 'false'
+  key: PEN
+  label_en: Sol
+  label_it: Sol
+  url: http://publications.europa.eu/resource/authority/currency/PEN
+  valid_from: '2015-12-15'
+- country_code: PGK
+  deprecated: 'false'
+  key: PGK
+  label_en: Kina
+  label_it: Kina
+  url: http://publications.europa.eu/resource/authority/currency/PGK
+  valid_from: '1990-01-01'
+- country_code: PHP
+  deprecated: 'false'
+  key: PHP
+  label_en: Philippine peso
+  label_it: Peso filippino
+  url: http://publications.europa.eu/resource/authority/currency/PHP
+  valid_from: '1990-01-01'
+- country_code: PKR
+  deprecated: 'false'
+  key: PKR
+  label_en: Pakistani rupee
+  label_it: Rupia pakistana
+  url: http://publications.europa.eu/resource/authority/currency/PKR
+  valid_from: '1990-01-01'
+- country_code: PLN
+  deprecated: 'false'
+  key: PLN
+  label_en: Zloty
+  label_it: Zloty
+  url: http://publications.europa.eu/resource/authority/currency/PLN
+  valid_from: '1995-01-01'
+- country_code: PLZ
+  deprecated: 'true'
+  key: PLZ
+  label_en: Zloty A/94
+  url: http://publications.europa.eu/resource/authority/currency/PLZ
+  valid_from: '1950-01-01'
+  valid_until: '1994-12-31'
+- country_code: PTE
+  deprecated: 'true'
+  key: PTE
+  label_en: Portuguese escudo
+  label_it: Escudo portoghese
+  url: http://publications.europa.eu/resource/authority/currency/PTE
+  valid_from: '1911-05-22'
+  valid_until: '1999-01-01'
+- country_code: PYG
+  deprecated: 'false'
+  key: PYG
+  label_en: "Guaran\xED"
+  label_it: Guarani
+  url: http://publications.europa.eu/resource/authority/currency/PYG
+  valid_from: '1990-01-01'
+- country_code: QAR
+  deprecated: 'false'
+  key: QAR
+  label_en: Qatari rial
+  label_it: Rial qatariano
+  url: http://publications.europa.eu/resource/authority/currency/QAR
+  valid_from: '1990-01-01'
+- country_code: ROL
+  deprecated: 'true'
+  key: ROL
+  label_en: Romanian leu A/05
+  url: http://publications.europa.eu/resource/authority/currency/ROL
+  valid_from: '1952-01-28'
+  valid_until: '2005-06-30'
+- country_code: RON
+  deprecated: 'false'
+  key: RON
+  label_en: Romanian leu
+  label_it: Leu rumeno
+  url: http://publications.europa.eu/resource/authority/currency/RON
+  valid_from: '2005-07-01'
+- country_code: RSD
+  deprecated: 'false'
+  key: RSD
+  label_en: Serbian dinar
+  label_it: Dinaro serbo
+  url: http://publications.europa.eu/resource/authority/currency/RSD
+  valid_from: '2006-10-27'
+- country_code: RUB
+  deprecated: 'false'
+  key: RUB
+  label_en: Russian rouble
+  label_it: Rublo russo
+  url: http://publications.europa.eu/resource/authority/currency/RUB
+  valid_from: '1998-01-01'
+- country_code: RUR
+  deprecated: 'true'
+  key: RUR
+  label_en: Russian rouble A/97
+  url: http://publications.europa.eu/resource/authority/currency/RUR
+  valid_from: '1992-01-01'
+  valid_until: '1997-12-31'
+- country_code: RWF
+  deprecated: 'false'
+  key: RWF
+  label_en: Rwandese franc
+  label_it: Franco ruandese
+  url: http://publications.europa.eu/resource/authority/currency/RWF
+  valid_from: '1990-01-01'
+- country_code: SAR
+  deprecated: 'false'
+  key: SAR
+  label_en: Saudi riyal
+  label_it: Riyal saudita
+  url: http://publications.europa.eu/resource/authority/currency/SAR
+  valid_from: '1990-01-01'
+- country_code: SBD
+  deprecated: 'false'
+  key: SBD
+  label_en: Solomon Islands dollar
+  label_it: Dollaro delle Isole Salomone
+  url: http://publications.europa.eu/resource/authority/currency/SBD
+  valid_from: '1990-01-01'
+- country_code: SCR
+  deprecated: 'false'
+  key: SCR
+  label_en: Seychelles rupee
+  label_it: Rupia delle Seychelles
+  url: http://publications.europa.eu/resource/authority/currency/SCR
+  valid_from: '1990-01-01'
+- country_code: SDD
+  deprecated: 'true'
+  key: SDD
+  label_en: Sudanese dinar
+  url: http://publications.europa.eu/resource/authority/currency/SDD
+  valid_from: '1992-06-08'
+  valid_until: '2007-01-10'
+- country_code: SDG
+  deprecated: 'false'
+  key: SDG
+  label_en: Sudanese pound
+  label_it: Sterlina sudanese
+  url: http://publications.europa.eu/resource/authority/currency/SDG
+  valid_from: '2008-01-01'
+- country_code: SEK
+  deprecated: 'false'
+  key: SEK
+  label_en: Swedish krona
+  label_it: Corona svedese
+  url: http://publications.europa.eu/resource/authority/currency/SEK
+  valid_from: '1990-01-01'
+- country_code: SGD
+  deprecated: 'false'
+  key: SGD
+  label_en: Singapore dollar
+  label_it: Dollaro di Singapore
+  url: http://publications.europa.eu/resource/authority/currency/SGD
+  valid_from: '1990-01-01'
+- country_code: SHP
+  deprecated: 'false'
+  key: SHP
+  label_en: Saint Helena pound
+  label_it: "Sterlina di Sant\u2019Elena"
+  url: http://publications.europa.eu/resource/authority/currency/SHP
+  valid_from: '1990-01-01'
+- country_code: SIT
+  deprecated: 'true'
+  key: SIT
+  label_en: Slovenian tolar
+  label_it: "T\xE0llero"
+  url: http://publications.europa.eu/resource/authority/currency/SIT
+  valid_from: '1991-10-08'
+  valid_until: '2007-01-01'
+- country_code: SKK
+  deprecated: 'true'
+  key: SKK
+  label_en: Slovak koruna
+  label_it: Corona slovacca
+  url: http://publications.europa.eu/resource/authority/currency/SKK
+  valid_from: '1993-02-08'
+  valid_until: '2009-01-01'
+- country_code: SLL
+  deprecated: 'false'
+  key: SLL
+  label_en: Leone
+  label_it: Leone
+  url: http://publications.europa.eu/resource/authority/currency/SLL
+  valid_from: '1990-01-01'
+- country_code: SML
+  deprecated: 'true'
+  key: SML
+  label_en: San Marinese lira
+  url: http://publications.europa.eu/resource/authority/currency/SML
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: SOS
+  deprecated: 'false'
+  key: SOS
+  label_en: Somali shilling
+  label_it: Scellino somalo
+  url: http://publications.europa.eu/resource/authority/currency/SOS
+  valid_from: '1995-01-01'
+- country_code: SQS
+  deprecated: 'true'
+  key: SQS
+  label_en: Somaliland shilling
+  label_it: Scellino del Somaliland
+  url: http://publications.europa.eu/resource/authority/currency/SQS
+  valid_from: '1994-01-01'
+  valid_until: '1994-01-02'
+- country_code: SRD
+  deprecated: 'false'
+  key: SRD
+  label_en: Surinamese dollar
+  label_it: Dollaro del Suriname
+  url: http://publications.europa.eu/resource/authority/currency/SRD
+  valid_from: '2005-01-01'
+- country_code: SRG
+  deprecated: 'true'
+  key: SRG
+  label_en: Suriname guilder
+  url: http://publications.europa.eu/resource/authority/currency/SRG
+  valid_from: '1990-01-01'
+  valid_until: '2004-12-31'
+- country_code: SSP
+  deprecated: 'false'
+  key: SSP
+  label_en: South Sudanese pound
+  label_it: Sterlina sud-sudanese
+  url: http://publications.europa.eu/resource/authority/currency/SSP
+  valid_from: '2011-07-18'
+- country_code: STD
+  deprecated: 'true'
+  key: STD
+  label_en: Dobra
+  label_it: Dobra
+  url: http://publications.europa.eu/resource/authority/currency/STD
+  valid_from: '1990-01-01'
+  valid_until: '2018-06-30'
+- country_code: STN
+  deprecated: 'false'
+  key: STN
+  label_en: Dobra
+  label_it: Dobra
+  url: http://publications.europa.eu/resource/authority/currency/STN
+  valid_from: '2018-01-01'
+- country_code: SUR
+  deprecated: 'true'
+  key: SUR
+  label_en: Soviet Union rouble
+  url: http://publications.europa.eu/resource/authority/currency/SUR
+  valid_from: '1961-01-01'
+  valid_until: '1991-12-31'
+- country_code: SVC
+  deprecated: 'false'
+  key: SVC
+  label_en: "Salvadorian col\xF3n"
+  label_it: "Col\xF3n salvadoregno"
+  url: http://publications.europa.eu/resource/authority/currency/SVC
+  valid_from: '1919-01-01'
+- country_code: SYP
+  deprecated: 'false'
+  key: SYP
+  label_en: Syrian pound
+  label_it: Lira sterlina siriana
+  url: http://publications.europa.eu/resource/authority/currency/SYP
+  valid_from: '1990-01-01'
+- country_code: SZL
+  deprecated: 'false'
+  key: SZL
+  label_en: Lilangeni
+  label_it: Lilangeni
+  url: http://publications.europa.eu/resource/authority/currency/SZL
+  valid_from: '1990-01-01'
+- country_code: THB
+  deprecated: 'false'
+  key: THB
+  label_en: Baht
+  label_it: Baht
+  url: http://publications.europa.eu/resource/authority/currency/THB
+  valid_from: '1990-01-01'
+- country_code: TJR
+  deprecated: 'true'
+  key: TJR
+  label_en: Tajikistani rouble
+  url: http://publications.europa.eu/resource/authority/currency/TJR
+  valid_from: '1995-05-10'
+  valid_until: '2000-10-29'
+- country_code: TJS
+  deprecated: 'false'
+  key: TJS
+  label_en: Somoni
+  label_it: Somoni
+  url: http://publications.europa.eu/resource/authority/currency/TJS
+  valid_from: '2000-10-30'
+- country_code: TMM
+  deprecated: 'true'
+  key: TMM
+  label_en: Turkmen manat
+  label_it: Manat turkmeno
+  url: http://publications.europa.eu/resource/authority/currency/TMM
+  valid_from: '1993-10-27'
+  valid_until: '2008-12-31'
+- country_code: TMT
+  deprecated: 'false'
+  key: TMT
+  label_en: Turkmen manat
+  label_it: Manat turkmeno
+  url: http://publications.europa.eu/resource/authority/currency/TMT
+  valid_from: '2009-01-01'
+- country_code: TND
+  deprecated: 'false'
+  key: TND
+  label_en: Tunisian dinar
+  label_it: Dinaro tunisino
+  url: http://publications.europa.eu/resource/authority/currency/TND
+  valid_from: '1990-01-01'
+- country_code: TOP
+  deprecated: 'false'
+  key: TOP
+  label_en: "Pa\u2019anga"
+  label_it: Paanga
+  url: http://publications.europa.eu/resource/authority/currency/TOP
+  valid_from: '1990-01-01'
+- country_code: TPE
+  deprecated: 'true'
+  key: TPE
+  label_en: Portuguese Timorese escudo
+  url: http://publications.europa.eu/resource/authority/currency/TPE
+  valid_from: '1959-01-01'
+  valid_until: '1976-12-31'
+- country_code: TRL
+  deprecated: 'true'
+  key: TRL
+  label_en: Turkish lira A/05
+  url: http://publications.europa.eu/resource/authority/currency/TRL
+  valid_from: '1990-01-01'
+  valid_until: '2005-12-31'
+- country_code: TRY
+  deprecated: 'false'
+  key: TRY
+  label_en: Turkish lira
+  label_it: Lira turca
+  url: http://publications.europa.eu/resource/authority/currency/TRY
+  valid_from: '2006-01-01'
+- country_code: TTD
+  deprecated: 'false'
+  key: TTD
+  label_en: Trinidad and Tobago dollar
+  label_it: Dollaro di Trinidad e Tobago
+  url: http://publications.europa.eu/resource/authority/currency/TTD
+  valid_from: '1990-01-01'
+- country_code: TVD
+  deprecated: 'true'
+  key: TVD
+  label_en: Tuvaluan dollar
+  label_it: Dollaro di Tuvalu
+  url: http://publications.europa.eu/resource/authority/currency/TVD
+  valid_from: '1976-01-01'
+  valid_until: '1976-01-02'
+- country_code: TWD
+  deprecated: 'false'
+  key: TWD
+  label_en: New Taiwan dollar
+  label_it: Nuovo dollaro di Taiwan
+  url: http://publications.europa.eu/resource/authority/currency/TWD
+  valid_from: '1990-01-01'
+- country_code: TZS
+  deprecated: 'false'
+  key: TZS
+  label_en: Tanzanian shilling
+  label_it: Scellino della Tanzania
+  url: http://publications.europa.eu/resource/authority/currency/TZS
+  valid_from: '1990-01-01'
+- country_code: UAH
+  deprecated: 'false'
+  key: UAH
+  label_en: Hryvnia
+  label_it: Hrivna
+  url: http://publications.europa.eu/resource/authority/currency/UAH
+  valid_from: '1996-09-02'
+- country_code: UAK
+  deprecated: 'true'
+  key: UAK
+  label_en: Karbovanets
+  url: http://publications.europa.eu/resource/authority/currency/UAK
+  valid_from: '1992-01-10'
+  valid_until: '1996-09-01'
+- country_code: UGS
+  deprecated: 'true'
+  key: UGS
+  label_en: Uganda shilling A/87
+  url: http://publications.europa.eu/resource/authority/currency/UGS
+  valid_from: '1966-01-01'
+  valid_until: '1987-05-31'
+- country_code: UGX
+  deprecated: 'false'
+  key: UGX
+  label_en: Uganda shilling
+  label_it: Scellino ugandese
+  url: http://publications.europa.eu/resource/authority/currency/UGX
+  valid_from: '1987-06-01'
+- country_code: USD
+  deprecated: 'false'
+  key: USD
+  label_en: US dollar
+  label_it: Dollaro USA
+  url: http://publications.europa.eu/resource/authority/currency/USD
+  valid_from: '1990-01-01'
+- country_code: USN
+  deprecated: 'false'
+  key: USN
+  label_en: US dollar
+  label_it: Dollaro USA
+  url: http://publications.europa.eu/resource/authority/currency/USN
+  valid_from: '1990-01-01'
+- country_code: USS
+  deprecated: 'true'
+  key: USS
+  label_en: US dollar
+  label_it: Dollaro USA
+  url: http://publications.europa.eu/resource/authority/currency/USS
+  valid_from: '1990-01-01'
+  valid_until: '2014-03-01'
+- country_code: UYI
+  deprecated: 'false'
+  key: UYI
+  label_en: Uruguay Peso en Unidades Indexadas
+  label_it: Uruguay Peso en Unidades Indexadas
+  url: http://publications.europa.eu/resource/authority/currency/UYI
+  valid_from: '2002-06-01'
+- country_code: UYN
+  deprecated: 'true'
+  key: UYN
+  label_en: Uruguay old peso
+  url: http://publications.europa.eu/resource/authority/currency/UYN
+  valid_from: '1990-01-01'
+  valid_until: '1993-03-01'
+- country_code: UYU
+  deprecated: 'false'
+  key: UYU
+  label_en: Uruguayan peso
+  label_it: Peso uruguaiano
+  url: http://publications.europa.eu/resource/authority/currency/UYU
+  valid_from: '1993-03-02'
+- country_code: UYW
+  deprecated: 'false'
+  key: UYW
+  label_en: Unidad Previsional
+  label_it: Unidad Previsional
+  url: http://publications.europa.eu/resource/authority/currency/UYW
+  valid_from: '2002-06-01'
+- country_code: UZS
+  deprecated: 'false'
+  key: UZS
+  label_en: Sum
+  label_it: Sum
+  url: http://publications.europa.eu/resource/authority/currency/UZS
+  valid_from: '1994-07-01'
+- country_code: VAL
+  deprecated: 'true'
+  key: VAL
+  label_en: Vatican lira
+  url: http://publications.europa.eu/resource/authority/currency/VAL
+  valid_from: '1952-07-25'
+  valid_until: '1999-01-01'
+- country_code: VEB
+  deprecated: 'true'
+  key: VEB
+  label_en: "Bol\xEDvar fuerte"
+  url: http://publications.europa.eu/resource/authority/currency/VEB
+  valid_from: '1990-01-01'
+  valid_until: '2007-12-31'
+- country_code: VEF
+  deprecated: 'true'
+  key: VEF
+  label_en: "Bol\xEDvar"
+  label_it: Bolivar
+  url: http://publications.europa.eu/resource/authority/currency/VEF
+  valid_from: '2008-01-01'
+  valid_until: '2018-08-20'
+- country_code: VES
+  deprecated: 'false'
+  key: VES
+  label_en: "Bol\xEDvar soberano"
+  label_it: Bolivar sovrano
+  url: http://publications.europa.eu/resource/authority/currency/VES
+  valid_from: '2018-08-20'
+- country_code: VNC
+  deprecated: 'true'
+  key: VNC
+  label_en: Old dong
+  url: http://publications.europa.eu/resource/authority/currency/VNC
+  valid_from: '1978-05-03'
+  valid_until: '1978-12-31'
+- country_code: VND
+  deprecated: 'false'
+  key: VND
+  label_en: Dong
+  label_it: Dong
+  url: http://publications.europa.eu/resource/authority/currency/VND
+  valid_from: '1979-01-01'
+- country_code: VUV
+  deprecated: 'false'
+  key: VUV
+  label_en: Vatu
+  label_it: Vatu
+  url: http://publications.europa.eu/resource/authority/currency/VUV
+  valid_from: '1990-01-01'
+- country_code: WST
+  deprecated: 'false'
+  key: WST
+  label_en: Tala
+  label_it: Tala
+  url: http://publications.europa.eu/resource/authority/currency/WST
+  valid_from: '1990-01-01'
+- country_code: XAF
+  deprecated: 'false'
+  key: XAF
+  label_en: CFA franc (BEAC)
+  label_it: Franco CFA (BEAC)
+  url: http://publications.europa.eu/resource/authority/currency/XAF
+  valid_from: '1990-01-01'
+- country_code: XAG
+  deprecated: 'false'
+  key: XAG
+  label_en: Silver
+  label_it: Argento
+  url: http://publications.europa.eu/resource/authority/currency/XAG
+  valid_from: '1978-01-01'
+- country_code: XAU
+  deprecated: 'false'
+  key: XAU
+  label_en: Gold
+  label_it: Oro
+  url: http://publications.europa.eu/resource/authority/currency/XAU
+  valid_from: '1978-01-01'
+- country_code: XBA
+  deprecated: 'false'
+  key: XBA
+  label_en: Bond Markets Unit European Composite Unit (EURCO)
+  label_it: "Unit\xE0 composita europea (EURCO) (Unit\xE0 per il mercato obbligazionario)"
+  url: http://publications.europa.eu/resource/authority/currency/XBA
+  valid_from: '1973-01-01'
+- country_code: XBB
+  deprecated: 'false'
+  key: XBB
+  label_en: Bond Markets Unit European Monetary Unit (E.M.U.-6)
+  label_it: "Unit\xE0 monetaria europea (E.M.U.-6) (Unit\xE0 per il mercato obbligazionario)"
+  url: http://publications.europa.eu/resource/authority/currency/XBB
+  valid_from: '1973-01-01'
+- country_code: XBC
+  deprecated: 'false'
+  key: XBC
+  label_en: Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
+  label_it: "Unit\xE0 di acconto europea 9 (E.U.A.-9) (Unit\xE0 per il mercato obbligazionario)"
+  url: http://publications.europa.eu/resource/authority/currency/XBC
+  valid_from: '1973-01-01'
+- country_code: XBD
+  deprecated: 'false'
+  key: XBD
+  label_en: Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
+  label_it: "Unit\xE0 di acconto europea 17 (E.U.A.-17) (Unit\xE0 per il mercato obbligazionario)"
+  url: http://publications.europa.eu/resource/authority/currency/XBD
+  valid_from: '1999-01-01'
+- country_code: XCD
+  deprecated: 'false'
+  key: XCD
+  label_en: East Caribbean dollar
+  label_it: Dollaro dei Caraibi orientali
+  url: http://publications.europa.eu/resource/authority/currency/XCD
+  valid_from: '1965-01-01'
+- country_code: XDR
+  deprecated: 'false'
+  key: XDR
+  label_en: SDR (Special Drawing Right)
+  label_it: DSP (diritto speciale di prelievo)
+  url: http://publications.europa.eu/resource/authority/currency/XDR
+  valid_from: '1974-07-01'
+- country_code: XEU
+  deprecated: 'true'
+  key: XEU
+  label_en: European Currency Unit
+  label_it: "Unit\xE0 di conto europea"
+  url: http://publications.europa.eu/resource/authority/currency/XEU
+  valid_from: '1979-03-13'
+  valid_until: '1999-01-01'
+- country_code: XOF
+  deprecated: 'false'
+  key: XOF
+  label_en: CFA Franc (BCEAO)
+  label_it: Franco CFA (BCEAO)
+  url: http://publications.europa.eu/resource/authority/currency/XOF
+  valid_from: '1962-01-01'
+- country_code: XPD
+  deprecated: 'false'
+  key: XPD
+  label_en: Palladium
+  label_it: Palladio
+  url: http://publications.europa.eu/resource/authority/currency/XPD
+  valid_from: '1978-01-01'
+- country_code: XPF
+  deprecated: 'false'
+  key: XPF
+  label_en: CFP franc
+  label_it: Franco CFP
+  url: http://publications.europa.eu/resource/authority/currency/XPF
+  valid_from: '1990-01-01'
+- country_code: XPT
+  deprecated: 'false'
+  key: XPT
+  label_en: Platinum
+  label_it: Platino
+  url: http://publications.europa.eu/resource/authority/currency/XPT
+  valid_from: '1978-01-01'
+- country_code: XSU
+  deprecated: 'false'
+  key: XSU
+  label_en: Sucre
+  label_it: Sucre
+  url: http://publications.europa.eu/resource/authority/currency/XSU
+  valid_from: '2010-01-01'
+- country_code: XTS
+  deprecated: 'false'
+  key: XTS
+  label_en: Code reserved for testing purposes
+  label_it: Codice riservato ai test
+  url: http://publications.europa.eu/resource/authority/currency/XTS
+  valid_from: '1987-01-01'
+- country_code: XUA
+  deprecated: 'false'
+  key: XUA
+  label_en: ADB Unit of Account
+  label_it: "Unit\xE0 di conto della Banca africana di sviluppo"
+  url: http://publications.europa.eu/resource/authority/currency/XUA
+  valid_from: '2011-04-07'
+- country_code: XXX
+  deprecated: 'false'
+  key: XXX
+  label_en: No currency
+  label_it: Nessuna valuta
+  url: http://publications.europa.eu/resource/authority/currency/XXX
+  valid_from: '1987-01-01'
+- country_code: YDD
+  deprecated: 'true'
+  key: YDD
+  label_en: South Yemeni dinar
+  url: http://publications.europa.eu/resource/authority/currency/YDD
+  valid_from: '1990-01-01'
+  valid_until: '1996-06-11'
+- country_code: YER
+  deprecated: 'false'
+  key: YER
+  label_en: Yemeni rial
+  label_it: Rial yemenita
+  url: http://publications.europa.eu/resource/authority/currency/YER
+  valid_from: '1996-06-12'
+- country_code: YUD
+  deprecated: 'true'
+  key: YUD
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUD
+  valid_from: '1966-01-01'
+  valid_until: '1989-12-31'
+- country_code: YUF
+  deprecated: 'true'
+  key: YUF
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUF
+  valid_from: '1944-01-01'
+  valid_until: '1965-12-31'
+- country_code: YUG
+  deprecated: 'true'
+  key: YUG
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUG
+  valid_from: '1994-01-01'
+  valid_until: '1994-01-23'
+- country_code: YUM
+  deprecated: 'true'
+  key: YUM
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUM
+  valid_from: '1994-01-24'
+  valid_until: '2003-07-02'
+- country_code: YUN
+  deprecated: 'true'
+  key: YUN
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUN
+  valid_from: '1990-01-01'
+  valid_until: '1992-06-30'
+- country_code: YUO
+  deprecated: 'true'
+  key: YUO
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUO
+  valid_from: '1993-10-01'
+  valid_until: '1993-12-31'
+- country_code: YUR
+  deprecated: 'true'
+  key: YUR
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUR
+  valid_from: '1992-07-01'
+  valid_until: '1993-09-30'
+- country_code: YUS
+  deprecated: 'true'
+  key: YUS
+  label_en: Yugoslav dinar
+  url: http://publications.europa.eu/resource/authority/currency/YUS
+  valid_from: '1941-01-01'
+  valid_until: '1943-12-31'
+- country_code: ZAR
+  deprecated: 'false'
+  key: ZAR
+  label_en: Rand
+  label_it: Rand
+  url: http://publications.europa.eu/resource/authority/currency/ZAR
+  valid_from: '1990-01-01'
+- country_code: ZMK
+  deprecated: 'true'
+  key: ZMK
+  label_en: Zambian kwacha
+  label_it: Kwacha zambiano
+  url: http://publications.europa.eu/resource/authority/currency/ZMK
+  valid_from: '1990-01-01'
+  valid_until: '2012-12-31'
+- country_code: ZMW
+  deprecated: 'false'
+  key: ZMW
+  label_en: Zambian kwacha
+  label_it: Kwacha zambiano
+  url: http://publications.europa.eu/resource/authority/currency/ZMW
+  valid_from: '2013-01-01'
+- country_code: ZRN
+  deprecated: 'true'
+  key: ZRN
+  label_en: "Za\xEFrean new za\xEFre"
+  url: http://publications.europa.eu/resource/authority/currency/ZRN
+  valid_from: '1993-01-01'
+  valid_until: '1997-12-31'
+- country_code: ZRZ
+  deprecated: 'true'
+  key: ZRZ
+  label_en: "Za\xEFrean za\xEFre"
+  url: http://publications.europa.eu/resource/authority/currency/ZRZ
+  valid_from: '1967-01-01'
+  valid_until: '1992-12-31'
+- country_code: ZWC
+  deprecated: 'true'
+  key: ZWC
+  label_en: Rhodesian dollar
+  url: http://publications.europa.eu/resource/authority/currency/ZWC
+  valid_from: '1970-02-17'
+  valid_until: '1980-04-17'
+- country_code: ZWD
+  deprecated: 'true'
+  key: ZWD
+  label_en: Zimbabwe dollar A/06
+  url: http://publications.europa.eu/resource/authority/currency/ZWD
+  valid_from: '1980-04-18'
+  valid_until: '2006-07-31'
+- country_code: ZWL
+  deprecated: 'false'
+  key: ZWL
+  label_en: Zimbabwe dollar
+  label_it: Dollaro dello Zimbabwe
+  url: http://publications.europa.eu/resource/authority/currency/ZWL
+  valid_from: '2019-06-24'
+- country_code: ZWN
+  deprecated: 'true'
+  key: ZWN
+  label_en: Zimbabwe dollar A/08
+  url: http://publications.europa.eu/resource/authority/currency/ZWN
+  valid_from: '2006-08-01'
+  valid_until: '2008-07-31'
+- country_code: ZWR
+  deprecated: 'true'
+  key: ZWR
+  label_en: Zimbabwe dollar A/09
+  url: http://publications.europa.eu/resource/authority/currency/ZWR
+  valid_from: '2008-08-01'
+  valid_until: '2009-02-02'

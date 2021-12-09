@@ -1,0 +1,1050 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/OTHER",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1962-11-13"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OTHER"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Друг"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ostatní"
+      },
+      {
+        "@language": "da",
+        "@value": "Andre"
+      },
+      {
+        "@language": "de",
+        "@value": "Andere"
+      },
+      {
+        "@language": "el",
+        "@value": "Άλλο"
+      },
+      {
+        "@language": "en",
+        "@value": "Other"
+      },
+      {
+        "@language": "es",
+        "@value": "Otro"
+      },
+      {
+        "@language": "et",
+        "@value": "Muu"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eile"
+      },
+      {
+        "@language": "hr",
+        "@value": "Drugi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyéb szerződés"
+      },
+      {
+        "@language": "it",
+        "@value": "Altro"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kita"
+      },
+      {
+        "@language": "lv",
+        "@value": "Citi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Oħra"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overige"
+      },
+      {
+        "@language": "pl",
+        "@value": "Inne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Outro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Altele"
+      },
+      {
+        "@language": "sk",
+        "@value": "Ostatné"
+      },
+      {
+        "@language": "sl",
+        "@value": "Drugo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Andra"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/WITHDRAWAL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WITHDRAWAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WITHDRAWAL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2007-12-13"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WITHDRAWAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WITHDRAWAL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Cпоразумение за оттегляне"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dohoda o vystoupení"
+      },
+      {
+        "@language": "da",
+        "@value": "Udtrædelsesaftale"
+      },
+      {
+        "@language": "de",
+        "@value": "Austrittsabkommen"
+      },
+      {
+        "@language": "el",
+        "@value": "Συμφωνία αποχώρησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Withdrawal agreement"
+      },
+      {
+        "@language": "es",
+        "@value": "Acuerdo de retirada"
+      },
+      {
+        "@language": "et",
+        "@value": "Väljaastumisleping"
+      },
+      {
+        "@language": "fi",
+        "@value": "Erosopimus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Accord de retrait"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhaontú um tharraingt siar"
+      },
+      {
+        "@language": "hr",
+        "@value": "Sporazum o povlačenju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kilépési megállapodás"
+      },
+      {
+        "@language": "it",
+        "@value": "Accordo di recesso"
+      },
+      {
+        "@language": "lt",
+        "@value": "Susitarimas dėl išstojimo"
+      },
+      {
+        "@language": "lv",
+        "@value": "Izstāšanās līgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Ftehim dwar il-ħruġ"
+      },
+      {
+        "@language": "nl",
+        "@value": "Terugtrekkingsakkoord"
+      },
+      {
+        "@language": "pl",
+        "@value": "Umowa o wystąpieniu"
+      },
+      {
+        "@language": "pt",
+        "@value": "Acordo de saída"
+      },
+      {
+        "@language": "ro",
+        "@value": "Acord de retragere"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dohoda o vystúpení"
+      },
+      {
+        "@language": "sl",
+        "@value": "Sporazum o izstopu"
+      },
+      {
+        "@language": "sv",
+        "@value": "Avtal om utträde"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Treaty classification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "treaty-classification"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20190220-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Treaty classification"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20190220-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Treaty classification"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/AMEND",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "AMEND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "AMEND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1965-04-08"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "AMEND"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "AMEND"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Договор за реформа"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pozměňující smlouva"
+      },
+      {
+        "@language": "da",
+        "@value": "Ændring af traktaten"
+      },
+      {
+        "@language": "de",
+        "@value": "Änderungsvertrag"
+      },
+      {
+        "@language": "el",
+        "@value": "Τροποποιητική συνθήκη"
+      },
+      {
+        "@language": "en",
+        "@value": "Amending treaty"
+      },
+      {
+        "@language": "es",
+        "@value": "Tratado de modificación"
+      },
+      {
+        "@language": "et",
+        "@value": "Muutmisleping"
+      },
+      {
+        "@language": "fi",
+        "@value": "Muutossopimus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Traité modificatif"
+      },
+      {
+        "@language": "ga",
+        "@value": "Conradh leasaitheach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ugovor o modifikaciji"
+      },
+      {
+        "@language": "hu",
+        "@value": "Módosító szerződés"
+      },
+      {
+        "@language": "it",
+        "@value": "Trattato modificato"
+      },
+      {
+        "@language": "lt",
+        "@value": "Keičiančioji sutartis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Līgums par grozījumiem"
+      },
+      {
+        "@language": "mt",
+        "@value": "Trattat emendatorju"
+      },
+      {
+        "@language": "nl",
+        "@value": "Wijzigingsverdrag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Traktat zmieniający"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tratado modificativo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tratat de modificare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pozmeňujúca zmluva"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pogodba o spremembah"
+      },
+      {
+        "@language": "sv",
+        "@value": "Ändringsfördrag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/CONS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CONS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CONS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1992-02-07"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CONS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CONS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Консолидиран текст"
+      },
+      {
+        "@language": "cs",
+        "@value": "Konsolidované znění"
+      },
+      {
+        "@language": "da",
+        "@value": "Konsolideret udgave"
+      },
+      {
+        "@language": "de",
+        "@value": "Konsolidierte Fassung"
+      },
+      {
+        "@language": "el",
+        "@value": "Ενοποιημένη έκδοση"
+      },
+      {
+        "@language": "en",
+        "@value": "Consolidated version"
+      },
+      {
+        "@language": "es",
+        "@value": "Versión consolidada"
+      },
+      {
+        "@language": "et",
+        "@value": "Konsolideeritud versioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Konsolidoitu toisinto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Version consolidée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Leagan comhdhlúite"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pročišćena inačica"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egységes szerkezetbe foglalt változat"
+      },
+      {
+        "@language": "it",
+        "@value": "Versione consolidata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Suvestinė redakcija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Konsolidētā versija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Verżjoni konsolidata"
+      },
+      {
+        "@language": "nl",
+        "@value": "Geconsolideerde versie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wersja skonsolidowana"
+      },
+      {
+        "@language": "pt",
+        "@value": "Versão consolidada"
+      },
+      {
+        "@language": "ro",
+        "@value": "Versiune consolidată"
+      },
+      {
+        "@language": "sk",
+        "@value": "Konsolidované znenie"
+      },
+      {
+        "@language": "sl",
+        "@value": "Prečiščeno besedilo"
+      },
+      {
+        "@language": "sv",
+        "@value": "Konsoliderad version"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/ACCESS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ACCESS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ACCESS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1972-01-22"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ACCESS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ACCESS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Договор за присъединяване"
+      },
+      {
+        "@language": "cs",
+        "@value": "Přístupové smlouvy"
+      },
+      {
+        "@language": "da",
+        "@value": "Traktat om tiltrædelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Beitrittsvertrag"
+      },
+      {
+        "@language": "el",
+        "@value": "Συνθήκης προσχώρησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Accession treaty"
+      },
+      {
+        "@language": "es",
+        "@value": "Tratado de adhesión"
+      },
+      {
+        "@language": "et",
+        "@value": "Ühinemisleping"
+      },
+      {
+        "@language": "fi",
+        "@value": "Liittymissopimus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Traité d'adhésion"
+      },
+      {
+        "@language": "ga",
+        "@value": "Conradh Aontachais"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ugovor o pristupanju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Csatlakozási szerződés"
+      },
+      {
+        "@language": "it",
+        "@value": "Trattato di adesione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Stojimo sutartis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pievienošanās līgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Trattat tal-Adeżjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Toetredingsverdrag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Traktat akcesyjny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tratado de Adesão"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tratat de aderare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prístupová zmluva"
+      },
+      {
+        "@language": "sl",
+        "@value": "Pristopna pogodba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Anslutningsfördraget"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/FOUND",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FOUND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FOUND"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-04-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FOUND"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FOUND"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Учредителен договор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zakládající smlouva"
+      },
+      {
+        "@language": "da",
+        "@value": "Traktat om oprettelse"
+      },
+      {
+        "@language": "de",
+        "@value": "Gründungsvertrag"
+      },
+      {
+        "@language": "el",
+        "@value": "Ιδρυτική συνθήκη"
+      },
+      {
+        "@language": "en",
+        "@value": "Founding treaty"
+      },
+      {
+        "@language": "es",
+        "@value": "Tratado constitutivo"
+      },
+      {
+        "@language": "et",
+        "@value": "Alusleping"
+      },
+      {
+        "@language": "fi",
+        "@value": "Perustamissopimus"
+      },
+      {
+        "@language": "fr",
+        "@value": "Traité constitutif"
+      },
+      {
+        "@language": "ga",
+        "@value": "Conradh bunaidh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ugovor o osnivanju"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alapító szerződés"
+      },
+      {
+        "@language": "it",
+        "@value": "Trattato costitutivo"
+      },
+      {
+        "@language": "lt",
+        "@value": "Steigiamoji sutartis"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dibināšanas līgums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Trattat fundatur"
+      },
+      {
+        "@language": "nl",
+        "@value": "Oprichtingsverdrag"
+      },
+      {
+        "@language": "pl",
+        "@value": "Traktat założycielski"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tratado constitutivo"
+      },
+      {
+        "@language": "ro",
+        "@value": "Tratat fondator"
+      },
+      {
+        "@language": "sk",
+        "@value": "Zakladajúca zmluva"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ustanovna pogodba"
+      },
+      {
+        "@language": "sv",
+        "@value": "Grundfördraget"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/treaty-classification/SUBPART",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "SUBPART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "SUBPART"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1951-04-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "SUBPART"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "SUBPART"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/treaty-classification"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Subpart"
+      },
+      {
+        "@language": "fr",
+        "@value": "Sous-partie"
+      }
+    ]
+  }
+]

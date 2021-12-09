@@ -1,0 +1,835 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/F",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "F"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "F"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "F"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "F"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/feminine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Женски род"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ženský rod"
+      },
+      {
+        "@language": "da",
+        "@value": "Hunkøn"
+      },
+      {
+        "@language": "de",
+        "@value": "Femininum"
+      },
+      {
+        "@language": "el",
+        "@value": "Θηλυκό"
+      },
+      {
+        "@language": "en",
+        "@value": "Feminine"
+      },
+      {
+        "@language": "es",
+        "@value": "Femenino"
+      },
+      {
+        "@language": "et",
+        "@value": "Naissoost"
+      },
+      {
+        "@language": "fi",
+        "@value": "Feminiini"
+      },
+      {
+        "@language": "fr",
+        "@value": "Féminin"
+      },
+      {
+        "@language": "ga",
+        "@value": "Baineann"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ženski rod"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nőnem"
+      },
+      {
+        "@language": "it",
+        "@value": "Femminile"
+      },
+      {
+        "@language": "lt",
+        "@value": "Moteriškoji"
+      },
+      {
+        "@language": "lv",
+        "@value": "Sieviešu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Femminil"
+      },
+      {
+        "@language": "nl",
+        "@value": "Vrouwelijk"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rodzaj żeński"
+      },
+      {
+        "@language": "pt",
+        "@value": "Feminino"
+      },
+      {
+        "@language": "ro",
+        "@value": "Feminin"
+      },
+      {
+        "@language": "sk",
+        "@value": "Ženský rod"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ženski spol"
+      },
+      {
+        "@language": "sv",
+        "@value": "Femininum"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/G",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-02-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generic"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/M",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "M"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "M"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "M"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "M"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/masculine"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Мъжки род"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mužský rod"
+      },
+      {
+        "@language": "da",
+        "@value": "Hankøn"
+      },
+      {
+        "@language": "de",
+        "@value": "Maskulinum"
+      },
+      {
+        "@language": "el",
+        "@value": "Αρσενικό"
+      },
+      {
+        "@language": "en",
+        "@value": "Masculine"
+      },
+      {
+        "@language": "es",
+        "@value": "Masculino"
+      },
+      {
+        "@language": "et",
+        "@value": "Meessoost"
+      },
+      {
+        "@language": "fi",
+        "@value": "Maskuliini"
+      },
+      {
+        "@language": "fr",
+        "@value": "Masculin"
+      },
+      {
+        "@language": "ga",
+        "@value": "Fireann"
+      },
+      {
+        "@language": "hr",
+        "@value": "Muški rod"
+      },
+      {
+        "@language": "hu",
+        "@value": "Hímnem"
+      },
+      {
+        "@language": "it",
+        "@value": "Maschile"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vyriškoji"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vīriešu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Maskil"
+      },
+      {
+        "@language": "nl",
+        "@value": "Mannelijk"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rodzaj męski"
+      },
+      {
+        "@language": "pt",
+        "@value": "Masculino"
+      },
+      {
+        "@language": "ro",
+        "@value": "Masculin"
+      },
+      {
+        "@language": "sk",
+        "@value": "Mužský rod"
+      },
+      {
+        "@language": "sl",
+        "@value": "Moški spol"
+      },
+      {
+        "@language": "sv",
+        "@value": "Maskulinum"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/Z",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "Z"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "Z"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-02-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "Z"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "Z"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "No gender"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/U",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "U"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "U"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "U"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "U"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/utrum"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "cs",
+        "@value": "Společný rod"
+      },
+      {
+        "@language": "da",
+        "@value": "Fælleskøn"
+      },
+      {
+        "@language": "de",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "el",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "en",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "es",
+        "@value": "Común"
+      },
+      {
+        "@language": "et",
+        "@value": "Ühissoost"
+      },
+      {
+        "@language": "fi",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "fr",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "ga",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "hr",
+        "@value": "Zajednički rod"
+      },
+      {
+        "@language": "hu",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "it",
+        "@value": "Comune"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bendroji"
+      },
+      {
+        "@language": "lv",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "mt",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gemeenschappelijk"
+      },
+      {
+        "@language": "pl",
+        "@value": "Utrum"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comum"
+      },
+      {
+        "@language": "ro",
+        "@value": "Comun (utrum)"
+      },
+      {
+        "@language": "sk",
+        "@value": "Spoločný rod"
+      },
+      {
+        "@language": "sl",
+        "@value": "Splošni spol"
+      },
+      {
+        "@language": "sv",
+        "@value": "Utrum"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender/N",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "N"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "N"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "N"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "N"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/neuter"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-gender"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Среден род"
+      },
+      {
+        "@language": "cs",
+        "@value": "Střední rod"
+      },
+      {
+        "@language": "da",
+        "@value": "Intetkøn"
+      },
+      {
+        "@language": "de",
+        "@value": "Neutrum"
+      },
+      {
+        "@language": "el",
+        "@value": "Ουδέτερο"
+      },
+      {
+        "@language": "en",
+        "@value": "Neuter"
+      },
+      {
+        "@language": "es",
+        "@value": "Neutro"
+      },
+      {
+        "@language": "et",
+        "@value": "Kesksoost"
+      },
+      {
+        "@language": "fi",
+        "@value": "Neutri"
+      },
+      {
+        "@language": "fr",
+        "@value": "Neutre"
+      },
+      {
+        "@language": "ga",
+        "@value": "Neodrach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Srednji rod"
+      },
+      {
+        "@language": "hu",
+        "@value": "Semlegesnem"
+      },
+      {
+        "@language": "it",
+        "@value": "Neutro"
+      },
+      {
+        "@language": "lt",
+        "@value": "Bevardė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Neitrāls"
+      },
+      {
+        "@language": "mt",
+        "@value": "Newtru"
+      },
+      {
+        "@language": "nl",
+        "@value": "Onzijdig"
+      },
+      {
+        "@language": "pl",
+        "@value": "Rodzaj nijaki"
+      },
+      {
+        "@language": "pt",
+        "@value": "Neutro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Neutru"
+      },
+      {
+        "@language": "sk",
+        "@value": "Stredný rod"
+      },
+      {
+        "@language": "sl",
+        "@value": "Srednji spol"
+      },
+      {
+        "@language": "sv",
+        "@value": "Neutrum"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-gender",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grammatical gender"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "grammatical-gender"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Grammatical gender"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grammatical gender"
+      }
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-nature/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-nature/combined",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "combined"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "combined"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-03-17"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "combined"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "combined"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Комбинирани договори"
+      },
+      {
+        "@language": "cs",
+        "@value": "Kombinované smlouvy"
+      },
+      {
+        "@language": "da",
+        "@value": "Kombinerede kontrakter"
+      },
+      {
+        "@language": "de",
+        "@value": "Kombiniert Verträge"
+      },
+      {
+        "@language": "el",
+        "@value": "Σε συνδυασμό συμβάσεις"
+      },
+      {
+        "@language": "en",
+        "@value": "Combined"
+      },
+      {
+        "@language": "es",
+        "@value": "Contratos combinados"
+      },
+      {
+        "@language": "et",
+        "@value": "Kombineeritud lepingud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yhdistetyt sopimukset"
+      },
+      {
+        "@language": "fr",
+        "@value": "Contrats combinés"
+      },
+      {
+        "@language": "ga",
+        "@value": "Conarthaí Chomhcheangailte"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kombinirani ugovori"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kombinált szerződések"
+      },
+      {
+        "@language": "it",
+        "@value": "Appalti misti"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kombinuoti sutartys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kombinētie līgumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kuntratti magħquda"
+      },
+      {
+        "@language": "nl",
+        "@value": "Gecombineerd contracten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Połączone kontrakty"
+      },
+      {
+        "@language": "pt",
+        "@value": "Contratos combinados"
+      },
+      {
+        "@language": "ro",
+        "@value": "Contracte combinate"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kombinované zmluvy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Kombinirane pogodbe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kombinerade kontrakt"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-nature/services",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "services"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "services"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n8831597bb81444a698f0b159da613323b1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "services"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "services"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Услуги"
+      },
+      {
+        "@language": "cs",
+        "@value": "Služby"
+      },
+      {
+        "@language": "da",
+        "@value": "Tjenesteydelser"
+      },
+      {
+        "@language": "de",
+        "@value": "Dienstleistungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Υπηρεσίες"
+      },
+      {
+        "@language": "en",
+        "@value": "Services"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicios"
+      },
+      {
+        "@language": "et",
+        "@value": "Teenused"
+      },
+      {
+        "@language": "fi",
+        "@value": "Palvelut"
+      },
+      {
+        "@language": "fr",
+        "@value": "Services"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhísí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Usluge"
+      },
+      {
+        "@language": "hu",
+        "@value": "Szolgáltatások"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Paslaugos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pakalpojumi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizzi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Diensten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługi"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviços"
+      },
+      {
+        "@language": "ro",
+        "@value": "Servicii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Služby"
+      },
+      {
+        "@language": "sl",
+        "@value": "Storitve"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tjänster"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8831597bb81444a698f0b159da613323b1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "4"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CODIF_DATA"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-nature/works",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "works"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "works"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n8831597bb81444a698f0b159da613323b3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "works"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "works"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Строителство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Stavební práce"
+      },
+      {
+        "@language": "da",
+        "@value": "Bygge og anlæg"
+      },
+      {
+        "@language": "de",
+        "@value": "Bauleistung"
+      },
+      {
+        "@language": "el",
+        "@value": "Έργα"
+      },
+      {
+        "@language": "en",
+        "@value": "Works"
+      },
+      {
+        "@language": "es",
+        "@value": "Obras"
+      },
+      {
+        "@language": "et",
+        "@value": "Ehitustööde hankelepingud"
+      },
+      {
+        "@language": "fi",
+        "@value": "Urakat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Marché de travaux"
+      },
+      {
+        "@language": "ga",
+        "@value": "Oibreacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Radovi"
+      },
+      {
+        "@language": "hu",
+        "@value": "Építési beruházás"
+      },
+      {
+        "@language": "it",
+        "@value": "Lavori"
+      },
+      {
+        "@language": "lt",
+        "@value": "darbai"
+      },
+      {
+        "@language": "lv",
+        "@value": "Būvdarbi"
+      },
+      {
+        "@language": "mt",
+        "@value": "Xogħlijiet"
+      },
+      {
+        "@language": "nl",
+        "@value": "Werken"
+      },
+      {
+        "@language": "pl",
+        "@value": "Roboty budowlane"
+      },
+      {
+        "@language": "pt",
+        "@value": "Obras"
+      },
+      {
+        "@language": "ro",
+        "@value": "Lucrări"
+      },
+      {
+        "@language": "sk",
+        "@value": "Práce"
+      },
+      {
+        "@language": "sl",
+        "@value": "Gradnje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Byggentreprenader"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8831597bb81444a698f0b159da613323b3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "1"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CODIF_DATA"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-nature",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contract nature"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "contract-nature"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Contract nature"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Contract nature"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/contract-nature/supplies",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "supplies"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "supplies"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n8831597bb81444a698f0b159da613323b2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "supplies"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "supplies"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/contract-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Доставки"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dodávky"
+      },
+      {
+        "@language": "da",
+        "@value": "Varer"
+      },
+      {
+        "@language": "de",
+        "@value": "Lieferungen"
+      },
+      {
+        "@language": "el",
+        "@value": "Προμήθειες"
+      },
+      {
+        "@language": "en",
+        "@value": "Supplies"
+      },
+      {
+        "@language": "es",
+        "@value": "Suministros"
+      },
+      {
+        "@language": "et",
+        "@value": "Tarned"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tavarat"
+      },
+      {
+        "@language": "fr",
+        "@value": "Fournitures"
+      },
+      {
+        "@language": "ga",
+        "@value": "Soláthairtí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Roba"
+      },
+      {
+        "@language": "hu",
+        "@value": "Árubeszerzések"
+      },
+      {
+        "@language": "it",
+        "@value": "Forniture"
+      },
+      {
+        "@language": "lt",
+        "@value": "Prekės"
+      },
+      {
+        "@language": "lv",
+        "@value": "Piegādes"
+      },
+      {
+        "@language": "mt",
+        "@value": "Fornituri"
+      },
+      {
+        "@language": "nl",
+        "@value": "Leveringen"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dostawy"
+      },
+      {
+        "@language": "pt",
+        "@value": "Fornecimentos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Bunuri"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dodávky"
+      },
+      {
+        "@language": "sl",
+        "@value": "Blago"
+      },
+      {
+        "@language": "sv",
+        "@value": "Varor"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8831597bb81444a698f0b159da613323b2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "2"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "CODIF_DATA"
+      }
+    ]
+  }
+]

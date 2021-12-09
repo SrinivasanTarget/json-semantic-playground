@@ -1,0 +1,69 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: EEA
+  deprecated: 'false'
+  key: EEA
+  label_en: European Economic Area
+  label_it: Spazio economico europeo
+  url: http://publications.europa.eu/resource/authority/membership-classification/EEA
+  valid_from: '1994-01-01'
+- country_code: EFTA
+  deprecated: 'false'
+  key: EFTA
+  label_en: European Free Trade Association
+  label_it: Associazione europea di libero scambio
+  url: http://publications.europa.eu/resource/authority/membership-classification/EFTA
+  valid_from: '1960-01-04'
+- country_code: EU
+  deprecated: 'false'
+  key: EU
+  label_en: European Union
+  label_it: Unione europea
+  url: http://publications.europa.eu/resource/authority/membership-classification/EU
+  valid_from: '1951-01-01'
+- country_code: EURO
+  deprecated: 'false'
+  key: EURO
+  label_en: Euro area
+  label_it: Zona euro
+  url: http://publications.europa.eu/resource/authority/membership-classification/EURO
+  valid_from: '1999-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/membership-classification/OP_DATPRO
+- country_code: OTHER
+  deprecated: 'false'
+  key: OTHER
+  label_en: Other
+  label_it: Altro
+  url: http://publications.europa.eu/resource/authority/membership-classification/OTHER
+  valid_from: '1951-01-01'
+- country_code: SCHENGEN
+  deprecated: 'false'
+  key: SCHENGEN
+  label_en: Schengen area
+  label_it: Spazio Schengen
+  url: http://publications.europa.eu/resource/authority/membership-classification/SCHENGEN
+  valid_from: '1995-03-26'

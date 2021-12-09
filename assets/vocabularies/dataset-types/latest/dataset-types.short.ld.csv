@@ -1,0 +1,29 @@
+# Serializing assets/vocabularies/dataset-types/latest/dataset-types.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/dataset-type
+# title: Dataset type
+# version: 20201216-0
+# description: Dataset type
+key,url,deprecated,valid_from,country_code,label_en,label_it
+APROF,http://publications.europa.eu/resource/authority/dataset-type/APROF,false,2017-10-30,APROF,Application profile,Profilo applicazione
+ATTO_LEX,http://publications.europa.eu/resource/authority/dataset-type/ATTO_LEX,false,2017-10-30,ATTO_LEX,ATTO table – EUR-Lex domain,Tabella ATTO – dominio EUR-Lex
+ATTO_PUB,http://publications.europa.eu/resource/authority/dataset-type/ATTO_PUB,false,2017-10-30,ATTO_PUB,ATTO table – Publications domain,Tabella ATTO – dominio Pubblicazioni
+CODE_LIST,http://publications.europa.eu/resource/authority/dataset-type/CODE_LIST,false,2013-01-01,CODE_LIST,Code list,Elenco dei codici
+CORE_COMP,http://publications.europa.eu/resource/authority/dataset-type/CORE_COMP,false,2013-01-01,CORE_COMP,Core component,Componente centrale
+DOMAIN_MODEL,http://publications.europa.eu/resource/authority/dataset-type/DOMAIN_MODEL,false,2013-01-01,DOMAIN_MODEL,Domain model,Modello di dominio
+DSCRP_SERV,http://publications.europa.eu/resource/authority/dataset-type/DSCRP_SERV,false,2013-01-01,DSCRP_SERV,Service description,Descrizione del servizio
+GEOSPATIAL,http://publications.europa.eu/resource/authority/dataset-type/GEOSPATIAL,false,2019-01-30,GEOSPATIAL,Geospatial data,Dati geospaziali
+GLOSSARY,http://publications.europa.eu/resource/authority/dataset-type/GLOSSARY,false,2020-11-25,GLOSSARY,Glossary,Glossario
+IEPD,http://publications.europa.eu/resource/authority/dataset-type/IEPD,false,2013-01-01,IEPD,Information exchange package description,Descrizione del pacchetto «scambio di informazioni»
+MAPPING,http://publications.europa.eu/resource/authority/dataset-type/MAPPING,false,2013-01-01,MAPPING,Mapping,Mappatura
+NAL,http://publications.europa.eu/resource/authority/dataset-type/NAL,false,2013-01-01,NAL,Name authority list,Elenco dei nomi autorizzati
+ONTOLOGY,http://publications.europa.eu/resource/authority/dataset-type/ONTOLOGY,false,2013-01-01,ONTOLOGY,Ontology,Ontologia
+OP_DATPRO,http://publications.europa.eu/resource/authority/dataset-type/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori
+SCHEMA,http://publications.europa.eu/resource/authority/dataset-type/SCHEMA,false,2013-01-01,SCHEMA,Schema,Schema
+STATISTICAL,http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL,false,2013-01-01,STATISTICAL,Statistical data,Dati statistici
+STYLES,http://publications.europa.eu/resource/authority/dataset-type/STYLES,false,2017-10-30,STYLES,Style sheets,Fogli di stile
+SYNTAX_ECD_SCHEME,http://publications.europa.eu/resource/authority/dataset-type/SYNTAX_ECD_SCHEME,false,2013-01-01,SYNTAX_ECD_SCHEME,Syntax encoding scheme,Sistema di codifica basato sulla sintassi
+SYNTHETIC_DATA,http://publications.europa.eu/resource/authority/dataset-type/SYNTHETIC_DATA,false,2020-05-19,SYNTHETIC_DATA,Synthetic data,Dati sintetici
+TAXONOMY,http://publications.europa.eu/resource/authority/dataset-type/TAXONOMY,false,2013-01-01,TAXONOMY,Taxonomy,Tassonomia
+TEST_DATA,http://publications.europa.eu/resource/authority/dataset-type/TEST_DATA,false,2020-05-19,TEST_DATA,Test data,Dati di prova
+THESAURUS,http://publications.europa.eu/resource/authority/dataset-type/THESAURUS,false,2013-01-01,THESAURUS,Thesaurus,Tesauro

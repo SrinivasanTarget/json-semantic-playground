@@ -1,0 +1,165 @@
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/licence-domain> .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://www.w3.org/2000/01/rdf-schema#label> "Licence domain"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadata"@sv .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041C\u0435\u0442\u0430\u0434\u0430\u043D\u043D\u0438"@bg .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data"@mt .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaadat"@hu .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saothair liteartha agus/n\u00F3 eala\u00EDonta"@ga .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metagegevens"@nl .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data"@cs .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Code"@it .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metapodaci"@hr .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://publications.europa.eu/resource/authority/op-code> "METADATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039C\u03B5\u03C4\u03B1\u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literat\u016Bros ir (arba) meno k\u016Briniai"@lt .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Andmed"@et .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/licence-domain> .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadate"@ro .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://publications.europa.eu/ontology/authority/authority-code> "DATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadati"@it .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gegevens"@nl .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://publications.europa.eu/ontology/authority/op-code> "METADATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u043D\u0438 \u0438/\u0438\u043B\u0438 \u0445\u0443\u0434\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u0438 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F"@bg .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kirjandus- ja/v\u00F5i kunstiteosed"@et .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://publications.europa.eu/ontology/authority/authority-code> "METADATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koodi"@fi .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/licence-domain> .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podatki"@sl .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Daten"@de .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodas"@lt .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati"@lv .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane"@pl .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://purl.org/dc/elements/1.1/identifier> "DATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knji\u017Eevna i/ili umjetni\u010Dka djela"@hr .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obras literarias y/o art\u00EDsticas"@es .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litter\u00E6re v\u00E6rker og/eller kunstv\u00E6rker"@da .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obras liter\u00E1rias e/ou art\u00EDsticas"@pt .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opere literare \u0219i/sau artistice"@ro .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kod"@hr .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metapodatki"@sl .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knji\u017Eevna in/ali umetni\u0161ka dela"@sl .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadati"@lv .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Code"@de .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Code"@nl .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date"@ro .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://publications.europa.eu/resource/authority/op-code> "DATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadata"@da .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://publications.europa.eu/ontology/authority/op-code> "CODE" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039B\u03BF\u03B3\u03BF\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03AC \u03BA\u03B1\u03B9/\u03AE \u03BA\u03B1\u03BB\u03BB\u03B9\u03C4\u03B5\u03C7\u03BD\u03B9\u03BA\u03AC \u03AD\u03C1\u03B3\u03B1"@el .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://publications.europa.eu/ontology/authority/op-code> "W_LIT_ART" .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://www.w3.org/2002/07/owl#versionInfo> "20210317-0" .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0414\u0430\u043D\u043D\u0438"@bg .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://publications.europa.eu/ontology/authority/authority-code> "W_LIT_ART" .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meiteashonra\u00ED"@ga .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liter\u0101ri un/vai m\u0101kslas darbi"@lv .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adat"@hu .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Xog\u0127lijiet letterarji u/jew artisti\u010Bi"@mt .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koda"@sl .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadata"@mt .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DAdaje"@sk .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liter\u00E1rn\u00ED a/nebo um\u011Bleck\u00E1 d\u00EDla"@cs .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadata"@cs .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/licence-domain> .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Code"@fr .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://purl.org/dc/elements/1.1/identifier> "W_LIT_ART" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opere letterarie e/o artistiche"@it .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodi\u010Bi"@mt .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadaten"@de .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kods"@lv .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadata"@fi .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u039A\u03C9\u03B4\u03B9\u03BA\u03CC\u03C2"@el .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://purl.org/dc/elements/1.1/identifier> "METADATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati"@it .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kode"@da .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literary and/or artistic works"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/licence-domain> .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0152uvres litt\u00E9raires et/ou artistiques"@fr .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://publications.europa.eu/ontology/authority/authority-code> "CODE" .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kod"@pl .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F3d"@hu .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://publications.europa.eu/resource/authority/op-code> "W_LIT_ART" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://publications.europa.eu/ontology/authority/op-code> "DATA" .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaduomenys"@lt .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kirjalliset ja/tai taiteelliset teokset"@fi .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "C\u00F3digo"@pt .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos"@es .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadata"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041A\u043E\u0434"@bg .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Irodalmi \u00E9s/vagy m\u0171v\u00E9szeti alkot\u00E1sok"@hu .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literarische und/oder k\u00FCnstlerische Werke"@de .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literaire en/of artistieke werken"@nl .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F3d"@sk .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://publications.europa.eu/resource/authority/op-code> "CODE" .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F3d"@cs .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadados"@pt .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Code"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meta\u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://publications.europa.eu/ontology/authority/table.version.number> "20210317-0" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dzie\u0142a literackie lub artystyczne"@pl .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://www.w3.org/2004/02/skos/core#prefLabel> "Licence domain"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es"@fr .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados"@pt .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Podaci"@hr .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "C\u00F3d"@ga .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metaandmed"@et .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "C\u00F3digo"@es .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00E9tadonn\u00E9es"@fr .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://publications.europa.eu/ontology/authority/table.id> "licence-domain" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kod"@sv .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kood"@et .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadane"@pl .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liter\u00E1rne alebo umeleck\u00E9 diela"@sk .
+<http://publications.europa.eu/resource/authority/licence-domain/W_LIT_ART> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litter\u00E4ra och/eller konstn\u00E4rliga verk"@sv .
+<http://publications.europa.eu/resource/authority/licence-domain> <http://publications.europa.eu/ontology/authority/prefLabel> "Licence domain"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data"@sv .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data"@en .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://purl.org/dc/elements/1.1/identifier> "CODE" .
+<http://publications.europa.eu/resource/authority/licence-domain/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/licence-domain/METADATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metadatos"@es .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data"@fi .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duomenys"@lt .
+<http://publications.europa.eu/resource/authority/licence-domain/DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Data"@da .
+<http://publications.europa.eu/resource/authority/licence-domain/CODE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cod"@ro .
+

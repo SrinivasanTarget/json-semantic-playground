@@ -1,0 +1,564 @@
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/ontology/authority/op-code> "GUJARATI" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb17 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb27 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/ontology/authority/authority-code> "HEBREW" .
+_:n4ffdd17be025475da97cc916de6765ddb41 <http://publications.europa.eu/ontology/authority/legacy-code> "347" .
+_:n4ffdd17be025475da97cc916de6765ddb11 <http://publications.europa.eu/ontology/authority/legacy-code> "Deva" .
+_:n4ffdd17be025475da97cc916de6765ddb13 <http://publications.europa.eu/ontology/authority/legacy-code> "430" .
+_:n4ffdd17be025475da97cc916de6765ddb6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://purl.org/dc/elements/1.1/identifier> "TIBETAN" .
+_:n4ffdd17be025475da97cc916de6765ddb9 <http://publications.europa.eu/ontology/authority/legacy-code> "220" .
+_:n4ffdd17be025475da97cc916de6765ddb41 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/resource/authority/op-code> "SINHALA" .
+<http://publications.europa.eu/resource/authority/script> <http://www.w3.org/2004/02/skos/core#prefLabel> "Script"@en .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb1 .
+_:n4ffdd17be025475da97cc916de6765ddb7 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb28 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb23 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bengali script"@en .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/resource/authority/op-code> "MALAYALAM" .
+_:n4ffdd17be025475da97cc916de6765ddb10 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb4 .
+_:n4ffdd17be025475da97cc916de6765ddb29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb5 .
+_:n4ffdd17be025475da97cc916de6765ddb39 <http://publications.europa.eu/ontology/authority/legacy-code> "Latn" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://purl.org/dc/elements/1.1/identifier> "LATIN" .
+_:n4ffdd17be025475da97cc916de6765ddb55 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb56 <http://publications.europa.eu/ontology/authority/legacy-code> "170" .
+_:n4ffdd17be025475da97cc916de6765ddb16 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb12 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/resource/authority/op-code> "GUJARATI" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/ontology/authority/op-code> "GURMUKHI" .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/ontology/authority/op-code> "KATAKANA" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/resource/authority/op-code> "TELUGU" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/ontology/authority/op-code> "TAMIL" .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/ontology/authority/op-code> "MONGOLIAN" .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb21 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb2 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb47 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script> <http://www.w3.org/2000/01/rdf-schema#label> "Script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb59 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb15 <http://publications.europa.eu/ontology/authority/legacy-code> "240" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb58 .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb54 .
+_:n4ffdd17be025475da97cc916de6765ddb48 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/resource/authority/op-code> "GURMUKHI" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/ontology/authority/op-code> "THAI" .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/ontology/authority/op-code> "MYANMAR" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+_:n4ffdd17be025475da97cc916de6765ddb20 <http://publications.europa.eu/ontology/authority/legacy-code> "320" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb12 .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb51 .
+_:n4ffdd17be025475da97cc916de6765ddb42 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb33 <http://publications.europa.eu/ontology/authority/legacy-code> "Kana" .
+_:n4ffdd17be025475da97cc916de6765ddb26 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb60 .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/resource/authority/op-code> "TAMIL" .
+_:n4ffdd17be025475da97cc916de6765ddb11 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb8 <http://publications.europa.eu/ontology/authority/legacy-code> "570" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/ontology/authority/authority-code> "HIRAGANA" .
+_:n4ffdd17be025475da97cc916de6765ddb38 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb29 .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb44 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb59 .
+_:n4ffdd17be025475da97cc916de6765ddb48 <http://publications.europa.eu/ontology/authority/legacy-code> "Sinh" .
+_:n4ffdd17be025475da97cc916de6765ddb30 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb62 <http://publications.europa.eu/ontology/authority/legacy-code> "120" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb35 <http://publications.europa.eu/ontology/authority/legacy-code> "Khmr" .
+_:n4ffdd17be025475da97cc916de6765ddb46 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://purl.org/dc/elements/1.1/identifier> "LAO" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb5 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Khmer script"@en .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/ontology/authority/authority-code> "HANGUL" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/ontology/authority/authority-code> "KHMER" .
+_:n4ffdd17be025475da97cc916de6765ddb53 <http://publications.europa.eu/ontology/authority/legacy-code> "340" .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb62 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb23 <http://publications.europa.eu/ontology/authority/legacy-code> "500" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb42 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb8 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://purl.org/dc/elements/1.1/identifier> "KHMER" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tagalog script"@en .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/resource/authority/op-code> "KATAKANA" .
+_:n4ffdd17be025475da97cc916de6765ddb15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/ontology/authority/op-code> "TAGALOG" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+_:n4ffdd17be025475da97cc916de6765ddb37 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb52 .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb54 <http://publications.europa.eu/ontology/authority/legacy-code> "Telu" .
+_:n4ffdd17be025475da97cc916de6765ddb2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/ontology/authority/op-code> "HEBREW" .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malayalam script"@en .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/resource/authority/op-code> "MONGOLIAN" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/ontology/authority/authority-code> "BRAILLE" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Devanagari script"@en .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://purl.org/dc/elements/1.1/identifier> "GEORGIAN" .
+_:n4ffdd17be025475da97cc916de6765ddb45 <http://publications.europa.eu/ontology/authority/legacy-code> "350" .
+_:n4ffdd17be025475da97cc916de6765ddb36 <http://publications.europa.eu/ontology/authority/legacy-code> "355" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gujarati script"@en .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/resource/authority/op-code> "MYANMAR" .
+_:n4ffdd17be025475da97cc916de6765ddb45 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb18 .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb42 .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/ontology/authority/op-code> "GREEK" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/ontology/authority/op-code> "HIRAGANA" .
+_:n4ffdd17be025475da97cc916de6765ddb13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/resource/authority/op-code> "HEBREW" .
+_:n4ffdd17be025475da97cc916de6765ddb51 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greek script"@en .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://purl.org/dc/elements/1.1/identifier> "HANGUL" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/script> <http://publications.europa.eu/ontology/authority/prefLabel> "Script"@en .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb26 .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb61 .
+_:n4ffdd17be025475da97cc916de6765ddb34 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+_:n4ffdd17be025475da97cc916de6765ddb18 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb48 .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb56 .
+_:n4ffdd17be025475da97cc916de6765ddb40 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb16 <http://publications.europa.eu/ontology/authority/legacy-code> "Geor" .
+_:n4ffdd17be025475da97cc916de6765ddb43 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+_:n4ffdd17be025475da97cc916de6765ddb52 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/resource/authority/op-code> "THAI" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+_:n4ffdd17be025475da97cc916de6765ddb61 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/resource/authority/op-code> "GREEK" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/resource/authority/op-code> "TAGALOG" .
+_:n4ffdd17be025475da97cc916de6765ddb61 <http://publications.europa.eu/ontology/authority/legacy-code> "Tfng" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://purl.org/dc/elements/1.1/identifier> "BRAILLE" .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Han script"@en .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb28 <http://publications.europa.eu/ontology/authority/legacy-code> "Hebr" .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb23 .
+_:n4ffdd17be025475da97cc916de6765ddb29 <http://publications.europa.eu/ontology/authority/legacy-code> "Hira" .
+_:n4ffdd17be025475da97cc916de6765ddb11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb56 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Braille script"@en .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://purl.org/dc/elements/1.1/identifier> "ARMENIAN" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb22 .
+_:n4ffdd17be025475da97cc916de6765ddb35 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb47 .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb14 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/ontology/authority/authority-code> "HAN" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb3 .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb17 .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://purl.org/dc/elements/1.1/identifier> "THAANA" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/ontology/authority/authority-code> "KANNADA" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb20 .
+<http://publications.europa.eu/resource/authority/script> <http://www.w3.org/2002/07/owl#versionInfo> "20200624-0" .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://purl.org/dc/elements/1.1/identifier> "HAN" .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telugu script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb22 <http://publications.europa.eu/ontology/authority/legacy-code> "310" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/resource/authority/op-code> "HIRAGANA" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://purl.org/dc/elements/1.1/identifier> "KANNADA" .
+_:n4ffdd17be025475da97cc916de6765ddb46 <http://publications.europa.eu/ontology/authority/legacy-code> "Mymr" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+_:n4ffdd17be025475da97cc916de6765ddb25 <http://publications.europa.eu/ontology/authority/legacy-code> "Hang" .
+<http://publications.europa.eu/resource/authority/script> <http://publications.europa.eu/ontology/authority/table.version.number> "20200624-0" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gurmukhi script"@en .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://purl.org/dc/elements/1.1/identifier> "BENGALI" .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb33 .
+_:n4ffdd17be025475da97cc916de6765ddb32 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb44 <http://publications.europa.eu/ontology/authority/legacy-code> "Mong" .
+_:n4ffdd17be025475da97cc916de6765ddb50 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lao script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb60 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb34 .
+_:n4ffdd17be025475da97cc916de6765ddb51 <http://publications.europa.eu/ontology/authority/legacy-code> "346" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hiragana script"@en .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/ontology/authority/op-code> "LATIN" .
+_:n4ffdd17be025475da97cc916de6765ddb4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/ontology/authority/authority-code> "ETHIOPIC" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hangul script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb37 <http://publications.europa.eu/ontology/authority/legacy-code> "356" .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tibetan script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb8 .
+_:n4ffdd17be025475da97cc916de6765ddb45 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/ontology/authority/authority-code> "ARABIC" .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://purl.org/dc/elements/1.1/identifier> "ETHIOPIC" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb19 .
+_:n4ffdd17be025475da97cc916de6765ddb43 <http://publications.europa.eu/ontology/authority/legacy-code> "145" .
+_:n4ffdd17be025475da97cc916de6765ddb55 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb19 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb33 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/ontology/authority/op-code> "TIBETAN" .
+_:n4ffdd17be025475da97cc916de6765ddb1 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+_:n4ffdd17be025475da97cc916de6765ddb20 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+_:n4ffdd17be025475da97cc916de6765ddb3 <http://publications.europa.eu/ontology/authority/legacy-code> "Armn" .
+_:n4ffdd17be025475da97cc916de6765ddb24 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb34 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb47 <http://publications.europa.eu/ontology/authority/legacy-code> "348" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/resource/authority/op-code> "LATIN" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb49 .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/ontology/authority/authority-code> "LAO" .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb45 .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/ontology/authority/authority-code> "TIFINAGH" .
+_:n4ffdd17be025475da97cc916de6765ddb54 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/ontology/authority/authority-code> "DEVANAGARI" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kannada script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb39 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb27 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb28 .
+_:n4ffdd17be025475da97cc916de6765ddb34 <http://publications.europa.eu/ontology/authority/legacy-code> "411" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb15 .
+_:n4ffdd17be025475da97cc916de6765ddb53 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://purl.org/dc/elements/1.1/identifier> "TIFINAGH" .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/resource/authority/op-code> "TIBETAN" .
+_:n4ffdd17be025475da97cc916de6765ddb19 <http://publications.europa.eu/ontology/authority/legacy-code> "Gujr" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb32 .
+_:n4ffdd17be025475da97cc916de6765ddb17 <http://publications.europa.eu/ontology/authority/legacy-code> "Grek" .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb23 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tifinagh script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb56 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb27 .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/ontology/authority/op-code> "LAO" .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://purl.org/dc/elements/1.1/identifier> "ARABIC" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/ontology/authority/authority-code> "GEORGIAN" .
+_:n4ffdd17be025475da97cc916de6765ddb36 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb55 .
+_:n4ffdd17be025475da97cc916de6765ddb24 <http://publications.europa.eu/ontology/authority/legacy-code> "Hani" .
+_:n4ffdd17be025475da97cc916de6765ddb46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb31 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb60 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb57 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+_:n4ffdd17be025475da97cc916de6765ddb21 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/ontology/authority/op-code> "KHMER" .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/ontology/authority/authority-code> "TELUGU" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb27 <http://publications.europa.eu/ontology/authority/legacy-code> "125" .
+_:n4ffdd17be025475da97cc916de6765ddb59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb50 <http://publications.europa.eu/ontology/authority/legacy-code> "Tglg" .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb2 .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arabic script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb33 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb39 .
+_:n4ffdd17be025475da97cc916de6765ddb38 <http://publications.europa.eu/ontology/authority/legacy-code> "Laoo" .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://purl.org/dc/elements/1.1/identifier> "TELUGU" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://purl.org/dc/elements/1.1/identifier> "DEVANAGARI" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/ontology/authority/authority-code> "SINHALA" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/ontology/authority/start.use> "2007-01-01" .
+_:n4ffdd17be025475da97cc916de6765ddb31 <http://publications.europa.eu/ontology/authority/legacy-code> "345" .
+_:n4ffdd17be025475da97cc916de6765ddb38 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/ontology/authority/authority-code> "MALAYALAM" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/ontology/authority/op-code> "GEORGIAN" .
+_:n4ffdd17be025475da97cc916de6765ddb30 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://publications.europa.eu/ontology/authority/authority-code> "GUJARATI" .
+_:n4ffdd17be025475da97cc916de6765ddb58 <http://publications.europa.eu/ontology/authority/legacy-code> "Thai" .
+_:n4ffdd17be025475da97cc916de6765ddb6 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thaana script"@en .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb24 .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+_:n4ffdd17be025475da97cc916de6765ddb26 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mongolian script"@en .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/ontology/authority/op-code> "HANGUL" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Georgian script"@en .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb18 <http://publications.europa.eu/ontology/authority/legacy-code> "200" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb14 <http://publications.europa.eu/ontology/authority/legacy-code> "Ethi" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/ontology/authority/authority-code> "ARMENIAN" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyrillic script"@en .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/ontology/authority/authority-code> "GURMUKHI" .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb16 .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb46 .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb24 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb12 <http://publications.europa.eu/ontology/authority/legacy-code> "315" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://publications.europa.eu/ontology/authority/authority-code> "TAMIL" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://purl.org/dc/elements/1.1/identifier> "SINHALA" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/ontology/authority/op-code> "BRAILLE" .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/ontology/authority/authority-code> "THAANA" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/resource/authority/op-code> "ARABIC" .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://purl.org/dc/elements/1.1/identifier> "MALAYALAM" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/resource/authority/op-code> "KHMER" .
+_:n4ffdd17be025475da97cc916de6765ddb42 <http://publications.europa.eu/ontology/authority/legacy-code> "Mlym" .
+_:n4ffdd17be025475da97cc916de6765ddb5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/GUJARATI> <http://purl.org/dc/elements/1.1/identifier> "GUJARATI" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb49 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb37 .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/ontology/authority/authority-code> "MONGOLIAN" .
+_:n4ffdd17be025475da97cc916de6765ddb57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb59 <http://publications.europa.eu/ontology/authority/legacy-code> "Tibt" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/ontology/authority/op-code> "ARMENIAN" .
+_:n4ffdd17be025475da97cc916de6765ddb53 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katakana script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb28 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb9 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb30 .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/ontology/authority/authority-code> "BENGALI" .
+_:n4ffdd17be025475da97cc916de6765ddb29 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb62 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://purl.org/dc/elements/1.1/identifier> "MONGOLIAN" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/resource/authority/op-code> "LAO" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latin script"@en .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb41 .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb62 .
+_:n4ffdd17be025475da97cc916de6765ddb8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb25 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://publications.europa.eu/ontology/authority/authority-code> "MYANMAR" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/ontology/authority/op-code> "THAANA" .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://publications.europa.eu/ontology/authority/authority-code> "KATAKANA" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb53 .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://purl.org/dc/elements/1.1/identifier> "MYANMAR" .
+_:n4ffdd17be025475da97cc916de6765ddb51 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb22 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/resource/authority/op-code> "HANGUL" .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb14 .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://purl.org/dc/elements/1.1/identifier> "GURMUKHI" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb31 .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/ontology/authority/op-code> "KANNADA" .
+_:n4ffdd17be025475da97cc916de6765ddb44 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb40 .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar script"@en .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://purl.org/dc/elements/1.1/identifier> "KATAKANA" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb35 .
+_:n4ffdd17be025475da97cc916de6765ddb43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb6 <http://publications.europa.eu/ontology/authority/legacy-code> "325" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://purl.org/dc/elements/1.1/identifier> "TAMIL" .
+<http://publications.europa.eu/resource/authority/script/MYANMAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb60 <http://publications.europa.eu/ontology/authority/legacy-code> "330" .
+<http://publications.europa.eu/resource/authority/script> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+_:n4ffdd17be025475da97cc916de6765ddb48 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+_:n4ffdd17be025475da97cc916de6765ddb30 <http://publications.europa.eu/ontology/authority/legacy-code> "410" .
+_:n4ffdd17be025475da97cc916de6765ddb15 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/ontology/authority/authority-code> "THAI" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://publications.europa.eu/resource/authority/op-code> "GEORGIAN" .
+_:n4ffdd17be025475da97cc916de6765ddb25 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb18 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/resource/authority/op-code> "BRAILLE" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/ontology/authority/authority-code> "TAGALOG" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+_:n4ffdd17be025475da97cc916de6765ddb32 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/ontology/authority/op-code> "HAN" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://purl.org/dc/elements/1.1/identifier> "THAI" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+_:n4ffdd17be025475da97cc916de6765ddb7 <http://publications.europa.eu/ontology/authority/legacy-code> "Brai" .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb43 .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb40 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hebrew script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb58 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/KHMER> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb36 .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/ontology/authority/authority-code> "CYRILLIC" .
+_:n4ffdd17be025475da97cc916de6765ddb14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb52 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/ontology/authority/op-code> "BENGALI" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://purl.org/dc/elements/1.1/identifier> "CYRILLIC" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/ontology/authority/start.use> "1981-01-01" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://purl.org/dc/elements/1.1/identifier> "HEBREW" .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://publications.europa.eu/ontology/authority/authority-code> "GREEK" .
+_:n4ffdd17be025475da97cc916de6765ddb1 <http://publications.europa.eu/ontology/authority/legacy-code> "160" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb6 .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb35 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://publications.europa.eu/resource/authority/op-code> "THAANA" .
+_:n4ffdd17be025475da97cc916de6765ddb21 <http://publications.europa.eu/ontology/authority/legacy-code> "Guru" .
+_:n4ffdd17be025475da97cc916de6765ddb40 <http://publications.europa.eu/ontology/authority/legacy-code> "215" .
+<http://publications.europa.eu/resource/authority/script/GURMUKHI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb21 .
+_:n4ffdd17be025475da97cc916de6765ddb50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/ontology/authority/op-code> "ETHIOPIC" .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/script/KANNADA> <http://publications.europa.eu/resource/authority/op-code> "KANNADA" .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/HIRAGANA> <http://purl.org/dc/elements/1.1/identifier> "HIRAGANA" .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb54 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://purl.org/dc/elements/1.1/identifier> "TAGALOG" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb61 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/resource/authority/op-code> "ARMENIAN" .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb41 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+_:n4ffdd17be025475da97cc916de6765ddb49 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb10 .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethiopic script"@en .
+<http://publications.europa.eu/resource/authority/script/THAANA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb19 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb10 <http://publications.europa.eu/ontology/authority/legacy-code> "Cyrl" .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script> <http://publications.europa.eu/ontology/authority/table.id> "script" .
+<http://publications.europa.eu/resource/authority/script/HAN> <http://publications.europa.eu/resource/authority/op-code> "HAN" .
+_:n4ffdd17be025475da97cc916de6765ddb58 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/ontology/authority/op-code> "CYRILLIC" .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb4 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb25 .
+_:n4ffdd17be025475da97cc916de6765ddb1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://purl.org/dc/elements/1.1/identifier> "GREEK" .
+_:n4ffdd17be025475da97cc916de6765ddb20 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n4ffdd17be025475da97cc916de6765ddb26 <http://publications.europa.eu/ontology/authority/legacy-code> "286" .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/BENGALI> <http://publications.europa.eu/resource/authority/op-code> "BENGALI" .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/ontology/authority/op-code> "TIFINAGH" .
+_:n4ffdd17be025475da97cc916de6765ddb47 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+_:n4ffdd17be025475da97cc916de6765ddb49 <http://publications.europa.eu/ontology/authority/legacy-code> "370" .
+_:n4ffdd17be025475da97cc916de6765ddb52 <http://publications.europa.eu/ontology/authority/legacy-code> "Taml" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/ontology/authority/op-code> "DEVANAGARI" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb57 .
+<http://publications.europa.eu/resource/authority/script/ARMENIAN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armenian script"@en .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb44 .
+<http://publications.europa.eu/resource/authority/script/ARABIC> <http://publications.europa.eu/ontology/authority/op-code> "ARABIC" .
+_:n4ffdd17be025475da97cc916de6765ddb5 <http://publications.europa.eu/ontology/authority/legacy-code> "Beng" .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb11 .
+_:n4ffdd17be025475da97cc916de6765ddb9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/script/TIBETAN> <http://publications.europa.eu/ontology/authority/authority-code> "TIBETAN" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thai script"@en .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/resource/authority/op-code> "ETHIOPIC" .
+<http://publications.europa.eu/resource/authority/script/HEBREW> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/ETHIOPIC> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb13 .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/script/BRAILLE> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb7 .
+<http://publications.europa.eu/resource/authority/script/KATAKANA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/ontology/authority/op-code> "TELUGU" .
+_:n4ffdd17be025475da97cc916de6765ddb17 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sinhala script"@en .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://publications.europa.eu/ontology/authority/authority-code> "LATIN" .
+_:n4ffdd17be025475da97cc916de6765ddb2 <http://publications.europa.eu/ontology/authority/legacy-code> "Arab" .
+<http://publications.europa.eu/resource/authority/script/THAI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n4ffdd17be025475da97cc916de6765ddb4 <http://publications.europa.eu/ontology/authority/legacy-code> "230" .
+_:n4ffdd17be025475da97cc916de6765ddb32 <http://publications.europa.eu/ontology/authority/legacy-code> "Knda" .
+<http://publications.europa.eu/resource/authority/script/TAMIL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tamil script"@en .
+_:n4ffdd17be025475da97cc916de6765ddb13 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/HANGUL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n4ffdd17be025475da97cc916de6765ddb3 <http://purl.org/dc/elements/1.1/source> "iso-15924-alpha-4" .
+<http://publications.europa.eu/resource/authority/script/LAO> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb38 .
+<http://publications.europa.eu/resource/authority/script/TAGALOG> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb50 .
+<http://publications.europa.eu/resource/authority/script/MONGOLIAN> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/script/LATIN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+<http://publications.europa.eu/resource/authority/script/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/script/SINHALA> <http://publications.europa.eu/ontology/authority/op-code> "SINHALA" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/resource/authority/op-code> "CYRILLIC" .
+<http://publications.europa.eu/resource/authority/script/GREEK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/script> .
+_:n4ffdd17be025475da97cc916de6765ddb55 <http://publications.europa.eu/ontology/authority/legacy-code> "Thaa" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/script/MALAYALAM> <http://publications.europa.eu/ontology/authority/op-code> "MALAYALAM" .
+_:n4ffdd17be025475da97cc916de6765ddb57 <http://publications.europa.eu/ontology/authority/legacy-code> "352" .
+<http://publications.europa.eu/resource/authority/script/CYRILLIC> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n4ffdd17be025475da97cc916de6765ddb9 .
+_:n4ffdd17be025475da97cc916de6765ddb31 <http://purl.org/dc/elements/1.1/source> "iso-15924-num" .
+<http://publications.europa.eu/resource/authority/script/TIFINAGH> <http://publications.europa.eu/resource/authority/op-code> "TIFINAGH" .
+<http://publications.europa.eu/resource/authority/script/GEORGIAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/script/DEVANAGARI> <http://publications.europa.eu/resource/authority/op-code> "DEVANAGARI" .
+<http://publications.europa.eu/resource/authority/script/TELUGU> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+

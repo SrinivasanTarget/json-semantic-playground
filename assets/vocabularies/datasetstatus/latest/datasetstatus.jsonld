@@ -1,0 +1,870 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status/DISCONT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DISCONT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DISCONT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DISCONT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DISCONT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "fr",
+        "@value": "interrompue"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "временно преустановено"
+      },
+      {
+        "@language": "cs",
+        "@value": "zastaveno"
+      },
+      {
+        "@language": "da",
+        "@value": "ophørt"
+      },
+      {
+        "@language": "de",
+        "@value": "unterbrochen"
+      },
+      {
+        "@language": "el",
+        "@value": "διακοπή"
+      },
+      {
+        "@language": "en",
+        "@value": "discontinued"
+      },
+      {
+        "@language": "es",
+        "@value": "interrumpido"
+      },
+      {
+        "@language": "et",
+        "@value": "lõpetatud"
+      },
+      {
+        "@language": "fi",
+        "@value": "keskeytetty"
+      },
+      {
+        "@language": "fr",
+        "@value": "interrompu"
+      },
+      {
+        "@language": "ga",
+        "@value": "scortha"
+      },
+      {
+        "@language": "hr",
+        "@value": "obustavljeno"
+      },
+      {
+        "@language": "hu",
+        "@value": "szüneteltetve"
+      },
+      {
+        "@language": "it",
+        "@value": "interrotta"
+      },
+      {
+        "@language": "lt",
+        "@value": "nebeatnaujinama"
+      },
+      {
+        "@language": "lv",
+        "@value": "sagatavošana pārtraukta"
+      },
+      {
+        "@language": "mt",
+        "@value": "interrott"
+      },
+      {
+        "@language": "nl",
+        "@value": "stopgezet"
+      },
+      {
+        "@language": "no",
+        "@value": "avviklet"
+      },
+      {
+        "@language": "pl",
+        "@value": "przerwano"
+      },
+      {
+        "@language": "pt",
+        "@value": "interrompida"
+      },
+      {
+        "@language": "ro",
+        "@value": "întreruptă"
+      },
+      {
+        "@language": "sk",
+        "@value": "pozastavené"
+      },
+      {
+        "@language": "sl",
+        "@value": "začasno prekinjeno"
+      },
+      {
+        "@language": "sv",
+        "@value": "har upphört"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WITHDRAWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WITHDRAWN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WITHDRAWN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WITHDRAWN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "оттеглен"
+      },
+      {
+        "@language": "cs",
+        "@value": "odstraněn"
+      },
+      {
+        "@language": "da",
+        "@value": "trukket tilbage"
+      },
+      {
+        "@language": "de",
+        "@value": "eingestellt"
+      },
+      {
+        "@language": "el",
+        "@value": "αποσύρθηκε"
+      },
+      {
+        "@language": "en",
+        "@value": "withdrawn"
+      },
+      {
+        "@language": "es",
+        "@value": "retirado"
+      },
+      {
+        "@language": "et",
+        "@value": "tühistatud"
+      },
+      {
+        "@language": "fi",
+        "@value": "vedetty pois"
+      },
+      {
+        "@language": "fr",
+        "@value": "retiré"
+      },
+      {
+        "@language": "hr",
+        "@value": "obustavljen"
+      },
+      {
+        "@language": "hu",
+        "@value": "visszavont"
+      },
+      {
+        "@language": "it",
+        "@value": "ritirato"
+      },
+      {
+        "@language": "lt",
+        "@value": "atsiimtas"
+      },
+      {
+        "@language": "lv",
+        "@value": "atsaukts"
+      },
+      {
+        "@language": "mt",
+        "@value": "irtirat"
+      },
+      {
+        "@language": "nl",
+        "@value": "ingetrokken"
+      },
+      {
+        "@language": "no",
+        "@value": "trukket tilbake"
+      },
+      {
+        "@language": "pl",
+        "@value": "wycofany"
+      },
+      {
+        "@language": "pt",
+        "@value": "retirado"
+      },
+      {
+        "@language": "ro",
+        "@value": "retras"
+      },
+      {
+        "@language": "sk",
+        "@value": "odstránený"
+      },
+      {
+        "@language": "sl",
+        "@value": "odstranjeno"
+      },
+      {
+        "@language": "sv",
+        "@value": "indragen"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dataset status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "dataset-status"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Dataset status"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20160921-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Dataset status"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status/COMPLETED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COMPLETED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COMPLETED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COMPLETED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COMPLETED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "пълен"
+      },
+      {
+        "@language": "cs",
+        "@value": "dokončen"
+      },
+      {
+        "@language": "da",
+        "@value": "færdiggjort"
+      },
+      {
+        "@language": "de",
+        "@value": "vollständig"
+      },
+      {
+        "@language": "el",
+        "@value": "πλήρη δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "completed"
+      },
+      {
+        "@language": "es",
+        "@value": "completo"
+      },
+      {
+        "@language": "et",
+        "@value": "täielik"
+      },
+      {
+        "@language": "fi",
+        "@value": "valmis"
+      },
+      {
+        "@language": "fr",
+        "@value": "complété"
+      },
+      {
+        "@language": "hr",
+        "@value": "potpun"
+      },
+      {
+        "@language": "hu",
+        "@value": "kész"
+      },
+      {
+        "@language": "it",
+        "@value": "completato"
+      },
+      {
+        "@language": "lt",
+        "@value": "baigtas"
+      },
+      {
+        "@language": "lv",
+        "@value": "pabeigts"
+      },
+      {
+        "@language": "mt",
+        "@value": "komplut"
+      },
+      {
+        "@language": "nl",
+        "@value": "voltooid"
+      },
+      {
+        "@language": "no",
+        "@value": "ferdigstilt"
+      },
+      {
+        "@language": "pl",
+        "@value": "ukończony"
+      },
+      {
+        "@language": "pt",
+        "@value": "completado"
+      },
+      {
+        "@language": "ro",
+        "@value": "finalizat"
+      },
+      {
+        "@language": "sk",
+        "@value": "dokončený"
+      },
+      {
+        "@language": "sl",
+        "@value": "dokončano"
+      },
+      {
+        "@language": "sv",
+        "@value": "fullständig"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEPRECATED"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "непрепоръчителен"
+      },
+      {
+        "@language": "cs",
+        "@value": "zastaralý"
+      },
+      {
+        "@language": "da",
+        "@value": "frarådet"
+      },
+      {
+        "@language": "de",
+        "@value": "veraltet"
+      },
+      {
+        "@language": "el",
+        "@value": "παρωχημένα δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "deprecated"
+      },
+      {
+        "@language": "es",
+        "@value": "desaconsejado"
+      },
+      {
+        "@language": "et",
+        "@value": "taunitav"
+      },
+      {
+        "@language": "fi",
+        "@value": "hylättävä"
+      },
+      {
+        "@language": "fr",
+        "@value": "déconseillé"
+      },
+      {
+        "@language": "hr",
+        "@value": "nevažeći"
+      },
+      {
+        "@language": "hu",
+        "@value": "elavult"
+      },
+      {
+        "@language": "it",
+        "@value": "sconsigliato"
+      },
+      {
+        "@language": "lt",
+        "@value": "nerekomenduojamas"
+      },
+      {
+        "@language": "lv",
+        "@value": "novecojis"
+      },
+      {
+        "@language": "mt",
+        "@value": "mhux aktar fl-użu"
+      },
+      {
+        "@language": "nl",
+        "@value": "verouderd"
+      },
+      {
+        "@language": "no",
+        "@value": "foreldet"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieaktualny"
+      },
+      {
+        "@language": "pt",
+        "@value": "desaconselhado"
+      },
+      {
+        "@language": "ro",
+        "@value": "nerecomandat"
+      },
+      {
+        "@language": "sk",
+        "@value": "zastaraný"
+      },
+      {
+        "@language": "sl",
+        "@value": "odsvetovano"
+      },
+      {
+        "@language": "sv",
+        "@value": "bör ej användas"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/dataset-status/DEVELOP",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DEVELOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DEVELOP"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DEVELOP"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DEVELOP"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/dataset-status"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "в процес на създаване"
+      },
+      {
+        "@language": "cs",
+        "@value": "ve fázi vývoje"
+      },
+      {
+        "@language": "da",
+        "@value": "under udvikling"
+      },
+      {
+        "@language": "de",
+        "@value": "im Aufbau"
+      },
+      {
+        "@language": "el",
+        "@value": "υπό κατασκευή"
+      },
+      {
+        "@language": "en",
+        "@value": "under development"
+      },
+      {
+        "@language": "es",
+        "@value": "en fase de elaboración"
+      },
+      {
+        "@language": "et",
+        "@value": "töös"
+      },
+      {
+        "@language": "fi",
+        "@value": "kehitteillä"
+      },
+      {
+        "@language": "fr",
+        "@value": "en cours d'élaboration"
+      },
+      {
+        "@language": "hr",
+        "@value": "u izradi"
+      },
+      {
+        "@language": "hu",
+        "@value": "kidolgozás alatt"
+      },
+      {
+        "@language": "it",
+        "@value": "in corso di sviluppo"
+      },
+      {
+        "@language": "lt",
+        "@value": "sudaromas"
+      },
+      {
+        "@language": "lv",
+        "@value": "izstrādes stadijā"
+      },
+      {
+        "@language": "mt",
+        "@value": "qed jiġi żviluppat"
+      },
+      {
+        "@language": "nl",
+        "@value": "in ontwikkeling"
+      },
+      {
+        "@language": "no",
+        "@value": "under utvikling"
+      },
+      {
+        "@language": "pl",
+        "@value": "prace w toku"
+      },
+      {
+        "@language": "pt",
+        "@value": "em desenvolvimento"
+      },
+      {
+        "@language": "ro",
+        "@value": "în curs de pregătire"
+      },
+      {
+        "@language": "sk",
+        "@value": "vo fáze vývoja"
+      },
+      {
+        "@language": "sl",
+        "@value": "v pripravi"
+      },
+      {
+        "@language": "sv",
+        "@value": "arbete pågår"
+      }
+    ]
+  }
+]

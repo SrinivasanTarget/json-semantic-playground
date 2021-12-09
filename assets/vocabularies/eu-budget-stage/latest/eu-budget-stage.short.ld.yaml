@@ -1,0 +1,76 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CPA
+  deprecated: 'false'
+  key: CPA
+  label_en: Completion preparatory action
+  label_it: "Completamento dell\u2019azione preparatoria"
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/CPA
+  valid_from: '1958-01-01'
+- country_code: CPP
+  deprecated: 'false'
+  key: CPP
+  label_en: Completion pilot project
+  label_it: Completamento del progetto pilota
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/CPP
+  valid_from: '1958-01-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/OP_DATPRO
+- country_code: PA1
+  deprecated: 'false'
+  key: PA1
+  label_en: Preparatory action first year
+  label_it: Azione preparatoria, primo anno
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/PA1
+  valid_from: '1958-01-01'
+- country_code: PA2
+  deprecated: 'false'
+  key: PA2
+  label_en: Preparatory action second year
+  label_it: Azione preparatoria, secondo anno
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/PA2
+  valid_from: '1958-01-01'
+- country_code: PA3
+  deprecated: 'false'
+  key: PA3
+  label_en: Preparatory action third year
+  label_it: Azione preparatoria, terzo anno
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/PA3
+  valid_from: '1958-01-01'
+- country_code: PP1
+  deprecated: 'false'
+  key: PP1
+  label_en: Pilot project first year
+  label_it: Progetto pilota, primo anno
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/PP1
+  valid_from: '1958-01-01'
+- country_code: PP2
+  deprecated: 'false'
+  key: PP2
+  label_en: Pilot project second year
+  label_it: Progetto pilota, secondo anno
+  url: http://publications.europa.eu/resource/authority/eu-budget-stage/PP2
+  valid_from: '1958-01-01'

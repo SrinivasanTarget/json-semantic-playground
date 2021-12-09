@@ -1,0 +1,48 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/case-report/OP_DATPRO
+- country_code: REPORT_CASE_1
+  deprecated: 'false'
+  key: REPORT_CASE_1
+  label_en: "General Reports \u2013 Court of Justice"
+  label_it: "Raccolta generale \u2013 Corte di giustizia"
+  url: http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_1
+  valid_from: '2015-01-01'
+- country_code: REPORT_CASE_2
+  deprecated: 'false'
+  key: REPORT_CASE_2
+  label_en: "General Report \u2013 General Court"
+  label_it: "Raccolta generale \u2013 Tribunale"
+  url: http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_2
+  valid_from: '2015-01-01'
+- country_code: REPORT_CASE_STAFF
+  deprecated: 'false'
+  key: REPORT_CASE_STAFF
+  label_en: Reports of Staff Cases
+  label_it: Raccolta della funzione pubblica
+  url: http://publications.europa.eu/resource/authority/case-report/REPORT_CASE_STAFF
+  valid_from: '2005-01-01'

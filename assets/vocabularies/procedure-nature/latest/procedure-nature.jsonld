@@ -1,0 +1,860 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature/LEG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LEG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "законодателно"
+      },
+      {
+        "@language": "cs",
+        "@value": "legislativní"
+      },
+      {
+        "@language": "da",
+        "@value": "lovgivningsmæssig"
+      },
+      {
+        "@language": "de",
+        "@value": "legislativ"
+      },
+      {
+        "@language": "el",
+        "@value": "νομοθετική"
+      },
+      {
+        "@language": "en",
+        "@value": "legislative"
+      },
+      {
+        "@language": "es",
+        "@value": "legislativo"
+      },
+      {
+        "@language": "et",
+        "@value": "seadusandlik"
+      },
+      {
+        "@language": "fi",
+        "@value": "lainsäädäntömenettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "législatif"
+      },
+      {
+        "@language": "ga",
+        "@value": "reachtach"
+      },
+      {
+        "@language": "hr",
+        "@value": "zakonodavni"
+      },
+      {
+        "@language": "hu",
+        "@value": "jogalkotási"
+      },
+      {
+        "@language": "it",
+        "@value": "legislativo"
+      },
+      {
+        "@language": "lt",
+        "@value": "teisėkūros"
+      },
+      {
+        "@language": "lv",
+        "@value": "leģislatīvs"
+      },
+      {
+        "@language": "mt",
+        "@value": "leġiżlattiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "wetgevend"
+      },
+      {
+        "@language": "pl",
+        "@value": "ustawodawczy"
+      },
+      {
+        "@language": "pt",
+        "@value": "legislativo"
+      },
+      {
+        "@language": "ro",
+        "@value": "cu caracter legislativ"
+      },
+      {
+        "@language": "sk",
+        "@value": "legislatívny"
+      },
+      {
+        "@language": "sl",
+        "@value": "zakonodajni"
+      },
+      {
+        "@language": "sv",
+        "@value": "lagstiftningsförfarande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature/INTERINST",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INTERINST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INTERINST"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INTERINST"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INTERINST"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "междуинституционално"
+      },
+      {
+        "@language": "cs",
+        "@value": "interinstitucionální"
+      },
+      {
+        "@language": "da",
+        "@value": "interinstitutionel"
+      },
+      {
+        "@language": "de",
+        "@value": "interinstitutionell"
+      },
+      {
+        "@language": "el",
+        "@value": "διοργανική"
+      },
+      {
+        "@language": "en",
+        "@value": "interinstitutional"
+      },
+      {
+        "@language": "es",
+        "@value": "interinstitucional"
+      },
+      {
+        "@language": "et",
+        "@value": "institutsioonidevaheline"
+      },
+      {
+        "@language": "fi",
+        "@value": "toimielinten välinen menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "interinstitutionnel"
+      },
+      {
+        "@language": "ga",
+        "@value": "idirinstitiúideach"
+      },
+      {
+        "@language": "hr",
+        "@value": "međuinstitucijski"
+      },
+      {
+        "@language": "hu",
+        "@value": "intézményközi"
+      },
+      {
+        "@language": "it",
+        "@value": "interistituzionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "tarpinstitucinis"
+      },
+      {
+        "@language": "lv",
+        "@value": "starpiestāžu"
+      },
+      {
+        "@language": "mt",
+        "@value": "interinstituzzjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "interinstitutioneel"
+      },
+      {
+        "@language": "pl",
+        "@value": "międzyinstytucjonalny"
+      },
+      {
+        "@language": "pt",
+        "@value": "interinstitucional"
+      },
+      {
+        "@language": "ro",
+        "@value": "interinstituțional"
+      },
+      {
+        "@language": "sk",
+        "@value": "medziinštitucionálny"
+      },
+      {
+        "@language": "sl",
+        "@value": "medinstitucionalni"
+      },
+      {
+        "@language": "sv",
+        "@value": "interinstitutionellt förfarande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature/JURISD",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "JURISD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "JURISD"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "JURISD"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "JURISD"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "съдебно"
+      },
+      {
+        "@language": "cs",
+        "@value": "jurisdikční"
+      },
+      {
+        "@language": "da",
+        "@value": "kompetencemæssig"
+      },
+      {
+        "@language": "de",
+        "@value": "gerichtlich"
+      },
+      {
+        "@language": "el",
+        "@value": "δικαιοδοτικού χαρακτήρα"
+      },
+      {
+        "@language": "en",
+        "@value": "jurisdictional"
+      },
+      {
+        "@language": "es",
+        "@value": "jurisdiccional"
+      },
+      {
+        "@language": "et",
+        "@value": "kohtualluvuslik"
+      },
+      {
+        "@language": "fi",
+        "@value": "tuomioistuinmenettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "juridictionnel"
+      },
+      {
+        "@language": "ga",
+        "@value": "dlínsiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "sudski"
+      },
+      {
+        "@language": "hu",
+        "@value": "bírósági"
+      },
+      {
+        "@language": "it",
+        "@value": "giurisdizionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "teisminis"
+      },
+      {
+        "@language": "lv",
+        "@value": "tiesas ceļā"
+      },
+      {
+        "@language": "mt",
+        "@value": "ġurisdizzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "formeelrechtelijk"
+      },
+      {
+        "@language": "pl",
+        "@value": "sądowy"
+      },
+      {
+        "@language": "pt",
+        "@value": "jurisdicional"
+      },
+      {
+        "@language": "ro",
+        "@value": "jurisdicțional"
+      },
+      {
+        "@language": "sk",
+        "@value": "jurisdikčný"
+      },
+      {
+        "@language": "sl",
+        "@value": "sodni"
+      },
+      {
+        "@language": "sv",
+        "@value": "domstolsförfarande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature/NON_LEG",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "NON_LEG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "NON_LEG"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "NON_LEG"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "NON_LEG"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "незаконодателно"
+      },
+      {
+        "@language": "cs",
+        "@value": "nelegislativní"
+      },
+      {
+        "@language": "da",
+        "@value": "ikkelovgivningsmæssig"
+      },
+      {
+        "@language": "de",
+        "@value": "nicht legislativ"
+      },
+      {
+        "@language": "el",
+        "@value": "μη νομοθετική"
+      },
+      {
+        "@language": "en",
+        "@value": "non legislative"
+      },
+      {
+        "@language": "es",
+        "@value": "no legislativo"
+      },
+      {
+        "@language": "et",
+        "@value": "muu kui seadusandlik"
+      },
+      {
+        "@language": "fi",
+        "@value": "muu kuin lainsäädäntömenettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "non législatif"
+      },
+      {
+        "@language": "ga",
+        "@value": "neamhreachtach"
+      },
+      {
+        "@language": "hr",
+        "@value": "nezakonodavni"
+      },
+      {
+        "@language": "hu",
+        "@value": "nem jogalkotási"
+      },
+      {
+        "@language": "it",
+        "@value": "non legislativo"
+      },
+      {
+        "@language": "lt",
+        "@value": "ne teisėkūros"
+      },
+      {
+        "@language": "lv",
+        "@value": "neleģislatīvs"
+      },
+      {
+        "@language": "mt",
+        "@value": "mhux leġiżlattiv"
+      },
+      {
+        "@language": "nl",
+        "@value": "niet-wetgevend"
+      },
+      {
+        "@language": "pl",
+        "@value": "nieustawodawczy"
+      },
+      {
+        "@language": "pt",
+        "@value": "não legislativo"
+      },
+      {
+        "@language": "ro",
+        "@value": "fără caracter legislativ"
+      },
+      {
+        "@language": "sk",
+        "@value": "nelegislatívny"
+      },
+      {
+        "@language": "sl",
+        "@value": "nezakonodajni"
+      },
+      {
+        "@language": "sv",
+        "@value": "icke-lagstiftningsförfarande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature/INT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "INT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "INT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1958-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "INT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "INT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/procedure-nature"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "вътрешно"
+      },
+      {
+        "@language": "cs",
+        "@value": "vnitřní"
+      },
+      {
+        "@language": "da",
+        "@value": "intern"
+      },
+      {
+        "@language": "de",
+        "@value": "intern"
+      },
+      {
+        "@language": "el",
+        "@value": "εσωτερική"
+      },
+      {
+        "@language": "en",
+        "@value": "internal"
+      },
+      {
+        "@language": "es",
+        "@value": "interno"
+      },
+      {
+        "@language": "et",
+        "@value": "sisemine"
+      },
+      {
+        "@language": "fi",
+        "@value": "sisäinen menettely"
+      },
+      {
+        "@language": "fr",
+        "@value": "interne"
+      },
+      {
+        "@language": "ga",
+        "@value": "inmheánach"
+      },
+      {
+        "@language": "hr",
+        "@value": "interni"
+      },
+      {
+        "@language": "hu",
+        "@value": "belső"
+      },
+      {
+        "@language": "it",
+        "@value": "interno"
+      },
+      {
+        "@language": "lt",
+        "@value": "vidaus"
+      },
+      {
+        "@language": "lv",
+        "@value": "iekšējs"
+      },
+      {
+        "@language": "mt",
+        "@value": "intern"
+      },
+      {
+        "@language": "nl",
+        "@value": "intern"
+      },
+      {
+        "@language": "pl",
+        "@value": "wewnętrzny"
+      },
+      {
+        "@language": "pt",
+        "@value": "interno"
+      },
+      {
+        "@language": "ro",
+        "@value": "intern"
+      },
+      {
+        "@language": "sk",
+        "@value": "interný"
+      },
+      {
+        "@language": "sl",
+        "@value": "interni"
+      },
+      {
+        "@language": "sv",
+        "@value": "internt förfarande"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/procedure-nature",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Procedure nature"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "procedure-nature"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Procedure nature"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Procedure nature"
+      }
+    ]
+  }
+]

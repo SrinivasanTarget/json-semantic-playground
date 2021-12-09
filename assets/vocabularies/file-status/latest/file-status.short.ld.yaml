@@ -1,0 +1,116 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: PROC_COMPLETED
+  deprecated: 'false'
+  key: PROC_COMPLETED
+  label_en: Completed procedure
+  label_it: Procedura completata
+  url: http://publications.europa.eu/resource/authority/file-status/PROC_COMPLETED
+  valid_from: '2018-12-12'
+- country_code: PROC_PENDING
+  deprecated: 'false'
+  key: PROC_PENDING
+  label_en: Pending procedure
+  label_it: Procedura in sospeso
+  url: http://publications.europa.eu/resource/authority/file-status/PROC_PENDING
+  valid_from: '2018-12-12'
+- country_code: PROC_WITHDRAWN
+  deprecated: 'false'
+  key: PROC_WITHDRAWN
+  label_en: Withdrawn procedure
+  label_it: Procedura ritirata
+  url: http://publications.europa.eu/resource/authority/file-status/PROC_WITHDRAWN
+  valid_from: '2018-12-12'
+- country_code: PROP_ACCEPTED
+  deprecated: 'false'
+  key: PROP_ACCEPTED
+  label_en: Accepted proposal
+  label_it: Proposta accettata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED
+  valid_from: '2021-03-17'
+- country_code: PROP_ACCEPTED_PART
+  deprecated: 'false'
+  key: PROP_ACCEPTED_PART
+  label_en: Partially accepted proposal
+  label_it: Proposta parzialmente accettata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED_PART
+  valid_from: '2021-03-17'
+- country_code: PROP_ADOPTED
+  deprecated: 'true'
+  key: PROP_ADOPTED
+  label_en: Adopted proposal
+  label_it: Proposta adottata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED
+  valid_from: '2018-12-12'
+  valid_until: '2021-03-16'
+- country_code: PROP_ADOPTED_PART
+  deprecated: 'true'
+  key: PROP_ADOPTED_PART
+  label_en: Partially adopted proposal
+  label_it: Proposta parzialmente adottata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED_PART
+  valid_from: '2018-12-12'
+  valid_until: '2021-03-16'
+- country_code: PROP_PENDING
+  deprecated: 'true'
+  key: PROP_PENDING
+  label_en: Pending proposal
+  label_it: Proposta in sospeso
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_PENDING
+  valid_from: '2018-12-12'
+  valid_until: '2021-03-16'
+- country_code: PROP_REJECTED
+  deprecated: 'false'
+  key: PROP_REJECTED
+  label_en: Rejected proposal
+  label_it: Proposta respinta
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_REJECTED
+  valid_from: '2021-03-17'
+- country_code: PROP_SUBMITTED
+  deprecated: 'false'
+  key: PROP_SUBMITTED
+  label_en: Submitted proposal
+  label_it: Proposta presentata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_SUBMITTED
+  valid_from: '2021-03-17'
+- country_code: PROP_WITHDRAWN
+  deprecated: 'false'
+  key: PROP_WITHDRAWN
+  label_en: Withdrawn proposal
+  label_it: Proposta ritirata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN
+  valid_from: '2018-12-12'
+- country_code: PROP_WITHDRAWN_PART
+  deprecated: 'false'
+  key: PROP_WITHDRAWN_PART
+  label_en: Partially withdrawn proposal
+  label_it: Proposta parzialmente ritirata
+  url: http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN_PART
+  valid_from: '2018-12-12'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/file_status/OP_DATPRO
+  valid_from: '1952-07-23'

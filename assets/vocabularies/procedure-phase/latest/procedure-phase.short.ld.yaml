@@ -1,0 +1,62 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CONCILIA
+  deprecated: 'false'
+  key: CONCILIA
+  label_en: Conciliation
+  label_it: Conciliazione
+  url: http://publications.europa.eu/resource/authority/procedure-phase/CONCILIA
+  valid_from: '2009-12-01'
+- country_code: INI_LEGIS
+  deprecated: 'false'
+  key: INI_LEGIS
+  label_en: Legislative initiative
+  label_it: Iniziativa legislativa
+  url: http://publications.europa.eu/resource/authority/procedure-phase/INI_LEGIS
+  valid_from: '2009-12-01'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/procedure-phase/OP_DATPRO
+- country_code: RDG1
+  deprecated: 'false'
+  key: RDG1
+  label_en: First reading
+  label_it: Prima lettura
+  url: http://publications.europa.eu/resource/authority/procedure-phase/RDG1
+  valid_from: '2009-12-01'
+- country_code: RDG2
+  deprecated: 'false'
+  key: RDG2
+  label_en: Second reading
+  label_it: Seconda lettura
+  url: http://publications.europa.eu/resource/authority/procedure-phase/RDG2
+  valid_from: '2009-12-01'
+- country_code: RDG3
+  deprecated: 'false'
+  key: RDG3
+  label_en: Third reading
+  label_it: Terza lettura
+  url: http://publications.europa.eu/resource/authority/procedure-phase/RDG3
+  valid_from: '2009-12-01'

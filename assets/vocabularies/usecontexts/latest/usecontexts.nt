@@ -1,0 +1,556 @@
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://publications.europa.eu/ontology/authority/op-code> "ID_INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://www.w3.org/2004/02/skos/core#changeNote> "PUB covers also \"PUB_CORP\", this concept has been deleted, 21/01/2015"@en .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://www.w3.org/2004/02/skos/core#prefLabel> "ODP"@en .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://www.w3.org/2004/02/skos/core#prefLabel> "DEMED"@en .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://www.w3.org/2004/02/skos/core#prefLabel> "COMREF"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://publications.europa.eu/resource/authority/op-code> "IMMC_CURIA" .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://publications.europa.eu/ontology/authority/authority-code> "SIGN_LANGUAGE" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://publications.europa.eu/resource/authority/op-code> "ODP" .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://publications.europa.eu/ontology/authority/op-code> "NOTICE_VIEWER" .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notice Viewer"@en .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context> <http://www.w3.org/2000/01/rdf-schema#label> "Use context"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://purl.org/dc/elements/1.1/identifier> "SIGN_LANGUAGE" .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://publications.europa.eu/ontology/authority/op-code> "TED_SCHEMA" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://publications.europa.eu/ontology/authority/authority-code> "DEMED" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://www.w3.org/2004/02/skos/core#prefLabel> "WHOISWHO_institution_id"@en .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://publications.europa.eu/ontology/authority/op-code> "OJ" .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://publications.europa.eu/ontology/authority/authority-code> "EU_OMR_OCT" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://publications.europa.eu/ontology/authority/authority-code> "DCAT_AP" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://publications.europa.eu/ontology/authority/start.use> "2020-06-24" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://purl.org/dc/elements/1.1/identifier> "IMMC_ECA" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Codification Data"@en .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://publications.europa.eu/resource/authority/op-code> "ID_INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://www.w3.org/2004/02/skos/core#prefLabel> "ESPD"@en .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://publications.europa.eu/resource/authority/op-code> "PLANPUBLI" .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://purl.org/dc/elements/1.1/identifier> "EU_OMR_OCT" .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://purl.org/dc/elements/1.1/identifier> "EUDOR" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://publications.europa.eu/resource/authority/op-code> "ELI" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://purl.org/dc/elements/1.1/identifier> "COUNTRY" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "FORMEX"@en .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Multilingual authority table for filtering concepts used by PlanPubli, the workflow application of general publications at the Publications Office."@en .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://publications.europa.eu/resource/authority/op-code> "TED_SCHEMA" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by EurLex domain in ATTO (Atelier des Tables de Traductions de l\u2019Office des publications)."@en .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://www.w3.org/2004/02/skos/core#prefLabel> "eForms"@en .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://publications.europa.eu/ontology/authority/start.use> "2012-12-12" .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://publications.europa.eu/ontology/authority/start.use> "2020-03-18" .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisational entity mnemonic code"@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://publications.europa.eu/ontology/authority/authority-code> "PUB_CORP" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Corporate body authority table for filtering concepts used by DEMED, the Demande Edition application."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://publications.europa.eu/ontology/authority/authority-code> "ESPD" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://publications.europa.eu/ontology/authority/start.use> "2016-05-25" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_ECA"@en .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for identifying concepts used in the European single procurement document (ESPD)."@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://purl.org/dc/elements/1.1/identifier> "PUB_CORP" .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://purl.org/dc/elements/1.1/identifier> "DCAT_AP" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://publications.europa.eu/ontology/authority/op-code> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://publications.europa.eu/ontology/authority/start.use> "2020-06-24" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://publications.europa.eu/resource/authority/op-code> "NOTICE_VIEWER" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_EESC"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the Council of the European Union."@en .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://publications.europa.eu/resource/authority/op-code> "OJ" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by COMREF, the European Commission's Human Resources Database."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sign language"@en .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the authority tables for identifying concepts used across the websites of different directorates-general of the European Commission."@en .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://publications.europa.eu/ontology/authority/op-code> "CODIF_DATA" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://publications.europa.eu/resource/authority/op-code> "EUDOR" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://purl.org/dc/elements/1.1/identifier> "ESPD" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://publications.europa.eu/ontology/authority/authority-code> "CJ" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://publications.europa.eu/ontology/authority/op-code> "DEMED" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://publications.europa.eu/ontology/authority/op-code> "ELI" .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://publications.europa.eu/ontology/authority/op-code> "PUB_CORP" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_EESC" .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://publications.europa.eu/ontology/authority/op-code> "DCAT_AP" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://publications.europa.eu/ontology/authority/op-code> "COMREF" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://purl.org/dc/elements/1.1/identifier> "CJ" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://publications.europa.eu/ontology/authority/authority-code> "COM_NEWS" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://www.w3.org/2004/02/skos/core#prefLabel> "EurLex"@en .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Corporate body authority table for filtering concepts used by PUB_CORP table of Publications domain in ATTO (Atelier des Tables de Traductions de l\u2019Office des publications)."@en .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://purl.org/dc/elements/1.1/identifier> "IMMC_EESC" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by CELLAR, the common content and metadata repository of the Publications Office."@en .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU Bookshop"@en .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/use-context> <http://www.w3.org/2004/02/skos/core#prefLabel> "Use context"@en .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://publications.europa.eu/ontology/authority/authority-code> "EP" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://purl.org/dc/elements/1.1/identifier> "COM_NEWS" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://publications.europa.eu/ontology/authority/op-code> "FORMEX" .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://publications.europa.eu/ontology/authority/start.use> "2020-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://publications.europa.eu/resource/authority/op-code> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://publications.europa.eu/ontology/authority/op-code> "EURLEX" .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://publications.europa.eu/resource/authority/op-code> "DEMED" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://publications.europa.eu/ontology/authority/authority-code> "INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://www.w3.org/2004/02/skos/core#prefLabel> "EP"@en .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://publications.europa.eu/ontology/authority/authority-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://www.w3.org/2004/02/skos/core#changeNote> "WHOISWHO covers also \"ANNINTER\"', this concept has been deleted after confirmation from Xavier Desurmont, 21/01/2015"@en .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://publications.europa.eu/resource/authority/op-code> "DCAT_AP" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://www.w3.org/2004/02/skos/core#changeNote> "requested by Jean Delahousse on 05/05/2015"@en .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://publications.europa.eu/ontology/authority/authority-code> "EFORMS" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://publications.europa.eu/ontology/authority/authority-code> "TED" .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://publications.europa.eu/ontology/authority/op-code> "EU_REC" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_CONSIL" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://publications.europa.eu/ontology/authority/authority-code> "ID_ENTITY" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://www.w3.org/2004/02/skos/core#prefLabel> "AKN4EU"@en .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for identifying concepts used in TED Schema (FORM_SECTION)."@en .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://publications.europa.eu/ontology/authority/op-code> "ESPD" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://publications.europa.eu/resource/authority/op-code> "EURLEX" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "OJEEP"@en .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/2004/02/skos/core#changeNote> "requested by Jean Delahousse on 05/05/2015"@en .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Language authority table for filtering concepts used by EUDOR, the European Union Document Repository which is the long-term digital archive of the EU institutions managed by the Publications Office."@en .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://purl.org/dc/elements/1.1/identifier> "ID_ENTITY" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the Court of Justice of the European Union."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://publications.europa.eu/resource/authority/op-code> "CODIF_DATA" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://publications.europa.eu/ontology/authority/op-code> "DEMPUB" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://publications.europa.eu/ontology/authority/op-code> "IMMC" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://publications.europa.eu/resource/authority/op-code> "COMREF" .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://purl.org/dc/elements/1.1/identifier> "EP" .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for codifying concepts in TED portal expert search and used in TED Schema (CODIF_DATA)."@en .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://www.w3.org/2004/02/skos/core#prefLabel> "DG_NEAR"@en .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee."@en .
+<http://publications.europa.eu/resource/authority/use-context> <http://www.w3.org/2002/07/owl#versionInfo> "20210929-0" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://publications.europa.eu/resource/authority/op-code> "ESPD" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://purl.org/dc/elements/1.1/identifier> "INSTITUTION" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://publications.europa.eu/ontology/authority/start.use> "2019-06-19" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://publications.europa.eu/ontology/authority/authority-code> "PUB" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU_OMR_OCT"@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://publications.europa.eu/resource/authority/op-code> "IMMC" .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://publications.europa.eu/resource/authority/op-code> "FORMEX" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://publications.europa.eu/ontology/authority/authority-code> "OJEEP" .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://purl.org/dc/elements/1.1/identifier> "EFORMS" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for viewing concepts in eProcurement Notices."@en .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://publications.europa.eu/ontology/authority/authority-code> "COUNTRY" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://purl.org/dc/elements/1.1/identifier> "IMMC_CONSIL" .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://purl.org/dc/elements/1.1/identifier> "PUB" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used in EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies."@en .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_COM"@en .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM_WEB"@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://publications.europa.eu/ontology/authority/op-code> "TED" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://publications.europa.eu/ontology/authority/op-code> "SIGN_LANGUAGE" .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/2004/02/skos/core#altLabel> "WHOISWHO_entity_id"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_ECA" .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://publications.europa.eu/resource/authority/op-code> "EU_REC" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://purl.org/dc/elements/1.1/identifier> "CELLAR" .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://publications.europa.eu/ontology/authority/start.use> "2018-09-26" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://www.w3.org/2004/02/skos/core#prefLabel> "ELI"@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://publications.europa.eu/ontology/authority/authority-code> "EU_EFTA_UK" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://publications.europa.eu/ontology/authority/start.use> "2021-09-29" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://publications.europa.eu/ontology/authority/op-code> "COUNTRY" .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://publications.europa.eu/ontology/authority/start.use> "2018-09-26" .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU_EFTA_UK"@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://publications.europa.eu/ontology/authority/start.use> "2020-12-16" .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://purl.org/dc/elements/1.1/identifier> "EU_EFTA_UK" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_COM" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://publications.europa.eu/resource/authority/op-code> "DEMPUB" .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://publications.europa.eu/ontology/authority/authority-code> "AKN4EU" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "CJ"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://publications.europa.eu/resource/authority/op-code> "IMMC_ECA" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://www.w3.org/2004/02/skos/core#prefLabel> "Institution URI"@en .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for identifying concepts used in eForms."@en .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://purl.org/dc/elements/1.1/identifier> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://purl.org/dc/elements/1.1/identifier> "OJEEP" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/2004/02/skos/core#definition> "Identifier used for organisational entities by EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies."@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://purl.org/dc/elements/1.1/identifier> "AKN4EU" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://publications.europa.eu/ontology/authority/authority-code> "COM_WEB" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/2004/02/skos/core#changeNote> "requested by Jean Delahousse on 05/05/2015"@en .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Country authority table for identifying concepts relevant for the Directorate-General for Neighbourhood and Enlargement Negotiations of the European Commission (DG NEAR)."@en .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://publications.europa.eu/ontology/authority/op-code> "EUDOR" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_CURIA" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://publications.europa.eu/ontology/authority/authority-code> "ODP" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the File type authority table for filtering concepts used by OJEEP, the Official Journal Electronic Exchange Protocol which is a protocol used for exchange of information between the contractors and the Publications Office. The protocol is based on an XML schema and defines naming conventions and content of the packages exchanged between the systems."@en .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://purl.org/dc/elements/1.1/identifier> "COM_WEB" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_EP" .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://publications.europa.eu/ontology/authority/start.use> "2019-06-19" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://purl.org/dc/elements/1.1/identifier> "ODP" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://publications.europa.eu/resource/authority/op-code> "TED" .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://publications.europa.eu/resource/authority/op-code> "SIGN_LANGUAGE" .
+<http://publications.europa.eu/resource/authority/use-context> <http://publications.europa.eu/ontology/authority/prefLabel> "Use context"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Commission."@en .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://www.w3.org/2004/02/skos/core#changeNote> "EUDOR covers also \"ARCHIVE\", this concept has been deleted, 21/01/2015"@en .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Country"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://purl.org/dc/elements/1.1/identifier> "IMMC_COM" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://publications.europa.eu/ontology/authority/authority-code> "DG_NEAR" .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://purl.org/dc/elements/1.1/identifier> "PLANPUBLI" .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts relevant for the European Parliament."@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://publications.europa.eu/ontology/authority/op-code> "EU_OMR_OCT" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://publications.europa.eu/resource/authority/op-code> "OJEEP" .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://publications.europa.eu/ontology/authority/op-code> "AKN4EU" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publication request"@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://purl.org/dc/elements/1.1/identifier> "IMMC_CURIA" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://publications.europa.eu/ontology/authority/authority-code> "ID_INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM_NEWS"@en .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "OJ"@en .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context> <http://publications.europa.eu/ontology/authority/table.id> "use-context" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://www.w3.org/2004/02/skos/core#prefLabel> "EUDOR"@en .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://purl.org/dc/elements/1.1/identifier> "IMMC_EP" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://publications.europa.eu/ontology/authority/op-code> "CJ" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_COR" .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_CURIA"@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://publications.europa.eu/resource/authority/op-code> "EU_OMR_OCT" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/2004/02/skos/core#altLabel> "WHOISWHO_mnemonic"@en .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_EP"@en .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for the Akoma Ntoso for European Union specification (AKN4EU) for the exchange of legal documents."@en .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://publications.europa.eu/ontology/authority/start.use> "2015-06-10" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://purl.org/dc/elements/1.1/identifier> "IMMC_COR" .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://publications.europa.eu/ontology/authority/authority-code> "TED_SCHEMA" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://publications.europa.eu/resource/authority/op-code> "COUNTRY" .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for displaying concepts on the TED (tenders electronic daily) portal search mask."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://publications.europa.eu/resource/authority/op-code> "IMMC_COM" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by Publications domain in ATTO (Atelier des Tables de Traductions de l\u2019Office des publications)."@en .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://purl.org/dc/elements/1.1/identifier> "TED_SCHEMA" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://purl.org/dc/elements/1.1/identifier> "DG_NEAR" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://www.w3.org/2004/02/skos/core#prefLabel> "WHOISWHO"@en .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://publications.europa.eu/ontology/authority/authority-code> "CELLAR" .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_EESC" .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://purl.org/dc/elements/1.1/identifier> "ID_INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://www.w3.org/2004/02/skos/core#prefLabel> "PlanPubli"@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://publications.europa.eu/resource/authority/op-code> "PUB_CORP" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://publications.europa.eu/ontology/authority/op-code> "ID_ENTITY" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://www.w3.org/2004/02/skos/core#prefLabel> "CELLAR"@en .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://publications.europa.eu/ontology/authority/authority-code> "OJ" .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Country authority table for filtering outermost regions (OMR) and overseas countries and territories (OCT) associated to the European Union."@en .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://publications.europa.eu/ontology/authority/start.use> "2020-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://publications.europa.eu/ontology/authority/op-code> "EP" .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_COR" .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://purl.org/dc/elements/1.1/identifier> "OJ" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://publications.europa.eu/resource/authority/op-code> "CJ" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://publications.europa.eu/ontology/authority/start.use> "2015-06-10" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Resource type authority table for identifying resource types specific to 'news' content among the web resources of the directorates-general of the European Commission."@en .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context> <http://publications.europa.eu/ontology/authority/table.version.number> "20210929-0" .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by DCAT-AP, an application profile based on the Data Catalogue vocabulary designed to facilitate interoperability between EU and European data catalogues published on the Web."@en .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://publications.europa.eu/ontology/authority/op-code> "DG_NEAR" .
+<http://publications.europa.eu/resource/authority/use-context/OJ> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by the Official Journal of the European Union."@en .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://www.w3.org/2004/02/skos/core#prefLabel> "EU_REC"@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://publications.europa.eu/ontology/authority/start.use> "2012-07-05" .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://publications.europa.eu/ontology/authority/op-code> "COM_NEWS" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Country authority table for identifying the current entities that have a formal status of a country."@en .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://publications.europa.eu/ontology/authority/op-code> "PUB" .
+<http://publications.europa.eu/resource/authority/use-context> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://publications.europa.eu/ontology/authority/authority-code> "MNEMONIC" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://purl.org/dc/elements/1.1/identifier> "DEMED" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://publications.europa.eu/ontology/authority/authority-code> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://purl.org/dc/elements/1.1/identifier> "MNEMONIC" .
+<http://publications.europa.eu/resource/authority/use-context/CJ> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Subdivision authority table for filtering concepts used by the Court of Justice."@en .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://publications.europa.eu/resource/authority/op-code> "DG_NEAR" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://publications.europa.eu/ontology/authority/op-code> "INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://publications.europa.eu/ontology/authority/op-code> "CELLAR" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://publications.europa.eu/resource/authority/op-code> "IMMC_EESC" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://publications.europa.eu/ontology/authority/authority-code> "EURLEX" .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://publications.europa.eu/ontology/authority/authority-code> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://publications.europa.eu/resource/authority/op-code> "COM_NEWS" .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/COM_NEWS> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://publications.europa.eu/ontology/authority/op-code> "EFORMS" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://publications.europa.eu/ontology/authority/authority-code> "CODIF_DATA" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://publications.europa.eu/resource/authority/op-code> "ID_ENTITY" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_CONSIL" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://purl.org/dc/elements/1.1/identifier> "WHOISWHO" .
+<http://publications.europa.eu/resource/authority/use-context/EP> <http://publications.europa.eu/resource/authority/op-code> "EP" .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://publications.europa.eu/ontology/authority/authority-code> "COMREF" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://publications.europa.eu/ontology/authority/start.use> "2020-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/CODIF_DATA> <http://purl.org/dc/elements/1.1/identifier> "CODIF_DATA" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Parliament."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_CONSIL"@en .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://publications.europa.eu/ontology/authority/start.use> "2018-04-06" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://publications.europa.eu/ontology/authority/op-code> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://publications.europa.eu/resource/authority/op-code> "INSTITUTION" .
+<http://publications.europa.eu/resource/authority/use-context/CELLAR> <http://publications.europa.eu/resource/authority/op-code> "CELLAR" .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://publications.europa.eu/resource/authority/op-code> "IMMC_COR" .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://publications.europa.eu/ontology/authority/op-code> "OJEEP" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://www.w3.org/2004/02/skos/core#prefLabel> "TED"@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EFORMS> <http://publications.europa.eu/resource/authority/op-code> "EFORMS" .
+<http://publications.europa.eu/resource/authority/use-context/PUB_CORP> <http://www.w3.org/2004/02/skos/core#prefLabel> "PUB_CORP"@en .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Committee of the Regions."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC" .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://publications.europa.eu/ontology/authority/authority-code> "FORMEX" .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://publications.europa.eu/resource/authority/op-code> "IMMC_CONSIL" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organisational entity ID"@en .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://publications.europa.eu/ontology/authority/authority-code> "PLANPUBLI" .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://publications.europa.eu/ontology/authority/op-code> "COM_WEB" .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://www.w3.org/2004/02/skos/core#definition> "Use context used in the Country authority table to distinguish countries which exist and are recognized by EU Member States from territories or from countries which do not exist any more."@en .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://publications.europa.eu/ontology/authority/op-code> "MNEMONIC" .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://purl.org/dc/elements/1.1/identifier> "FORMEX" .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://publications.europa.eu/resource/authority/op-code> "PUB" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://purl.org/dc/elements/1.1/identifier> "EURLEX" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://publications.europa.eu/ontology/authority/authority-code> "ELI" .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://publications.europa.eu/ontology/authority/op-code> "EU_EFTA_UK" .
+<http://publications.europa.eu/resource/authority/use-context/WHOISWHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://publications.europa.eu/ontology/authority/authority-code> "EU_REC" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by EU Bookshop."@en .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://publications.europa.eu/ontology/authority/start.use> "2020-12-16" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://purl.org/dc/elements/1.1/identifier> "ELI" .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/ID_ENTITY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_COM" .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://purl.org/dc/elements/1.1/identifier> "COMREF" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://purl.org/dc/elements/1.1/identifier> "EU_REC" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://publications.europa.eu/ontology/authority/op-code> "PLANPUBLI" .
+<http://publications.europa.eu/resource/authority/use-context/TED_SCHEMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "TED Schema"@en .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/use-context/ESPD> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://publications.europa.eu/ontology/authority/authority-code> "DEMPUB" .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://publications.europa.eu/ontology/authority/op-code> "ODP" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/OJEEP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC"@en .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://purl.org/dc/elements/1.1/identifier> "DEMPUB" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC> <http://purl.org/dc/elements/1.1/identifier> "IMMC" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CURIA> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_CURIA" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Court of Auditors."@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Country authority table for identifying the following group of entities: the current member states of the European Union, the current member states of the European Free Trade Association, the United Kingdom."@en .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://publications.europa.eu/ontology/authority/authority-code> "NOTICE_VIEWER" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/usecontexts/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_CONSIL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://publications.europa.eu/ontology/authority/op-code> "IMMC_EP" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://www.w3.org/2004/02/skos/core#definition> "Uniform resource identifier (URI) used for institutions by EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies."@en .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/NOTICE_VIEWER> <http://purl.org/dc/elements/1.1/identifier> "NOTICE_VIEWER" .
+<http://publications.europa.eu/resource/authority/use-context/COUNTRY> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/DEMED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://www.w3.org/2004/02/skos/core#definition> "Mnemonic code used for organisational entities by EU Whoiswho, the electronic directory of managers and services in the EU institutions, bodies and agencies."@en .
+<http://publications.europa.eu/resource/authority/use-context/COM_WEB> <http://publications.europa.eu/resource/authority/op-code> "COM_WEB" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EESC> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by IMMC, the Interinstitutional Metadata Maintenance Committee, and relevant for the European Economic and Social Committee."@en .
+<http://publications.europa.eu/resource/authority/use-context/DEMPUB> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Corporate body authority table for filtering concepts used by services of the Publications Office."@en .
+<http://publications.europa.eu/resource/authority/use-context/EU_EFTA_UK> <http://publications.europa.eu/resource/authority/op-code> "EU_EFTA_UK" .
+<http://publications.europa.eu/resource/authority/use-context/EU_OMR_OCT> <http://publications.europa.eu/ontology/authority/start.use> "2018-03-21" .
+<http://publications.europa.eu/resource/authority/use-context/MNEMONIC> <http://publications.europa.eu/resource/authority/op-code> "MNEMONIC" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_ECA> <http://publications.europa.eu/ontology/authority/authority-code> "IMMC_ECA" .
+<http://publications.europa.eu/resource/authority/use-context/EU_REC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/SIGN_LANGUAGE> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Language authority table for identifying sign languages."@en .
+<http://publications.europa.eu/resource/authority/use-context/EURLEX> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/INSTITUTION> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/use-context/ID_INSTITUTION> <http://publications.europa.eu/ontology/authority/end.use> "2018-04-05" .
+<http://publications.europa.eu/resource/authority/use-context/EUBOOKSHOP> <http://publications.europa.eu/resource/authority/op-code> "EUBOOKSHOP" .
+<http://publications.europa.eu/resource/authority/use-context/COMREF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/FORMEX> <http://www.w3.org/2004/02/skos/core#definition> "Use context in the Subdivision authority table for filtering concepts used by FORMEX, the Formalized Exchange of Electronic Publications."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_EP> <http://publications.europa.eu/resource/authority/op-code> "IMMC_EP" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/DCAT_AP> <http://www.w3.org/2004/02/skos/core#prefLabel> "DCAT_AP"@en .
+<http://publications.europa.eu/resource/authority/use-context/EUDOR> <http://publications.europa.eu/ontology/authority/authority-code> "EUDOR" .
+<http://publications.europa.eu/resource/authority/use-context/DG_NEAR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/use-context> .
+<http://publications.europa.eu/resource/authority/use-context/TED> <http://purl.org/dc/elements/1.1/identifier> "TED" .
+<http://publications.europa.eu/resource/authority/use-context/AKN4EU> <http://publications.europa.eu/resource/authority/op-code> "AKN4EU" .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COM> <http://publications.europa.eu/ontology/authority/start.use> "2019-02-20" .
+<http://publications.europa.eu/resource/authority/use-context/PLANPUBLI> <http://www.w3.org/2004/02/skos/core#changeNote> "OJ covers also \"OJEEP\", this concept has been deleted, 21/01/2015"@en .
+<http://publications.europa.eu/resource/authority/use-context/ELI> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for identifying concepts relevant for ELI, European Legislation Identifier."@en .
+<http://publications.europa.eu/resource/authority/use-context/IMMC_COR> <http://www.w3.org/2004/02/skos/core#prefLabel> "IMMC_COR"@en .
+<http://publications.europa.eu/resource/authority/use-context/ODP> <http://www.w3.org/2004/02/skos/core#definition> "Use context in several authority tables for filtering concepts used by ODP, the European Union Open Data Portal."@en .
+<http://publications.europa.eu/resource/authority/use-context/PUB> <http://www.w3.org/2004/02/skos/core#prefLabel> "PUB"@en .
+

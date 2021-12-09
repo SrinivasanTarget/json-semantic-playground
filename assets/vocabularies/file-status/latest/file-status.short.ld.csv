@@ -1,0 +1,20 @@
+# Serializing assets/vocabularies/file-status/latest/file-status.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/file-status
+# title: File status
+# version: 20210317-0
+# description: File status
+key,url,deprecated,valid_from,country_code,label_en,label_it,valid_until
+PROC_COMPLETED,http://publications.europa.eu/resource/authority/file-status/PROC_COMPLETED,false,2018-12-12,PROC_COMPLETED,Completed procedure,Procedura completata,
+PROC_PENDING,http://publications.europa.eu/resource/authority/file-status/PROC_PENDING,false,2018-12-12,PROC_PENDING,Pending procedure,Procedura in sospeso,
+PROC_WITHDRAWN,http://publications.europa.eu/resource/authority/file-status/PROC_WITHDRAWN,false,2018-12-12,PROC_WITHDRAWN,Withdrawn procedure,Procedura ritirata,
+PROP_ACCEPTED,http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED,false,2021-03-17,PROP_ACCEPTED,Accepted proposal,Proposta accettata,
+PROP_ACCEPTED_PART,http://publications.europa.eu/resource/authority/file-status/PROP_ACCEPTED_PART,false,2021-03-17,PROP_ACCEPTED_PART,Partially accepted proposal,Proposta parzialmente accettata,
+PROP_ADOPTED,http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED,true,2018-12-12,PROP_ADOPTED,Adopted proposal,Proposta adottata,2021-03-16
+PROP_ADOPTED_PART,http://publications.europa.eu/resource/authority/file-status/PROP_ADOPTED_PART,true,2018-12-12,PROP_ADOPTED_PART,Partially adopted proposal,Proposta parzialmente adottata,2021-03-16
+PROP_PENDING,http://publications.europa.eu/resource/authority/file-status/PROP_PENDING,true,2018-12-12,PROP_PENDING,Pending proposal,Proposta in sospeso,2021-03-16
+PROP_REJECTED,http://publications.europa.eu/resource/authority/file-status/PROP_REJECTED,false,2021-03-17,PROP_REJECTED,Rejected proposal,Proposta respinta,
+PROP_SUBMITTED,http://publications.europa.eu/resource/authority/file-status/PROP_SUBMITTED,false,2021-03-17,PROP_SUBMITTED,Submitted proposal,Proposta presentata,
+PROP_WITHDRAWN,http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN,false,2018-12-12,PROP_WITHDRAWN,Withdrawn proposal,Proposta ritirata,
+PROP_WITHDRAWN_PART,http://publications.europa.eu/resource/authority/file-status/PROP_WITHDRAWN_PART,false,2018-12-12,PROP_WITHDRAWN_PART,Partially withdrawn proposal,Proposta parzialmente ritirata,
+OP_DATPRO,http://publications.europa.eu/resource/authority/file_status/OP_DATPRO,false,1952-07-23,OP_DATPRO,Provisional data,Dati provvisori,

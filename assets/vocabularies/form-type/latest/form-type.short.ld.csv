@@ -1,0 +1,15 @@
+# Serializing assets/vocabularies/form-type/latest/form-type.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/form-type
+# title: Form type
+# version: 20210929-0
+# description: Form type
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/form-type/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+bri,http://publications.europa.eu/resource/authority/form-type/bri,bri,Business registration information,,false,2021-09-29
+change,http://publications.europa.eu/resource/authority/form-type/change,change,Change,Rettifica,false,2019-09-18
+competition,http://publications.europa.eu/resource/authority/form-type/competition,competition,Competition,Gara,false,2019-09-18
+cont-modif,http://publications.europa.eu/resource/authority/form-type/cont-modif,cont-modif,Contract modification,Modifica dell'appalto,false,2019-09-18
+dir-awa-pre,http://publications.europa.eu/resource/authority/form-type/dir-awa-pre,dir-awa-pre,Direct award preannouncement,Preavviso di aggiudicazione diretta,false,2019-09-18
+planning,http://publications.europa.eu/resource/authority/form-type/planning,planning,Planning,Programmazione,false,2019-09-18
+result,http://publications.europa.eu/resource/authority/form-type/result,result,Result,Risultati,false,2019-09-18

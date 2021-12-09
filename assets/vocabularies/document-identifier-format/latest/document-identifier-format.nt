@@ -1,0 +1,143 @@
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "M\u00F8denummer"@da .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u0103r COM"@ro .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COMi number"@et .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://www.w3.org/2000/01/rdf-schema#label> "Document identifier format"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM numeris"@lt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zittingsnummer"@nl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://publications.europa.eu/resource/authority/op-code> "COM_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://publications.europa.eu/ontology/authority/table.id> "document-identifier-format" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160tevilka CSL"@sl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numer COM"@pl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u0103r CSL"@ro .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broj COM"@hr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL numurs"@lv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero da sess\u00E3o"@pt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uimhir COM"@ga .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://publications.europa.eu/ontology/authority/authority-code> "COM_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero CSL"@cs .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160tevilka seje"@sl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL number"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://publications.europa.eu/ontology/authority/op-code> "CSL_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u010C\u00EDslo CSL"@sk .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://publications.europa.eu/ontology/authority/start.use> "2021-05-11" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero de sesi\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u010C\u00EDslo COM"@sk .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u00E9ro CSL"@fr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL \u043D\u043E\u043C\u0435\u0440"@bg .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numru tas-sessjoni"@mt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero COM"@es .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL-sz\u00E1m"@hu .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sessionsnummer"@sv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numer sesji"@pl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://purl.org/dc/elements/1.1/identifier> "SESSION_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0113des numurs"@lv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL-nummer"@nl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 COM"@el .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uimhir sheisi\u00FAin"@ga .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u043E\u043C\u0435\u0440 \u043D\u0430 \u0437\u0430\u0441\u0435\u0434\u0430\u043D\u0438\u0435"@bg .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL numeris"@lt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://publications.europa.eu/ontology/authority/op-code> "COM_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numero COM"@it .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://publications.europa.eu/ontology/authority/start.use> "2021-05-11" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u00E9ro COM"@fr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://publications.europa.eu/resource/authority/op-code> "SESSION_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broj CSL"@hr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM-sz\u00E1m"@hu .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u010C\u00EDslo zased\u00E1n\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#definition> "CSL number is a document identifier of the European Council comprising the following elements: <sequential number> <suffix> <year> (e.g. 05112/1/2020). In AKN4EU, it is used to identify the components of the identifier used by the Council for its internal documents."@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://publications.europa.eu/ontology/authority/authority-code> "SESSION_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM number"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://www.w3.org/2002/07/owl#versionInfo> "20210929-0" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sesijos numeris"@lt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numru COM"@mt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL-Nummer"@de .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numru CSL"@mt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#definition> "Session number is a document identifier of the European Parliament comprising the following elements: <type of document> <number of legislature> <sequential number> <year> (e.g. B9-0078/2020). In AKN4EU, it is used to identify the components of the identifier used by the European Parliament for the session identifier of all documents presented at a plenary session."@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broj sjednice"@hr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM-Nummer"@de .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM \u043D\u043E\u043C\u0435\u0440"@bg .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numero sessione"@it .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://www.w3.org/2004/02/skos/core#prefLabel> "Document identifier format"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero CSL"@pt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://publications.europa.eu/ontology/authority/authority-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Session number"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM-nummer"@nl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://publications.europa.eu/resource/authority/op-code> "CSL_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://publications.europa.eu/ontology/authority/op-code> "SESSION_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DCl\u00E9s sz\u00E1ma"@hu .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0160tevilka COM"@sl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 CSL"@el .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSLi number"@et .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://purl.org/dc/elements/1.1/identifier> "CSL_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL-nummer"@da .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#definition> "COM number is a document identifier of the European Commission comprising the following elements: \"COM\" <year> <sequential number> (e.g. COM(2019) 370). In AKN4EU, it is used to identify the components of a document identifier that follows the COM documents syntax."@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM-nummer"@da .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/document-identifier-format> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sitzungsnummer"@de .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istunnon numero"@fi .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM-numero"@fi .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero CSL"@es .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL-nummer"@sv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u010C\u00EDslo zasadnutia"@sk .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uimhir CSL"@ga .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM numurs"@lv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numero CSL"@it .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://publications.europa.eu/ontology/authority/start.use> "2021-05-11" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u010C\u00EDslo COM"@cs .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "N\u00FAmero COM"@pt .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://publications.europa.eu/ontology/authority/prefLabel> "Document identifier format"@en .
+<http://publications.europa.eu/resource/authority/document-identifier-format> <http://publications.europa.eu/ontology/authority/table.version.number> "20210929-0" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Numer CSL"@pl .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://purl.org/dc/elements/1.1/identifier> "COM_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/COM_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "COM-nummer"@sv .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istungi number"@et .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u0103rul sesiunii"@ro .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "CSL-numero"@fi .
+<http://publications.europa.eu/resource/authority/document-identifier-format/CSL_NUMBER> <http://publications.europa.eu/ontology/authority/authority-code> "CSL_NUMBER" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Num\u00E9ro de session"@fr .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/document-identifier-format/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/document-identifier-format/SESSION_NUMBER> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03C3\u03C5\u03BD\u03B5\u03B4\u03C1\u03AF\u03B1\u03C2"@el .
+

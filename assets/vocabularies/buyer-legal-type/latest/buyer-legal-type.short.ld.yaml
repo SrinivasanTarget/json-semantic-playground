@@ -1,0 +1,181 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO
+- country_code: body-pl
+  deprecated: 'false'
+  key: body-pl
+  label_en: Body governed by public law
+  label_it: Organismo di diritto pubblico
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl
+  valid_from: '2019-09-18'
+- country_code: body-pl-cga
+  deprecated: 'false'
+  key: body-pl-cga
+  label_en: Body governed by public law, controlled by a central government authority
+  label_it: "Organismo di diritto pubblico controllato da un'autorit\xE0 governativa\
+    \ centrale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga
+  valid_from: '2019-09-18'
+- country_code: body-pl-la
+  deprecated: 'false'
+  key: body-pl-la
+  label_en: Body governed by public law, controlled by a local authority
+  label_it: "Organismo di diritto pubblico controllato da un'autorit\xE0 locale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la
+  valid_from: '2019-09-18'
+- country_code: body-pl-ra
+  deprecated: 'false'
+  key: body-pl-ra
+  label_en: Body governed by public law, controlled by a regional authority
+  label_it: "Organismo di diritto pubblico controllato da un'autorit\xE0 regionale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra
+  valid_from: '2019-09-18'
+- country_code: cga
+  deprecated: 'false'
+  key: cga
+  label_en: Central government authority
+  label_it: "Autorit\xE0 governativa centrale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/cga
+  valid_from: '2019-09-18'
+- country_code: def-cont
+  deprecated: 'false'
+  key: def-cont
+  label_en: Defence contractor
+  label_it: Appaltatore nel settore della difesa
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont
+  valid_from: '2019-09-18'
+- country_code: eu-ins-bod-ag
+  deprecated: 'false'
+  key: eu-ins-bod-ag
+  label_en: EU institution, body or agency
+  label_it: "Istituzione, organo o agenzia dell\u2019UE"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag
+  valid_from: '2019-09-18'
+- country_code: eu-int-org
+  deprecated: 'true'
+  key: eu-int-org
+  label_en: European Institution/Agency or International Organisation
+  label_it: Istituzione/agenzia europea o organizzazione internazionale
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org
+  valid_from: '2019-09-16'
+  valid_until: '2019-09-17'
+- country_code: int-org
+  deprecated: 'false'
+  key: int-org
+  label_en: International organisation
+  label_it: Organizzazione internazionale
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/int-org
+  valid_from: '2019-09-18'
+- country_code: la
+  deprecated: 'false'
+  key: la
+  label_en: Local authority
+  label_it: "Autorit\xE0 locale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/la
+  valid_from: '2019-09-18'
+- country_code: org-sub
+  deprecated: 'false'
+  key: org-sub
+  label_en: Organisation awarding a contract subsidised by a contracting authority
+  label_it: Organizzazione che aggiudica un appalto sovvenzionato da un'amministrazione
+    aggiudicatrice
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub
+  valid_from: '2019-09-18'
+- country_code: org-sub-cga
+  deprecated: 'false'
+  key: org-sub-cga
+  label_en: Organisation awarding a contract subsidised by a central government authority
+  label_it: "Organizzazione che aggiudica un appalto sovvenzionato da un'autorit\xE0\
+    \ governativa centrale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga
+  valid_from: '2019-09-18'
+- country_code: org-sub-la
+  deprecated: 'false'
+  key: org-sub-la
+  label_en: Organisation awarding a contract subsidised by a local authority
+  label_it: "Organizzazione che aggiudica un appalto sovvenzionato da un'autorit\xE0\
+    \ locale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la
+  valid_from: '2019-09-18'
+- country_code: org-sub-ra
+  deprecated: 'false'
+  key: org-sub-ra
+  label_en: Organisation awarding a contract subsidised by a regional authority
+  label_it: "Organizzazione che aggiudica un appalto sovvenzionato da un'autorit\xE0\
+    \ regionale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra
+  valid_from: '2019-09-18'
+- country_code: pub-undert
+  deprecated: 'false'
+  key: pub-undert
+  label_en: Public undertaking
+  label_it: Impresa pubblica
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert
+  valid_from: '2019-09-18'
+- country_code: pub-undert-cga
+  deprecated: 'false'
+  key: pub-undert-cga
+  label_en: Public undertaking, controlled by a central government authority
+  label_it: "Impresa pubblica controllata da un'autorit\xE0 governativa centrale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga
+  valid_from: '2019-09-18'
+- country_code: pub-undert-la
+  deprecated: 'false'
+  key: pub-undert-la
+  label_en: Public undertaking, controlled by a local authority
+  label_it: "Impresa pubblica controllata da un'autorit\xE0 locale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la
+  valid_from: '2019-09-18'
+- country_code: pub-undert-ra
+  deprecated: 'false'
+  key: pub-undert-ra
+  label_en: Public undertaking, controlled by a regional authority
+  label_it: "Impresa pubblica controllata da un'autorit\xE0 regionale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra
+  valid_from: '2019-09-18'
+- country_code: ra
+  deprecated: 'false'
+  key: ra
+  label_en: Regional authority
+  label_it: "Autorit\xE0 regionale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/ra
+  valid_from: '2019-09-18'
+- country_code: rl-aut
+  deprecated: 'true'
+  key: rl-aut
+  label_en: Regional or local authority
+  label_it: "Autorit\xE0 regionale o locale"
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut
+  valid_from: '2019-09-16'
+  valid_until: '2019-09-17'
+- country_code: spec-rights-entity
+  deprecated: 'false'
+  key: spec-rights-entity
+  label_en: Entity with special or exclusive rights
+  label_it: Ente dotato di diritti speciali o esclusivi
+  url: http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity
+  valid_from: '2019-09-18'

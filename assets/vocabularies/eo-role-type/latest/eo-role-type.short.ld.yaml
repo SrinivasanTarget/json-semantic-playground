@@ -1,0 +1,57 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/eo-role-type/OP_DATPRO
+- country_code: group-lead
+  deprecated: 'false'
+  key: group-lead
+  label_en: Group leader
+  url: http://publications.europa.eu/resource/authority/eo-role-type/group-lead
+  valid_from: '2021-06-16'
+- country_code: group-mem
+  deprecated: 'false'
+  key: group-mem
+  label_en: Group member
+  url: http://publications.europa.eu/resource/authority/eo-role-type/group-mem
+  valid_from: '2021-06-16'
+- country_code: oeron
+  deprecated: 'false'
+  key: oeron
+  label_en: Other entity (relied upon)
+  url: http://publications.europa.eu/resource/authority/eo-role-type/oeron
+  valid_from: '2021-06-16'
+- country_code: sole-tenderer
+  deprecated: 'false'
+  key: sole-tenderer
+  label_en: Sole tenderer
+  url: http://publications.europa.eu/resource/authority/eo-role-type/sole-tenderer
+  valid_from: '2021-06-16'
+- country_code: subcont
+  deprecated: 'false'
+  key: subcont
+  label_en: Subcontractor
+  url: http://publications.europa.eu/resource/authority/eo-role-type/subcont
+  valid_from: '2021-06-16'

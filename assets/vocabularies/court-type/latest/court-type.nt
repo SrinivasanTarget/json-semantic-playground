@@ -1,0 +1,246 @@
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u044A\u0434"@bg .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domstol i f\u00F8rste instans"@da .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de la Funci\u00F3n P\u00FAblica"@es .
+<http://publications.europa.eu/resource/authority/court-type> <http://publications.europa.eu/ontology/authority/prefLabel> "Court type"@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qorti tal-prim\u2019istanza"@mt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0412\u044A\u0440\u0445\u043E\u0432\u0435\u043D \u0441\u044A\u0434"@bg .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soudn\u00ED dv\u016Fr"@cs .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sodi\u0161\u010De prve stopnje"@sl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civildienesta tiesa"@lv .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Il-Qorti tal-\u0120ustizzja"@mt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Court of first instance"@en .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-23" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fellebbviteli b\u00EDr\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teisingumo Teismas"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Supreme court"@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0391\u03BD\u03CE\u03C4\u03B1\u03C4\u03BF \u0394\u03B9\u03BA\u03B1\u03C3\u03C4\u03AE\u03C1\u03B9\u03BF"@el .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://publications.europa.eu/ontology/authority/op-code> "EUR_GC" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://publications.europa.eu/resource/authority/op-code> "NAT_COURT_FIRST_INSTANCE" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0410\u043F\u0435\u043B\u0430\u0442\u0438\u0432\u0435\u043D \u0441\u044A\u0434"@bg .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de prim\u0103 instan\u021B\u0103"@ro .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apeliacinis teismas"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrhovni sud"@hr .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Court of appeal"@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiesa"@lv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#definition> "A court of appeal is the main appellate court in the judicial system of many legal jurisdictions. In general, they hear appeals against judgements of the tribunals of first instance. In the EU context, this concept refers in particular to national courts of appeal of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice."@en .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nejvy\u0161\u0161\u00ED soud"@cs .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00DCldkohus"@et .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pirmosios instancijos teismas"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00E4r\u00E4j\u00E4oikeus"@fi .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunale della funzione pubblica"@it .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trybuna\u0142 Sprawiedliwo\u015Bci"@pl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unionin tuomioistuin"@fi .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://publications.europa.eu/ontology/authority/authority-code> "NAT_COURT_FIRST_INSTANCE" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Op\u0107i sud"@hr .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gericht Erster Instanz"@de .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de Apelaci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de Justicia"@es .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slu\u017Ebeni\u010Dki sud"@hr .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hof van Justitie"@nl .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apel\u0101cijas tiesa"@lv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corte suprema"@it .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sud"@hr .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euroopa Kohus"@et .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prvostupanjski sud"@hr .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://purl.org/dc/elements/1.1/identifier> "NAT_COURT_FIRST_INSTANCE" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0105d pierwszej instancji"@pl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sodi\u0161\u010De"@sl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunale"@it .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cour supr\u00EAme"@fr .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Civil Service Tribunal"@en .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://publications.europa.eu/ontology/authority/op-code> "EUR_CJ" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Court of Justice"@en .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://publications.europa.eu/resource/authority/op-code> "EUR_GC" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gericht"@de .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gericht f\u00FCr den \u00F6ffentlichen Dienst"@de .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#definition> "A court of first instance is a trial court of original or primary jurisdiction. In the EU context, this concept refers in particular to national courts of first instance of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice."@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curte suprem\u0103"@ro .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odvolac\u00ED s\u00FAd"@sk .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0421\u044A\u0434 \u043D\u0430 \u043F\u0443\u0431\u043B\u0438\u0447\u043D\u0430\u0442\u0430 \u0441\u043B\u0443\u0436\u0431\u0430"@bg .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#definition> "The Court is responsible for dealing with: references for preliminary rulings from national courts on interpretation of EU law; actions brought by an EU country or the Commission against an EU country for infringing EU law; some actions brought by an EU country for annulment of a measure adopted by an EU institution; actions against an EU institution for failure to act; appeals on points of law against judgments of the General Court, and, since September 1st 2016, appeals against decisions of the General Court in civil service cases (OJ L 200, 26.7.2016, p. 137-139)."@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03C9\u03C4\u03BF\u03B4\u03B9\u03BA\u03B5\u03AF\u03BF"@el .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FAd pre verejn\u00FA slu\u017Ebu"@sk .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pirm\u0101s instances tiesa"@lv .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/authority-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domstolen"@sv .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041E\u0431\u0449 \u0441\u044A\u0434"@bg .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://publications.europa.eu/ontology/authority/op-code> "EUR_CST" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal General"@es .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curte de apel"@ro .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korkein oikeus"@fi .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Appeldomstol"@da .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03BA\u03B1\u03C3\u03C4\u03AE\u03C1\u03B9\u03BF \u0394\u03B7\u03BC\u03CC\u03C3\u03B9\u03B1\u03C2 \u0394\u03B9\u03BF\u03AF\u03BA\u03B7\u03C3\u03B7\u03C2"@el .
+<http://publications.europa.eu/resource/authority/court-type> <http://www.w3.org/2002/07/owl#versionInfo> "20210317-0" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerecht"@nl .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Ch\u00FAirt Achomhairc"@ga .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://publications.europa.eu/ontology/authority/op-code> "NAT_COURT_SUPREME" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de Recurso"@pt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virkamiestuomioistuin"@fi .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal Supremo"@es .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Odvolac\u00ED soud"@cs .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Retten"@da .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prvostup\u0148ov\u00FD s\u00FAd"@sk .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunale di primo grado"@it .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Il-Qorti \u0120enerali"@mt .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avaliku Teenistuse Kohus"@et .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://publications.europa.eu/resource/authority/op-code> "NAT_COURT_APPEAL" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#definition> "A supreme court is the highest court within the hierarchy of courts in many legal jurisdictions. In general, the decisions of a supreme court are not subject to further review by any other court. In the EU context, this concept refers in particular to national supreme courts of different EU Member States in the legal proceedings and procedures for a preliminary ruling in the EU Court of Justice."@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Augst\u0101k\u0101 tiesa"@lv .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://publications.europa.eu/ontology/authority/start.use> "2004-11-09" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unionin yleinen tuomioistuin"@fi .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de Justi\u00E7a"@pt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://publications.europa.eu/resource/authority/op-code> "EUR_CJ" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Visp\u0101r\u0113j\u0101 tiesa"@lv .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0393\u03B5\u03BD\u03B9\u03BA\u03CC \u0394\u03B9\u03BA\u03B1\u03C3\u03C4\u03AE\u03C1\u03B9\u03BF"@el .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/court-type> <http://publications.europa.eu/ontology/authority/table.version.number> "20210317-0" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Auk\u0161\u010Diausiasis teismas"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de Primera Instancia"@es .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hooggerechtshof"@nl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#definition> "In 1st September 2016, first instance jurisdiction in European Union civil service cases sitting at the European Union Civil Service Tribunal (\u2018Civil Service Tribunal\u2019) was transferred to the General Court (OJ L 200, 26.7.2016, p. 137-139). Under Article 270 of the Treaty on the Functioning of the European Union (TFEU), the Civil Service Tribunal had jurisdiction to determine disputes between the EU and its employees. The decisions given by the Tribunal could be subject to an appeal, limited to questions of law, to the General Court. The decisions on appeal by the General Court could in turn be re-examined before the Court of Justice, in exceptional circumstances."@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hovioikeus"@fi .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Appellationsdomstol"@sv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0105d apelacyjny"@pl .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "H\u00F8jesteret"@da .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Najvy\u0161\u0161\u00ED s\u00FAd"@sk .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hof van beroep"@nl .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oberster Gerichtshof"@de .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarnautoj\u0173 teismas"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Els\u0151fok\u00FA b\u00EDr\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://purl.org/dc/elements/1.1/identifier> "NAT_COURT_APPEAL" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u017Dalbeni sud"@hr .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Ch\u00FAirt Ch\u00E9adch\u00E9ime"@ga .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personaldomstolen"@sv .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://publications.europa.eu/ontology/authority/authority-code> "EUR_CJ" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cour de justice"@fr .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribun\u00E1l"@cs .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041F\u044A\u0440\u0432\u043E\u0438\u043D\u0441\u0442\u0430\u043D\u0446\u0438\u043E\u043D\u0435\u043D \u0441\u044A\u0434"@bg .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Berufungsgericht"@de .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://publications.europa.eu/ontology/authority/authority-code> "EUR_GC" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F5rgeim kohus"@et .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#definition> "The General Court is responsible for dealing with cases lodged by natural and legal persons against acts by Union institutions and bodies; cases lodged by EU countries against certain decisions of the Commission or the Council; cases relating to the Community trade mark and starting from September 1st 2016, EU civil service cases (OJ L 200, 26.7.2016, p. 137-139)."@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "F\u00F6rstainstansdomstol"@sv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legfels\u0151bb b\u00EDr\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0105d do spraw S\u0142u\u017Cby Publicznej"@pl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Ch\u00FAirt Bhreithi\u00FAnais"@ga .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://publications.europa.eu/ontology/authority/op-code> "NAT_COURT_FIRST_INSTANCE" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Ch\u00FAirt Uachtarach"@ga .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0105d najwy\u017Cszy"@pl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "C\u00FAirt Ghinear\u00E1lta"@ga .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "H\u00F6gsta domstolen"@sv .
+<http://publications.europa.eu/resource/authority/court-type> <http://www.w3.org/2000/01/rdf-schema#label> "Court type"@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de primeira inst\u00E2ncia"@pt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "An Binse um Sheirbh\u00EDs Shibhialta"@ga .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Court"@en .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prito\u017Ebeno sodi\u0161\u010De"@sl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Il-Tribunal g\u0127as-Servizz Pubbliku"@mt .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal da Fun\u00E7\u00E3o P\u00FAblica"@pt .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://purl.org/dc/elements/1.1/identifier> "EUR_GC" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de premi\u00E8re instance"@fr .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vrhovno sodi\u0161\u010De"@sl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://publications.europa.eu/ontology/authority/deprecated> "true" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunalul"@ro .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal de la fonction publique"@fr .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bendrasis Teismas"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://publications.europa.eu/ontology/authority/authority-code> "NAT_COURT_SUPREME" .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corte di appello"@it .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerecht van eerste aanleg"@nl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Splo\u0161no sodi\u0161\u010De"@sl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://purl.org/dc/elements/1.1/identifier> "EUR_CST" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0394\u03B9\u03BA\u03B1\u03C3\u03C4\u03AE\u03C1\u03B9\u03BF"@el .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal"@fr .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "T\u00F6rv\u00E9nysz\u00E9k"@hu .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://publications.europa.eu/ontology/authority/authority-code> "NAT_COURT_APPEAL" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cour d'appel"@fr .
+<http://publications.europa.eu/resource/authority/court-type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://purl.org/dc/elements/1.1/identifier> "NAT_COURT_SUPREME" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apellatsioonikohus"@et .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u00FAdny dvor"@sk .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal Supremo "@pt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0395\u03C6\u03B5\u03C4\u03B5\u03AF\u03BF"@el .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerichtshof"@de .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soud pro ve\u0159ejnou slu\u017Ebu"@cs .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "V\u0161eobecn\u00FD s\u00FAd"@sk .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qorti tal-appell"@mt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunal Geral"@pt .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://publications.europa.eu/resource/authority/op-code> "EUR_CST" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sodi\u0161\u010De za uslu\u017Ebence"@sl .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soud prvn\u00EDho stupn\u011B"@cs .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esimese astme kohus"@et .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://publications.europa.eu/ontology/authority/end.use> "2016-08-31" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "B\u00EDr\u00F3s\u00E1g"@hu .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunalul Func\u0163iei Publice"@ro .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "S\u0105d"@pl .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://publications.europa.eu/resource/authority/op-code> "NAT_COURT_SUPREME" .
+<http://publications.europa.eu/resource/authority/court-type> <http://publications.europa.eu/ontology/authority/table.id> "court-type" .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corte di giustizia"@it .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "K\u00F6zszolg\u00E1lati T\u00F6rv\u00E9nysz\u00E9k"@hu .
+<http://publications.europa.eu/resource/authority/court-type/EUR_GC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tribunalen"@sv .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curtea de Justi\u0163ie"@ro .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://purl.org/dc/elements/1.1/identifier> "EUR_CJ" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qorti suprema"@mt .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://publications.europa.eu/ontology/authority/authority-code> "EUR_CST" .
+<http://publications.europa.eu/resource/authority/court-type> <http://www.w3.org/2004/02/skos/core#prefLabel> "Court type"@en .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_FIRST_INSTANCE> <http://publications.europa.eu/ontology/authority/start.use> "1952-07-24" .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_SUPREME> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CJ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domstolen"@da .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personaleretten"@da .
+<http://publications.europa.eu/resource/authority/court-type/NAT_COURT_APPEAL> <http://publications.europa.eu/ontology/authority/op-code> "NAT_COURT_APPEAL" .
+<http://publications.europa.eu/resource/authority/court-type/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/court-type> .
+<http://publications.europa.eu/resource/authority/court-type/EUR_CST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerecht voor ambtenarenzaken"@nl .
+

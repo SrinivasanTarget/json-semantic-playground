@@ -1,0 +1,111 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ADJ
+  deprecated: 'false'
+  key: ADJ
+  label_en: Adjourned
+  label_it: Aggiornato
+  url: http://publications.europa.eu/resource/authority/procresult/ADJ
+  valid_from: '1952-07-24'
+- country_code: APPL_GRANT
+  deprecated: 'false'
+  key: APPL_GRANT
+  label_en: Application granted
+  label_it: Accoglimento
+  url: http://publications.europa.eu/resource/authority/procresult/APPL_GRANT
+  valid_from: '1952-07-24'
+- country_code: CONFORM_NON_TREATY
+  deprecated: 'false'
+  key: CONFORM_NON_TREATY
+  label_en: Non-conformity with the Treaty (opinions or rulings)
+  label_it: "Non conformit\xE0 con il Trattato (pareri o deliberazioni)"
+  url: http://publications.europa.eu/resource/authority/procresult/CONFORM_NON_TREATY
+  valid_from: '1952-07-24'
+- country_code: CONFORM_TREATY
+  deprecated: 'false'
+  key: CONFORM_TREATY
+  label_en: Conformity with the Treaty (opinions or rulings)
+  label_it: "Conformit\xE0 con il Trattato (pareri o deliberazioni)"
+  url: http://publications.europa.eu/resource/authority/procresult/CONFORM_TREATY
+  valid_from: '1952-07-24'
+- country_code: DISM_GROUNDS_INADM
+  deprecated: 'false'
+  key: DISM_GROUNDS_INADM
+  label_en: Dismissal on grounds of inadmissibility
+  label_it: "Rigetto per irricevibilit\xE0"
+  url: http://publications.europa.eu/resource/authority/procresult/DISM_GROUNDS_INADM
+  valid_from: '1952-07-24'
+- country_code: DISM_SUBST_GROUNDS
+  deprecated: 'false'
+  key: DISM_SUBST_GROUNDS
+  label_en: Dismissal on substantive grounds
+  label_it: Rigetto nel merito
+  url: http://publications.europa.eu/resource/authority/procresult/DISM_SUBST_GROUNDS
+  valid_from: '1952-07-24'
+- country_code: JUDG_INTLC
+  deprecated: 'false'
+  key: JUDG_INTLC
+  label_en: Interlocutory judgment
+  label_it: Sentenza interlocutoria
+  url: http://publications.europa.eu/resource/authority/procresult/JUDG_INTLC
+  valid_from: '1952-07-24'
+- country_code: JUDG_NOT_PROCEED
+  deprecated: 'false'
+  key: JUDG_NOT_PROCEED
+  label_en: Case not proceeding to judgment
+  label_it: Non luogo a provvedere
+  url: http://publications.europa.eu/resource/authority/procresult/JUDG_NOT_PROCEED
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/procresult/OP_DATPRO
+- country_code: RAD
+  deprecated: 'false'
+  key: RAD
+  label_en: Removal from the register
+  label_it: Cancellazione dal ruolo
+  url: http://publications.europa.eu/resource/authority/procresult/RAD
+  valid_from: '1952-07-24'
+- country_code: STL_AMI_HEAR
+  deprecated: 'false'
+  key: STL_AMI_HEAR
+  label_en: Amicable settlement made at a hearing
+  label_it: Composizione amichevole raggiunta nel corso di un'udienza
+  url: http://publications.europa.eu/resource/authority/procresult/STL_AMI_HEAR
+  valid_from: '1952-07-24'
+- country_code: STL_AMI_INFHEAR
+  deprecated: 'false'
+  key: STL_AMI_INFHEAR
+  label_en: Amicable settlement made at an informal meeting
+  label_it: Composizione amichevole raggiunta nel corso di una riunione informale
+  url: http://publications.europa.eu/resource/authority/procresult/STL_AMI_INFHEAR
+  valid_from: '1952-07-24'
+- country_code: STL_AMI_PARTIES
+  deprecated: 'false'
+  key: STL_AMI_PARTIES
+  label_en: Amicable settlement made between the parties
+  label_it: Composizione amichevole raggiunta tra le parti
+  url: http://publications.europa.eu/resource/authority/procresult/STL_AMI_PARTIES
+  valid_from: '1952-07-24'

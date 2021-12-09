@@ -1,0 +1,205 @@
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nicht mehr in Gebrauch"@de .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "smijenjeni"@hr .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://publications.europa.eu/resource/authority/op-code> "DRAFT" .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://publications.europa.eu/ontology/authority/authority-code> "WAITING_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "attuale"@it .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00E6ldende"@da .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://publications.europa.eu/resource/authority/op-code> "CURRENT" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://publications.europa.eu/resource/authority/op-code> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "candidate.deprecated"@en .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "nykyinen"@fi .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "frar\u00E5det"@da .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "obsol\u00E8te"@fr .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://purl.org/dc/elements/1.1/identifier> "REVISED" .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://purl.org/dc/elements/1.1/identifier> "WAITING_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u043A\u0442\u0443\u0430\u043B\u043D\u043E"@bg .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "st\u00E1v\u00E1j\u00EDc\u00ED"@cs .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "atcelts"@lv .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://www.w3.org/2004/02/skos/core#prefLabel> "draft"@en .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "deprecated"@en .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://purl.org/dc/elements/1.1/identifier> "DRAFT_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "sconsigliato"@it .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://publications.europa.eu/ontology/authority/authority-code> "CURRENT" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://purl.org/dc/elements/1.1/identifier> "RETIRED" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/authority-code> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet meer in gebruik"@nl .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "irtirat"@mt .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "en vigueur"@fr .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://publications.europa.eu/resource/authority/op-code> "REVISED" .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://publications.europa.eu/resource/authority/op-code> "WAITING_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://publications.europa.eu/ontology/authority/op-code> "CANDIDATE" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://purl.org/dc/elements/1.1/identifier> "DRAFT" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "visszavonva"@hu .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "desaconsejado"@es .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://purl.org/dc/elements/1.1/identifier> "CURRENT" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "ritirato"@it .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "umirovljeni"@hr .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "zastarano"@sl .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://publications.europa.eu/ontology/authority/op-code> "REVISED_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concept status"@en .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03AD\u03C7\u03B5\u03B9 \u03BA\u03B1\u03C4\u03B1\u03C1\u03B3\u03B7\u03B8\u03B5\u03AF"@el .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://publications.europa.eu/ontology/authority/authority-code> "REVISED" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nepou\u017E\u00EDva sa"@sk .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://publications.europa.eu/ontology/authority/start.use> "2015-07-03" .
+<http://publications.europa.eu/resource/authority/concept-status> <http://publications.europa.eu/ontology/authority/prefLabel> "Concept status"@en .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "obecny"@pl .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://publications.europa.eu/ontology/authority/op-code> "CANDIDATE_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://www.w3.org/2004/02/skos/core#prefLabel> "waiting"@en .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nieaktualny"@pl .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "waiting.deprecated"@en .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/op-code> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "actual"@ro .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://publications.europa.eu/resource/authority/op-code> "WAITING" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://www.w3.org/2004/02/skos/core#prefLabel> "candidate"@en .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "aktuell"@de .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "aktu\u00E1lis"@hu .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "deprekat"@mt .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://publications.europa.eu/ontology/authority/start.use> "2015-07-01" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "panaikintas"@lt .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://publications.europa.eu/resource/authority/op-code> "REVISED_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://publications.europa.eu/ontology/authority/authority-code> "WAITING" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "hyl\u00E4tty"@fi .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "reformado"@pt .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://publications.europa.eu/resource/authority/op-code> "DRAFT_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "poistettu k\u00E4yt\u00F6st\u00E4"@fi .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "retirado"@es .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "zastaral\u00E9"@cs .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://purl.org/dc/elements/1.1/identifier> "WAITING" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://publications.europa.eu/ontology/authority/authority-code> "REVISED_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "g\u00E4llande"@sv .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://publications.europa.eu/ontology/authority/op-code> "DRAFT_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "s\u00FA\u010Dasn\u00FD"@sk .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://publications.europa.eu/ontology/authority/op-code> "RETIRED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://publications.europa.eu/ontology/authority/op-code> "CURRENT" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00EDmholta"@ga .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "borttagen"@sv .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://publications.europa.eu/ontology/authority/op-code> "DRAFT" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "novecojis"@lv .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://publications.europa.eu/ontology/authority/start.use> "2018-02-20" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "actual"@es .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0442\u043C\u0435\u043D\u0435\u043D\u043E"@bg .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "as feidhm"@ga .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "utiliza\u00E7\u00E3o desaconselhada"@pt .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://publications.europa.eu/resource/authority/op-code> "CANDIDATE" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "trenuta\u010Dni"@hr .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "actueel"@nl .
+<http://publications.europa.eu/resource/authority/concept-status> <http://www.w3.org/2000/01/rdf-schema#label> "Concept status"@en .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "praegune"@et .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "zastaran\u00FD"@sk .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED> <http://publications.europa.eu/ontology/authority/op-code> "WAITING_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://publications.europa.eu/ontology/authority/op-code> "REVISED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/concept-status> <http://publications.europa.eu/ontology/authority/table.id> "concept-status" .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "pa\u0161reiz\u0113js"@lv .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://purl.org/dc/elements/1.1/identifier> "CANDIDATE_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "umaknjeno"@sl .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://publications.europa.eu/ontology/authority/start.use> "2018-02-20" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "retired"@en .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "i bhfeidhm"@ga .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "vananenud"@et .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "elavult"@hu .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://publications.europa.eu/resource/authority/op-code> "RETIRED" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "veraltet"@de .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nerekomenduojamas"@lt .
+<http://publications.europa.eu/resource/authority/concept-status> <http://www.w3.org/2002/07/owl#versionInfo> "20181212-0" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://publications.europa.eu/ontology/authority/authority-code> "CANDIDATE" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://publications.europa.eu/ontology/authority/start.use> "2009-12-01" .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "retras"@ro .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://publications.europa.eu/ontology/authority/authority-code> "DRAFT_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "kehtetu"@et .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03B9\u03C3\u03C7\u03CD\u03B5\u03B9"@el .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://publications.europa.eu/ontology/authority/authority-code> "RETIRED" .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "sedanje"@sl .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nerecomandat"@ro .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "verouderd"@nl .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0435\u0430\u043A\u0442\u0443\u0430\u043B\u043D\u043E"@bg .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://publications.europa.eu/resource/authority/op-code> "CANDIDATE_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://purl.org/dc/elements/1.1/identifier> "CANDIDATE" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00F6r\u00E5ldrad"@sv .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "wycofany"@pl .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "dabartinis"@lt .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT> <http://publications.europa.eu/ontology/authority/authority-code> "DRAFT" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "ji\u017E nepou\u017E\u00EDvan\u00E9"@cs .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "supprim\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://www.w3.org/2004/02/skos/core#prefLabel> "revised"@en .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://purl.org/dc/elements/1.1/identifier> "REVISED_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status> <http://publications.europa.eu/ontology/authority/table.version.number> "20181212-0" .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#prefLabel> "for\u00E6ldet"@da .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "revised.deprecated"@en .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://publications.europa.eu/ontology/authority/authority-code> "CANDIDATE_DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03B4\u03B5\u03BD \u03B9\u03C3\u03C7\u03CD\u03B5\u03B9 \u03C0\u03BB\u03AD\u03BF\u03BD"@el .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://publications.europa.eu/ontology/authority/op-code> "WAITING" .
+<http://publications.europa.eu/resource/authority/concept-status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "current"@en .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/RETIRED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "comum"@pt .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://www.w3.org/2004/02/skos/core#prefLabel> "attwali"@mt .
+<http://publications.europa.eu/resource/authority/concept-status/DEPRECATED> <http://purl.org/dc/elements/1.1/identifier> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "draft.deprecated"@en .
+<http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/concept-status> .
+<http://publications.europa.eu/resource/authority/concept-status/WAITING> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/CANDIDATE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/concept-status/CURRENT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/concept-status/REVISED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+

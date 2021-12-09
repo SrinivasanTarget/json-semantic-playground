@@ -1,0 +1,2331 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/LTGEN",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LTGEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LTGEN"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb9"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LTGEN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LTGEN"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Генерал-лейтенант"
+      },
+      {
+        "@language": "cs",
+        "@value": "Generálporučík"
+      },
+      {
+        "@language": "da",
+        "@value": "Generalløjtnant"
+      },
+      {
+        "@language": "de",
+        "@value": "Generalleutnant"
+      },
+      {
+        "@language": "el",
+        "@value": "Αντιστράτηγος"
+      },
+      {
+        "@language": "en",
+        "@value": "Lieutenant general"
+      },
+      {
+        "@language": "es",
+        "@value": "Teniente General"
+      },
+      {
+        "@language": "et",
+        "@value": "Kindralleitnant"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kenraaliluutnantti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Général de corps d'armée"
+      },
+      {
+        "@language": "ga",
+        "@value": "Leifteanant-Ghinearál"
+      },
+      {
+        "@language": "hu",
+        "@value": "Altábornagy"
+      },
+      {
+        "@language": "it",
+        "@value": "Generale di corpo d'armata"
+      },
+      {
+        "@language": "lt",
+        "@value": "Generolas leitenantas"
+      },
+      {
+        "@language": "lv",
+        "@value": "ģenerālleitnants"
+      },
+      {
+        "@language": "mt",
+        "@value": "Logutenent Ġeneral"
+      },
+      {
+        "@language": "nl",
+        "@value": "Luitenant-generaal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Generał broni"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tenente-general"
+      },
+      {
+        "@language": "ro",
+        "@value": "General-locotenent"
+      },
+      {
+        "@language": "sk",
+        "@value": "Generálporučík"
+      },
+      {
+        "@language": "sl",
+        "@value": "Generalpodpolkovnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "Generallöjtnant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "GenLt"
+      },
+      {
+        "@language": "en",
+        "@value": "Lt. Gen."
+      },
+      {
+        "@language": "fi",
+        "@value": "Kenr.ltn."
+      },
+      {
+        "@language": "fr",
+        "@value": "GCA"
+      },
+      {
+        "@language": "hu",
+        "@value": "Altbgy."
+      },
+      {
+        "@language": "lv",
+        "@value": "Ģlt."
+      },
+      {
+        "@language": "pt",
+        "@value": "TGEN"
+      },
+      {
+        "@language": "sk",
+        "@value": "Genpor."
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb9",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "LIEUTGENERAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/LTCOL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "LTCOL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "LTCOL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb8"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "LTCOL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "LTCOL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Подполковник"
+      },
+      {
+        "@language": "cs",
+        "@value": "Podplukovník"
+      },
+      {
+        "@language": "da",
+        "@value": "Oberstløjtnant"
+      },
+      {
+        "@language": "de",
+        "@value": "Oberstleutnant"
+      },
+      {
+        "@language": "el",
+        "@value": "Αντισυνταγματάρχης"
+      },
+      {
+        "@language": "en",
+        "@value": "Lieutenant colonel"
+      },
+      {
+        "@language": "es",
+        "@value": "Teniente coronel"
+      },
+      {
+        "@language": "et",
+        "@value": "Kolonelleitnant"
+      },
+      {
+        "@language": "fi",
+        "@value": "Everstiluutnantti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Lieutenant colonel"
+      },
+      {
+        "@language": "hr",
+        "@value": "Potpukovnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alezredes"
+      },
+      {
+        "@language": "it",
+        "@value": "Tenente Colonnello"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pulkininkas leitenantas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pulkvežleitnants"
+      },
+      {
+        "@language": "mt",
+        "@value": "Logutenent Kurunell"
+      },
+      {
+        "@language": "nl",
+        "@value": "Luitenant-kolonel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podpułkownik"
+      },
+      {
+        "@language": "pt",
+        "@value": "Tenente-coronel"
+      },
+      {
+        "@language": "ro",
+        "@value": "Locotenent-colonel"
+      },
+      {
+        "@language": "sk",
+        "@value": "Podplukovník"
+      },
+      {
+        "@language": "sl",
+        "@value": "Podpolkovnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "Överstelöjtnant"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Lt Col"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ev.luutn."
+      },
+      {
+        "@language": "fr",
+        "@value": "Lt Col"
+      },
+      {
+        "@language": "hu",
+        "@value": "Alezr."
+      },
+      {
+        "@language": "nl",
+        "@value": "Lt.kol."
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb8",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "LIEUTCOLONEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/ADMIR_VICE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ADMIR_VICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ADMIR_VICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb1"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ADMIR_VICE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ADMIR_VICE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Kонтраадмирал"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vicealmirante"
+      },
+      {
+        "@language": "da",
+        "@value": "Kontradmiral"
+      },
+      {
+        "@language": "de",
+        "@value": "Konteradmiral"
+      },
+      {
+        "@language": "el",
+        "@value": "Υποναύαρχος"
+      },
+      {
+        "@language": "en",
+        "@value": "Rear admiral"
+      },
+      {
+        "@language": "es",
+        "@value": "Vicealmirante"
+      },
+      {
+        "@language": "et",
+        "@value": "Konteradmiral"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kontra-amiraali"
+      },
+      {
+        "@language": "fr",
+        "@value": "Vice-amiral"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seachaimiréal"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kontraadmiral"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ellentengernagy"
+      },
+      {
+        "@language": "it",
+        "@value": "Ammiraglio di divisione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Kontradmirolas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kontradmirālis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Rear Admiral"
+      },
+      {
+        "@language": "nl",
+        "@value": "Divisieadmiraal"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wiceadmirał"
+      },
+      {
+        "@language": "pt",
+        "@value": "Contra-Almirante"
+      },
+      {
+        "@language": "ro",
+        "@value": "Contraamiral"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kontradmirál"
+      },
+      {
+        "@language": "sl",
+        "@value": "Kontraadmiral"
+      },
+      {
+        "@language": "sv",
+        "@value": "Konteramiral"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "KAdm"
+      },
+      {
+        "@language": "en",
+        "@value": "RAdm"
+      },
+      {
+        "@language": "fi",
+        "@value": "K-amir"
+      },
+      {
+        "@language": "fr",
+        "@value": "VA"
+      },
+      {
+        "@language": "ga",
+        "@value": "SA"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kadm."
+      },
+      {
+        "@language": "pl",
+        "@value": "Wadm."
+      },
+      {
+        "@language": "pt",
+        "@value": "CALM"
+      },
+      {
+        "@language": "sk",
+        "@value": "Kadm."
+      },
+      {
+        "@language": "sv",
+        "@value": "H.E."
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb1",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "REARADMIRAL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/CDRE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CDRE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CDRE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb3"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CDRE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CDRE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Kомодор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Komodor"
+      },
+      {
+        "@language": "da",
+        "@value": "Flotilleadmiral"
+      },
+      {
+        "@language": "de",
+        "@value": "Flotillenadmiral"
+      },
+      {
+        "@language": "el",
+        "@value": "Αρχιπλοίαρχος"
+      },
+      {
+        "@language": "en",
+        "@value": "Commodore"
+      },
+      {
+        "@language": "es",
+        "@value": "Contralmirante"
+      },
+      {
+        "@language": "et",
+        "@value": "Kommodoor"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lippueamiraali"
+      },
+      {
+        "@language": "fr",
+        "@value": "Général de brigade"
+      },
+      {
+        "@language": "ga",
+        "@value": "Ceannasóir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Komodora"
+      },
+      {
+        "@language": "hu",
+        "@value": "Flotillatengernagy"
+      },
+      {
+        "@language": "it",
+        "@value": "Contrammiraglio"
+      },
+      {
+        "@language": "lt",
+        "@value": "Flotilės admirolas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Flotiles admirālis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Komodor"
+      },
+      {
+        "@language": "nl",
+        "@value": "Commandeur"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kontradmirał"
+      },
+      {
+        "@language": "pt",
+        "@value": "Comodoro"
+      },
+      {
+        "@language": "ro",
+        "@value": "Contraamiral de flotilă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Komodor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Kapitan"
+      },
+      {
+        "@language": "sv",
+        "@value": "Flottiljamiral"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "de",
+        "@value": "FltlAdm"
+      },
+      {
+        "@language": "en",
+        "@value": "Cdre"
+      },
+      {
+        "@language": "fi",
+        "@value": "Lp-amir"
+      },
+      {
+        "@language": "fr",
+        "@value": "GBR"
+      },
+      {
+        "@language": "lv",
+        "@value": "Fadm."
+      },
+      {
+        "@language": "pl",
+        "@value": "Kontradm."
+      },
+      {
+        "@language": "pt",
+        "@value": "COM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb3",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "BRIGADIER"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/HEMR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HEMR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HEMR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb6"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HEMR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HEMR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Негово превъзходителство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jeho Excelence"
+      },
+      {
+        "@language": "da",
+        "@value": "Hans Excellence"
+      },
+      {
+        "@language": "de",
+        "@value": "Seine Exzellenz"
+      },
+      {
+        "@language": "el",
+        "@value": "Αυτού Εξοχότης"
+      },
+      {
+        "@language": "en",
+        "@value": "His Excellency"
+      },
+      {
+        "@language": "es",
+        "@value": "Su Excelencia"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hänen Ylhäisyytensä"
+      },
+      {
+        "@language": "fr",
+        "@value": "Son Excellence"
+      },
+      {
+        "@language": "ga",
+        "@value": "A Shoilse"
+      },
+      {
+        "@language": "hu",
+        "@value": "Excellenciás úr"
+      },
+      {
+        "@language": "it",
+        "@value": "Sua Excellenza"
+      },
+      {
+        "@language": "lt",
+        "@value": "Jo Ekscelencija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Viņa Ekselence"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Eċċellenza Tiegħu"
+      },
+      {
+        "@language": "nl",
+        "@value": "Zijne Excellentie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Jego Ekscelencja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Vossa Excelência"
+      },
+      {
+        "@language": "sv",
+        "@value": "Hans Excellens"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Н.Пр."
+      },
+      {
+        "@language": "cs",
+        "@value": "J. E."
+      },
+      {
+        "@language": "da",
+        "@value": "H.E."
+      },
+      {
+        "@language": "de",
+        "@value": "S.E."
+      },
+      {
+        "@language": "el",
+        "@value": "AE"
+      },
+      {
+        "@language": "en",
+        "@value": "HE Mr"
+      },
+      {
+        "@language": "es",
+        "@value": "S. E."
+      },
+      {
+        "@language": "fr",
+        "@value": "S.E. M."
+      },
+      {
+        "@language": "ga",
+        "@value": "A.S."
+      },
+      {
+        "@language": "lt",
+        "@value": "J. E."
+      },
+      {
+        "@language": "lv",
+        "@value": "V. E."
+      },
+      {
+        "@language": "mt",
+        "@value": "ET"
+      },
+      {
+        "@language": "nl",
+        "@value": "Z.E."
+      },
+      {
+        "@language": "pl",
+        "@value": "JE"
+      },
+      {
+        "@language": "pt",
+        "@value": "S. Ex.ª"
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb6",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SEM"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/DR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb5"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Доктор"
+      },
+      {
+        "@language": "cs",
+        "@value": "Doktor"
+      },
+      {
+        "@language": "da",
+        "@value": "Doctor"
+      },
+      {
+        "@language": "de",
+        "@value": "Doktor"
+      },
+      {
+        "@language": "el",
+        "@value": "Διδάκτωρ"
+      },
+      {
+        "@language": "en",
+        "@value": "Doctor"
+      },
+      {
+        "@language": "es",
+        "@value": "Doctor"
+      },
+      {
+        "@language": "es",
+        "@value": "Doctora"
+      },
+      {
+        "@language": "es",
+        "@value": "Dra."
+      },
+      {
+        "@language": "fi",
+        "@value": "Lääkäri"
+      },
+      {
+        "@language": "fr",
+        "@value": "Docteur"
+      },
+      {
+        "@language": "hu",
+        "@value": "Doktor"
+      },
+      {
+        "@language": "it",
+        "@value": "Dotoressa"
+      },
+      {
+        "@language": "it",
+        "@value": "Dott.sa"
+      },
+      {
+        "@language": "it",
+        "@value": "Dottore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Mokslų daktaras"
+      },
+      {
+        "@language": "lv",
+        "@value": "Doktors"
+      },
+      {
+        "@language": "nl",
+        "@value": "Doctor"
+      },
+      {
+        "@language": "pl",
+        "@value": "Doktor"
+      },
+      {
+        "@language": "pt",
+        "@value": "Doutor"
+      },
+      {
+        "@language": "pt",
+        "@value": "Doutora"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dr.ª"
+      },
+      {
+        "@language": "ro",
+        "@value": "Doctor"
+      },
+      {
+        "@language": "sk",
+        "@value": "Doktor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Doktor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Doktorica"
+      },
+      {
+        "@language": "sv",
+        "@value": "Läkare"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Д-р"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dr."
+      },
+      {
+        "@language": "da",
+        "@value": "Dr."
+      },
+      {
+        "@language": "el",
+        "@value": "Δρ"
+      },
+      {
+        "@language": "en",
+        "@value": "Dr"
+      },
+      {
+        "@language": "es",
+        "@value": "Dr."
+      },
+      {
+        "@language": "fr",
+        "@value": "Dr."
+      },
+      {
+        "@language": "hu",
+        "@value": "Dr."
+      },
+      {
+        "@language": "it",
+        "@value": "Dott."
+      },
+      {
+        "@language": "lt",
+        "@value": "Dr."
+      },
+      {
+        "@language": "lv",
+        "@value": "Dr."
+      },
+      {
+        "@language": "mt",
+        "@value": "Dr"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dr."
+      },
+      {
+        "@language": "pl",
+        "@value": "Dr"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dr."
+      },
+      {
+        "@language": "ro",
+        "@value": "Dr."
+      },
+      {
+        "@language": "sk",
+        "@value": "Dr."
+      },
+      {
+        "@language": "sl",
+        "@value": "Dr."
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb5",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "DR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/COL",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb4"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "COL"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Полковник"
+      },
+      {
+        "@language": "cs",
+        "@value": "Plukovník"
+      },
+      {
+        "@language": "da",
+        "@value": "Oberst"
+      },
+      {
+        "@language": "de",
+        "@value": "Oberst"
+      },
+      {
+        "@language": "el",
+        "@value": "Συνταγματάρχης"
+      },
+      {
+        "@language": "en",
+        "@value": "Colonel"
+      },
+      {
+        "@language": "es",
+        "@value": "Coronel"
+      },
+      {
+        "@language": "et",
+        "@value": "Kolonel"
+      },
+      {
+        "@language": "fi",
+        "@value": "Eversti"
+      },
+      {
+        "@language": "fr",
+        "@value": "Colonel"
+      },
+      {
+        "@language": "hr",
+        "@value": "Pukovnik"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ezredes"
+      },
+      {
+        "@language": "it",
+        "@value": "Colonnello"
+      },
+      {
+        "@language": "lt",
+        "@value": "Pulkininkas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Pulkvedis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Il-Kurunell"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kolonel"
+      },
+      {
+        "@language": "pl",
+        "@value": "Pułkownik"
+      },
+      {
+        "@language": "pt",
+        "@value": "Coronel"
+      },
+      {
+        "@language": "ro",
+        "@value": "Colonelul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Plukovník"
+      },
+      {
+        "@language": "sl",
+        "@value": "Polkovnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "Överste"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Полк."
+      },
+      {
+        "@language": "el",
+        "@value": "Σ/χης"
+      },
+      {
+        "@language": "en",
+        "@value": "Col."
+      },
+      {
+        "@language": "es",
+        "@value": "Cnel."
+      },
+      {
+        "@language": "fr",
+        "@value": "Col."
+      },
+      {
+        "@language": "hu",
+        "@value": "Ezr."
+      },
+      {
+        "@language": "it",
+        "@value": "Col."
+      },
+      {
+        "@language": "lv",
+        "@value": "Plkv."
+      },
+      {
+        "@language": "mt",
+        "@value": "Kol."
+      },
+      {
+        "@language": "sl",
+        "@value": "Ev."
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb4",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "COLONEL"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/HEMS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "HEMS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "HEMS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb7"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "HEMS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "HEMS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Нейно превъзходителство"
+      },
+      {
+        "@language": "cs",
+        "@value": "Její Excelence"
+      },
+      {
+        "@language": "da",
+        "@value": "Hendes Excellence"
+      },
+      {
+        "@language": "de",
+        "@value": "Ihre Exzellenz"
+      },
+      {
+        "@language": "el",
+        "@value": "Αυτής Εξοχότης"
+      },
+      {
+        "@language": "en",
+        "@value": "Her Excellency"
+      },
+      {
+        "@language": "es",
+        "@value": "Su Excelencia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Son Excellence"
+      },
+      {
+        "@language": "hu",
+        "@value": "Excellenciás asszony"
+      },
+      {
+        "@language": "it",
+        "@value": "Sua Excellenza"
+      },
+      {
+        "@language": "lv",
+        "@value": "Viņas Ekselence"
+      },
+      {
+        "@language": "mt",
+        "@value": "L-Eċċellenza Tagħha"
+      },
+      {
+        "@language": "nl",
+        "@value": "Hare Excellentie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Jej Ekscelencja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Vossa Excelência"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Н.Пр."
+      },
+      {
+        "@language": "cs",
+        "@value": "J. E."
+      },
+      {
+        "@language": "da",
+        "@value": "H.E."
+      },
+      {
+        "@language": "de",
+        "@value": "I.E."
+      },
+      {
+        "@language": "en",
+        "@value": "HE Ms"
+      },
+      {
+        "@language": "es",
+        "@value": "S. E."
+      },
+      {
+        "@language": "fr",
+        "@value": "S.E. Mme"
+      },
+      {
+        "@language": "it",
+        "@value": "S.E."
+      },
+      {
+        "@language": "lt",
+        "@value": "J. E."
+      },
+      {
+        "@language": "mt",
+        "@value": "ET"
+      },
+      {
+        "@language": "nl",
+        "@value": "H.Exc."
+      },
+      {
+        "@language": "pl",
+        "@value": "JE"
+      },
+      {
+        "@language": "pt",
+        "@value": "S. Ex.ª"
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb7",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "SEMME"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Honorific"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "honorific"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20161214-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Honorific"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20161214-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Honorific"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/MR",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MR"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb10"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MR"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Господин"
+      },
+      {
+        "@language": "cs",
+        "@value": "Pan"
+      },
+      {
+        "@language": "da",
+        "@value": "Herre"
+      },
+      {
+        "@language": "de",
+        "@value": "Herr"
+      },
+      {
+        "@language": "el",
+        "@value": "Κύριος"
+      },
+      {
+        "@language": "en",
+        "@value": "Mister"
+      },
+      {
+        "@language": "es",
+        "@value": "Señor"
+      },
+      {
+        "@language": "et",
+        "@value": "Härra"
+      },
+      {
+        "@language": "fi",
+        "@value": "Herra"
+      },
+      {
+        "@language": "fr",
+        "@value": "Monsieur"
+      },
+      {
+        "@language": "ga",
+        "@value": "An tUasal"
+      },
+      {
+        "@language": "hr",
+        "@value": "Gospodin"
+      },
+      {
+        "@language": "hu",
+        "@value": "Úr"
+      },
+      {
+        "@language": "it",
+        "@value": "Signore"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ponas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kungs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sinjuri"
+      },
+      {
+        "@language": "nl",
+        "@value": "De heer"
+      },
+      {
+        "@language": "pt",
+        "@value": "Senhor"
+      },
+      {
+        "@language": "ro",
+        "@value": "Domnul"
+      },
+      {
+        "@language": "sk",
+        "@value": "Pán"
+      },
+      {
+        "@language": "sl",
+        "@value": "Gospod"
+      },
+      {
+        "@language": "sv",
+        "@value": "Herr"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Г-н"
+      },
+      {
+        "@language": "cs",
+        "@value": "P."
+      },
+      {
+        "@language": "da",
+        "@value": "Hr."
+      },
+      {
+        "@language": "de",
+        "@value": "Hr."
+      },
+      {
+        "@language": "el",
+        "@value": "κ."
+      },
+      {
+        "@language": "en",
+        "@value": "Mr"
+      },
+      {
+        "@language": "es",
+        "@value": "Sr."
+      },
+      {
+        "@language": "et",
+        "@value": "Hr."
+      },
+      {
+        "@language": "fi",
+        "@value": "Hra"
+      },
+      {
+        "@language": "fr",
+        "@value": "M."
+      },
+      {
+        "@language": "ga",
+        "@value": "An tUas."
+      },
+      {
+        "@language": "hr",
+        "@value": "Gosp."
+      },
+      {
+        "@language": "it",
+        "@value": "Sig."
+      },
+      {
+        "@language": "lt",
+        "@value": "P."
+      },
+      {
+        "@language": "lv",
+        "@value": "Kgs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sur"
+      },
+      {
+        "@language": "nl",
+        "@value": "Dhr"
+      },
+      {
+        "@language": "pl",
+        "@value": "P."
+      },
+      {
+        "@language": "pt",
+        "@value": "Sr."
+      },
+      {
+        "@language": "ro",
+        "@value": "Dl"
+      },
+      {
+        "@language": "sk",
+        "@value": "P."
+      },
+      {
+        "@language": "sl",
+        "@value": "G."
+      },
+      {
+        "@language": "sv",
+        "@value": "Hr"
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb10",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "MR"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/CAPT_FLT",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "CAPT_FLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "CAPT_FLT"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb2"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "CAPT_FLT"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "CAPT_FLT"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Капитан от военноморските сили"
+      },
+      {
+        "@language": "da",
+        "@value": "KommandØr"
+      },
+      {
+        "@language": "de",
+        "@value": "Kapitän zur See"
+      },
+      {
+        "@language": "el",
+        "@value": "Πλοίαρχος"
+      },
+      {
+        "@language": "en",
+        "@value": "Fleet Captain"
+      },
+      {
+        "@language": "es",
+        "@value": "Capitán de Navío"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kommodori"
+      },
+      {
+        "@language": "fr",
+        "@value": "Capitaine de vaisseau"
+      },
+      {
+        "@language": "hr",
+        "@value": "Kapetan bojnog broda"
+      },
+      {
+        "@language": "hu",
+        "@value": "Sorhajókapitány"
+      },
+      {
+        "@language": "it",
+        "@value": "Capitano di vascello"
+      },
+      {
+        "@language": "lt",
+        "@value": "Jūrų kapitonas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Jūras kapteinis"
+      },
+      {
+        "@language": "nl",
+        "@value": "Kapitein ter zee"
+      },
+      {
+        "@language": "pl",
+        "@value": "Komandor"
+      },
+      {
+        "@language": "pt",
+        "@value": "Capitão de mar e guerra"
+      },
+      {
+        "@language": "sv",
+        "@value": "Kommendör"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Capt"
+      },
+      {
+        "@language": "fr",
+        "@value": "CV"
+      },
+      {
+        "@language": "pt",
+        "@value": "CMG"
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb2",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "CAPTAIN"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/honorific/MS",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "MS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "MS"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-mapped-code": [
+      {
+        "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb11"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2009-12-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "MS"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "MS"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@language": "bg",
+        "@value": "Госпожа"
+      },
+      {
+        "@language": "cs",
+        "@value": "Paní"
+      },
+      {
+        "@language": "da",
+        "@value": "Fru"
+      },
+      {
+        "@language": "de",
+        "@value": "Frau"
+      },
+      {
+        "@language": "el",
+        "@value": "Κυρία"
+      },
+      {
+        "@language": "es",
+        "@value": "Senõra"
+      },
+      {
+        "@language": "fi",
+        "@value": "Rouva"
+      },
+      {
+        "@language": "fr",
+        "@value": "Madame"
+      },
+      {
+        "@language": "hu",
+        "@value": "Asszony"
+      },
+      {
+        "@language": "it",
+        "@value": "Signora"
+      },
+      {
+        "@language": "lt",
+        "@value": "Ponia"
+      },
+      {
+        "@language": "lv",
+        "@value": "Kundze"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sinjura"
+      },
+      {
+        "@language": "nl",
+        "@value": "Mevrouw"
+      },
+      {
+        "@language": "pt",
+        "@value": "Senhora"
+      },
+      {
+        "@language": "ro",
+        "@value": "Doamna"
+      },
+      {
+        "@language": "sl",
+        "@value": "Gospa"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/honorific"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Г-жа"
+      },
+      {
+        "@language": "da",
+        "@value": "Fr."
+      },
+      {
+        "@language": "el",
+        "@value": "κα"
+      },
+      {
+        "@language": "en",
+        "@value": "Ms"
+      },
+      {
+        "@language": "es",
+        "@value": "Sra."
+      },
+      {
+        "@language": "fr",
+        "@value": "Mme"
+      },
+      {
+        "@language": "it",
+        "@value": "Sig.ra"
+      },
+      {
+        "@language": "lt",
+        "@value": "P."
+      },
+      {
+        "@language": "lv",
+        "@value": "Kdze"
+      },
+      {
+        "@language": "nl",
+        "@value": "Mvr"
+      },
+      {
+        "@language": "pt",
+        "@value": "Sr.ª"
+      },
+      {
+        "@language": "ro",
+        "@value": "Dna"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ga."
+      }
+    ]
+  },
+  {
+    "@id": "_:n841ba499b98a4c80bf80ff53ef6d2ebfb11",
+    "@type": [
+      "http://publications.europa.eu/ontology/authority/MappedCode"
+    ],
+    "http://publications.europa.eu/ontology/authority/legacy-code": [
+      {
+        "@value": "MME"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "WHOISWHO"
+      }
+    ]
+  }
+]

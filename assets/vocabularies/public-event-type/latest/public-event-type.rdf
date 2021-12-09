@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/COMPETITION_AWARD_CEREMONY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>COMPETITION_AWARD_CEREMONY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>COMPETITION_AWARD_CEREMONY</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>COMPETITION_AWARD_CEREMONY</atold:op-code>
+    <dc:identifier>COMPETITION_AWARD_CEREMONY</dc:identifier>
+    <skos:definition xml:lang="en">Competitions and award ceremonies include public events such as award ceremonies, competitions and contests.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Конкурси и церемонии по награждаване</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Soutěže a slavnostní předání cen</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Konkurrencer og prisuddelinger</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Wettbewerbe und Preisverleihungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Διαγωνισμοί και τελετές απονομής βραβείων</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Competitions and award ceremonies</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Concursos y ceremonias de entrega de premios</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Konkursid ja auhinnatseremooniad</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kilpailut ja palkintoseremoniat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Concours et cérémonies de remise de prix</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comórtais agus searmanais bhronnta</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Natjecanja i svečanosti dodjele nagrada</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Versenyek és díjátadó ünnepségek</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Concorsi e cerimonie di premiazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Konkursai ir apdovanojimų iškilmės</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Konkursi un apbalvošanas ceremonijas</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Kompetizzjonijiet u ċerimonji ta’ premjazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Wedstrijden en prijsuitreikingen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Konkursy i ceremonie wręczenia nagród</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Concursos e cerimónias de entrega de prémios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Concursuri și ceremonii de decernare a premiilor</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Súťaže a slávnostné odovzdávanie cien</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Natečaji in podelitve nagrad</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tävlingar och prisutdelningar</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/EXHIBITION">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>EXHIBITION</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>EXHIBITION</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>EXHIBITION</atold:op-code>
+    <dc:identifier>EXHIBITION</dc:identifier>
+    <skos:definition xml:lang="en">Exhibitions include public events such as expos, exhibitions and fairs.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Изложения</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Výstavy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Udstillinger</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Ausstellungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Εκθέσεις</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Exhibitions</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Exposiciones</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Näitused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Näyttelyt</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Expositions</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Taispeántais</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Izložbe</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kiállítások</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Esposizioni</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Parodos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Izstādes</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Wirjiet</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Tentoonstellingen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wystawy</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Exposições</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Expoziții</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Výstavy</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Razstave</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Utställningar</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/POLITICAL_MEETING">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>POLITICAL_MEETING</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>POLITICAL_MEETING</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>POLITICAL_MEETING</atold:op-code>
+    <dc:identifier>POLITICAL_MEETING</dc:identifier>
+    <skos:definition xml:lang="en">Political meetings include political events involving the public.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Политически срещи</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Politická setkání</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Politiske møder</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Politische Veranstaltungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Πολιτικές εκδηλώσεις</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Political meetings</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Reuniones políticas</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Poliitilised kohtumised</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Poliittiset kokoukset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Réunions politiques</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Cruinnithe polaitiúla</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Politički sastanci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Politikai ülések</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Riunioni politiche</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Politiniai susitikimai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Politiskas sanāksmes</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Laqgħat politiċi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Politieke vergaderingen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Spotkania polityczne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Reuniões políticas</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Reuniuni politice</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Politické stretnutia</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Politični sestanki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Politiska möten</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/PUBLIC_DEBATE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>PUBLIC_DEBATE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>PUBLIC_DEBATE</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>PUBLIC_DEBATE</atold:op-code>
+    <dc:identifier>PUBLIC_DEBATE</dc:identifier>
+    <skos:definition xml:lang="en">Public debates include public events such as public debates, dialogues, forums and public meetings.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Публични дебати</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Veřejné diskuse</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Offentlige debatter</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Öffentliche Veranstaltungen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Δημόσιες συζητήσεις</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Public debates</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Debates públicos</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Avalikud arutelud</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Julkiset keskustelutilaisuudet</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Débats publics</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Díospóireachtaí poiblí</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Javne debate</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Nyilvános viták</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dibattiti pubblici</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Vieši debatai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Atklātas debates</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dibattiti pubbliċi</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Openbare debatten</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Debaty publiczne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Debates públicos</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Dezbateri publice</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Verejné diskusie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Javne razprave</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Offentliga debatter</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/CAMP_LAUNCH">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CAMP_LAUNCH</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CAMP_LAUNCH</at:op-code>
+    <at:start.use>2020-11-01</at:start.use>
+    <atold:op-code>CAMP_LAUNCH</atold:op-code>
+    <dc:identifier>CAMP_LAUNCH</dc:identifier>
+    <skos:definition xml:lang="en">Campaign launches include events with the objective of highlighting the launch of public awareness campaigns, policies and other types of initiatives.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Стартиране на кампании</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Zahájení kampaní</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Kampagnestart</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Kampagnendebüts</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">	Έναρξη εκστρατειών</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Campaign launches</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Lanzamiento de la campaña</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kampaania avaüritused</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kampanja-avajaiset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Lancements de campagnes</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Seoltaí feachtas</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Pokretanje kampanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kampányindító rendezvények</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Lancio di una campagna</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Kampanijos pradžios renginiai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Kampaņas uzsākšana</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Tnedija ta’ kampanja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Campagnestartevenementen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Inauguracje kampanii</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Lançamento da campanha</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Lansarea unei campanii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Kampaň sa začína</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začetek kampanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Kampanjlanseringar</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/CONFERENCE_SUMMIT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONFERENCE_SUMMIT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONFERENCE_SUMMIT</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>CONFERENCE_SUMMIT</atold:op-code>
+    <dc:identifier>CONFERENCE_SUMMIT</dc:identifier>
+    <skos:definition xml:lang="en">Conferences and summits include public events such as conferences, summits, congresses and colloquiums.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Конференции и срещи на високо равнище</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Konference a summity</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Konferencer og topmøder</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Konferenzen und Gipfeltreffen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Διασκέψεις και σύνοδοι κορυφής</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Conferences and summits</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Conferencias y cumbres</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Konverentsid ja tippkohtumised</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Konferenssit ja huippukokoukset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Conférences et sommets</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhdhálacha agus cruinnithe mullaigh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Konferencije i sastanci na vrhu</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Konferenciák és csúcstalálkozók</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Conferenze e vertici</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Konferencijos ir aukščiausiojo lygio susitikimai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Konferences un samiti</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Konferenzi u summits</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Conferenties en topontmoetingen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Konferencje i szczyty</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Conferências e cimeiras</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Conferințe și reuniuni la nivel înalt</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Konferencie a samity</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Konference in srečanja na vrhu</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Konferenser och toppmöten</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/TRAINING_WORKSHOP">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>TRAINING_WORKSHOP</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>TRAINING_WORKSHOP</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>TRAINING_WORKSHOP</atold:op-code>
+    <dc:identifier>TRAINING_WORKSHOP</dc:identifier>
+    <skos:definition xml:lang="en">Training and workshops include public events such as training, summer schools, webinars, workshops and seminars.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Обучения и семинари</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Odborná příprava a semináře</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Kurser og workshopper</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Schulungen und Workshops</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Εκπαιδευτικά σεμινάρια και εργαστήρια</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Training and workshops</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Formación y talleres</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Koolitused ja seminarid</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Koulutus ja työpajat</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Formations et ateliers</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Oiliúint agus ceardlanna</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Tečajevi i radionice</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Képzések és műhelytalálkozók</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Formazione e seminari</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Mokymas ir praktiniai seminarai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Mācības un semināri</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Taħriġ u workshops</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Opleidingen en workshops</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Szkolenia i warsztaty</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Formação e seminários</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Cursuri de formare și seminare de lucru</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Odborná príprava a semináre</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Usposabljanja in delavnice</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Kurser och seminarier</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Public event type</rdfs:label>
+    <at:prefLabel xml:lang="en">Public event type</at:prefLabel>
+    <at:table.id>public-event-type</at:table.id>
+    <at:table.version.number>20210317-0</at:table.version.number>
+    <owl:versionInfo>20210317-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Public event type</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/PARTNER_MEETING">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>PARTNER_MEETING</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>PARTNER_MEETING</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>PARTNER_MEETING</atold:op-code>
+    <dc:identifier>PARTNER_MEETING</dc:identifier>
+    <skos:definition xml:lang="en">Partner meetings include public events such as expert meetings, general meetings and stakeholder meetings.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Срещи с партньори</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Setkání partnerských subjektů</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Partnermøder</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Veranstaltungen mit Partnern</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συναντήσεις εταίρων</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Partner meetings</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Reuniones de socios</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Kohtumised partneritega</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Kumppanikokoukset</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Réunions de partenaires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Cruinnithe comhpháirtíochta</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Partnerski sastanci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Partneri találkozók</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Riunioni dei partner</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Partnerių susitikimai</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Partneru sanāksmes</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Laqgħat tal-imsieħba</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Vergaderingen met partners</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Spotkania partnerskie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Reuniões de parceiros</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Reuniuni ale partenerilor</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Stretnutia partnerských subjektov</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Partnerski sestanki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Möten med samarbetspartner</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/public-event-type/INFO_DAY">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>INFO_DAY</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>INFO_DAY</at:op-code>
+    <at:start.use>1958-01-01</at:start.use>
+    <atold:op-code>INFO_DAY</atold:op-code>
+    <dc:identifier>INFO_DAY</dc:identifier>
+    <skos:definition xml:lang="en">Info days include public events such as open days, information days, information meetings and networking events.</skos:definition>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+    <skos:prefLabel xml:lang="bg">Информационни дни</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Informační dny</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Infodage</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Info-Tage</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Ημερίδες ενημέρωσης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Info days</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Jornadas informativas</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Teabepäevad</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Infopäivät</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Journées d’information</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Laethanta eolais</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Dani informiranja</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Tájékoztató napok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Giornate d'informazione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Informacinės dienos</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Infodienas</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Jiem ta’ informazzjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Infodagen</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dni informacyjne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Jornadas de informação</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Zile de informare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Informačné dni</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Informativni dnevi</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Informationsdagar</skos:prefLabel>
+    <skos:topConceptOf rdf:resource="http://publications.europa.eu/resource/authority/public-event-type"/>
+  </rdf:Description>
+</rdf:RDF>

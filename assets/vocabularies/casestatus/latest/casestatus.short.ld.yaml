@@ -1,0 +1,51 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CLOSED
+  deprecated: 'false'
+  key: CLOSED
+  label_en: Case closed
+  label_it: Causa conclusa
+  url: http://publications.europa.eu/resource/authority/case-status/CLOSED
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/case-status/OP_DATPRO
+- country_code: PROGRESS
+  deprecated: 'false'
+  key: PROGRESS
+  label_en: Case in progress
+  label_it: Causa pendente
+  url: http://publications.europa.eu/resource/authority/case-status/PROGRESS
+  valid_from: '1952-07-24'
+- country_code: STAY
+  deprecated: 'false'
+  key: STAY
+  url: http://publications.europa.eu/resource/authority/case-status/STAY
+  valid_from: '1952-07-24'
+- country_code: WITHDRAW
+  deprecated: 'false'
+  key: WITHDRAW
+  url: http://publications.europa.eu/resource/authority/case-status/WITHDRAW
+  valid_from: '1952-07-24'

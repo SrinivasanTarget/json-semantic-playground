@@ -1,0 +1,92 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CHL
+  deprecated: 'false'
+  key: CHL
+  label_en: Children
+  label_it: Bambini
+  url: http://publications.europa.eu/resource/authority/target-audience/CHL
+  valid_from: '2017-10-04'
+- country_code: CON
+  deprecated: 'false'
+  key: CON
+  label_en: Consumers
+  label_it: Consumatori
+  url: http://publications.europa.eu/resource/authority/target-audience/CON
+  valid_from: '1999-01-01'
+- country_code: EDU
+  deprecated: 'false'
+  key: EDU
+  label_en: Education
+  label_it: Istruzione
+  url: http://publications.europa.eu/resource/authority/target-audience/EDU
+  valid_from: '1999-01-01'
+- country_code: GEN
+  deprecated: 'false'
+  key: GEN
+  label_en: General public
+  label_it: Grande pubblico
+  url: http://publications.europa.eu/resource/authority/target-audience/GEN
+  valid_from: '1999-01-01'
+- country_code: LEG
+  deprecated: 'false'
+  key: LEG
+  label_en: Legislative
+  label_it: Legislativi
+  url: http://publications.europa.eu/resource/authority/target-audience/LEG
+  valid_from: '1999-01-01'
+- country_code: MIN
+  deprecated: 'false'
+  key: MIN
+  label_en: Minorities
+  label_it: Minoranze
+  url: http://publications.europa.eu/resource/authority/target-audience/MIN
+  valid_from: '1999-01-01'
+- country_code: SCI
+  deprecated: 'false'
+  key: SCI
+  label_en: Scientific
+  label_it: Scientifici
+  url: http://publications.europa.eu/resource/authority/target-audience/SCI
+  valid_from: '1999-01-01'
+- country_code: SPE
+  deprecated: 'false'
+  key: SPE
+  label_en: Specialised
+  label_it: Specialistici
+  url: http://publications.europa.eu/resource/authority/target-audience/SPE
+  valid_from: '1999-01-01'
+- country_code: YOP
+  deprecated: 'false'
+  key: YOP
+  label_en: Young people
+  label_it: Giovani
+  url: http://publications.europa.eu/resource/authority/target-audience/YOP
+  valid_from: '1999-01-01'
+- country_code: OP_DATPRO
+  deprecated: 'false'
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/targetaudiences/OP_DATPRO
+  valid_from: '1952-07-23'

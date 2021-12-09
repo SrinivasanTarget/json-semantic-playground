@@ -1,0 +1,17 @@
+# Serializing assets/vocabularies/customer-service/latest/customer-service.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/customer-service
+# title: Customer service
+# version: 20210616-0
+# description: Customer service
+key,url,country_code,label_en,label_it,deprecated,valid_from
+OP_DATPRO,http://publications.europa.eu/resource/authority/customer-service/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,
+assistance,http://publications.europa.eu/resource/authority/customer-service/assistance,assistance,Assistance for persons with reduced mobility,,false,2021-06-16
+cancel,http://publications.europa.eu/resource/authority/customer-service/cancel,cancel,Cancellations,,false,2021-06-16
+clean,http://publications.europa.eu/resource/authority/customer-service/clean,clean,Cleanliness of rolling stock and station facilities,,false,2021-06-16
+complaint,http://publications.europa.eu/resource/authority/customer-service/complaint,complaint,Complaint handling,,false,2021-06-16
+info,http://publications.europa.eu/resource/authority/customer-service/info,info,Information,,false,2021-06-16
+other,http://publications.europa.eu/resource/authority/customer-service/other,other,Other,,false,2021-06-16
+reliability,http://publications.europa.eu/resource/authority/customer-service/reliability,reliability,Punctuality and reliability,,false,2021-06-16
+sat-surv,http://publications.europa.eu/resource/authority/customer-service/sat-surv,sat-surv,Customer satisfaction survey,,false,2021-06-16
+ticket,http://publications.europa.eu/resource/authority/customer-service/ticket,ticket,Ticketing,,false,2021-06-16

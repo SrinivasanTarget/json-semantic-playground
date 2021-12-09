@@ -1,0 +1,377 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: ACTION_ANNU
+  deprecated: 'false'
+  key: ACTION_ANNU
+  label_en: Actions for annulment
+  label_it: Ricorso di annullamento
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_ANNU
+  valid_from: '1952-07-24'
+- country_code: ACTION_DAM
+  deprecated: 'false'
+  key: ACTION_DAM
+  label_en: Action for damages
+  label_it: Ricorso per risarcimento dei danni
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_DAM
+  valid_from: '1952-07-24'
+- country_code: ACTION_DIR
+  deprecated: 'false'
+  key: ACTION_DIR
+  label_en: Direct action
+  label_it: Ricorso diretto
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_DIR
+  valid_from: '1952-07-24'
+- country_code: ACTION_FAIL_ACT
+  deprecated: 'false'
+  key: ACTION_FAIL_ACT
+  label_en: Actions for failure to act
+  label_it: Ricorso per carenza
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_ACT
+  valid_from: '1952-07-24'
+- country_code: ACTION_FAIL_OBLIG
+  deprecated: 'false'
+  key: ACTION_FAIL_OBLIG
+  label_en: Action for a declaration of failure to fulfil obligations
+  label_it: Ricorso per inadempimento
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_FAIL_OBLIG
+  valid_from: '1952-07-24'
+- country_code: ACTION_SANC
+  deprecated: 'false'
+  key: ACTION_SANC
+  label_en: Appeal brought against a sanction
+  label_it: Ricorso contro una sanzione
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_SANC
+  valid_from: '1952-07-24'
+- country_code: ACTION_STAFF
+  deprecated: 'false'
+  key: ACTION_STAFF
+  label_en: Actions brought by officials
+  label_it: Ricorsi di dipendenti
+  url: http://publications.europa.eu/resource/authority/procjur/ACTION_STAFF
+  valid_from: '1952-07-24'
+- country_code: APPEAL
+  deprecated: 'false'
+  key: APPEAL
+  label_en: Appeals
+  label_it: Impugnazione
+  url: http://publications.europa.eu/resource/authority/procjur/APPEAL
+  valid_from: '1952-07-24'
+- country_code: APPEAL_INTV
+  deprecated: 'false'
+  key: APPEAL_INTV
+  label_en: Appeal on intervention
+  label_it: Impugnazione emessa in sede di intervento
+  url: http://publications.europa.eu/resource/authority/procjur/APPEAL_INTV
+  valid_from: '1952-07-24'
+- country_code: APPEAL_INT_MEAS
+  deprecated: 'false'
+  key: APPEAL_INT_MEAS
+  label_en: Appeal on interim measures
+  label_it: Impugnazione di pronuncia emessa in sede di procedimento sommario
+  url: http://publications.europa.eu/resource/authority/procjur/APPEAL_INT_MEAS
+  valid_from: '1952-07-24'
+- country_code: APPL_AID
+  deprecated: 'false'
+  key: APPL_AID
+  label_en: Application for legal aid
+  label_it: Domanda di gratuito patrocinio
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_AID
+  valid_from: '1952-07-24'
+- country_code: APPL_COST
+  deprecated: 'false'
+  key: APPL_COST
+  label_en: Application as to costs
+  label_it: Domanda relativa alle spese
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_COST
+  valid_from: '1952-07-24'
+- country_code: APPL_IMMUN
+  deprecated: 'false'
+  key: APPL_IMMUN
+  label_en: Request concerning immunities
+  label_it: "Domanda relativa alle immunit\xE0"
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_IMMUN
+  valid_from: '1952-07-24'
+- country_code: APPL_IMPL_IMM
+  deprecated: 'false'
+  key: APPL_IMPL_IMM
+  label_en: Application for immediate implementation (EURATOM Treaty)
+  label_it: Domanda di esecuzione immediata (Trattato EURATOM)
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_IMPL_IMM
+  valid_from: '1952-07-24'
+- country_code: APPL_INTERP
+  deprecated: 'false'
+  key: APPL_INTERP
+  label_en: Application for the interpretation of a judgment
+  label_it: Domanda di interpretazione di una sentenza
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_INTERP
+  valid_from: '1952-07-24'
+- country_code: APPL_INTV
+  deprecated: 'false'
+  key: APPL_INTV
+  label_en: Application for leave to intervene
+  label_it: Istanza d'intervento
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_INTV
+  valid_from: '1952-07-24'
+- country_code: APPL_MEAS_INQ
+  deprecated: 'false'
+  key: APPL_MEAS_INQ
+  label_en: Application for measures of inquiry
+  label_it: Domanda di misure istruttorie
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_MEAS_INQ
+  valid_from: '1952-07-24'
+- country_code: APPL_RECT
+  deprecated: 'false'
+  key: APPL_RECT
+  label_en: Application for rectification of a judgment
+  label_it: Domanda di rettifica di una sentenza
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_RECT
+  valid_from: '1952-07-24'
+- country_code: APPL_REV
+  deprecated: 'false'
+  key: APPL_REV
+  label_en: Application for revision of a judgment
+  label_it: Domanda di revocazione di una sentenza
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_REV
+  valid_from: '1952-07-24'
+- country_code: APPL_SUSP_ADP
+  deprecated: 'false'
+  key: APPL_SUSP_ADP
+  label_en: Application to suspend adoption or stay execution or application for interim
+    measures
+  label_it: Domanda di sospensione dell'esecuzione o domanda di provvedimenti provvisori
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ADP
+  valid_from: '1952-07-24'
+- country_code: APPL_SUSP_ENF
+  deprecated: 'false'
+  key: APPL_SUSP_ENF
+  label_en: Application to suspend enforcement
+  label_it: Domanda di sospensione d'esecuzione forzata
+  url: http://publications.europa.eu/resource/authority/procjur/APPL_SUSP_ENF
+  valid_from: '1952-07-24'
+- country_code: CLAUSE_ARB
+  deprecated: 'false'
+  key: CLAUSE_ARB
+  label_en: Arbitration clause
+  label_it: Clausola compromissoria
+  url: http://publications.europa.eu/resource/authority/procjur/CLAUSE_ARB
+  valid_from: '1952-07-24'
+- country_code: COST_ENF
+  deprecated: 'false'
+  key: COST_ENF
+  label_en: Enforcement of costs
+  label_it: Esecuzione delle spese
+  url: http://publications.europa.eu/resource/authority/procjur/COST_ENF
+  valid_from: '1952-07-24'
+- country_code: COST_TAX
+  deprecated: 'false'
+  key: COST_TAX
+  label_en: Taxation of costs
+  label_it: Liquidazione delle spese
+  url: http://publications.europa.eu/resource/authority/procjur/COST_TAX
+  valid_from: '1952-07-24'
+- country_code: DISS
+  deprecated: 'false'
+  key: DISS
+  label_en: Separation of cases
+  url: http://publications.europa.eu/resource/authority/procjur/DISS
+  valid_from: '1952-07-24'
+- country_code: GARNISHEE_ORDER
+  deprecated: 'false'
+  key: GARNISHEE_ORDER
+  label_en: Attachment order
+  label_it: Pignoramento
+  url: http://publications.europa.eu/resource/authority/procjur/GARNISHEE_ORDER
+  valid_from: '1952-07-24'
+- country_code: INTERP
+  deprecated: 'false'
+  key: INTERP
+  label_en: Interpretation
+  label_it: Interpretazione
+  url: http://publications.europa.eu/resource/authority/procjur/INTERP
+  valid_from: '1952-07-24'
+- country_code: JUDG_REF_BACK
+  deprecated: 'false'
+  key: JUDG_REF_BACK
+  label_en: Judgment delivered after setting aside and referral back
+  label_it: Sentenza pronunciata a seguito di annullamento e rinvio
+  url: http://publications.europa.eu/resource/authority/procjur/JUDG_REF_BACK
+  valid_from: '1952-07-24'
+- country_code: JUDG_REV
+  deprecated: 'false'
+  key: JUDG_REV
+  label_en: Revision of a judgment
+  label_it: Revocazione di una sentenza
+  url: http://publications.europa.eu/resource/authority/procjur/JUDG_REV
+  valid_from: '1952-07-24'
+- country_code: OMST
+  deprecated: 'false'
+  key: OMST
+  label_en: Failure to adjudicate
+  label_it: Omessa pronuncia
+  url: http://publications.europa.eu/resource/authority/procjur/OMST
+  valid_from: '1952-07-24'
+- country_code: OPPO
+  deprecated: 'false'
+  key: OPPO
+  label_en: Opposition
+  label_it: Opposizione
+  url: http://publications.europa.eu/resource/authority/procjur/OPPO
+  valid_from: '1952-07-24'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/procjur/OP_DATPRO
+- country_code: PPAR
+  deprecated: 'false'
+  key: PPAR
+  label_en: Special proceedings
+  label_it: Procedimento particolare
+  url: http://publications.europa.eu/resource/authority/procjur/PPAR
+  valid_from: '2018-03-16'
+- country_code: PROC_OPI
+  deprecated: 'false'
+  key: PROC_OPI
+  label_en: Opinion procedure
+  label_it: Procedura di parere
+  url: http://publications.europa.eu/resource/authority/procjur/PROC_OPI
+  valid_from: '1952-07-24'
+- country_code: PROC_PART
+  deprecated: 'false'
+  key: PROC_PART
+  label_en: Particular form of procedure
+  label_it: Procedimento particolare
+  url: http://publications.europa.eu/resource/authority/procjur/PROC_PART
+  valid_from: '1952-07-24'
+- country_code: PROPERTY_INTEL
+  deprecated: 'false'
+  key: PROPERTY_INTEL
+  label_en: Intellectual property
+  label_it: "Proprit\xE0 intellettuale"
+  url: http://publications.europa.eu/resource/authority/procjur/PROPERTY_INTEL
+  valid_from: '1952-07-24'
+- country_code: RECT
+  deprecated: 'false'
+  key: RECT
+  label_en: Rectification
+  label_it: Rettifica
+  url: http://publications.europa.eu/resource/authority/procjur/RECT
+  valid_from: '1952-07-24'
+- country_code: REFER_PREL
+  deprecated: 'false'
+  key: REFER_PREL
+  label_en: Reference for a preliminary ruling
+  label_it: Rinvio pregiudiziale
+  url: http://publications.europa.eu/resource/authority/procjur/REFER_PREL
+  valid_from: '1952-07-24'
+- country_code: REFER_PREL_URG
+  deprecated: 'false'
+  key: REFER_PREL_URG
+  label_en: Preliminary reference - urgent procedure
+  label_it: Rinvio pregiudiziale - Procedimento d'urgenza
+  url: http://publications.europa.eu/resource/authority/procjur/REFER_PREL_URG
+  valid_from: '1952-07-24'
+- country_code: REF_BACK_ASIDE
+  deprecated: 'false'
+  key: REF_BACK_ASIDE
+  label_en: Referral back after setting aside
+  label_it: Rinvio dopo annullamento
+  url: http://publications.europa.eu/resource/authority/procjur/REF_BACK_ASIDE
+  valid_from: '1952-07-24'
+- country_code: REF_BACK_DECLIN
+  deprecated: 'false'
+  key: REF_BACK_DECLIN
+  label_en: Referrals back after jurisdiction has been declined
+  label_it: Rinvio dopo riattribuzione di cause
+  url: http://publications.europa.eu/resource/authority/procjur/REF_BACK_DECLIN
+  valid_from: '1952-07-24'
+- country_code: REF_BACK_LACK
+  deprecated: 'false'
+  key: REF_BACK_LACK
+  label_en: Referral back for lack of competence
+  label_it: Rinvio per incompetenza
+  url: http://publications.europa.eu/resource/authority/procjur/REF_BACK_LACK
+  valid_from: '1952-07-24'
+- country_code: REF_BACK_REVIEW
+  deprecated: 'false'
+  key: REF_BACK_REVIEW
+  label_en: Referral back after review
+  label_it: Rinvio dopo riesame
+  url: http://publications.europa.eu/resource/authority/procjur/REF_BACK_REVIEW
+  valid_from: '1952-07-24'
+- country_code: REF_P_BACK_ASIDE
+  deprecated: 'false'
+  key: REF_P_BACK_ASIDE
+  label_en: Partial referral back after setting aside
+  label_it: Rinvio parziale dopo annullamento
+  url: http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_ASIDE
+  valid_from: '1952-07-24'
+- country_code: REF_P_BACK_DECLIN
+  deprecated: 'false'
+  key: REF_P_BACK_DECLIN
+  label_en: Partial referrals back after jurisdiction has been declined
+  label_it: Rinvio parziale dopo riattribuzione di cause
+  url: http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_DECLIN
+  valid_from: '1952-07-24'
+- country_code: REF_P_BACK_LACK
+  deprecated: 'false'
+  key: REF_P_BACK_LACK
+  label_en: Partial referral back for lack of competence
+  label_it: Rinvio parziale per incompetenza
+  url: http://publications.europa.eu/resource/authority/procjur/REF_P_BACK_LACK
+  valid_from: '1952-07-24'
+- country_code: RESP_MEMB
+  deprecated: 'false'
+  key: RESP_MEMB
+  label_en: Responsibility of a member of the institutions
+  label_it: "Responsabilit\xE0 di un membro delle istituzioni"
+  url: http://publications.europa.eu/resource/authority/procjur/RESP_MEMB
+  valid_from: '1952-07-24'
+- country_code: REVIEW
+  deprecated: 'false'
+  key: REVIEW
+  label_en: Review
+  label_it: Riesame
+  url: http://publications.europa.eu/resource/authority/procjur/REVIEW
+  valid_from: '1952-07-24'
+- country_code: RULING
+  deprecated: 'false'
+  key: RULING
+  label_en: Ruling (EURATOM Treaty)
+  label_it: Deliberazione (Trattato EURATOM)
+  url: http://publications.europa.eu/resource/authority/procjur/RULING
+  valid_from: '1952-07-24'
+- country_code: STAFF
+  deprecated: 'false'
+  key: STAFF
+  label_en: Staff cases
+  label_it: Funzione pubblica
+  url: http://publications.europa.eu/resource/authority/procjur/STAFF
+  valid_from: '1952-07-24'
+- country_code: THIRDPARTY_PROCEED
+  deprecated: 'false'
+  key: THIRDPARTY_PROCEED
+  label_en: Third-party proceedings
+  label_it: Opposizione di terzo
+  url: http://publications.europa.eu/resource/authority/procjur/THIRDPARTY_PROCEED
+  valid_from: '1952-07-24'

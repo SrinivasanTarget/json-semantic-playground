@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/OTHER">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>OTHER</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>OTHER</at:op-code>
+    <at:start.use>1962-11-13</at:start.use>
+    <atold:op-code>OTHER</atold:op-code>
+    <dc:identifier>OTHER</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">Друг</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Ostatní</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Andre</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Andere</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Άλλο</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Otro</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Muut</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Autre</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Eile</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Drugi</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Egyéb szerződés</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Altro</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Kita</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Citi</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Oħra</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Overige</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Inne</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Outro</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Altele</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Ostatné</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Drugo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Andra</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/ACCESS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>ACCESS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>ACCESS</at:op-code>
+    <at:start.use>1972-01-22</at:start.use>
+    <atold:op-code>ACCESS</atold:op-code>
+    <dc:identifier>ACCESS</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">Договор за присъединяване</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Přístupové smlouvy</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Traktat om tiltrædelse</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Beitrittsvertrag</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συνθήκης προσχώρησης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Accession treaty</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Tratado de adhesión</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Ühinemisleping</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Liittymissopimus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Traité d'adhésion</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Conradh Aontachais</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Ugovor o pristupanju</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Csatlakozási szerződés</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Trattato di adesione</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Stojimo sutartis</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Pievienošanās līgums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Trattat tal-Adeżjoni</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Toetredingsverdrag</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Traktat akcesyjny</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Tratado de Adesão</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Tratat de aderare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Prístupová zmluva</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Pristopna pogodba</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Anslutningsfördraget</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/FOUND">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>FOUND</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>FOUND</at:op-code>
+    <at:start.use>1951-04-18</at:start.use>
+    <atold:op-code>FOUND</atold:op-code>
+    <dc:identifier>FOUND</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">Учредителен договор</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Zakládající smlouva</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Traktat om oprettelse</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Gründungsvertrag</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Ιδρυτική συνθήκη</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Founding treaty</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Tratado constitutivo</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Alusleping</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Perustamissopimus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Traité constitutif</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Conradh bunaidh</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Ugovor o osnivanju</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Alapító szerződés</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Trattato costitutivo</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Steigiamoji sutartis</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Dibināšanas līgums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Trattat fundatur</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Oprichtingsverdrag</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Traktat założycielski</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Tratado constitutivo</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Tratat fondator</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Zakladajúca zmluva</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Ustanovna pogodba</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Grundfördraget</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Treaty classification</rdfs:label>
+    <at:prefLabel xml:lang="en">Treaty classification</at:prefLabel>
+    <at:table.id>treaty-classification</at:table.id>
+    <at:table.version.number>20190220-0</at:table.version.number>
+    <owl:versionInfo>20190220-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Treaty classification</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/WITHDRAWAL">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>WITHDRAWAL</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>WITHDRAWAL</at:op-code>
+    <at:start.use>2007-12-13</at:start.use>
+    <atold:op-code>WITHDRAWAL</atold:op-code>
+    <dc:identifier>WITHDRAWAL</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">Cпоразумение за оттегляне</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Dohoda o vystoupení</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Udtrædelsesaftale</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Austrittsabkommen</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Συμφωνία αποχώρησης</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Withdrawal agreement</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Acuerdo de retirada</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Väljaastumisleping</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Erosopimus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Accord de retrait</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Comhaontú um tharraingt siar</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Sporazum o povlačenju</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Kilépési megállapodás</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Accordo di recesso</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Susitarimas dėl išstojimo</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Izstāšanās līgums</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Ftehim dwar il-ħruġ</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Terugtrekkingsakkoord</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Umowa o wystąpieniu</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Acordo de saída</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Acord de retragere</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Dohoda o vystúpení</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Sporazum o izstopu</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Avtal om utträde</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/AMEND">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>AMEND</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>AMEND</at:op-code>
+    <at:start.use>1965-04-08</at:start.use>
+    <atold:op-code>AMEND</atold:op-code>
+    <dc:identifier>AMEND</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">Договор за реформа</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Pozměňující smlouva</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Ændring af traktaten</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Änderungsvertrag</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Τροποποιητική συνθήκη</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Amending treaty</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Tratado de modificación</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Muutmisleping</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Muutossopimus</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Traité modificatif</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Conradh leasaitheach</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Ugovor o modifikaciji</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Módosító szerződés</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Trattato modificato</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Keičiančioji sutartis</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Līgums par grozījumiem</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Trattat emendatorju</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Wijzigingsverdrag</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Traktat zmieniający</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Tratado modificativo</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Tratat de modificare</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Pozmeňujúca zmluva</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Pogodba o spremembah</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Ändringsfördrag</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/SUBPART">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>SUBPART</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>SUBPART</at:op-code>
+    <at:start.use>1951-04-18</at:start.use>
+    <atold:op-code>SUBPART</atold:op-code>
+    <dc:identifier>SUBPART</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="en">Subpart</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Sous-partie</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/treaty-classification/CONS">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CONS</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CONS</at:op-code>
+    <at:start.use>1992-02-07</at:start.use>
+    <atold:op-code>CONS</atold:op-code>
+    <dc:identifier>CONS</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/treaty-classification"/>
+    <skos:prefLabel xml:lang="bg">Консолидиран текст</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Konsolidované znění</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Konsolideret udgave</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Konsolidierte Fassung</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Ενοποιημένη έκδοση</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Consolidated version</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Versión consolidada</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Konsolideeritud versioon</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Konsolidoitu toisinto</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Version consolidée</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Leagan comhdhlúite</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Pročišćena inačica</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Egységes szerkezetbe foglalt változat</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Versione consolidata</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Suvestinė redakcija</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Konsolidētā versija</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Verżjoni konsolidata</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Geconsolideerde versie</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Wersja skonsolidowana</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Versão consolidada</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Versiune consolidată</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Konsolidované znenie</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Prečiščeno besedilo</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Konsoliderad version</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

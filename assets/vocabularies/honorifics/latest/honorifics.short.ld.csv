@@ -1,0 +1,19 @@
+# Serializing assets/vocabularies/honorifics/latest/honorifics.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/honorific
+# title: Honorific
+# version: 20161214-0
+# description: Honorific
+key,url,deprecated,valid_from,country_code,label_en,label_it
+ADMIR_VICE,http://publications.europa.eu/resource/authority/honorific/ADMIR_VICE,false,2009-12-01,ADMIR_VICE,RAdm,
+CAPT_FLT,http://publications.europa.eu/resource/authority/honorific/CAPT_FLT,false,2009-12-01,CAPT_FLT,Capt,
+CDRE,http://publications.europa.eu/resource/authority/honorific/CDRE,false,2009-12-01,CDRE,Cdre,
+COL,http://publications.europa.eu/resource/authority/honorific/COL,false,2009-12-01,COL,Col.,Col.
+DR,http://publications.europa.eu/resource/authority/honorific/DR,false,2009-12-01,DR,Dr,Dott.
+HEMR,http://publications.europa.eu/resource/authority/honorific/HEMR,false,2009-12-01,HEMR,HE Mr,
+HEMS,http://publications.europa.eu/resource/authority/honorific/HEMS,false,2009-12-01,HEMS,HE Ms,S.E.
+LTCOL,http://publications.europa.eu/resource/authority/honorific/LTCOL,false,2009-12-01,LTCOL,Lt Col,
+LTGEN,http://publications.europa.eu/resource/authority/honorific/LTGEN,false,2009-12-01,LTGEN,Lt. Gen.,
+MR,http://publications.europa.eu/resource/authority/honorific/MR,false,2009-12-01,MR,Mr,Sig.
+MS,http://publications.europa.eu/resource/authority/honorific/MS,false,2009-12-01,MS,Ms,Sig.ra
+OP_DATPRO,http://publications.europa.eu/resource/authority/honorific/OP_DATPRO,,,OP_DATPRO,Provisional data,Dati provvisori

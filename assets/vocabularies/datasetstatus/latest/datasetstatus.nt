@@ -1,0 +1,199 @@
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "trukket tilbake"@no .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0435\u043F\u0440\u0435\u043F\u043E\u0440\u044A\u0447\u0438\u0442\u0435\u043B\u0435\u043D"@bg .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "em desenvolvimento"@pt .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://purl.org/dc/elements/1.1/identifier> "WITHDRAWN" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#altLabel> "interrompue"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "b\u00F6r ej anv\u00E4ndas"@sv .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "desaconselhado"@pt .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://publications.europa.eu/ontology/authority/op-code> "DEVELOP" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E \u043F\u0440\u0435\u0443\u0441\u0442\u0430\u043D\u043E\u0432\u0435\u043D\u043E"@bg .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://publications.europa.eu/ontology/authority/op-code> "DISCONT" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03C5\u03C0\u03CC \u03BA\u03B1\u03C4\u03B1\u03C3\u03BA\u03B5\u03C5\u03AE"@el .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "avviklet"@no .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "odstranjeno"@sl .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://publications.europa.eu/ontology/authority/table.version.number> "20160921-0" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://publications.europa.eu/ontology/authority/op-code> "COMPLETED" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "completo"@es .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u044A\u043B\u0435\u043D"@bg .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "visszavont"@hu .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "odsvetovano"@sl .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "under udvikling"@da .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "u izradi"@hr .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "sagatavo\u0161ana p\u0101rtraukta"@lv .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "retras"@ro .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-status> .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-status> .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "discontinued"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "zastaran\u00FD"@sk .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "obustavljen"@hr .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "atsiimtas"@lt .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "wycofany"@pl .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "za\u010Dasno prekinjeno"@sl .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "finalizat"@ro .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "vedetty pois"@fi .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "pabeigts"@lv .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03B1\u03C0\u03BF\u03C3\u03CD\u03C1\u03B8\u03B7\u03BA\u03B5"@el .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "nebeatnaujinama"@lt .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "ve f\u00E1zi v\u00FDvoje"@cs .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "interrumpido"@es .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00EEn curs de preg\u0103tire"@ro .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "elavult"@hu .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-status> .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0442\u0442\u0435\u0433\u043B\u0435\u043D"@bg .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "veraltet"@de .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nerekomenduojamas"@lt .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "interrompu"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "atsaukts"@lv .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "scortha"@ga .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "qed ji\u0121i \u017Cviluppat"@mt .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "unterbrochen"@de .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nerecomandat"@ro .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "odstr\u00E1nen\u00FD"@sk .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "en cours d'\u00E9laboration"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "verouderd"@nl .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "ferdigstilt"@no .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://publications.europa.eu/ontology/authority/prefLabel> "Dataset status"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "uko\u0144czony"@pl .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "trukket tilbage"@da .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "pozastaven\u00E9"@sk .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/op-code> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "komplut"@mt .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/authority-code> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "dokon\u010Dano"@sl .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "vo f\u00E1ze v\u00FDvoja"@sk .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "valmis"@fi .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "desaconsejado"@es .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://www.w3.org/2000/01/rdf-schema#label> "Dataset status"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "in corso di sviluppo"@it .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://purl.org/dc/elements/1.1/identifier> "DEVELOP" .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://publications.europa.eu/ontology/authority/op-code> "WITHDRAWN" .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "fullst\u00E4ndig"@sv .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00FChistatud"@et .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://publications.europa.eu/ontology/authority/table.id> "dataset-status" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432 \u043F\u0440\u043E\u0446\u0435\u0441 \u043D\u0430 \u0441\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435"@bg .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "completado"@pt .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "retirado"@pt .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03C0\u03BB\u03AE\u03C1\u03B7 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "foreldet"@no .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "oph\u00F8rt"@da .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00E9sz"@hu .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "irtirat"@mt .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00F6\u00F6s"@et .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "har upph\u00F6rt"@sv .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://publications.europa.eu/resource/authority/op-code> "DEVELOP" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://publications.europa.eu/resource/authority/op-code> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://publications.europa.eu/resource/authority/op-code> "DISCONT" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "v pripravi"@sl .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "hyl\u00E4tt\u00E4v\u00E4"@fi .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-status> .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "sudaromas"@lt .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "potpun"@hr .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "en fase de elaboraci\u00F3n"@es .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "frar\u00E5det"@da .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03C0\u03B1\u03C1\u03C9\u03C7\u03B7\u03BC\u03AD\u03BD\u03B1 \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingestellt"@de .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "kidolgoz\u00E1s alatt"@hu .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "ritirato"@it .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "taunitav"@et .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "under development"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "in ontwikkeling"@nl .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://publications.europa.eu/ontology/authority/authority-code> "DISCONT" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "zastaveno"@cs .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "izstr\u0101des stadij\u0101"@lv .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "under utvikling"@no .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "deprecated"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "odstran\u011Bn"@cs .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "sconsigliato"@it .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://publications.europa.eu/ontology/authority/authority-code> "DEVELOP" .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://purl.org/dc/elements/1.1/identifier> "DISCONT" .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "kehitteill\u00E4"@fi .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "f\u00E6rdiggjort"@da .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "zastaral\u00FD"@cs .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://publications.europa.eu/ontology/authority/authority-code> "WITHDRAWN" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://purl.org/dc/elements/1.1/identifier> "COMPLETED" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "keskeytetty"@fi .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "withdrawn"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00E9conseill\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "sz\u00FCneteltetve"@hu .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-status> .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00E4ielik"@et .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://purl.org/dc/elements/1.1/identifier> "DEPRECATED" .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "prace w toku"@pl .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "interrotta"@it .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://www.w3.org/2002/07/owl#versionInfo> "20160921-0" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "przerwano"@pl .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "obustavljeno"@hr .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "stopgezet"@nl .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/dataset-status> .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "neva\u017Ee\u0107i"@hr .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00EEntrerupt\u0103"@ro .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "l\u00F5petatud"@et .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "compl\u00E9t\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://publications.europa.eu/ontology/authority/start.use> "2013-01-01" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "interrompida"@pt .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "novecojis"@lv .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://publications.europa.eu/resource/authority/op-code> "COMPLETED" .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "retirado"@es .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "nieaktualny"@pl .
+<http://publications.europa.eu/resource/authority/dataset-status/DEPRECATED> <http://www.w3.org/2004/02/skos/core#prefLabel> "mhux aktar fl-u\u017Cu"@mt .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://publications.europa.eu/resource/authority/op-code> "WITHDRAWN" .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "completato"@it .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "arbete p\u00E5g\u00E5r"@sv .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "completed"@en .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "retir\u00E9"@fr .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://publications.europa.eu/ontology/authority/authority-code> "COMPLETED" .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "interrott"@mt .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "vollst\u00E4ndig"@de .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "indragen"@sv .
+<http://publications.europa.eu/resource/authority/dataset-status/DISCONT> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03B4\u03B9\u03B1\u03BA\u03BF\u03C0\u03AE"@el .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "baigtas"@lt .
+<http://publications.europa.eu/resource/authority/dataset-status/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "dokon\u010Den\u00FD"@sk .
+<http://publications.europa.eu/resource/authority/dataset-status/DEVELOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "im Aufbau"@de .
+<http://publications.europa.eu/resource/authority/dataset-status/WITHDRAWN> <http://www.w3.org/2004/02/skos/core#prefLabel> "ingetrokken"@nl .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "voltooid"@nl .
+<http://publications.europa.eu/resource/authority/dataset-status/COMPLETED> <http://www.w3.org/2004/02/skos/core#prefLabel> "dokon\u010Den"@cs .
+<http://publications.europa.eu/resource/authority/dataset-status> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dataset status"@en .
+

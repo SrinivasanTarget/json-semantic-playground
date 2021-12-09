@@ -1,0 +1,254 @@
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://publications.europa.eu/ontology/authority/authority-code> "CDROM" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://publications.europa.eu/ontology/authority/op-code> "PRINT_LOSL" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://publications.europa.eu/resource/authority/op-code> "POSTER" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://publications.europa.eu/ontology/authority/op-code> "PRINT_HRDCV" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b7 .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://publications.europa.eu/ontology/authority/op-code> "PRINT_STPL" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://publications.europa.eu/ontology/authority/authority-code> "PRINT_LOSL" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provisional data"@en .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://publications.europa.eu/ontology/authority/op-code> "POSTER_PROM" .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b4 .
+<http://publications.europa.eu/resource/authority/product-form> <http://publications.europa.eu/ontology/authority/table.version.number> "20160921-0" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://publications.europa.eu/ontology/authority/op-code> "PRINT_RGBD" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b6 .
+_:n33ae96f9ea9441fea2d0739a8f94c184b11 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://publications.europa.eu/resource/authority/op-code> "LEAFLET" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Date provizorii"@ro .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://publications.europa.eu/ontology/authority/op-code> "FOLDER" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b13 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sheet map"@en .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://www.w3.org/2004/02/skos/core#prefLabel> "DVD-ROM"@en .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b5 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b5 <http://publications.europa.eu/ontology/authority/legacy-code> "PJ" .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b14 .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Esialgsed andmed"@et .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Print (stapled)"@en .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://publications.europa.eu/ontology/authority/op-code> "VIDEO_VHS" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b11 <http://publications.europa.eu/ontology/authority/legacy-code> "BE" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b11 .
+<http://publications.europa.eu/resource/authority/product-form> <http://www.w3.org/2002/07/owl#versionInfo> "20160921-0" .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leaflet"@en .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://publications.europa.eu/ontology/authority/authority-code> "DVDROM" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://purl.org/dc/elements/1.1/identifier> "POSTER" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b3 .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://publications.europa.eu/resource/authority/op-code> "PRINT_HRDCV" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b2 <http://publications.europa.eu/ontology/authority/legacy-code> "DB" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Print"@en .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://publications.europa.eu/ontology/authority/op-code> "PRINT_SFTCV" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sonra\u00ED sealadacha"@ga .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b9 .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Folder"@en .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b6 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b16 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b2 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b10 <http://publications.europa.eu/ontology/authority/legacy-code> "BD" .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://purl.org/dc/elements/1.1/identifier> "DVDROM" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Midlertidige data"@da .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://publications.europa.eu/resource/authority/op-code> "PRINT_RGBD" .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://publications.europa.eu/ontology/authority/op-code> "USB_FD" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b8 .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://purl.org/dc/elements/1.1/identifier> "LEAFLET" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b15 <http://publications.europa.eu/ontology/authority/legacy-code> "DM" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b8 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Privremeni podaci"@hr .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://publications.europa.eu/ontology/authority/authority-code> "USB_FD" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://publications.europa.eu/ontology/authority/op-code> "POSTCARD" .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://publications.europa.eu/ontology/authority/authority-code> "PRINT_HRDCV" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provizoriski dati"@lv .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b14 <http://publications.europa.eu/ontology/authority/legacy-code> "CA" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://purl.org/dc/elements/1.1/identifier> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://publications.europa.eu/ontology/authority/authority-code> "PRINT_RGBD" .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dejta provvi\u017Corja"@mt .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://publications.europa.eu/resource/authority/op-code> "VIDEO_VHS" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b4 <http://publications.europa.eu/ontology/authority/legacy-code> "PM" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://purl.org/dc/elements/1.1/identifier> "CDROM" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Print (ringbinder)"@en .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://publications.europa.eu/resource/authority/op-code> "DVDROM" .
+<http://publications.europa.eu/resource/authority/product-form> <http://publications.europa.eu/ontology/authority/table.id> "product-form" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b10 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://purl.org/dc/elements/1.1/identifier> "PRINT_LOSL" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b15 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://publications.europa.eu/resource/authority/op-code> "PRINT_SFTCV" .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://publications.europa.eu/resource/authority/op-code> "SHEET_MAP" .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://publications.europa.eu/ontology/authority/authority-code> "BOOKMARK" .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b9 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://publications.europa.eu/ontology/authority/authority-code> "FOLDER" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Print (softcover)"@en .
+_:n33ae96f9ea9441fea2d0739a8f94c184b9 <http://publications.europa.eu/ontology/authority/legacy-code> "BB" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://publications.europa.eu/resource/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillf\u00E4lliga uppgifter"@sv .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://publications.europa.eu/ontology/authority/authority-code> "VIDEO_VHS" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://publications.europa.eu/ontology/authority/authority-code> "PRINT_SFTCV" .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://publications.europa.eu/resource/authority/op-code> "USB_FD" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vorl\u00E4ufige Daten"@de .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://purl.org/dc/elements/1.1/identifier> "BOOKMARK" .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://purl.org/dc/elements/1.1/identifier> "FOLDER" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b3 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://publications.europa.eu/resource/authority/op-code> "POSTCARD" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://publications.europa.eu/resource/authority/op-code> "PRINT_STPL" .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b12 .
+_:n33ae96f9ea9441fea2d0739a8f94c184b13 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://publications.europa.eu/ontology/authority/authority-code> "SHEET_MAP" .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b2 .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dados provis\u00F3rios"@pt .
+_:n33ae96f9ea9441fea2d0739a8f94c184b11 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b16 <http://publications.europa.eu/ontology/authority/legacy-code> "VJ" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b12 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b8 <http://publications.europa.eu/ontology/authority/legacy-code> "BA" .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://publications.europa.eu/resource/authority/op-code> "BOOKMARK" .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://purl.org/dc/elements/1.1/identifier> "SHEET_MAP" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://publications.europa.eu/ontology/authority/authority-code> "POSTER_PROM" .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/FOLDER> <http://publications.europa.eu/resource/authority/op-code> "FOLDER" .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b4 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://publications.europa.eu/ontology/authority/authority-code> "POSTCARD" .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ideiglenes adatok"@hu .
+<http://publications.europa.eu/resource/authority/product-form> <http://www.w3.org/2004/02/skos/core#prefLabel> "Product form"@en .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://purl.org/dc/elements/1.1/identifier> "PRINT_STPL" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poster, promotional"@en .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://purl.org/dc/elements/1.1/identifier> "POSTER_PROM" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b13 <http://publications.europa.eu/ontology/authority/legacy-code> "BF" .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://www.w3.org/2004/02/skos/core#prefLabel> "CD-ROM"@en .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dati provvisori"@it .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://purl.org/dc/elements/1.1/identifier> "USB_FD" .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://www.w3.org/2004/02/skos/core#prefLabel> "VHS Video"@en .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Za\u010Dasni podatki"@sl .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://purl.org/dc/elements/1.1/identifier> "PRINT_HRDCV" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Donn\u00E9es provisoires"@fr .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://purl.org/dc/elements/1.1/identifier> "PRINT_RGBD" .
+<http://publications.europa.eu/resource/authority/product-form> <http://publications.europa.eu/ontology/authority/prefLabel> "Product form"@en .
+_:n33ae96f9ea9441fea2d0739a8f94c184b14 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://publications.europa.eu/ontology/authority/op-code> "OP_DATPRO" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://publications.europa.eu/ontology/authority/op-code> "PRINT" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b16 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b1 .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://publications.europa.eu/ontology/authority/authority-code> "PRINT" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://publications.europa.eu/resource/authority/op-code> "POSTER_PROM" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b12 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "P\u0159edb\u011B\u017En\u00E9 \u00FAdaje"@cs .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poster"@en .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b15 .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://publications.europa.eu/ontology/authority/op-code> "CDROM" .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form> <http://www.w3.org/2000/01/rdf-schema#label> "Product form"@en .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://purl.org/dc/elements/1.1/identifier> "PRINT" .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://purl.org/dc/elements/1.1/identifier> "VIDEO_VHS" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datos provisionales"@es .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dane tymczasowe"@pl .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://www.w3.org/2004/02/skos/core#prefLabel> "USB flash drive"@en .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_SFTCV> <http://purl.org/dc/elements/1.1/identifier> "PRINT_SFTCV" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b12 <http://publications.europa.eu/ontology/authority/legacy-code> "BC" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://publications.europa.eu/ontology/authority/op-code> "POSTER" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_RGBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://publications.europa.eu/ontology/authority/authority-code> "PRINT_STPL" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorlopige gegevens"@nl .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://publications.europa.eu/ontology/authority/authority-code> "POSTER" .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bookmark"@en .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0415\u041E\u041A\u041E\u041D\u0427\u0410\u0422\u0415\u041B\u041D\u0418 \u0414\u0410\u041D\u041D\u0418"@bg .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Postcard"@en .
+_:n33ae96f9ea9441fea2d0739a8f94c184b7 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alustavat tiedot"@fi .
+_:n33ae96f9ea9441fea2d0739a8f94c184b1 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/USB_FD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Predbe\u017En\u00E9 \u00FAdaje"@sk .
+<http://publications.europa.eu/resource/authority/product-form/BOOKMARK> <http://publications.europa.eu/ontology/authority/op-code> "BOOKMARK" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER> <http://publications.europa.eu/ontology/authority/deprecated> "false" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT> <http://publications.europa.eu/resource/authority/op-code> "PRINT" .
+<http://publications.europa.eu/resource/authority/product-form/DVDROM> <http://publications.europa.eu/ontology/authority/op-code> "DVDROM" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laikinieji duomenys"@lt .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Print (looseleaf)"@en .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b7 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b5 .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://publications.europa.eu/ontology/authority/op-code> "LEAFLET" .
+<http://publications.europa.eu/resource/authority/product-form/CDROM> <http://publications.europa.eu/resource/authority/op-code> "CDROM" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://publications.europa.eu/ontology/authority/MappedCode> .
+_:n33ae96f9ea9441fea2d0739a8f94c184b6 <http://publications.europa.eu/ontology/authority/legacy-code> "PK" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b10 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_STPL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b13 .
+<http://publications.europa.eu/resource/authority/product-form/VIDEO_VHS> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b16 .
+_:n33ae96f9ea9441fea2d0739a8f94c184b7 <http://publications.europa.eu/ontology/authority/legacy-code> "XF" .
+<http://publications.europa.eu/resource/authority/product-form/LEAFLET> <http://publications.europa.eu/ontology/authority/authority-code> "LEAFLET" .
+<http://publications.europa.eu/resource/authority/product-form/OP_DATPRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03A0\u03C1\u03BF\u03C3\u03C9\u03C1\u03B9\u03BD\u03AC \u03B4\u03B5\u03B4\u03BF\u03BC\u03AD\u03BD\u03B1"@el .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://publications.europa.eu/resource/authority/op-code> "PRINT_LOSL" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b3 <http://publications.europa.eu/ontology/authority/legacy-code> "DI" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b1 <http://publications.europa.eu/ontology/authority/legacy-code> "PT" .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://publications.europa.eu/ontology/authority/op-code> "SHEET_MAP" .
+_:n33ae96f9ea9441fea2d0739a8f94c184b14 <http://purl.org/dc/elements/1.1/source> "ONIX" .
+<http://publications.europa.eu/resource/authority/product-form/POSTCARD> <http://purl.org/dc/elements/1.1/identifier> "POSTCARD" .
+<http://publications.europa.eu/resource/authority/product-form/POSTER_PROM> <http://publications.europa.eu/ontology/authority/start.use> "1951-01-01" .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_HRDCV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Print (hardcover)"@en .
+<http://publications.europa.eu/resource/authority/product-form/SHEET_MAP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://publications.europa.eu/resource/authority/product-form> .
+<http://publications.europa.eu/resource/authority/product-form/PRINT_LOSL> <http://publications.europa.eu/ontology/authority/op-mapped-code> _:n33ae96f9ea9441fea2d0739a8f94c184b10 .
+

@@ -1,0 +1,20 @@
+# Serializing assets/vocabularies/organisation-subrole/latest/organisation-subrole.ttl
+# @context: {"@vocab": "http://publications.europa.eu/ontology/authority/", "dct": "http://purl.org/dc/elements/1.1/", "skos": "http://www.w3.org/2004/02/skos/core#", "owl": "http://www.w3.org/2002/07/owl#", "key": {"@id": "op-code"}, "valid_from": "start.use", "valid_until": "end.use", "url": "@id", "op_code": {"@id": "op-code"}, "country_code": {"@id": "dct:identifier"}, "version_info": "owl:versionInfo", "deprecated": {}, "label_en": {"@id": "skos:prefLabel", "@language": "en"}, "label_it": {"@id": "skos:prefLabel", "@language": "it"}}
+# url: http://publications.europa.eu/resource/authority/organisation-subrole
+# title: Organisation subrole
+# version: 20201216-0
+# description: Organisation subrole
+key,url,country_code,label_en,label_it,deprecated,valid_from,valid_until
+OP_DATPRO,http://publications.europa.eu/resource/authority/organisation-subrole/OP_DATPRO,OP_DATPRO,Provisional data,Dati provvisori,,,
+bud-pay,http://publications.europa.eu/resource/authority/organisation-subrole/bud-pay,bud-pay,Organisation whose budget is used to pay for the contract,Organizzazione dal cui bilancio è finanziato l'appalto,false,2019-09-18,
+exec-pay,http://publications.europa.eu/resource/authority/organisation-subrole/exec-pay,exec-pay,Organisation executing the payment,Organizzazione che esegue il pagamento,false,2019-09-18,
+group-lead,http://publications.europa.eu/resource/authority/organisation-subrole/group-lead,group-lead,Group leader,Capofila,false,2019-09-18,
+info-prov,http://publications.europa.eu/resource/authority/organisation-subrole/info-prov,info-prov,Organisation providing additional information about the procurement procedure,Organizzazione alla quale rivolgersi per informazioni complementari sulla procedura di appalto,false,2019-09-18,
+lim-prov,http://publications.europa.eu/resource/authority/organisation-subrole/lim-prov,lim-prov,Organisation providing more information on the time limits for review procedures,Organizzazione alla quale rivolgersi per informazioni complementari sui termini per le procedure di ricorso,true,2019-09-18,2020-12-15
+offl-acc,http://publications.europa.eu/resource/authority/organisation-subrole/offl-acc,offl-acc,Organisation providing offline access to the procurement documents,Organizzazione alla quale rivolgersi per l'accesso offline ai documenti di gara,false,2019-09-18,
+processor,http://publications.europa.eu/resource/authority/organisation-subrole/processor,processor,Organisation processing tenders,Organizzazione che tratta le offerte,false,2019-09-18,
+recepient,http://publications.europa.eu/resource/authority/organisation-subrole/recepient,recepient,Organisation receiving tenders,Organizzazione che riceve le offerte,false,2019-09-18,
+req-proc,http://publications.europa.eu/resource/authority/organisation-subrole/req-proc,req-proc,Organisation processing requests to participate,Organizzazione che tratta le domande di partecipazione,false,2019-09-18,
+req-recep,http://publications.europa.eu/resource/authority/organisation-subrole/req-recep,req-recep,Organisation receiving requests to participate,Organizzazione che riceve le domande di partecipazione,false,2019-09-18,
+rev-info,http://publications.europa.eu/resource/authority/organisation-subrole/rev-info,rev-info,Organisation providing more information on the review procedures,Organizzazione alla quale rivolgersi per informazioni complementari sulle procedure di ricorso,false,2020-12-16,
+signatory,http://publications.europa.eu/resource/authority/organisation-subrole/signatory,signatory,Organisation signing the contract,Organizzazione che firma il contratto di appalto,false,2019-09-18,

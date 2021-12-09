@@ -1,0 +1,721 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "WEB_SERVICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "WEB_SERVICE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-02"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "WEB_SERVICE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "WEB_SERVICE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/distribution-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Уеб услуга/API"
+      },
+      {
+        "@language": "cs",
+        "@value": "Internetová služba / API"
+      },
+      {
+        "@language": "da",
+        "@value": "Webtjeneste/API"
+      },
+      {
+        "@language": "de",
+        "@value": "Web-Dienst/API"
+      },
+      {
+        "@language": "el",
+        "@value": "Διαδικτυακή υπηρεσία/API"
+      },
+      {
+        "@language": "en",
+        "@value": "Web service/API"
+      },
+      {
+        "@language": "es",
+        "@value": "Servicio web/API"
+      },
+      {
+        "@language": "et",
+        "@value": "Veebiteenus/API"
+      },
+      {
+        "@language": "fi",
+        "@value": "Verkkopalvelu/API"
+      },
+      {
+        "@language": "fr",
+        "@value": "Service web/API"
+      },
+      {
+        "@language": "ga",
+        "@value": "Seirbhís gréasáin/API"
+      },
+      {
+        "@language": "hr",
+        "@value": "Internetska usluga / API"
+      },
+      {
+        "@language": "hu",
+        "@value": "Webszolgáltatás/API"
+      },
+      {
+        "@language": "it",
+        "@value": "Servizio web/API"
+      },
+      {
+        "@language": "lt",
+        "@value": "Saityno paslauga / API sąsaja"
+      },
+      {
+        "@language": "lv",
+        "@value": "Tīmekļa pakalpojums/API"
+      },
+      {
+        "@language": "mt",
+        "@value": "Servizz web/API"
+      },
+      {
+        "@language": "nl",
+        "@value": "Webservice/API"
+      },
+      {
+        "@language": "pl",
+        "@value": "Usługa sieciowa / API"
+      },
+      {
+        "@language": "pt",
+        "@value": "Serviço Web/API"
+      },
+      {
+        "@language": "ro",
+        "@value": "Serviciu web/API"
+      },
+      {
+        "@language": "sk",
+        "@value": "Webová služba/API"
+      },
+      {
+        "@language": "sl",
+        "@value": "Spletna storitev/API"
+      },
+      {
+        "@language": "sv",
+        "@value": "Webbtjänst/API"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/distribution-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Distribution type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "distribution-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Distribution type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Distribution type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "FEED_INFO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "FEED_INFO"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "FEED_INFO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "FEED_INFO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/distribution-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Информационен канал"
+      },
+      {
+        "@language": "cs",
+        "@value": "Informační kanál"
+      },
+      {
+        "@language": "da",
+        "@value": "Informationsfeed"
+      },
+      {
+        "@language": "de",
+        "@value": "Informations-Feed"
+      },
+      {
+        "@language": "el",
+        "@value": "Ροή πληροφοριών"
+      },
+      {
+        "@language": "en",
+        "@value": "Information feed"
+      },
+      {
+        "@language": "es",
+        "@value": "Flujo de información"
+      },
+      {
+        "@language": "et",
+        "@value": "Infovoog"
+      },
+      {
+        "@language": "fi",
+        "@value": "Tietosyöte"
+      },
+      {
+        "@language": "fr",
+        "@value": "Fil d'information"
+      },
+      {
+        "@language": "hr",
+        "@value": "Izvor informacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Információs csatorna"
+      },
+      {
+        "@language": "it",
+        "@value": "Feed di informazioni"
+      },
+      {
+        "@language": "lt",
+        "@value": "Informacijos sklaidos kanalas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Informācijas plūsma"
+      },
+      {
+        "@language": "mt",
+        "@value": "Sors ta' informazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Informatiefeed"
+      },
+      {
+        "@language": "no",
+        "@value": "Informasjonsfeed"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kanał informacyjny"
+      },
+      {
+        "@language": "pt",
+        "@value": "Fluxo de informação"
+      },
+      {
+        "@language": "ro",
+        "@value": "Flux de informații"
+      },
+      {
+        "@language": "sk",
+        "@value": "Informačný kanál"
+      },
+      {
+        "@language": "sl",
+        "@value": "Informacijski kanal"
+      },
+      {
+        "@language": "sv",
+        "@value": "Informationsflöde"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "DOWNLOADABLE_FILE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "DOWNLOADABLE_FILE"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "DOWNLOADABLE_FILE"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "DOWNLOADABLE_FILE"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/distribution-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Файл за сваляне"
+      },
+      {
+        "@language": "cs",
+        "@value": "Soubor, který lze stáhnout"
+      },
+      {
+        "@language": "da",
+        "@value": "Fil, som kan downloades"
+      },
+      {
+        "@language": "de",
+        "@value": "Herunterladbare Datei"
+      },
+      {
+        "@language": "el",
+        "@value": "Μεταφορτώσιμο αρχείο"
+      },
+      {
+        "@language": "en",
+        "@value": "Downloadable file"
+      },
+      {
+        "@language": "es",
+        "@value": "Archivo descargable"
+      },
+      {
+        "@language": "et",
+        "@value": "Allalaetav fail"
+      },
+      {
+        "@language": "fi",
+        "@value": "Ladattavissa oleva tiedosto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Fichier téléchargeable"
+      },
+      {
+        "@language": "hr",
+        "@value": "Datoteka za preuzimanje"
+      },
+      {
+        "@language": "hu",
+        "@value": "Letölthető fájl"
+      },
+      {
+        "@language": "it",
+        "@value": "File scaricabile"
+      },
+      {
+        "@language": "lt",
+        "@value": "Rinkmena, kurią galima parsisiųsti"
+      },
+      {
+        "@language": "lv",
+        "@value": "Lejupielādējama datne"
+      },
+      {
+        "@language": "mt",
+        "@value": "Fajl li jista' jiġi ddawnlowdjat"
+      },
+      {
+        "@language": "nl",
+        "@value": "Downloadbaar bestand"
+      },
+      {
+        "@language": "no",
+        "@value": "Nedlastbar fil"
+      },
+      {
+        "@language": "pl",
+        "@value": "Plik do pobrania"
+      },
+      {
+        "@language": "pt",
+        "@value": "Ficheiro descarregável"
+      },
+      {
+        "@language": "ro",
+        "@value": "Fișier descărcabil"
+      },
+      {
+        "@language": "sk",
+        "@value": "Prevzateľný súbor"
+      },
+      {
+        "@language": "sl",
+        "@value": "Prenosljiva datoteka"
+      },
+      {
+        "@language": "sv",
+        "@value": "Nedladdningsbar fil"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2013-01-01"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "VISUALIZATION"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/distribution-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Визуализация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Vizualizace"
+      },
+      {
+        "@language": "da",
+        "@value": "Visualisering"
+      },
+      {
+        "@language": "de",
+        "@value": "Visualisierung"
+      },
+      {
+        "@language": "el",
+        "@value": "Οπτική εμφάνιση"
+      },
+      {
+        "@language": "en",
+        "@value": "Visualization"
+      },
+      {
+        "@language": "es",
+        "@value": "Visualización"
+      },
+      {
+        "@language": "et",
+        "@value": "Visuaalne kuju"
+      },
+      {
+        "@language": "fi",
+        "@value": "Visualisointi"
+      },
+      {
+        "@language": "fr",
+        "@value": "Visualisation"
+      },
+      {
+        "@language": "hr",
+        "@value": "Vizualizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Megjelenítés"
+      },
+      {
+        "@language": "it",
+        "@value": "Visualizzazione"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vizualizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vizualizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Viżwalizzazzjoni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Visualisatie"
+      },
+      {
+        "@language": "no",
+        "@value": "Visualisering"
+      },
+      {
+        "@language": "pl",
+        "@value": "Wizualizacja"
+      },
+      {
+        "@language": "pt",
+        "@value": "Visualização"
+      },
+      {
+        "@language": "ro",
+        "@value": "Vizualizare"
+      },
+      {
+        "@language": "sk",
+        "@value": "Vizualizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Vizualizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Visualisering"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/distribution-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/distribution-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  }
+]

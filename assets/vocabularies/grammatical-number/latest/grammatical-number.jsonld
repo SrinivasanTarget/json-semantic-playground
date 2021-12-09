@@ -1,0 +1,644 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-number",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grammatical number"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "grammatical-number"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Grammatical number"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20210317-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Grammatical number"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-number/G",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2021-02-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "G"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Generic"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-number/S",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "S"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "S"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "S"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "S"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/singular"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Единствено число"
+      },
+      {
+        "@language": "cs",
+        "@value": "Jednotné číslo"
+      },
+      {
+        "@language": "da",
+        "@value": "Singularis"
+      },
+      {
+        "@language": "de",
+        "@value": "Singular"
+      },
+      {
+        "@language": "el",
+        "@value": "Ενικός"
+      },
+      {
+        "@language": "en",
+        "@value": "Singular"
+      },
+      {
+        "@language": "es",
+        "@value": "Singular"
+      },
+      {
+        "@language": "et",
+        "@value": "Ainsus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yksikkö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Singulier"
+      },
+      {
+        "@language": "ga",
+        "@value": "Uatha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Jednina"
+      },
+      {
+        "@language": "hu",
+        "@value": "Egyes szám"
+      },
+      {
+        "@language": "it",
+        "@value": "Singolare"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vienaskaita"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vienskaitlis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Singular"
+      },
+      {
+        "@language": "nl",
+        "@value": "Enkelvoud"
+      },
+      {
+        "@language": "pl",
+        "@value": "Liczba pojedyncza"
+      },
+      {
+        "@language": "pt",
+        "@value": "Singular"
+      },
+      {
+        "@language": "ro",
+        "@value": "Singular"
+      },
+      {
+        "@language": "sk",
+        "@value": "Jednotné číslo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Ednina"
+      },
+      {
+        "@language": "sv",
+        "@value": "Singular"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-number/D",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "D"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/dual"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Двойно число"
+      },
+      {
+        "@language": "cs",
+        "@value": "Dvojné číslo"
+      },
+      {
+        "@language": "da",
+        "@value": "Dualis"
+      },
+      {
+        "@language": "de",
+        "@value": "Dual"
+      },
+      {
+        "@language": "el",
+        "@value": "Δυϊκός"
+      },
+      {
+        "@language": "en",
+        "@value": "Dual"
+      },
+      {
+        "@language": "es",
+        "@value": "Dual"
+      },
+      {
+        "@language": "et",
+        "@value": "Kaksus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Duaali"
+      },
+      {
+        "@language": "fr",
+        "@value": "Duel"
+      },
+      {
+        "@language": "ga",
+        "@value": "Déach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Dvojina"
+      },
+      {
+        "@language": "hu",
+        "@value": "Kettős szám"
+      },
+      {
+        "@language": "it",
+        "@value": "Duale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Dviskaita"
+      },
+      {
+        "@language": "lv",
+        "@value": "Dual"
+      },
+      {
+        "@language": "mt",
+        "@value": "Imtenni"
+      },
+      {
+        "@language": "nl",
+        "@value": "Tweevoud"
+      },
+      {
+        "@language": "pl",
+        "@value": "Liczba podwójna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dual"
+      },
+      {
+        "@language": "ro",
+        "@value": "Dual"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dvojné číslo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Dvojina"
+      },
+      {
+        "@language": "sv",
+        "@value": "Dualis"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-number/P",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "P"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "P"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "1952-07-23"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "P"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "P"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#exactMatch": [
+      {
+        "@id": "http://www.lexvo.org/page/term/eng/plural"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Множествено число"
+      },
+      {
+        "@language": "cs",
+        "@value": "Množné číslo"
+      },
+      {
+        "@language": "da",
+        "@value": "Pluralis"
+      },
+      {
+        "@language": "de",
+        "@value": "Plural"
+      },
+      {
+        "@language": "el",
+        "@value": "Πληθυντικός"
+      },
+      {
+        "@language": "en",
+        "@value": "Plural"
+      },
+      {
+        "@language": "es",
+        "@value": "Plural"
+      },
+      {
+        "@language": "et",
+        "@value": "Mitmus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Monikko"
+      },
+      {
+        "@language": "fr",
+        "@value": "Pluriel"
+      },
+      {
+        "@language": "ga",
+        "@value": "Iolra"
+      },
+      {
+        "@language": "hr",
+        "@value": "Množina"
+      },
+      {
+        "@language": "hu",
+        "@value": "Többes szám"
+      },
+      {
+        "@language": "it",
+        "@value": "Plurale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Daugiskaita"
+      },
+      {
+        "@language": "lv",
+        "@value": "Daudzskaitlis"
+      },
+      {
+        "@language": "mt",
+        "@value": "Plural"
+      },
+      {
+        "@language": "nl",
+        "@value": "Meervoud"
+      },
+      {
+        "@language": "pl",
+        "@value": "Liczba mnoga"
+      },
+      {
+        "@language": "pt",
+        "@value": "Plural"
+      },
+      {
+        "@language": "ro",
+        "@value": "Plural"
+      },
+      {
+        "@language": "sk",
+        "@value": "Množné číslo"
+      },
+      {
+        "@language": "sl",
+        "@value": "Množina"
+      },
+      {
+        "@language": "sv",
+        "@value": "Plural"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/grammatical-number/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/grammatical-number"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  }
+]

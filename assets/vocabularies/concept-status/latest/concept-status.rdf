@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:at="http://publications.europa.eu/ontology/authority/"
+   xmlns:atold="http://publications.europa.eu/resource/authority/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/RETIRED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>RETIRED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>RETIRED</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>RETIRED</atold:op-code>
+    <dc:identifier>RETIRED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="bg">отменено</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">již nepoužívané</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">forældet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">nicht mehr in Gebrauch</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">έχει καταργηθεί</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">retired</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">retirado</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">kehtetu</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">poistettu käytöstä</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">supprimé</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">as feidhm</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">umirovljeni</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">visszavonva</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">ritirato</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">panaikintas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">atcelts</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">irtirat</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">niet meer in gebruik</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">wycofany</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">reformado</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">retras</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">nepoužíva sa</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">umaknjeno</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">borttagen</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/CURRENT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CURRENT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CURRENT</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>CURRENT</atold:op-code>
+    <dc:identifier>CURRENT</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="bg">актуално</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">stávájící</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">gældende</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">aktuell</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">ισχύει</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">current</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">actual</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">praegune</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">nykyinen</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">en vigueur</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">i bhfeidhm</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">trenutačni</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">aktuális</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">attuale</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">dabartinis</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">pašreizējs</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">attwali</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">actueel</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">obecny</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">comum</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">actual</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">súčasný</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">sedanje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">gällande</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/DEPRECATED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DEPRECATED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DEPRECATED</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>DEPRECATED</atold:op-code>
+    <dc:identifier>DEPRECATED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="bg">неактуално</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">zastaralé</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">frarådet</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">veraltet</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">δεν ισχύει πλέον</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">deprecated</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">desaconsejado</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">vananenud</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">hylätty</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">obsolète</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">dímholta</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">smijenjeni</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">elavult</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">sconsigliato</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">nerekomenduojamas</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">novecojis</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">deprekat</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">verouderd</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">nieaktualny</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">utilização desaconselhada</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">nerecomandat</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">zastaraný</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">zastarano</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">föråldrad</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/OP_DATPRO">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:op-code>OP_DATPRO</at:op-code>
+    <atold:op-code>OP_DATPRO</atold:op-code>
+    <dc:identifier>OP_DATPRO</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="bg">НЕОКОНЧАТЕЛНИ ДАННИ</skos:prefLabel>
+    <skos:prefLabel xml:lang="cs">Předběžné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="da">Midlertidige data</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Vorläufige Daten</skos:prefLabel>
+    <skos:prefLabel xml:lang="el">Προσωρινά δεδομένα</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Provisional data</skos:prefLabel>
+    <skos:prefLabel xml:lang="es">Datos provisionales</skos:prefLabel>
+    <skos:prefLabel xml:lang="et">Esialgsed andmed</skos:prefLabel>
+    <skos:prefLabel xml:lang="fi">Alustavat tiedot</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">Données provisoires</skos:prefLabel>
+    <skos:prefLabel xml:lang="ga">Sonraí sealadacha</skos:prefLabel>
+    <skos:prefLabel xml:lang="hr">Privremeni podaci</skos:prefLabel>
+    <skos:prefLabel xml:lang="hu">Ideiglenes adatok</skos:prefLabel>
+    <skos:prefLabel xml:lang="it">Dati provvisori</skos:prefLabel>
+    <skos:prefLabel xml:lang="lt">Laikinieji duomenys</skos:prefLabel>
+    <skos:prefLabel xml:lang="lv">Provizoriski dati</skos:prefLabel>
+    <skos:prefLabel xml:lang="mt">Dejta provviżorja</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">Voorlopige gegevens</skos:prefLabel>
+    <skos:prefLabel xml:lang="pl">Dane tymczasowe</skos:prefLabel>
+    <skos:prefLabel xml:lang="pt">Dados provisórios</skos:prefLabel>
+    <skos:prefLabel xml:lang="ro">Date provizorii</skos:prefLabel>
+    <skos:prefLabel xml:lang="sk">Predbežné údaje</skos:prefLabel>
+    <skos:prefLabel xml:lang="sl">Začasni podatki</skos:prefLabel>
+    <skos:prefLabel xml:lang="sv">Tillfälliga uppgifter</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/DRAFT">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DRAFT</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DRAFT</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>DRAFT</atold:op-code>
+    <dc:identifier>DRAFT</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">draft</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/WAITING_DEPRECATED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>WAITING_DEPRECATED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>WAITING_DEPRECATED</at:op-code>
+    <at:start.use>2015-07-03</at:start.use>
+    <atold:op-code>WAITING_DEPRECATED</atold:op-code>
+    <dc:identifier>WAITING_DEPRECATED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">waiting.deprecated</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/CANDIDATE_DEPRECATED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CANDIDATE_DEPRECATED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CANDIDATE_DEPRECATED</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>CANDIDATE_DEPRECATED</atold:op-code>
+    <dc:identifier>CANDIDATE_DEPRECATED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">candidate.deprecated</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/REVISED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>REVISED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>REVISED</at:op-code>
+    <at:start.use>2018-02-20</at:start.use>
+    <atold:op-code>REVISED</atold:op-code>
+    <dc:identifier>REVISED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">revised</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/REVISED_DEPRECATED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>REVISED_DEPRECATED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>REVISED_DEPRECATED</at:op-code>
+    <at:start.use>2018-02-20</at:start.use>
+    <atold:op-code>REVISED_DEPRECATED</atold:op-code>
+    <dc:identifier>REVISED_DEPRECATED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">revised.deprecated</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/DRAFT_DEPRECATED">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>DRAFT_DEPRECATED</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>DRAFT_DEPRECATED</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>DRAFT_DEPRECATED</atold:op-code>
+    <dc:identifier>DRAFT_DEPRECATED</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">draft.deprecated</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/WAITING">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>WAITING</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>WAITING</at:op-code>
+    <at:start.use>2015-07-01</at:start.use>
+    <atold:op-code>WAITING</atold:op-code>
+    <dc:identifier>WAITING</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">waiting</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status/CANDIDATE">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <at:authority-code>CANDIDATE</at:authority-code>
+    <at:deprecated>false</at:deprecated>
+    <at:op-code>CANDIDATE</at:op-code>
+    <at:start.use>2009-12-01</at:start.use>
+    <atold:op-code>CANDIDATE</atold:op-code>
+    <dc:identifier>CANDIDATE</dc:identifier>
+    <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/concept-status"/>
+    <skos:prefLabel xml:lang="en">candidate</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/concept-status">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <rdfs:label xml:lang="en">Concept status</rdfs:label>
+    <at:prefLabel xml:lang="en">Concept status</at:prefLabel>
+    <at:table.id>concept-status</at:table.id>
+    <at:table.version.number>20181212-0</at:table.version.number>
+    <owl:versionInfo>20181212-0</owl:versionInfo>
+    <skos:prefLabel xml:lang="en">Concept status</skos:prefLabel>
+  </rdf:Description>
+</rdf:RDF>

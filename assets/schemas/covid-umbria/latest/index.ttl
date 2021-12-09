@@ -1,0 +1,30 @@
+@prefix admsapt: <https://www.w3.org/italia/onto/ADMS/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcatapit: <https://dati.gov.it/onto/dcatapit#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix licences: <https://w3id.org/italia/controlled-vocabulary/licences/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://w3id.org/italia/schema/covid-umbria/latest/schema.oas3.yaml> a dcatapit:Dataset ;
+    dct:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/IRREG> ;
+    dct:conformsTo <https://w3id.org/italia/onto/CLV>,
+        <https://w3id.org/italia/onto/Indicator> ;
+    dct:description """Lo schema descrive i dati relativi relativi all'emergenza COVID-19 in Umbria.
+ Per maggiori informazioni visitare la pagina
+ https://github.com/Regione-Umbria/coronavirus.
+ **versione beta.**""" ;
+    dct:modified "2021-12-09" ;
+    dct:rightsHolder "https://apistore.regione.umbria.it/home" ;
+    dct:title "COVID-19 Schema" ;
+    owl:versionInfo "1.0.0" ;
+    dcat:distribution <https://raw.githubusercontent.com/ioggstream/json-semantic-playground/master/assets/schemas/covid-umbria/latest/schema.oas3.yaml> ;
+    admsapt:hasKeyClass <https://w3id.org/italia/onto/CLV/Address>,
+        <https://w3id.org/italia/onto/CLV/Geometry>,
+        <https://w3id.org/italia/onto/Indicator/IndicatorCalculation> .
+
+<https://raw.githubusercontent.com/ioggstream/json-semantic-playground/master/assets/schemas/covid-umbria/latest/schema.oas3.yaml> a dcatapit:Distribution ;
+    dct:format <http://publications.europa.eu/resource/authority/file-type/JSON> ;
+    dct:license licences:A21_CCBY40 ;
+    dcat:accessURL <https://github.com/ioggstream/json-semantic-playground/tree/master/assets/schemas/covid-umbria/latest> ;
+    dcat:mediaType "application/json" .
+

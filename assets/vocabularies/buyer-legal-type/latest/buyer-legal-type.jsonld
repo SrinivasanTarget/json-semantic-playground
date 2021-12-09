@@ -1,0 +1,3094 @@
+[
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "body-pl"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "body-pl"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "body-pl"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "body-pl"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публичноправна организация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejnoprávní subjekt"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentligretligt organ"
+      },
+      {
+        "@language": "de",
+        "@value": "Einrichtung des öffentlichen Rechts"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός δημοσίου δικαίου"
+      },
+      {
+        "@language": "en",
+        "@value": "Body governed by public law"
+      },
+      {
+        "@language": "es",
+        "@value": "Organismo de Derecho público"
+      },
+      {
+        "@language": "et",
+        "@value": "Avalik-õiguslik isik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkisoikeudellinen yhteisö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisme de droit public"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht dlí phoiblí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tijelo koje se uređuje javnim pravom"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közjogi intézmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Organismo di diritto pubblico"
+      },
+      {
+        "@language": "lt",
+        "@value": "Viešosios teisės reglamentuojama įstaiga"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisko tiesību subjekts"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp irregolat bil-liġi pubblika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Publiekrechtelijke instelling"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podmiot prawa publicznego"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organismo de direito público"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organism de drept public"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejnoprávna inštitúcia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oseba javnega prava"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligrättsligt organ"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/la",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "la"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "la"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Местен орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Místní orgán"
+      },
+      {
+        "@language": "da",
+        "@value": "Lokal myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Lokale Gebietskörperschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Τοπική αρχή"
+      },
+      {
+        "@language": "en",
+        "@value": "Local authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Autoridad local"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohalik omavalitsus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Paikallisviranomainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autorité locale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Údarás áitiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Lokalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Helyi hatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Autorità locale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Vietos valdžios institucija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Vietējās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Awtorità lokali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Lokale overheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja lokalna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Autoridade local"
+      },
+      {
+        "@language": "ro",
+        "@value": "Autoritate locală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Miestny orgán"
+      },
+      {
+        "@language": "sl",
+        "@value": "Lokalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Lokal myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/rl-aut",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "rl-aut"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2019-09-17"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "rl-aut"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "rl-aut"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "rl-aut"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Регионален или местен орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Regionální či místní orgán"
+      },
+      {
+        "@language": "da",
+        "@value": "Regional eller lokal myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Regional- oder Kommunalbehörde"
+      },
+      {
+        "@language": "el",
+        "@value": "Αρχή τοπικής αυτοδιοίκησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Regional or local authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Autoridad regional o local"
+      },
+      {
+        "@language": "et",
+        "@value": "Linna või valla ametiasutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alue- tai paikallistason viranomainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autorité régionale ou locale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Údarás réigiúnach nó áitiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Regionalno ili lokalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Regionális vagy helyi hatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Autorità regionale o locale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Regiono ar vietos valdžios institucija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Reģionāla vai vietēja iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Awtorità reġjonali jew lokali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Regionale of plaatselijke instantie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organ władzy regionalnej lub lokalnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Autoridades regionais ou locais"
+      },
+      {
+        "@language": "ro",
+        "@value": "Autoritate regională sau locală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Regionálny alebo miestny orgán"
+      },
+      {
+        "@language": "sl",
+        "@value": "Regionalni ali lokalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Regional eller lokal myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-cga",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "body-pl-cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "body-pl-cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "body-pl-cga"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "body-pl-cga"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публичноправна организация, контролирана от орган на централната власт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejnoprávní subjekt ovládaný ústředním orgánem státní správy"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentligretligt organ, der styres af en central regeringsmyndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Von einer zentralen Regierungsbehörde kontrollierte Einrichtung des öffentlichen Rechts"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο αρχής της κεντρικής κυβέρνησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Body governed by public law, controlled by a central government authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organismo de Derecho público bajo el control de una autoridad estatal"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskvalitsusasutuse kontrollitav avalik-õiguslik isik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkisoikeudellinen yhteisö, joka on keskushallinnon viranomaisen määräysvallassa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisme de droit public, contrôlé par une autorité publique centrale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht dlí phoiblí atá faoi rialú údaráis de chuid an rialtais láir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tijelo koje se uređuje javnim pravom, koje nadzire središnje tijelo državne uprave"
+      },
+      {
+        "@language": "hu",
+        "@value": "Központi kormányzati szerv által ellenőrzött közjogi intézmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Organismo di diritto pubblico controllato da un'autorità governativa centrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Viešosios teisės reglamentuojama įstaiga, kontroliuojama centrinės valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisko tiesību subjekts, ko kontrolē centrālās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità tal-gvern ċentrali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Publiekrechtelijke instelling onder zeggenschap van een centrale overheidsinstantie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podmiot prawa publicznego kontrolowany przez instytucję administracji centralnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organismo de direito público, controlado por uma autoridade da administração central"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organism de drept public, controlat de o autoritate guvernamentală centrală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejnoprávna inštitúcia pod kontrolou orgánu ústrednej štátnej správy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oseba javnega prava, ki jo obvladuje osrednji državni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligrättsligt organ som kontrolleras av en statlig myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/spec-rights-entity",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "spec-rights-entity"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "spec-rights-entity"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "spec-rights-entity"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "spec-rights-entity"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Образувание със специални или изключителни права"
+      },
+      {
+        "@language": "cs",
+        "@value": "Subjekt se zvláštními nebo výhradními právy"
+      },
+      {
+        "@language": "da",
+        "@value": "Enhed med særlige eller eksklusive rettigheder"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation mit besonderen oder ausschließlichen Rechten"
+      },
+      {
+        "@language": "el",
+        "@value": "Φορέας με ειδικά ή αποκλειστικά δικαιώματα"
+      },
+      {
+        "@language": "en",
+        "@value": "Entity with special or exclusive rights"
+      },
+      {
+        "@language": "es",
+        "@value": "Entidad con derechos especiales o exclusivos"
+      },
+      {
+        "@language": "et",
+        "@value": "Eri- või ainuõigustega üksus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Yksikkö, jolla on erityis- tai yksinoikeuksia"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entité disposant de droits spéciaux ou exclusifs"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eintiteas a bhfuil cearta speisialta nó eisiacha aige"
+      },
+      {
+        "@language": "hr",
+        "@value": "Subjekt s posebnim ili isključivim pravima"
+      },
+      {
+        "@language": "hu",
+        "@value": "Különleges vagy kizárólagos jogokkal rendelkező jogi személy"
+      },
+      {
+        "@language": "it",
+        "@value": "Ente dotato di diritti speciali o esclusivi"
+      },
+      {
+        "@language": "lt",
+        "@value": "Subjektai, turintys specialiųjų ar išskirtinių teisių"
+      },
+      {
+        "@language": "lv",
+        "@value": "Subjekts ar īpašām vai ekskluzīvām tiesībām"
+      },
+      {
+        "@language": "mt",
+        "@value": "Entità bi drittijiet speċjali jew esklużivi"
+      },
+      {
+        "@language": "nl",
+        "@value": "Entiteit met bijzondere of uitsluitende rechten"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podmiot, któremu przysługują prawa specjalne lub wyłączne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Entidade com direitos especiais ou exclusivos"
+      },
+      {
+        "@language": "ro",
+        "@value": "Entitate cu drepturi speciale sau exclusive"
+      },
+      {
+        "@language": "sk",
+        "@value": "Subjekt s osobitnými alebo výlučnými právami"
+      },
+      {
+        "@language": "sl",
+        "@value": "Subjekt s posebnimi ali izključnimi pravicami"
+      },
+      {
+        "@language": "sv",
+        "@value": "Enhet med särskilda eller exklusiva rättigheter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-la",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "body-pl-la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "body-pl-la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "body-pl-la"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "body-pl-la"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публичноправна организация, контролирана от местен орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejnoprávní subjekt ovládaný místním orgánem"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentligretligt organ, der styres af en lokal myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Von einer lokalen Gebietskörperschaft kontrollierte Einrichtung des öffentlichen Rechts"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο τοπικής αρχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Body governed by public law, controlled by a local authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organismo de Derecho público bajo el control de una autoridad local"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohaliku omavalitsuse kontrollitav avalik-õiguslik isik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkisoikeudellinen yhteisö, joka on paikallisviranomaisen määräysvallassa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisme de droit public, contrôlé par une autorité locale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht dlí phoiblí atá faoi rialú údaráis áitiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tijelo koje se uređuje javnim pravom, koje nadzire lokalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Helyi szerv által ellenőrzött közjogi intézmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Organismo di diritto pubblico controllato da un'autorità locale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Viešosios teisės reglamentuojama įstaiga, kontroliuojama vietos valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisko tiesību subjekts, ko kontrolē vietējās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità lokali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Publiekrechtelijke instelling onder zeggenschap van een lokale overheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podmiot prawa publicznego kontrolowany przez instytucję lokalną"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organismo de direito público, controlado por uma autoridade local"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organism de drept public, controlat de o autoritate locală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejnoprávna inštitúcia pod kontrolou miestneho orgánu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oseba javnega prava, ki jo obvladuje lokalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligrättsligt organ som kontrolleras av en lokal myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+    ],
+    "http://publications.europa.eu/ontology/authority/prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Buyer legal type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.id": [
+      {
+        "@value": "buyer-legal-type"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/table.version.number": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Buyer legal type"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#versionInfo": [
+      {
+        "@value": "20201216-0"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "en",
+        "@value": "Buyer legal type"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/ra",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "ra"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "ra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Регионален орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Regionální orgán"
+      },
+      {
+        "@language": "da",
+        "@value": "Regional myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Regionale Gebietskörperschaft"
+      },
+      {
+        "@language": "el",
+        "@value": "Περιφερειακή αρχή"
+      },
+      {
+        "@language": "en",
+        "@value": "Regional authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Autoridad regional"
+      },
+      {
+        "@language": "et",
+        "@value": "Piirkondlik omavalitsus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alueviranomainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autorité régionale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Údarás réigiúnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Regionalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Regionális hatóság"
+      },
+      {
+        "@language": "it",
+        "@value": "Autorità regionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Regioninės valdžios institucija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Reģionāla iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Awtorità reġjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Regionale overheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja regionalna"
+      },
+      {
+        "@language": "pt",
+        "@value": "Autoridade regional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Autoritate regională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Regionálny orgán"
+      },
+      {
+        "@language": "sl",
+        "@value": "Regionalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Regional myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-cga",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "org-sub-cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "org-sub-cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "org-sub-cga"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "org-sub-cga"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която възлага поръчка, субсидирана от орган на централната власт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace zadávající zakázku dotovanou ústředním orgánem státní správy"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der tildeler en kontrakt, som modtager subsidier fra central regeringsmyndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die einen durch eine zentrale Regierungsbehörde subventionierten Auftrag vergibt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από αρχή της κεντρικής κυβέρνησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation awarding a contract subsidised by a central government authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que concede un contrato subvencionado por una autoridad estatal"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskvalitsusasutuse subsideeritavat lepingut sõlmiv organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Keskushallinnon viranomaisen subventoiman sopimuksen tekevä organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui passe un marché subventionné par une autorité publique centrale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás stáit"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja dodjeljuje ugovor koji subvencionira središnje tijelo državne uprave"
+      },
+      {
+        "@language": "hu",
+        "@value": "Központi kormányzati szerv által támogatott szerződést odaítélő szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che aggiudica un appalto sovvenzionato da un'autorità governativa centrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, skirianti sutartį, subsidijuojamą centrinės valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas piešķir centrālās pārvaldes iestādes subsidētu līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità tal-gvern ċentrali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die een door een centrale overheidsinstantie gesubsidieerde opdracht gunt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca zamówienia dotowanego przez instytucję administracji centralnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que adjudica um contrato subvencionado por uma autoridade da administração central"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație care atribuie un contract subvenționat de o autoritate guvernamentală centrală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia, ktorá zadáva zákazku subvencovanú orgánom ústrednej štátnej správy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacijo, ki oddaja naročilo, subvencionira osrednji državni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tilldelar ett kontrakt som subventioneras av en statlig myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/OP_DATPRO",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "OP_DATPRO"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "НЕОКОНЧАТЕЛНИ ДАННИ"
+      },
+      {
+        "@language": "cs",
+        "@value": "Předběžné údaje"
+      },
+      {
+        "@language": "da",
+        "@value": "Midlertidige data"
+      },
+      {
+        "@language": "de",
+        "@value": "Vorläufige Daten"
+      },
+      {
+        "@language": "el",
+        "@value": "Προσωρινά δεδομένα"
+      },
+      {
+        "@language": "en",
+        "@value": "Provisional data"
+      },
+      {
+        "@language": "es",
+        "@value": "Datos provisionales"
+      },
+      {
+        "@language": "et",
+        "@value": "Esialgsed andmed"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alustavat tiedot"
+      },
+      {
+        "@language": "fr",
+        "@value": "Données provisoires"
+      },
+      {
+        "@language": "ga",
+        "@value": "Sonraí sealadacha"
+      },
+      {
+        "@language": "hr",
+        "@value": "Privremeni podaci"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ideiglenes adatok"
+      },
+      {
+        "@language": "it",
+        "@value": "Dati provvisori"
+      },
+      {
+        "@language": "lt",
+        "@value": "Laikinieji duomenys"
+      },
+      {
+        "@language": "lv",
+        "@value": "Provizoriski dati"
+      },
+      {
+        "@language": "mt",
+        "@value": "Dejta provviżorja"
+      },
+      {
+        "@language": "nl",
+        "@value": "Voorlopige gegevens"
+      },
+      {
+        "@language": "pl",
+        "@value": "Dane tymczasowe"
+      },
+      {
+        "@language": "pt",
+        "@value": "Dados provisórios"
+      },
+      {
+        "@language": "ro",
+        "@value": "Date provizorii"
+      },
+      {
+        "@language": "sk",
+        "@value": "Predbežné údaje"
+      },
+      {
+        "@language": "sl",
+        "@value": "Začasni podatki"
+      },
+      {
+        "@language": "sv",
+        "@value": "Tillfälliga uppgifter"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-cga",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pub-undert-cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pub-undert-cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pub-undert-cga"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pub-undert-cga"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публично предприятие, контролирано от орган на централната власт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejný podnik ovládaný ústředním orgánem státní správy"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentlig virksomhed, der styres af en central regeringsmyndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Von einer zentralen Regierungsbehörde kontrolliertes öffentliches Unternehmen"
+      },
+      {
+        "@language": "el",
+        "@value": "Δημόσια επιχείρηση που τελεί υπό τον έλεγχο αρχής της κεντρικής κυβέρνησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Public undertaking, controlled by a central government authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Empresa pública bajo el control de una autoridad estatal"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskvalitsusasutuse kontrollitav riigi osalusega äriühing"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkinen yritys, joka on keskushallinnon viranomaisen määräysvallassa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entreprise publique, contrôlée par une autorité publique centrale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gnóthas poiblí atá faoi rialú údaráis stáit"
+      },
+      {
+        "@language": "hr",
+        "@value": "Javno poduzeće koje nadzire središnje tijelo državne uprave"
+      },
+      {
+        "@language": "hu",
+        "@value": "Központi kormányzati szerv által ellenőrzött közvállalkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Impresa pubblica controllata da un'autorità governativa centrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valstybinė įmonė, kontroliuojama centrinės valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisks uzņēmums, ko kontrolē centrālās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Impriża pubblika, ikkontrollata minn awtorità tal-gvern ċentrali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overheidsonderneming onder zeggenschap van een centrale overheidsinstantie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przedsiębiorstwo publiczne kontrolowane przez instytucję administracji centralnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Empresa pública, controlada por uma autoridade da administração central"
+      },
+      {
+        "@language": "ro",
+        "@value": "Întreprindere de stat, controlată de o autoritate guvernamentală centrală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejný podnik pod kontrolou orgánu ústrednej štátnej správy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Javno podjetje, ki ga obvladuje osrednji državni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligt företag som kontrolleras av en statlig myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/int-org",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "int-org"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "int-org"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "int-org"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "int-org"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Международна организация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Mezinárodní organizace"
+      },
+      {
+        "@language": "da",
+        "@value": "International organisation"
+      },
+      {
+        "@language": "de",
+        "@value": "Internationale Organisation"
+      },
+      {
+        "@language": "el",
+        "@value": "Διεθνής οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "International organisation"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización internacional"
+      },
+      {
+        "@language": "et",
+        "@value": "Rahvusvaheline organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Kansainvälinen järjestö"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation internationale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht idirnáisiúnta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Međunarodna organizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Nemzetközi szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione internazionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Tarptautinė organizacija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Starptautiska organizācija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni internazzjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Internationale organisatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja międzynarodowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização internacional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație internațională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Medzinárodná organizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Mednarodna organizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "Internationell organisation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-ra",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pub-undert-ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pub-undert-ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pub-undert-ra"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pub-undert-ra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публично предприятие, контролирано от регионален орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejný podnik ovládaný regionálním orgánem"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentlig virksomhed, der styres af en regional myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Von einer regionalen Gebietskörperschaft kontrolliertes öffentliches Unternehmen"
+      },
+      {
+        "@language": "el",
+        "@value": "Δημόσια επιχείρηση που τελεί υπό τον έλεγχο περιφερειακής αρχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Public undertaking, controlled by a regional authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Empresa pública bajo el control de una autoridad regional"
+      },
+      {
+        "@language": "et",
+        "@value": "Piirkondliku omavalitsuse kontrollitav riigi osalusega äriühing"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkinen yritys, joka on alueviranomaisen määräysvallassa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entreprise publique, contrôlée par une autorité régionale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gnóthas poiblí atá faoi rialú údaráis réigiúnaigh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Javno poduzeće koje nadzire regionalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Regionális szerv által ellenőrzött közvállalkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Impresa pubblica controllata da un'autorità regionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valstybinė įmonė, kontroliuojama regioninės valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisks uzņēmums, ko kontrolē reģionālās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Impriża pubblika, ikkontrollata minn awtorità reġjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overheidsonderneming onder zeggenschap van een regionale overheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przedsiębiorstwo publiczne kontrolowane przez instytucję regionalną"
+      },
+      {
+        "@language": "pt",
+        "@value": "Empresa pública, controlada por uma autoridade regional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Întreprindere de stat, controlată de o autoritate regională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejný podnik pod kontrolou regionálneho orgánu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Javno podjetje, ki ga obvladuje regionalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligt företag som kontrolleras av en regional myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert-la",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pub-undert-la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pub-undert-la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pub-undert-la"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pub-undert-la"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публично предприятие, контролирано от местен орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejný podnik ovládaný místním orgánem"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentlig virksomhed, der styres af en lokal myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Von einer lokalen Gebietskörperschaft kontrolliertes öffentliches Unternehmen"
+      },
+      {
+        "@language": "el",
+        "@value": "Δημόσια επιχείρηση που τελεί υπό τον έλεγχο τοπικής αρχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Public undertaking, controlled by a local authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Empresa pública bajo el control de una autoridad local"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohaliku omavalitsuse kontrollitav riigi osalusega äriühing"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkinen yritys, joka on paikallisviranomaisen määräysvallassa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entreprise publique, contrôlée par une autorité locale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gnóthas poiblí atá faoi rialú údaráis áitiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Javno poduzeće koje nadzire lokalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Helyi szerv által ellenőrzött közvállalkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Impresa pubblica controllata da un'autorità locale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valstybinė įmonė, kontroliuojama vietos valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisks uzņēmums, ko kontrolē vietējās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Impriża pubblika, ikkontrollata minn awtorità lokali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overheidsonderneming onder zeggenschap van een lokale overheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przedsiębiorstwo publiczne kontrolowane przez instytucję lokalną"
+      },
+      {
+        "@language": "pt",
+        "@value": "Empresa pública, controlada por uma autoridade local"
+      },
+      {
+        "@language": "ro",
+        "@value": "Întreprindere de stat, controlată de o autoritate locală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejný podnik pod kontrolou miestneho orgánu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Javno podjetje, ki ga obvladuje lokalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligt företag som kontrolleras av en lokal myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/body-pl-ra",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "body-pl-ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "body-pl-ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "body-pl-ra"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "body-pl-ra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публичноправна организация, контролирана от регионален орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejnoprávní subjekt ovládaný regionálním orgánem"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentligretligt organ, der styres af en regional myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Von einer regionalen Gebietskörperschaft kontrollierte Einrichtung des öffentlichen Rechts"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός δημοσίου δικαίου που τελεί υπό τον έλεγχο περιφερειακής αρχής"
+      },
+      {
+        "@language": "en",
+        "@value": "Body governed by public law, controlled by a regional authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organismo de Derecho público bajo el control de una autoridad regional"
+      },
+      {
+        "@language": "et",
+        "@value": "Piirkondliku omavalitsuse kontrollitav avalik-õiguslik isik"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkisoikeudellinen yhteisö, joka on alueviranomaisen määräysvallassa"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisme de droit public, contrôlé par une autorité régionale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Comhlacht dlí phoiblí atá faoi rialú údaráis réigiúnaigh"
+      },
+      {
+        "@language": "hr",
+        "@value": "Tijelo koje se uređuje javnim pravom, koje nadzire regionalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Regionális szerv által ellenőrzött közjogi intézmény"
+      },
+      {
+        "@language": "it",
+        "@value": "Organismo di diritto pubblico controllato da un'autorità regionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Viešosios teisės reglamentuojama įstaiga, kontroliuojama regioninės valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publisko tiesību subjekts, ko kontrolē reģionālās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Korp irregolat bil-liġi pubblika, ikkontrollat minn awtorità reġjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Publiekrechtelijke instelling onder zeggenschap van een regionale overheid"
+      },
+      {
+        "@language": "pl",
+        "@value": "Podmiot prawa publicznego kontrolowany przez instytucję regionalną"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organismo de direito público, controlado por uma autoridade regional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organism de drept public, controlat de o autoritate regională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejnoprávna inštitúcia pod kontrolou regionálneho orgánu"
+      },
+      {
+        "@language": "sl",
+        "@value": "Oseba javnega prava, ki jo obvladuje regionalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligrättsligt organ som kontrolleras av en regional myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/cga",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "cga"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "cga"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "cga"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Орган на централната власт"
+      },
+      {
+        "@language": "cs",
+        "@value": "Ústřední orgán státní správy"
+      },
+      {
+        "@language": "da",
+        "@value": "Central regeringsmyndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Zentrale Regierungsbehörde"
+      },
+      {
+        "@language": "el",
+        "@value": "Αρχή κεντρικής κυβέρνησης"
+      },
+      {
+        "@language": "en",
+        "@value": "Central government authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Autoridad estatal"
+      },
+      {
+        "@language": "et",
+        "@value": "Keskvalitsusasutus"
+      },
+      {
+        "@language": "fi",
+        "@value": "Keskushallinnon viranomainen"
+      },
+      {
+        "@language": "fr",
+        "@value": "Autorité publique centrale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Údarás de chuid an rialtais láir"
+      },
+      {
+        "@language": "hr",
+        "@value": "Središnje tijelo državne uprave"
+      },
+      {
+        "@language": "hu",
+        "@value": "Központi kormányzati szerv"
+      },
+      {
+        "@language": "it",
+        "@value": "Autorità governativa centrale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Centrinės valdžios institucija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Centrālās pārvaldes iestāde"
+      },
+      {
+        "@language": "mt",
+        "@value": "Awtorità tal-gvern ċentrali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Centrale overheidsinstantie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja administracji centralnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Autoridade da administração central"
+      },
+      {
+        "@language": "ro",
+        "@value": "Autoritate guvernamentală centrală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Orgán ústrednej štátnej správy"
+      },
+      {
+        "@language": "sl",
+        "@value": "Osrednji državni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Statlig myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "org-sub"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "org-sub"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "org-sub"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "org-sub"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която възлага поръчка, субсидирана от възлагащ орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace zadávající zakázku dotovanou veřejným zadavatelem"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der tildeler en kontrakt, som modtager subsidier fra en ordregivende myndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die einen durch einen öffentlichen Auftraggeber subventionierten Auftrag vergibt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από αναθέτουσα αρχή"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation awarding a contract subsidised by a contracting authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que concede un contrato subvencionado por un poder adjudicador"
+      },
+      {
+        "@language": "et",
+        "@value": "Hankija subsideeritavat lepingut sõlmiv organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Hankintaviranomaisen subventoiman sopimuksen tekevä organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui passe un marché subventionné par un pouvoir adjudicateur"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás conarthachta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja dodjeljuje ugovor koji subvencionira javni naručitelj"
+      },
+      {
+        "@language": "hu",
+        "@value": "Ajánlatkérő szerv által támogatott szerződést odaítélő szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che aggiudica un appalto sovvenzionato da un'amministrazione aggiudicatrice"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, skirianti sutartį, subsidijuojamą perkančiosios organizacijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas piešķir līgumslēdzējas iestādes subsidētu līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità kontraenti"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die een door een aanbestedende dienst gesubsidieerde opdracht gunt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca zamówienia dotowanego przez instytucję zamawiającą"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que adjudica um contrato subvencionado por uma autoridade adjudicante"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație care atribuie un contract subvenționat de o autoritate contractantă"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia, ktorá zadáva zákazku subvencovanú verejným obstarávateľom"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacijo, ki oddaja naročilo, subvencionira javni naročnik"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tilldelar ett kontrakt som subventioneras av en upphandlande myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/eu-int-org",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "eu-int-org"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "true"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/end.use": [
+      {
+        "@value": "2019-09-17"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "eu-int-org"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-16"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "eu-int-org"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "eu-int-org"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Европейска институция/агенция или международна организация"
+      },
+      {
+        "@language": "cs",
+        "@value": "Evropská instituce/agentura nebo mezinárodní organizace"
+      },
+      {
+        "@language": "da",
+        "@value": "Europæisk institution/agentur eller international organisation"
+      },
+      {
+        "@language": "de",
+        "@value": "Europäische Institution/Agentur oder internationale Organisation"
+      },
+      {
+        "@language": "el",
+        "@value": "Ευρωπαϊκό θεσμικό όργανο/οργανισμός ή διεθνής οργανισμός"
+      },
+      {
+        "@language": "en",
+        "@value": "European Institution/Agency or International Organisation"
+      },
+      {
+        "@language": "es",
+        "@value": "Institución/organismo descentralizado europeo u organización internacional"
+      },
+      {
+        "@language": "et",
+        "@value": "Euroopa Liidu institutsioon või rahvusvaheline organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n toimielin/virasto tai kansainvälinen organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Institution/agence européenne ou organisation internationale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Institiúid/Gníomhaireacht Eorpach nó Eagraíocht Idirnáisiúnta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Europska institucija/agencija ili međunarodna organizacija"
+      },
+      {
+        "@language": "hu",
+        "@value": "Európai intézmény/ügynökség vagy nemzetközi szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Istituzione/agenzia europea o organizzazione internazionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Eiropas institūcija/aģentūra vai starptautiska organizācija"
+      },
+      {
+        "@language": "lv",
+        "@value": "Europos institucija arba agentūra ar tarptautinė organizacija"
+      },
+      {
+        "@language": "mt",
+        "@value": "Istituzzjoni/Aġenzija Ewropea jew Organizzazzjoni Internazzjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Europese instelling/Europees agentschap of internationale organisatie"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja/agencja europejska lub organizacja międzynarodowa"
+      },
+      {
+        "@language": "pt",
+        "@value": "Instituição Europeia/Agência ou organização internacional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Instituţie/agenţie europeană sau organizaţie internaţională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Európska inštitúcia/agentúra alebo medzinárodná organizácia"
+      },
+      {
+        "@language": "sl",
+        "@value": "Evropska institucija/agencija ali mednarodna organizacija"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU-institution/organ eller internationell organisation"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-la",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "org-sub-la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "org-sub-la"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "org-sub-la"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "org-sub-la"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която възлага поръчка, субсидирана от местен орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace zadávající zakázku dotovanou místním orgánem"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der tildeler en kontrakt, som modtager subsidier fra lokal regeringsmyndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die einen durch eine lokale Gebietskörperschaft subventionierten Auftrag vergibt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από τοπική αρχή"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation awarding a contract subsidised by a local authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que concede un contrato subvencionado por una autoridad local"
+      },
+      {
+        "@language": "et",
+        "@value": "Kohaliku omavalitsuse subsideeritavat lepingut sõlmiv organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Paikallisviranomaisen subventoiman sopimuksen tekevä organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui passe un marché subventionné par une autorité locale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás áitiúil"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja dodjeljuje ugovor koji subvencionira lokalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Helyi kormányzati szerv által támogatott szerződést odaítélő szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che aggiudica un appalto sovvenzionato da un'autorità locale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, skirianti sutartį, subsidijuojamą vietos valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas piešķir vietējas iestādes subsidētu līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità lokali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die een door een lokale overheid gesubsidieerde opdracht gunt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca zamówienia dotowanego przez instytucję administracji lokalnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que adjudica um contrato subvencionado por uma autoridade local"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație care atribuie un contract subvenționat de o autoritate locală"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia, ktorá zadáva zákazku subvencovanú miestnym orgánom"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacijo, ki oddaja naročilo, subvencionira lokalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tilldelar ett kontrakt som subventioneras av en lokal myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/def-cont",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "def-cont"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "def-cont"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "def-cont"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "def-cont"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Изпълнител от областта на отбраната"
+      },
+      {
+        "@language": "cs",
+        "@value": "Zadavatel, zhotovitel, dodavatel nebo poskytovatel služeb v oblasti obrany"
+      },
+      {
+        "@language": "da",
+        "@value": "Entreprenør på forsvarsområdet"
+      },
+      {
+        "@language": "de",
+        "@value": "Auftragnehmer im Bereich Verteidigung"
+      },
+      {
+        "@language": "el",
+        "@value": "Ανάδοχος στον τομέα της άμυνας"
+      },
+      {
+        "@language": "en",
+        "@value": "Defence contractor"
+      },
+      {
+        "@language": "es",
+        "@value": "Contratista de defensa"
+      },
+      {
+        "@language": "et",
+        "@value": "Kaitsevaldkonna töövõtja"
+      },
+      {
+        "@language": "fi",
+        "@value": "Puolustusalan toimeksisaaja"
+      },
+      {
+        "@language": "fr",
+        "@value": "Contractant du secteur de la défense"
+      },
+      {
+        "@language": "ga",
+        "@value": "Conraitheoir cosanta"
+      },
+      {
+        "@language": "hr",
+        "@value": "Ugovaratelj u području obrane"
+      },
+      {
+        "@language": "hu",
+        "@value": "Védelmi vállalkozó"
+      },
+      {
+        "@language": "it",
+        "@value": "Appaltatore nel settore della difesa"
+      },
+      {
+        "@language": "lt",
+        "@value": "Gynybos sektoriaus rangovas"
+      },
+      {
+        "@language": "lv",
+        "@value": "Aizsardzības darbuzņēmējs"
+      },
+      {
+        "@language": "mt",
+        "@value": "Kuntrattur tad-difiża"
+      },
+      {
+        "@language": "nl",
+        "@value": "Contractant op defensiegebied"
+      },
+      {
+        "@language": "pl",
+        "@value": "Kontrahent w sektorze obronności"
+      },
+      {
+        "@language": "pt",
+        "@value": "Contratante do domínio da defesa"
+      },
+      {
+        "@language": "ro",
+        "@value": "Contractant din domeniul apărării"
+      },
+      {
+        "@language": "sk",
+        "@value": "Dodávateľ v oblasti obrany"
+      },
+      {
+        "@language": "sl",
+        "@value": "Izvajalec na področju obrambe"
+      },
+      {
+        "@language": "sv",
+        "@value": "Uppdragstagare på försvarsområdet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/org-sub-ra",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "org-sub-ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "org-sub-ra"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "org-sub-ra"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "org-sub-ra"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Организация, която възлага поръчка, субсидирана от регионален орган"
+      },
+      {
+        "@language": "cs",
+        "@value": "Organizace zadávající zakázku dotovanou regionálním orgánem"
+      },
+      {
+        "@language": "da",
+        "@value": "Organisation, der tildeler en kontrakt, som modtager subsidier fra regional regeringsmyndighed"
+      },
+      {
+        "@language": "de",
+        "@value": "Organisation, die einen durch eine regionale Gebietskörperschaft subventionierten Auftrag vergibt"
+      },
+      {
+        "@language": "el",
+        "@value": "Οργανισμός που αναθέτει σύμβαση επιδοτούμενη από περιφερειακή αρχή"
+      },
+      {
+        "@language": "en",
+        "@value": "Organisation awarding a contract subsidised by a regional authority"
+      },
+      {
+        "@language": "es",
+        "@value": "Organización que concede un contrato subvencionado por una autoridad regional"
+      },
+      {
+        "@language": "et",
+        "@value": "Piirkondliku omavalitsuse subsideeritavat lepingut sõlmiv organisatsioon"
+      },
+      {
+        "@language": "fi",
+        "@value": "Alueviranomaisen subventoiman sopimuksen tekevä organisaatio"
+      },
+      {
+        "@language": "fr",
+        "@value": "Organisation qui passe un marché subventionné par une autorité régionale"
+      },
+      {
+        "@language": "ga",
+        "@value": "Eagraíocht atá ag dámhachtain conradh atá fóirdheonaithe ag údarás réigiúnach"
+      },
+      {
+        "@language": "hr",
+        "@value": "Organizacija koja dodjeljuje ugovor koji subvencionira regionalno tijelo"
+      },
+      {
+        "@language": "hu",
+        "@value": "Regionális kormányzati szerv által támogatott szerződést odaítélő szervezet"
+      },
+      {
+        "@language": "it",
+        "@value": "Organizzazione che aggiudica un appalto sovvenzionato da un'autorità regionale"
+      },
+      {
+        "@language": "lt",
+        "@value": "Organizacija, skirianti sutartį, subsidijuojamą regioninės valdžios institucijos"
+      },
+      {
+        "@language": "lv",
+        "@value": "Organizācija, kas piešķir reģionālas iestādes subsidētu līgumu"
+      },
+      {
+        "@language": "mt",
+        "@value": "Organizzazzjoni li tagħti kuntratt issussidjat minn awtorità reġjonali"
+      },
+      {
+        "@language": "nl",
+        "@value": "Organisatie die een door een regionale overheid gesubsidieerde opdracht gunt"
+      },
+      {
+        "@language": "pl",
+        "@value": "Organizacja udzielająca zamówienia dotowanego przez instytucję administracji regionalnej"
+      },
+      {
+        "@language": "pt",
+        "@value": "Organização que adjudica um contrato subvencionado por uma autoridade regional"
+      },
+      {
+        "@language": "ro",
+        "@value": "Organizație care atribuie un contract subvenționat de o autoritate regională"
+      },
+      {
+        "@language": "sk",
+        "@value": "Organizácia, ktorá zadáva zákazku subvencovanú regionálnym orgánom"
+      },
+      {
+        "@language": "sl",
+        "@value": "Organizacijo, ki oddaja naročilo, subvencionira regionalni organ"
+      },
+      {
+        "@language": "sv",
+        "@value": "Organisation som tilldelar ett kontrakt som subventioneras av en regional myndighet"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/pub-undert",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "pub-undert"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "pub-undert"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "pub-undert"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "pub-undert"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Публично предприятие"
+      },
+      {
+        "@language": "cs",
+        "@value": "Veřejný podnik"
+      },
+      {
+        "@language": "da",
+        "@value": "Offentlig virksomhed"
+      },
+      {
+        "@language": "de",
+        "@value": "Öffentliches Unternehmen"
+      },
+      {
+        "@language": "el",
+        "@value": "Δηµόσια επιχείρηση"
+      },
+      {
+        "@language": "en",
+        "@value": "Public undertaking"
+      },
+      {
+        "@language": "es",
+        "@value": "Empresa pública"
+      },
+      {
+        "@language": "et",
+        "@value": "Riigi osalusega äriühing"
+      },
+      {
+        "@language": "fi",
+        "@value": "Julkinen yritys"
+      },
+      {
+        "@language": "fr",
+        "@value": "Entreprise publique"
+      },
+      {
+        "@language": "ga",
+        "@value": "Gnóthas poiblí"
+      },
+      {
+        "@language": "hr",
+        "@value": "Javno poduzeće"
+      },
+      {
+        "@language": "hu",
+        "@value": "Közvállalkozás"
+      },
+      {
+        "@language": "it",
+        "@value": "Impresa pubblica"
+      },
+      {
+        "@language": "lt",
+        "@value": "Valstybinė įmonė"
+      },
+      {
+        "@language": "lv",
+        "@value": "Publiskais uzņēmums"
+      },
+      {
+        "@language": "mt",
+        "@value": "Impriża pubblika"
+      },
+      {
+        "@language": "nl",
+        "@value": "Overheidsonderneming"
+      },
+      {
+        "@language": "pl",
+        "@value": "Przedsiębiorstwo publiczne"
+      },
+      {
+        "@language": "pt",
+        "@value": "Empresa pública"
+      },
+      {
+        "@language": "ro",
+        "@value": "Întreprindere de stat"
+      },
+      {
+        "@language": "sk",
+        "@value": "Verejný podnik"
+      },
+      {
+        "@language": "sl",
+        "@value": "Javno podjetje"
+      },
+      {
+        "@language": "sv",
+        "@value": "Offentligt företag"
+      }
+    ]
+  },
+  {
+    "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type/eu-ins-bod-ag",
+    "@type": [
+      "http://www.w3.org/2004/02/skos/core#Concept"
+    ],
+    "http://publications.europa.eu/ontology/authority/authority-code": [
+      {
+        "@value": "eu-ins-bod-ag"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/deprecated": [
+      {
+        "@value": "false"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/op-code": [
+      {
+        "@value": "eu-ins-bod-ag"
+      }
+    ],
+    "http://publications.europa.eu/ontology/authority/start.use": [
+      {
+        "@value": "2019-09-18"
+      }
+    ],
+    "http://publications.europa.eu/resource/authority/op-code": [
+      {
+        "@value": "eu-ins-bod-ag"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/identifier": [
+      {
+        "@value": "eu-ins-bod-ag"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#inScheme": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/buyer-legal-type"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#prefLabel": [
+      {
+        "@language": "bg",
+        "@value": "Институция, орган или агенция на ЕС"
+      },
+      {
+        "@language": "cs",
+        "@value": "Instituce, orgán nebo agentura EU"
+      },
+      {
+        "@language": "da",
+        "@value": "EU-institution, organ eller agentur"
+      },
+      {
+        "@language": "de",
+        "@value": "EU-Institution, -Einrichtung oder -Agentur"
+      },
+      {
+        "@language": "el",
+        "@value": "Θεσμικό όργανο, όργανο ή οργανισμός της ΕΕ"
+      },
+      {
+        "@language": "en",
+        "@value": "EU institution, body or agency"
+      },
+      {
+        "@language": "es",
+        "@value": "Institución, órgano o agencia de la UE"
+      },
+      {
+        "@language": "et",
+        "@value": "ELi institutsioon, organ või amet"
+      },
+      {
+        "@language": "fi",
+        "@value": "EU:n toimielin, elin tai virasto"
+      },
+      {
+        "@language": "fr",
+        "@value": "Institution, organe ou agence de l’UE"
+      },
+      {
+        "@language": "ga",
+        "@value": "﻿Institiúid, comhlact nó gníomhaireacht de chuid an AE"
+      },
+      {
+        "@language": "hr",
+        "@value": "Institucija, tijelo ili agencija EU-a"
+      },
+      {
+        "@language": "hu",
+        "@value": "EU-intézmény, -szerv vagy -ügynökség"
+      },
+      {
+        "@language": "it",
+        "@value": "Istituzione, organo o agenzia dell’UE"
+      },
+      {
+        "@language": "lt",
+        "@value": "ES institucija, įstaiga ar agentūra"
+      },
+      {
+        "@language": "lv",
+        "@value": "ES iestāde, struktūra vai aģentūra"
+      },
+      {
+        "@language": "mt",
+        "@value": "Istituzzjoni, korp jew aġenzija tal-UE"
+      },
+      {
+        "@language": "nl",
+        "@value": "EU-instelling, -orgaan of -agentschapp"
+      },
+      {
+        "@language": "pl",
+        "@value": "Instytucja, organ lub agencja UE"
+      },
+      {
+        "@language": "pt",
+        "@value": "Instituição, órgão ou agência da UE"
+      },
+      {
+        "@language": "ro",
+        "@value": "Instituție, organ sau agenție a UE"
+      },
+      {
+        "@language": "sk",
+        "@value": "Inštitúcia, orgán alebo agentúra EÚ"
+      },
+      {
+        "@language": "sl",
+        "@value": "Institucija, organ ali agencija EU"
+      },
+      {
+        "@language": "sv",
+        "@value": "EU-institution, organ eller byrå"
+      }
+    ]
+  }
+]

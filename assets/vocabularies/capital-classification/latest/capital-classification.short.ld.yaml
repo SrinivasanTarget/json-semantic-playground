@@ -1,0 +1,39 @@
+'@context':
+  '@vocab': http://publications.europa.eu/ontology/authority/
+  country_code:
+    '@id': dct:identifier
+  dct: http://purl.org/dc/elements/1.1/
+  deprecated: {}
+  key: &id001
+    '@id': op-code
+  label_en:
+    '@id': skos:prefLabel
+    '@language': en
+  label_it:
+    '@id': skos:prefLabel
+    '@language': it
+  op_code: *id001
+  owl: http://www.w3.org/2002/07/owl#
+  skos: http://www.w3.org/2004/02/skos/core#
+  url: '@id'
+  valid_from: start.use
+  valid_until: end.use
+  version_info: owl:versionInfo
+'@graph':
+- country_code: CAP_COU
+  deprecated: 'false'
+  key: CAP_COU
+  label_en: Country capital
+  url: http://publications.europa.eu/resource/authority/capital-classification/CAP_COU
+  valid_from: '1952-07-23'
+- country_code: CAP_NON
+  deprecated: 'false'
+  key: CAP_NON
+  label_en: Non-capital
+  url: http://publications.europa.eu/resource/authority/capital-classification/CAP_NON
+  valid_from: '1952-07-23'
+- country_code: OP_DATPRO
+  key: OP_DATPRO
+  label_en: Provisional data
+  label_it: Dati provvisori
+  url: http://publications.europa.eu/resource/authority/capital-classification/OP_DATPRO
